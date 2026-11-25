@@ -1,0 +1,67 @@
+{"id":"pc_button_hint:107374182656","locale":"jp","text":"料理を<color=#96F9FF>長押し</color>すると、ドラッグしてスナックバッグに出し入れできる。<actionkey>PageBag/PageBagShift</actionkey> +<actionkey>UI/Click</actionkey> で料理を半分取り出せる。"}
+{"id":"pc_button_hint:115964117248","locale":"jp","text":"召喚 <actionkey>KiBoSummon/ConfirmKiBo</actionkey>"}
+{"id":"pc_button_hint:120259084544","locale":"jp","text":"選択解除 <actionkey>KiBoSummon/CancelKiBo</actionkey>"}
+{"id":"pc_button_hint:124554051840","locale":"jp","text":"スキル発動 <actionkey>KiBoDuelSkill/ConfirmKiBoSkill</actionkey>"}
+{"id":"pc_button_hint:128849019136","locale":"jp","text":"スキル発動キャンセル <actionkey>KiBoDuelSkill/CancelKiBoSkill</actionkey>"}
+{"id":"pc_button_hint:12884902144","locale":"jp","text":"配置キャンセル <actionkey>UI/Cancel</actionkey>"}
+{"id":"pc_button_hint:133143986432","locale":"jp","text":"星絆 <actionkey>RealTimePetCatch/MainKiboCatchShoot</actionkey>"}
+{"id":"pc_button_hint:137438953728","locale":"jp","text":"素早く切り替え <actionkey>PageBattlePetCath/MainPetCatchLeft</actionkey> /<actionkey>PageBattlePetCath/MainPetCatchRight</actionkey>"}
+{"id":"pc_button_hint:141733921024","locale":"jp","text":"星絆モードを終了 <actionkey>RealTimePetCatch/MainPetCatch</actionkey>"}
+{"id":"pc_button_hint:146028888320","locale":"jp","text":"キボを<color=#96F9FF>長押し</color>するとドラッグして位置を変更できる"}
+{"id":"pc_button_hint:150323855616","locale":"jp","text":"キャラクター／キボを<color=#96F9FF>長押し</color>でドラッグして編成可能"}
+{"id":"pc_button_hint:154618822912","locale":"jp","text":"寮を出る <actionkey>MainInput/MainOpenHome</actionkey>"}
+{"id":"pc_button_hint:158913790208","locale":"jp","text":"レンズを切り替え 長押し<actionkey>PageBattlePetCath/MainPetCatchUseBuffItem4</actionkey>"}
+{"id":"pc_button_hint:163208757504","locale":"jp","text":"星巣から離れる<actionkey>UI/Cancel</actionkey>"}
+{"id":"pc_button_hint:167503724800","locale":"jp","text":"観戦モード中、<actionkey>UI/Cancel</actionkey> を押して観戦を終了すると、報酬を受け取れる。"}
+{"id":"pc_button_hint:171798692096","locale":"jp","text":"観戦モード中に終了を選択すると、報酬を受け取れる。"}
+{"id":"pc_button_hint:17179869440","locale":"jp","text":"倉庫に収納 <actionkey>PagePlayerEditInput/HomeBuildingGarbage</actionkey>"}
+{"id":"pc_button_hint:176093659392","locale":"jp","text":"土壌効果を表示 <actionkey>PageHomeCropEditor/HomeEditorFarmlandEffectTip</actionkey>"}
+{"id":"pc_button_hint:180388626688","locale":"jp","text":"土壌効果の表示を閉じる <actionkey>PageHomeCropEditor/HomeEditorFarmlandEffectTip</actionkey>"}
+{"id":"pc_button_hint:193273528576","locale":"jp","text":"農園本部 <actionkey>MainInput/PageHomeCenter</actionkey>"}
+{"id":"pc_button_hint:197568495872","locale":"jp","text":"<actionkey>PageHomeExchangeSell/PageHomeExchangeSellShift</actionkey> +<actionkey>UI/Click</actionkey> を<color=#96F9FF>長押し</color>すると半分を取り出す。<actionkey>PageHomeExchangeSell/PageHomeExchangeSellCtrl</actionkey> +<actionkey>UI/Click</actionkey> を<color=#96F9FF>長押し</color>すると全部取り出す。"}
+{"id":"pc_button_hint:201863463168","locale":"jp","text":"農園を離れる <actionkeyhold>GamepadUI/MainInput_LeaveHome</actionkeyhold>長押し"}
+{"id":"pc_button_hint:206158430464","locale":"jp","text":"<actionkey>MainInput/MainPetSkillRoulette</actionkey> を<color=#96F9FF>押す</color>とキボホイールが開き、より多くのキボスキルを素早く使用できる"}
+{"id":"pc_button_hint:210453397760","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> を<color=#96F9FF>押す</color>とキボスキルを使って謎解きできる"}
+{"id":"pc_button_hint:214748365056","locale":"jp","text":"ステラカードを切り替え <actionkey>RealTimePetCatch/MainMouseScroll</actionkey>"}
+{"id":"pc_button_hint:21474836736","locale":"jp","text":"耕作開始 <actionkey>MainInput/MainSkill</actionkey>"}
+{"id":"pc_button_hint:25769804032","locale":"jp","text":"取り除く <actionkey>MainInput/MainUltimateSkill</actionkey>"}
+{"id":"pc_button_hint:30064771328","locale":"jp","text":"農園を出る <actionkey>MainInput/MainOpenHome</actionkey>"}
+{"id":"pc_button_hint:34359738624","locale":"jp","text":"耕作 <actionkey>PageHomeCropEditor/HomeEditorPlace</actionkey>"}
+{"id":"pc_button_hint:38654705920","locale":"jp","text":"復元 <actionkey>PageHomeCropEditor/HomeEditorReturn</actionkey>"}
+{"id":"pc_button_hint:42949673216","locale":"jp","text":"耕作を終了 <actionkey>UI/Cancel</actionkey>"}
+{"id":"pc_button_hint:4294967552","locale":"jp","text":"配置 <actionkey>PagePlayerEditInput/HomePlayerBuilding</actionkey>"}
+{"id":"pc_button_hint:47244640512","locale":"jp","text":"キボを召喚 <actionkey>MainInput/MainHideShowPet</actionkey>"}
+{"id":"pc_button_hint:51539607808","locale":"jp","text":"キボを呼び戻す <actionkey>MainInput/MainHideShowPet</actionkey>"}
+{"id":"pc_button_hint:55834575104","locale":"jp","text":"離陸 <actionkeydouble>MainInput/MainFlyUp</actionkeydouble>を2回押す"}
+{"id":"pc_button_hint:60129542400","locale":"jp","text":"高度アップ <actionkey>MainInput/MainFlyUp</actionkey>"}
+{"id":"pc_button_hint:64424509696","locale":"jp","text":"高度ダウン <actionkey>MainInput/MainFlyFall</actionkey>"}
+{"id":"pc_button_hint:68719476992","locale":"jp","text":"キボに乗る <actionkey>MainInput/MainCallMount</actionkey>"}
+{"id":"pc_button_hint:73014444288","locale":"jp","text":"キボから降りる<actionkey>MainInput/MainCallMount</actionkey>"}
+{"id":"pc_button_hint:77309411584","locale":"jp","text":"マウント管理（長押し）<actionkeyhold>MainInput/MainMountRoulette</actionkeyhold>"}
+{"id":"pc_button_hint:81604378880","locale":"jp","text":"キボとスターリンク <actionkey>MainInput/MainPetCatch</actionkey>"}
+{"id":"pc_button_hint:85899346176","locale":"jp","text":"エモート <actionkey>MainInput/MainSocialRoulette</actionkey>"}
+{"id":"pc_button_hint:8589934848","locale":"jp","text":"向きを変更 <actionkey>GamepadUI/PagePlayerEditInput_RotateCCW</actionkey> <actionkey>PagePlayerEditInput/HomePlayerRotate</actionkey>"}
+{"id":"pc_button_hint:863288426752","locale":"jp","text":"スターリンクデッキ切り替え<actionkey>D-Pad/UpDown</actionkey>"}
+{"id":"pc_button_hint:867583394048","locale":"jp","text":"ステラカード切り替え <actionkey>D-Pad/LeftRight</actionkey>"}
+{"id":"pc_button_hint:871878361344","locale":"jp","text":"星絆モードを終了 <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
+{"id":"pc_button_hint:876173328640","locale":"jp","text":"マップ<actionkey>MainInput/MainOpenMap</actionkey>"}
+{"id":"pc_button_hint:880468295936","locale":"jp","text":"クイックホイール<actionkey>GamepadUI/MainInput_ControllerQuickRoulette</actionkey>"}
+{"id":"pc_button_hint:884763263232","locale":"jp","text":"通常攻撃<actionkey>MainInput/MainAttack</actionkey>"}
+{"id":"pc_button_hint:889058230528","locale":"jp","text":"チャージ攻撃 <actionkeyhold>MainInput/MainAttack</actionkeyhold>長押し"}
+{"id":"pc_button_hint:893353197824","locale":"jp","text":"カメラ回転<actionkey>KiBoDuel/ArenaRotateCamera</actionkey>"}
+{"id":"pc_button_hint:897648165120","locale":"jp","text":"カメラズーム<actionkey>KiBoDuel/MainMouseScroll</actionkey>"}
+{"id":"pc_button_hint:901943132416","locale":"jp","text":"エモート <actionkey>GamepadUI/MainInput_ControllerQuickRoulette</actionkey>"}
+{"id":"pc_button_hint:90194313472","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> を<color=#96F9FF>押して</color>、キボのスキルを使って謎解きする"}
+{"id":"pc_button_hint:906238099712","locale":"jp","text":"カーソル移動<actionkey>LS</actionkey>"}
+{"id":"pc_button_hint:910533067008","locale":"jp","text":"クロディーメを数える<actionkey>GamepadUI/GamepadUI_South</actionkey>"}
+{"id":"pc_button_hint:914828034304","locale":"jp","text":"カメラ回転<actionkey>RS/LeftRight</actionkey>"}
+{"id":"pc_button_hint:919123001600","locale":"jp","text":"カメラズーム<actionkey>RS/UpDown</actionkey>"}
+{"id":"pc_button_hint:923417968896","locale":"jp","text":"キボの召喚<actionkey>UI/Submit</actionkey>"}
+{"id":"pc_button_hint:927712936192","locale":"jp","text":"キボの位置調整<actionkey>LS</actionkey>"}
+{"id":"pc_button_hint:932007903488","locale":"jp","text":"出撃決定<actionkey>UI/Submit</actionkey>"}
+{"id":"pc_button_hint:936302870784","locale":"jp","text":"召喚キャンセル<actionkey>UI/Cancel</actionkey>"}
+{"id":"pc_button_hint:940597838080","locale":"jp","text":"耕作を終了 <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
+{"id":"pc_button_hint:944892805376","locale":"jp","text":"配置キャンセル <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
+{"id":"pc_button_hint:94489280768","locale":"jp","text":"<color=#96F9FF>長押し</color><actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold>してキボホイールを開くと、より多くのキボスキルを素早く使用できる"}
+{"id":"pc_button_hint:949187772672","locale":"jp","text":"寮を出る 長押し<actionkeyhold>GamepadUI/MainInput_LeaveHome</actionkeyhold>"}
+{"id":"pc_button_hint:98784248064","locale":"jp","text":"種を<color=#96F9FF>長押し</color>するとドラッグできる。<actionkey>PageBag/PageBagShift</actionkey> +<actionkey>UI/Click</actionkey> で種を半分取る"}

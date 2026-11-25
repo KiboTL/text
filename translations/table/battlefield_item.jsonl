@@ -1,0 +1,189 @@
+{"id":"battlefield_item:1288524548539392","en":"BW Sunya Corruption","ru":"BW Скверна Суньи"}
+{"id":"battlefield_item:2019068420817920","en":"Fire Sigil Max Stack Damage","ru":"Огненная печать: урон при макс. стаках"}
+{"id":"battlefield_item:2019497917547520","en":"Thunder Sigil Max Stack Damage","ru":"Громовая печать: урон при макс. стаках"}
+{"id":"battlefield_item:2019927414277120","en":"Ice Sigil Max Stack Damage","ru":"Ледяная печать: урон при макс. стаках"}
+{"id":"battlefield_item:2020356911006720","en":"Dark Sigil Max Stack Damage","ru":"Тёмная печать: урон при макс. стаках"}
+{"id":"battlefield_item:2020786407736320","en":"Nature Sigil Max Stack Damage","ru":"Печать природы: урон при макс. стаках"}
+{"id":"battlefield_item:2021215904465920","en":"Earth Sigil Max Stack Damage","ru":"Земная печать: урон при макс. стаках"}
+{"id":"battlefield_item:2021645401195520","en":"Wind Sigil Max Stack Damage","ru":"Знак ветра: урон при макс. стаках"}
+{"id":"battlefield_item:2022074897925120","en":"Water Sigil Max Stack Damage","ru":"Водная печать: урон при макс. стаках"}
+{"id":"battlefield_item:2022504394654720","en":"Light Mark Max Stack Damage","ru":"Метка света: урон при макс. стаках"}
+{"id":"battlefield_item:2022508689622016","en":"Light Mark Max Stack Damage","ru":"Метка света: урон при макс. стаках"}
+{"id":"battlefield_item:2061760395740160","en":"Metsa's Energy Recovery Orb","ru":"Сфера восстановления энергии Метсы"}
+{"id":"battlefield_item:2061764690707456","en":"Metsa's HP Recovery Orb","ru":"Сфера восстановления ОЗ Метсы"}
+{"id":"battlefield_item:2061768985674752","en":"Symphoria_Ultimate","ru":"Симфория_Высшее искусство"}
+{"id":"battlefield_item:2061820525282304","en":"Minamoto Chiyo_Will-o'-Wisp Blast","ru":"Минамото Тиё_Взрыв блуждающего огонька"}
+{"id":"battlefield_item:2061824820249600","en":"Symphoria_Aura Skill","ru":"Симфория_Навык ауры"}
+{"id":"battlefield_item:2061833410184192","en":"Minamoto Chiyo_Ultimate Ground Flame","ru":"Минамото Тиё_Высшее искусство: пламя земли"}
+{"id":"battlefield_item:2061837705151488","en":"Han Youyou Normal Attack4 Shot","ru":"Хань Юю Обычная атака4: выстрел"}
+{"id":"battlefield_item:2061842000118784","en":"Han Youyou Normal Attack5 Shot","ru":"Хань Юю Обычная атака5: выстрел"}
+{"id":"battlefield_item:2061846295086080","en":"Luruka Owl Tuning1","ru":"Лурука Настройка совы1"}
+{"id":"battlefield_item:2061850590053376","en":"Mitty Normal Attack3","ru":"Митти Обычная атака3"}
+{"id":"battlefield_item:2061854885020672","en":"Mitty Normal Attack4","ru":"Митти Обычная атака4"}
+{"id":"battlefield_item:2061859179987968","en":"Mitty Normal Attack5","ru":"Митти Обычная атака5"}
+{"id":"battlefield_item:2061863474955264","en":"Mitty Normal Attack4 Backup","ru":"Митти Обычная атака4: поддержка"}
+{"id":"battlefield_item:2061867769922560","en":"Luruka Starecho Skill - Rabbit","ru":"Лурука Навык звёздного эха — кролик"}
+{"id":"battlefield_item:2061872064889856","en":"Minor Dire Beast Skill","ru":"Навык малого лютого зверя"}
+{"id":"battlefield_item:2061876359857152","en":"Luruka Owl Tuning0","ru":"Лурука Настройка совы0"}
+{"id":"battlefield_item:2061880654824448","en":"Terara-Ultimate Ground Burn","ru":"Терара-Высшее искусство: горение земли"}
+{"id":"battlefield_item:2061884949791744","en":"Nono Field","ru":"Поле Ноно"}
+{"id":"battlefield_item:2061889244759040","en":"Bubble","ru":"Пузырь"}
+{"id":"battlefield_item:2061893539726336","en":"Wave","ru":"Волна"}
+{"id":"battlefield_item:2061897834693632","en":"Morwyn Shot1","ru":"Морвин: снаряд1"}
+{"id":"battlefield_item:2061902129660928","en":"Morwyn Shot2","ru":"Морвин: снаряд2"}
+{"id":"battlefield_item:2061906424628224","en":"Morwyn Shot3","ru":"Морвин: снаряд3"}
+{"id":"battlefield_item:2061927899464704","en":"Symphoria_Ultimate Enemy Gathering","ru":"Симфория_Высшее искусство: сбор врагов"}
+{"id":"battlefield_item:2061932194432000","en":"Combat Tutorial Start_Basic Actions","ru":"Начало боевого обучения_Базовые действия"}
+{"id":"battlefield_item:2061936489399296","en":"Combat Tutorial Start_Control Switch","ru":"Начало боевого обучения_Смена управления"}
+{"id":"battlefield_item:2061940784366592","en":"Combat Tutorial Start_Break Introduction","ru":"Начало боевого обучения_Знакомство с прорывом"}
+{"id":"battlefield_item:2061945079333888","en":"Combat Tutorial Start_Sigil EX Mechanics","ru":"Начало боевого обучения_Механика EX-печати"}
+{"id":"battlefield_item:2062035273647104","en":"Enemy Gathering_Shalle","ru":"Сбор врагов_Шалль"}
+{"id":"battlefield_item:2062039568614400","en":"Battle Victory Effect Set","ru":"Набор эффектов победы в бою"}
+{"id":"battlefield_item:2062043863581696","en":"Fire Element Levitation Cannon","ru":"Левитирующая пушка элемента огня"}
+{"id":"battlefield_item:2062048158548992","en":"Phantomfly Blade Light","ru":"Призракрыл: свет клинка"}
+{"id":"battlefield_item:2062052453516288","en":"Thorn-tailed Giant Eagle Blade Light","ru":"Гигантский орёл с шипастым хвостом: свет клинка"}
+{"id":"battlefield_item:2062056748483584","en":"Thorn-tailed Giant Eagle Mist Eye Stone","ru":"Гигантский орёл с шипастым хвостом: камень туманного ока"}
+{"id":"battlefield_item:2062061043450880","en":"Phantomfly Great Cyclone - Still","ru":"Призракрыл: великий циклон — покой"}
+{"id":"battlefield_item:2062065338418176","en":"Phantomfly Great Cyclone - Moving","ru":"Призракрыл: великий циклон — движение"}
+{"id":"battlefield_item:2062069633385472","en":"Phantomfly Small Cyclone Stage 1","ru":"Призракрыл: малый циклон, ступень 1"}
+{"id":"battlefield_item:2062073928352768","en":"Phantomfly Small Cyclone Stage 2","ru":"Призракрыл: малый циклон, ступень 2"}
+{"id":"battlefield_item:2062078223320064","en":"Phantomfly Small Cyclone Stage 3","ru":"Призракрыл: малый циклон, ступень 3"}
+{"id":"battlefield_item:2062082518287360","en":"Slam Damage","ru":"Урон от удара сверху"}
+{"id":"battlefield_item:2062091108221952","en":"Faridah Ground Effect","ru":"Фарида: эффект на земле"}
+{"id":"battlefield_item:2062099698156544","en":"Chimera Ultimate - Pull","ru":"Химера: высшее искусство — притяжение"}
+{"id":"battlefield_item:2062103993123840","en":"Chimera Phase Shift - Knockback","ru":"Химера: смена фазы — отбрасывание"}
+{"id":"battlefield_item:2062108288091136","en":"Lily Shield","ru":"Щит Лили"}
+{"id":"battlefield_item:2062112583058432","en":"Han Youyou Field Skill - Enemy Gathering","ru":"Хань Юю: навык поля — сбор врагов"}
+{"id":"battlefield_item:2062116878025728","en":"Han Youyou Charged Attack1 - Bomb Explosion","ru":"Хань Юю: заряженная атака1 — взрыв бомбы"}
+{"id":"battlefield_item:2062121172993024","en":"Han Youyou Charged Attack2 - Bomb Explosion","ru":"Хань Юю: заряженная атака2 — взрыв бомбы"}
+{"id":"battlefield_item:2062125467960320","en":"Han Youyou Charged Attack1 - Fireworks","ru":"Хань Юю: заряженная атака1 — фейерверк"}
+{"id":"battlefield_item:2062129762927616","en":"Minamoto Chiyo Will-o'-Wisp Blade Light1","ru":"Минамото Тиё: свет клинка блуждающего огонька1"}
+{"id":"battlefield_item:2062134057894912","en":"Minamoto Chiyo Will-o'-Wisp Blade Light2","ru":"Минамото Тиё: свет клинка блуждающего огонька2"}
+{"id":"battlefield_item:2062138352862208","en":"Minamoto Chiyo Will-o'-Wisp Blade Light3","ru":"Минамото Тиё: свет клинка блуждающего огонька3"}
+{"id":"battlefield_item:2062142647829504","en":"Minamoto Chiyo Will-o'-Wisp Blade Light4","ru":"Минамото Тиё: свет клинка блуждающего огонька4"}
+{"id":"battlefield_item:2062146942796800","en":"Luruka's Summoned Wolf - Tail Attack","ru":"Призванный волк Луруки — атака хвостом"}
+{"id":"battlefield_item:2062151237764096","en":"Han Youyou Charged Attack2 - Fireworks","ru":"Хань Юю: заряженная атака2 — фейерверк"}
+{"id":"battlefield_item:2062155532731392","en":"Han Youyou's Ultimate - Fireworks","ru":"Высшее искусство Хань Юю — фейерверк"}
+{"id":"battlefield_item:2062159827698688","en":"Luruka_Charged Attack Charge1 Stage","ru":"Лурука_Заряд заряженной атаки, ступень 1"}
+{"id":"battlefield_item:2062164122665984","en":"Luruka_Starecho Skill Attack","ru":"Лурука_атака навыком звёздного эха"}
+{"id":"battlefield_item:2062168417633280","en":"Luruka_Charged Attack Charge 2 Stage","ru":"Лурука_заряд заряженной атаки, ступень 2"}
+{"id":"battlefield_item:2062177007567872","en":"Luruka_Starecho Skill Attack","ru":"Лурука_атака навыком звёздного эха"}
+{"id":"battlefield_item:2062181302535168","en":"Luruka_Starecho Skill Attack","ru":"Лурука_атака навыком звёздного эха"}
+{"id":"battlefield_item:2062185597502464","en":"Luruka_Normal Attack 3 Projectile","ru":"Лурука_снаряд обычной атаки 3"}
+{"id":"battlefield_item:2062189892469760","en":"Lan Xiangzi Coffin","ru":"Лань Сянцзы гроб"}
+{"id":"battlefield_item:2062198482404352","en":"Anais_Starecho Skill Explosion","ru":"Анаис_взрыв навыка звёздного эха"}
+{"id":"battlefield_item:2062207072338944","en":"Lan Xiangzi Coffin","ru":"Лань Сянцзы гроб"}
+{"id":"battlefield_item:2062211367306240","en":"Lan Xiangzi Formation Talisman","ru":"Лань Сянцзы формационный талисман"}
+{"id":"battlefield_item:2062215662273536","en":"Lan Xiangzi Coffin","ru":"Лань Сянцзы гроб"}
+{"id":"battlefield_item:2062219957240832","en":"Lan Xiangzi Coffin","ru":"Лань Сянцзы гроб"}
+{"id":"battlefield_item:2062224252208128","en":"Lan Xiangzi Coffin","ru":"Лань Сянцзы гроб"}
+{"id":"battlefield_item:2062228547175424","en":"Lan Xiangzi Coffin","ru":"Лань Сянцзы гроб"}
+{"id":"battlefield_item:2062232842142720","en":"Lan Xiangzi Coffin","ru":"Лань Сянцзы гроб"}
+{"id":"battlefield_item:2062237137110016","en":"Dansha_Co-op Attack","ru":"Даньша_совместная атака"}
+{"id":"battlefield_item:2062241432077312","en":"Wind Shield","ru":"Ветряной щит"}
+{"id":"battlefield_item:2062245727044608","en":"Amalthea_Water Orb","ru":"Амальтея_водяной шар"}
+{"id":"battlefield_item:2062250022011904","en":"Rockflei-Shield","ru":"Рокфлей-щит"}
+{"id":"battlefield_item:2062254316979200","en":"Lavaguard-Shield","ru":"Лавагард-щит"}
+{"id":"battlefield_item:2062258611946496","en":"Turret","ru":"Турель"}
+{"id":"battlefield_item:2062262906913792","en":"Turret 2","ru":"Турель 2"}
+{"id":"battlefield_item:2062271496848384","en":"Dark Flame Black Hole","ru":"Тёмнопламенная чёрная дыра"}
+{"id":"battlefield_item:2062275791815680","en":"Dark Flame Black Hole","ru":"Тёмнопламенная чёрная дыра"}
+{"id":"battlefield_item:2062327331423232","en":"Lavaguard-Shield","ru":"Лавагард-щит"}
+{"id":"battlefield_item:2062331626390528","en":"Lavaguard-Shield","ru":"Лавагард-щит"}
+{"id":"battlefield_item:2062335921357824","en":"Rockflei-Shield","ru":"Рокфлей-щит"}
+{"id":"battlefield_item:2062340216325120","en":"Map Marker","ru":"Маркер на карте"}
+{"id":"battlefield_item:2062344511292416","en":"Butterfly & Bat Sports Day-Multiplayer","ru":"День спорта бабочек и летучих мышей — мультиплеер"}
+{"id":"battlefield_item:2062348806259712","en":"Map Marker","ru":"Маркер на карте"}
+{"id":"battlefield_item:2062353101227008","en":"Map Marker","ru":"Маркер на карте"}
+{"id":"battlefield_item:2062357396194304","en":"Map Marker","ru":"Маркер на карте"}
+{"id":"battlefield_item:2062361691161600","en":"Dark Flame Black Hole","ru":"Тёмнопламенная чёрная дыра"}
+{"id":"battlefield_item:2062365986128896","en":"Magatsumaru-Ultimate 2-Dive Mark","ru":"Магацумару — высшее искусство 2 — метка погружения"}
+{"id":"battlefield_item:2062370281096192","en":"Boulder","ru":"Валун"}
+{"id":"battlefield_item:2062374576063488","en":"Wind Shield","ru":"Ветряной щит"}
+{"id":"battlefield_item:2062378871030784","en":"Boulder","ru":"Валун"}
+{"id":"battlefield_item:2062391755932672","en":"Black Hole","ru":"Чёрная дыра"}
+{"id":"battlefield_item:21475914516792320","en":"Wave","ru":"Волна"}
+{"id":"battlefield_item:21475918811759616","en":"Bubble","ru":"Пузырь"}
+{"id":"battlefield_item:21735583944541184","en":"Skill Pool-Stone Pillar","ru":"Пул навыков — каменный столп"}
+{"id":"battlefield_item:21735626894214144","en":"Skill Pool-Stone Wall","ru":"Пул навыков — каменная стена"}
+{"id":"battlefield_item:21735669843887104","en":"Skill Pool-Stone Cage","ru":"Пул навыков — каменная клетка"}
+{"id":"battlefield_item:21736013441270784","en":"Skill Pool-Quake Stone Pillar 1 Times","ru":"Пул навыков — сейсмический каменный столп, раз: 1"}
+{"id":"battlefield_item:21736056390943744","en":"Skill Pool-Quake Stone Pillar 3 Times","ru":"Пул навыков — сейсмический каменный столп, раз: 3"}
+{"id":"battlefield_item:21736099340616704","en":"Skill Pool-Ring Stone Pillar Strike","ru":"Пул навыков — кольцевой удар каменного столба"}
+{"id":"battlefield_item:21736142290289664","en":"Skill Pool-Stone Pillar Strike Chain","ru":"Пул навыков — цепной удар каменного столба"}
+{"id":"battlefield_item:21736185239962624","en":"Skill Pool-Quake Stone Pillar 3 Times, 3 Pillars","ru":"Пул навыков — сейсмический каменный столп, раз: 3, столпов: 3"}
+{"id":"battlefield_item:21736357038654464","en":"Skill Pool-Sports Day-Stone Pillar Collision","ru":"Пул навыков — день спорта — столкновение каменных столпов"}
+{"id":"battlefield_item:21736361333621760","en":"Skill Pool-Sports Day-Stone Pillar Collision","ru":"Пул навыков — день спорта — столкновение каменных столпов"}
+{"id":"battlefield_item:21736365628589056","en":"Skill Pool-Sports Day-Stone Pillar Collision","ru":"Пул навыков — день спорта — столкновение каменных столпов"}
+{"id":"battlefield_item:21736528837346304","en":"Skill Pool-Stone Pillar Ring Laser","ru":"Пул навыков — кольцевой лазер каменных столпов"}
+{"id":"battlefield_item:2576984672568320","en":"Puzzle_Damage Over Time","ru":"Головоломка_периодический урон"}
+{"id":"battlefield_item:859006344102912","en":"Destructible Wooden Barrel","ru":"Разрушаемая деревянная бочка"}
+{"id":"battlefield_item:859010639070208","en":"Destructible Wooden Crate1","ru":"Разрушаемый деревянный ящик1"}
+{"id":"battlefield_item:859014934037504","en":"Destructible Pot","ru":"Разрушаемый горшок"}
+{"id":"battlefield_item:859019229004800","en":"Destructible Wooden Crate2","ru":"Разрушаемый деревянный ящик2"}
+{"id":"battlefield_item:859036408873984","en":"Destructible Collectible_Dustgrey Stone","ru":"Разрушаемый ресурс: пепельно-серая порода"}
+{"id":"battlefield_item:859040703841280","en":"Destructible Collectible_Hardstone","ru":"Разрушаемый ресурс: твёрдый камень"}
+{"id":"battlefield_item:859044998808576","en":"Destructible Collectible_Siltstone","ru":"Разрушаемый ресурс: илистый камень"}
+{"id":"battlefield_item:859049293775872","en":"Destructible Collectible_Mirror Iron Ore","ru":"Разрушаемый ресурс: руда зеркального железа"}
+{"id":"battlefield_item:859053588743168","en":"Destructible Collectible_Wind Copper Ore","ru":"Разрушаемый ресурс: руда ветряной меди"}
+{"id":"battlefield_item:859057883710464","en":"Destructible Collectible_Flare Saltpeter","ru":"Разрушаемый ресурс: сверкающая селитра"}
+{"id":"battlefield_item:859122308219904","en":"Destructible Collectible_Swaying Tree","ru":"Разрушаемый ресурс: качающееся дерево"}
+{"id":"battlefield_item:859126603187200","en":"Destructible Collectible_Greatleaf Tree","ru":"Разрушаемый ресурс: древо великих листьев"}
+{"id":"battlefield_item:859130898154496","en":"Destructible Collectible_Fragrant Windwood","ru":"Разрушаемый ресурс: благоуханное ветряное дерево"}
+{"id":"battlefield_item:859135193121792","en":"Destructible Collectible_Chishiki","ru":"Разрушаемый ресурс: тисики"}
+{"id":"battlefield_item:859139488089088","en":"Destructible Collectible_Aura Berry","ru":"Разрушаемый ресурс: аура-ягода"}
+{"id":"battlefield_item:859165257892864","en":"Destructible Object_Shrub6","ru":"Разрушаемый объект: куст6"}
+{"id":"battlefield_item:859169552860160","en":"Destructible Object_Shrub7","ru":"Разрушаемый объект: куст7"}
+{"id":"battlefield_item:859173847827456","en":"Destructible Object_Plant1","ru":"Разрушаемый объект: растение1"}
+{"id":"battlefield_item:859178142794752","en":"Destructible Object_Plant2","ru":"Разрушаемый объект: растение2"}
+{"id":"battlefield_item:859182437762048","en":"Destructible Object_Plant3","ru":"Разрушаемый объект: растение3"}
+{"id":"battlefield_item:859208207565824","en":"Destructible Object_Pale Moonheart","ru":"Разрушаемый объект: сердце бледной луны"}
+{"id":"battlefield_item:859212502533120","en":"Destructible Object_Blue Celosia","ru":"Разрушаемый объект: синий целозия"}
+{"id":"battlefield_item:859216797500416","en":"Destructible Object_Asteran","ru":"Разрушаемый объект: астеран"}
+{"id":"battlefield_item:859221092467712","en":"Destructible Object_Cat Whisker Grass","ru":"Разрушаемый объект: кошачья трава"}
+{"id":"battlefield_item:859225387435008","en":"Combat Destructible Wooden Barrel","ru":"Боевая разрушаемая деревянная бочка"}
+{"id":"battlefield_item:859229682402304","en":"Combat Destructible Wooden Crate1","ru":"Боевой разрушаемый деревянный ящик1"}
+{"id":"battlefield_item:859233977369600","en":"Combat Destructible Pot","ru":"Боевой разрушаемый горшок"}
+{"id":"battlefield_item:859238272336896","en":"Combat Destructible Wooden Crate2","ru":"Боевой разрушаемый деревянный ящик2"}
+{"id":"battlefield_item:859242567304192","en":"Combat Destructible Object_Shrub6","ru":"Боевой разрушаемый объект: куст6"}
+{"id":"battlefield_item:859246862271488","en":"Combat Destructible Object_Shrub7","ru":"Боевой разрушаемый объект: куст7"}
+{"id":"battlefield_item:859251157238784","en":"Combat Destructible Object_Plant1","ru":"Боевой разрушаемый объект: растение1"}
+{"id":"battlefield_item:859255452206080","en":"Combat Destructible Object_Plant2","ru":"Боевой разрушаемый объект: растение2"}
+{"id":"battlefield_item:859259747173376","en":"Combat Destructible Object_Plant3","ru":"Боевой разрушаемый объект: растение3"}
+{"id":"battlefield_item:859264042140672","en":"Combat Destructible Object_Pale Moonheart","ru":"Боевой разрушаемый объект: сердце бледной луны"}
+{"id":"battlefield_item:859268337107968","en":"Combat Destructible Object_Blue Celosia","ru":"Боевой разрушаемый объект: синий целозия"}
+{"id":"battlefield_item:859272632075264","en":"Combat Destructible Object_Asteran","ru":"Боевой разрушаемый объект: астеран"}
+{"id":"battlefield_item:859276927042560","en":"Combat Destructible Object_Cat Whisker Grass","ru":"Боевой разрушаемый объект: кошачья трава"}
+{"id":"battlefield_item:859281222009856","en":"Destructible Object_Large Rock","ru":"Разрушаемый объект: большой валун"}
+{"id":"battlefield_item:859285516977152","en":"Combat Destructible Collectible_Dustgrey Stone","ru":"Боевой разрушаемый ресурс: пепельно-серая порода"}
+{"id":"battlefield_item:859289811944448","en":"Combat Destructible Collectible_Hardstone","ru":"Боевой разрушаемый ресурс: твёрдый камень"}
+{"id":"battlefield_item:859294106911744","en":"Combat Destructible Collectible_Siltstone","ru":"Боевой разрушаемый ресурс: илистый камень"}
+{"id":"battlefield_item:859298401879040","en":"Combat Destructible Collectible_Mirror Iron Ore","ru":"Боевой разрушаемый ресурс: руда зеркального железа"}
+{"id":"battlefield_item:859302696846336","en":"Combat Destructible Collectible_Wind Copper Ore","ru":"Боевой разрушаемый ресурс: руда ветряной меди"}
+{"id":"battlefield_item:859306991813632","en":"Combat Destructible Collectible_Flare Saltpeter","ru":"Боевой разрушаемый ресурс: сверкающая селитра"}
+{"id":"battlefield_item:859311286780928","en":"Combat Destructible Collectible_Wispwillow","ru":"Боевое разрушаемое собираемое_Мерцающая ива"}
+{"id":"battlefield_item:859315581748224","en":"Combat Destructible Collectible_Greatleaf Tree","ru":"Боевое разрушаемое собираемое_Древо великих листьев"}
+{"id":"battlefield_item:859319876715520","en":"Combat Destructible Collectible_Fragrant Breeze Tree","ru":"Боевое разрушаемое собираемое_Благоуханное древо"}
+{"id":"battlefield_item:859324171682816","en":"Combat Destructible Collectible_Chishiki","ru":"Боевое разрушаемое собираемое_Тисики"}
+{"id":"battlefield_item:859328466650112","en":"Combat Destructible Collectible_Auraberry","ru":"Боевое разрушаемое собираемое_Аураягода"}
+{"id":"battlefield_item:859332761617408","en":"Destructible Object_Ordinary Rock (PV)","ru":"Разрушаемый объект_Обычный камень (PV)"}
+{"id":"battlefield_item:859337056584704","en":"Destructible Object_Giant Boulder (Small)","ru":"Разрушаемый объект_Гигантская скала (малая)"}
+{"id":"battlefield_item:859341351552000","en":"Destructible Object_Large Shrub","ru":"Разрушаемый объект_Крупный кустарник"}
+{"id":"battlefield_item:859345646519296","en":"Destructible Object_Medium Shrub","ru":"Разрушаемый объект_Средний кустарник"}
+{"id":"battlefield_item:859349941486592","en":"Combat Destructible Object_Large Shrub","ru":"Боевой разрушаемый объект_Крупный кустарник"}
+{"id":"battlefield_item:859354236453888","en":"Combat Destructible Object_Medium Shrub","ru":"Боевой разрушаемый объект_Средний кустарник"}
+{"id":"battlefield_item:859358531421184","en":"Destructible Object_Large Tree","ru":"Разрушаемый объект_Крупное дерево"}
+{"id":"battlefield_item:859362826388480","en":"Air Wall120","ru":"Воздушная стена120"}
+{"id":"battlefield_item:859367121355776","en":"Destructible Object_Bamboo","ru":"Разрушаемый объект_Бамбук"}
+{"id":"battlefield_item:859371416323072","en":"Destructible Object_Flameplume Tree","ru":"Разрушаемый объект_Огнеперое древо"}
+{"id":"battlefield_item:859375711290368","en":"Destructible Object_Flameplume Tree2","ru":"Разрушаемый объект_Огнеперое древо2"}
+{"id":"battlefield_item:859380006257664","en":"Destructible Object_Flameplume Tree3","ru":"Разрушаемый объект_Огнеперое древо3"}
+{"id":"battlefield_item:859384301224960","en":"Destructible Object_Youthwood","ru":"Разрушаемый объект_Юное древо"}
+{"id":"battlefield_item:859388596192256","en":"Destructible Object_Fragrant Mushroom","ru":"Разрушаемый объект_Благоуханный гриб"}
+{"id":"battlefield_item:859392891159552","en":"Destructible Object_Nowar Mushroom","ru":"Разрушаемый объект_гриб новар"}
+{"id":"battlefield_item:859397186126848","en":"Destructible Scene Object_Sapling Berry","ru":"Разрушаемый объект сцены_Ягода саженца"}
+{"id":"battlefield_item:859401481094144","en":"Destructible Object_Helene's Eye","ru":"Разрушаемый объект_Око Хелены"}
+{"id":"battlefield_item:859405776061440","en":"Destructible Object_Helene's Eye2","ru":"Разрушаемый объект_Око Хелены2"}
+{"id":"battlefield_item:859410071028736","en":"Destructible Object_White Box Object40×20","ru":"Разрушаемый объект_Белая коробка40×20"}
+{"id":"battlefield_item:859414365996032","en":"Destructible Object_White Box Object2×4","ru":"Разрушаемый объект_Белая коробка2×4"}
+{"id":"battlefield_item:859418660963328","en":"Destructible Object_White Box Object8×4","ru":"Разрушаемый объект_Белая коробка8×4"}

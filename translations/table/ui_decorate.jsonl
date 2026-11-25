@@ -1,0 +1,65 @@
+{"id":"ui_decorate:103079215360","en":"Kibo","ru":"кибо"}
+{"id":"ui_decorate:107374182656","en":"Cooking","ru":"Кулинария"}
+{"id":"ui_decorate:111669149952","en":"Archive","ru":"Архив"}
+{"id":"ui_decorate:115964117248","en":"Achievements","ru":"Достижения"}
+{"id":"ui_decorate:120259084544","en":"Skills","ru":"Навыки"}
+{"id":"ui_decorate:124554051840","en":"Character Level Up2","ru":"Повышение уровня персонажа2"}
+{"id":"ui_decorate:128849019136","en":"Anima","ru":"Анима"}
+{"id":"ui_decorate:12884902144","en":"View","ru":"Просмотр"}
+{"id":"ui_decorate:133143986432","en":"Profile","ru":"Профиль"}
+{"id":"ui_decorate:137438953728","en":"Characters","ru":"Персонажи"}
+{"id":"ui_decorate:141733921024","en":"Delete Read Mail","ru":"Удалить прочитанную почту"}
+{"id":"ui_decorate:146028888320","en":"Tips","ru":"Подсказки"}
+{"id":"ui_decorate:150323855616","en":"Delete Mail","ru":"Удалить почту"}
+{"id":"ui_decorate:154618822912","en":"Change Nickname","ru":"Изменить никнейм"}
+{"id":"ui_decorate:158913790208","en":"Restore Stamina","ru":"Восстановить выносливость"}
+{"id":"ui_decorate:163208757504","en":"Age Notice","ru":"Уведомление о возрасте"}
+{"id":"ui_decorate:167503724800","en":"Verify Resources","ru":"Проверка ресурсов"}
+{"id":"ui_decorate:171798692096","en":"Clear Cache","ru":"Очистить кэш"}
+{"id":"ui_decorate:17179869440","en":"Use","ru":"Использовать"}
+{"id":"ui_decorate:176093659392","en":"Exit Game","ru":"Выйти из игры"}
+{"id":"ui_decorate:180388626688","en":"Controls","ru":"Управление"}
+{"id":"ui_decorate:184683593984","en":"Key Bindings","ru":"Назначение клавиш"}
+{"id":"ui_decorate:188978561280","en":"Graphics","ru":"Графика"}
+{"id":"ui_decorate:193273528576","en":"Audio","ru":"Звук"}
+{"id":"ui_decorate:197568495872","en":"Notifications","ru":"Уведомления"}
+{"id":"ui_decorate:201863463168","en":"Language","ru":"Язык"}
+{"id":"ui_decorate:206158430464","en":"Account","ru":"Аккаунт"}
+{"id":"ui_decorate:210453397760","en":"Other","ru":"Прочее"}
+{"id":"ui_decorate:214748365056","en":"Basic Controls","ru":"Базовое управление"}
+{"id":"ui_decorate:21474836736","en":"Save","ru":"Сохранить"}
+{"id":"ui_decorate:219043332352","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"ui_decorate:223338299648","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"ui_decorate:227633266944","en":"Combat Controls","ru":"Управление в бою"}
+{"id":"ui_decorate:231928234240","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"ui_decorate:236223201536","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"ui_decorate:240518168832","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"ui_decorate:244813136128","en":"Volume Settings","ru":"Настройки громкости"}
+{"id":"ui_decorate:249108103424","en":"Notification Settings","ru":"Настройки уведомлений"}
+{"id":"ui_decorate:253403070720","en":"Language Settings","ru":"Настройки языка"}
+{"id":"ui_decorate:257698038016","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"ui_decorate:25769804032","en":"Select All","ru":"Выбрать все"}
+{"id":"ui_decorate:261993005312","en":"Settle and Exit","ru":"Рассчитаться и выйти"}
+{"id":"ui_decorate:266287972608","en":"Retry","ru":"Повторить попытку"}
+{"id":"ui_decorate:270582939904","en":"Revive","ru":"Возродиться"}
+{"id":"ui_decorate:274877907200","en":"End Challenge","ru":"Завершить испытание"}
+{"id":"ui_decorate:279172874496","en":"Retry Stage","ru":"Повторить этап"}
+{"id":"ui_decorate:30064771328","en":"Deselect All","ru":"Снять выделение"}
+{"id":"ui_decorate:34359738624","en":"Level Up","ru":"Повысить уровень"}
+{"id":"ui_decorate:38654705920","en":"Mount","ru":"Верхом"}
+{"id":"ui_decorate:42949673216","en":"Auto-Team","ru":"Автосборка"}
+{"id":"ui_decorate:4294967552","en":"Cancel","ru":"Отмена"}
+{"id":"ui_decorate:47244640512","en":"Track Target","ru":"Отслеживать цель"}
+{"id":"ui_decorate:51539607808","en":"Switch","ru":"Переключить"}
+{"id":"ui_decorate:55834575104","en":"Character Level Up1","ru":"Повышение уровня персонажа1"}
+{"id":"ui_decorate:60129542400","en":"Check Equipment","ru":"Проверить снаряжение"}
+{"id":"ui_decorate:64424509696","en":"Close","ru":"Закрыть"}
+{"id":"ui_decorate:68719476992","en":"Ascension","ru":"Возвышение"}
+{"id":"ui_decorate:73014444288","en":"Purchase","ru":"Купить"}
+{"id":"ui_decorate:77309411584","en":"Next","ru":"Далее"}
+{"id":"ui_decorate:81604378880","en":"Details","ru":"Подробности"}
+{"id":"ui_decorate:85899346176","en":"Shop","ru":"Магазин"}
+{"id":"ui_decorate:8589934848","en":"Confirm","ru":"Подтвердить"}
+{"id":"ui_decorate:90194313472","en":"Summon","ru":"Призыв"}
+{"id":"ui_decorate:94489280768","en":"Characters","ru":"Персонажи"}
+{"id":"ui_decorate:98784248064","en":"Farm","ru":"Ферма"}

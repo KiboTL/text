@@ -1,0 +1,711 @@
+{"id":"accessory:4338823207059712","en":"Apprentice Hunter's Dagger","ru":"Кинжал начинающего охотника"}
+{"id":"accessory:4338823207064832","en":"A dagger carved from wood. It has almost no lethality, but it makes a fine practice tool for apprentice Hunters.","ru":"Кинжал, вырезанный из дерева. Убить им почти невозможно, зато для начинающего Охотника это отличный тренировочный инструмент."}
+{"id":"accessory:4338823207065600","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4381343383290112","en":"Apprentice Hunter's Light Armor","ru":"Лёгкий доспех начинающего охотника"}
+{"id":"accessory:4381343383295232","en":"A chest guard stitched from tree bark. It offers almost no defense, but it is light as can be.","ru":"Нагрудник, сшитый из древесной коры. Защищает почти никак, зато совсем невесом."}
+{"id":"accessory:4381343383296000","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4424293056250112","en":"Apprentice Hunter's Leg Guards","ru":"Наголенники начинающего охотника"}
+{"id":"accessory:4424293056255232","en":"Leg guards stitched from tree bark. They offer almost no defense, but they are light as can be.","ru":"Наголенники, сшитые из древесной коры. Защищают почти никак, зато совсем невесомы."}
+{"id":"accessory:4424293056256000","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4467242729210112","en":"Apprentice Hunter's Earrings","ru":"Серьги начинающего охотника"}
+{"id":"accessory:4467242729215232","en":"Earrings woven from dried grass. The material can be found anywhere, but the one who wove them put their heart into the work.","ru":"Серьги, сплетённые из сухой травы. Материал найдётся где угодно, но тот, кто их плёл, вложил в работу душу."}
+{"id":"accessory:4467242729216000","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4510192402170112","en":"Apprentice Hunter's Ring","ru":"Кольцо начинающего охотника"}
+{"id":"accessory:4510192402175232","en":"A ring woven from dried grass. The material can be found anywhere, but the one who wove it put their heart into the work.","ru":"Кольцо, сплетённое из сухой травы. Материал найдётся где угодно, но тот, кто его плёл, вложил в работу душу."}
+{"id":"accessory:4510192402176000","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4767890439930112","en":"Wanderer's Sword","ru":"Меч странника"}
+{"id":"accessory:4767890439935232","en":"A versatile longsword. It serves not only to defend oneself, but for many other purposes as well. A fine companion for a journey.","ru":"Универсальный длинный меч. Им можно не только защитить себя, но и справиться со множеством других задач. Верный спутник в пути."}
+{"id":"accessory:4767890439936000","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4768319936659712","en":"Forest Guardian's Blade","ru":"Клинок стража леса"}
+{"id":"accessory:4768319936664832","en":"A light, easy-to-handle dagger. It's easy to wield even on rough terrain and well suited to quick strikes.","ru":"Лёгкий и удобный в обращении кинжал. Им легко орудовать даже на сложной местности, и он отлично подходит для быстрых атак."}
+{"id":"accessory:4768319936665600","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4810840112890112","en":"Wanderer's Armor","ru":"Доспех странника"}
+{"id":"accessory:4810840112895232","en":"Well-tailored armor for travelers. It is more than enough to ward off attacks that don't carry much force.","ru":"Хорошо сшитый доспех для путешественников. Его вполне достаточно, чтобы отразить не слишком мощные атаки."}
+{"id":"accessory:4810840112896000","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4811269609619712","en":"Forest Guardian's Cloak","ru":"Плащ стража леса"}
+{"id":"accessory:4811269609624832","en":"A cloak that prioritizes ease of movement. It shelters you from the wind and rain while letting you move freely through the forest.","ru":"Плащ, созданный ради свободы движений. Он защищает от ветра и дождя и при этом позволяет свободно перемещаться по лесу."}
+{"id":"accessory:4811269609625600","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4853789785850112","en":"Wanderer's Leg Guards","ru":"Наголенники странника"}
+{"id":"accessory:4853789785855232","en":"Well-tailored leg guards for travelers. They are more than enough to ward off attacks that don't carry much force.","ru":"Хорошо сшитые наголенники для путешественников. Их вполне достаточно, чтобы отразить не слишком мощные атаки."}
+{"id":"accessory:4853789785856000","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4854219282579712","en":"Forest Guardian's Trousers","ru":"Штаны стража леса"}
+{"id":"accessory:4854219282584832","en":"Trousers that prioritize ease of movement. They shelter you from the wind and rain while letting you move freely through the forest.","ru":"Штаны, созданные ради свободы движений. Они защищают от ветра и дождя и при этом позволяют свободно перемещаться по лесу."}
+{"id":"accessory:4854219282585600","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4896739458810112","en":"Wanderer's Earrings","ru":"Серьги странника"}
+{"id":"accessory:4896739458815232","en":"Simple earrings. Light yet no less lovely, they make a perfect companion for a journey.","ru":"Простые серьги. Лёгкие, но при этом не теряющие красоты. Идеальный спутник в пути."}
+{"id":"accessory:4896739458816000","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4897168955539712","en":"Forest Guardian's Earrings","ru":"Серьги стража леса"}
+{"id":"accessory:4897168955544832","en":"Light earrings patterned after leaves. Nothing is dearer to a Forest Guardian than the branches and leaves of the forest.","ru":"Лёгкие серьги с мотивом листьев. Ничто не ближе стражу леса, чем ветви и листва его леса."}
+{"id":"accessory:4897168955545600","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4939689131770112","en":"Wanderer's Ring","ru":"Кольцо странника"}
+{"id":"accessory:4939689131775232","en":"A ring with modest ornamentation. Light and attractive, it makes a perfect companion for a journey.","ru":"Кольцо со скромным украшением. Лёгкое и красивое, оно идеально подходит для путешествий."}
+{"id":"accessory:4939689131776000","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:4940118628499712","en":"Forest Guardian's Ring","ru":"Кольцо стража леса"}
+{"id":"accessory:4940118628504832","en":"A small ring patterned after leaves. Nothing is dearer to a Forest Guardian than the branches and leaves of the forest.","ru":"Небольшое кольцо с мотивом листьев. Ничто не ближе стражу леса, чем ветви и листва его леса."}
+{"id":"accessory:4940118628505600","en":"Quick Craft","ru":"быстрое ремесло"}
+{"id":"accessory:5197387169530112","en":"Veteran Warrior's Sword","ru":"Меч закалённого воина"}
+{"id":"accessory:5197387169535232","en":"A well-worn longsword. Its solid, weighty blade shows its true worth in head-on clashes.","ru":"Много повидавший на своём веку длинный меч. Его солидный, тяжёлый клинок по-настоящему раскрывается в лобовом столкновении."}
+{"id":"accessory:5197387169536000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5197387169536001","en":"Commission - Azure Thunder's Ward I","ru":"Поручение — Оберег лазурной грозы I"}
+{"id":"accessory:5197816666259712","en":"Scout's Dagger","ru":"Кинжал лазутчика"}
+{"id":"accessory:5197816666264832","en":"A refined, lightweight dagger. Its short, keen blade is well suited to swiftly overcoming foes in close combat.","ru":"Изящный и лёгкий кинжал. Его короткий острый клинок отлично подходит, чтобы быстро одолеть врага в ближнем бою."}
+{"id":"accessory:5197816666265600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5197816666265601","en":"Commission - Blazing Flame's Ward I","ru":"Поручение — Оберег пламенного огня I"}
+{"id":"accessory:5240336842490112","en":"Veteran Warrior's Armor","ru":"Доспех закалённого воина"}
+{"id":"accessory:5240336842495232","en":"Armor that has survived many battles. It has been kept in such good condition that it hardly seems secondhand.","ru":"Доспех, прошедший через множество сражений. За ним так хорошо следили, что его и не назовёшь ношеным."}
+{"id":"accessory:5240336842496000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5240336842496001","en":"Commission - Azure Thunder's Ward I","ru":"Поручение — Оберег лазурной грозы I"}
+{"id":"accessory:5240766339219712","en":"Scout's Cloak","ru":"Плащ лазутчика"}
+{"id":"accessory:5240766339224832","en":"A cloak made for those who charge at the front. Its light, flowing cut never hinders a charge or a sprint, yet still shields the wearer.","ru":"Плащ, созданный для тех, кто идёт в первых рядах. Его лёгкий, развевающийся покрой не мешает ни бегу, ни натиску, но при этом защищает владельца."}
+{"id":"accessory:5240766339225600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5240766339225601","en":"Commission - Blazing Flame's Ward I","ru":"Поручение — Оберег пламенного огня I"}
+{"id":"accessory:5283286515450112","en":"Veteran Warrior's Leg Guards","ru":"Наголенники закалённого воина"}
+{"id":"accessory:5283286515455232","en":"Leg guards that have survived many battles. They have been kept in such good condition that they hardly seem secondhand.","ru":"Наголенники, прошедшие через множество сражений. За ними так хорошо следили, что их и не назовёшь ношеными."}
+{"id":"accessory:5283286515456000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5283286515456001","en":"Commission - Azure Thunder's Ward I","ru":"Поручение — Оберег лазурной грозы I"}
+{"id":"accessory:5283716012179712","en":"Scout's Leggings","ru":"Штаны лазутчика"}
+{"id":"accessory:5283716012184832","en":"Leggings made for those who charge at the front. Their neat silhouette stays out of the way, never hindering a charge or a sprint, yet still shields the wearer.","ru":"Штаны, созданные для тех, кто идёт в первых рядах. Их аккуратный силуэт не мешает ни бегу, ни натиску, но при этом защищает владельца."}
+{"id":"accessory:5283716012185600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5283716012185601","en":"Commission - Blazing Flame's Ward I","ru":"Поручение — Оберег пламенного огня I"}
+{"id":"accessory:5326236188410112","en":"Veteran Warrior's Earrings","ru":"Серьги закалённого воина"}
+{"id":"accessory:5326236188415232","en":"Earrings of simple, refined craftsmanship. Their plainness calls to mind the warrior themself.","ru":"Серьги простой и изящной работы. Их безыскусность напоминает о самом воине."}
+{"id":"accessory:5326236188416000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5326236188416001","en":"Commission - Azure Thunder's Ward I","ru":"Поручение — Оберег лазурной грозы I"}
+{"id":"accessory:5326665685139712","en":"Scout's Earrings","ru":"Серьги лазутчика"}
+{"id":"accessory:5326665685144832","en":"Earrings fashioned after vines. Their design is graceful yet understated.","ru":"Серьги, созданные по образу лоз. Их узор изящен и при этом сдержан."}
+{"id":"accessory:5326665685145600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5326665685145601","en":"Commission - Blazing Flame's Ward I","ru":"Поручение — Оберег пламенного огня I"}
+{"id":"accessory:5369185861370112","en":"Veteran Warrior's Ring","ru":"Кольцо закалённого воина"}
+{"id":"accessory:5369185861375232","en":"A ring of simple, refined craftsmanship. Its plainness calls to mind the warrior themself.","ru":"Кольцо простой и изящной работы. Его безыскусность напоминает о самом воине."}
+{"id":"accessory:5369185861376000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5369185861376001","en":"Commission - Azure Thunder's Ward I","ru":"Поручение — Оберег лазурной грозы I"}
+{"id":"accessory:5369615358099712","en":"Scout's Ring","ru":"Кольцо лазутчика"}
+{"id":"accessory:5369615358104832","en":"A ring fashioned after vines. Its design is graceful yet understated.","ru":"Кольцо, созданное по образу лоз. Его узор изящен и при этом сдержан."}
+{"id":"accessory:5369615358105600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5369615358105601","en":"Commission - Blazing Flame's Ward I","ru":"Поручение — Оберег пламенного огня I"}
+{"id":"accessory:5884581936890112","en":"Gleamlight Sound","ru":"Отзвук мерцающего света"}
+{"id":"accessory:5884581936895232","en":"An old-style cloak. The stitching is exquisite, and a faint pattern of light rises from the cloth, as though light itself, brushed by the wind, has left a trail behind.","ru":"Плащ старого покроя. Шитьё тонкое, а по ткани едва проступает узор света — словно свет, подхваченный ветром, оставляет за собой след."}
+{"id":"accessory:5884581936896000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5884581936896001","en":"Commission - Rushing Torrent's Ward III","ru":"Поручение — Оберег бурного потока III"}
+{"id":"accessory:5884581936896002","en":"Commission - Rushing Torrent's Ward II","ru":"Поручение — Оберег бурного потока II"}
+{"id":"accessory:5885011433619712","en":"Gleamlight Echo","ru":"Эхо мерцающего света"}
+{"id":"accessory:5885011433624832","en":"Shoes with a streamlined design. Crossing patterns of light decorate their surface, as though lights chasing one another are calling back and forth.","ru":"Обувь с обтекаемым силуэтом. Её поверхность украшают пересекающиеся узоры света — словно гоняющиеся друг за другом огоньки перекликаются между собой."}
+{"id":"accessory:5885011433625600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5885011433625601","en":"Commission - Blazing Flame's Ward III","ru":"Поручение — Оберег пламенного огня III"}
+{"id":"accessory:5885011433625602","en":"Commission - Blazing Flame's Ward II","ru":"Поручение — Оберег пламенного огня II"}
+{"id":"accessory:5885440930349312","en":"Fragrance of the Full Moon","ru":"Аромат полной луны"}
+{"id":"accessory:5885440930354432","en":"\"If there are flowers that chase the sun, there must be flowers in this world that chase the moon.\"\nAs though possessed, the man set out to prove this idea. He sought rare seeds, planted flowers and grasses from distant lands, and in the end sold off everything he owned. Yet he never found them. Afterward the man withdrew into the forest, but still he kept cultivating flowers and grasses.\nOne night, a fierce storm struck him. Worried for his plants, he went to check on them, lost his footing, and fell to the bottom of a valley. But there he found a lotus that slowly turned to follow the moon. The obsession that consumed half the man's life bore fruit beneath the moon.","ru":"«Если есть цветы, что тянутся к солнцу, значит, в этом мире должны быть и цветы, что тянутся к луне».\nСловно одержимый, мужчина пытался доказать эту мысль. Он искал редкие семена, сажал заморские травы и цветы и в конце концов распродал всё своё имущество. Но так и не нашёл искомого. После этого он ушёл жить в лес, но и там продолжал выращивать цветы и травы.\nОднажды ночью его застигла жестокая буря. Тревожась за свои растения, он пошёл проведать их, оступился и упал на дно долины. Но там он увидел лотос, который медленно поворачивался вслед за луной. Упорство, на которое мужчина положил полжизни, принесло плоды под лунным светом."}
+{"id":"accessory:5885440930355200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5885440930355201","en":"Commission - Blazing Flame's Ward III","ru":"Поручение — Оберег пламенного огня III"}
+{"id":"accessory:5885440930355202","en":"Commission - Blazing Flame's Ward II","ru":"Поручение — Оберег пламенного огня II"}
+{"id":"accessory:5885870427078912","en":"Flower of the Azure Stream","ru":"Цветок лазурного потока"}
+{"id":"accessory:5885870427084032","en":"An armlet of layered bands in the color of moonlight, with seven large beads and forty-two small ones. Turn those translucent beads, and it looks as though stars and moon come tumbling out.","ru":"Браслет из нескольких рядов в цвете лунного света: семь крупных бусин и сорок две маленькие. Стоит повертеть эти прозрачные бусины — и кажется, будто звёзды и луна рассыпаются из них."}
+{"id":"accessory:5885870427084800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5885870427084801","en":"Commission - Rushing Torrent's Ward III","ru":"Поручение — Оберег бурного потока III"}
+{"id":"accessory:5885870427084802","en":"Commission - Rushing Torrent's Ward II","ru":"Поручение — Оберег бурного потока II"}
+{"id":"accessory:5886299923808512","en":"Expeditioner's Resolve","ru":"Решимость странника"}
+{"id":"accessory:5886299923813632","en":"A light cloak made for expeditions and battle. Its edges are finished cleanly, and when it billows, it resembles a war banner raised high.","ru":"Лёгкий плащ, сшитый для походов и битв. Его края отделаны чисто, а в развевающемся виде он подобен высоко поднятому боевому знамени."}
+{"id":"accessory:5886299923814400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5886299923814401","en":"Commission - Azure Thunder's Protection III","ru":"Поручение — Защита лазурного грома III"}
+{"id":"accessory:5886299923814402","en":"Commission - Azure Thunder's Protection II","ru":"Поручение — Защита лазурного грома II"}
+{"id":"accessory:5886729420538112","en":"Expeditioner's Battle Song","ru":"Боевая песнь странника"}
+{"id":"accessory:5886729420543232","en":"Military boots suited to long journeys. The soles are thick, their surfaces marked with fine traces of wear from countless repairs.\nEvery expeditioner wore boots like these, stepping toward the unknown ahead. The mud, the dust, the worn traces carved into them—these are the very record of the road traveled. Those footprints that never once stopped are, in truth, a battle song ringing out loud and clear.","ru":"Военные сапоги, пригодные для долгих странствий. Подошвы толстые, а на поверхности остались мелкие следы износа от бесчисленных починок.\nВсе, кто отправлялся в дальний путь, надевали такие и шагали в неведомое. Грязь, пыль и проступившие от износа отметины — это и есть запись пройденного пути. Именно эти следы, никогда не останавливавшиеся, и звучат громкой боевой песнью."}
+{"id":"accessory:5886729420544000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5886729420544001","en":"Commission - Evergreen Protection III","ru":"Поручение — Вечнозелёное покровительство III"}
+{"id":"accessory:5886729420544002","en":"Commission - Evergreen Protection II","ru":"Поручение — Вечнозелёное покровительство II"}
+{"id":"accessory:5887158917267712","en":"Mountain's Might","ru":"Мощь горы"}
+{"id":"accessory:5887158917272832","en":"A necklace cast from ancient ore and dark metal. It is heavy and its surface is crudely rough, hardly looking like an ornament at all.\nWhen needed, some take it off and wrap it around their hand to use as a knuckle-duster.","ru":"Ожерелье, отлитое из древней руды и тёмного металла. Оно тяжёлое, а поверхность его настолько грубо обработана, что украшением это кажется лишь отдалённо.\nГоворят, при надобности его снимают, наматывают на руку и используют как кастет."}
+{"id":"accessory:5887158917273600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5887158917273601","en":"Commission - Evergreen Protection III","ru":"Поручение — Вечнозелёное покровительство III"}
+{"id":"accessory:5887158917273602","en":"Commission - Evergreen Protection II","ru":"Поручение — Вечнозелёное покровительство II"}
+{"id":"accessory:5887588413997312","en":"Ford's Vigor","ru":"Сила переправы"}
+{"id":"accessory:5887588414002432","en":"An armlet of a strange shape, like a cross-section of a steep mountainside. The inside is flat, but the outside is so uneven it hardly seems like jewelry.\nWhen needed, some take it off and grip it in half a fist to use as a knuckle-duster.","ru":"Браслет причудливой формы, похожий на срез крутого горного склона. Внутри он гладкий, а снаружи настолько неровный, что совсем не похож на украшение.\nГоворят, при надобности его снимают, берут в полкулака и используют как кастет."}
+{"id":"accessory:5887588414003200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5887588414003201","en":"Commission - Azure Thunder's Protection III","ru":"Поручение — Защита лазурного грома III"}
+{"id":"accessory:5887588414003202","en":"Commission - Azure Thunder's Protection II","ru":"Поручение — Защита лазурного грома II"}
+{"id":"accessory:5888017910726912","en":"Prelude of Dawn","ru":"Увертюра рассвета"}
+{"id":"accessory:5888017910732032","en":"A cloak made for long journeys and charges. In its fluttering form dwells the spirit of 'pressing forward.' Like a single ray of morning sun piercing a long night... true breakthroughs always begin here.","ru":"Плащ, сшитый для долгих странствий и натиска. В его развевающемся виде жив дух «идущих вперёд». Словно единственный луч рассвета, пробившийся сквозь долгую ночь... истинные прорывы всегда начинаются здесь."}
+{"id":"accessory:5888017910732800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5888017910732801","en":"Commission - Evergreen Protection III","ru":"Поручение — Вечнозелёное покровительство III"}
+{"id":"accessory:5888017910732802","en":"Commission - Evergreen Protection II","ru":"Поручение — Вечнозелёное покровительство II"}
+{"id":"accessory:5888447407456512","en":"Finale of Dusk","ru":"Финал сумерек"}
+{"id":"accessory:5888447407461632","en":"Long boots made for long journeys and charges. They combine practicality and beauty. Once dawn arrives, the curtain of night too shall eventually fall. If there is a prologue, there is a finale. Do not fear—simply press onward.","ru":"Длинные сапоги, сшитые для долгих странствий и натиска. В них сочетаются практичность и красота. Когда наступит рассвет, в конце концов опустится и покров ночи. Есть пролог — будет и финал. Не бойся, просто иди вперёд."}
+{"id":"accessory:5888447407462400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5888447407462401","en":"Commission - Azure Thunder's Protection III","ru":"Поручение — Защита лазурного грома III"}
+{"id":"accessory:5888447407462402","en":"Commission - Azure Thunder's Protection II","ru":"Поручение — Защита лазурного грома II"}
+{"id":"accessory:5888876904186112","en":"Thunderbriar Hair Ornament","ru":"Украшение для волос «Громовый шип»"}
+{"id":"accessory:5888876904191232","en":"A head accessory cast from deep-toned metal. Sharp thorns extend outward from its edges. The dangling crystal ornaments give off a cold gleam like lightning every time they sway.","ru":"Украшение для волос, отлитое из металла глубокого оттенка. По его краям наружу тянутся острые шипы. Свисающие украшения из кристаллов, покачиваясь, испускают холодный блеск, напоминающий вспышку молнии."}
+{"id":"accessory:5888876904192000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5888876904192001","en":"Commission - Azure Thunder's Protection III","ru":"Поручение — Защита лазурного грома III"}
+{"id":"accessory:5888876904192002","en":"Commission - Azure Thunder's Protection II","ru":"Поручение — Защита лазурного грома II"}
+{"id":"accessory:5889306400915712","en":"Embers of Thunder","ru":"Тлеющие угли грома"}
+{"id":"accessory:5889306400920832","en":"A ring fashioned like a shackle, joining a dark silver chain and charred black iron. Fine cracks remain on its surface, like scorch marks left by thunder-fire.","ru":"Кольцо, сделанное наподобие кандалов: тёмная серебряная цепь соединена с обожжённым чёрным железом. На поверхности остались тонкие трещины, похожие на следы громового пламени."}
+{"id":"accessory:5889306400921600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5889306400921601","en":"Commission - Evergreen Protection III","ru":"Поручение — Вечнозелёное покровительство III"}
+{"id":"accessory:5889306400921602","en":"Commission - Evergreen Protection II","ru":"Поручение — Вечнозелёное покровительство II"}
+{"id":"accessory:5889735897645312","en":"Vanguard's Banner","ru":"Знамя передового отряда"}
+{"id":"accessory:5889735897650432","en":"A brand-new cloak with a gorgeous design.\n\"There's no way this is the cloak that was once used as a banner.\"\n\"Yes, of course not. But what can I do... there's no end to the commissions asking me to sell them even an imitation...\"","ru":"Совершенно новый плащ с роскошным узором.\n«Не может быть, чтобы это был тот самый плащ, что когда-то служил знаменем».\n«Да, разумеется, нет. Но что поделать... заказов с просьбой продать хотя бы копию не убавляется...»"}
+{"id":"accessory:5889735897651200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5889735897651201","en":"Commission - Blazing Flame's Ward III","ru":"Поручение — Оберег пламенного огня III"}
+{"id":"accessory:5889735897651202","en":"Commission - Blazing Flame's Ward II","ru":"Поручение — Оберег пламенного огня II"}
+{"id":"accessory:5890165394374912","en":"Will to Face the Decisive Battle","ru":"Воля к решающей битве"}
+{"id":"accessory:5890165394380032","en":"Brand-new boots. No one has worn them yet.\n\"So then, these boots too...\"\n\"Yes, that's right.\"","ru":"Совершенно новые сапоги. Их ещё никто не надевал.\n«Тогда эти сапоги тоже...»\n«Да, верно»."}
+{"id":"accessory:5890165394380800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5890165394380801","en":"Commission - Hillside Frontier III","ru":"Поручение — Окраина холмов III"}
+{"id":"accessory:5890165394380802","en":"Commission - Hillside Frontier II","ru":"Поручение — Окраина холмов II"}
+{"id":"accessory:5890594891104512","en":"Rising Morning Mist","ru":"Восходящий утренний туман"}
+{"id":"accessory:5890594891109632","en":"An elaborately crafted hairpin. It makes abundant use of milky-white beads and faintly glowing fine crystals. Walk beneath the sun, and the light scatters and mingles, dazzling the eyes—much like the glare when morning mist is steamed up by the sun. There is nothing to do but wait a while until your sight returns to normal.","ru":"Замысловато изготовленная шпилька для волос. В ней щедро использованы молочно-белые бусины и мелкие слабо светящиеся кристаллы. Если идти под солнцем, свет переливается и путается, слепя глаза — словно ослепительное сияние, когда утренний туман поднимается, разогретый солнцем. Остаётся лишь подождать немного, пока зрение не вернётся в норму."}
+{"id":"accessory:5890594891110400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5890594891110401","en":"Commission - Hillside Frontier III","ru":"Поручение — Окраина холмов III"}
+{"id":"accessory:5890594891110402","en":"Commission - Hillside Frontier II","ru":"Поручение — Окраина холмов II"}
+{"id":"accessory:5891024387834112","en":"Seething Haze","ru":"Вздымающаяся дымка"}
+{"id":"accessory:5891024387839232","en":"An armlet adorned with a flowing swirl pattern cast in red gold, set with warm crimson crystals. The way the lights interweave is the very scene of haze seething and about to blaze up.\nLong ago, a craftsman walking along a riverbank came upon a scene dyed in the colors of dusk. Captivated by its burning beauty, the craftsman is said to have forged this armlet to hold fast a sunset that would never fully set.","ru":"Браслет, украшенный плавным спиральным узором из красного золота, с тёплыми алыми кристаллами. То, как переплетаются огни, — это сама картина вздымающейся и готовой вспыхнуть дымки.\nГоворят, давным-давно ремесленник, шедший по берегу реки, повстречал вид, окрашенный в цвета заката. Пленённый его пламенной красотой, ремесленник выковал этот браслет, чтобы удержать закат, которому не суждено погаснуть."}
+{"id":"accessory:5891024387840000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5891024387840001","en":"Commission - Blazing Flame's Ward III","ru":"Поручение — Оберег пламенного огня III"}
+{"id":"accessory:5891024387840002","en":"Commission - Blazing Flame's Ward II","ru":"Поручение — Оберег пламенного огня II"}
+{"id":"accessory:5891453884563712","en":"Unfinished Campaign","ru":"Незавершённый поход"}
+{"id":"accessory:5891453884568832","en":"Clothes that hardly seem fit for one marching to the battlefield.\nTo one who has thrown themselves into battle, the origins they carried on their back hardly matter. What matters is what awaits at the end of this road.","ru":"Одежда, которая совсем не кажется подходящей для того, кто отправляется на поле битвы.\nДля того, кто бросился в бой, неважно, откуда он родом. Важно лишь то, что ждёт в конце этого пути."}
+{"id":"accessory:5891453884569600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5891453884569601","en":"Commission - Hillside Frontier III","ru":"Поручение — Окраина холмов III"}
+{"id":"accessory:5891453884569602","en":"Commission - Hillside Frontier II","ru":"Поручение — Окраина холмов II"}
+{"id":"accessory:5891883381293312","en":"Unfinished Wild Road","ru":"Незавершённая дикая тропа"}
+{"id":"accessory:5891883381298432","en":"Boots that hardly seem fit for one marching to the battlefield.\nTo one who has thrown themselves into battle, the origins they carried on their back hardly matter. What matters is what awaits at the end of this road.","ru":"Сапоги, которые совсем не кажутся подходящими для того, кто отправляется на поле битвы.\nДля того, кто бросился в бой, неважно, откуда он родом. Важно лишь то, что ждёт в конце этого пути."}
+{"id":"accessory:5891883381299200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5891883381299201","en":"Commission - Rushing Torrent's Ward III","ru":"Поручение — Оберег бурного потока III"}
+{"id":"accessory:5891883381299202","en":"Commission - Rushing Torrent's Ward II","ru":"Поручение — Оберег бурного потока II"}
+{"id":"accessory:5892312878022912","en":"Torrent","ru":"Бурный поток"}
+{"id":"accessory:5892312878028032","en":"Earrings with a streamlined crystal ornament suspended by a slender chain. They hold a clear, cold hue, like a rushing torrent threading between the gaps in rocks—small in size, yet radiating a sharp, honed presence.","ru":"Серьги с обтекаемым украшением из кристалла, подвешенным на тонкой цепочке. В них чистый и холодный оттенок, словно стремительный поток, пробивающийся сквозь расщелины скал; они невелики, но излучают острую, отточенную выразительность."}
+{"id":"accessory:5892312878028800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5892312878028801","en":"Commission - Rushing Torrent's Ward III","ru":"Поручение — Оберег бурного потока III"}
+{"id":"accessory:5892312878028802","en":"Commission - Rushing Torrent's Ward II","ru":"Поручение — Оберег бурного потока II"}
+{"id":"accessory:5892742374752512","en":"Swirling Tide","ru":"Вздымающийся прилив"}
+{"id":"accessory:5892742374757632","en":"A ring carved with layer upon layer of ripples, with a deep-hued crystal set in the center. Each time the light wavers, a tiny tide ebbs and flows within the crystal. Beneath the still water lurks the power to swallow all.","ru":"Кольцо, на котором вырезаны слой за слоем круги ряби, с тёмным кристаллом в центре. Всякий раз, как колышется свет, внутри кристалла приливает и отступает крошечный прилив. На дне этого спокойствия скрыта сила, способная поглотить всё."}
+{"id":"accessory:5892742374758400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5892742374758401","en":"Commission - Hillside Frontier III","ru":"Поручение — Окраина холмов III"}
+{"id":"accessory:5892742374758402","en":"Commission - Hillside Frontier II","ru":"Поручение — Окраина холмов II"}
+{"id":"accessory:5893171871482112","en":"Dawn's Enlightening","ru":"Просветление рассвета"}
+{"id":"accessory:5893171871487232","en":"A spirit staff framed by long golden branches. Overlapping patterns rise upward, and the clear gem at its top is like a rising dawn. Solemn and brilliantly radiant, the staff proclaims the end of the old night and the coming of a new day.","ru":"Духовный посох, основой которого служат длинные золотые ветви. Наложенные друг на друга узоры тянутся вверх. Чистый самоцвет на его вершине словно восходящая заря. Торжественный и ярко сияющий, этот посох возвещает конец прежней ночи и приход нового дня."}
+{"id":"accessory:5893171871488000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5893171871488001","en":"Commission - Evergreen Protection III","ru":"Поручение — Вечнозелёное покровительство III"}
+{"id":"accessory:5893171871488002","en":"Commission - Evergreen Protection II","ru":"Поручение — Вечнозелёное покровительство II"}
+{"id":"accessory:5893601368211712","en":"Echo of Iron Fire","ru":"Отзвук железного огня"}
+{"id":"accessory:5893601368216832","en":"A short dagger forged from iron and red gold. The blade is short, and on its surface faintly floats a dark red pattern like the marks of flame. The blade is thin and hot, as though it harbors the heat of the forge. When swung, that vivid sound returns—blazing fire bursting upon the anvil.","ru":"Короткий кинжал, выкованный из железа и красного золота. Лезвие короткое, а на его поверхности едва проступает тёмно-красный узор, похожий на следы пламени. Лезвие тонкое и горячее, будто в нём скрыт жар горна. Стоит взмахнуть — и вновь оживает тот яркий звук, когда ярое пламя с треском вспыхивает на наковальне."}
+{"id":"accessory:5893601368217600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5893601368217601","en":"Commission - Evergreen Protection III","ru":"Поручение — Вечнозелёное покровительство III"}
+{"id":"accessory:5893601368217602","en":"Commission - Evergreen Protection II","ru":"Поручение — Вечнозелёное покровительство II"}
+{"id":"accessory:5894030864941312","en":"Twin Blades that Rend the Sky","ru":"Парные клинки, рассекающие небо"}
+{"id":"accessory:5894030864946432","en":"A pair of twin blades. The blades are slender, light, and sharp. Along the curving blades waver blade patterns like lightning. A single flash is like a bolt of lightning, splitting even the heavens in an instant.","ru":"Пара парных клинков. Клинки тонкие, лёгкие и острые. По изогнутому лезвию струится узор, напоминающий молнию. Одна вспышка, словно разряд молнии, за миг рассекает даже небо."}
+{"id":"accessory:5894030864947200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5894030864947201","en":"Commission - Azure Thunder's Protection III","ru":"Поручение — Защита лазурного грома III"}
+{"id":"accessory:5894030864947202","en":"Commission - Rushing Torrent's Ward III","ru":"Поручение — Оберег бурного потока III"}
+{"id":"accessory:5894030864947203","en":"Commission - Azure Thunder's Protection II","ru":"Поручение — Защита лазурного грома II"}
+{"id":"accessory:5894030864947204","en":"Commission - Rushing Torrent's Ward II","ru":"Поручение — Оберег бурного потока II"}
+{"id":"accessory:5894460361670912","en":"Stormchaser","ru":"Ловец бури"}
+{"id":"accessory:5894460361676032","en":"A single horizontal sword. When placed beneath the moon, a hazy blue flowing pattern surfaces on the blade, as though mountain mist lurks within it. When swung, the flowing pattern retreats along the edge and scatters like mist—hence it was named 'Stormchaser.'","ru":"Один горизонтальный меч. Если положить его под луной, на клинке проступает дымчатый синий струящийся узор, будто внутри прячется горный туман. Стоит взмахнуть — и узор отступает вдоль лезвия и рассеивается, словно туман, — потому его и назвали «Ловцом бури»."}
+{"id":"accessory:5894460361676800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5894460361676801","en":"Commission - Azure Thunder's Protection III","ru":"Поручение — Защита лазурного грома III"}
+{"id":"accessory:5894460361676802","en":"Commission - Rushing Torrent's Ward III","ru":"Поручение — Оберег бурного потока III"}
+{"id":"accessory:5894460361676803","en":"Commission - Azure Thunder's Protection II","ru":"Поручение — Защита лазурного грома II"}
+{"id":"accessory:5894460361676804","en":"Commission - Rushing Torrent's Ward II","ru":"Поручение — Оберег бурного потока II"}
+{"id":"accessory:5894889858400512","en":"Garden's Proverb","ru":"Изречение сада"}
+{"id":"accessory:5894889858405632","en":"A strange single bead—neither quite a fruit nor quite a crystal. Whether sunk in water or held up to the light, it reveals a different pattern. Its meaning has yet to be unraveled.","ru":"Странная единственная бусина — не то плод, не то кристалл. Опусти её в воду или посмотри сквозь неё на свет — и проявится иной узор. Смысл его до сих пор не разгадан."}
+{"id":"accessory:5894889858406400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5894889858406401","en":"Commission - Blazing Flame's Ward III","ru":"Поручение — Оберег пламенного огня III"}
+{"id":"accessory:5894889858406402","en":"Commission - Hillside Frontier III","ru":"Поручение — Окраина холмов III"}
+{"id":"accessory:5894889858406403","en":"Commission - Blazing Flame's Ward II","ru":"Поручение — Оберег пламенного огня II"}
+{"id":"accessory:5894889858406404","en":"Commission - Hillside Frontier II","ru":"Поручение — Окраина холмов II"}
+{"id":"accessory:5895319355130112","en":"Wrath of the Torrent","ru":"Гнев потока"}
+{"id":"accessory:5895319355135232","en":"A giant hammer. Its forger is unknown, but it is said that none but a giant could wield it freely. There were once those who tried to swing it, several people at a time, yet they managed to bring it down only once. The moment the hammer struck the ground, water welled up from the earth—hence it was named 'Wrath of the Torrent.'","ru":"Огромный молот. Кузнец его неизвестен, но говорят, что свободно размахивать им под силу лишь великану. Однажды нашлись смельчаки, что пытались раскачать его вдвоём-втроём, но опустить его удалось лишь однажды. В тот миг, когда молот ударил о землю, из-под земли забила вода — потому его и назвали «Гневом потока»."}
+{"id":"accessory:5895319355136000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:5895319355136001","en":"Commission - Blazing Flame's Ward III","ru":"Поручение — Оберег пламенного огня III"}
+{"id":"accessory:5895319355136002","en":"Commission - Hillside Frontier III","ru":"Поручение — Окраина холмов III"}
+{"id":"accessory:5895319355136003","en":"Commission - Blazing Flame's Ward II","ru":"Поручение — Оберег пламенного огня II"}
+{"id":"accessory:5895319355136004","en":"Commission - Hillside Frontier II","ru":"Поручение — Окраина холмов II"}
+{"id":"accessory:6271128993530112","en":"Nebula's Resonance","ru":"Резонанс туманности"}
+{"id":"accessory:6271128993535232","en":"A finely tailored dress. Its hem is adorned with a pattern that evokes ripples spreading out in many layers.\nDeep resonance always arrives as an 'echo.' Sound by nature has no form. But wind, too, has no form. Yet when you see the blades of grass all bending at once, you can see there the 'shape of the wind.' So then, what of sound? Whispered words soak into the heart and spread outward like ripples—that very sensation must be the 'shape of sound.'\nThinking so, a certain girl yearned for the day she would meet someone whose heart would resonate with her own. She drew that feeling into a pattern and entrusted it to a craftsman.\nAnd thus came this dress to be.","ru":"Искусно сшитое платье. По его подолу идёт узор, напоминающий разбегающуюся слой за слоем рябь.\nГлубокий резонанс всегда приходит как «отзвук». Звук по своей природе не имеет формы. Но и ветер не имеет формы. Однако, глядя на то, как разом склоняются травы, можно увидеть в этом «форму ветра». А что же тогда звук? Прошептанные слова проникают в сердце и растекаются, словно рябь, — само это ощущение и есть, должно быть, «форма звука».\nТак думала одна девушка; она тосковала по дню, когда встретит кого-то, чьё сердце будет звучать в лад с её собственным. Она нарисовала это чувство в узоре и вверила его ремесленнику.\nТак и появилось это платье."}
+{"id":"accessory:6271128993536000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6271128993536001","en":"Commission - Thick-Rock Heavy Shield V","ru":"Поручение — Тяжёлый щит скалы V"}
+{"id":"accessory:6271128993536002","en":"Commission - Thick-Rock Heavy Shield IV","ru":"Поручение — Тяжёлый щит скалы IV"}
+{"id":"accessory:6271558490259712","en":"Echo of the Heart","ru":"Отзвук сердца"}
+{"id":"accessory:6271558490264832","en":"A finely tailored pair of short boots. Carved into the soles is a pattern that evokes ripples spreading out in many layers.\nDeep resonance always arrives as an 'echo.' Sound by nature has no form. But wind, too, has no form. Yet when you see the blades of grass all bending at once, you can see there the 'shape of the wind.' So then, what of sound? Whispered words soak into the heart and spread outward like ripples—that very sensation must be the 'shape of sound.'\nThinking so, a certain girl yearned for the day she would meet someone whose heart would resonate with her own. She drew that feeling into a pattern and entrusted it to a craftsman.\nAnd thus came these short boots to be.","ru":"Искусно сшитые короткие сапожки. На их подошве вырезан узор, напоминающий разбегающуюся слой за слоем рябь.\nГлубокий резонанс всегда приходит как «отзвук». Звук по своей природе не имеет формы. Но и ветер не имеет формы. Однако, глядя на то, как разом склоняются травы, можно увидеть в этом «форму ветра». А что же тогда звук? Прошептанные слова проникают в сердце и растекаются, словно рябь, — само это ощущение и есть, должно быть, «форма звука».\nТак думала одна девушка; она тосковала по дню, когда встретит кого-то, чьё сердце будет звучать в лад с её собственным. Она нарисовала это чувство в узоре и вверила его ремесленнику.\nТак и появились эти короткие сапожки."}
+{"id":"accessory:6271558490265600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6271558490265601","en":"Commission - Blazing Flame's Protection V","ru":"Поручение — Защита пылающего пламени V"}
+{"id":"accessory:6271558490265602","en":"Commission - Blazing Flame's Protection IV","ru":"Поручение — Защита пылающего пламени IV"}
+{"id":"accessory:6271987986989312","en":"Flash's Interstice","ru":"Просвет вспышки"}
+{"id":"accessory:6271987986994432","en":"Earrings in which silvery-white metal is bent to trace the shape of a crack, with faintly dark-glowing crystal set within the gap. Light as they are, they radiate the sharpness of a blade. If the one who wears them runs through the night, that radiance will surely cleave the curtain of darkness.","ru":"Серьги, в которых серебристо-белый металл изогнут, повторяя очертания трещины, а в её промежуток вставлен тускло светящийся кристалл. Будучи лёгкими, они излучают остроту, напоминающую клинок. Если тот, кто их носит, помчится сквозь ночь, это сияние наверняка рассечёт покров тьмы."}
+{"id":"accessory:6271987986995200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6271987986995201","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6271987986995202","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6272417483718912","en":"Red-Gold Earrings","ru":"Ало-золотые серьги"}
+{"id":"accessory:6272417483724032","en":"Earrings with a cinnabar base and golden beads set into it.\nA certain craftsman obtained a fragment of crimson sand but for a long time could find no use for it. One day, while his daughter was playing in the workshop, she dropped a golden ornament. When they searched for it, it was resting atop the cinnabar sand. Red and gold—the two colors set each other off, revealing a beauty like blazing fire scorching gold. Moved by that sight, the craftsman adorned the cinnabar with gold and crafted these earrings.","ru":"Серьги с киноварной основой, в которую вставлены золотые бусины.\nОдин ремесленник раздобыл крупицу киноварного песка, но долго не мог найти ему применения. Однажды, пока его дочь играла в мастерской, она уронила золотое украшение. Когда его стали искать, оно лежало на киноварном песке. Красный и золотой — два цвета подчёркивали друг друга, являя красоту, словно ярое пламя, опаляющее золото. Тронутый этим зрелищем ремесленник украсил киноварь золотом и создал эти серьги."}
+{"id":"accessory:6272417483724800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6272417483724801","en":"Commission - Blazing Flame's Protection V","ru":"Поручение — Защита пылающего пламени V"}
+{"id":"accessory:6272417483724802","en":"Commission - Blazing Flame's Protection IV","ru":"Поручение — Защита пылающего пламени IV"}
+{"id":"accessory:6272846980448512","en":"Jade Feather","ru":"Нефритовое перо"}
+{"id":"accessory:6272846980453632","en":"A certain craftsman chanced upon a kingfisher. Loving the color of its feathers, he began to raise it with care. It is said he always gave it food and lodging finer than his own.\nBut when asked in jest, \"Do you mean to make those jade feathers into ornaments someday and sell them for a high price?\" he began to doubt his own heart. \"Is it truly the kingfisher I love, and not its beautiful feathers?\" Unable to dispel that doubt, one day he forgot to close the door of the birdcage, and the kingfisher flew away.\nA hollow opened in his chest. Yet at the same time, he noticed he felt somehow lighter.\nSeveral days passed. While sweeping the room, he found two jade feathers beneath the desk. Their color was as vivid as ever. The craftsman is said to have made a pair of earrings from those feathers and entrusted to them a soundless echo.","ru":"Один ремесленник случайно поймал зимородка. Полюбив цвет его перьев, он принялся заботливо его растить. Говорят, он всегда давал птице корм и жильё роскошнее, чем себе.\nНо когда его в шутку спросили: «Уж не собираешься ли ты однажды сделать из этих нефритовых перьев украшения и продать их задорого?» — он начал сомневаться в собственном сердце. «Неужели я люблю не зимородка, а его красивые перья?» Не сумев развеять это сомнение, однажды он забыл закрыть дверцу клетки, и зимородок улетел.\nВ груди у него образовалась пустота. Но при этом он заметил, что ему отчего-то стало легче.\nПрошло несколько дней. Подметая комнату, он обнаружил под столом два нефритовых пера. Цвет их оставался таким же ярким, как прежде. Говорят, ремесленник сделал из этих перьев пару серёг и вверил им беззвучный отзвук."}
+{"id":"accessory:6272846980454400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6272846980454401","en":"Commission - Blazing Flame's Protection V","ru":"Поручение — Защита пылающего пламени V"}
+{"id":"accessory:6272846980454402","en":"Commission - Blazing Flame's Protection IV","ru":"Поручение — Защита пылающего пламени IV"}
+{"id":"accessory:6273276477178112","en":"Starfalling Armlet","ru":"Браслет звездопада"}
+{"id":"accessory:6273276477183232","en":"A mithril armlet scattered with many grains of crystal stone. Those crystals shine like spilled stardust. The slightest shake sends forth light like shattered stars raining down.","ru":"Мифриловый браслет, усыпанный множеством крупиц кристаллов. Эти кристаллы сияют, словно рассыпанная звёздная пыль. Стоит чуть встряхнуть — и он испускает свет, будто дождём сыплются разбитые звёзды."}
+{"id":"accessory:6273276477184000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6273276477184001","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6273276477184002","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6273705973907712","en":"Ring of Blazing Splendor","ru":"Кольцо огненного цветения"}
+{"id":"accessory:6273705973912832","en":"A red-gold ring carved with a pattern of rising flames, with a vivid crimson crystal set in the center. Its design is said to be inspired by the sight of a blacksmith forging a sword. Red-hot iron is hammered and forged, and sparks scatter like flowers blooming—that single moment of brilliance is captured in the ring's design.","ru":"Кольцо из красного золота с узором вздымающегося пламени, в центре которого вставлен яркий алый кристалл. Говорят, замысел узора навеян картиной, как кузнец куёт меч. Раскалённое железо куют молотом, и искры разлетаются, словно распускающиеся цветы, — то самое мгновение сияния и запечатлено в узоре кольца."}
+{"id":"accessory:6273705973913600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6273705973913601","en":"Commission - Thick-Rock Heavy Shield V","ru":"Поручение — Тяжёлый щит скалы V"}
+{"id":"accessory:6273705973913602","en":"Commission - Thick-Rock Heavy Shield IV","ru":"Поручение — Тяжёлый щит скалы IV"}
+{"id":"accessory:6274135470637312","en":"Ring of Drifting Clouds","ru":"Кольцо плывущих облаков"}
+{"id":"accessory:6274135470642432","en":"A lapis-colored ring. The stone has a warm hue, and many streaks of white flowing patterns run through its interior. Held up to the light, the patterns undulate gently, just like clouds drifting across the heavens.","ru":"Кольцо лазурного оттенка. Камень тёплого тона, а внутри него бегут множество белых струящихся узоров. Если поднести к свету, узоры мягко колышутся — совсем как облака, плывущие по небесам."}
+{"id":"accessory:6274135470643200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6274135470643201","en":"Commission - Thick-Rock Heavy Shield V","ru":"Поручение — Тяжёлый щит скалы V"}
+{"id":"accessory:6274135470643202","en":"Commission - Thick-Rock Heavy Shield IV","ru":"Поручение — Тяжёлый щит скалы IV"}
+{"id":"accessory:6274564967366912","en":"Night Sky Cloak","ru":"Плащ ночного неба"}
+{"id":"accessory:6274564967372032","en":"A cloak made from an extremely sheer veil and delicate woven fabric. Its edges are given a starry-sky gradient, and when spread out it shows the charm of gazing upon the night sky. Wrapped in it, the light of the stars wavers, and one's gait is like that of a traveler wandering among the stars.","ru":"Плащ, сшитый из тончайшей вуали и изящной ткани. По его краям идёт градиент звёздного неба, а если расправить его, он являет очарование созерцания ночного неба. Укутавшись в него, видишь, как мерцает сияние звёзд, а походка становится словно у странника, что блуждает среди звёзд."}
+{"id":"accessory:6274564967372800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6274564967372801","en":"Commission - Rapids' Protection V","ru":"Поручение — Защита стремительных вод V"}
+{"id":"accessory:6274564967372802","en":"Commission - Rapids' Protection IV","ru":"Поручение — Защита стремительных вод IV"}
+{"id":"accessory:6274994464096512","en":"Boots of Harmony","ru":"Сапоги согласия"}
+{"id":"accessory:6274994464101632","en":"Boots whose ring-shaped patterns symbolize harmony. They make no excess sound at all when you walk. A traveling troupe had them made for its performers, and they are said to have been prepared so the troupe could keep stride with its companions.","ru":"Сапоги, кольцевой узор которых олицетворяет согласие. При ходьбе они совсем не издают лишнего шума. Их заказала для своих артистов одна странствующая труппа, и, говорят, они были сделаны, чтобы держать шаг заодно с товарищами."}
+{"id":"accessory:6274994464102400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6274994464102401","en":"Commission - Wall of Bitter Cold V","ru":"Поручение — Стена лютой стужи V"}
+{"id":"accessory:6274994464102402","en":"Commission - Wall of Bitter Cold IV","ru":"Поручение — Стена лютой стужи IV"}
+{"id":"accessory:6275423960826112","en":"Swift Thunder Hunter","ru":"Стремительный громовый охотник"}
+{"id":"accessory:6275423960831232","en":"Earrings of an eccentric shape, as though a bolt of lightning had been stuck to the ear. Made for Hunters, they let a faint sense of wind being split brush past your ear with every movement. \"Those who rely on their eyes are slow; those who hear the trembling of the wind are swift,\" the hunters of old believed.","ru":"Серьги причудливой формы, будто к уху прилепилась молния. Созданные для охотников, они при каждом движении дают мимо уха скользнуть лёгкому ощущению рассекаемого ветра. «Кто полагается на глаза — медлителен, а кто слышит дрожь ветра — быстр», — верили в старину охотники."}
+{"id":"accessory:6275423960832000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6275423960832001","en":"Commission - Wall of Bitter Cold V","ru":"Поручение — Стена лютой стужи V"}
+{"id":"accessory:6275423960832002","en":"Commission - Wall of Bitter Cold IV","ru":"Поручение — Стена лютой стужи IV"}
+{"id":"accessory:6275853457555712","en":"Hairpin of the Cold Moon","ru":"Шпилька холодной луны"}
+{"id":"accessory:6275853457560832","en":"A hairpin in which slender silver branches stand in for a withered tree. Without any ornate adornment, a single icy silver moon hangs upon the branch—as though in a winter forest stripped of its leaves, only the freezing moon had been left behind.","ru":"Шпилька, в которой тонкие серебряные ветви изображают иссохшее дерево. Без каких-либо пышных украшений, на ветви висит лишь одна холодная серебряная луна — словно в зимнем лесу, где опали листья, осталась только леденящая луна."}
+{"id":"accessory:6275853457561600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6275853457561601","en":"Commission - Wall of Bitter Cold V","ru":"Поручение — Стена лютой стужи V"}
+{"id":"accessory:6275853457561602","en":"Commission - Wall of Bitter Cold IV","ru":"Поручение — Стена лютой стужи IV"}
+{"id":"accessory:6276282954285312","en":"Forest Echo Bead","ru":"Бусина лесного эха"}
+{"id":"accessory:6276282954290432","en":"Earrings strung with blue-green beads of varying hues. Each time they sway, they give off a soft sound like the leaves of the forest rubbing together.","ru":"Серьги, нанизанные из сине-зелёных бусин разных оттенков. Всякий раз, покачиваясь, они издают мягкий звук, словно трутся друг о друга листья в лесу."}
+{"id":"accessory:6276282954291200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6276282954291201","en":"Commission - Wall of Bitter Cold V","ru":"Поручение — Стена лютой стужи V"}
+{"id":"accessory:6276282954291202","en":"Commission - Wall of Bitter Cold IV","ru":"Поручение — Стена лютой стужи IV"}
+{"id":"accessory:6276712451014912","en":"Thunder-Cutting Feather","ru":"Перо, рассекающее гром"}
+{"id":"accessory:6276712451020032","en":"An armlet built from many layers of silverwork and feather-like metal pieces. Its sharp edges and light patterns seem as though the whistle of wind streaking across the sky and the flash of lightning have been sealed within the wrist.","ru":"Браслет, составленный из множества слоёв серебряной работы и лепестков металла, похожих на перья. Его острые края и лёгкие узоры словно запечатали в запястье свист ветра, несущегося по небу, и блеск молнии."}
+{"id":"accessory:6276712451020800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6276712451020801","en":"Commission - Rapids' Protection V","ru":"Поручение — Защита стремительных вод V"}
+{"id":"accessory:6276712451020802","en":"Commission - Rapids' Protection IV","ru":"Поручение — Защита стремительных вод IV"}
+{"id":"accessory:6277141947744512","en":"Glacier's Severance","ru":"Разлом ледника"}
+{"id":"accessory:6277141947749632","en":"A bracelet of joined fragments. The general obtained it on campaign and entrusted it, along with many other rare treasures, to a messenger to send home to his wife. But on the return journey the river ice suddenly broke, and most of the goods being carried were lost. This bracelet too was shattered, and only half of it made it back.\nWhen his wife received it, she sought out another jade stone and had the remaining half remade to match.","ru":"Браслет из соединённых фрагментов. Генерал добыл его в дальнем походе и вместе с множеством диковинных сокровищ передал гонцу, чтобы тот доставил всё его жене. Но на обратном пути речной лёд внезапно треснул, и большая часть груза была утрачена. Этот браслет тоже раскололся — вернулась лишь половина.\nГоворят, получив её, жена нашла другой нефрит и велела восполнить недостающую половину."}
+{"id":"accessory:6277141947750400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6277141947750401","en":"Commission - Rapids' Protection V","ru":"Поручение — Защита стремительных вод V"}
+{"id":"accessory:6277141947750402","en":"Commission - Rapids' Protection IV","ru":"Поручение — Защита стремительных вод IV"}
+{"id":"accessory:6277571444474112","en":"Wind Song of the Green Fields","ru":"Песнь ветра зелёных полей"}
+{"id":"accessory:6277571444479232","en":"A bracelet strung with beads of blue-green in every shade, adorned with slender feathers and small stones. With each step the beads brush together and give a faint sound. Like leaves rustling in a grove, like an echo returning from a distant branch. It is as if the whisper of the forest itself has been bound to your wrist.","ru":"Браслет из бусин сине-зелёных оттенков, от тёмных до светлых, украшенный тонкими перьями и мелкими камешками. При каждом шаге бусины касаются друг друга и издают едва слышный звук. Словно шелест листвы в чаще, словно отклик далёкой ветви. Кажется, будто сам шёпот леса привязан к запястью."}
+{"id":"accessory:6277571444480000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6277571444480001","en":"Commission - Rapids' Protection V","ru":"Поручение — Защита стремительных вод V"}
+{"id":"accessory:6277571444480002","en":"Commission - Rapids' Protection IV","ru":"Поручение — Защита стремительных вод IV"}
+{"id":"accessory:6278000941203712","en":"The Hero's Resolve","ru":"Решимость героя"}
+{"id":"accessory:6278000941208832","en":"A light cloak tailored for those who set out on distant journeys. Its hem is finished with clean, crisp folds, so it does not hinder the swing of a sword or slow a forward stride.\nA true hero does not always bare their sharpness. They hone their resolve in stillness, and with the one strike they finally unleash, they cleave through all that bars their path.","ru":"Лёгкий плащ, сшитый для тех, кто отправляется в далёкий путь. Его края отделаны чёткими складками: он не мешает замаху меча и не замедляет шаг.\nИстинный герой не всегда обнажает свою остроту. В тишине он оттачивает решимость — и одним ударом, когда придёт час, рассекает всё, что преграждает ему путь."}
+{"id":"accessory:6278000941209600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6278000941209601","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6278000941209602","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6278430437933312","en":"Tale of the Hero","ru":"Повесть о герое"}
+{"id":"accessory:6278430437938432","en":"Sturdy ankle boots that have crossed mountain paths and long stone stairways alongside many a traveler. Their surface bears countless fine, indelible scratches.\nThe tale of a hero is not carved only in songs of triumph. It is hidden in every step that never stopped.","ru":"Крепкие ботинки, прошедшие вместе со странниками горные тропы и длинные каменные лестницы. На их поверхности бесчисленное множество мелких царапин, которые уже не сойдут.\nПовесть о герое высекается не только в победных песнях. Она сокрыта в каждом шаге, который не остановился."}
+{"id":"accessory:6278430437939200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6278430437939201","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6278430437939202","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}
+{"id":"accessory:6278859934662912","en":"Descent of Dawn","ru":"Нисхождение зари"}
+{"id":"accessory:6278859934668032","en":"A necklace hung with crystals of pale gold, near white. Plain as it looks, it is said to have once adorned a hero's neck.\nAt the end of a long night, the warriors were covered in blood and weariness, unable even to notice that dawn had come. Yet the first to notice the dawn reflected in those crystals was the one who wore this necklace. In that very moment, when the people raised their voices to praise the daybreak—victory too had arrived.","ru":"Ожерелье с кристаллами почти белого бледно-золотого цвета. С виду оно скромное, но, по преданию, когда-то украшало шею героя.\nНа исходе долгой ночи воины, покрытые кровью и усталостью, не замечали даже, что пришёл рассвет. И первым, кто увидел зарю, отражённую в кристаллах, был владелец этого ожерелья. В тот миг, когда люди возвысили голоса, славя рассвет, пришла и победа."}
+{"id":"accessory:6278859934668800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6278859934668801","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6278859934668802","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}
+{"id":"accessory:6279289431392512","en":"Afterimage of the Red Spider Lily","ru":"Отражение алого паучьего цветка"}
+{"id":"accessory:6279289431397632","en":"A hair ornament shaped like a blooming flower, layering crimson, dark red, and gold. When worn, slender filaments trail down among the hair. Swaying with every step, they resemble a flower floating on the ink-dark surface of a river, and also a fire kindled in the deep of night.","ru":"Украшение для волос, сложенное из алого, тёмно-красного и золотого и выполненное в форме раскрывающегося цветка. Когда его носят, тонкие цветочные нити свисают между прядями. Покачиваясь при каждом шаге, они напоминают цветок, плывущий по чернильной глади реки, или огонь, зажжённый в глубине ночи."}
+{"id":"accessory:6279289431398400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6279289431398401","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6279289431398402","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}
+{"id":"accessory:6279718928122112","en":"Oath of the Sun Disc","ru":"Клятва солнечного диска"}
+{"id":"accessory:6279718928127232","en":"A red-gold ornament set upon the brow. At its center is a crystal that shines as if it has captured the blazing sun.\nIt is said that travelers of old bound this sun-disc ornament to their brows and chanted, \"The sun is in the sky, and the sun is in me,\" to drive away the weariness and doubt of the long road. So long as the heart does not retreat, the sun does not set. The path ahead, too, remains lit by that burning will.","ru":"Красно-золотое украшение, которое носят на лбу. В его центре — кристалл, сияющий так, словно вобрал в себя палящее солнце.\nГоворят, древние странники закрепляли на лбу этот солнечный символ и, повторяя «Солнце в небе — и солнце во мне», прогоняли усталость и сомнения долгого пути. Пока сердце не отступает, солнце не заходит. И дорога впереди всё так же озарена этой жгучей волей."}
+{"id":"accessory:6279718928128000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6279718928128001","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6279718928128002","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}
+{"id":"accessory:6280148424851712","en":"Morning Star","ru":"Утренняя звезда"}
+{"id":"accessory:6280148424856832","en":"A simple ring holding a faint crystal upon a ring of silver-white. Those who have journeyed through the long night know this: it is not the dazzling light of day that stirs a person's heart, but that single glimmer of starlight rising before all others at the edge of the dark.","ru":"Простое кольцо с крошечным кристаллом на ободе из серебристо-белого металла. Те, кому довелось идти сквозь долгую ночь, знают: сердце поднимает не ослепительный свет дня, а одинокая искра звезды, восходящей прежде всех на краю тьмы."}
+{"id":"accessory:6280148424857600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6280148424857601","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6280148424857602","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6280577921581312","en":"Scattering Moonflower","ru":"Осыпающийся лунный цвет"}
+{"id":"accessory:6280577921586432","en":"A bracelet strung with thin slices shaped like the phases of the moon. Strange in form, yet under the moon it always catches a light that seems to spill over as they overlap. A clear, cold radiance, as if scattered moon had been laid out to cover the wrist.","ru":"Браслет из тонких пластинок в форме лунных фаз. Форма его необычна, но под луной он всегда ловит свет, который словно переливается через край там, где пластины накладываются друг на друга. Ясное, холодное сияние, будто осыпавшаяся луна уложена по всей окружности."}
+{"id":"accessory:6280577921587200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6280577921587201","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6280577921587202","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6281007418310912","en":"The Burning Long Road","ru":"Пылающая долгая дорога"}
+{"id":"accessory:6281007418316032","en":"A thick bracelet with a reddish hue. Its surface is covered in fine marks from repeated firings, like embers that have not cooled even at the end of a long road.\nThis is not a likeness of a blaze that dies in an instant. It is the journey itself, tempered by both heat and will. The farther one walks, the more that heat grows. Only those who tread the dust, cross harsh lands, and never stop under the burning light will feel in this bracelet the warmth of the path they themselves have walked.","ru":"Толстый браслет с красноватым оттенком. Его поверхность покрыта мелкими следами многократного обжига и похожа на угли, что не остыли даже в конце долгого пути.\nЭто не образ пламени, угасающего в одно мгновение. Это сам путь, закалённый и жаром, и волей. Чем дольше идёшь, тем сильнее становится этот жар. Лишь тот, кто ступал по пыли, пересёк суровые земли и не остановился под палящим светом, ощутит в этом браслете тепло собственного пути."}
+{"id":"accessory:6281007418316800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6281007418316801","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6281007418316802","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6281436915040512","en":"Twill Cloak","ru":"Саржевый плащ"}
+{"id":"accessory:6281436915045632","en":"A light and highly practical cloak. The twill running through the fabric is a hallmark—and a scar.","ru":"Лёгкий и очень удобный плащ. Саржевые полосы на ткани — его отличительный признак, но и рубец."}
+{"id":"accessory:6281436915046400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6281436915046401","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6281436915046402","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6281866411770112","en":"Sound of Triumph","ru":"Звук триумфа"}
+{"id":"accessory:6281866411775232","en":"Sturdy shoes that keep their shape even after long wear. Every step upon stone stairs or open fields rings out clear. That footfall seems to announce the wearer's coming to the road ahead on their behalf.","ru":"Прочные туфли, которые не теряют формы даже от долгой носки. Каждый шаг по каменным ступеням или равнинам отдаётся чистым звуком. Кажется, будто этот стук вместо владельца возвещает о его приближении всему, что ждёт впереди."}
+{"id":"accessory:6281866411776000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6281866411776001","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6281866411776002","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6282295908499712","en":"Stoneheart","ru":"Каменное сердце"}
+{"id":"accessory:6282295908504832","en":"There was once a collector who gathered countless masterpieces, cherishing each one like his own child. One day, entering his vault as usual and raising a lamp to survey the pieces, he suddenly understood: all these treasures arrayed before him were only entrusted to his keeping for a time.\nFrom then on he grew pensive. Someday he wished to make something with his own hands—an item valued in later ages, passed down through the generations. After long deliberation, he chose the hardest, most wear-resistant stone and began carving a set of ornaments. But heaven granted him no time, and he passed away without seeing them finished. His child, and then his grandchild, carried on his will, polishing them, until at last they were complete. Not ornate, but ever since, the pieces have been a treasured heirloom of the family.\nThis earring is one of them. Simple in form, quiet in color like cold stone. Yet it warms in the hand, and behind its modest bearing lies a sure weight. It was named \"Stoneheart\" for an unshakable heart and a will unchanged by the passage of time.","ru":"Жил однажды коллекционер, собиравший бесчисленные шедевры и лелеявший каждый из них, словно собственное дитя. Однажды, войдя, как всегда, в хранилище и подняв лампу, он обвёл взглядом свои сокровища и вдруг понял: все эти бесценные вещи лишь на время доверены ему.\nС тех пор он стал задумчив. Ему хотелось однажды создать нечто своими руками — вещь, которую будут беречь и в грядущих веках, передавая из поколения в поколение. После долгих раздумий он выбрал самый твёрдый и стойкий к износу камень и начал высекать набор украшений. Но небо не дало ему времени, и он ушёл из жизни, не увидев работы завершённой. Его дитя, а затем и внук продолжили его замысел, продолжая шлифовать камень, пока работа наконец не была закончена. Неброское, но с тех пор это изделие стало фамильной драгоценностью рода.\nОдна из таких вещей — эта серьга. Форма проста, цвет тих, как у холодного камня. Но в руке она тепла, и за скромной внешностью таится подлинная тяжесть. Её назвали «Каменное сердце» в честь неколебимого сердца и воли, не меняющейся с годами."}
+{"id":"accessory:6282295908505600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6282295908505601","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6282295908505602","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6282725405229312","en":"Flower That Blooms at Dusk","ru":"Цветок, цветущий в сумерках"}
+{"id":"accessory:6282725405234432","en":"A deep purple flower bound together with a slender jet-black chain as a hair ornament. It is not showy, but pinned in the hair it brings an unexpected joy, like suddenly finding a flower in the dark of dusk.","ru":"Украшение для волос из букетика тёмно-фиолетовых цветов с тонкой чернильно-чёрной цепочкой. В нём нет броскости, но, если вколоть его в волосы, оно дарит нежданную радость, словно вдруг нашёл цветок во мраке сумерек."}
+{"id":"accessory:6282725405235200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6282725405235201","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6282725405235202","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6283154901958912","en":"Thunder That Rings in the Sky","ru":"Гром, звучащий в небе"}
+{"id":"accessory:6283154901964032","en":"An earring made of cold-toned metal. Its edges are sharp as feather tips. A faint tremor runs through it with every stride. The sound resembles the herald of distant thunder rumbling.","ru":"Серьга из металла холодного оттенка. Её края остры, словно кончики перьев. При каждом шаге по ней пробегает лёгкая дрожь. Этот звук похож на предвестие раската далёкого грома."}
+{"id":"accessory:6283154901964800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6283154901964801","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6283154901964802","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6283584398688512","en":"Mountainbone","ru":"Горный хребет"}
+{"id":"accessory:6283584398693632","en":"There was once a collector who gathered countless masterpieces, cherishing each one like his own child. One day, entering his vault alone as usual and raising a lamp to survey the pieces, he suddenly understood: all these treasures arrayed before him were only entrusted to his keeping for a time.\nFrom then on he grew pensive. Someday he wished to make something with his own hands—an item valued in later ages, passed down through the generations. After long deliberation, he chose the hardest, most wear-resistant stone and began carving a set of ornaments. But heaven granted him no time, and he passed away without seeing them finished. His child, and then his grandchild, carried on his will, polishing them, until at last they were complete. Not ornate, but ever since, the pieces have been a treasured heirloom of the family.\nThis ring is one of them. It carries a deep, muted tone throughout, as though carved from the rock of a mountain, with faint ridges rising along its edges. Its timeworn, weighty bearing reflects the firmness of mountain stone and a will unbroken by wind and snow. From this it was named \"Mountainbone.\"","ru":"Жил однажды коллекционер, собиравший бесчисленные шедевры и лелеявший каждый из них, словно собственное дитя. Однажды, войдя, как всегда, один в хранилище и подняв лампу, он обвёл взглядом свои сокровища и вдруг понял: все эти бесценные вещи лишь на время доверены ему.\nС тех пор он стал задумчив. Ему хотелось однажды создать нечто своими руками — вещь, которую будут беречь и в грядущих веках, передавая из поколения в поколение. После долгих раздумий он выбрал самый твёрдый и стойкий к износу камень и начал высекать набор украшений. Но небо не дало ему времени, и он ушёл из жизни, не увидев работы завершённой. Его дитя, а затем и внук продолжили его замысел, продолжая шлифовать камень, пока работа наконец не была закончена. Неброское, но с тех пор это изделие стало фамильной драгоценностью рода.\nОдна из таких вещей — это кольцо. Весь его облик хранит приглушённый оттенок, словно высечен из горной породы, а по краям поднимаются едва заметные гребни. Древняя, тяжеловесная стать отражает крепость горного камня и волю, которую не сломить ни ветром, ни снегом. Оттого его и назвали «Горный хребет»."}
+{"id":"accessory:6283584398694400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6283584398694401","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6283584398694402","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6284013895418112","en":"Crescent at Dusk","ru":"Полумесяц в сумерках"}
+{"id":"accessory:6284013895423232","en":"A bracelet strung with a fine chain and pale silver crescents. It feels almost weightless on the wrist, as if the crescent of dusk had come to rest there.","ru":"Браслет из тонкой цепочки и бледно-серебряных полумесяцев. На запястье он почти невесом — кажется, будто сумеречный месяц задержался на руке."}
+{"id":"accessory:6284013895424000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6284013895424001","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6284013895424002","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6284443392147712","en":"Ring of the Sunstrike","ru":"Кольцо солнечного удара"}
+{"id":"accessory:6284443392152832","en":"A ring with an angular outline. The crystal core set into it is engraved with a radiating pattern that extends with fine precision to its outer edge. The design seems to capture the very instant when lightning cleaves and blade-like light bursts forth.","ru":"Кольцо угловатых очертаний. В оправленный кристаллический сердечник врезан лучевой узор, который с тонкой точностью тянется к самому внешнему краю. Кажется, будто в этом узоре запечатлён миг, когда разверзается молния и вырывается свет, подобный острию клинка."}
+{"id":"accessory:6284443392153600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6284443392153601","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6284443392153602","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6284872888877312","en":"Melody of Rupture","ru":"Мелодия разлома"}
+{"id":"accessory:6284872888882432","en":"A cloak whose meaning lies in display rather than utility. The fabric is engraved with a pattern of layered forms pressing ever forward, like a long song that never ends.\nThe maker is said to have regarded \"breaking what bars the way\" as a talent more precious than victory. Many roads are not open from the start. They must have wished to give form to that will—to push open what is closed, inch by inch.\nThis is that garment.","ru":"Плащ, в котором смысл заключён не в пользе, а в показе. На ткани высечен узор из слоистых форм, устремлённых вперёд, — словно долгая песнь, что не умолкает.\nГоворят, создатель считал «сокрушать преграды» дарованием более драгоценным, чем победа. Ведь многие дороги не открыты изначально. Вероятно, он хотел облечь в форму ту волю, что размыкает затворённое — вершок за вершком.\nВот она, эта вещь."}
+{"id":"accessory:6284872888883200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6284872888883201","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6284872888883202","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}
+{"id":"accessory:6285302385606912","en":"Edge That Cuts the Wind","ru":"Остриё, рассекающее ветер"}
+{"id":"accessory:6285302385612032","en":"Shoes whose meaning lies in display rather than utility. A pattern of layered forms pressing ever forward adorns them throughout, like a long song that never ends.\nThe maker is said to have regarded \"breaking what bars the way\" as a talent more precious than victory. Many roads are not open from the start. They must have wished to give form to that will—to push open what is closed, inch by inch.\nThis is that pair.","ru":"Обувь, в которой смысл заключён не в пользе, а в показе. Весь её облик украшает узор из слоистых форм, устремлённых вперёд, — словно долгая песнь, что не умолкает.\nГоворят, создатель считал «сокрушать преграды» дарованием более драгоценным, чем победа. Ведь многие дороги не открыты изначально. Вероятно, он хотел облечь в форму ту волю, что размыкает затворённое — вершок за вершком.\nВот она, эта пара."}
+{"id":"accessory:6285302385612800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6285302385612801","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6285302385612802","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6285731882336512","en":"Blessing of the Wind","ru":"Благословение ветра"}
+{"id":"accessory:6285731882341632","en":"A hair ornament meant less as adornment than as a wish for lightness and safe travels.\nMay blessing and prayer ride upon the wind, and guide you on your way.","ru":"Украшение для волос, которое дарят не столько для красы, сколько как пожелание лёгкости и доброго пути.\nПусть благословение и молитва летят на крыльях ветра и ведут вас в дороге."}
+{"id":"accessory:6285731882342400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6285731882342401","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6285731882342402","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6286161379066112","en":"Soulbreaker of the Dark Night","ru":"Сокрушитель душ тёмной ночи"}
+{"id":"accessory:6286161379071232","en":"A hairpin finished with a jet-black tassel. Its tip is rounded and its ornament plain, easy to hide in the hair. But its core conceals a mechanism—draw it out, and it becomes a long needle.","ru":"Шпилька для волос с чернильно-чёрной кисточкой. Её кончик округлён, украшение скромно, и её легко спрятать в волосах. Но в сердцевине скрыт механизм: вытащи — и она станет длинной иглой."}
+{"id":"accessory:6286161379072000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6286161379072001","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6286161379072002","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6286590875795712","en":"Lightning Strike Verdict","ru":"Приговор удара молнии"}
+{"id":"accessory:6286590875800832","en":"An earring forged of silver and iron. Its chain is shaped like shackles, and fine lightning-like patterns are engraved on its surface. The clasp has a sharp, clean edge, and when fitted together, it is said to give off a faint sound of lightning strike.","ru":"Серьга, выкованная из серебра и железа. Её цепочка выполнена в форме кандалов, а на поверхности вырезаны мелкие узоры, похожие на молнии. У застёжки отчётливо острый край, и, по слухам, когда её замыкают, слышится тихий звук удара молнии."}
+{"id":"accessory:6286590875801600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6286590875801601","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6286590875801602","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6287020372525312","en":"Wingwind Bracelet","ru":"Браслет крылатого ветра"}
+{"id":"accessory:6287020372530432","en":"A bracelet with flowing contours. The jade-green ornament shaped like a bird's wing carries a wish: to fly on, light and unending, far into the distance.","ru":"Браслет с плавными очертаниями. Украшение из изумрудного материала в форме птичьего крыла хранит пожелание: легко и без устали лететь всё дальше и дальше."}
+{"id":"accessory:6287020372531200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6287020372531201","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6287020372531202","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}
+{"id":"accessory:6287449869254912","en":"Thunderclap Conviction","ru":"Осуждение грома"}
+{"id":"accessory:6287449869260032","en":"A bracelet of strange shape. Forged of silver and black iron, it takes the form of shackles. Small thunder patterns are engraved on its surface, and its clasp has a sharp, clean edge. When fitted together, it is said to give off a faint sound of lightning strike.","ru":"Браслет необычной формы. Выкованный из серебра и чёрного железа, он выполнен в виде кандалов. На поверхности вырезаны небольшие узоры-молнии, а у застёжки отчётливо острый край. По слухам, когда его замыкают, слышится тихий звук удара молнии."}
+{"id":"accessory:6287449869260800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6287449869260801","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6287449869260802","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}
+{"id":"accessory:6287879365984512","en":"Heartbreaker of the Dark Night","ru":"Разрыватель сердец тёмной ночи"}
+{"id":"accessory:6287879365989632","en":"A jet-black ring of muted hue. Plain to the eye, but twist it, and a thin blade slides out. Without anyone noticing, it becomes a blade lurking in the night.","ru":"Кольцо чернильно-чёрного цвета с приглушённым оттенком. С виду неприметное, но стоит его повернуть — и выскальзывает тонкое лезвие. Никем не замеченное, оно становится клинком, таящимся в ночи."}
+{"id":"accessory:6287879365990400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6287879365990401","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6287879365990402","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}
+{"id":"accessory:6288308862714112","en":"Armor of the Azure Vault","ru":"Доспех лазурного свода"}
+{"id":"accessory:6288308862719232","en":"Armor of strange shape. It bears an unusual presence—but is there really anyone who could wear it well?","ru":"Доспех необычной формы. От него исходит необычайная аура — но найдётся ли тот, кому он придётся по плечу?"}
+{"id":"accessory:6288308862720000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6288308862720001","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6288308862720002","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6288738359443712","en":"Azure Vault War Boots","ru":"Боевые сапоги лазурного свода"}
+{"id":"accessory:6288738359448832","en":"War boots of strange shape. They bear an unusual presence—but is there really anyone who could wear them well?","ru":"Боевые сапоги необычной формы. От них исходит необычайная аура — но найдётся ли тот, кому они придутся по ноге?"}
+{"id":"accessory:6288738359449600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6288738359449601","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6288738359449602","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6289167856173312","en":"Deeply Sinking Abyss","ru":"Глубоко тонущая пучина"}
+{"id":"accessory:6289167856178432","en":"A pendant on an unadorned chain, its rim deep as ink. At its center is a dark blue gem, around which water ripples swirl and sink. To look at it is like gazing at a calm sea without a single wave—yet in truth it is fathomless, hiding a force that seeks to swallow all things.","ru":"Подвеска на простой цепочке с ободом, тёмным, как тушь. В её центре — тёмно-синий камень, вокруг которого кружатся и тонут водяные завитки. Смотришь — и чудится тихое море без единой волны, но на деле оно бездонно и таит в себе силу, готовую поглотить всё сущее."}
+{"id":"accessory:6289167856179200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6289167856179201","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6289167856179202","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6289597352902912","en":"Earring of the Faint Moon","ru":"Серьга призрачной луны"}
+{"id":"accessory:6289597352908032","en":"An earring of white jade mixed with ink-dark hues. Its coloring resembles a cold moon veiled by darkening clouds.","ru":"Серьга из белого нефрита с примесью чернильных оттенков. Её окрас напоминает холодную луну, скрытую потемневшими облаками."}
+{"id":"accessory:6289597352908800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6289597352908801","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6289597352908802","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6290026849632512","en":"Road Scorched by the Sun","ru":"Дорога, опалённая солнцем"}
+{"id":"accessory:6290026849637632","en":"A single hair tie. It was once deep and vivid in color, but has faded to gray with heavy use.\nIt is a familiar item to those who walk the wilds for long, and once you try it, you will find it has far more uses than you imagined.","ru":"Одна лента для волос. Когда-то она была насыщенного, яркого цвета, но от долгого использования выцвела до серого.\nВещь, хорошо знакомая тем, кто долго бродит по пустошам, и, взяв её в руки, поймёшь, что применений у неё куда больше, чем кажется."}
+{"id":"accessory:6290026849638400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6290026849638401","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6290026849638402","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6290456346362112","en":"Cliff of the Abyss","ru":"Обрыв бездны"}
+{"id":"accessory:6290456346367232","en":"A chain bracelet cast from cold, heavy metal. Its links are short and close together, and its surface is covered in dark patterns suggestive of wet rock and the marks of ebbing tide. Simply fastening its clasp is enough to give off a sense of pressure—as if one had stepped off the edge of an abyss, dragged down into a deep tide from which there is no escape.","ru":"Цепной браслет, отлитый из холодного тяжёлого металла. Его звенья коротки и плотно сомкнуты, а поверхность покрыта тёмными узорами, напоминающими влажный камень и следы отлива. Довольно защёлкнуть замок — и уже исходит ощущение давления, будто сорвался с края бездны и тебя утягивает в глубокий прилив, из которого уж не выбраться."}
+{"id":"accessory:6290456346368000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6290456346368001","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6290456346368002","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6290885843091712","en":"Sunlight of the Cold Day","ru":"Солнечный свет холодного дня"}
+{"id":"accessory:6290885843096832","en":"A bracelet of jade cool and clear, bearing a faint white glow. Against the skin it takes on a frost-like charm. Each turn of the wrist, it seems like the light of a winter sun—without warmth, yet truly reaching you.","ru":"Браслет из прохладного, ясного нефрита с бледным белым свечением. На коже он преображается, обретая морозную прелесть. При каждом повороте запястья он похож на свет зимнего солнца — без тепла, но поистине доходящий до тебя."}
+{"id":"accessory:6290885843097600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6290885843097601","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6290885843097602","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6291315339821312","en":"Embers of the Crimson Flame","ru":"Угли багрового пламени"}
+{"id":"accessory:6291315339826432","en":"A bracelet shaped like a blazing flame. To those who walk the wilds, flame is the warmest and dearest partner.","ru":"Браслет в форме разгорающегося пламени. Для тех, кто бродит по пустошам, пламя — самый тёплый и близкий напарник."}
+{"id":"accessory:6291315339827200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6291315339827201","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6291315339827202","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6291744836550912","en":"Poem of Returning Order","ru":"Поэма возвращающегося порядка"}
+{"id":"accessory:6291744836556032","en":"A cloak said to have once been used in prayer before battle. Overlapping feather panels and cascading ornamental bands are assembled in an extremely intricate arrangement.\nWhen many hearts gather as one, no battle can be lost.","ru":"Плащ, который, по преданию, некогда использовали в молитве перед битвой. Наложенные друг на друга перьевые пластины и ниспадающие ленты собраны в невероятно сложный узор.\nКогда множество сердец сливается в одно, никакую битву не проиграть."}
+{"id":"accessory:6291744836556800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6291744836556801","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6291744836556802","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6292174333280512","en":"Sound of Returning Order","ru":"Звук возвращающегося порядка"}
+{"id":"accessory:6292174333285632","en":"Shoes said to have once been used in prayer before battle. Overlapping feather panels and cascading ornamental bands are assembled in an extremely intricate arrangement.\nWhen many hearts gather as one, no battle can be lost.","ru":"Обувь, которую, по преданию, некогда использовали в молитве перед битвой. Наложенные друг на друга перьевые пластины и ниспадающие ленты собраны в невероятно сложный узор.\nКогда множество сердец сливается в одно, никакую битву не проиграть."}
+{"id":"accessory:6292174333286400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6292174333286401","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6292174333286402","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6292603830010112","en":"Flower of Frost","ru":"Цветок инея"}
+{"id":"accessory:6292603830015232","en":"A pair of earrings.\nIn winter, frost flowers form upon the slender twigs.","ru":"Пара серёг.\nЗимой на тонких ветвях расцветает иней."}
+{"id":"accessory:6292603830016000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6292603830016001","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6292603830016002","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6293033326739712","en":"Flower That Scorches the Sky","ru":"Цветок, опаляющий небо"}
+{"id":"accessory:6293033326744832","en":"A hair ornament made from dried flowers. Even dried, they bloom large and proud, their vivid color undiminished by withering.\nWhen this flower blooms in full, it flourishes as if a blazing fire were burning the sky to ash.","ru":"Украшение для волос из сухоцветов. Даже засушенные, они пышно и гордо цветут, и увядание не умаляет их яркости.\nКогда этот цветок распускается во всю силу, он цветёт так, будто пылающий огонь выжигает небо дотла."}
+{"id":"accessory:6293033326745600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6293033326745601","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6293033326745602","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6293462823469312","en":"Song Praising the Light","ru":"Песнь, славящая свет"}
+{"id":"accessory:6293462823474432","en":"A pearl necklace layered many times over. Thin chains of differing lengths and rounded pearls are layered together. The surface of the pearls gleams with a lustrous wetness. When sunlight and sacred light pour down together, their radiance too must fall in just such layers, one upon another.","ru":"Ожерелье из множества слоёв жемчуга. Тонкие цепочки разной длины и округлые жемчужины уложены слоями. Поверхность жемчужин влажно и ярко блестит. Когда солнечный и священный свет льются вместе, их сияние, верно, тоже падает вот такими слоями, друг поверх друга."}
+{"id":"accessory:6293462823475200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6293462823475201","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6293462823475202","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6293892320198912","en":"Oath of Forest and Wind","ru":"Клятва леса и ветра"}
+{"id":"accessory:6293892320204032","en":"A headpiece woven from thin slices of beast bone, small rings of branch, and dyed feathers. It bears simple, archaic patterns, and is worn at ceremonies marking the founding of a tribal alliance, the swearing of oaths, and rites of passage. It is the symbol of an ancient covenant: the peoples who dwell in the forest guard wind and forest together.","ru":"Головной убор, сплетённый из тонких пластин звериной кости, маленьких веточек-колец и окрашенных перьев. На нём простые, старинные узоры; его носят на торжествах в честь основания племенного союза, при принесении клятв и на обрядах совершеннолетия. Это символ древнего завета: народы, живущие в лесу, вместе хранят ветер и лес."}
+{"id":"accessory:6293892320204800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6293892320204801","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6293892320204802","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6294321816928512","en":"Crystal of Shattered Snow","ru":"Кристалл расколотого снега"}
+{"id":"accessory:6294321816933632","en":"A ring with a frame of pale silver, scattered with fine crystals. It is as if the snow that drifted down upon the fingertips became an ornament without ever melting.","ru":"Кольцо на основе из бледного серебра, усыпанное мелкими кристаллами. Кажется, будто снег, опустившийся на кончики пальцев, так и не растаял, став украшением."}
+{"id":"accessory:6294321816934400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6294321816934401","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6294321816934402","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6294751313658112","en":"Blazing Firmament","ru":"Пылающий небесный свод"}
+{"id":"accessory:6294751313663232","en":"A bracelet enclosing petals fierce as flame.\nThis flower is said to have a wild temper, and farmers deliberately pick the buds before it blooms too much. Even as it withers it strives to bloom its most beautiful—truly a warrior among flowers.","ru":"Браслет, в который заключены лепестки, яростные, как пламя.\nГоворят, у этого цветка крутой нрав, и крестьяне нарочно срывают бутоны прежде, чем он разойдётся слишком пышно. Даже увядая, он стремится цвести как можно прекраснее — воистину воин среди цветов."}
+{"id":"accessory:6294751313664000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6294751313664001","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6294751313664002","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6295180810387712","en":"Prayer Aflame with Light","ru":"Молитва, пронизанная светом"}
+{"id":"accessory:6295180810392832","en":"A ring set with a pale golden band. A clear, bright gemstone of the palest hue is set into it, encircled by tiny diamonds. When prayers are offered, it gives off a faint glimmer at the wearer's fingertips.","ru":"Кольцо с бледно-золотым ободком. В него вставлен прозрачный, яркий камень нежного оттенка, а вокруг него сверкают мелкие бриллианты. Когда возносят молитву, на кончиках пальцев вспыхивает слабое сияние."}
+{"id":"accessory:6295180810393600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6295180810393601","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6295180810393602","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6295610307117312","en":"Prayer Through the Forest","ru":"Лесная молитва"}
+{"id":"accessory:6295610307122432","en":"An ornament woven from slender vines, feathers, and tiny bells. It can be hung on the tips of branches or tied around the wrist. Whenever the wind blows, it gives a faint sound like the whisper of the woods. It is treasured as a talisman for entrusting wishes to the forest and the gentle breeze.","ru":"Украшение из тонких лиан, перьев и маленьких колокольчиков. Его вешают на кончики ветвей или привязывают к запястью. При каждом порыве ветра оно тихо звенит, словно шепот леса. Его берегут как оберег, доверяя желания лесу и ласковому ветерку."}
+{"id":"accessory:6295610307123200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6295610307123201","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6295610307123202","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6296039803846912","en":"Shadow of the Deepwood","ru":"Тень лесной чащи"}
+{"id":"accessory:6296039803852032","en":"A hooded mantle made of soft fabric. It bears a pattern of twigs and is dyed a pale grass green. Its edges drape ever so slightly, like the dappled shade cast by a forest canopy.","ru":"Плащ с капюшоном из мягкой ткани. Он украшен узором из веточек и выкрашен в бледно-травяной зелёный цвет. Его края чуть провисают, словно легкая кружевная тень, которую отбрасывает лесной полог."}
+{"id":"accessory:6296039803852800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6296039803852801","en":"Commission - Blazing Flame's Protection V","ru":"Поручение — Защита пылающего пламени V"}
+{"id":"accessory:6296039803852802","en":"Commission - Blazing Flame's Protection IV","ru":"Поручение — Защита пылающего пламени IV"}
+{"id":"accessory:6296469300576512","en":"Playful Morning Dew","ru":"Игривая утренняя роса"}
+{"id":"accessory:6296469300581632","en":"A long skirt of many layers of sheer gauze. Its hem is adorned with pale leaf ornaments and small beads. With every step, the ornaments catch the light, shimmering like morning dew trickling down blades of grass. It gives off a lively air, as if one were at play in the forest.","ru":"Длинная юбка из нескольких слоев прозрачной кисеи. Подол украшен бледными листьями и мелкими бусинами. При каждом шаге украшения мерцают, словно утренняя роса, стекающая по травинкам. От нее веет живостью, будто ты резвишься в лесу."}
+{"id":"accessory:6296469300582400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6296469300582401","en":"Commission - Thick-Rock Heavy Shield V","ru":"Поручение — Тяжёлый щит скалы V"}
+{"id":"accessory:6296469300582402","en":"Commission - Thick-Rock Heavy Shield IV","ru":"Поручение — Тяжёлый щит скалы IV"}
+{"id":"accessory:6296898797306112","en":"Blessing of the Spring","ru":"Благословение родника"}
+{"id":"accessory:6296898797311232","en":"A head accessory woven from fine silver-white chains and pale azure crystals. The ornament hanging at the forehead is shaped like a droplet of water. Its warm, pure air is as if the blessing of the spring itself had taken form. Gaze closely, and you feel a quiet presence of solace and protection flowing gently from it.","ru":"Украшение для волос из тонких серебристо-белых цепочек и бледных лазурных кристаллов. Подвеска на лбу имеет форму капли воды. Его теплое и чистое обаяние таково, будто само благословение родника обрело форму. Присмотришься — и почувствуешь, как от него тихо струится покой и защита."}
+{"id":"accessory:6296898797312000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6296898797312001","en":"Commission - Thick-Rock Heavy Shield V","ru":"Поручение — Тяжёлый щит скалы V"}
+{"id":"accessory:6296898797312002","en":"Commission - Thick-Rock Heavy Shield IV","ru":"Поручение — Тяжёлый щит скалы IV"}
+{"id":"accessory:6297328294035712","en":"Oath Bound by the Deepwood","ru":"Клятва лесной чащи"}
+{"id":"accessory:6297328294040832","en":"A headpiece of silver branches. Silver branches extend from the forehead, while young shoots curl softly around both sides. In the center hangs a clear green stone ornament. It is as if the shadow of an ancient tree and the radiance of the forest had been given shape.","ru":"Головной убор из серебряных ветвей. От лба тянутся серебряные ветви, а по бокам мягко изгибаются молодые побеги. В центре свисает украшение из прозрачного зеленого камня. Кажется, будто тень древнего дерева и сияние леса обрели форму."}
+{"id":"accessory:6297328294041600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6297328294041601","en":"Commission - Thick-Rock Heavy Shield V","ru":"Поручение — Тяжёлый щит скалы V"}
+{"id":"accessory:6297328294041602","en":"Commission - Thick-Rock Heavy Shield IV","ru":"Поручение — Тяжёлый щит скалы IV"}
+{"id":"accessory:6297757790765312","en":"Echo of the Sacred Radiance","ru":"Эхо священного сияния"}
+{"id":"accessory:6297757790770432","en":"A head accessory worn by noble ladies at tea parties and balls. It is exquisite and beautiful, yet never draws undue attention.","ru":"Головное украшение, которое знатные дамы надевают на чаепития и балы. Оно изящно и прекрасно, но никогда не бросается в глаза."}
+{"id":"accessory:6297757790771200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6297757790771201","en":"Commission - Thick-Rock Heavy Shield V","ru":"Поручение — Тяжёлый щит скалы V"}
+{"id":"accessory:6297757790771202","en":"Commission - Thick-Rock Heavy Shield IV","ru":"Поручение — Тяжёлый щит скалы IV"}
+{"id":"accessory:6298187287494912","en":"Ceaseless Ripples","ru":"Неумолкающая рябь"}
+{"id":"accessory:6298187287500032","en":"A choker made of soft white ribbons and silver chains tracing the neck. It is adorned with droplet-like crystals and small gems, giving off a clear light as if ripples were spreading across a still water's surface.","ru":"Чокер из мягких белых лент и серебряных цепочек, обвивающих шею. Он украшен кристаллами в форме капель и мелкими самоцветами и излучает ясный свет, словно рябь, расходящаяся по глади тихой воды."}
+{"id":"accessory:6298187287500800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6298187287500801","en":"Commission - Blazing Flame's Protection V","ru":"Поручение — Защита пылающего пламени V"}
+{"id":"accessory:6298187287500802","en":"Commission - Blazing Flame's Protection IV","ru":"Поручение — Защита пылающего пламени IV"}
+{"id":"accessory:6298616784224512","en":"Praise of Azure","ru":"Хвала лазури"}
+{"id":"accessory:6298616784229632","en":"A ring made by joining small stones of differing shades. The blue-green gemstone it bears tells of an exquisite gift from the forest.","ru":"Кольцо, собранное из камешков разных оттенков. Украшающий его сине-зеленый камень говорит о том, что это изысканный дар леса."}
+{"id":"accessory:6298616784230400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6298616784230401","en":"Commission - Blazing Flame's Protection V","ru":"Поручение — Защита пылающего пламени V"}
+{"id":"accessory:6298616784230402","en":"Commission - Blazing Flame's Protection IV","ru":"Поручение — Защита пылающего пламени IV"}
+{"id":"accessory:6299046280954112","en":"Grace of the Sacred Brilliance","ru":"Благодать священного блеска"}
+{"id":"accessory:6299046280959232","en":"An exquisite bracelet. Upon its goldwork, bejeweled flowers bloom in full glory. Its craftsmanship is so fine it could be mistaken for the real thing.","ru":"Изысканный браслет. На его золотой оправе пышно расцвели цветы из самоцветов. Работа настолько тонка, что их можно принять за настоящие."}
+{"id":"accessory:6299046280960000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6299046280960001","en":"Commission - Blazing Flame's Protection V","ru":"Поручение — Защита пылающего пламени V"}
+{"id":"accessory:6299046280960002","en":"Commission - Blazing Flame's Protection IV","ru":"Поручение — Защита пылающего пламени IV"}
+{"id":"accessory:6299475777683712","en":"Circling of Stellar Breath","ru":"Круговорот звёздного дыхания"}
+{"id":"accessory:6299475777688832","en":"A light mantle of clear hues. It is embroidered with stars, clouds, and wind.\nStand tall and gaze far, and you may come to realize something: that which seemed to vanish in a fleeting moment has not truly disappeared, but continues to circle along an unseen, endless path.","ru":"Легкий плащ ясных оттенков. Он расшит звездами, облаками и ветром.\nВстань во весь рост и окинь взглядом даль — и, быть может, поймешь: то, что казалось исчезнувшим в одно мгновение, вовсе не пропало, а продолжает свой путь по невидимой бесконечной орбите."}
+{"id":"accessory:6299475777689600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6299475777689601","en":"Commission - Wall of Bitter Cold V","ru":"Поручение — Стена лютой стужи V"}
+{"id":"accessory:6299475777689602","en":"Commission - Wall of Bitter Cold IV","ru":"Поручение — Стена лютой стужи IV"}
+{"id":"accessory:6299905274413312","en":"Starlight Breath","ru":"Свет звёздного дыхания"}
+{"id":"accessory:6299905274418432","en":"Brightly colored boots. They bring a lighthearted mood to the wearer as well.","ru":"Яркие сапоги. Они и тому, кто их носит, дарят легкое настроение."}
+{"id":"accessory:6299905274419200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6299905274419201","en":"Commission - Rapids' Protection V","ru":"Поручение — Защита стремительных вод V"}
+{"id":"accessory:6299905274419202","en":"Commission - Rapids' Protection IV","ru":"Поручение — Защита стремительных вод IV"}
+{"id":"accessory:6300334771142912","en":"Breath of Emerald","ru":"Дыхание изумруда"}
+{"id":"accessory:6300334771148032","en":"Earrings woven from soft branches and overlapping leaf ornaments. Apart from a few emerald pebbles, there is no ornate workmanship. Even so, a fresh, lively air naturally seeps from them. Many weave them as gifts for children, going all the way to the forest to gather materials, wishing for healthy growth.","ru":"Серьги, сплетенные из мягких веточек и переплетающихся листьев. Помимо нескольких изумрудных камешков, в них нет никакой вычурной отделки. И все же от них сами собой исходит свежее, живое дыхание. Многие плетут их в дар детям, отправляясь ради этого в лес за материалами, с пожеланием здорового роста."}
+{"id":"accessory:6300334771148800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6300334771148801","en":"Commission - Rapids' Protection V","ru":"Поручение — Защита стремительных вод V"}
+{"id":"accessory:6300334771148802","en":"Commission - Rapids' Protection IV","ru":"Поручение — Защита стремительных вод IV"}
+{"id":"accessory:6300764267872512","en":"Turning of Sun and Moon","ru":"Вращение солнца и луны"}
+{"id":"accessory:6300764267877632","en":"A hair ornament shaped like the sun and moon in two colors, gold and silver, with rings layered together. The way inner and outer intertwine and turn is as if day and night continued on without end.","ru":"Украшение для волос в форме солнца и луны двух цветов, золотого и серебряного, с наложенными друг на друга кольцами. То, как внутреннее и внешнее переплетаются и вращаются, подобно непрерывной череде дня и ночи."}
+{"id":"accessory:6300764267878400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6300764267878401","en":"Commission - Rapids' Protection V","ru":"Поручение — Защита стремительных вод V"}
+{"id":"accessory:6300764267878402","en":"Commission - Rapids' Protection IV","ru":"Поручение — Защита стремительных вод IV"}
+{"id":"accessory:6301193764602112","en":"Azure Life","ru":"Лазурная жизнь"}
+{"id":"accessory:6301193764607232","en":"A bracelet woven from various leaves, twigs, and natural pebbles. Though it looks plain, there is no end of people who go all the way to the forest to gather materials and weave them as gifts for children, wishing for healthy, sound growth.","ru":"Браслет, сплетенный из разных листьев, веточек и природных камешков. Хоть он и выглядит простовато, немало тех, кто отправляется ради него в лес за материалами и плетет его в дар детям, желая им здоровья и крепкого роста."}
+{"id":"accessory:6301193764608000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6301193764608001","en":"Commission - Wall of Bitter Cold V","ru":"Поручение — Стена лютой стужи V"}
+{"id":"accessory:6301193764608002","en":"Commission - Wall of Bitter Cold IV","ru":"Поручение — Стена лютой стужи IV"}
+{"id":"accessory:6301623261331712","en":"Waves of the Starry River","ru":"Волны звёздной реки"}
+{"id":"accessory:6301623261336832","en":"A bracelet woven from deep indigo and silver-white threads. Scattered with fine star patterns, it peeks just slightly from a girl's sleeve, as if a wave of stars were hiding here, peeking out at you playfully.","ru":"Браслет, сплетенный из нитей глубокого индиго и серебристо-белого цвета. Он усыпан мелкими звездными узорами и чуть выглядывает из рукава девушки, словно здесь притаилась звездная волна и озорно подсматривает за тобой."}
+{"id":"accessory:6301623261337600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6301623261337601","en":"Commission - Wall of Bitter Cold V","ru":"Поручение — Стена лютой стужи V"}
+{"id":"accessory:6301623261337602","en":"Commission - Wall of Bitter Cold IV","ru":"Поручение — Стена лютой стужи IV"}
+{"id":"accessory:6302052758061312","en":"Travel-Wind on the Shoulders","ru":"Дорожный ветер на плечах"}
+{"id":"accessory:6302052758066432","en":"A cloak of vivid hues. It is as if the presence of the ardent wind that never once stopped during the journey had been tied to the shoulders just as it was.\nThe wearer would hardly care whether this suits a long battle. I want to show someone, just once, that fervor that burns on without fading—that is all it conveys.","ru":"Плащ ярких оттенков. Кажется, будто порыв пылкого ветра, ни разу не стихшего в пути, так и привязали к плечам.\nНосящий его вряд ли станет задумываться, годится ли он для долгой битвы. Хочу хоть раз показать кому-нибудь тот восторг, что горит, не угасая, — вот и все, что он передает."}
+{"id":"accessory:6302052758067200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6302052758067201","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6302052758067202","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6302482254790912","en":"Mark of the Fighting Spirit","ru":"Печать боевого духа"}
+{"id":"accessory:6302482254796032","en":"Boots made for display, slightly exaggerated in form.\nWhat the maker wished to leave behind was not victory itself, but the feeling of clashing again and again, being tempered, and at last achieving a triumphant return, they say...","ru":"Сапоги, изготовленные для выставки, слегка утрированной формы.\nГоворят, создатель хотел оставить потомкам не саму победу, а то чувство, что приходит после многих столкновений и закалки, когда наконец совершаешь триумфальное возвращение..."}
+{"id":"accessory:6302482254796800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6302482254796801","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6302482254796802","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6302911751520512","en":"Wall of Billows","ru":"Стена валов"}
+{"id":"accessory:6302911751525632","en":"A necklace with a sharply outlined wave crest as its motif. Its form, spreading outward in many layers, captures the instant when a wave's crest shatters violently against a cliff and then surges up once more.","ru":"Колье с мотивом резко очерченного гребня волны. Его форма, расходящаяся наружу множеством слоев, передает миг, когда гребень волны яростно разбивается о скалу и вновь вздымается."}
+{"id":"accessory:6302911751526400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6302911751526401","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6302911751526402","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6303341248250112","en":"Sigil That Bears the Mountain","ru":"Знак, несущий гору"}
+{"id":"accessory:6303341248255232","en":"A necklace of a simple chain. Its pendant is heavy and shaped like a mountain range, as if a single peak were hung at one's breast.","ru":"Ожерелье на простой цепочке. Его подвеска массивна и формой напоминает горный хребет, словно на груди висит целая вершина."}
+{"id":"accessory:6303341248256000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6303341248256001","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6303341248256002","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6303770744979712","en":"Billows of the Sky's Fury","ru":"Волны небесной ярости"}
+{"id":"accessory:6303770744984832","en":"A wide bracelet made of cold silver-white metal and deep indigo ornamentation. The undulations of its edge mimic the rough waves striking the shore, and its lines are crisp and sharp. Once on the wrist, it seems an unstoppable torrent might come surging forth at any moment. The next instant, it is as if the moment a wave shatters stone unfolds before your eyes.","ru":"Широкий браслет из холодного серебристо-белого металла с украшениями глубокого индиго. Изгибы его края повторяют бурные волны, бьющиеся о берег, а линии четкие и острые. Надев его на руку, кажется, что вот-вот хлынет неудержимый поток. В следующий миг перед глазами будто разворачивается мгновение, когда волна сокрушает камень."}
+{"id":"accessory:6303770744985600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6303770744985601","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6303770744985602","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6304200241709312","en":"Vestige of the Stony Path","ru":"След каменного пути"}
+{"id":"accessory:6304200241714432","en":"A ring of heavy make. Its surface is engraved with fine fissures like veins of rock slowly spreading in the depths of the earth.","ru":"Кольцо массивной работы. На его поверхности выгравированы мелкие трещины, похожие на жилы породы, медленно расползающиеся в глубинах земли."}
+{"id":"accessory:6304200241715200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6304200241715201","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6304200241715202","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6304629738438912","en":"Dawnlight","ru":"Рассветный луч"}
+{"id":"accessory:6304629738444032","en":"A spirit staff with a slender shaft. Cast from pale gold and silver-white materials, it is crowned at the top with a brightly shining crystal core. Around it extend light patterns like the morning sun breaking through the clouds. Its bearing is magnificent and solemn. It is said to be named after the first ray of heavenly light that bursts forth suddenly at the end of a long night, gathered at the head of the staff.","ru":"Посох духов с тонким древком. Отлитый из бледно-золотых и серебристо-белых материалов, он увенчан ярко сияющим кристальным ядром. Вокруг него тянутся световые узоры, подобные утреннему солнцу, пробивающемуся сквозь облака. Его облик великолепен и торжествен. Говорят, он назван так потому, что на его вершине собраны первые лучи небесного света, внезапно хлынувшие в конце долгой ночи."}
+{"id":"accessory:6304629738444800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6304629738444801","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6304629738444802","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6305059235168512","en":"Luxuriant Dark Blossoms","ru":"Пышное цветение тьмы"}
+{"id":"accessory:6305059235173632","en":"A slender spirit staff made of ebony and dark metal. Upon its surface coil patterns writhing like night ivy, and at its head dark floral ornaments bloom in many layers. It is the very image of an uncanny flower quietly opening deep in the pitch-black night. Glossy and wrapped in a somewhat eerie stillness. Its profound, bewitching beauty, reminiscent of a Japanese ghost story, seems to imprison all at once the dark night, the obsession, and the unearthly light that flashes in an instant.","ru":"Тонкий посох духов, созданный из черного дерева и темного металла. По его поверхности вьются узоры, извивающиеся, как ночной плющ, а на вершине в несколько слоев расцвели темные цветочные орнаменты. Он — само воплощение причудливого цветка, тихо распускающегося в глубинах кромешной ночи. Лоснящийся и овеянный какой-то жутковатой тишиной. Его глубокомысленная, завораживающая красота, напоминающая японские истории о призраках, кажется, таит в себе разом и темную ночь, и одержимость, и потусторонний свет, вспыхивающий на мгновение."}
+{"id":"accessory:6305059235174400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6305059235174401","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6305059235174402","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6305488731898112","en":"Blazing sun","ru":"палящее солнце"}
+{"id":"accessory:6305488731903232","en":"A great odachi with a blade length of seven shaku and two sun. Its blade shines white as snow, and its guard and scabbard ornaments are adorned with shakudo. The flash of its blade as it is drawn is said to sear the eyes like the blazing sun at noon over the wastelands. It is said to harbor a stately, fierce valor, yet records of it actually being drawn are exceedingly few.","ru":"Большой одати с длиной клинка в семь сяку и два суна. Клинок сияет белизной, как снег, а гарда и украшения ножен отделаны сякудо. Говорят, блеск клинка при обнажении обжигает глаза, словно палящее солнце в полдень над пустошью. Считается, что в нем заключена величавая, яростная доблесть, но записей о том, что его действительно обнажали, крайне мало."}
+{"id":"accessory:6305488731904000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6305488731904001","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6305488731904002","en":"Commission - Rapids' Protection V","ru":"Поручение — Защита стремительных вод V"}
+{"id":"accessory:6305488731904003","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6305488731904004","en":"Commission - Rapids' Protection IV","ru":"Поручение — Защита стремительных вод IV"}
+{"id":"accessory:6305918228627712","en":"Mountain Broken, River Severed","ru":"Горы ломая, реки рассекая"}
+{"id":"accessory:6305918228632832","en":"A heavy spirit staff. On the surface of its shaft, which combines long rock-colored wood with cast metal inlaid with gold, run patterns like fissures carved by riven mountain ranges or by the shifting of a riverbed. A loess-colored crystal is set into the head of the staff.\nGrasping it, one feels a fierce power surge through, as if one could snap mountains and sever great rivers.","ru":"Массивный посох духов. По поверхности его древка, сочетающего длинное дерево каменного цвета с литым металлом с золотой инкрустацией, бегут узоры, подобные трещинам, оставленным разломленными горными хребтами или смещением русла реки. На вершине посоха вставлен кристалл цвета лесса.\nВзяв его в руки, чувствуешь, как накатывает яростная мощь, словно можно сломать горы и перерезать великие реки."}
+{"id":"accessory:6305918228633600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6305918228633601","en":"Commission - Rapids' Protection V","ru":"Поручение — Защита стремительных вод V"}
+{"id":"accessory:6305918228633602","en":"Commission - Rapids' Protection IV","ru":"Поручение — Защита стремительных вод IV"}
+{"id":"accessory:6306347725357312","en":"Voice of the Tide","ru":"Голос прилива"}
+{"id":"accessory:6306347725362432","en":"A spirit staff of rock, rugged in shape. Crystals the color of the sea are set here and there, said to have been gathered where the waves lap at morning and evening. If you listen closely, the sound of the tide can be heard clearly.","ru":"Посох духов из камня, грубой формы. Повсюду в него вставлены кристаллы цвета моря, которые, по преданию, собраны там, где волны набегают на берег утром и вечером. Прислушаешься — и отчетливо услышишь шум прилива."}
+{"id":"accessory:6306347725363200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6306347725363201","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6306347725363202","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6306777222086912","en":"Swift Thunder Cleaving the Peaks","ru":"Стремительный гром, рассекающий пики"}
+{"id":"accessory:6306777222092032","en":"A spirit staff cast from dark metal and blue silver. Its lines are sharp, and patterns like streaks of lightning are engraved upon it. At its head rises a sharp, dark violet crystal cluster, as if lightning were about to be unleashed at any moment. A swift, fierce air fills the whole, and once swung, it would bring thunder down from the nine heavens, cleaving mountains and crumbling peaks.","ru":"Посох духов, отлитый из темного металла и синего серебра. Его линии остры, на нем выгравированы узоры, подобные пробегающим молниям. На вершине высоко поднят острый темно-фиолетовый кристаллический кластер, словно молния вот-вот вырвется наружу. Весь он полон стремительной, неистовой мощи; стоит взмахнуть — и с девяти небес низвергнется гром, рассекая горы и обрушивая пики."}
+{"id":"accessory:6306777222092800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6306777222092801","en":"Commission - Thick-Rock Heavy Shield V","ru":"Поручение — Тяжёлый щит скалы V"}
+{"id":"accessory:6306777222092802","en":"Commission - Thick-Rock Heavy Shield IV","ru":"Поручение — Тяжёлый щит скалы IV"}
+{"id":"accessory:6307206718816512","en":"Thunder Pole","ru":"Громовой полюс"}
+{"id":"accessory:6307206718821632","en":"A slender straight sword. Its edge is exceedingly sharp and long. The moment it is drawn, light flashes and pierces the sky in an instant. That single flash is truly like lightning.","ru":"Стройный прямой меч. Его клинок необычайно остёр и длинен. В миг, когда его обнажают, вспыхивает свет и мгновенно пронзает небо. Этот единый блик поистине подобен молнии."}
+{"id":"accessory:6307206718822400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6307206718822401","en":"Commission - Azure Thunder's Ward V","ru":"Поручение — Защита лазурной молнии V"}
+{"id":"accessory:6307206718822402","en":"Commission - Azure Thunder's Ward IV","ru":"Поручение — Защита лазурной молнии IV"}
+{"id":"accessory:6307636215546112","en":"Cloud Howl, Wind Song","ru":"Вой облаков, песнь ветра"}
+{"id":"accessory:6307636215551232","en":"A broad-bladed greatsword with a thick spine. Yet it feels weightless to swing, and it makes a sound like wind passing through clouds. Because its sound rose and fell, seeming now to howl, now to sing, it was given this name.","ru":"Большой меч с широким клинком и толстым обухом. И все же при взмахе он не кажется тяжелым, а издает звук, будто ветер проходит сквозь облака. Поскольку его звук то поднимался, то опускался, напоминая то вой, то песню, ему дали это имя."}
+{"id":"accessory:6307636215552000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6307636215552001","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6307636215552002","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6308065712275712","en":"Undying Flamelight","ru":"Неугасимый свет пламени"}
+{"id":"accessory:6308065712280832","en":"A pair of twin blades forged from red iron and dark metal. A faint, scorching fire color seeps into their edges. When a skilled wielder swings these twin blades in ceaseless alternation, the edges connect with light, making it seem as though an undying flame burns on and on.","ru":"Пара парных клинков, выкованных из красного железа и темного металла. По их лезвиям разливается слабый, обжигающий огненный оттенок. Когда умелый воин без устали взмахивает этими клинками поочередно, их кромки соединяются светом, и кажется, будто неугасимое пламя горит без конца."}
+{"id":"accessory:6308065712281600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6308065712281601","en":"Commission - Wall of Bitter Cold V","ru":"Поручение — Стена лютой стужи V"}
+{"id":"accessory:6308065712281602","en":"Commission - Wall of Bitter Cold IV","ru":"Поручение — Стена лютой стужи IV"}
+{"id":"accessory:6308495209005312","en":"Frost and Snow, Ten Thousand Winters","ru":"Мороз и снег, десять тысяч зим"}
+{"id":"accessory:6308495209010432","en":"A spirit staff six shaku and six sun long, cast from silver-white and frost-blue iron. Fine patterns like spreading branches of ice run across its surface, and a snow-colored crystal core is set at its head. Even from afar, its chill makes one shiver. It is said to be able to summon the snow that closes off mountains and the ice that freezes rivers.","ru":"Посох духов длиной в шесть сяку и шесть сунов, отлитый из серебристо-белого и морозно-синего железа. По его поверхности бегут тонкие узоры, подобные ветвящимся ветвям льда, а на вершине установлено кристальное ядро цвета снега. Даже издали от его стужи пробирает дрожь. Говорят, он способен призвать снег, замыкающий горы, и лед, сковывающий реки."}
+{"id":"accessory:6308495209011200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6308495209011201","en":"Commission - Wall of Bitter Cold V","ru":"Поручение — Стена лютой стужи V"}
+{"id":"accessory:6308495209011202","en":"Commission - Wall of Bitter Cold IV","ru":"Поручение — Стена лютой стужи IV"}
+{"id":"accessory:6308924705734912","en":"Whisper of the Lightless","ru":"Шепот без света"}
+{"id":"accessory:6308924705740032","en":"A short blade sunken wholly in pitch black. Its edge is thin and cold, and the dull gleam that sometimes runs along it calls to mind a soundless bloodlust lurking in the darkness of night. Its form is as unobtrusive as could be, with no vanity that boasts of a bared blade. Yet once within range, a dark killing intent that cuts off the opponent's life settles within it quietly.","ru":"Короткий клинок, целиком погруженный в непроглядную тьму. Его лезвие тонко и холодно, а тусклый блеск, порой пробегающий по кромке, напоминает о беззвучной жажде убийства, таящейся в ночном мраке. Его облик скромен до предела, в нем нет тщеславия, кичащегося обнаженным клинком. Но стоит оказаться в пределах досягаемости, как в нем тихо поселяется темная убийственная аура, обрывающая жизнь противника."}
+{"id":"accessory:6308924705740800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6308924705740801","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6308924705740802","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6309354202464512","en":"Oracle of the Ancient Tree","ru":"Прорицание древнего древа"}
+{"id":"accessory:6309354202469632","en":"An old, worn book. Its cover is deep brown, and its binding is old-fashioned and plain. Its pages, too, differ from the norm, with leaves and small stone fragments bearing unknown characters slipped between them. It conceals an ancient spell said to awaken the power of all trees.","ru":"Старинная потрепанная книга. Ее обложка темно-коричневая, а переплет старомоден и прост. Страницы тоже необычны: между ними вложены листья и мелкие обломки камней с начертанными неведомыми знаками. В ней сокрыто древнее заклинание, пробуждающее силу всех деревьев."}
+{"id":"accessory:6309354202470400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6309354202470401","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6309354202470402","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6309354202470403","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}
+{"id":"accessory:6309354202470404","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6309783699194112","en":"Rift of Radiant Light","ru":"Разлом сияющего света"}
+{"id":"accessory:6309783699199232","en":"A greatsword with a broad blade cast from silver-white steel. Across its surface run golden patterns like cracks left by traces of light. It is a greatsword that requires both hands even for one renowned for martial prowess. When swung, the patterns on its blade shine like the light of dawn suddenly piercing through a rift in the night. With its stately radiance, it cuts away all dark clouds and sins.","ru":"Большой меч с широким клинком, отлитым из серебристо-белой стали. По его поверхности бегут золотые узоры, подобные трещинам, оставленным следами света. Этот большой меч требует обеих рук даже от прославленного воина. При взмахе узоры на клинке сияют, словно свет рассвета, внезапно пробивающийся сквозь разрыв ночи. Своим величавым сиянием он рассекает все тучи и грехи."}
+{"id":"accessory:6309783699200000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6309783699200001","en":"Commission - Protection of the Air V","ru":"Поручение — Защита воздуха V"}
+{"id":"accessory:6309783699200002","en":"Commission - Blazing Flame's Protection V","ru":"Поручение — Защита пылающего пламени V"}
+{"id":"accessory:6309783699200003","en":"Commission - Protection of the Air IV","ru":"Поручение — Защита воздуха IV"}
+{"id":"accessory:6309783699200004","en":"Commission - Blazing Flame's Protection IV","ru":"Поручение — Защита пылающего пламени IV"}
+{"id":"accessory:6310213195923712","en":"Tome of the Tides","ru":"Святой фолиант приливов"}
+{"id":"accessory:6310213195928832","en":"A mysterious old book. Its deep blue cover is bound with silver-white cord, and when stood upon a desk, many layers of ripples rise upon its spine. Turn its pages, and the sound of waves ebbing and flowing can be heard.","ru":"Таинственная древняя книга. Ее темно-синяя обложка перевязана серебристо-белым шнуром, а когда ее ставят на стол, на корешке проступают многослойные круги ряби. Перевернешь страницу — и услышишь звук волн, отступающих и набегающих вновь."}
+{"id":"accessory:6310213195929600","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6310213195929601","en":"Commission - Protection of Sun and Moon V","ru":"Поручение — Защита солнца и луны V"}
+{"id":"accessory:6310213195929602","en":"Commission - Blazing Flame's Protection V","ru":"Поручение — Защита пылающего пламени V"}
+{"id":"accessory:6310213195929603","en":"Commission - Protection of Sun and Moon IV","ru":"Поручение — Защита солнца и луны IV"}
+{"id":"accessory:6310213195929604","en":"Commission - Blazing Flame's Protection IV","ru":"Поручение — Защита пылающего пламени IV"}
+{"id":"accessory:6310642692653312","en":"Flawless Heavy Blade","ru":"Безупречный тяжёлый клинок"}
+{"id":"accessory:6310642692658432","en":"A broad-bladed greatsword. Its blade is cold and hard as iron. Once, amid a horde of dire beasts, a nameless hero wielded this sword all alone.","ru":"Большой меч с широким клинком. Его лезвие холодно и твердо, как железо. Однажды среди стаи лютых зверей безымянный герой в одиночку взмахнул этим мечом."}
+{"id":"accessory:6310642692659200","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6310642692659201","en":"Commission - Thick-Rock Heavy Shield V","ru":"Поручение — Тяжёлый щит скалы V"}
+{"id":"accessory:6310642692659202","en":"Commission - Thick-Rock Heavy Shield IV","ru":"Поручение — Тяжёлый щит скалы IV"}
+{"id":"accessory:6311072189382912","en":"Sharpened Soul","ru":"Заострённая душа"}
+{"id":"accessory:6311072189388032","en":"An elongated earring. As the curtain of night falls, the gemstone set within reflects a flame-colored sunset.","ru":"Продолговатая серьга. Когда опускается покров ночи, вставленный в нее камень отражает закат цвета пламени."}
+{"id":"accessory:6311072189388800","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6311072189388801","en":"Commission - Fierce Blaze's Guard V","ru":"Поручение — Стража яростного пламени V"}
+{"id":"accessory:6311072189388802","en":"Commission - Fierce Blaze's Guard IV","ru":"Поручение — Стража яростного пламени IV"}
+{"id":"accessory:6311501686112512","en":"Guardian of the Hero","ru":"Защитник героя"}
+{"id":"accessory:6311501686117632","en":"A wide ring. The one who once wore it made a vow to devote their loyalty to the very last moment. All in later generations know that the vow was fulfilled.","ru":"Широкое кольцо. Тот, кто когда-то его носил, дал клятву хранить верность до самого конца. Все в последующих поколениях знают, что клятва была исполнена."}
+{"id":"accessory:6311501686118400","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6311501686118401","en":"Commission - Hillside Frontier V","ru":"Поручение — Окраина холмов V"}
+{"id":"accessory:6311501686118402","en":"Commission - Hillside Frontier IV","ru":"Поручение — Окраина холмов IV"}
+{"id":"accessory:6311931182842112","en":"Soaring Dance","ru":"Парящий танец"}
+{"id":"accessory:6311931182847232","en":"A longsword. Its grip is smoother than its blade because its owner swung it day after day without fail.","ru":"Длинный меч. Его рукоять глаже клинка, ибо владелец размахивал им день за днем без устали."}
+{"id":"accessory:6311931182848000","en":"Farm - Weapon Workshop","ru":"Ферма — Оружейная мастерская"}
+{"id":"accessory:6311931182848001","en":"Commission - Evergreen Protection V","ru":"Поручение — Вечнозелёное покровительство V"}
+{"id":"accessory:6311931182848002","en":"Commission - Evergreen Protection IV","ru":"Поручение — Вечнозелёное покровительство IV"}

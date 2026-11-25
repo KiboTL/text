@@ -1,0 +1,1486 @@
+{"id":"world_spawner:1030792151296","en":"Ignip","ru":"Игнип"}
+{"id":"world_spawner:1073741824256","en":"Breios","ru":"Брейос"}
+{"id":"world_spawner:107455786778880","en":"Starvein Vortex","ru":"Вихрь звёздного потока"}
+{"id":"world_spawner:107460081746176","en":"Starvein Vortex","ru":"Вихрь звёздного потока"}
+{"id":"world_spawner:107588930765056","en":"Starvein Vortex","ru":"Вихрь звёздного потока"}
+{"id":"world_spawner:107631880438016","en":"Mining Site","ru":"Рудник"}
+{"id":"world_spawner:107674830110976","en":"Lumberyard","ru":"Лесопилка"}
+{"id":"world_spawner:107765024424192","en":"Quarry","ru":"Каменоломня"}
+{"id":"world_spawner:111669149696256","en":"Fishing Spot","ru":"Рыбное место"}
+{"id":"world_spawner:111673444663552","en":"Fishing Spot","ru":"Рыбное место"}
+{"id":"world_spawner:111682034598144","en":"Teleport Point","ru":"Точка телепортации"}
+{"id":"world_spawner:111686329565440","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"world_spawner:111690624532736","en":"Teleport Point","ru":"Точка телепортации"}
+{"id":"world_spawner:111694919500032","en":"Commission","ru":"Поручение"}
+{"id":"world_spawner:111699214467328","en":"Teleporter","ru":"Телепорт"}
+{"id":"world_spawner:111703509434624","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"world_spawner:111712099369216","en":"Warp Point","ru":"Точка перемещения"}
+{"id":"world_spawner:111716394336512","en":"Warp Point","ru":"Точка перемещения"}
+{"id":"world_spawner:111720689303808","en":"Warp Point","ru":"Точка перемещения"}
+{"id":"world_spawner:111724984271104","en":"Repair","ru":"Восстановить"}
+{"id":"world_spawner:111729279238400","en":"Teleporter","ru":"Телепорт"}
+{"id":"world_spawner:111733574205696","en":"Dragon Ruins Door","ru":"Дверь руин драконов"}
+{"id":"world_spawner:111737869172992","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"world_spawner:111750754074880","en":"Warp Point","ru":"Точка перемещения"}
+{"id":"world_spawner:116002771697920","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"world_spawner:116011361632512","en":"Pocket Watch","ru":"Карманные часы"}
+{"id":"world_spawner:116015656599808","en":"Nowar Mushroom","ru":"гриб новар"}
+{"id":"world_spawner:116019951567104","en":"Airship Sail Wreckage","ru":"Обломки паруса воздушного корабля"}
+{"id":"world_spawner:116024246534400","en":"Gathering Equipment","ru":"Снаряжение для сбора"}
+{"id":"world_spawner:116028541501696","en":"Gathering Equipment","ru":"Снаряжение для сбора"}
+{"id":"world_spawner:116037131436288","en":"Gathering Equipment","ru":"Снаряжение для сбора"}
+{"id":"world_spawner:116058606272768","en":"Gathering Equipment","ru":"Снаряжение для сбора"}
+{"id":"world_spawner:116097260978432","en":"'Beware of Duru' Sign","ru":"Табличка «Осторожно, Дуру»"}
+{"id":"world_spawner:116101555945728","en":"Fleece Notice Board","ru":"Доска объявлений Флиса"}
+{"id":"world_spawner:116105850913024","en":"Sacred Tree Wedge","ru":"Клин священного древа"}
+{"id":"world_spawner:116110145880320","en":"Sacred Tree Wedge","ru":"Клин священного древа"}
+{"id":"world_spawner:116114440847616","en":"Whitestone","ru":"Белый камень"}
+{"id":"world_spawner:116127325749504","en":"Mirror Iron Ore","ru":"Зеркальная железная руда"}
+{"id":"world_spawner:116131620716800","en":"Pocket Watch","ru":"Карманные часы"}
+{"id":"world_spawner:116445153329408","en":"Lifo","ru":"Лифо"}
+{"id":"world_spawner:116449448296704","en":"Momo","ru":"Момо"}
+{"id":"world_spawner:116453743264000","en":"Bilibird","ru":"Билибёрд"}
+{"id":"world_spawner:116488103002368","en":"Minerals","ru":"Минералы"}
+{"id":"world_spawner:116500987904256","en":"Feeding Ground","ru":"Место кормления"}
+{"id":"world_spawner:116509577838848","en":"Gathering Hut","ru":"Хижина сборщика"}
+{"id":"world_spawner:116513872806144","en":"Lumberyard","ru":"Лесопилка"}
+{"id":"world_spawner:116518167773440","en":"Quarry","ru":"Каменоломня"}
+{"id":"world_spawner:116522462740736","en":"Mining Site","ru":"Рудник"}
+{"id":"world_spawner:116531052675328","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"world_spawner:116535347642624","en":"Feeding Ground","ru":"Место кормления"}
+{"id":"world_spawner:116543937577216","en":"Gathering Hut","ru":"Хижина сборщика"}
+{"id":"world_spawner:116548232544512","en":"Featherleaf Windmill Tower","ru":"Башня-мельница Перистого листа"}
+{"id":"world_spawner:116552527511808","en":"Featherleaf Windmill Tower","ru":"Башня-мельница Перистого листа"}
+{"id":"world_spawner:1185410973952","en":"Crucible","ru":"Тигель"}
+{"id":"world_spawner:1189705941248","en":"Hawkul","ru":"Хоукл"}
+{"id":"world_spawner:1194000908544","en":"Skyhawk","ru":"Небесный ястреб"}
+{"id":"world_spawner:1198295875840","en":"Cabbeco","ru":"Каббеко"}
+{"id":"world_spawner:1206885810432","en":"Cabbird","ru":"Капустокрыл"}
+{"id":"world_spawner:1228360646912","en":"Cabbird God","ru":"Бог Капустокрыл"}
+{"id":"world_spawner:1232655614208","en":"Gururu","ru":"Гуруру"}
+{"id":"world_spawner:129063767245056","en":"Umi","ru":"Уми"}
+{"id":"world_spawner:129068062212352","en":"Umi","ru":"Уми"}
+{"id":"world_spawner:129072357179648","en":"Umi","ru":"Уми"}
+{"id":"world_spawner:129106716918016","en":"Guide Curve","ru":"Направляющая кривая"}
+{"id":"world_spawner:129149666590976","en":"Guide Line","ru":"Направляющая линия"}
+{"id":"world_spawner:129398774694144","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129403069661440","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129407364628736","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129411659596032","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129415954563328","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129420249530624","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129424544497920","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129428839465216","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129433134432512","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129437429399808","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129441724367104","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129446019334400","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129450314301696","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129454609268992","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129458904236288","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129463199203584","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129467494170880","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129471789138176","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129476084105472","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129480379072768","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129484674040064","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129488969007360","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129493263974656","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129497558941952","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129501853909248","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129506148876544","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129510443843840","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129514738811136","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129519033778432","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129523328745728","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129527623713024","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129531918680320","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129536213647616","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129540508614912","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129544803582208","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129549098549504","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129553393516800","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129557688484096","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129561983451392","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129566278418688","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129570573385984","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129574868353280","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129579163320576","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129583458287872","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129587753255168","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129592048222464","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129596343189760","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129600638157056","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129604933124352","en":"Footprints","ru":"Следы"}
+{"id":"world_spawner:129609228091648","en":"Claw Marks","ru":"Следы когтей"}
+{"id":"world_spawner:129613523058944","en":"Claw Marks","ru":"Следы когтей"}
+{"id":"world_spawner:129617818026240","en":"Claw Marks","ru":"Следы когтей"}
+{"id":"world_spawner:129622112993536","en":"Traces","ru":"Следы"}
+{"id":"world_spawner:129626407960832","en":"Claw Marks","ru":"Следы когтей"}
+{"id":"world_spawner:129630702928128","en":"Claw Marks","ru":"Следы когтей"}
+{"id":"world_spawner:129634997895424","en":"Claw Marks","ru":"Следы когтей"}
+{"id":"world_spawner:129639292862720","en":"Traces","ru":"Следы"}
+{"id":"world_spawner:129647882797312","en":"Traces","ru":"Следы"}
+{"id":"world_spawner:129652177764608","en":"Marker","ru":"Метка"}
+{"id":"world_spawner:129656472731904","en":"Marker","ru":"Метка"}
+{"id":"world_spawner:129660767699200","en":"Marker","ru":"Метка"}
+{"id":"world_spawner:129665062666496","en":"Flower Growth01Slow","ru":"Рост цветов01Медленный"}
+{"id":"world_spawner:129669357633792","en":"Flower Growth01Fast","ru":"Рост цветов01Быстрый"}
+{"id":"world_spawner:129673652601088","en":"flowers growing 02slow","ru":"рост цветов 02медленный"}
+{"id":"world_spawner:129677947568384","en":"flowers growing 02fast","ru":"рост цветов 02быстрый"}
+{"id":"world_spawner:1417339207936","en":"Boaraga","ru":"Боарага"}
+{"id":"world_spawner:141734388919435520","en":"Gathered Spectators","ru":"Собравшиеся зрители"}
+{"id":"world_spawner:141734393214402816","en":"Gathered Spectators","ru":"Собравшиеся зрители"}
+{"id":"world_spawner:1421634175232","en":"Bunbun","ru":"Банбан"}
+{"id":"world_spawner:1425929142528","en":"Chonoko","ru":"Тёноко"}
+{"id":"world_spawner:1430224109824","en":"Phantomfly","ru":"Призракрыл"}
+{"id":"world_spawner:1434519077120","en":"Pu-chan","ru":"Пучан"}
+{"id":"world_spawner:1438814044416","en":"Vespervamp","ru":"Сумерокрыл"}
+{"id":"world_spawner:14603150799405312","en":"Rex","ru":"Рекс"}
+{"id":"world_spawner:14603155094372608","en":"Rosia Empire Employee","ru":"Служащий Империи Розия"}
+{"id":"world_spawner:14603159389339904","en":"Rosia Empire Merchant","ru":"Торговец Империи Розия"}
+{"id":"world_spawner:14603163684307200","en":"Rosia Empire Believer","ru":"Верующий Империи Розия"}
+{"id":"world_spawner:14603167979274496","en":"Schnelf","ru":"Шнельф"}
+{"id":"world_spawner:14603172274241792","en":"Rex","ru":"Рекс"}
+{"id":"world_spawner:14903536517376","en":"Tsurnephi","ru":"Цурнефи"}
+{"id":"world_spawner:15036680503552","en":"Mokyun","ru":"Мокюн"}
+{"id":"world_spawner:15079630176512","en":"Drogeko","ru":"Дрогеко"}
+{"id":"world_spawner:15083925143808","en":"Towtow","ru":"Таутау"}
+{"id":"world_spawner:15092515078400","en":"Little One","ru":"Малыш"}
+{"id":"world_spawner:15096810045696","en":"Ruins Contraption","ru":"Механизм руин"}
+{"id":"world_spawner:15101105012992","en":"Bluda","ru":"Блуда"}
+{"id":"world_spawner:15105399980288","en":"Wowky","ru":"Вауки"}
+{"id":"world_spawner:15109694947584","en":"Blue Signa","ru":"Синяя Сигна"}
+{"id":"world_spawner:15113989914880","en":"Screine","ru":"Скрэйн"}
+{"id":"world_spawner:15118284882176","en":"Ponyro","ru":"Пониро"}
+{"id":"world_spawner:15126874816768","en":"Flogure","ru":"Флогур"}
+{"id":"world_spawner:15131169784064","en":"Glenard","ru":"Гленард"}
+{"id":"world_spawner:15135464751360","en":"Molt Cutter","ru":"Линялый резак"}
+{"id":"world_spawner:15139759718656","en":"Howapo","ru":"Ховапо"}
+{"id":"world_spawner:15144054685952","en":"Fial","ru":"Фиаль"}
+{"id":"world_spawner:15148349653248","en":"Leoburnd","ru":"Леобёрнд"}
+{"id":"world_spawner:15152644620544","en":"Browdy","ru":"Броуди"}
+{"id":"world_spawner:15156939587840","en":"Tiga","ru":"Тига"}
+{"id":"world_spawner:15165529522432","en":"Pikarin","ru":"Пикарин"}
+{"id":"world_spawner:15169824489728","en":"Pebbles","ru":"Пебблс"}
+{"id":"world_spawner:15174119457024","en":"Atio","ru":"Атио"}
+{"id":"world_spawner:15178414424320","en":"Furii","ru":"Фурии"}
+{"id":"world_spawner:15182709391616","en":"【Text of Unknown Origin】","ru":"【Текст неизвестного происхождения】"}
+{"id":"world_spawner:15187004358912","en":"Banggus","ru":"Банггус"}
+{"id":"world_spawner:15195594293504","en":"Zeliton","ru":"Зелитон"}
+{"id":"world_spawner:15199889260800","en":"Senzaro","ru":"Сендзаро"}
+{"id":"world_spawner:15208479195392","en":"Otamit","ru":"Отамит"}
+{"id":"world_spawner:15212774162688","en":"Tsurnephi","ru":"Цурнефи"}
+{"id":"world_spawner:15217069129984","en":"Nebulion","ru":"Небулион"}
+{"id":"world_spawner:15221364097280","en":"Clodime","ru":"Клодиме"}
+{"id":"world_spawner:15225659064576","en":"Chiimo","ru":"Тимо"}
+{"id":"world_spawner:15229954031872","en":"Meluppo","ru":"Мелуппо"}
+{"id":"world_spawner:15234248999168","en":"Kinoka","ru":"Кинока"}
+{"id":"world_spawner:15238543966464","en":"Elahati","ru":"Элахати"}
+{"id":"world_spawner:15242838933760","en":"Sweega","ru":"Свига"}
+{"id":"world_spawner:15247133901056","en":"Ailo","ru":"Айло"}
+{"id":"world_spawner:15251428868352","en":"Trimannda","ru":"Триманда"}
+{"id":"world_spawner:15255723835648","en":"Giganshaura","ru":"Гигансёура"}
+{"id":"world_spawner:15260018802944","en":"Rokkoro","ru":"Роккоро"}
+{"id":"world_spawner:15264313770240","en":"Senzaro","ru":"Сендзаро"}
+{"id":"world_spawner:15268608737536","en":"Granzalos","ru":"Гранзалос"}
+{"id":"world_spawner:15272903704832","en":"Raikoumo","ru":"Райкоумо"}
+{"id":"world_spawner:15277198672128","en":"Grainy","ru":"Грейни"}
+{"id":"world_spawner:15281493639424","en":"Frau","ru":"Фрау"}
+{"id":"world_spawner:15285788606720","en":"Melalied","ru":"Мелэлид"}
+{"id":"world_spawner:15290083574016","en":"Nyahho","ru":"Няхо"}
+{"id":"world_spawner:15294378541312","en":"Pamola","ru":"Памола"}
+{"id":"world_spawner:15298673508608","en":"Kuckle","ru":"Какл"}
+{"id":"world_spawner:15302968475904","en":"Homie","ru":"Хоми"}
+{"id":"world_spawner:15307263443200","en":"Dealgarm","ru":"Дигалм"}
+{"id":"world_spawner:15311558410496","en":"Maze Keeper","ru":"Хранитель лабиринта"}
+{"id":"world_spawner:15315853377792","en":"Maze Gazer","ru":"Созерцатель лабиринта"}
+{"id":"world_spawner:15320148345088","en":"Nyabat","ru":"Нябат"}
+{"id":"world_spawner:15324443312384","en":"Evolution Cult Priestess","ru":"жрица Культа эволюции"}
+{"id":"world_spawner:15328738279680","en":"Evolution Cult Apologist","ru":"Апологет культа эволюции"}
+{"id":"world_spawner:15333033246976","en":"Evolution Cult Preacher","ru":"Проповедник культа эволюции"}
+{"id":"world_spawner:15337328214272","en":"Heidi","ru":"Хайди"}
+{"id":"world_spawner:15341623181568","en":"Loire","ru":"Луар"}
+{"id":"world_spawner:15345918148864","en":"Lumeri","ru":"Лумери"}
+{"id":"world_spawner:15350213116160","en":"Maephi","ru":"Мэффи"}
+{"id":"world_spawner:15354508083456","en":"Electro Cutter","ru":"Электрокрыл"}
+{"id":"world_spawner:15358803050752","en":"Elekri","ru":"Элекри"}
+{"id":"world_spawner:15363098018048","en":"Tsumo","ru":"Цумо"}
+{"id":"world_spawner:15367392985344","en":"Popoti","ru":"Попоти"}
+{"id":"world_spawner:15371687952640","en":"Shadiva","ru":"Шадива"}
+{"id":"world_spawner:15375982919936","en":"Fielarga","ru":"Фиеларга"}
+{"id":"world_spawner:15380277887232","en":"Kinglaraga","ru":"Кинглага"}
+{"id":"world_spawner:15384572854528","en":"Xiaoyu's Qihua Spirit Fox","ru":"Духовная лиса Цихуа Сяоюй"}
+{"id":"world_spawner:15388867821824","en":"Gartiger","ru":"Гартигер"}
+{"id":"world_spawner:15393162789120","en":"Nyibat","ru":"Ниибат"}
+{"id":"world_spawner:15397457756416","en":"Sunya Dragoon","ru":"Драгун Суньи"}
+{"id":"world_spawner:15401752723712","en":"Nihtol","ru":"Нихтоль"}
+{"id":"world_spawner:15406047691008","en":"Drazure","ru":"Лазуродракон"}
+{"id":"world_spawner:15436112462080","en":"Crucible","ru":"Тигель"}
+{"id":"world_spawner:15440407429376","en":"Suspicious Person","ru":"Подозрительная личность"}
+{"id":"world_spawner:1632087572736","en":"Tinana's Chiimo","ru":"Тимо Тинаны"}
+{"id":"world_spawner:1636382540032","en":"Ur","ru":"Ур"}
+{"id":"world_spawner:1675037245696","en":"Muumuuto","ru":"Муумууто"}
+{"id":"world_spawner:1679332212992","en":"Muumuuto","ru":"Муумууто"}
+{"id":"world_spawner:172262548308224","en":"Wooden Treasure Chest","ru":"Деревянный сундук с сокровищами"}
+{"id":"world_spawner:172266843275520","en":"Wooden Treasure Chest","ru":"Деревянный сундук с сокровищами"}
+{"id":"world_spawner:172271138242816","en":"Wooden Treasure Chest","ru":"Деревянный сундук с сокровищами"}
+{"id":"world_spawner:172881023598848","en":"Music Box","ru":"Музыкальная шкатулка"}
+{"id":"world_spawner:172885318566144","en":"Pocket Watch","ru":"Карманные часы"}
+{"id":"world_spawner:172889613533440","en":"Nowar Mushroom","ru":"гриб новар"}
+{"id":"world_spawner:172893908500736","en":"Airship Sail Wreckage","ru":"Обломки паруса воздушного корабля"}
+{"id":"world_spawner:172898203468032","en":"Featherleaf","ru":"Перистый лист"}
+{"id":"world_spawner:172902498435328","en":"Rich Peach","ru":"Сочный персик"}
+{"id":"world_spawner:172906793402624","en":"Buried Cabbeco","ru":"Каббеко в земле"}
+{"id":"world_spawner:172911088369920","en":"Lifo","ru":"Лифо"}
+{"id":"world_spawner:172915383337216","en":"Momo","ru":"Момо"}
+{"id":"world_spawner:172919678304512","en":"Bilibird","ru":"Билибёрд"}
+{"id":"world_spawner:172923973271808","en":"Fence","ru":"Забор"}
+{"id":"world_spawner:172928268239104","en":"Fence","ru":"Забор"}
+{"id":"world_spawner:172932563206400","en":"Orchard Entrance","ru":"Вход в сад"}
+{"id":"world_spawner:172936858173696","en":"Rock","ru":"Камень"}
+{"id":"world_spawner:172941153140992","en":"Beast Nest","ru":"Логово зверя"}
+{"id":"world_spawner:172945448108288","en":"Stone Jar","ru":"Каменный кувшин"}
+{"id":"world_spawner:172949743075584","en":"Bird Nest","ru":"Птичье гнездо"}
+{"id":"world_spawner:172954038042880","en":"Skyhawk Nest","ru":"Гнездо небесного ястреба"}
+{"id":"world_spawner:172958333010176","en":"Rock","ru":"Камень"}
+{"id":"world_spawner:172962627977472","en":"Rock","ru":"Камень"}
+{"id":"world_spawner:172966922944768","en":"apple","ru":"яблоко"}
+{"id":"world_spawner:172971217912064","en":"Momo's Apple","ru":"Яблоко Момо"}
+{"id":"world_spawner:173134426669312","en":"Tent","ru":"Палатка"}
+{"id":"world_spawner:173164491440384","en":"Penny","ru":"Пенни"}
+{"id":"world_spawner:173203146146048","en":"Schnelf","ru":"Шнельф"}
+{"id":"world_spawner:173207441113344","en":"Sweega","ru":"Свига"}
+{"id":"world_spawner:173211736080640","en":"Tantaroma","ru":"Тантарома"}
+{"id":"world_spawner:173216031047936","en":"Tantaroma","ru":"Тантарома"}
+{"id":"world_spawner:173220326015232","en":"Dark Cloud","ru":"Тёмная туча"}
+{"id":"world_spawner:173228915949824","en":"Wimble","ru":"Вимбель"}
+{"id":"world_spawner:173233210917120","en":"Bowl Moss","ru":"Чашевидный мох"}
+{"id":"world_spawner:173237505884416","en":"Firefly Flower","ru":"Цветок светлячка"}
+{"id":"world_spawner:173297635426560","en":"Karma Drainer","ru":"Похититель кармы"}
+{"id":"world_spawner:173306225361152","en":"Black Smoke","ru":"Чёрный дым"}
+{"id":"world_spawner:173331995164928","en":"Ceremonial Bonfire","ru":"ритуальный костёр"}
+{"id":"world_spawner:173336290132224","en":"Ritual Weapon","ru":"Ритуальное оружие"}
+{"id":"world_spawner:173473729085696","en":"Horticultural Show","ru":"Выставка садоводства"}
+{"id":"world_spawner:173478024052992","en":"Beast Nest","ru":"Логово зверя"}
+{"id":"world_spawner:173503793856768","en":"Aroma Tree","ru":"Аромадрево"}
+{"id":"world_spawner:173508088824064","en":"Starlight Seed","ru":"Семя звёздного сияния"}
+{"id":"world_spawner:173512383791360","en":"Minecart","ru":"Вагонетка"}
+{"id":"world_spawner:173516678758656","en":"Housing Auction Sign","ru":"Вывеска аукциона жилья"}
+{"id":"world_spawner:173533858627840","en":"Stone of Grace","ru":"Камень благодати"}
+{"id":"world_spawner:173589693202688","en":"Whisper Leaf","ru":"Лист шёпота"}
+{"id":"world_spawner:173611168039168","en":"Tree Root Obstacle","ru":"Заслон из корней"}
+{"id":"world_spawner:173615463006464","en":"Boulder","ru":"Валун"}
+{"id":"world_spawner:173619757973760","en":"apple","ru":"яблоко"}
+{"id":"world_spawner:173624052941056","en":"Thorns","ru":"Шипы"}
+{"id":"world_spawner:173649822744832","en":"Featherleaf Windmill Tower","ru":"Башня-мельница «Перистый лист»"}
+{"id":"world_spawner:173658412679424","en":"Clay Tablet","ru":"Глиняная табличка"}
+{"id":"world_spawner:173662707646720","en":"Dragonborn Artifact","ru":"Драконорождённая находка"}
+{"id":"world_spawner:173675592548608","en":"Metal Fragment1","ru":"Обломок металла1"}
+{"id":"world_spawner:173679887515904","en":"Metal Fragment2","ru":"Обломок металла2"}
+{"id":"world_spawner:173684182483200","en":"Metal Fragment3","ru":"Обломок металла3"}
+{"id":"world_spawner:1846835937536","en":"Chiruru's Mellowmie","ru":"Меллоуми Тируру"}
+{"id":"world_spawner:1851130904832","en":"Mellowmie","ru":"Меллоуми"}
+{"id":"world_spawner:1894080577792","en":"Scarecrow Kibo","ru":"Кибо-пугало"}
+{"id":"world_spawner:1898375545088","en":"Otamit","ru":"Отамит"}
+{"id":"world_spawner:1902670512384","en":"Heavyro","ru":"Хэвиро"}
+{"id":"world_spawner:1906965479680","en":"Passerby","ru":"Прохожий"}
+{"id":"world_spawner:1911260446976","en":"Passerby","ru":"Прохожий"}
+{"id":"world_spawner:1915555414272","en":"Poacher","ru":"Браконьер"}
+{"id":"world_spawner:1919850381568","en":"Poacher Leader","ru":"Главарь браконьеров"}
+{"id":"world_spawner:1924145348864","en":"Merchant","ru":"Торговец"}
+{"id":"world_spawner:1928440316160","en":"Otamit in New Clothes","ru":"Отамит в новой одежде"}
+{"id":"world_spawner:214735479898368","en":"Iron Treasure Chest","ru":"Железный сундук с сокровищами"}
+{"id":"world_spawner:214739774865664","en":"Iron Treasure Chest","ru":"Железный сундук с сокровищами"}
+{"id":"world_spawner:214744069832960","en":"Iron Treasure Chest","ru":"Железный сундук с сокровищами"}
+{"id":"world_spawner:214748364800256","en":"Wooden Treasure Chest","ru":"Деревянный сундук с сокровищами"}
+{"id":"world_spawner:214748365056","en":"Umi","ru":"Уми"}
+{"id":"world_spawner:214752659767552","en":"Wooden Treasure Chest","ru":"Деревянный сундук с сокровищами"}
+{"id":"world_spawner:214756954734848","en":"Wooden Treasure Chest","ru":"Деревянный сундук с сокровищами"}
+{"id":"world_spawner:214761249702144","en":"Wooden Treasure Chest","ru":"Деревянный сундук с сокровищами"}
+{"id":"world_spawner:214765544669440","en":"Wooden Treasure Chest","ru":"Деревянный сундук с сокровищами"}
+{"id":"world_spawner:214791314473216","en":"Iron Treasure Chest","ru":"Железный сундук с сокровищами"}
+{"id":"world_spawner:214795609440512","en":"Iron Treasure Chest","ru":"Железный сундук с сокровищами"}
+{"id":"world_spawner:214799904407808","en":"Iron Treasure Chest","ru":"Железный сундук с сокровищами"}
+{"id":"world_spawner:214804199375104","en":"Iron Treasure Chest","ru":"Железный сундук с сокровищами"}
+{"id":"world_spawner:214808494342400","en":"Iron Treasure Chest","ru":"Железный сундук с сокровищами"}
+{"id":"world_spawner:214834264146176","en":"Silver Treasure Chest","ru":"Серебряный сундук с сокровищами"}
+{"id":"world_spawner:214838559113472","en":"Silver Treasure Chest","ru":"Серебряный сундук с сокровищами"}
+{"id":"world_spawner:214842854080768","en":"Silver Mimic","ru":"Серебряный мимик"}
+{"id":"world_spawner:214847149048064","en":"Silver Treasure Chest","ru":"Серебряный сундук с сокровищами"}
+{"id":"world_spawner:214851444015360","en":"Silver Treasure Chest","ru":"Серебряный сундук с сокровищами"}
+{"id":"world_spawner:214877213819136","en":"Golden Treasure Chest","ru":"Золотой сундук с сокровищами"}
+{"id":"world_spawner:214881508786432","en":"Golden Treasure Chest","ru":"Золотой сундук с сокровищами"}
+{"id":"world_spawner:214885803753728","en":"Golden Treasure Chest","ru":"Золотой сундук с сокровищами"}
+{"id":"world_spawner:214890098721024","en":"Golden Treasure Chest","ru":"Золотой сундук с сокровищами"}
+{"id":"world_spawner:214894393688320","en":"Golden Treasure Chest","ru":"Золотой сундук с сокровищами"}
+{"id":"world_spawner:214920163492096","en":"Sacred Chest","ru":"Священный сундук"}
+{"id":"world_spawner:214924458459392","en":"Sacred Chest","ru":"Священный сундук"}
+{"id":"world_spawner:214963113165056","en":"Dark Chest","ru":"Тёмный сундук"}
+{"id":"world_spawner:214967408132352","en":"Dark Chest","ru":"Тёмный сундук"}
+{"id":"world_spawner:215006062838016","en":"Silver Treasure Chest Mimic_Sprout Valley1-4Area","ru":"Серебряный сундук с сокровищами, мимик_Долина Ростков1-4зона"}
+{"id":"world_spawner:215010357805312","en":"Silver Treasure Chest Mimic_Sprout Valley5Area","ru":"Серебряный сундук с сокровищами, мимик_Долина Ростков5зона"}
+{"id":"world_spawner:2150125052887296","en":"Elder Zakh","ru":"Старейшина Закх"}
+{"id":"world_spawner:215014652772608","en":"Silver Treasure Chest Mimic_Fleece","ru":"Серебряный сундук с сокровищами, мимик_Флис"}
+{"id":"world_spawner:215177861529856","en":"Silver Treasure Chest","ru":"Серебряный сундук с сокровищами"}
+{"id":"world_spawner:215182156497152","en":"Silver Treasure Chest","ru":"Серебряный сундук с сокровищами"}
+{"id":"world_spawner:215186451464448","en":"Silver Treasure Chest","ru":"Серебряный сундук с сокровищами"}
+{"id":"world_spawner:215190746431744","en":"Golden Treasure Chest","ru":"Золотой сундук с сокровищами"}
+{"id":"world_spawner:2233382994176","en":"Weddel","ru":"Веддел"}
+{"id":"world_spawner:2237677961472","en":"Bindest","ru":"Биндест"}
+{"id":"world_spawner:2276336961847552","en":"Fleece Peddler","ru":"Коробейник из Флиса"}
+{"id":"world_spawner:2276341256814848","en":"Someone Stopped and Looking Around","ru":"Остановившийся и оглядывающийся"}
+{"id":"world_spawner:2276345551782144","en":"Suspicious Peddler","ru":"Подозрительный коробейник"}
+{"id":"world_spawner:2276349846749440","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
+{"id":"world_spawner:2362232012800256","en":"Decorative Egg","ru":"Декоративное яйцо"}
+{"id":"world_spawner:2362236307767552","en":"Common Blessed Kibo Egg","ru":"Яйцо кибо обычного благословения"}
+{"id":"world_spawner:2362240602734848","en":"Unique Blessed Kibo Egg","ru":"Яйцо кибо редкого благословения"}
+{"id":"world_spawner:2362244897702144","en":"Common Kibo Egg - Fire","ru":"Яйцо кибо - огонь"}
+{"id":"world_spawner:2362249192669440","en":"Common Kibo Egg - Water","ru":"Яйцо кибо - вода"}
+{"id":"world_spawner:2362253487636736","en":"Common Kibo Egg - Ice","ru":"Яйцо кибо - лёд"}
+{"id":"world_spawner:2362257782604032","en":"Common Kibo Egg - Wind","ru":"Яйцо кибо - ветер"}
+{"id":"world_spawner:2362262077571328","en":"Common Kibo Egg - Nature","ru":"Яйцо кибо - Природа"}
+{"id":"world_spawner:2362266372538624","en":"Common Kibo Egg - Earth","ru":"Яйцо кибо - земля"}
+{"id":"world_spawner:2362270667505920","en":"Common Kibo Egg - Lightning","ru":"Яйцо кибо - молния"}
+{"id":"world_spawner:2362274962473216","en":"Common Kibo Egg - Light","ru":"Яйцо кибо - свет"}
+{"id":"world_spawner:2362279257440512","en":"Common Kibo Egg - Dark","ru":"Яйцо кибо - тьма"}
+{"id":"world_spawner:2362283552407808","en":"Shining Kibo Egg - Fire","ru":"Яйцо сияющего кибо - огонь"}
+{"id":"world_spawner:2362287847375104","en":"Shining Kibo Egg - Fire","ru":"Яйцо сияющего кибо - огонь"}
+{"id":"world_spawner:2362292142342400","en":"Shining Kibo Egg - Water","ru":"Яйцо сияющего кибо - вода"}
+{"id":"world_spawner:2362296437309696","en":"Shining Kibo Egg - Ice","ru":"Яйцо сияющего кибо - лёд"}
+{"id":"world_spawner:2362300732276992","en":"Shining Kibo Egg - Wind","ru":"Яйцо сияющего кибо - ветер"}
+{"id":"world_spawner:2362305027244288","en":"Shining Kibo Egg - Lightning","ru":"Яйцо сияющего кибо - молния"}
+{"id":"world_spawner:2362309322211584","en":"Common Fertility Kibo Egg","ru":"Яйцо кибо обычного плодородия"}
+{"id":"world_spawner:2362313617178880","en":"Unique Fertility Kibo Egg","ru":"Яйцо кибо редкого плодородия"}
+{"id":"world_spawner:2362317912146176","en":"Common Kibo Egg - Fire","ru":"Яйцо кибо - огонь"}
+{"id":"world_spawner:2362322207113472","en":"Common Kibo Egg - Water","ru":"Яйцо кибо - вода"}
+{"id":"world_spawner:2362326502080768","en":"Common Kibo Egg - Ice","ru":"Яйцо кибо - лёд"}
+{"id":"world_spawner:2362330797048064","en":"Common Kibo Egg - Wind","ru":"Яйцо кибо - ветер"}
+{"id":"world_spawner:2362335092015360","en":"Common Kibo Egg - Nature","ru":"Яйцо кибо - Природа"}
+{"id":"world_spawner:2362339386982656","en":"Common Kibo Egg - Earth","ru":"Яйцо кибо - земля"}
+{"id":"world_spawner:2362343681949952","en":"Common Kibo Egg - Lightning","ru":"Яйцо кибо - молния"}
+{"id":"world_spawner:2362347976917248","en":"Common Kibo Egg - Light","ru":"Яйцо кибо - свет"}
+{"id":"world_spawner:2362352271884544","en":"Common Kibo Egg - Dark","ru":"Яйцо кибо - тьма"}
+{"id":"world_spawner:2362356566851840","en":"Shining Kibo Egg - Fire","ru":"Яйцо сияющего кибо - огонь"}
+{"id":"world_spawner:2362360861819136","en":"Shining Kibo Egg - Fire","ru":"Яйцо сияющего кибо - огонь"}
+{"id":"world_spawner:2362365156786432","en":"Shining Kibo Egg - Water","ru":"Яйцо сияющего кибо - вода"}
+{"id":"world_spawner:2362369451753728","en":"Shining Kibo Egg - Ice","ru":"Яйцо сияющего кибо - лёд"}
+{"id":"world_spawner:2362373746721024","en":"Shining Kibo Egg - Wind","ru":"Яйцо сияющего кибо - ветер"}
+{"id":"world_spawner:2362378041688320","en":"Shining Kibo Egg - Lightning","ru":"Яйцо сияющего кибо - молния"}
+{"id":"world_spawner:2366956476825856","en":"Common Kibo Egg - Cabbeco","ru":"Яйцо кибо - Каббеко"}
+{"id":"world_spawner:2366960771793152","en":"Common Kibo Egg - Windy","ru":"Яйцо кибо - Винди"}
+{"id":"world_spawner:2366965066760448","en":"Common Kibo Egg - Icy","ru":"Яйцо кибо - Айси"}
+{"id":"world_spawner:2366969361727744","en":"Common Kibo Egg - Woody","ru":"Яйцо кибо - Вуди"}
+{"id":"world_spawner:2366973656695040","en":"Common Kibo Egg - Haru","ru":"Яйцо кибо - Хару"}
+{"id":"world_spawner:2366977951662336","en":"Common Kibo Egg - Drogeko","ru":"Яйцо кибо - Дрогеко"}
+{"id":"world_spawner:2366982246629632","en":"Common Kibo Egg - Peachy","ru":"Яйцо кибо - Пичи"}
+{"id":"world_spawner:2366986541596928","en":"Common Kibo Egg - Rubitz","ru":"Яйцо кибо - Рубиц"}
+{"id":"world_spawner:2366990836564224","en":"Common Kibo Egg - Rokkoro","ru":"Яйцо кибо - Роккоро"}
+{"id":"world_spawner:2366995131531520","en":"Common Kibo Egg - Gururu","ru":"Яйцо кибо - Гуруру"}
+{"id":"world_spawner:2366999426498816","en":"Common Kibo Egg - Mofunga","ru":"Яйцо кибо - Мофунга"}
+{"id":"world_spawner:2367003721466112","en":"Common Kibo Egg - Fuumo","ru":"Яйцо кибо - Фуумо"}
+{"id":"world_spawner:2367008016433408","en":"Common Kibo Egg - Hawkul","ru":"Яйцо кибо - Хоукл"}
+{"id":"world_spawner:2367012311400704","en":"Common Kibo Egg - Mellowmie","ru":"Яйцо кибо - Меллоуми"}
+{"id":"world_spawner:2367016606368000","en":"Common Kibo Egg - Fifi","ru":"Яйцо кибо - Фифи"}
+{"id":"world_spawner:2367020901335296","en":"Common Kibo Egg - Flame","ru":"Яйцо кибо - Флам"}
+{"id":"world_spawner:2367025196302592","en":"Common Kibo Egg - Grago","ru":"Яйцо кибо - Граго"}
+{"id":"world_spawner:2367029491269888","en":"Common Kibo Egg - Salamand","ru":"Яйцо кибо: Саламанд"}
+{"id":"world_spawner:2367033786237184","en":"Common Kibo Egg - Sandy","ru":"Яйцо кибо: Сэнди"}
+{"id":"world_spawner:2367038081204480","en":"Common Kibo Egg - Rimo","ru":"Яйцо кибо: Римо"}
+{"id":"world_spawner:2367042376171776","en":"Common Kibo Egg - Tsumo","ru":"Яйцо кибо: Цумо"}
+{"id":"world_spawner:2367046671139072","en":"Common Kibo Egg - Rainy","ru":"Яйцо кибо: Рейни"}
+{"id":"world_spawner:2367050966106368","en":"Common Kibo Egg - Seedro","ru":"Яйцо кибо: Сидро"}
+{"id":"world_spawner:2367055261073664","en":"Common Kibo Egg - Pyonlu","ru":"Яйцо кибо: Пионру"}
+{"id":"world_spawner:2367059556040960","en":"Common Kibo Egg - Bluda","ru":"Яйцо кибо: Блуда"}
+{"id":"world_spawner:2367068145975552","en":"Common Kibo Egg - Kuck","ru":"Яйцо кибо: Кукк"}
+{"id":"world_spawner:2367072440942848","en":"Common Kibo Egg - Ailo","ru":"Яйцо кибо: Айло"}
+{"id":"world_spawner:2367076735910144","en":"Common Kibo Egg - Gadori","ru":"Яйцо кибо: Гадори"}
+{"id":"world_spawner:2367081030877440","en":"Common Kibo Egg - Homie","ru":"Яйцо кибо: Хоми"}
+{"id":"world_spawner:2367085325844736","en":"Common Kibo Egg - Chonoko","ru":"Яйцо кибо: Тёноко"}
+{"id":"world_spawner:2367089620812032","en":"Common Kibo Egg - Cheeky","ru":"Яйцо кибо: Чики"}
+{"id":"world_spawner:2367093915779328","en":"Common Kibo Egg - Nyahho","ru":"Яйцо кибо: Няхо"}
+{"id":"world_spawner:2367098210746624","en":"Common Kibo Egg - Haacha","ru":"Яйцо кибо: Хаача"}
+{"id":"world_spawner:2367102505713920","en":"Common Kibo Egg - Folimelus","ru":"Яйцо кибо: Фолимелус"}
+{"id":"world_spawner:2367106800681216","en":"Common Kibo Egg - Duru","ru":"Яйцо кибо: Дуру"}
+{"id":"world_spawner:2367111095648512","en":"Common Kibo Egg - Towtow","ru":"Яйцо кибо: Таутау"}
+{"id":"world_spawner:2367149750354176","en":"Quest - Plate1","ru":"Задание: тарелка1"}
+{"id":"world_spawner:2367154045321472","en":"Quest - Plate2","ru":"Задание: тарелка2"}
+{"id":"world_spawner:2367158340288768","en":"Quest - Plate3","ru":"Задание: тарелка3"}
+{"id":"world_spawner:2367162635256064","en":"Quest - Plate4","ru":"Задание: тарелка4"}
+{"id":"world_spawner:2367166930223360","en":"Quest - Food: Meat1","ru":"Задание: еда, мясо1"}
+{"id":"world_spawner:2367171225190656","en":"Quest - Food: Corn","ru":"Задание: еда, кукуруза"}
+{"id":"world_spawner:2367175520157952","en":"Quest - Food: Cheese2","ru":"Задание: еда, сыр2"}
+{"id":"world_spawner:2367179815125248","en":"Quest - Food: Bread Plate","ru":"Задание: еда, хлебная тарелка"}
+{"id":"world_spawner:2367184110092544","en":"Quest - Food: Cake","ru":"Задание: еда, торт"}
+{"id":"world_spawner:2367188405059840","en":"Quest - Food: Cheese1","ru":"Задание: еда, сыр1"}
+{"id":"world_spawner:2367192700027136","en":"Quest - Food: Large Bread","ru":"Задание: еда, большой хлеб"}
+{"id":"world_spawner:2367196994994432","en":"Quest - Food: Table1","ru":"Задание: еда, стол1"}
+{"id":"world_spawner:2367201289961728","en":"Quest - Food: Table2","ru":"Задание: еда, стол2"}
+{"id":"world_spawner:2370826242359552","en":"Mysterious Kibo Egg","ru":"Загадочное яйцо кибо"}
+{"id":"world_spawner:2370830537326848","en":"Common Kibo Egg - Fire","ru":"Яйцо кибо: огонь"}
+{"id":"world_spawner:2370834832294144","en":"Common Kibo Egg - Water","ru":"Яйцо кибо: вода"}
+{"id":"world_spawner:2370839127261440","en":"Common Kibo Egg - Ice","ru":"Яйцо кибо: лёд"}
+{"id":"world_spawner:2370843422228736","en":"Common Kibo Egg - Wind","ru":"Яйцо кибо: ветер"}
+{"id":"world_spawner:2370847717196032","en":"Common Kibo Egg - Grass","ru":"Яйцо кибо: трава"}
+{"id":"world_spawner:2370852012163328","en":"Common Kibo Egg - Earth","ru":"Яйцо кибо: земля"}
+{"id":"world_spawner:2370856307130624","en":"Common Kibo Egg - Lightning","ru":"Яйцо кибо: молния"}
+{"id":"world_spawner:2370860602097920","en":"Common Kibo Egg - Light","ru":"Яйцо кибо: свет"}
+{"id":"world_spawner:2370864897065216","en":"Common Kibo Egg - Dark","ru":"Яйцо кибо: тьма"}
+{"id":"world_spawner:2370869192032512","en":"Amalthea","ru":"Амальтея"}
+{"id":"world_spawner:2370873486999808","en":"Common Kibo Egg - Peachy (Normal, Non-Random)","ru":"Яйцо кибо: Пичи (обычный, неслучайный)"}
+{"id":"world_spawner:2370877781967104","en":"Common Kibo Egg - Hawkul (Normal, Non-Random)","ru":"Яйцо кибо: Хоукл (обычный, неслучайный)"}
+{"id":"world_spawner:25769803776256","en":"Pyonlu","ru":"Пионру"}
+{"id":"world_spawner:257698038016","en":"Umi","ru":"Уми"}
+{"id":"world_spawner:257699330545156352","en":"Guard","ru":"Стражник"}
+{"id":"world_spawner:257699334840123648","en":"Guard","ru":"Стражник"}
+{"id":"world_spawner:257699339135090944","en":"Guard","ru":"Стражник"}
+{"id":"world_spawner:257699343430058240","en":"Guard","ru":"Стражник"}
+{"id":"world_spawner:257699347725025536","en":"Zaoniang","ru":"Цзаонян"}
+{"id":"world_spawner:257699352019992832","en":"Zaoniang","ru":"Цзаонян"}
+{"id":"world_spawner:257699356314960128","en":"Guo Xiaobao","ru":"Го Сяобао"}
+{"id":"world_spawner:257699360609927424","en":"Paul","ru":"Пол"}
+{"id":"world_spawner:257699364904894720","en":"Resident","ru":"Житель"}
+{"id":"world_spawner:257699369199862016","en":"Resident","ru":"Житель"}
+{"id":"world_spawner:257699377789796608","en":"Patrolling Soldier","ru":"Патрульный солдат"}
+{"id":"world_spawner:257699382084763904","en":"Patrolling Soldier","ru":"Патрульный солдат"}
+{"id":"world_spawner:257699386379731200","en":"Rear Support Soldier","ru":"Солдат тылового обеспечения"}
+{"id":"world_spawner:257699390674698496","en":"Recruit","ru":"Новобранец"}
+{"id":"world_spawner:257699394969665792","en":"Recruit","ru":"Новобранец"}
+{"id":"world_spawner:257699399264633088","en":"Serious Recruit","ru":"Серьёзный новобранец"}
+{"id":"world_spawner:257699403559600384","en":"Sturdy Soldier","ru":"Крепкий солдат"}
+{"id":"world_spawner:257699407854567680","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
+{"id":"world_spawner:257699412149534976","en":"Xiaotao","ru":"Сяотао"}
+{"id":"world_spawner:257699433624371456","en":"Outgoing Recruit","ru":"Общительный новобранец"}
+{"id":"world_spawner:257699442214306048","en":"Resident","ru":"Житель"}
+{"id":"world_spawner:257699446509273344","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
+{"id":"world_spawner:257699450804240640","en":"？？？","ru":"？？？"}
+{"id":"world_spawner:257699455099207936","en":"Great Instructor","ru":"Великий инструктор"}
+{"id":"world_spawner:257699459394175232","en":"War Bear","ru":"Боевой медведь"}
+{"id":"world_spawner:257699515228750080","en":"Guard","ru":"Стражник"}
+{"id":"world_spawner:257699519523717376","en":"Guard","ru":"Стражник"}
+{"id":"world_spawner:257699523818684672","en":"Guard","ru":"Стражник"}
+{"id":"world_spawner:25774098743552","en":"Flyry","ru":"Флайри"}
+{"id":"world_spawner:25778393710848","en":"Staray","ru":"Звездоскат"}
+{"id":"world_spawner:25778458135101696","en":"Sunya Corruption","ru":"Скверна Суньи"}
+{"id":"world_spawner:25782688678144","en":"Bluda","ru":"Блуда"}
+{"id":"world_spawner:25786983645440","en":"Blue Signa","ru":"Синяя Сигна"}
+{"id":"world_spawner:25791278612736","en":"Towtow","ru":"Таутау"}
+{"id":"world_spawner:25795573580032","en":"Towtow","ru":"Таутау"}
+{"id":"world_spawner:25812753449216","en":"Rainy","ru":"Рейни"}
+{"id":"world_spawner:25817048416512","en":"Rainel","ru":"Райнел"}
+{"id":"world_spawner:25821343383808","en":"Tidalest","ru":"Тидалест"}
+{"id":"world_spawner:25855703122176","en":"Nyahho","ru":"Няхо"}
+{"id":"world_spawner:25856261467668736","en":"Sunya Corruption","ru":"Скверна Суньи"}
+{"id":"world_spawner:25856304417341696","en":"Sunya Corruption","ru":"Скверна Суньи"}
+{"id":"world_spawner:25856562115379456","en":"Tangled Vines","ru":"Цепкие лианы"}
+{"id":"world_spawner:25856648014725376","en":"Wishing Pool","ru":"Пруд желаний"}
+{"id":"world_spawner:25856690964398336","en":"Flower Bud","ru":"Цветочный бутон"}
+{"id":"world_spawner:25856733914071296","en":"Stone Fragment","ru":"Обломок камня"}
+{"id":"world_spawner:25856776863744256","en":"Stone Fragment","ru":"Обломок камня"}
+{"id":"world_spawner:25856862763090176","en":"Thorn-Covered Stele","ru":"Стела, увитая шипами"}
+{"id":"world_spawner:25856905712763136","en":"Wishing Pool","ru":"Пруд желаний"}
+{"id":"world_spawner:25856948662436096","en":"Flower Bud","ru":"Цветочный бутон"}
+{"id":"world_spawner:25856991612109056","en":"Shattered Rock","ru":"Расколотая скала"}
+{"id":"world_spawner:25859998089216256","en":"Hollow Stele","ru":"Пустая стела"}
+{"id":"world_spawner:25859998089472","en":"Nihtol","ru":"Нихтоль"}
+{"id":"world_spawner:25860041038889216","en":"Floating Crystal","ru":"Парящий кристалл"}
+{"id":"world_spawner:25860083988562176","en":"Stream Shrine","ru":"Святилище потока"}
+{"id":"world_spawner:25860126938235136","en":"Candelabrum Vista","ru":"Вид на канделябр"}
+{"id":"world_spawner:25860169887908096","en":"Poison Mist Spray","ru":"Ядовитый туман"}
+{"id":"world_spawner:25860212837581056","en":"Pile of Fallen Leaves","ru":"Груда листвы"}
+{"id":"world_spawner:25860255787254016","en":"Chipped Mural","ru":"Повреждённая фреска"}
+{"id":"world_spawner:25860298736926976","en":"Transparent Dragon","ru":"Прозрачный дракон"}
+{"id":"world_spawner:25860341686599936","en":"Sharpened Wooden Stake","ru":"Заострённый деревянный кол"}
+{"id":"world_spawner:25860384636272896","en":"Shattered Statue","ru":"Разбитая статуя"}
+{"id":"world_spawner:25860427585945856","en":"Dust-Covered Stone Statue","ru":"Пыльная каменная статуя"}
+{"id":"world_spawner:25860470535618816","en":"Cabbird Fountain","ru":"Фонтан Капустокрыла"}
+{"id":"world_spawner:25860513485291776","en":"Sprout in a Stone Pot","ru":"Росток в каменном горшке"}
+{"id":"world_spawner:25860556434964736","en":"Teleportation Stone Gate","ru":"Каменные врата переноса"}
+{"id":"world_spawner:25860560729932032","en":"Teleportation Stone Gate","ru":"Каменные врата переноса"}
+{"id":"world_spawner:25860565024899328","en":"Teleportation Stone Gate","ru":"Каменные врата переноса"}
+{"id":"world_spawner:25860599384637696","en":"Wimble","ru":"Вимбель"}
+{"id":"world_spawner:25860642334310656","en":"Signpost Grass","ru":"Трава-указатель"}
+{"id":"world_spawner:25860685283983616","en":"Aura Buried in the Soil","ru":"Аура в земле"}
+{"id":"world_spawner:25860728233656576","en":"Aura in the Stonework","ru":"Аура в кладке"}
+{"id":"world_spawner:25860771183329536","en":"Singing Aura","ru":"Поющая аура"}
+{"id":"world_spawner:25860814133002496","en":"Aura at the Wooden Stake","ru":"Аура у деревянного кола"}
+{"id":"world_spawner:25860942982021376","en":"Aura of Light Swarm","ru":"Аура скопления света"}
+{"id":"world_spawner:25860985931694336","en":"Umi","ru":"Уми"}
+{"id":"world_spawner:25861028881367296","en":"Aura of Black Clouds","ru":"Аура чёрных облаков"}
+{"id":"world_spawner:25861071831040256","en":"Fire Aura","ru":"Огненная аура"}
+{"id":"world_spawner:25861114780713216","en":"Ice Aura","ru":"Ледяная аура"}
+{"id":"world_spawner:25861157730386176","en":"Street Lamp","ru":"Уличный фонарь"}
+{"id":"world_spawner:25861200680059136","en":"Sunya Corruption","ru":"Скверна Суньи"}
+{"id":"world_spawner:25861243629732096","en":"Monkey-Head Citrine","ru":"Жёлтый кварц с обезьяньей головой"}
+{"id":"world_spawner:25861286579405056","en":"Sigil","ru":"Печать"}
+{"id":"world_spawner:25861372478750976","en":"Water Aura's Home","ru":"Дом водной ауры"}
+{"id":"world_spawner:25861415428423936","en":"Water Aura","ru":"Водная аура"}
+{"id":"world_spawner:25861458378096896","en":"Water Aura","ru":"Водная аура"}
+{"id":"world_spawner:25861501327769856","en":"Water Aura","ru":"Водная аура"}
+{"id":"world_spawner:25861544277442816","en":"Water Aura","ru":"Водная аура"}
+{"id":"world_spawner:25861587227115776","en":"Water Aura","ru":"Водная аура"}
+{"id":"world_spawner:25861673126461696","en":"Water Aura","ru":"Водная аура"}
+{"id":"world_spawner:25864293056768","en":"Gururu","ru":"Гуруру"}
+{"id":"world_spawner:25868588024064","en":"Tsumo","ru":"Цумо"}
+{"id":"world_spawner:25872882991360","en":"Wood Petals","ru":"Лесные лепестки"}
+{"id":"world_spawner:25877177958656","en":"Tsurnephi","ru":"Цурнефи"}
+{"id":"world_spawner:25898652795136","en":"Homie","ru":"Хоми"}
+{"id":"world_spawner:25902947762432","en":"Wowky","ru":"Вауки"}
+{"id":"world_spawner:25920127631616","en":"Meimei","ru":"Мэймэй"}
+{"id":"world_spawner:25924422598912","en":"Meimei","ru":"Мэймэй"}
+{"id":"world_spawner:25928717566208","en":"Meimei","ru":"Мэймэй"}
+{"id":"world_spawner:25933012533504","en":"Meimei","ru":"Мэймэй"}
+{"id":"world_spawner:25937307500800","en":"Frif","ru":"Фриф"}
+{"id":"world_spawner:25941602468096","en":"Tsurnephi","ru":"Цурнефи"}
+{"id":"world_spawner:25984552141056","en":"Crimzor","ru":"Кримзор"}
+{"id":"world_spawner:25988847108352","en":"Clodime","ru":"Клодиме"}
+{"id":"world_spawner:25993142075648","en":"Maephi","ru":"Мэффи"}
+{"id":"world_spawner:25997437042944","en":"Mephon","ru":"Мефон"}
+{"id":"world_spawner:26001732010240","en":"Piadd","ru":"Пиадд"}
+{"id":"world_spawner:26006026977536","en":"Flogure","ru":"Флогур"}
+{"id":"world_spawner:26010321944832","en":"Frogremi","ru":"Фрогреми"}
+{"id":"world_spawner:26014616912128","en":"Pikarin","ru":"Пикарин"}
+{"id":"world_spawner:26018911879424","en":"Fial","ru":"Фиаль"}
+{"id":"world_spawner:26023206846720","en":"Speakle","ru":"Спикл"}
+{"id":"world_spawner:26027501814016","en":"Screine","ru":"Скрэйн"}
+{"id":"world_spawner:26031796781312","en":"Muumuuto","ru":"Муумуто"}
+{"id":"world_spawner:26036091748608","en":"Bluda","ru":"Блуда"}
+{"id":"world_spawner:26040386715904","en":"Blue Signa","ru":"Синяя Сигна"}
+{"id":"world_spawner:26044681683200","en":"Nyahho","ru":"Няхо"}
+{"id":"world_spawner:261993005312","en":"Rainy Umi","ru":"Дождливая Уми"}
+{"id":"world_spawner:266287972608","en":"Umi","ru":"Уми"}
+{"id":"world_spawner:2924872728832","en":"Icicle","ru":"Айсиэль"}
+{"id":"world_spawner:300647710720256","en":"Nono","ru":"Ноно"}
+{"id":"world_spawner:30064771072256","en":"Clodime","ru":"Клодиме"}
+{"id":"world_spawner:30065200568729856","en":"Otata","ru":"Отата"}
+{"id":"world_spawner:300652005687552","en":"Nanacha","ru":"Нанача"}
+{"id":"world_spawner:3006524351840512","en":"Tami","ru":"Тами"}
+{"id":"world_spawner:300656300654848","en":"Tiffy","ru":"Тиффи"}
+{"id":"world_spawner:300660595622144","en":"Peipei","ru":"Пэйпэй"}
+{"id":"world_spawner:300664890589440","en":"Pengpeng","ru":"Пэнпэн"}
+{"id":"world_spawner:300669185556736","en":"Bodine","ru":"Бодин"}
+{"id":"world_spawner:300673480524032","en":"Noomi","ru":"Нооми"}
+{"id":"world_spawner:300677775491328","en":"Jeffrey","ru":"Джеффри"}
+{"id":"world_spawner:300682070458624","en":"Terara","ru":"Терара"}
+{"id":"world_spawner:300686365425920","en":"Xiao Xi","ru":"Сяо Си"}
+{"id":"world_spawner:3006893719027968","en":"Kiri","ru":"Кири"}
+{"id":"world_spawner:3006898013995264","en":"Juka","ru":"Джука"}
+{"id":"world_spawner:3006902308962560","en":"Nanacha","ru":"Нанача"}
+{"id":"world_spawner:300690660393216","en":"Vayra","ru":"Вайра"}
+{"id":"world_spawner:30069066039552","en":"Heavyro","ru":"Хэвиро"}
+{"id":"world_spawner:3006910898897152","en":"Popo","ru":"Попо"}
+{"id":"world_spawner:3006915193864448","en":"Pii Pii","ru":"Пии-пии"}
+{"id":"world_spawner:300694955360512","en":"Aino","ru":"Айно"}
+{"id":"world_spawner:3006971028439296","en":"Shiroro","ru":"Сироро"}
+{"id":"world_spawner:30069882083082496","en":"Lilika","ru":"Лилика"}
+{"id":"world_spawner:3006988208308480","en":"Lilika","ru":"Лилика"}
+{"id":"world_spawner:300699250327808","en":"Iti","ru":"Ити"}
+{"id":"world_spawner:3007022568046848","en":"Lyudmila","ru":"Людмила"}
+{"id":"world_spawner:3007026863014144","en":"Roxana","ru":"Роксана"}
+{"id":"world_spawner:3007031157981440","en":"Rusty Claw","ru":"Ржавый Коготь"}
+{"id":"world_spawner:3007035452948736","en":"Vielna","ru":"Виэльна"}
+{"id":"world_spawner:300703545295104","en":"Mileka","ru":"Милека"}
+{"id":"world_spawner:3007039747916032","en":"Fergut","ru":"Фергут"}
+{"id":"world_spawner:3007044042883328","en":"Hannah","ru":"Ханна"}
+{"id":"world_spawner:3007048337850624","en":"Jiang Li","ru":"Цзян Ли"}
+{"id":"world_spawner:3007052632817920","en":"Nameless","ru":"Безымянный"}
+{"id":"world_spawner:3007056927785216","en":"Jils","ru":"Джилс"}
+{"id":"world_spawner:3007061222752512","en":"Harvey","ru":"Харви"}
+{"id":"world_spawner:3007065517719808","en":"Marshall","ru":"Маршалл"}
+{"id":"world_spawner:3007069812687104","en":"Enrico","ru":"Энрико"}
+{"id":"world_spawner:3007074107654400","en":"Edith","ru":"Эдит"}
+{"id":"world_spawner:3007078402621696","en":"Wayne","ru":"Уэйн"}
+{"id":"world_spawner:300707840262400","en":"Hem","ru":"Хем"}
+{"id":"world_spawner:3007082697588992","en":"Andre","ru":"Андре"}
+{"id":"world_spawner:3007086992556288","en":"Erika","ru":"Эрика"}
+{"id":"world_spawner:3007091287523584","en":"Iwano","ru":"Ивано"}
+{"id":"world_spawner:3007095582490880","en":"Matilda","ru":"Матильда"}
+{"id":"world_spawner:3007099877458176","en":"Lulu","ru":"Лулу"}
+{"id":"world_spawner:3007104172425472","en":"Ariana","ru":"Ариана"}
+{"id":"world_spawner:3007108467392768","en":"Kelly","ru":"Келли"}
+{"id":"world_spawner:3007112762360064","en":"Augie","ru":"Оги"}
+{"id":"world_spawner:3007117057327360","en":"Shelyne","ru":"Шелин"}
+{"id":"world_spawner:3007121352294656","en":"Luisa","ru":"Луиза"}
+{"id":"world_spawner:300712135229696","en":"Corwin","ru":"Корвин"}
+{"id":"world_spawner:3007125647261952","en":"Federica","ru":"Федерика"}
+{"id":"world_spawner:3007129942229248","en":"Efa","ru":"Эфа"}
+{"id":"world_spawner:3007134237196544","en":"Lin","ru":"Лин"}
+{"id":"world_spawner:3007138532163840","en":"Henrietta","ru":"Генриетта"}
+{"id":"world_spawner:3007142827131136","en":"Shadou","ru":"Шаду"}
+{"id":"world_spawner:3007147122098432","en":"Diletta","ru":"Дилетта"}
+{"id":"world_spawner:3007151417065728","en":"Laurent","ru":"Лоран"}
+{"id":"world_spawner:3007155712033024","en":"Mavis","ru":"Мэйвис"}
+{"id":"world_spawner:3007160007000320","en":"Carlo","ru":"Карло"}
+{"id":"world_spawner:3007164301967616","en":"Sophia","ru":"София"}
+{"id":"world_spawner:300716430196992","en":"Lina","ru":"Лина"}
+{"id":"world_spawner:3007168596934912","en":"Samein","ru":"Самеин"}
+{"id":"world_spawner:3007172891902208","en":"Millie","ru":"Милли"}
+{"id":"world_spawner:3007177186869504","en":"Sheena","ru":"Шина"}
+{"id":"world_spawner:3007181481836800","en":"Pat","ru":"Пэт"}
+{"id":"world_spawner:3007185776804096","en":"Rudolf","ru":"Рудольф"}
+{"id":"world_spawner:3007190071771392","en":"Albert Acte","ru":"Альберт Акт"}
+{"id":"world_spawner:3007194366738688","en":"Barry","ru":"Барри"}
+{"id":"world_spawner:3007198661705984","en":"Clyde","ru":"Клайд"}
+{"id":"world_spawner:3007202956673280","en":"Maureen","ru":"Морин"}
+{"id":"world_spawner:3007207251640576","en":"Leon","ru":"Леон"}
+{"id":"world_spawner:300720725164288","en":"Kuro","ru":"Куро"}
+{"id":"world_spawner:3007211546607872","en":"Rosk","ru":"Роск"}
+{"id":"world_spawner:3007215841575168","en":"Francisco","ru":"Франциско"}
+{"id":"world_spawner:3007220136542464","en":"Jeff","ru":"Джефф"}
+{"id":"world_spawner:3007224431509760","en":"Joy","ru":"Джой"}
+{"id":"world_spawner:3007228726477056","en":"Shine","ru":"Шайн"}
+{"id":"world_spawner:3007233021444352","en":"Gladia","ru":"Гладия"}
+{"id":"world_spawner:3007237316411648","en":"Warwick","ru":"Уорвик"}
+{"id":"world_spawner:3007241611378944","en":"Kenny","ru":"Кенни"}
+{"id":"world_spawner:3007245906346240","en":"Gary","ru":"Гэри"}
+{"id":"world_spawner:3007250201313536","en":"Monica","ru":"Моника"}
+{"id":"world_spawner:300725020131584","en":"Lumina","ru":"Люмина"}
+{"id":"world_spawner:3007254496280832","en":"Morgan","ru":"Морган"}
+{"id":"world_spawner:3007258791248128","en":"Joliet","ru":"Жолиет"}
+{"id":"world_spawner:3007263086215424","en":"Jeffrey","ru":"Джеффри"}
+{"id":"world_spawner:3007267381182720","en":"Popoi","ru":"Попои"}
+{"id":"world_spawner:3007271676150016","en":"Anne","ru":"Энн"}
+{"id":"world_spawner:3007275971117312","en":"Miriam","ru":"Мириам"}
+{"id":"world_spawner:3007280266084608","en":"Prospero","ru":"Просперо"}
+{"id":"world_spawner:3007284561051904","en":"Ada","ru":"Эйда"}
+{"id":"world_spawner:3007288856019200","en":"Natalie","ru":"Натали"}
+{"id":"world_spawner:3007293150986496","en":"Chanel","ru":"Шанель"}
+{"id":"world_spawner:300729315098880","en":"Arya","ru":"Ария"}
+{"id":"world_spawner:3007297445953792","en":"Folka","ru":"Фолька"}
+{"id":"world_spawner:3007301740921088","en":"Justice","ru":"Джастис"}
+{"id":"world_spawner:3007306035888384","en":"Asterion","ru":"Астерион"}
+{"id":"world_spawner:3007310330855680","en":"Ninglang","ru":"Нинлан"}
+{"id":"world_spawner:3007314625822976","en":"Barnaby","ru":"Барнаби"}
+{"id":"world_spawner:3007318920790272","en":"Halley","ru":"Хэлли"}
+{"id":"world_spawner:3007323215757568","en":"Wolf","ru":"Вольф"}
+{"id":"world_spawner:3007327510724864","en":"Bill","ru":"Билл"}
+{"id":"world_spawner:3007331805692160","en":"Harriet","ru":"Харриет"}
+{"id":"world_spawner:3007336100659456","en":"Emily","ru":"Эмили"}
+{"id":"world_spawner:300733610066176","en":"Balloon","ru":"Баллун"}
+{"id":"world_spawner:30073361006848","en":"Maephi","ru":"Мэффи"}
+{"id":"world_spawner:3007340395626752","en":"Josie","ru":"Джози"}
+{"id":"world_spawner:3007344690594048","en":"Becky","ru":"Бекки"}
+{"id":"world_spawner:3007348985561344","en":"Isabel","ru":"Изабель"}
+{"id":"world_spawner:3007353280528640","en":"Colin","ru":"Колин"}
+{"id":"world_spawner:3007357575495936","en":"Audrey","ru":"Одри"}
+{"id":"world_spawner:3007361870463232","en":"Nina","ru":"Нина"}
+{"id":"world_spawner:3007366165430528","en":"Mauro","ru":"Мауро"}
+{"id":"world_spawner:3007370460397824","en":"Lisa","ru":"Лиза"}
+{"id":"world_spawner:3007374755365120","en":"Bird","ru":"Бёрд"}
+{"id":"world_spawner:3007379050332416","en":"Rigby","ru":"Ригби"}
+{"id":"world_spawner:300737905033472","en":"Rakai","ru":"Ракай"}
+{"id":"world_spawner:3007383345299712","en":"Yannick","ru":"Янник"}
+{"id":"world_spawner:3007387640267008","en":"Wallis","ru":"Уоллис"}
+{"id":"world_spawner:3007391935234304","en":"Sandia","ru":"Сандия"}
+{"id":"world_spawner:3007396230201600","en":"Fimi","ru":"Фими"}
+{"id":"world_spawner:3007400525168896","en":"Dave","ru":"Дейв"}
+{"id":"world_spawner:3007404820136192","en":"Kamili","ru":"Камили"}
+{"id":"world_spawner:3007409115103488","en":"Lanny","ru":"Ланни"}
+{"id":"world_spawner:3007413410070784","en":"Lenny","ru":"Ленни"}
+{"id":"world_spawner:3007417705038080","en":"Marvel","ru":"Марвел"}
+{"id":"world_spawner:3007422000005376","en":"Tasha","ru":"Таша"}
+{"id":"world_spawner:300742200000768","en":"Rig","ru":"Риг"}
+{"id":"world_spawner:3007426294972672","en":"Rosa","ru":"Роза"}
+{"id":"world_spawner:3007430589939968","en":"Arch","ru":"Арч"}
+{"id":"world_spawner:3007434884907264","en":"Polly","ru":"Полли"}
+{"id":"world_spawner:3007439179874560","en":"Reed","ru":"Рид"}
+{"id":"world_spawner:3007443474841856","en":"Ralin","ru":"Ралин"}
+{"id":"world_spawner:3007447769809152","en":"Barrett","ru":"Барретт"}
+{"id":"world_spawner:3007452064776448","en":"Roderich","ru":"Родерих"}
+{"id":"world_spawner:3007456359743744","en":"Paige","ru":"Пейдж"}
+{"id":"world_spawner:3007460654711040","en":"Hamon","ru":"Хамон"}
+{"id":"world_spawner:3007464949678336","en":"Martin","ru":"Мартин"}
+{"id":"world_spawner:300746494968064","en":"Sturmtail","ru":"Крепкохвост"}
+{"id":"world_spawner:3007469244645632","en":"Owen","ru":"Оуэн"}
+{"id":"world_spawner:3007473539612928","en":"Laviel","ru":"Лавиэль"}
+{"id":"world_spawner:3007477834580224","en":"Bodine","ru":"Бодин"}
+{"id":"world_spawner:3007482129547520","en":"Norwen","ru":"Норвен"}
+{"id":"world_spawner:3007486424514816","en":"Parvis","ru":"Парвис"}
+{"id":"world_spawner:3007490719482112","en":"Daphne","ru":"Дафна"}
+{"id":"world_spawner:3007495014449408","en":"Bonnie","ru":"Бонни"}
+{"id":"world_spawner:3007499309416704","en":"Pan","ru":"Пан"}
+{"id":"world_spawner:3007503604384000","en":"Chuqi","ru":"Чуци"}
+{"id":"world_spawner:3007507899351296","en":"Xiao Xi","ru":"Сяо Си"}
+{"id":"world_spawner:300750789935360","en":"Helja","ru":"Хелья"}
+{"id":"world_spawner:3007512194318592","en":"Liu Jin","ru":"Лю Цзинь"}
+{"id":"world_spawner:3007516489285888","en":"Yun Sangu","ru":"Юнь Саньгу"}
+{"id":"world_spawner:3007520784253184","en":"Armand","ru":"Арманд"}
+{"id":"world_spawner:3007525079220480","en":"Brigitte","ru":"Бригитта"}
+{"id":"world_spawner:3007529374187776","en":"Stanka","ru":"Станка"}
+{"id":"world_spawner:3007533669155072","en":"Vector","ru":"Вектор"}
+{"id":"world_spawner:3007537964122368","en":"Alamanya","ru":"Аламанья"}
+{"id":"world_spawner:3007542259089664","en":"Serindy","ru":"Серинди"}
+{"id":"world_spawner:3007546554056960","en":"Dominic","ru":"Доминик"}
+{"id":"world_spawner:3007550849024256","en":"Kurten","ru":"Куртен"}
+{"id":"world_spawner:300755084902656","en":"Bettern","ru":"Беттерн"}
+{"id":"world_spawner:3007555143991552","en":"Shia","ru":"Шиа"}
+{"id":"world_spawner:3007559438958848","en":"Belt","ru":"Белт"}
+{"id":"world_spawner:3007563733926144","en":"Pierre","ru":"Пьер"}
+{"id":"world_spawner:3007568028893440","en":"Yang Huai","ru":"Ян Хуай"}
+{"id":"world_spawner:3007572323860736","en":"Qin Shi","ru":"Цинь Ши"}
+{"id":"world_spawner:3007576618828032","en":"Massima","ru":"Массима"}
+{"id":"world_spawner:3007580913795328","en":"Clarissa","ru":"Кларисса"}
+{"id":"world_spawner:3007585208762624","en":"Reina","ru":"Рейна"}
+{"id":"world_spawner:3007589503729920","en":"Claire","ru":"Клэр"}
+{"id":"world_spawner:3007593798697216","en":"Lighty","ru":"Лайти"}
+{"id":"world_spawner:300759379869952","en":"Irontusk","ru":"Железный клык"}
+{"id":"world_spawner:3007598093664512","en":"Evelyn","ru":"Эвелин"}
+{"id":"world_spawner:3007602388631808","en":"Piper","ru":"Пайпер"}
+{"id":"world_spawner:3007606683599104","en":"Romimi","ru":"Ромими"}
+{"id":"world_spawner:3007610978566400","en":"Banana","ru":"Банана"}
+{"id":"world_spawner:3007615273533696","en":"Pariri","ru":"Парири"}
+{"id":"world_spawner:3007619568500992","en":"Bowbow","ru":"Баубау"}
+{"id":"world_spawner:3007623863468288","en":"Coco","ru":"Коко"}
+{"id":"world_spawner:3007628158435584","en":"Libby","ru":"Либи"}
+{"id":"world_spawner:3007632453402880","en":"Ronald","ru":"Рональд"}
+{"id":"world_spawner:3007636748370176","en":"Timo","ru":"Тимо"}
+{"id":"world_spawner:300763674837248","en":"Rotch","ru":"Ротч"}
+{"id":"world_spawner:3007641043337472","en":"Rofi","ru":"Рофи"}
+{"id":"world_spawner:3007645338304768","en":"Toshua","ru":"Тошуа"}
+{"id":"world_spawner:3007649633272064","en":"Petal","ru":"Петаль"}
+{"id":"world_spawner:3007653928239360","en":"Kiraya","ru":"Кирая"}
+{"id":"world_spawner:3007658223206656","en":"Elijah","ru":"Элайджа"}
+{"id":"world_spawner:3007662518173952","en":"Katie","ru":"Кэти"}
+{"id":"world_spawner:3007666813141248","en":"Alvaro","ru":"Альваро"}
+{"id":"world_spawner:3007671108108544","en":"Gizmo","ru":"Гизмо"}
+{"id":"world_spawner:3007675403075840","en":"Rich","ru":"Рич"}
+{"id":"world_spawner:3007679698043136","en":"Kelin","ru":"Келин"}
+{"id":"world_spawner:300767969804544","en":"Recano","ru":"Рекано"}
+{"id":"world_spawner:3007683993010432","en":"Moises","ru":"Мойзес"}
+{"id":"world_spawner:3007688287977728","en":"Chiara","ru":"Киара"}
+{"id":"world_spawner:3007692582945024","en":"Saturu","ru":"Сатуру"}
+{"id":"world_spawner:3007696877912320","en":"Gage","ru":"Гейдж"}
+{"id":"world_spawner:3007701172879616","en":"Mole","ru":"Моул"}
+{"id":"world_spawner:3007705467846912","en":"Noomi","ru":"Нооми"}
+{"id":"world_spawner:3007709762814208","en":"Fink","ru":"Финк"}
+{"id":"world_spawner:3007714057781504","en":"Riya","ru":"Рия"}
+{"id":"world_spawner:3007718352748800","en":"Ernesto","ru":"Эрнесто"}
+{"id":"world_spawner:3007722647716096","en":"Ryld","ru":"Райлд"}
+{"id":"world_spawner:300772264771840","en":"Volo","ru":"Воло"}
+{"id":"world_spawner:300776559739136","en":"Shalle","ru":"Шалль"}
+{"id":"world_spawner:30077655974144","en":"Mephon","ru":"Мефон"}
+{"id":"world_spawner:300780854706432","en":"Migron","ru":"Мигрон"}
+{"id":"world_spawner:300785149673728","en":"Buka","ru":"Бука"}
+{"id":"world_spawner:300789444641024","en":"Rouk","ru":"Роук"}
+{"id":"world_spawner:300793739608320","en":"Argan","ru":"Арган"}
+{"id":"world_spawner:300798034575616","en":"Katu","ru":"Кату"}
+{"id":"world_spawner:300802329542912","en":"Ronsal","ru":"Ронсаль"}
+{"id":"world_spawner:300806624510208","en":"Horak","ru":"Хорак"}
+{"id":"world_spawner:300810919477504","en":"Guta","ru":"Гута"}
+{"id":"world_spawner:300815214444800","en":"Stoneback","ru":"Каменная спина"}
+{"id":"world_spawner:300819509412096","en":"Ukado","ru":"Укадо"}
+{"id":"world_spawner:300823804379392","en":"Ami","ru":"Ами"}
+{"id":"world_spawner:300828099346688","en":"Aloy","ru":"Алой"}
+{"id":"world_spawner:3008302468301056","en":"Lord Helwen","ru":"Лорд Хелвен"}
+{"id":"world_spawner:3008306763268352","en":"Komugi","ru":"Комуги"}
+{"id":"world_spawner:3008311058235648","en":"Lozia Imperial Soldier","ru":"Солдат империи Лозия"}
+{"id":"world_spawner:3008315353202944","en":"Lozia Imperial Soldier","ru":"Солдат империи Лозия"}
+{"id":"world_spawner:3008319648170240","en":"Relai","ru":"Релай"}
+{"id":"world_spawner:3008323943137536","en":"Fiona","ru":"Фиона"}
+{"id":"world_spawner:300832394313984","en":"Mirei","ru":"Мирэй"}
+{"id":"world_spawner:3008328238104832","en":"Farm Manager Richard","ru":"Управляющий фермой Ричард"}
+{"id":"world_spawner:3008332533072128","en":"Quentin","ru":"Квентин"}
+{"id":"world_spawner:3008336828039424","en":"Rio","ru":"Рио"}
+{"id":"world_spawner:3008341123006720","en":"Zoe","ru":"Зоя"}
+{"id":"world_spawner:3008345417974016","en":"Apprentice Oliver","ru":"Ученик Оливер"}
+{"id":"world_spawner:3008349712941312","en":"Susan","ru":"Сьюзан"}
+{"id":"world_spawner:3008354007908608","en":"Casper","ru":"Каспер"}
+{"id":"world_spawner:3008358302875904","en":"Isaac","ru":"Айзек"}
+{"id":"world_spawner:3008362597843200","en":"Han Song","ru":"Хань Сун"}
+{"id":"world_spawner:3008366892810496","en":"Sun Yan","ru":"Сунь Янь"}
+{"id":"world_spawner:300836689281280","en":"Adel","ru":"Адель"}
+{"id":"world_spawner:3008371187777792","en":"Guo Poyun","ru":"Го Поюнь"}
+{"id":"world_spawner:3008375482745088","en":"Wei Junling","ru":"Вэй Цзюньлин"}
+{"id":"world_spawner:3008379777712384","en":"Rinka","ru":"Ринка"}
+{"id":"world_spawner:3008384072679680","en":"Phil","ru":"Фил"}
+{"id":"world_spawner:3008388367646976","en":"Rido","ru":"Ридо"}
+{"id":"world_spawner:3008392662614272","en":"Zank","ru":"Занк"}
+{"id":"world_spawner:3008401252548864","en":"？？？","ru":"？？？"}
+{"id":"world_spawner:3008405547516160","en":"Mysterious Dragonborn Woman","ru":"Таинственная драконорождённая"}
+{"id":"world_spawner:3008409842483456","en":"Rational Winged Elder","ru":"Рассудительный крылатый старейшина"}
+{"id":"world_spawner:300840984248576","en":"Elman","ru":"Эльман"}
+{"id":"world_spawner:3008414137450752","en":"Conservative Winged Elder","ru":"Консервативный крылатый старейшина"}
+{"id":"world_spawner:3008435612287232","en":"Phantom of the Ancient Furrian","ru":"Призрак древнего фуррианца"}
+{"id":"world_spawner:3008439907254528","en":"Phantom of the Ancient Furrian","ru":"Призрак древнего фуррианца"}
+{"id":"world_spawner:3008444202221824","en":"Phantom of the Ancient Furrian","ru":"Призрак древнего фуррианца"}
+{"id":"world_spawner:3008448497189120","en":"Phantom of the Ancient Furrian","ru":"Призрак древнего фуррианца"}
+{"id":"world_spawner:3008452792156416","en":"Phantom of the Ancient Furrian","ru":"Призрак древнего фуррианца"}
+{"id":"world_spawner:300845279215872","en":"Fabian","ru":"Фабиан"}
+{"id":"world_spawner:3008457087123712","en":"Phantom of the Ancient Furrian","ru":"Призрак древнего фуррианца"}
+{"id":"world_spawner:3008461382091008","en":"Danhalei","ru":"Данхалей"}
+{"id":"world_spawner:3008465677058304","en":"Palka","ru":"Палка"}
+{"id":"world_spawner:3008469972025600","en":"Sesa","ru":"Сеса"}
+{"id":"world_spawner:3008474266992896","en":"Boney","ru":"Боуни"}
+{"id":"world_spawner:3008478561960192","en":"Leian","ru":"Леан"}
+{"id":"world_spawner:3008482856927488","en":"Laksha","ru":"Лакша"}
+{"id":"world_spawner:3008495741829376","en":"Mine Guard","ru":"Охранник рудника"}
+{"id":"world_spawner:300849574183168","en":"Cedric","ru":"Седрик"}
+{"id":"world_spawner:3008508626731264","en":"？？？","ru":"？？？"}
+{"id":"world_spawner:3008512921698560","en":"Evolution Cult Preacher","ru":"Проповедник культа эволюции"}
+{"id":"world_spawner:3008517216665856","en":"Evolution Cult Apologist","ru":"Апологет культа эволюции"}
+{"id":"world_spawner:3008521511633152","en":"Evolution Cult Priestess","ru":"жрица Культа эволюции"}
+{"id":"world_spawner:3008525806600448","en":"Evolution Cult Bishop","ru":"Епископ культа эволюции"}
+{"id":"world_spawner:3008530101567744","en":"Peddler","ru":"Коробейник"}
+{"id":"world_spawner:3008534396535040","en":"Enthusiastic Apprentice","ru":"Воодушевлённый ученик"}
+{"id":"world_spawner:3008538691502336","en":"Absentminded Resident","ru":"Рассеянный житель"}
+{"id":"world_spawner:300853869150464","en":"Julia","ru":"Джулия"}
+{"id":"world_spawner:3008542986469632","en":"Sharp-Witted Mercenary","ru":"Проницательный наёмник"}
+{"id":"world_spawner:3008551576404224","en":"Han Youyou","ru":"Хань Юю"}
+{"id":"world_spawner:300858164117760","en":"Valeria","ru":"Валерия"}
+{"id":"world_spawner:3008585936142592","en":"Sat","ru":"Сат"}
+{"id":"world_spawner:3008590231109888","en":"Mitty","ru":"Митти"}
+{"id":"world_spawner:3008594526077184","en":"Terara","ru":"Терара"}
+{"id":"world_spawner:3008598821044480","en":"Kuou","ru":"Куо"}
+{"id":"world_spawner:3008620295880960","en":"Chichini","ru":"Чичини"}
+{"id":"world_spawner:3008624590848256","en":"Courier","ru":"Курьер"}
+{"id":"world_spawner:300862459085056","en":"Agnes","ru":"Аньес"}
+{"id":"world_spawner:3008628885815552","en":"Peddler","ru":"Коробейник"}
+{"id":"world_spawner:300866754052352","en":"Sekashi","ru":"Секаси"}
+{"id":"world_spawner:300871049019648","en":"Mateo","ru":"Матео"}
+{"id":"world_spawner:300875343986944","en":"Gaspar","ru":"Гаспар"}
+{"id":"world_spawner:3008792094572800","en":"Kalhorn","ru":"Калхорн"}
+{"id":"world_spawner:300879638954240","en":"Rosan","ru":"Розан"}
+{"id":"world_spawner:3008839339213056","en":"Helmsman","ru":"Рулевой"}
+{"id":"world_spawner:300883933921536","en":"Ambi","ru":"Амби"}
+{"id":"world_spawner:3008843634180352","en":"Jacob","ru":"Джейкоб"}
+{"id":"world_spawner:3008847929147648","en":"Rosalind","ru":"Розалинд"}
+{"id":"world_spawner:300888228888832","en":"Remy","ru":"Реми"}
+{"id":"world_spawner:300892523856128","en":"Ire","ru":"Ирэ"}
+{"id":"world_spawner:300896818823424","en":"Bridget","ru":"Бриджит"}
+{"id":"world_spawner:300901113790720","en":"Mael","ru":"Маэль"}
+{"id":"world_spawner:300905408758016","en":"Luka","ru":"Лука"}
+{"id":"world_spawner:300909703725312","en":"Elio","ru":"Элио"}
+{"id":"world_spawner:300913998692608","en":"Tieli","ru":"Тиэли"}
+{"id":"world_spawner:300918293659904","en":"Anselm","ru":"Ансельм"}
+{"id":"world_spawner:300922588627200","en":"Reno","ru":"Рено"}
+{"id":"world_spawner:300926883594496","en":"Eris","ru":"Эрис"}
+{"id":"world_spawner:300931178561792","en":"Benoit","ru":"Бенуа"}
+{"id":"world_spawner:300935473529088","en":"Marco","ru":"Марко"}
+{"id":"world_spawner:300939768496384","en":"Aurelian","ru":"Орелиан"}
+{"id":"world_spawner:300944063463680","en":"Townsfolk","ru":"Горожанин"}
+{"id":"world_spawner:300948358430976","en":"Kalti","ru":"Калти"}
+{"id":"world_spawner:300952653398272","en":"Chal","ru":"Чал"}
+{"id":"world_spawner:300956948365568","en":"Ug","ru":"Уг"}
+{"id":"world_spawner:300961243332864","en":"Ramu","ru":"Раму"}
+{"id":"world_spawner:301077207449856","en":"Village Chief","ru":"Староста"}
+{"id":"world_spawner:301081502417152","en":"Uchi","ru":"Ути"}
+{"id":"world_spawner:301085797384448","en":"Tinana","ru":"Тинана"}
+{"id":"world_spawner:301090092351744","en":"Enkaku","ru":"Энкаку"}
+{"id":"world_spawner:301094387319040","en":"Momo","ru":"Момо"}
+{"id":"world_spawner:301098682286336","en":"Kirk","ru":"Кирк"}
+{"id":"world_spawner:301102977253632","en":"Chiruru","ru":"Тируру"}
+{"id":"world_spawner:301107272220928","en":"Luma","ru":"Лума"}
+{"id":"world_spawner:301111567188224","en":"Ruta","ru":"Рута"}
+{"id":"world_spawner:301115862155520","en":"Rani","ru":"Рани"}
+{"id":"world_spawner:30111715064545536","en":"Korokoro","ru":"Корокоро"}
+{"id":"world_spawner:30111758014218496","en":"Toto","ru":"Тото"}
+{"id":"world_spawner:30111972762583296","en":"Memmem","ru":"Меммем"}
+{"id":"world_spawner:301120157122816","en":"Mikuru","ru":"Микуру"}
+{"id":"world_spawner:301124452090112","en":"Ral","ru":"Раль"}
+{"id":"world_spawner:301128747057408","en":"Regera","ru":"Регера"}
+{"id":"world_spawner:301133042024704","en":"Gug","ru":"Гуг"}
+{"id":"world_spawner:301137336992000","en":"Akuri","ru":"Акури"}
+{"id":"world_spawner:301141631959296","en":"Yaal","ru":"Яаль"}
+{"id":"world_spawner:301145926926592","en":"Shiel","ru":"Шиэль"}
+{"id":"world_spawner:301150221893888","en":"Nell","ru":"Нелл"}
+{"id":"world_spawner:301154516861184","en":"Gumina","ru":"Гумина"}
+{"id":"world_spawner:301158811828480","en":"Rock","ru":"Рок"}
+{"id":"world_spawner:301163106795776","en":"Kuou","ru":"Куо"}
+{"id":"world_spawner:301167401763072","en":"Ballon","ru":"Баллон"}
+{"id":"world_spawner:301171696730368","en":"Lian","ru":"Лиань"}
+{"id":"world_spawner:301175991697664","en":"Asam","ru":"Асам"}
+{"id":"world_spawner:301180286664960","en":"Youga","ru":"Ёга"}
+{"id":"world_spawner:301184581632256","en":"Kaie","ru":"Кайе"}
+{"id":"world_spawner:301188876599552","en":"Busera","ru":"Бусэра"}
+{"id":"world_spawner:301193171566848","en":"Julili","ru":"Джурили"}
+{"id":"world_spawner:301197466534144","en":"Peko","ru":"Пеко"}
+{"id":"world_spawner:301201761501440","en":"Joru","ru":"Джору"}
+{"id":"world_spawner:301206056468736","en":"Adaiya","ru":"Адайя"}
+{"id":"world_spawner:301210351436032","en":"Hap","ru":"Хап"}
+{"id":"world_spawner:301214646403328","en":"Tobi","ru":"Тоби"}
+{"id":"world_spawner:301218941370624","en":"Anan","ru":"Анан"}
+{"id":"world_spawner:301223236337920","en":"Midu","ru":"Миду"}
+{"id":"world_spawner:301227531305216","en":"Kania","ru":"Кания"}
+{"id":"world_spawner:301231826272512","en":"Sol","ru":"Сол"}
+{"id":"world_spawner:301236121239808","en":"Lonk","ru":"Лонк"}
+{"id":"world_spawner:301240416207104","en":"Poya","ru":"Пойя"}
+{"id":"world_spawner:301244711174400","en":"Lyle","ru":"Лайл"}
+{"id":"world_spawner:301249006141696","en":"Kinny","ru":"Кинни"}
+{"id":"world_spawner:301253301108992","en":"Tulago","ru":"Тулаго"}
+{"id":"world_spawner:301257596076288","en":"Ive","ru":"Ив"}
+{"id":"world_spawner:301261891043584","en":"Bessie","ru":"Бесси"}
+{"id":"world_spawner:301266186010880","en":"Gold","ru":"Голд"}
+{"id":"world_spawner:301270480978176","en":"Penny","ru":"Пенни"}
+{"id":"world_spawner:301274775945472","en":"Nido","ru":"Нидо"}
+{"id":"world_spawner:301279070912768","en":"Omi","ru":"Оми"}
+{"id":"world_spawner:301283365880064","en":"Ahi","ru":"Ахи"}
+{"id":"world_spawner:301287660847360","en":"Elro","ru":"Элро"}
+{"id":"world_spawner:301291955814656","en":"Mana","ru":"Мана"}
+{"id":"world_spawner:301296250781952","en":"Fura","ru":"Фура"}
+{"id":"world_spawner:301300545749248","en":"Zania","ru":"Зания"}
+{"id":"world_spawner:301304840716544","en":"Belinda","ru":"Белинда"}
+{"id":"world_spawner:301309135683840","en":"Hi","ru":"Хай"}
+{"id":"world_spawner:301313430651136","en":"Gula","ru":"Гула"}
+{"id":"world_spawner:301317725618432","en":"Shafi","ru":"Шафи"}
+{"id":"world_spawner:301322020585728","en":"Ariu","ru":"Ариу"}
+{"id":"world_spawner:301326315553024","en":"Zora","ru":"Зора"}
+{"id":"world_spawner:301330610520320","en":"Buchi","ru":"Бути"}
+{"id":"world_spawner:301334905487616","en":"Machi","ru":"Мати"}
+{"id":"world_spawner:301339200454912","en":"Fuki","ru":"Фуки"}
+{"id":"world_spawner:301343495422208","en":"Karaka","ru":"Карака"}
+{"id":"world_spawner:301347790389504","en":"Gina","ru":"Джина"}
+{"id":"world_spawner:301352085356800","en":"Bakai","ru":"Бакай"}
+{"id":"world_spawner:301356380324096","en":"Flame","ru":"Флэйм"}
+{"id":"world_spawner:301360675291392","en":"Hedy","ru":"Хеди"}
+{"id":"world_spawner:301364970258688","en":"Uzon","ru":"Узон"}
+{"id":"world_spawner:301369265225984","en":"Shishiru","ru":"Сисиру"}
+{"id":"world_spawner:301373560193280","en":"Sta","ru":"Ста"}
+{"id":"world_spawner:301377855160576","en":"Kei","ru":"Кэй"}
+{"id":"world_spawner:301382150127872","en":"Kolina","ru":"Колина"}
+{"id":"world_spawner:301386445095168","en":"Sarura","ru":"Сарура"}
+{"id":"world_spawner:301390740062464","en":"Ricon","ru":"Рикон"}
+{"id":"world_spawner:301395035029760","en":"Sarara","ru":"Сарара"}
+{"id":"world_spawner:301399329997056","en":"Hawk","ru":"Хоук"}
+{"id":"world_spawner:301403624964352","en":"Ietta","ru":"Иетта"}
+{"id":"world_spawner:301407919931648","en":"Itai","ru":"Итай"}
+{"id":"world_spawner:301412214898944","en":"Vikki","ru":"Викки"}
+{"id":"world_spawner:301416509866240","en":"Chata","ru":"Чатa"}
+{"id":"world_spawner:301420804833536","en":"Balp","ru":"Балп"}
+{"id":"world_spawner:301425099800832","en":"Perna","ru":"Перна"}
+{"id":"world_spawner:301429394768128","en":"Noma","ru":"Нома"}
+{"id":"world_spawner:301433689735424","en":"Martina","ru":"Мартина"}
+{"id":"world_spawner:301437984702720","en":"Rail","ru":"Рэйл"}
+{"id":"world_spawner:301442279670016","en":"Kura","ru":"Кура"}
+{"id":"world_spawner:301446574637312","en":"Reach","ru":"Рич"}
+{"id":"world_spawner:301450869604608","en":"Rei","ru":"Рэй"}
+{"id":"world_spawner:301455164571904","en":"Sabel","ru":"Сабель"}
+{"id":"world_spawner:301459459539200","en":"Metti","ru":"Метти"}
+{"id":"world_spawner:301463754506496","en":"Sat","ru":"Сат"}
+{"id":"world_spawner:301468049473792","en":"Yaya","ru":"Яя"}
+{"id":"world_spawner:301472344441088","en":"Namo","ru":"Намо"}
+{"id":"world_spawner:301476639408384","en":"Terara","ru":"Терара"}
+{"id":"world_spawner:301480934375680","en":"Symphoria","ru":"Симфория"}
+{"id":"world_spawner:301485229342976","en":"Faridah","ru":"Фарида"}
+{"id":"world_spawner:301489524310272","en":"Mitty","ru":"Митти"}
+{"id":"world_spawner:301493819277568","en":"Luruka","ru":"Лурука"}
+{"id":"world_spawner:301498114244864","en":"Fink","ru":"Финк"}
+{"id":"world_spawner:301502409212160","en":"Metsa","ru":"Метса"}
+{"id":"world_spawner:301506704179456","en":"Light","ru":"Лайт"}
+{"id":"world_spawner:301510999146752","en":"Abby","ru":"Эбби"}
+{"id":"world_spawner:301515294114048","en":"Luruka","ru":"Лурука"}
+{"id":"world_spawner:301936200909056","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301940495876352","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301944790843648","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301949085810944","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301953380778240","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301957675745536","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301961970712832","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301966265680128","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301970560647424","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301974855614720","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301979150582016","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301983445549312","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:301987740516608","en":"Akuri","ru":"Акури"}
+{"id":"world_spawner:301992035483904","en":"Katalua","ru":"Каталуа"}
+{"id":"world_spawner:301996330451200","en":"Red Scorpion Captain","ru":"Капитан «Красного скорпиона»"}
+{"id":"world_spawner:302000625418496","en":"Red Scorpion Officer","ru":"Офицер «Красного скорпиона»"}
+{"id":"world_spawner:302004920385792","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
+{"id":"world_spawner:302009215353088","en":"Courier","ru":"Курьер"}
+{"id":"world_spawner:302013510320384","en":"Fleece Resident","ru":"Житель Флиса"}
+{"id":"world_spawner:302017805287680","en":"Mad Blade Squad Member","ru":"Член отряда «Бешеный клинок»"}
+{"id":"world_spawner:302022100254976","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
+{"id":"world_spawner:302026395222272","en":"【実装対象外／【P3】弗利斯_长支线_赤蝎奇遇.xlsx】","ru":"【実装対象外／【P3】弗利斯_长支线_赤蝎奇遇.xlsx】"}
+{"id":"world_spawner:302030690189568","en":"Overlord","ru":"Тиран"}
+{"id":"world_spawner:302034985156864","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
+{"id":"world_spawner:302039280124160","en":"Peterson","ru":"Питерсон"}
+{"id":"world_spawner:302043575091456","en":"Strange Passerby","ru":"Странный прохожий"}
+{"id":"world_spawner:302047870058752","en":"Grocery Store Customer","ru":"Покупатель продуктовой лавки"}
+{"id":"world_spawner:302052165026048","en":"Grocery Store Customer","ru":"Покупатель продуктовой лавки"}
+{"id":"world_spawner:302056459993344","en":"Poacher","ru":"Браконьер"}
+{"id":"world_spawner:302060754960640","en":"Horn","ru":"Хорн"}
+{"id":"world_spawner:302065049927936","en":"Undine","ru":"Ундина"}
+{"id":"world_spawner:302069344895232","en":"Horn's Underling","ru":"Приспешник Хорна"}
+{"id":"world_spawner:302073639862528","en":"Aio","ru":"Айо"}
+{"id":"world_spawner:302077934829824","en":"Larry","ru":"Ларри"}
+{"id":"world_spawner:302082229797120","en":"Larry's Bodyguard","ru":"Телохранитель Ларри"}
+{"id":"world_spawner:302086524764416","en":"Andle","ru":"Андл"}
+{"id":"world_spawner:302090819731712","en":"Margaret","ru":"Маргарет"}
+{"id":"world_spawner:302095114699008","en":"Fajet","ru":"Фаджет"}
+{"id":"world_spawner:302099409666304","en":"Wyld","ru":"Уайлд"}
+{"id":"world_spawner:302103704633600","en":"Red Scorpion Captain","ru":"Капитан «Красного скорпиона»"}
+{"id":"world_spawner:302107999600896","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
+{"id":"world_spawner:302112294568192","en":"Old Townsman","ru":"Пожилой горожанин"}
+{"id":"world_spawner:302116589535488","en":"Young Townsman","ru":"Молодой горожанин"}
+{"id":"world_spawner:302120884502784","en":"Town Child","ru":"Городской ребёнок"}
+{"id":"world_spawner:302125179470080","en":"Mysterious Food Merchant","ru":"Таинственный торговец провизией"}
+{"id":"world_spawner:302163834175744","en":"Leon","ru":"Леон"}
+{"id":"world_spawner:302172424110336","en":"Boney","ru":"Боней"}
+{"id":"world_spawner:302262618423552","en":"Toy Shop Owner","ru":"Владелец магазина игрушек"}
+{"id":"world_spawner:302266913390848","en":"Ilne","ru":"Илне"}
+{"id":"world_spawner:302271208358144","en":"Petal","ru":"Петаль"}
+{"id":"world_spawner:302275503325440","en":"Dondon","ru":"Дондон"}
+{"id":"world_spawner:302279798292736","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:302284093260032","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:302288388227328","en":"Villager","ru":"Деревенский житель"}
+{"id":"world_spawner:302292683194624","en":"Laksha","ru":"Лакша"}
+{"id":"world_spawner:302365697638656","en":"Margaret","ru":"Маргарет"}
+{"id":"world_spawner:302369992605952","en":"Refined Traveler","ru":"Утончённый путешественник"}
+{"id":"world_spawner:302374287573248","en":"Stern Traveler","ru":"Суровый путешественник"}
+{"id":"world_spawner:302378582540544","en":"[Ruby Character Story Not in CBT]","ru":"[История персонажа Руби, отсутствующая в CBT]"}
+{"id":"world_spawner:302382877507840","en":"Peddler","ru":"Коробейник"}
+{"id":"world_spawner:302387172475136","en":"Fajet","ru":"Фаджет"}
+{"id":"world_spawner:302391467442432","en":"Wyld","ru":"Уайлд"}
+{"id":"world_spawner:302395762409728","en":"Grid","ru":"Грид"}
+{"id":"world_spawner:302400057377024","en":"Courier","ru":"Курьер"}
+{"id":"world_spawner:302404352344320","en":"Bodyguard","ru":"Телохранитель"}
+{"id":"world_spawner:302408647311616","en":"Aio","ru":"Айо"}
+{"id":"world_spawner:302412942278912","en":"Larry","ru":"Ларри"}
+{"id":"world_spawner:302417237246208","en":"Bodyguard","ru":"Телохранитель"}
+{"id":"world_spawner:302421532213504","en":"Farmer","ru":"Фермер"}
+{"id":"world_spawner:302425827180800","en":"Horn","ru":"Хорн"}
+{"id":"world_spawner:302430122148096","en":"Undine","ru":"Ундина"}
+{"id":"world_spawner:302434417115392","en":"Sycophantic Underling","ru":"Подхалим-приспешник"}
+{"id":"world_spawner:302438712082688","en":"Fleece Gendarme","ru":"Жандарм Флиса"}
+{"id":"world_spawner:302443007049984","en":"High Elf Attendant","ru":"Слуга высшего эльфа"}
+{"id":"world_spawner:302447302017280","en":"Old Townsman","ru":"Пожилой горожанин"}
+{"id":"world_spawner:302451596984576","en":"Young Townsman","ru":"Молодой горожанин"}
+{"id":"world_spawner:302455891951872","en":"Town Child","ru":"Городской ребёнок"}
+{"id":"world_spawner:302653460447488","en":"Airship Guide Anka","ru":"Анка, гид по воздушным кораблям"}
+{"id":"world_spawner:302683525218560","en":"Windmill Keeper","ru":"Смотритель мельницы"}
+{"id":"world_spawner:302687820185856","en":"Fleece Resident","ru":"Житель Флиса"}
+{"id":"world_spawner:302692115153152","en":"Fleece Resident","ru":"Житель Флиса"}
+{"id":"world_spawner:302696410120448","en":"Fleece Resident","ru":"Житель Флиса"}
+{"id":"world_spawner:302700705087744","en":"Trading Post Clerk","ru":"Служащий торгового поста"}
+{"id":"world_spawner:302705000055040","en":"【実装対象外／红宝石个人剧情（25.8.7）.xlsx】","ru":"【実装対象外／红宝石个人剧情（25.8.7）.xlsx】"}
+{"id":"world_spawner:302709295022336","en":"Ruby","ru":"Руби"}
+{"id":"world_spawner:302713589989632","en":"Treasure Hunter","ru":"Охотник за сокровищами"}
+{"id":"world_spawner:302717884956928","en":"Pammy Peddler","ru":"Коробейник-памми"}
+{"id":"world_spawner:302722179924224","en":"Tataraya","ru":"Татарая"}
+{"id":"world_spawner:302726474891520","en":"Tourist","ru":"Турист"}
+{"id":"world_spawner:302730769858816","en":"Lenny","ru":"Ленни"}
+{"id":"world_spawner:302735064826112","en":"Lanny","ru":"Ланни"}
+{"id":"world_spawner:302739359793408","en":"Itone Tourist","ru":"Турист из Итона"}
+{"id":"world_spawner:3045131812864256","en":"Guild Receptionist","ru":"Сотрудник приёмной гильдии"}
+{"id":"world_spawner:3045136107831552","en":"Rosia Empire Scholar","ru":"Учёный Империи Розия"}
+{"id":"world_spawner:3045140402798848","en":"Plant-Loving Girl","ru":"Девочка, любящая растения"}
+{"id":"world_spawner:3045144697766144","en":"Apprentice Fighter","ru":"Начинающий боец"}
+{"id":"world_spawner:3045148992733440","en":"Hot-Blooded Fighter","ru":"Вспыльчивый боец"}
+{"id":"world_spawner:3045153287700736","en":"Calm Fighter","ru":"Спокойный боец"}
+{"id":"world_spawner:3045157582668032","en":"Composed Fighter","ru":"Невозмутимый боец"}
+{"id":"world_spawner:3045161877635328","en":"Master Challenge Receptionist","ru":"Сотрудник приёмной «Испытания мастера»"}
+{"id":"world_spawner:3045170467569920","en":"Leon","ru":"Леон"}
+{"id":"world_spawner:3045179057504512","en":"Bonei","ru":"Боней"}
+{"id":"world_spawner:3045209122275584","en":"Pammy","ru":"памми"}
+{"id":"world_spawner:3045213417242880","en":"Loli","ru":"Лоли"}
+{"id":"world_spawner:3045217712210176","en":"Girl","ru":"Девочка"}
+{"id":"world_spawner:3045222007177472","en":"Young Woman","ru":"Молодая женщина"}
+{"id":"world_spawner:3045226302144768","en":"Farmer","ru":"Фермер"}
+{"id":"world_spawner:3045230597112064","en":"Adventurer","ru":"Искатель приключений"}
+{"id":"world_spawner:3045234892079360","en":"Peddler","ru":"Коробейник"}
+{"id":"world_spawner:3045239187046656","en":"Male Protagonist","ru":"Протагонист-мужчина"}
+{"id":"world_spawner:3045243482013952","en":"Rumeng","ru":"Жумэн"}
+{"id":"world_spawner:3045247776981248","en":"Ruyi","ru":"Жуи"}
+{"id":"world_spawner:3045252071948544","en":"Peilan","ru":"Пэйлань"}
+{"id":"world_spawner:3045256366915840","en":"Baisu","ru":"Байсу"}
+{"id":"world_spawner:3045260661883136","en":"Feifei","ru":"Фэйфэй"}
+{"id":"world_spawner:3045264956850432","en":"Uncle Maoshan","ru":"Дядюшка Маошань"}
+{"id":"world_spawner:3045269251817728","en":"Toy Shop Owner","ru":"Владелец магазина игрушек"}
+{"id":"world_spawner:3045273546785024","en":"Ilne","ru":"Ильне"}
+{"id":"world_spawner:3045277841752320","en":"Petal","ru":"Петаль"}
+{"id":"world_spawner:3045282136719616","en":"Dondon","ru":"Дондон"}
+{"id":"world_spawner:3045286431686912","en":"Villager A","ru":"Житель деревни A"}
+{"id":"world_spawner:3045290726654208","en":"Villager B","ru":"Житель деревни B"}
+{"id":"world_spawner:3045295021621504","en":"Villager C","ru":"Житель деревни C"}
+{"id":"world_spawner:3045299316588800","en":"Laksha","ru":"Лакша"}
+{"id":"world_spawner:3045303611556096","en":"Red Scorpion Captain","ru":"Капитан «Красного скорпиона»"}
+{"id":"world_spawner:3045307906523392","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
+{"id":"world_spawner:3045312201490688","en":"Courier","ru":"Курьер"}
+{"id":"world_spawner:3045316496457984","en":"Fleece Resident","ru":"Житель Флиса"}
+{"id":"world_spawner:3045320791425280","en":"Frenzied Blade Squad Member","ru":"Член отряда «Безумный клинок»"}
+{"id":"world_spawner:3045325086392576","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
+{"id":"world_spawner:3045329381359872","en":"【実装対象外／【P3】弗利斯_长支线_赤蝎奇遇.xlsx】","ru":"【実装対象外／【P3】弗利斯_长支线_赤蝎奇遇.xlsx】"}
+{"id":"world_spawner:3045333676327168","en":"Qiangba","ru":"Цянба"}
+{"id":"world_spawner:3045337971294464","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
+{"id":"world_spawner:3045342266261760","en":"Peterson","ru":"Питерсон"}
+{"id":"world_spawner:3045346561229056","en":"Strange Passerby","ru":"Странный прохожий"}
+{"id":"world_spawner:3045350856196352","en":"Grocery Store Customer","ru":"Покупатель продуктового магазина"}
+{"id":"world_spawner:3045355151163648","en":"Grocery Store Customer","ru":"Покупатель продуктового магазина"}
+{"id":"world_spawner:3045359446130944","en":"Poacher","ru":"Браконьер"}
+{"id":"world_spawner:3045363741098240","en":"Horn","ru":"Хорн"}
+{"id":"world_spawner:3045368036065536","en":"Undine","ru":"Ундина"}
+{"id":"world_spawner:3045372331032832","en":"Horn's Underling","ru":"Приспешник Хорна"}
+{"id":"world_spawner:3045376626000128","en":"Aio","ru":"Айо"}
+{"id":"world_spawner:3045380920967424","en":"Larry","ru":"Ларри"}
+{"id":"world_spawner:3045385215934720","en":"Larry's Bodyguard","ru":"Телохранитель Ларри"}
+{"id":"world_spawner:3045389510902016","en":"Andle","ru":"Андл"}
+{"id":"world_spawner:3045393805869312","en":"Margaret","ru":"Маргарет"}
+{"id":"world_spawner:3045398100836608","en":"Fajet","ru":"Фаджет"}
+{"id":"world_spawner:3045402395803904","en":"Wyld","ru":"Уайлд"}
+{"id":"world_spawner:3045406690771200","en":"Red Scorpion Captain","ru":"Капитан «Красного скорпиона»"}
+{"id":"world_spawner:3045410985738496","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
+{"id":"world_spawner:3045415280705792","en":"Town Elder","ru":"Городской старик"}
+{"id":"world_spawner:3045419575673088","en":"Town Youth","ru":"Городской юноша"}
+{"id":"world_spawner:3045423870640384","en":"Town Child","ru":"Городской ребёнок"}
+{"id":"world_spawner:3045428165607680","en":"Mysterious Food Merchant","ru":"Таинственный торговец едой"}
+{"id":"world_spawner:3045432460574976","en":"Mysterious Dragonborn Woman","ru":"Таинственная женщина-драконорождённая"}
+{"id":"world_spawner:3045436755542272","en":"Rabin the Peddler","ru":"странствующий торговец Рабин"}
+{"id":"world_spawner:3045441050509568","en":"Ezio","ru":"Эцио"}
+{"id":"world_spawner:3045445345476864","en":"Mine Guard","ru":"Охранник рудника"}
+{"id":"world_spawner:3045466820313344","en":"Volunteer","ru":"Доброволец"}
+{"id":"world_spawner:3045471115280640","en":"Site Supervisor","ru":"Прораб"}
+{"id":"world_spawner:3045475410247936","en":"Mansion Maid","ru":"Горничная из особняка"}
+{"id":"world_spawner:3045479705215232","en":"Laborer","ru":"Рабочий"}
+{"id":"world_spawner:3045484000182528","en":"Rosia Traveling Merchant","ru":"Разъездной торговец из Розии"}
+{"id":"world_spawner:3045488295149824","en":"Mel","ru":"Мел"}
+{"id":"world_spawner:3045492590117120","en":"Grudge-Filled Adult","ru":"Взрослый, полный злобы"}
+{"id":"world_spawner:3045496885084416","en":"Grudge-Filled Child","ru":"Ребёнок, полный злобы"}
+{"id":"world_spawner:3045501180051712","en":"Oni Grudge Mask","ru":"Маска злобного они"}
+{"id":"world_spawner:3045505475019008","en":"Grudge-Filled Bomark","ru":"Бомарк, полный злобы"}
+{"id":"world_spawner:3045509769986304","en":"Grudge-Filled Ballmow","ru":"Боллмоу, полный злобы"}
+{"id":"world_spawner:3045514064953600","en":"Grudge-Filled Red Scorpion","ru":"Член «Красного скорпиона», полный злобы"}
+{"id":"world_spawner:3045518359920896","en":"Grudge-Filled Red Scorpion","ru":"Член «Красного скорпиона», полный злобы"}
+{"id":"world_spawner:3045539834757376","en":"Avina","ru":"Авина"}
+{"id":"world_spawner:3045544129724672","en":"Eins","ru":"Эйнс"}
+{"id":"world_spawner:3045548424691968","en":"Elina","ru":"Элина"}
+{"id":"world_spawner:3045565604561152","en":"Red Scorpion Underling","ru":"Приспешник «Красного скорпиона»"}
+{"id":"world_spawner:3045569899528448","en":"Red Scorpion Underling","ru":"Приспешник «Красного скорпиона»"}
+{"id":"world_spawner:3045574194495744","en":"Red Scorpion Underling","ru":"Приспешник «Красного скорпиона»"}
+{"id":"world_spawner:3045578489463040","en":"Spectating Resident","ru":"Наблюдающий житель"}
+{"id":"world_spawner:3045582784430336","en":"Spectating Resident","ru":"Наблюдающий житель"}
+{"id":"world_spawner:3045587079397632","en":"Spectating Resident","ru":"Наблюдающий житель"}
+{"id":"world_spawner:3045591374364928","en":"Spectating Resident","ru":"Наблюдающий житель"}
+{"id":"world_spawner:3045595669332224","en":"Spectating Resident","ru":"Наблюдающий житель"}
+{"id":"world_spawner:3045599964299520","en":"Red Scorpion Captain","ru":"Капитан «Красного скорпиона»"}
+{"id":"world_spawner:3045604259266816","en":"Tough Red Scorpion Underling","ru":"Крепкий приспешник «Красного скорпиона»"}
+{"id":"world_spawner:3045608554234112","en":"Swift Red Scorpion Underling","ru":"Быстрый приспешник «Красного скорпиона»"}
+{"id":"world_spawner:3045612849201408","en":"Ronin","ru":"Ронин"}
+{"id":"world_spawner:3045617144168704","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
+{"id":"world_spawner:3045655798874368","en":"Red Scorpion Underling","ru":"Приспешник «Красного скорпиона»"}
+{"id":"world_spawner:3045660093841664","en":"Red Scorpion Underling","ru":"Приспешник «Красного скорпиона»"}
+{"id":"world_spawner:3045668683776256","en":"Mercenary Senior Brother","ru":"Старший брат-наёмник"}
+{"id":"world_spawner:3045672978743552","en":"Mercenary Junior Brother","ru":"Младший брат-наёмник"}
+{"id":"world_spawner:3045677273710848","en":"Grass-Wrapped Pedestal","ru":"Пьедестал, обвитый травой"}
+{"id":"world_spawner:3045720223383808","en":"Rosk","ru":"Роск"}
+{"id":"world_spawner:3053721747712","en":"Faiyel","ru":"Файель"}
+{"id":"world_spawner:3058016715008","en":"Ignest","ru":"Игнест"}
+{"id":"world_spawner:3178275799296","en":"Windel","ru":"Виндел"}
+{"id":"world_spawner:3182570766592","en":"Udda","ru":"Удда"}
+{"id":"world_spawner:3186865733888","en":"Lindy","ru":"Линди"}
+{"id":"world_spawner:3436064031113472","en":"Elemental Vortex","ru":"Элементарный вихрь"}
+{"id":"world_spawner:34378077878354176","en":"Genora","ru":"Дженора"}
+{"id":"world_spawner:34378082173321472","en":"Pachi","ru":"Пачи"}
+{"id":"world_spawner:34378086468288768","en":"Charaki","ru":"Чараки"}
+{"id":"world_spawner:34378090763256064","en":"Kukuya","ru":"Кукуя"}
+{"id":"world_spawner:34378095058223360","en":"Laraka","ru":"Ларака"}
+{"id":"world_spawner:34378099353190656","en":"Blaze","ru":"Пламя"}
+{"id":"world_spawner:34378103648157952","en":"Athena","ru":"Афина"}
+{"id":"world_spawner:34378107943125248","en":"Lyra","ru":"Лайра"}
+{"id":"world_spawner:34378112238092544","en":"Teti","ru":"Тети"}
+{"id":"world_spawner:34378116533059840","en":"Redfang","ru":"Краснозуб"}
+{"id":"world_spawner:34378120828027136","en":"Shiravi","ru":"Ширави"}
+{"id":"world_spawner:34378125122994432","en":"Tila","ru":"Тила"}
+{"id":"world_spawner:34378129417961728","en":"Peraki","ru":"Пераки"}
+{"id":"world_spawner:3478923510016","en":"Dark","ru":"Дарк"}
+{"id":"world_spawner:3483218477312","en":"Dark Knight","ru":"Тёмный рыцарь"}
+{"id":"world_spawner:386615776116992","en":"Signpost Grass","ru":"Трава-указатель"}
+{"id":"world_spawner:425201762560","en":"Skalek","ru":"Скалек"}
+{"id":"world_spawner:4256312590592","en":"Peachy","ru":"Пичи"}
+{"id":"world_spawner:4260607557888","en":"Flammy","ru":"Фламми"}
+{"id":"world_spawner:4264902525184","en":"Downybrinny","ru":"Пухобринни"}
+{"id":"world_spawner:429496729856","en":"Folimelus","ru":"Фолимелус"}
+{"id":"world_spawner:433791697152","en":"Towtow","ru":"Таутау"}
+{"id":"world_spawner:433808876765440","en":"Peipei","ru":"Пэйпэй"}
+{"id":"world_spawner:433817466700032","en":"Nono","ru":"Ноно"}
+{"id":"world_spawner:433821761667328","en":"Peipei","ru":"Пэйпэй"}
+{"id":"world_spawner:433826056634624","en":"Peipei","ru":"Пэйпэй"}
+{"id":"world_spawner:433830351601920","en":"Pengpeng","ru":"Пэнпэн"}
+{"id":"world_spawner:433851826438400","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
+{"id":"world_spawner:438086664448","en":"Faundi","ru":"Фаунди"}
+{"id":"world_spawner:438095254126848","en":"Abby","ru":"Эбби"}
+{"id":"world_spawner:442381631744","en":"Evolution Cult Preacher","ru":"Проповедник культа эволюции"}
+{"id":"world_spawner:442394516390144","en":"Lumi","ru":"Луми"}
+{"id":"world_spawner:442398811357440","en":"Luruka","ru":"Лурука"}
+{"id":"world_spawner:442415991226624","en":"Luruka","ru":"Лурука"}
+{"id":"world_spawner:442420286193920","en":"Mitty","ru":"Митти"}
+{"id":"world_spawner:446676599040","en":"Evolution Cult Apologist","ru":"Апологет культа эволюции"}
+{"id":"world_spawner:446680893751552","en":"Starborn","ru":"Звездорождённая"}
+{"id":"world_spawner:446685188718848","en":"Han Youyou","ru":"Хань Юю"}
+{"id":"world_spawner:446689483686144","en":"Mysterious Girl","ru":"Таинственная девушка"}
+{"id":"world_spawner:446693778653440","en":"Terara","ru":"Терара"}
+{"id":"world_spawner:446702368588032","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
+{"id":"world_spawner:446736728326400","en":"Morwyn","ru":"Морвин"}
+{"id":"world_spawner:446741023293696","en":"Shalle","ru":"Шалль"}
+{"id":"world_spawner:446749613228288","en":"Lily","ru":"Лили"}
+{"id":"world_spawner:446753908195584","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
+{"id":"world_spawner:446762498130176","en":"Ruby","ru":"Руби"}
+{"id":"world_spawner:446766793097472","en":"Cathbelle","ru":"Кэтбелль"}
+{"id":"world_spawner:446771088064768","en":"Katalua","ru":"Каталуа"}
+{"id":"world_spawner:446779677999360","en":"Maple","ru":"Мейпл"}
+{"id":"world_spawner:446783972966656","en":"Mysterious Girl","ru":"Таинственная девушка"}
+{"id":"world_spawner:446788267933952","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
+{"id":"world_spawner:446805447803136","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
+{"id":"world_spawner:446809742770432","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
+{"id":"world_spawner:446814037737728","en":"Han Youyou","ru":"Хань Юю"}
+{"id":"world_spawner:446818332705024","en":"Terara","ru":"Терара"}
+{"id":"world_spawner:446822627672320","en":"Symphoria","ru":"Симфория"}
+{"id":"world_spawner:446826922639616","en":"Morwyn","ru":"Морвин"}
+{"id":"world_spawner:446831217606912","en":"Shalle","ru":"Шалль"}
+{"id":"world_spawner:446835512574208","en":"Lily","ru":"Лили"}
+{"id":"world_spawner:446839807541504","en":"Ruby","ru":"Руби"}
+{"id":"world_spawner:446844102508800","en":"Cathbelle","ru":"Кэтбелль"}
+{"id":"world_spawner:446848397476096","en":"Katalua","ru":"Каталуа"}
+{"id":"world_spawner:446852692443392","en":"Maple","ru":"Мейпл"}
+{"id":"world_spawner:446856987410688","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
+{"id":"world_spawner:446861282377984","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
+{"id":"world_spawner:446865577345280","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
+{"id":"world_spawner:4509715661056","en":"Haru","ru":"Хару"}
+{"id":"world_spawner:450971566336","en":"Evolution Cult Priestess","ru":"жрица Культа эволюции"}
+{"id":"world_spawner:451001630851328","en":"Anais","ru":"Анаис"}
+{"id":"world_spawner:451005925818624","en":"Metsa","ru":"Метса"}
+{"id":"world_spawner:451023105687808","en":"Metsa","ru":"Метса"}
+{"id":"world_spawner:451027400655104","en":"Faridah","ru":"Фарида"}
+{"id":"world_spawner:451031695622400","en":"Anais","ru":"Анаис"}
+{"id":"world_spawner:4514010628352","en":"Piadd","ru":"Пиадд"}
+{"id":"world_spawner:45354854646016","en":"Duststone","ru":"Пылекамень"}
+{"id":"world_spawner:45359149613312","en":"Duststone","ru":"Пылекамень"}
+{"id":"world_spawner:45363444580608","en":"Duststone","ru":"Пылекамень"}
+{"id":"world_spawner:45367739547904","en":"Duststone","ru":"Пылекамень"}
+{"id":"world_spawner:45372034515200","en":"Weathered Duststone","ru":"Выветренный пылекамень"}
+{"id":"world_spawner:45376329482496","en":"Weathered Duststone","ru":"Выветренный пылекамень"}
+{"id":"world_spawner:45380624449792","en":"Duststone","ru":"Пылекамень"}
+{"id":"world_spawner:45384919417088","en":"Duststone","ru":"Пылекамень"}
+{"id":"world_spawner:45389214384384","en":"Duststone","ru":"Пылекамень"}
+{"id":"world_spawner:45397804318976","en":"Hardrock","ru":"Твёрдый камень"}
+{"id":"world_spawner:45402099286272","en":"Hardrock","ru":"Твёрдый камень"}
+{"id":"world_spawner:45406394253568","en":"Hardrock","ru":"Твёрдый камень"}
+{"id":"world_spawner:45410689220864","en":"Hardrock","ru":"Твёрдый камень"}
+{"id":"world_spawner:4556960301312","en":"Harshee","ru":"Харши"}
+{"id":"world_spawner:4561255268608","en":"Harshee","ru":"Харши"}
+{"id":"world_spawner:45698452029696","en":"Sky Iron Ore","ru":"Руда небесного железа"}
+{"id":"world_spawner:45702746996992","en":"Sky Iron Ore","ru":"Руда небесного железа"}
+{"id":"world_spawner:45741401702656","en":"Wind Copper Ore","ru":"Руда ветряной меди"}
+{"id":"world_spawner:45745696669952","en":"Wind Copper Ore","ru":"Руда ветряной меди"}
+{"id":"world_spawner:45749991637248","en":"Wind Copper Ore","ru":"Руда ветряной меди"}
+{"id":"world_spawner:45754286604544","en":"Wind Copper Ore","ru":"Руда ветряной меди"}
+{"id":"world_spawner:45758581571840","en":"Weathered Wind Copper Ore","ru":"Выветренная руда ветряной меди"}
+{"id":"world_spawner:45762876539136","en":"Weathered Wind Copper Ore","ru":"Выветренная руда ветряной меди"}
+{"id":"world_spawner:45767171506432","en":"Weathered Wind Copper Ore","ru":"Выветренная руда ветряной меди"}
+{"id":"world_spawner:45771466473728","en":"Wind Copper Ore","ru":"Руда ветряной меди"}
+{"id":"world_spawner:45775761441024","en":"Wind Copper Ore","ru":"Руда ветряной меди"}
+{"id":"world_spawner:45780056408320","en":"Wind Copper Ore","ru":"Руда ветряной меди"}
+{"id":"world_spawner:45784351375616","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45788646342912","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45792941310208","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45797236277504","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45801531244800","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45805826212096","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45810121179392","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45814416146688","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45818711113984","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45823006081280","en":"Starlight Ore","ru":"Звёздная руда"}
+{"id":"world_spawner:45827301048576","en":"Weathered Starlight Ore","ru":"Выветренная звёздная руда"}
+{"id":"world_spawner:45831596015872","en":"Weathered Starlight Ore","ru":"Выветренная звёздная руда"}
+{"id":"world_spawner:45835890983168","en":"Weathered Starlight Vein","ru":"Выветренная звёздная жила"}
+{"id":"world_spawner:4599909974272","en":"Hallusion","ru":"Халлюсион"}
+{"id":"world_spawner:4642859647232","en":"Chesha Bat","ru":"Чеша-бат"}
+{"id":"world_spawner:4681514352896","en":"Frif","ru":"Фриф"}
+{"id":"world_spawner:468151435520","en":"Duru","ru":"Дуру"}
+{"id":"world_spawner:4685809320192","en":"Rurif","ru":"Руриф"}
+{"id":"world_spawner:4690104287488","en":"Rurunei","ru":"Рурунэй"}
+{"id":"world_spawner:47244640256256","en":"apple","ru":"яблоко"}
+{"id":"world_spawner:472446402816","en":"Duru","ru":"Дуру"}
+{"id":"world_spawner:47248935223552","en":"apple","ru":"яблоко"}
+{"id":"world_spawner:47253230190848","en":"apple","ru":"яблоко"}
+{"id":"world_spawner:47257525158144","en":"apple","ru":"яблоко"}
+{"id":"world_spawner:47261820125440","en":"apple","ru":"яблоко"}
+{"id":"world_spawner:47287589929216","en":"Youthberry","ru":"Ягода юности"}
+{"id":"world_spawner:47330539602176","en":"Rich Peach","ru":"Сочный персик"}
+{"id":"world_spawner:47373489275136","en":"Red Chishiki","ru":"Красный тисики"}
+{"id":"world_spawner:47416438948096","en":"Cat Whisker Grass","ru":"Кошачья трава"}
+{"id":"world_spawner:47459388621056","en":"Aeruta","ru":"Аэрута"}
+{"id":"world_spawner:47519518163200","en":"Alb Mushroom","ru":"Альб-гриб"}
+{"id":"world_spawner:47523813130496","en":"Alb Mushroom","ru":"Альб-гриб"}
+{"id":"world_spawner:47545287966976","en":"Mandrake","ru":"мандрагора"}
+{"id":"world_spawner:47588237639936","en":"New Moon Potato","ru":"Картофель новолуния"}
+{"id":"world_spawner:47631187312896","en":"Swaying Tree","ru":"Качающееся дерево"}
+{"id":"world_spawner:47635482280192","en":"Swaying Tree","ru":"Качающееся дерево"}
+{"id":"world_spawner:47674136985856","en":"Glow Tree","ru":"Светящееся дерево"}
+{"id":"world_spawner:476741370112","en":"Duru","ru":"Дуру"}
+{"id":"world_spawner:47717086658816","en":"Chishiki","ru":"Тисики"}
+{"id":"world_spawner:47760036331776","en":"Featherleaf","ru":"Перистый лист"}
+{"id":"world_spawner:47802986004736","en":"Seelily","ru":"Силили"}
+{"id":"world_spawner:47845935677696","en":"Daroma Grass","ru":"Трава дарома"}
+{"id":"world_spawner:47888885350656","en":"Stancia","ru":"Станция"}
+{"id":"world_spawner:47931835023616","en":"Frostkaya","ru":"фросткая"}
+{"id":"world_spawner:47974784696576","en":"Flammule","ru":"Фламмуль"}
+{"id":"world_spawner:48060684042496","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48064979009792","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48069273977088","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48073568944384","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48103633715456","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:481036337408","en":"Duru","ru":"Дуру"}
+{"id":"world_spawner:481040632119552","en":"Starborn","ru":"Звездорождённая"}
+{"id":"world_spawner:48107928682752","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48112223650048","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48116518617344","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48146583388416","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48150878355712","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48189533061376","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48193828028672","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48198122995968","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48202417963264","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48232482734336","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48236777701632","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48241072668928","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48245367636224","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48275432407296","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48318382080256","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48322677047552","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48365626720512","en":"Shrub","ru":"Кустарник"}
+{"id":"world_spawner:48404281426176","en":"Silver Ore","ru":"Серебряная руда"}
+{"id":"world_spawner:48408576393472","en":"Silver Ore","ru":"Серебряная руда"}
+{"id":"world_spawner:485331304704","en":"Meimei","ru":"Мэймэй"}
+{"id":"world_spawner:48704929136896","en":"Mushroom","ru":"Гриб"}
+{"id":"world_spawner:48833778155776","en":"Full-Belly Corn","ru":"Сытная кукуруза"}
+{"id":"world_spawner:48876727828736","en":"Juicy Tomato","ru":"Сочный томат"}
+{"id":"world_spawner:48919677501696","en":"Crimson Sweet Radish","ru":"красный сладкий редис"}
+{"id":"world_spawner:48962627174656","en":"Goldwheat","ru":"Золотая пшеница"}
+{"id":"world_spawner:489626272000","en":"Ballmow","ru":"Боллмоу"}
+{"id":"world_spawner:49005576847616","en":"Letchulf","ru":"Летчульф"}
+{"id":"world_spawner:49048526520576","en":"Windiel","ru":"Виндиэль"}
+{"id":"world_spawner:49091476193536","en":"Swiftie","ru":"Свифти"}
+{"id":"world_spawner:49134425866496","en":"Gold Drop","ru":"Золотая капля"}
+{"id":"world_spawner:49177375539456","en":"Kaduria","ru":"Кадурия"}
+{"id":"world_spawner:49220325212416","en":"Aroma Tree","ru":"Аромадрево"}
+{"id":"world_spawner:49263274885376","en":"Aura Berry","ru":"Ягода ауры"}
+{"id":"world_spawner:49306224558336","en":"Moonberry","ru":"Лунная ягода"}
+{"id":"world_spawner:49392123904256","en":"Flash Tin Ore","ru":"Вспышечная оловянная руда"}
+{"id":"world_spawner:493921239296","en":"Greatarg","ru":"Греатарг"}
+{"id":"world_spawner:49396418871552","en":"Flash Tin Ore","ru":"Вспышечная оловянная руда"}
+{"id":"world_spawner:49435073577216","en":"Moonlight Hemp","ru":"Лунная конопля"}
+{"id":"world_spawner:49478023250176","en":"Flameglow stone","ru":"камень пламенного света"}
+{"id":"world_spawner:49482318217472","en":"Flameglow stone","ru":"камень пламенного света"}
+{"id":"world_spawner:49486613184768","en":"Flameglow stone","ru":"камень пламенного света"}
+{"id":"world_spawner:49520972923136","en":"Spotted Mushroom","ru":"Пятнистый гриб"}
+{"id":"world_spawner:49525267890432","en":"Spotted Mushroom","ru":"Пятнистый гриб"}
+{"id":"world_spawner:49529562857728","en":"Spotted Mushroom","ru":"Пятнистый гриб"}
+{"id":"world_spawner:49533857825024","en":"Spotted Mushroom","ru":"Пятнистый гриб"}
+{"id":"world_spawner:49563922596096","en":"Sweetcabbage","ru":"Сладкая капуста"}
+{"id":"world_spawner:49568217563392","en":"Sweetcabbage","ru":"Сладкая капуста"}
+{"id":"world_spawner:49572512530688","en":"Sweetcabbage","ru":"Сладкая капуста"}
+{"id":"world_spawner:49576807497984","en":"Sweetcabbage","ru":"Сладкая капуста"}
+{"id":"world_spawner:49581102465280","en":"Sweetcabbage","ru":"Сладкая капуста"}
+{"id":"world_spawner:49585397432576","en":"Sweetcabbage","ru":"Сладкая капуста"}
+{"id":"world_spawner:49589692399872","en":"Sweetcabbage","ru":"Сладкая капуста"}
+{"id":"world_spawner:49593987367168","en":"Sweetcabbage","ru":"Сладкая капуста"}
+{"id":"world_spawner:49598282334464","en":"Sweetcabbage","ru":"Сладкая капуста"}
+{"id":"world_spawner:49606872269056","en":"Spiderfluff","ru":"Паутинный пух"}
+{"id":"world_spawner:49611167236352","en":"Spiderfluff","ru":"Паутинный пух"}
+{"id":"world_spawner:49615462203648","en":"Spiderfluff","ru":"Паутинный пух"}
+{"id":"world_spawner:49649821942016","en":"sweet water chestnut","ru":"сладкий водяной орех"}
+{"id":"world_spawner:49654116909312","en":"sweet water chestnut","ru":"сладкий водяной орех"}
+{"id":"world_spawner:49658411876608","en":"sweet water chestnut","ru":"сладкий водяной орех"}
+{"id":"world_spawner:49735721287936","en":"Golden Pumpkin","ru":"Золотая тыква"}
+{"id":"world_spawner:49740016255232","en":"Golden Pumpkin","ru":"Золотая тыква"}
+{"id":"world_spawner:49744311222528","en":"Golden Pumpkin","ru":"Золотая тыква"}
+{"id":"world_spawner:49761491091712","en":"Whitestone","ru":"Белый камень"}
+{"id":"world_spawner:49765786059008","en":"Whitestone","ru":"Белый камень"}
+{"id":"world_spawner:49770081026304","en":"Azure Flame Ore","ru":"Лазурно-пламенная руда"}
+{"id":"world_spawner:49774375993600","en":"Azure Flame Ore","ru":"Лазурно-пламенная руда"}
+{"id":"world_spawner:49778670960896","en":"Flash Saltpeter","ru":"Вспышечная селитра"}
+{"id":"world_spawner:49782965928192","en":"Flash Saltpeter","ru":"Вспышечная селитра"}
+{"id":"world_spawner:49787260895488","en":"Sky Iron Ore","ru":"Руда небесного железа"}
+{"id":"world_spawner:49791555862784","en":"Hardrock","ru":"Твёрдый камень"}
+{"id":"world_spawner:49795850830080","en":"Red Oak","ru":"Красный дуб"}
+{"id":"world_spawner:49800145797376","en":"Glow Tree","ru":"Светящееся дерево"}
+{"id":"world_spawner:49804440764672","en":"Pepe Tree","ru":"Дерево пепе"}
+{"id":"world_spawner:49808735731968","en":"Pepe Tree Trunk","ru":"Ствол дерева пепе"}
+{"id":"world_spawner:49813030699264","en":"Flame Ore","ru":"Пламенная руда"}
+{"id":"world_spawner:49821620633856","en":"Gold Essence Ore","ru":"Золотая эссенция"}
+{"id":"world_spawner:4982162063616","en":"Enkaku's Ailo","ru":"Айло Энкаку"}
+{"id":"world_spawner:498216206592","en":"Kuck","ru":"Кукк"}
+{"id":"world_spawner:49830210568448","en":"Hawk Beans","ru":"Соколиные бобы"}
+{"id":"world_spawner:49834505535744","en":"Mirror Iron Ore","ru":"Зеркальная железная руда"}
+{"id":"world_spawner:49838800503040","en":"Mirror Iron Ore","ru":"Зеркальная железная руда"}
+{"id":"world_spawner:49843095470336","en":"Root Obstacle","ru":"Корневое препятствие"}
+{"id":"world_spawner:49847390437632","en":"Boulder","ru":"Валун"}
+{"id":"world_spawner:49851685404928","en":"Tantaroma","ru":"Тантарома"}
+{"id":"world_spawner:49860275339520","en":"Giant Goldwheat","ru":"Гигантская золотая пшеница"}
+{"id":"world_spawner:49864570306816","en":"Training Straw Bundle","ru":"Тренировочный сноп соломы"}
+{"id":"world_spawner:4986457030912","en":"Ailo","ru":"Айло"}
+{"id":"world_spawner:502511173888","en":"Folog","ru":"Фолог"}
+{"id":"world_spawner:506806141184","en":"Meimei","ru":"Мэймэй"}
+{"id":"world_spawner:511101108480","en":"Bomark","ru":"Бомарк"}
+{"id":"world_spawner:5115306049792","en":"Mystelf","ru":"Мистельф"}
+{"id":"world_spawner:515396075776","en":"Haacha","ru":"Хаача"}
+{"id":"world_spawner:519691043072","en":"Haacha","ru":"Хаача"}
+{"id":"world_spawner:5454608466176","en":"Flame","ru":"Флам"}
+{"id":"world_spawner:5458903433472","en":"Momo's Flame","ru":"Флам Момо"}
+{"id":"world_spawner:554050781440","en":"Gayak","ru":"Гаяк"}
+{"id":"world_spawner:558345748736","en":"Gayak","ru":"Гаяк"}
+{"id":"world_spawner:562640716032","en":"Gadori","ru":"Гадори"}
+{"id":"world_spawner:566935683328","en":"Gayak","ru":"Гаяк"}
+{"id":"world_spawner:5673651798272","en":"Granzalos","ru":"Гранзалос"}
+{"id":"world_spawner:5677946765568","en":"Granzalos","ru":"Гранзалос"}
+{"id":"world_spawner:5682241732864","en":"Quentin","ru":"Квентин"}
+{"id":"world_spawner:571230650624","en":"Gadori","ru":"Гадори"}
+{"id":"world_spawner:575525617920","en":"Kikugi","ru":"Кикуги"}
+{"id":"world_spawner:5759551144192","en":"Flyry","ru":"Флайри"}
+{"id":"world_spawner:5763846111488","en":"Staray","ru":"Звездоскат"}
+{"id":"world_spawner:601295421696","en":"Chich","ru":"Чич"}
+{"id":"world_spawner:605590388992","en":"Chich","ru":"Чич"}
+{"id":"world_spawner:6231997546752","en":"Grago","ru":"Граго"}
+{"id":"world_spawner:6236292514048","en":"Almaro","ru":"Альмаро"}
+{"id":"world_spawner:6240587481344","en":"Magmalos","ru":"Магмалос"}
+{"id":"world_spawner:6270652252416","en":"Village Chief's Almaro","ru":"Альмаро старосты"}
+{"id":"world_spawner:6575594930432","en":"Rubitz","ru":"Рубиц"}
+{"id":"world_spawner:691489734912","en":"Rainel","ru":"Райнел"}
+{"id":"world_spawner:7301444403456","en":"Lifo","ru":"Лифо"}
+{"id":"world_spawner:7305739370752","en":"Lifo","ru":"Лифо"}
+{"id":"world_spawner:7344394076416","en":"Momo","ru":"Момо"}
+{"id":"world_spawner:734439407872","en":"Tidalest","ru":"Тидалест"}
+{"id":"world_spawner:734615501275392","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734619796242688","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734624091209984","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734628386177280","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734632681144576","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734636976111872","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734641271079168","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734645566046464","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734649861013760","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734654155981056","en":"Letter","ru":"Письмо"}
+{"id":"world_spawner:734658450948352","en":"Clay Tablet","ru":"Глиняная табличка"}
+{"id":"world_spawner:734662745915648","en":"Fine Binding","ru":"Роскошный переплёт"}
+{"id":"world_spawner:734667040882944","en":"Bamboo Scroll","ru":"Бамбуковый свиток"}
+{"id":"world_spawner:734697105654016","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734701400621312","en":"Readings","ru":"Чтиво"}
+{"id":"world_spawner:734705695588608","en":"Clay Tablet","ru":"Глиняная табличка"}
+{"id":"world_spawner:734709990555904","en":"Dragonborn's Findings","ru":"Находки драконорождённой"}
+{"id":"world_spawner:734714285523200","en":"Dragonborn's Findings","ru":"Находки драконорождённой"}
+{"id":"world_spawner:734718580490496","en":"Clay Tablet","ru":"Глиняная табличка"}
+{"id":"world_spawner:734722875457792","en":"Dragonborn's Findings","ru":"Находки драконорождённой"}
+{"id":"world_spawner:734727170425088","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734731465392384","en":"Book","ru":"Книга"}
+{"id":"world_spawner:734735760359680","en":"Book","ru":"Книга"}
+{"id":"world_spawner:735126602383616","en":"Evolution Cult Altar","ru":"Алтарь культа эволюции"}
+{"id":"world_spawner:735169552056576","en":"Evolution Cult Altar","ru":"Алтарь культа эволюции"}
+{"id":"world_spawner:7387343749376","en":"Bilibird","ru":"Билибёрд"}
+{"id":"world_spawner:7391638716672","en":"Kinglaraga","ru":"Кинглага"}
+{"id":"world_spawner:7730941133056","en":"Seedro","ru":"Сидро"}
+{"id":"world_spawner:7735236100352","en":"Seerock","ru":"Сирок"}
+{"id":"world_spawner:781684048128","en":"Schnelf","ru":"Шнельф"}
+{"id":"world_spawner:807453851904","en":"Mofunga","ru":"Мофунга"}
+{"id":"world_spawner:816043786496","en":"Easgal","ru":"Исгаль"}
+{"id":"world_spawner:854698492160","en":"Wolf","ru":"Вольф"}
+{"id":"world_spawner:854719966740736","en":"Sigrid","ru":"Сигрид"}
+{"id":"world_spawner:854724261708032","en":"Cathbelle","ru":"Кэтбелль"}
+{"id":"world_spawner:858993459456","en":"Ral's Finnwolf","ru":"Финнвольф Раль"}
+{"id":"world_spawner:859805208019200","en":"Tsumo","ru":"Цумо"}
+{"id":"world_spawner:859809502986496","en":"Wood Petals","ru":"Лесные лепестки"}
+{"id":"world_spawner:863288426752","en":"Fennwolf","ru":"Феннвольф"}
+{"id":"world_spawner:867583394048","en":"Ur","ru":"Ур"}
+{"id":"world_spawner:871878361344","en":"Tana","ru":"Тана"}
+{"id":"world_spawner:876173328640","en":"Ur","ru":"Ур"}
+{"id":"world_spawner:946361683935488","en":"Wood Petals","ru":"Лесные лепестки"}
+{"id":"world_spawner:946365978902784","en":"Tsurnephi","ru":"Цурнефи"}
+{"id":"world_spawner:949187772672","en":"Salamand","ru":"Саламанд"}

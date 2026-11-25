@@ -1,0 +1,124 @@
+{"id":"shared:enemy_propertyskill:100:24:propertySkillDescribe","en":"Leave a lingering flame on the ground that deals <color=#d25556> fire damage </color>.","ru":"Оставьте на земле пылающее пламя, наносящее <color=#d25556> огненного урона </color>."}
+{"id":"shared:enemy_propertyskill:100:24:propertySkillName","en":"Flame Trail","ru":"Огненный след"}
+{"id":"shared:enemy_propertyskill:101:25:propertySkillDescribe","en":"Every 15 sec, conjure a floating fireball at the target's location that explodes, dealing <color=#d25556> fire damage </color>.","ru":"Каждые 15 сек. создавайте парящий огненный шар в месте нахождения цели, который взрывается, нанося <color=#d25556> огненного урона </color>."}
+{"id":"shared:enemy_propertyskill:101:25:propertySkillName","en":"Fireball Burst","ru":"Взрыв огненных шаров"}
+{"id":"shared:enemy_propertyskill:102:26:propertySkillDescribe","en":"Applies \"Burn\" to hit targets. \"Burn\": deals <color=#d25556> fire damage per second </color> for 16 sec.","ru":"Накладывает «Горение» на поражённые цели. «Горение»: наносит <color=#d25556> огненного урона в секунду </color> в течение 16 сек."}
+{"id":"shared:enemy_propertyskill:102:26:propertySkillName","en":"Undying Flame","ru":"Неугасимое пламя"}
+{"id":"shared:enemy_propertyskill:103:27:propertySkillDescribe","en":"Grants yourself a shield equal to 10% of your Max HP.","ru":"Даёт вам щит, равный 10% вашего максимального здоровья."}
+{"id":"shared:enemy_propertyskill:103:27:propertySkillName","en":"Fire Shield","ru":"Огненный щит"}
+{"id":"shared:enemy_propertyskill:104:28:propertySkillDescribe","en":"While attacking, continuously summon flame pillars around yourself, dealing <color=#d25556> fire damage to targets </color>.","ru":"Во время атаки непрерывно призывайте столпы пламени вокруг себя, нанося <color=#d25556> огненного урона целям </color>."}
+{"id":"shared:enemy_propertyskill:104:28:propertySkillName","en":"Flame Pillar","ru":"Столп пламени"}
+{"id":"shared:enemy_propertyskill:105:29:propertySkillDescribe","en":"While attacking, cast 3 fireballs in succession at the target, dealing <color=#d25556> fire damage </color>.","ru":"Во время атаки последовательно выпускайте 3 огненных шаров в цель, нанося <color=#d25556> огненного урона </color>."}
+{"id":"shared:enemy_propertyskill:105:29:propertySkillName","en":"Blazing Fireball","ru":"Пламенный шар"}
+{"id":"shared:enemy_propertyskill:10:9:propertySkillDescribe","en":"Dark damage taken is reduced by 20%.","ru":"Получаемый тёмный урон снижен на 20%."}
+{"id":"shared:enemy_propertyskill:10:9:propertySkillName","en":"Dark Resistance","ru":"Сопротивление тьме"}
+{"id":"shared:enemy_propertyskill:1:0:propertySkillDescribe","en":"All damage taken is reduced by 15%.","ru":"Весь получаемый урон снижен на 15%."}
+{"id":"shared:enemy_propertyskill:1:0:propertySkillName","en":"Resistance","ru":"Сопротивление"}
+{"id":"shared:enemy_propertyskill:201:30:propertySkillDescribe","en":"Leave a toxic bog behind you. The bog continuously deals <color=#02a0e9> water damage per second to hit targets </color> for 5 sec.","ru":"Оставляйте за собой ядовитое болото. Болото непрерывно наносит <color=#02a0e9> водного урона в секунду поражённым целям </color> в течение 5 сек."}
+{"id":"shared:enemy_propertyskill:201:30:propertySkillName","en":"Venom Trail","ru":"Ядовитый след"}
+{"id":"shared:enemy_propertyskill:202:31:propertySkillDescribe","en":"Each time you cast a skill, additionally cast 2 water orbs to attack together, dealing <color=#02a0e9> water damage </color>.","ru":"Каждый раз при применении навыка дополнительно выпускайте 2 водяных сфер для совместной атаки, нанося <color=#02a0e9> водного урона </color>."}
+{"id":"shared:enemy_propertyskill:202:31:propertySkillName","en":"Splash Spray","ru":"Всплеск брызг"}
+{"id":"shared:enemy_propertyskill:203:32:propertySkillDescribe","en":"While attacking, continuously summon water pillars around yourself, dealing <color=#02a0e9> water damage to targets </color> for 5 sec.","ru":"Во время атаки непрерывно призывайте водяные столпы вокруг себя, нанося <color=#02a0e9> водного урона целям </color> в течение 5 сек."}
+{"id":"shared:enemy_propertyskill:203:32:propertySkillName","en":"Surging Splash","ru":"Бурлящий всплеск"}
+{"id":"shared:enemy_propertyskill:204:33:propertySkillDescribe","en":"Grants yourself a shield equal to 10% of your Max HP.","ru":"Даёт вам щит, равный 10% вашего максимального здоровья."}
+{"id":"shared:enemy_propertyskill:204:33:propertySkillName","en":"Water Shield","ru":"Водяной щит"}
+{"id":"shared:enemy_propertyskill:21:10:propertySkillDescribe","en":"Fire damage taken is increased by 25%.","ru":"Получаемый огненный урон повышен на 25%."}
+{"id":"shared:enemy_propertyskill:21:10:propertySkillName","en":"Fire's Wrath","ru":"Гнев огня"}
+{"id":"shared:enemy_propertyskill:22:11:propertySkillDescribe","en":"Water damage taken is increased by 25%.","ru":"Получаемый водный урон повышен на 25%."}
+{"id":"shared:enemy_propertyskill:22:11:propertySkillName","en":"Water's Wrath","ru":"Гнев воды"}
+{"id":"shared:enemy_propertyskill:23:12:propertySkillDescribe","en":"Ice damage taken is increased by 25%.","ru":"Получаемый ледяной урон повышен на 25%."}
+{"id":"shared:enemy_propertyskill:23:12:propertySkillName","en":"Ice's Wrath","ru":"Гнев льда"}
+{"id":"shared:enemy_propertyskill:24:13:propertySkillDescribe","en":"Nature damage taken is increased by 25%.","ru":"Получаемый урон природы повышен на 25%."}
+{"id":"shared:enemy_propertyskill:24:13:propertySkillName","en":"Nature's Wrath","ru":"Гнев природы"}
+{"id":"shared:enemy_propertyskill:25:14:propertySkillDescribe","en":"Earth damage taken is increased by 25%.","ru":"Получаемый земляной урон повышен на 25%."}
+{"id":"shared:enemy_propertyskill:25:14:propertySkillName","en":"Earth's Wrath","ru":"Гнев земли"}
+{"id":"shared:enemy_propertyskill:26:15:propertySkillDescribe","en":"Wind damage taken is increased by 25%.","ru":"Получаемый ветряной урон повышен на 25%."}
+{"id":"shared:enemy_propertyskill:26:15:propertySkillName","en":"Wind's Wrath","ru":"Гнев ветра"}
+{"id":"shared:enemy_propertyskill:27:16:propertySkillDescribe","en":"Thunder damage taken is increased by 25%.","ru":"Получаемый громовой урон повышен на 25%."}
+{"id":"shared:enemy_propertyskill:27:16:propertySkillName","en":"Thunder's Wrath","ru":"Гнев грома"}
+{"id":"shared:enemy_propertyskill:28:17:propertySkillDescribe","en":"Light damage taken is increased by 25%.","ru":"Получаемый светлый урон повышен на 25%."}
+{"id":"shared:enemy_propertyskill:28:17:propertySkillName","en":"Light's Wrath","ru":"Гнев света"}
+{"id":"shared:enemy_propertyskill:29:18:propertySkillDescribe","en":"Dark damage taken is increased by 25%.","ru":"Получаемый тёмный урон повышен на 25%."}
+{"id":"shared:enemy_propertyskill:29:18:propertySkillName","en":"Dark's Wrath","ru":"Гнев тьмы"}
+{"id":"shared:enemy_propertyskill:2:1:propertySkillDescribe","en":"Fire damage taken is reduced by 20%.","ru":"Получаемый огненный урон снижен на 20%."}
+{"id":"shared:enemy_propertyskill:2:1:propertySkillName","en":"Fire Resistance","ru":"Сопротивление огню"}
+{"id":"shared:enemy_propertyskill:301:34:propertySkillDescribe","en":"Each time you cast a skill, generate ice spikes around yourself and launch them at the target, dealing <color=#69c0bd> ice damage </color> and reducing the hit target's movement speed.","ru":"Каждый раз при применении навыка создавайте вокруг себя ледяные шипы и запускайте их в цель, нанося <color=#69c0bd> ледяного урона </color> и снижая скорость передвижения поражённой цели."}
+{"id":"shared:enemy_propertyskill:301:34:propertySkillName","en":"Ice Spike Shot","ru":"Выстрел ледяными шипами"}
+{"id":"shared:enemy_propertyskill:302:35:propertySkillDescribe","en":"Grants yourself a shield equal to 10% of your Max HP.","ru":"Даёт вам щит, равный 10% вашего максимального здоровья."}
+{"id":"shared:enemy_propertyskill:302:35:propertySkillName","en":"Frozen Shield","ru":"Ледяной щит"}
+{"id":"shared:enemy_propertyskill:303:36:propertySkillDescribe","en":"Each time you cast a skill, continuously cast ice tornadoes around yourself, dealing <color=#69c0bd> ice damage </color> and slowing targets for 5 sec.","ru":"Каждый раз при применении навыка непрерывно создавайте ледяные смерчи вокруг себя, нанося <color=#69c0bd> ледяного урона </color> и замедляя цели на 5 сек."}
+{"id":"shared:enemy_propertyskill:303:36:propertySkillName","en":"Ice Tornado","ru":"Ледяной смерч"}
+{"id":"shared:enemy_propertyskill:304:37:propertySkillDescribe","en":"Leave a lingering frost mist on the ground that deals <color=#69c0bd> ice damage </color> and slows targets for 5 sec.","ru":"Оставляйте на земле стойкий ледяной туман, наносящий <color=#69c0bd> ледяного урона </color> и замедляющий цели на 5 сек."}
+{"id":"shared:enemy_propertyskill:304:37:propertySkillName","en":"Frost Mist Trail","ru":"След ледяного тумана"}
+{"id":"shared:enemy_propertyskill:3:2:propertySkillDescribe","en":"Water damage taken is reduced by 20%.","ru":"Получаемый водный урон снижен на 20%."}
+{"id":"shared:enemy_propertyskill:3:2:propertySkillName","en":"Water Resistance","ru":"Сопротивление воде"}
+{"id":"shared:enemy_propertyskill:401:38:propertySkillDescribe","en":"Every 10 sec, 3 whirlwinds appear and circle around you, each dealing <color=#d2915d> Wind Elemental DMG</color>.","ru":"Каждые 10 сек. вокруг вас появляются 3 вихря, каждый из которых наносит <color=#d2915d> ед. ветряного урона</color>."}
+{"id":"shared:enemy_propertyskill:401:38:propertySkillName","en":"Triple Storm","ru":"Тройной шторм"}
+{"id":"shared:enemy_propertyskill:402:39:propertySkillDescribe","en":"Increases your ATK and reduces your DEF, and also grants Lifesteal.\n Lifesteal: Restores HP after dealing damage to a target.","ru":"Повышает вашу силу атаки и снижает защиту, а также дает эффект «Похищение жизни».\n «Похищение жизни»: восстанавливает здоровье после нанесения урона цели."}
+{"id":"shared:enemy_propertyskill:402:39:propertySkillName","en":"Rampage","ru":"Ярость"}
+{"id":"shared:enemy_propertyskill:403:40:propertySkillDescribe","en":"Every 20 sec, casts a whirlwind orb at the target's location and creates a wind field over a large area that pulls the target toward the whirlwind orb, dealing <color=#d2915d> Wind Elemental DMG </color>.","ru":"Каждые 20 сек. создает вихревой шар в месте нахождения цели и образует на большой площади ветряное поле, притягивающее цель к вихревому шару, нанося <color=#d2915d> ед. ветряного урона </color>."}
+{"id":"shared:enemy_propertyskill:403:40:propertySkillName","en":"Whirlwind Orb","ru":"Вихревой шар"}
+{"id":"shared:enemy_propertyskill:404:41:propertySkillDescribe","en":"Each time you cast a skill, wind blades are unleashed around you to attack the target, dealing <color=#d2915d> Wind Elemental DMG </color>.","ru":"При каждом применении навыка вокруг вас появляются ветряные клинки, атакующие цель и наносящие <color=#d2915d> ед. ветряного урона </color>."}
+{"id":"shared:enemy_propertyskill:404:41:propertySkillName","en":"Wind Blade Combo","ru":"Комбо ветряных клинков"}
+{"id":"shared:enemy_propertyskill:405:42:propertySkillDescribe","en":"Grants yourself a shield equal to 10% of your Max HP.","ru":"Даёт вам щит, равный 10% вашего максимального здоровья."}
+{"id":"shared:enemy_propertyskill:405:42:propertySkillName","en":"Wind Shield","ru":"Ветряной щит"}
+{"id":"shared:enemy_propertyskill:406:43:propertySkillDescribe","en":"Periodically unleashes an ongoing storm that sweeps the field, dealing <color=#d2915d> Wind Elemental DMG to the target </color>.","ru":"Периодически непрерывно насылает бурю, охватывающую поле и наносящую цели <color=#d2915d> ед. ветряного урона </color>."}
+{"id":"shared:enemy_propertyskill:406:43:propertySkillName","en":"Storm Domain","ru":"Область бури"}
+{"id":"shared:enemy_propertyskill:4:3:propertySkillDescribe","en":"Ice damage taken is reduced by 20%.","ru":"Получаемый ледяной урон снижен на 20%."}
+{"id":"shared:enemy_propertyskill:4:3:propertySkillName","en":"Ice Resistance","ru":"Сопротивление льду"}
+{"id":"shared:enemy_propertyskill:501:44:propertySkillDescribe","en":"Summons 4 thorns near the target, dealing damage. Inflicts Laceration on hit targets. Laceration: The affected target takes <color=#83959d> Non-Elemental DMG every second</color>.","ru":"Призывает 4 шипов рядом с целью, нанося урон. Наносит пораженным целям эффект «Разрыв». «Разрыв»: носитель каждую секунду получает <color=#83959d> ед. бесстихийного урона</color>."}
+{"id":"shared:enemy_propertyskill:501:44:propertySkillName","en":"Thorn Field","ru":"Поле шипов"}
+{"id":"shared:enemy_propertyskill:502:45:propertySkillDescribe","en":"Each time you cast a skill, thorns are unleashed around you and then strike in a straight line toward the target. Inflicts Laceration on hit targets.\n Laceration: The affected target takes <color=#83959d> Non-Elemental DMG every second</color>.","ru":"При каждом применении навыка вокруг вас появляются шипы, которые затем летят по прямой к цели. Наносит пораженным целям эффект «Разрыв».\n «Разрыв»: носитель каждую секунду получает <color=#83959d> ед. бесстихийного урона</color>."}
+{"id":"shared:enemy_propertyskill:502:45:propertySkillName","en":"Seeking Thorns","ru":"Самонаводящиеся шипы"}
+{"id":"shared:enemy_propertyskill:503:46:propertySkillDescribe","en":"Grants yourself a shield equal to 10% of your Max HP.","ru":"Даёт вам щит, равный 10% вашего максимального здоровья."}
+{"id":"shared:enemy_propertyskill:503:46:propertySkillName","en":"Nature Shield","ru":"Щит природы"}
+{"id":"shared:enemy_propertyskill:50:19:propertySkillDescribe","en":"Increases your attack.","ru":"Повышает вашу атаку."}
+{"id":"shared:enemy_propertyskill:50:19:propertySkillName","en":"Attack Stance","ru":"Атакующая стойка"}
+{"id":"shared:enemy_propertyskill:51:20:propertySkillDescribe","en":"Each time you deal damage to the target, its defense is reduced by 5%. Stacks up to 6 times, each stack lasting 15 sec.","ru":"Каждый раз, нанося урон цели, снижайте её защиту на 5%. Эффект складывается до 6 раз, каждый слой длится 15 сек."}
+{"id":"shared:enemy_propertyskill:51:20:propertySkillName","en":"Defense Break","ru":"Разрушение защиты"}
+{"id":"shared:enemy_propertyskill:52:21:propertySkillDescribe","en":"When a negative effect is applied to you, remove that effect.","ru":"Когда на вас накладывается негативный эффект, он снимается."}
+{"id":"shared:enemy_propertyskill:52:21:propertySkillName","en":"Purify","ru":"Очищение"}
+{"id":"shared:enemy_propertyskill:53:22:propertySkillDescribe","en":"Your defense is reduced by 20%.","ru":"Ваша защита снижена на 20%."}
+{"id":"shared:enemy_propertyskill:53:22:propertySkillName","en":"Defense Weakened","ru":"Ослабление защиты"}
+{"id":"shared:enemy_propertyskill:54:23:propertySkillDescribe","en":"After taking a certain number of attacks, strike the target 1 times, dealing <color=#83959d> non-attribute damage </color>.","ru":"После получения определённого числа атак нанесите 1 ударов по цели, нанося <color=#83959d> урона без атрибута </color>."}
+{"id":"shared:enemy_propertyskill:54:23:propertySkillName","en":"Counterattack","ru":"Контратака"}
+{"id":"shared:enemy_propertyskill:5:4:propertySkillDescribe","en":"Nature damage taken is reduced by 20%.","ru":"Получаемый урон природы снижен на 20%."}
+{"id":"shared:enemy_propertyskill:5:4:propertySkillName","en":"Nature Resistance","ru":"Сопротивление природе"}
+{"id":"shared:enemy_propertyskill:601:47:propertySkillDescribe","en":"After every 2 skill casts, 5 earth spikes are unleashed around the target in sequence, repeatedly attacking the target and dealing <color=#d58a6c> Earth Attribute DMG</color>.","ru":"После каждых 2 применений навыка вокруг цели по очереди появляются 5 земляных шипов, непрерывно атакующих цель и наносящих <color=#d58a6c> ед. земного урона</color>."}
+{"id":"shared:enemy_propertyskill:601:47:propertySkillName","en":"Earth Spike Barrage","ru":"Град земляных шипов"}
+{"id":"shared:enemy_propertyskill:602:48:propertySkillDescribe","en":"Grants yourself a shield equal to 10% of your Max HP.","ru":"Даёт вам щит, равный 10% вашего максимального здоровья."}
+{"id":"shared:enemy_propertyskill:602:48:propertySkillName","en":"Earth Shield","ru":"Земляной щит"}
+{"id":"shared:enemy_propertyskill:603:49:propertySkillDescribe","en":"Each time you cast a skill, rock spikes erupt from the ground to attack the target, dealing <color=#d58a6c> Earth Attribute DMG</color>.","ru":"При каждом применении навыка из земли появляются каменные шипы, атакующие цель и наносящие <color=#d58a6c> ед. земного урона</color>."}
+{"id":"shared:enemy_propertyskill:603:49:propertySkillName","en":"Rock Spike Splash","ru":"Всплеск каменных шипов"}
+{"id":"shared:enemy_propertyskill:6:5:propertySkillDescribe","en":"Earth damage taken is reduced by 20%.","ru":"Получаемый земляной урон снижен на 20%."}
+{"id":"shared:enemy_propertyskill:6:5:propertySkillName","en":"Earth Resistance","ru":"Сопротивление земле"}
+{"id":"shared:enemy_propertyskill:701:50:propertySkillDescribe","en":"Every 15 sec, casts 3 lightning orbs to circle around you; each one disappears after hitting the target, dealing <color=#6f75d4> Thunder DMG</color>.","ru":"Каждые 15 сек. создает 3 шаров молний, вращающихся вокруг вас; каждый исчезает после попадания в цель, нанося <color=#6f75d4> ед. урона громом</color>."}
+{"id":"shared:enemy_propertyskill:701:50:propertySkillName","en":"Triple Lightning Orb","ru":"Тройной шар молний"}
+{"id":"shared:enemy_propertyskill:702:51:propertySkillDescribe","en":"When dealing damage, a lightning chain forms between the hit target and you; the lightning bounces between nearby targets and deals <color=#6f75d4> Thunder DMG</color>. For every 1 targets present, it bounces 1 additional times, up to 5 bounces.","ru":"При нанесении урона между пораженной целью и вами образуется цепь молний; молния перескакивает между ближайшими целями и наносит <color=#6f75d4> ед. урона громом</color>. За каждые 1 цели она совершает 1 дополнительных отскока, максимум 5 отскоков."}
+{"id":"shared:enemy_propertyskill:702:51:propertySkillName","en":"Chain Lightning","ru":"Цепная молния"}
+{"id":"shared:enemy_propertyskill:703:52:propertySkillDescribe","en":"Continuously unleashes lightning strikes near you to attack the target, dealing <color=#6f75d4> Thunder DMG</color>.","ru":"Непрерывно насылает удары молнии рядом с вами, атакующие цель и наносящие <color=#6f75d4> ед. урона громом</color>."}
+{"id":"shared:enemy_propertyskill:703:52:propertySkillName","en":"Ceaseless Lightning","ru":"Непрерывная молния"}
+{"id":"shared:enemy_propertyskill:704:53:propertySkillDescribe","en":"Grants yourself a shield equal to 10% of your Max HP.","ru":"Даёт вам щит, равный 10% вашего максимального здоровья."}
+{"id":"shared:enemy_propertyskill:704:53:propertySkillName","en":"Thunder Shield","ru":"Щит грома"}
+{"id":"shared:enemy_propertyskill:7:6:propertySkillDescribe","en":"Wind damage taken is reduced by 20%.","ru":"Получаемый ветряной урон снижен на 20%."}
+{"id":"shared:enemy_propertyskill:7:6:propertySkillName","en":"Wind Resistance","ru":"Сопротивление ветру"}
+{"id":"shared:enemy_propertyskill:801:54:propertySkillDescribe","en":"Every 10 sec, 3 light spears are summoned in succession above the target and slam down, dealing <color=#cfb55d> Light Element DMG</color>.","ru":"Каждые 10 сек. над целью по очереди призываются 3 световых копий, которые обрушиваются вниз, нанося <color=#cfb55d> ед. светлого урона</color>."}
+{"id":"shared:enemy_propertyskill:801:54:propertySkillName","en":"Light Spear","ru":"Световое копье"}
+{"id":"shared:enemy_propertyskill:802:55:propertySkillDescribe","en":"You are immune to all control effects.","ru":"Вы невосприимчивы ко всем эффектам контроля."}
+{"id":"shared:enemy_propertyskill:802:55:propertySkillName","en":"Control Immunity","ru":"Иммунитет к контролю"}
+{"id":"shared:enemy_propertyskill:803:56:propertySkillDescribe","en":"You receive the negative effect DEF Down.20 sec later, this negative effect is removed, your ATK increases, and your Toughness is enhanced.","ru":"Вы получаете негативный эффект снижения защиты.20 сек. спустя этот негативный эффект снимается, ваша сила атаки повышается, а стойкость усиливается."}
+{"id":"shared:enemy_propertyskill:803:56:propertySkillName","en":"Potential","ru":"Потенциал"}
+{"id":"shared:enemy_propertyskill:804:57:propertySkillDescribe","en":"After every 2 skill casts, a light orb is unleashed around you that tracks and attacks the target, dealing <color=#cfb55d> Light Element DMG</color>.","ru":"После каждых 2 применений навыка вокруг вас появляется световой шар, который преследует и атакует цель, нанося <color=#cfb55d> ед. светлого урона</color>."}
+{"id":"shared:enemy_propertyskill:804:57:propertySkillName","en":"Seeking Light Orb","ru":"Самонаводящийся световой шар"}
+{"id":"shared:enemy_propertyskill:805:58:propertySkillDescribe","en":"Grants yourself a shield equal to 10% of your Max HP.","ru":"Даёт вам щит, равный 10% вашего максимального здоровья."}
+{"id":"shared:enemy_propertyskill:805:58:propertySkillName","en":"Light Shield","ru":"Световой щит"}
+{"id":"shared:enemy_propertyskill:8:7:propertySkillDescribe","en":"Thunder damage taken is reduced by 20%.","ru":"Получаемый громовой урон снижен на 20%."}
+{"id":"shared:enemy_propertyskill:8:7:propertySkillName","en":"Thunder Resistance","ru":"Сопротивление грому"}
+{"id":"shared:enemy_propertyskill:901:59:propertySkillDescribe","en":"When casting a skill, a floating dark orb is unleashed around you that pursues the target and inflicts Curse. Curse: Continuously deals <color=#7d5bbc> Dark Element DMG to the affected target</color>.","ru":"При применении навыка вокруг вас появляется парящий темный шар, который преследует цель и накладывает на нее эффект «Проклятие». «Проклятие»: непрерывно наносит носителю <color=#7d5bbc> ед. темного урона</color>."}
+{"id":"shared:enemy_propertyskill:901:59:propertySkillName","en":"Cursed Dark Orb","ru":"Проклятый темный шар"}
+{"id":"shared:enemy_propertyskill:902:60:propertySkillDescribe","en":"Every 30 sec, a dark vortex forms at your location, dealing <color=#7d5bbc> Dark Element DMG every 0.5 sec</color> and pulling the target toward the dark vortex.","ru":"Каждые 30 сек. в вашем местоположении образуется темный вихрь, наносящий <color=#7d5bbc> ед. темного урона каждые 0.5 сек.</color> и притягивающий цель к темному вихрю."}
+{"id":"shared:enemy_propertyskill:902:60:propertySkillName","en":"Dark Pull","ru":"Темное притяжение"}
+{"id":"shared:enemy_propertyskill:903:61:propertySkillDescribe","en":"Grants yourself a shield equal to 10% of your Max HP.","ru":"Даёт вам щит, равный 10% вашего максимального здоровья."}
+{"id":"shared:enemy_propertyskill:903:61:propertySkillName","en":"Dark Shield","ru":"Темный щит"}
+{"id":"shared:enemy_propertyskill:9:8:propertySkillDescribe","en":"Light damage taken is reduced by 20%.","ru":"Получаемый светлый урон снижен на 20%."}
+{"id":"shared:enemy_propertyskill:9:8:propertySkillName","en":"Light Resistance","ru":"Сопротивление свету"}

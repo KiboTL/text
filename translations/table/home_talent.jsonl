@@ -1,0 +1,271 @@
+{"id":"home_talent:128978340345284608","en":"Smelting Pioneer","ru":"Пионер плавки"}
+{"id":"home_talent:128978340345286144","en":"When dispatched to a Smelter or Refinery, processing time -3%.","ru":"При отправке в плавильню или рафинадный цех время обработки -3%."}
+{"id":"home_talent:128978383294957568","en":"Smelting Pioneer","ru":"Пионер плавки"}
+{"id":"home_talent:128978383294959104","en":"When dispatched to a Smelter or Refinery, processing time -5%.","ru":"При отправке в плавильню или рафинадный цех время обработки -5%."}
+{"id":"home_talent:128978426244630528","en":"Smelting Pioneer","ru":"Пионер плавки"}
+{"id":"home_talent:128978426244632064","en":"When dispatched to a Smelter or Refinery, processing time -10%.","ru":"При отправке в плавильню или рафинадный цех время обработки -10%."}
+{"id":"home_talent:128978769842014208","en":"Smelting Instinct","ru":"Прирождённый плавильщик"}
+{"id":"home_talent:128978769842014464","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:128978769842015744","en":"When dispatched to a Smelter or Refinery, after processing is complete, there is a 1% chance to return 1 basic material(s).","ru":"При отправке в плавильню или рафинадный цех после завершения обработки с вероятностью 1% возвращается 1 ед. базового материала."}
+{"id":"home_talent:128978812791687168","en":"Smelting Instinct","ru":"Прирождённый плавильщик"}
+{"id":"home_talent:128978812791687424","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:128978812791688704","en":"When dispatched to a Smelter or Refinery, after processing is complete, there is a 1.5% chance to return 1 basic material(s).","ru":"При отправке в плавильню или рафинадный цех после завершения обработки с вероятностью 1.5% возвращается 1 ед. базового материала."}
+{"id":"home_talent:128978855741360128","en":"Smelting Instinct","ru":"Прирождённый плавильщик"}
+{"id":"home_talent:128978855741360384","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:128978855741361664","en":"When dispatched to a Smelter or Refinery, after processing is complete, there is a 2% chance to return 1 basic material(s).","ru":"При отправке в плавильню или рафинадный цех после завершения обработки с вероятностью 2% возвращается 1 ед. базового материала."}
+{"id":"home_talent:128979199338743808","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:128979199338744064","en":"Light Eater","ru":"Малосжка"}
+{"id":"home_talent:128979199338745344","en":"When dispatched to a Smelter or Refinery, Satiety consumption -3%.","ru":"При отправке в плавильню или рафинадный цех расход сытости -3%."}
+{"id":"home_talent:128979242288416768","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:128979242288417024","en":"Light Eater","ru":"Малосжка"}
+{"id":"home_talent:128979242288418304","en":"When dispatched to a Smelter or Refinery, Satiety consumption -5%.","ru":"При отправке в плавильню или рафинадный цех расход сытости -5%."}
+{"id":"home_talent:128979285238089728","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:128979285238089984","en":"Light Eater","ru":"Малосжка"}
+{"id":"home_talent:128979285238091264","en":"When dispatched to a Smelter or Refinery, Satiety consumption -10%.","ru":"При отправке в плавильню или рафинадный цех расход сытости -10%."}
+{"id":"home_talent:129021290018244608","en":"Leatherworking Instinct","ru":"Прирождённый кожевник"}
+{"id":"home_talent:129021290018244864","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129021290018246144","en":"When dispatched to a Tanning Rack or Tannery, after processing is complete, there is a 1% chance to return 1 basic material(s).","ru":"При отправке на кожевенный верстак или в кожевню после завершения обработки с вероятностью 1% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129021332967917568","en":"Leatherworking Instinct","ru":"Прирождённый кожевник"}
+{"id":"home_talent:129021332967917824","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129021332967919104","en":"When dispatched to a Tanning Rack or Tannery, after processing is complete, there is a 1.5% chance to return 1 basic material(s).","ru":"При отправке на кожевенный верстак или в кожевню после завершения обработки с вероятностью 1.5% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129021375917590528","en":"Leatherworking Instinct","ru":"Прирождённый кожевник"}
+{"id":"home_talent:129021375917590784","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129021375917592064","en":"When dispatched to a Tanning Rack or Tannery, after processing is complete, there is a 2% chance to return 1 basic material(s).","ru":"При отправке на кожевенный верстак или в кожевню после завершения обработки с вероятностью 2% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129021719514974208","en":"Leatherworking Pioneer","ru":"Пионер кожевенного дела"}
+{"id":"home_talent:129021719514975744","en":"When dispatched to a Tanning Rack or Tannery, processing time -3%.","ru":"При отправке на кожевенный верстак или в кожевню время обработки -3%."}
+{"id":"home_talent:129021762464647168","en":"Leatherworking Pioneer","ru":"Пионер кожевенного дела"}
+{"id":"home_talent:129021762464648704","en":"When dispatched to a Tanning Rack or Tannery, processing time -5%.","ru":"При отправке на кожевенный верстак или в кожевню время обработки -5%."}
+{"id":"home_talent:129021805414320128","en":"Leatherworking Pioneer","ru":"Пионер кожевенного дела"}
+{"id":"home_talent:129021805414321664","en":"When dispatched to a Tanning Rack or Tannery, processing time -10%.","ru":"При отправке на кожевенный верстак или в кожевню время обработки -10%."}
+{"id":"home_talent:129064239691204608","en":"Elemental Pioneer","ru":"Пионер элементов"}
+{"id":"home_talent:129064239691204864","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:129064239691206144","en":"When dispatched to an Elemental Stone Furnace, processing time -3%.","ru":"При отправке в элементальную каменную печь время обработки -3%."}
+{"id":"home_talent:129064282640877568","en":"Elemental Pioneer","ru":"Пионер элементов"}
+{"id":"home_talent:129064282640877824","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:129064282640879104","en":"When dispatched to an Elemental Stone Furnace, processing time -5%.","ru":"При отправке в элементальную каменную печь время обработки -5%."}
+{"id":"home_talent:129064325590550528","en":"Elemental Pioneer","ru":"Пионер элементов"}
+{"id":"home_talent:129064325590550784","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:129064325590552064","en":"When dispatched to an Elemental Stone Furnace, processing time -10%.","ru":"При отправке в элементальную каменную печь время обработки -10%."}
+{"id":"home_talent:129064669187934208","en":"Refining Instinct","ru":"Прирождённый рафинировщик"}
+{"id":"home_talent:129064669187934464","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129064669187935744","en":"When dispatched to an Elemental Stone Furnace, after processing is complete, there is a 1% chance to return 1 basic material(s).","ru":"При отправке в элементальную каменную печь после завершения обработки с вероятностью 1% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129064712137607168","en":"Refining Instinct","ru":"Прирождённый рафинировщик"}
+{"id":"home_talent:129064712137607424","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129064712137608704","en":"When dispatched to an Elemental Stone Furnace, after processing is complete, there is a 1.5% chance to return 1 basic material(s).","ru":"При отправке в элементальную каменную печь после завершения обработки с вероятностью 1.5% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129064755087280128","en":"Refining Instinct","ru":"Прирождённый рафинировщик"}
+{"id":"home_talent:129064755087280384","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129064755087281664","en":"When dispatched to an Elemental Stone Furnace, after processing is complete, there is a 2% chance to return 1 basic material(s).","ru":"При отправке в элементальную каменную печь после завершения обработки с вероятностью 2% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129107189364164608","en":"Milling Instinct","ru":"Прирождённый мельник"}
+{"id":"home_talent:129107189364164864","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129107189364166144","en":"When dispatched to a Mill, after processing is complete, there is a 1% chance to return 1 basic material(s).","ru":"При отправке на мельницу после завершения обработки с вероятностью 1% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129107232313837568","en":"Milling Instinct","ru":"Прирождённый мельник"}
+{"id":"home_talent:129107232313837824","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129107232313839104","en":"When dispatched to a Mill, after processing is complete, there is a 1.5% chance to return 1 basic material(s).","ru":"При отправке на мельницу после завершения обработки с вероятностью 1.5% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129107275263510528","en":"Milling Instinct","ru":"Прирождённый мельник"}
+{"id":"home_talent:129107275263510784","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129107275263512064","en":"When dispatched to a Mill, after processing is complete, there is a 2% chance to return 1 basic material(s).","ru":"При отправке на мельницу после завершения обработки с вероятностью 2% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129107618860894208","en":"Grinding Pioneer","ru":"Пионер помола"}
+{"id":"home_talent:129107618860895744","en":"When dispatched to a Mill, processing time -3%.","ru":"При отправке на мельницу время обработки -3%."}
+{"id":"home_talent:129107661810567168","en":"Grinding Pioneer","ru":"Пионер помола"}
+{"id":"home_talent:129107661810568704","en":"When dispatched to a Mill, processing time -5%.","ru":"При отправке на мельницу время обработки -5%."}
+{"id":"home_talent:129107704760240128","en":"Grinding Pioneer","ru":"Пионер помола"}
+{"id":"home_talent:129107704760241664","en":"When dispatched to a Mill, processing time -10%.","ru":"При отправке на мельницу время обработки -10%."}
+{"id":"home_talent:129150139037124608","en":"Spinning Instinct","ru":"Прирождённый прядильщик"}
+{"id":"home_talent:129150139037124864","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129150139037126144","en":"When dispatched to a Spinning Wheel or Textile Workshop, after processing is complete, there is a 1% chance to return 1 basic material(s).","ru":"При отправке на прялку или в ткацкую мастерскую после завершения обработки с вероятностью 1% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129150181986797568","en":"Spinning Instinct","ru":"Прирождённый прядильщик"}
+{"id":"home_talent:129150181986797824","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129150181986799104","en":"When dispatched to a Spinning Wheel or Textile Workshop, after processing is complete, there is a 1.5% chance to return 1 basic material(s).","ru":"При отправке на прялку или в ткацкую мастерскую после завершения обработки с вероятностью 1.5% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129150224936470528","en":"Spinning Instinct","ru":"Прирождённый прядильщик"}
+{"id":"home_talent:129150224936470784","en":"Instinct","ru":"Инстинкт"}
+{"id":"home_talent:129150224936472064","en":"When dispatched to a Spinning Wheel or Textile Workshop, after processing is complete, there is a 2% chance to return 1 basic material(s).","ru":"При отправке на прялку или в ткацкую мастерскую после завершения обработки с вероятностью 2% возвращается 1 ед. базового материала."}
+{"id":"home_talent:129150568533854208","en":"Spinning Pioneer","ru":"Пионер прядения"}
+{"id":"home_talent:129150568533855744","en":"When dispatched to a Spinning Wheel or Textile Workshop, processing time -3%.","ru":"При отправке на прялку или в ткацкую мастерскую время обработки -3%."}
+{"id":"home_talent:129150611483527168","en":"Spinning Pioneer","ru":"Пионер прядения"}
+{"id":"home_talent:129150611483528704","en":"When dispatched to a Spinning Wheel or Textile Workshop, processing time -5%.","ru":"При отправке на прялку или в ткацкую мастерскую время обработки -5%."}
+{"id":"home_talent:129150654433200128","en":"Spinning Pioneer","ru":"Пионер прядения"}
+{"id":"home_talent:129150654433201664","en":"When dispatched to a Spinning Wheel or Textile Workshop, processing time -10%.","ru":"При отправке на прялку или в ткацкую мастерскую время обработки -10%."}
+{"id":"home_talent:214792216416094208","en":"Hatch Booster","ru":"Ускорение вылупления"}
+{"id":"home_talent:214792216416094464","en":"Boost","ru":"Ускорение"}
+{"id":"home_talent:214792216416095744","en":"Hatching time for all Kibo Eggs -900 sec.","ru":"Время вылупления всех яиц кибо -900 сек."}
+{"id":"home_talent:214792259365767168","en":"Hatch Booster","ru":"Ускорение вылупления"}
+{"id":"home_talent:214792259365767424","en":"Boost","ru":"Ускорение"}
+{"id":"home_talent:214792259365768704","en":"Hatching time for all Kibo Eggs -1350 sec.","ru":"Время вылупления всех яиц кибо -1350 сек."}
+{"id":"home_talent:214792302315440128","en":"Hatch Booster","ru":"Ускорение вылупления"}
+{"id":"home_talent:214792302315440384","en":"Boost","ru":"Ускорение"}
+{"id":"home_talent:214792302315441664","en":"Hatching time for all Kibo Eggs -1800 sec.","ru":"Время вылупления всех яиц кибо -1800 сек."}
+{"id":"home_talent:343941453510084608","en":"Forging Pioneer","ru":"Пионер ковки"}
+{"id":"home_talent:343941453510086144","en":"When dispatched to the Weapon Workshop, processing time -3%.","ru":"При отправке в Оружейную мастерскую время обработки -3%."}
+{"id":"home_talent:343941496459757568","en":"Forging Pioneer","ru":"Пионер ковки"}
+{"id":"home_talent:343941496459759104","en":"When dispatched to the Weapon Workshop, processing time -5%.","ru":"При отправке в Оружейную мастерскую время обработки -5%."}
+{"id":"home_talent:343941539409430528","en":"Forging Pioneer","ru":"Пионер ковки"}
+{"id":"home_talent:343941539409432064","en":"When dispatched to the Weapon Workshop, processing time -10%.","ru":"При отправке в Оружейную мастерскую время обработки -10%."}
+{"id":"home_talent:343941883006814208","en":"Forging Instinct","ru":"Прирождённый кузнец"}
+{"id":"home_talent:343941883006815744","en":"When dispatched to the Weapon Workshop, after processing is complete, there is a 3% chance to return basic materials.","ru":"При отправке в Оружейную мастерскую после завершения обработки с вероятностью 3% возвращаются базовые материалы."}
+{"id":"home_talent:343941925956487168","en":"Forging Instinct","ru":"Прирождённый кузнец"}
+{"id":"home_talent:343941925956488704","en":"When dispatched to the Weapon Workshop, after processing is complete, there is a 5% chance to return basic materials.","ru":"При отправке в Оружейную мастерскую после завершения обработки с вероятностью 5% возвращаются базовые материалы."}
+{"id":"home_talent:343941968906160128","en":"Forging Instinct","ru":"Прирождённый кузнец"}
+{"id":"home_talent:343941968906161664","en":"When dispatched to the Weapon Workshop, after processing is complete, there is a 10% chance to return basic materials.","ru":"При отправке в Оружейную мастерскую после завершения обработки с вероятностью 10% возвращаются базовые материалы."}
+{"id":"home_talent:343942312503543808","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:343942312503545344","en":"When dispatched to the Weapon Workshop, Satiety consumption -3%.","ru":"При отправке в Оружейную мастерскую расход сытости -3%."}
+{"id":"home_talent:343942355453216768","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:343942355453218304","en":"When dispatched to the Weapon Workshop, Satiety consumption -5%.","ru":"При отправке в Оружейную мастерскую расход сытости -5%."}
+{"id":"home_talent:343942398402889728","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:343942398402891264","en":"When dispatched to the Weapon Workshop, Satiety consumption -10%.","ru":"При отправке в Оружейную мастерскую расход сытости -10%."}
+{"id":"home_talent:42993954072823808","en":"Farm Work Pioneer","ru":"Пионер фермерства"}
+{"id":"home_talent:42993954072825344","en":"When growing crops, the time for crops to mature is reduced by 3%.","ru":"При выращивании урожая время до его созревания сокращается на 3%."}
+{"id":"home_talent:42993997022496768","en":"Farm Work Pioneer","ru":"Пионер фермерства"}
+{"id":"home_talent:42993997022498304","en":"When growing crops, the time for crops to mature is reduced by 5%.","ru":"При выращивании урожая время до его созревания сокращается на 5%."}
+{"id":"home_talent:42994039972169728","en":"Farm Work Pioneer","ru":"Пионер фермерства"}
+{"id":"home_talent:42994039972171264","en":"When growing crops, the time for crops to mature is reduced by 10%.","ru":"При выращивании урожая время до его созревания сокращается на 10%."}
+{"id":"home_talent:43036903745783808","en":"Watering Pioneer","ru":"Пионер полива"}
+{"id":"home_talent:43036903745785344","en":"After watering crops, the time for crops to mature is reduced by 3%.","ru":"После полива урожая время до его созревания сокращается на 3%."}
+{"id":"home_talent:43036946695456768","en":"Watering Pioneer","ru":"Пионер полива"}
+{"id":"home_talent:43036946695458304","en":"After watering crops, the time for crops to mature is reduced by 5%.","ru":"После полива урожая время до его созревания сокращается на 5%."}
+{"id":"home_talent:43036989645129728","en":"Watering Pioneer","ru":"Пионер полива"}
+{"id":"home_talent:43036989645131264","en":"After watering crops, the time for crops to mature is reduced by 10%.","ru":"После полива урожая время до его созревания сокращается на 10%."}
+{"id":"home_talent:85942768039364608","en":"Logging Pioneer","ru":"Пионер лесозаготовки"}
+{"id":"home_talent:85942768039364864","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:85942768039366144","en":"When dispatched to the orchard, logging interval -3%.","ru":"При отправке в сад: интервал заготовки -3%."}
+{"id":"home_talent:85942810989037568","en":"Logging Pioneer","ru":"Пионер лесозаготовки"}
+{"id":"home_talent:85942810989037824","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:85942810989039104","en":"When dispatched to the orchard, logging interval -5%.","ru":"При отправке в сад: интервал заготовки -5%."}
+{"id":"home_talent:85942853938710528","en":"Logging Pioneer","ru":"Пионер лесозаготовки"}
+{"id":"home_talent:85942853938710784","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:85942853938712064","en":"When dispatched to the orchard, logging interval -10%.","ru":"При отправке в сад: интервал заготовки -10%."}
+{"id":"home_talent:85943197536094208","en":"Logging Instinct","ru":"Чутье лесоруба"}
+{"id":"home_talent:85943197536094464","en":"Instinct","ru":"Чутье"}
+{"id":"home_talent:85943197536095744","en":"When dispatched to the orchard, on successful logging, 3% chance for 2x yield.","ru":"При отправке в сад: при успешной заготовке с вероятностью 3% объем добычи 2x."}
+{"id":"home_talent:85943240485767168","en":"Logging Instinct","ru":"Чутье лесоруба"}
+{"id":"home_talent:85943240485768704","en":"When dispatched to the orchard, on successful logging, 5% chance for 2x yield.","ru":"При отправке в сад: при успешной заготовке с вероятностью 5% объем добычи 2x."}
+{"id":"home_talent:85943283435440128","en":"Logging Instinct","ru":"Чутье лесоруба"}
+{"id":"home_talent:85943283435441664","en":"When dispatched to the orchard, on successful logging, 10% chance for 2x yield.","ru":"При отправке в сад: при успешной заготовке с вероятностью 10% объем добычи 2x."}
+{"id":"home_talent:85944056529553408","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:85944056529554944","en":"When dispatched to the orchard, Satiety consumption -3%.","ru":"При отправке в сад: расход сытости -3%."}
+{"id":"home_talent:85944099479226368","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:85944099479227904","en":"When dispatched to the orchard, Satiety consumption -5%.","ru":"При отправке в сад: расход сытости -5%."}
+{"id":"home_talent:85944142428899328","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:85944142428900864","en":"When dispatched to the orchard, Satiety consumption -10%.","ru":"При отправке в сад: расход сытости -10%."}
+{"id":"home_talent:86028667385284608","en":"Mining Pioneer","ru":"Пионер горного дела"}
+{"id":"home_talent:86028667385284864","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:86028667385286144","en":"When dispatched to the mine, mining interval -3%.","ru":"При отправке на рудник: интервал добычи -3%."}
+{"id":"home_talent:86028710334957568","en":"Mining Pioneer","ru":"Пионер горного дела"}
+{"id":"home_talent:86028710334957824","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:86028710334959104","en":"When dispatched to the mine, mining interval -5%.","ru":"При отправке на рудник: интервал добычи -5%."}
+{"id":"home_talent:86028753284630528","en":"Mining Pioneer","ru":"Пионер горного дела"}
+{"id":"home_talent:86028753284630784","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:86028753284632064","en":"When dispatched to the mine, mining interval -10%.","ru":"При отправке на рудник: интервал добычи -10%."}
+{"id":"home_talent:86029096882014208","en":"Mining Instinct","ru":"Чутье рудокопа"}
+{"id":"home_talent:86029096882014464","en":"Instinct","ru":"Чутье"}
+{"id":"home_talent:86029096882015744","en":"When dispatched to the mine, on successful mining, 3% chance for 2x yield.","ru":"При отправке на рудник: при успешной добыче с вероятностью 3% объем добычи 2x."}
+{"id":"home_talent:86029139831687168","en":"Mining Instinct","ru":"Чутье рудокопа"}
+{"id":"home_talent:86029139831687424","en":"Instinct","ru":"Чутье"}
+{"id":"home_talent:86029139831688704","en":"When dispatched to the mine, on successful mining, 5% chance for 2x yield.","ru":"При отправке на рудник: при успешной добыче с вероятностью 5% объем добычи 2x."}
+{"id":"home_talent:86029182781360128","en":"Mining Instinct","ru":"Чутье рудокопа"}
+{"id":"home_talent:86029182781360384","en":"Instinct","ru":"Чутье"}
+{"id":"home_talent:86029182781361664","en":"When dispatched to the mine, on successful mining, 10% chance for 2x yield.","ru":"При отправке на рудник: при успешной добыче с вероятностью 10% объем добычи 2x."}
+{"id":"home_talent:86029955875473408","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:86029955875473664","en":"Light Eater","ru":"Малосжка"}
+{"id":"home_talent:86029955875474944","en":"When dispatched to the mine, Satiety consumption -3%.","ru":"При отправке на рудник: расход сытости -3%."}
+{"id":"home_talent:86029998825146368","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:86029998825146624","en":"Light Eater","ru":"Малосжка"}
+{"id":"home_talent:86029998825147904","en":"When dispatched to the mine, Satiety consumption -5%.","ru":"При отправке на рудник: расход сытости -5%."}
+{"id":"home_talent:86030041774819328","en":"Reliable Light Eater","ru":"Надежный малосжка"}
+{"id":"home_talent:86030041774819584","en":"Light Eater","ru":"Малосжка"}
+{"id":"home_talent:86030041774820864","en":"When dispatched to the mine, Satiety consumption -10%.","ru":"При отправке на рудник: расход сытости -10%."}
+{"id":"home_talent:86071617058244608","en":"Hunting Pioneer","ru":"Пионер охоты"}
+{"id":"home_talent:86071617058244864","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:86071617058246144","en":"When dispatched to the feeding ground, production interval -3%.","ru":"При отправке на кормовую площадку: интервал производства -3%."}
+{"id":"home_talent:86071660007917568","en":"Hunting Pioneer","ru":"Пионер охоты"}
+{"id":"home_talent:86071660007917824","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:86071660007919104","en":"When dispatched to the feeding ground, production interval -5%.","ru":"При отправке на кормовую площадку: интервал производства -5%."}
+{"id":"home_talent:86071702957590528","en":"Hunting Pioneer","ru":"Пионер охоты"}
+{"id":"home_talent:86071702957590784","en":"Pioneer","ru":"Пионер"}
+{"id":"home_talent:86071702957592064","en":"When dispatched to the feeding ground, production interval -10%.","ru":"При отправке на кормовую площадку: интервал производства -10%."}
+{"id":"home_talent:86072046554974208","en":"Hunting Instinct","ru":"Чутье охотника"}
+{"id":"home_talent:86072046554975744","en":"When dispatched to the feeding ground, on successful hunting, 3% chance for 2x yield.","ru":"При отправке на кормовую площадку: при успешной охоте с вероятностью 3% объем добычи 2x."}
+{"id":"home_talent:86072089504647168","en":"Hunting Instinct","ru":"Чутье охотника"}
+{"id":"home_talent:86072089504648704","en":"When dispatched to the feeding ground, on successful hunting, 5% chance for 2x yield.","ru":"При отправке на кормовую площадку: при успешной охоте с вероятностью 5% объем добычи 2x."}
+{"id":"home_talent:86072132454320128","en":"Hunting Instinct","ru":"Чутье охотника"}
+{"id":"home_talent:86072132454321664","en":"When dispatched to the feeding ground, each successful hunt has a 10% chance to make yield 2x.","ru":"При отправке на кормовую площадку каждая успешная охота с вероятностью 10% увеличивает объем добычи в 2 раз."}
+{"id":"home_talent:86114566731204608","en":"Dark Element Master","ru":"Мастер тьмы"}
+{"id":"home_talent:86114566731204864","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86114566731206144","en":"The Elemental Altar's Dark Element output has a 3% chance to be 2x.","ru":"Производство темного элемента элементальным алтарем с вероятностью 3% увеличивается в 2 раз."}
+{"id":"home_talent:86114609680877568","en":"Dark Element Master","ru":"Мастер тьмы"}
+{"id":"home_talent:86114609680877824","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86114609680879104","en":"The Elemental Altar's Dark Element output has a 5% chance to be 2x.","ru":"Производство темного элемента элементальным алтарем с вероятностью 5% увеличивается в 2 раз."}
+{"id":"home_talent:86114652630550528","en":"Dark Element Master","ru":"Мастер тьмы"}
+{"id":"home_talent:86114652630550784","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86114652630552064","en":"The Elemental Altar's Dark Element output has a 10% chance to be 2x.","ru":"Производство темного элемента элементальным алтарем с вероятностью 10% увеличивается в 2 раз."}
+{"id":"home_talent:86114996227934208","en":"Earth Element Master","ru":"Мастер земли"}
+{"id":"home_talent:86114996227934464","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86114996227935744","en":"The Elemental Altar's Earth Element output has a 3% chance to be 2x.","ru":"Производство земной стихии элементальным алтарем с вероятностью 3% увеличивается в 2 раз."}
+{"id":"home_talent:86115039177607168","en":"Earth Element Master","ru":"Мастер земли"}
+{"id":"home_talent:86115039177607424","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86115039177608704","en":"The Elemental Altar's Earth Element output has a 5% chance to be 2x.","ru":"Производство земной стихии элементальным алтарем с вероятностью 5% увеличивается в 2 раз."}
+{"id":"home_talent:86115082127280128","en":"Earth Element Master","ru":"Мастер земли"}
+{"id":"home_talent:86115082127280384","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86115082127281664","en":"The Elemental Altar's Earth Element output has a 10% chance to be 2x.","ru":"Производство земной стихии элементальным алтарем с вероятностью 10% увеличивается в 2 раз."}
+{"id":"home_talent:86115425724663808","en":"Water Element Master","ru":"Мастер воды"}
+{"id":"home_talent:86115425724664064","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86115425724665344","en":"The Elemental Altar's Water Element output has a 3% chance to be 2x.","ru":"Производство водной стихии элементальным алтарем с вероятностью 3% увеличивается в 2 раз."}
+{"id":"home_talent:86115468674336768","en":"Water Element Master","ru":"Мастер воды"}
+{"id":"home_talent:86115468674337024","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86115468674338304","en":"The Elemental Altar's Water Element output has a 5% chance to be 2x.","ru":"Производство водной стихии элементальным алтарем с вероятностью 5% увеличивается в 2 раз."}
+{"id":"home_talent:86115511624009728","en":"Water Element Master","ru":"Мастер воды"}
+{"id":"home_talent:86115511624009984","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86115511624011264","en":"The Elemental Altar's Water Element output has a 10% chance to be 2x.","ru":"Производство водной стихии элементальным алтарем с вероятностью 10% увеличивается в 2 раз."}
+{"id":"home_talent:86115855221393408","en":"Fire Element Master","ru":"Мастер огня"}
+{"id":"home_talent:86115855221393664","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86115855221394944","en":"The Elemental Altar's Fire Element output has a 3% chance to be 2x.","ru":"Производство огненной стихии элементальным алтарем с вероятностью 3% увеличивается в 2 раз."}
+{"id":"home_talent:86115898171066368","en":"Fire Element Master","ru":"Мастер огня"}
+{"id":"home_talent:86115898171066624","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86115898171067904","en":"The Elemental Altar's Fire Element output has a 5% chance to be 2x.","ru":"Производство огненной стихии элементальным алтарем с вероятностью 5% увеличивается в 2 раз."}
+{"id":"home_talent:86115941120739328","en":"Fire Element Master","ru":"Мастер огня"}
+{"id":"home_talent:86115941120739584","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86115941120740864","en":"The Elemental Altar's Fire Element output has a 10% chance to be 2x.","ru":"Производство огненной стихии элементальным алтарем с вероятностью 10% увеличивается в 2 раз."}
+{"id":"home_talent:86116284718123008","en":"Wind Element Master","ru":"Мастер ветра"}
+{"id":"home_talent:86116284718123264","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86116284718124544","en":"The Elemental Altar's Wind Element output has a 3% chance to be 2x.","ru":"Производство элемента ветра элементальным алтарем с вероятностью 3% увеличивается в 2 раз."}
+{"id":"home_talent:86116327667795968","en":"Wind Element Master","ru":"Мастер ветра"}
+{"id":"home_talent:86116327667796224","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86116327667797504","en":"The Elemental Altar's Wind Element output has a 5% chance to be 2x.","ru":"Производство элемента ветра элементальным алтарем с вероятностью 5% увеличивается в 2 раз."}
+{"id":"home_talent:86116370617468928","en":"Wind Element Master","ru":"Мастер ветра"}
+{"id":"home_talent:86116370617469184","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86116370617470464","en":"The Elemental Altar's Wind Element output has a 10% chance to be 2x.","ru":"Производство элемента ветра элементальным алтарем с вероятностью 10% увеличивается в 2 раз."}
+{"id":"home_talent:86116714214852608","en":"Ice Element Master","ru":"Мастер льда"}
+{"id":"home_talent:86116714214852864","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86116714214854144","en":"The Elemental Altar's Ice Element output has a 3% chance to be 2x.","ru":"Производство ледяной стихии элементальным алтарем с вероятностью 3% увеличивается в 2 раз."}
+{"id":"home_talent:86116757164525568","en":"Ice Element Master","ru":"Мастер льда"}
+{"id":"home_talent:86116757164525824","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86116757164527104","en":"The Elemental Altar's Ice Element output has a 5% chance to be 2x.","ru":"Производство ледяной стихии элементальным алтарем с вероятностью 5% увеличивается в 2 раз."}
+{"id":"home_talent:86116800114198528","en":"Ice Element Master","ru":"Мастер льда"}
+{"id":"home_talent:86116800114198784","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86116800114200064","en":"The Elemental Altar's Ice Element output has a 10% chance to be 2x.","ru":"Производство ледяной стихии элементальным алтарем с вероятностью 10% увеличивается в 2 раз."}
+{"id":"home_talent:86117143711582208","en":"Lightning Element Master","ru":"Мастер молнии"}
+{"id":"home_talent:86117143711582464","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86117143711583744","en":"The Elemental Altar's Lightning Element output has a 3% chance to be 2x.","ru":"Производство стихии молнии элементальным алтарем с вероятностью 3% увеличивается в 2 раз."}
+{"id":"home_talent:86117186661255168","en":"Lightning Element Master","ru":"Мастер молнии"}
+{"id":"home_talent:86117186661255424","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86117186661256704","en":"The Lightning Element production of the Elemental Altar has a 5% chance to be multiplied by 2.","ru":"Производство грозового элемента Элементального алтаря с вероятностью 5% умножается на 2."}
+{"id":"home_talent:86117229610928128","en":"Lightning Element Master","ru":"Мастер молнии"}
+{"id":"home_talent:86117229610928384","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86117229610929664","en":"The Lightning Element production of the Elemental Altar has a 10% chance to be multiplied by 2.","ru":"Производство грозового элемента Элементального алтаря с вероятностью 10% умножается на 2."}
+{"id":"home_talent:86117573208311808","en":"Nature Element Master","ru":"Мастер природы"}
+{"id":"home_talent:86117573208312064","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86117573208313344","en":"The Nature Element production of the Elemental Altar has a 3% chance to be multiplied by 2.","ru":"С вероятностью 3% алтарь стихий даёт вдвое больше частиц природы."}
+{"id":"home_talent:86117616157984768","en":"Nature Element Master","ru":"Мастер природы"}
+{"id":"home_talent:86117616157985024","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86117616157986304","en":"The Nature Element production of the Elemental Altar has a 5% chance to be multiplied by 2.","ru":"С вероятностью 5% алтарь стихий даёт вдвое больше частиц природы."}
+{"id":"home_talent:86117659107657728","en":"Nature Element Master","ru":"Мастер природы"}
+{"id":"home_talent:86117659107657984","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86117659107659264","en":"The Nature Element production of the Elemental Altar has a 10% chance to be multiplied by 2.","ru":"С вероятностью 10% алтарь стихий даёт вдвое больше частиц природы."}
+{"id":"home_talent:86118002705041408","en":"Light Element Master","ru":"Мастер светового элемента"}
+{"id":"home_talent:86118002705041664","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86118002705042944","en":"The Light Element production of the Elemental Altar has a 3% chance to be multiplied by 2.","ru":"Производство светового элемента Элементального алтаря с вероятностью 3% умножается на 2."}
+{"id":"home_talent:86118045654714368","en":"Light Element Master","ru":"Мастер светового элемента"}
+{"id":"home_talent:86118045654714624","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86118045654715904","en":"The Light Element production of the Elemental Altar has a 5% chance to be multiplied by 2.","ru":"Производство светового элемента Элементального алтаря с вероятностью 5% умножается на 2."}
+{"id":"home_talent:86118088604387328","en":"Light Element Master","ru":"Мастер светового элемента"}
+{"id":"home_talent:86118088604387584","en":"Master","ru":"Мастер"}
+{"id":"home_talent:86118088604388864","en":"The Light Element production of the Elemental Altar has a 10% chance to be multiplied by 2.","ru":"Производство светового элемента Элементального алтаря с вероятностью 10% умножается на 2."}

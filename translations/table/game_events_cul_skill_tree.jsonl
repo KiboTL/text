@@ -1,0 +1,148 @@
+{"id":"game_events_cul_skill_tree:1292785159168","en":"Widely Weaving Good Ties I","ru":"Широко плести добрые узы I"}
+{"id":"game_events_cul_skill_tree:1292785159424","en":"Starpolar Charge natural recovery rate increases by 50%.","ru":"Скорость естественного восстановления звёзднополярного заряда повышается на 50%."}
+{"id":"game_events_cul_skill_tree:1297080126464","en":"Widely Weaving Good Ties II","ru":"Широко плести добрые узы II"}
+{"id":"game_events_cul_skill_tree:1297080126720","en":"Cooldown reduced by 10%.","ru":"Время перезарядки сокращается на 10%."}
+{"id":"game_events_cul_skill_tree:1301375093760","en":"Broadly Forging Good Ties III","ru":"Широкое плетение добрых уз III"}
+{"id":"game_events_cul_skill_tree:1301375094016","en":"Kibo's own Energy recovery rate increases by 50%.","ru":"Скорость восстановления энергии кибо повышается на 50%."}
+{"id":"game_events_cul_skill_tree:1305670061056","en":"Broadly Forging Good Ties IV","ru":"Широкое плетение добрых уз IV"}
+{"id":"game_events_cul_skill_tree:1305670061312","en":"Starpolar Charge recovery rate increases by 30%.","ru":"Скорость восстановления звёзднополярного заряда повышается на 30%."}
+{"id":"game_events_cul_skill_tree:1309965028352","en":"One Bond, One Meeting","ru":"Одна связь — одна встреча"}
+{"id":"game_events_cul_skill_tree:1309965028608","en":"After a Starflash Skill is activated, the whole team's Starpolar Skill damage increases by 80% each time (duration: 15s).","ru":"После активации навыка звёздной вспышки урон звёзднополярного навыка всей команды каждый раз повышается на 80% (длительность: 15 с)."}
+{"id":"game_events_cul_skill_tree:1314259995648","en":"Bondweaving Dedication","ru":"Усердие в плетении уз"}
+{"id":"game_events_cul_skill_tree:1314259995904","en":"After Bondweaving reaches S, Starpolar Charge recovery rate increases by a further 0.03% for each point of Bondweaving affinity 1 (stackable).","ru":"После достижения плетением уз ранга S скорость восстановления звёзднополярного заряда дополнительно повышается на 0.03% за каждую единицу атрибута плетения уз 1 (складывается)."}
+{"id":"game_events_cul_skill_tree:1722281888768","en":"See One, Know Ten Thousand I","ru":"Увидеть единицу — познать десять тысяч I"}
+{"id":"game_events_cul_skill_tree:1722281889024","en":"EX Intensity increases by 20%.","ru":"Интенсивность EX повышается на 20%."}
+{"id":"game_events_cul_skill_tree:1726576856064","en":"See One, Know Ten Thousand II","ru":"Увидеть единицу — познать десять тысяч II"}
+{"id":"game_events_cul_skill_tree:1726576856320","en":"Wind Attribute damage increases by 30%.","ru":"Урон ветряного атрибута повышается на 30%."}
+{"id":"game_events_cul_skill_tree:1730871823360","en":"See One, Know Ten Thousand III","ru":"Увидеть единицу — познать десять тысяч III"}
+{"id":"game_events_cul_skill_tree:1730871823616","en":"Light Element damage increases by 30%.","ru":"Урон светлого элемента повышается на 30%."}
+{"id":"game_events_cul_skill_tree:1735166790656","en":"See One, Know Ten Thousand IV","ru":"Увидеть единицу — познать десять тысяч IV"}
+{"id":"game_events_cul_skill_tree:1735166790912","en":"EX CRIT Rate increases by 15%.","ru":"Шанс крита EX повышается на 15%."}
+{"id":"game_events_cul_skill_tree:1739461757952","en":"Like a Blazing Flower","ru":"Словно пылающий цветок"}
+{"id":"game_events_cul_skill_tree:1739461758208","en":"Each time Tushan Xiaoyu deals EX Damage, her own Starecho Skill damage increases by 20% (max 10 stacks, duration: 10s).","ru":"Каждый раз, когда Тушань Сяоюй наносит урон EX, урон его навыка звёздного эха повышается на 20% (максимум 10 стак., длительность: 10 с)."}
+{"id":"game_events_cul_skill_tree:1743756725248","en":"Insight Dedication","ru":"Усердие в прозрении"}
+{"id":"game_events_cul_skill_tree:1743756725504","en":"After Insight reaches S, EX Intensity increases by a further 0.05% for each point of Insight affinity 1 (stackable).","ru":"После достижения прозрением ранга S интенсивность EX дополнительно повышается на 0.05% за каждую единицу атрибута прозрения 1 (складывается)."}
+{"id":"game_events_cul_skill_tree:2151778618368","en":"Fox Spirit Crushing Fist","ru":"Сокрушительный кулак лисы-духа"}
+{"id":"game_events_cul_skill_tree:2151778618624","en":"While Tushan Xiaoyu is affected by Radiant Heart, her own Charged Attack damage increases by 100%.","ru":"Пока на Тушань Сяоюй действует эффект «Светлое сердце», урон её заряженной атаки повышается на 100%."}
+{"id":"game_events_cul_skill_tree:2156073585664","en":"Fox's Good Match","ru":"Добрая пара лисы"}
+{"id":"game_events_cul_skill_tree:2156073585920","en":"While Tushan Xiaoyu is affected by Radiant Heart, restores 5% HP to the whole team every 3s.","ru":"Пока на Тушань Сяоюй действует эффект «Светлое сердце», каждые 3 с восстанавливается 5% HP всей команде."}
+{"id":"game_events_cul_skill_tree:2160368552960","en":"Fox's Keen Eye","ru":"Зоркий глаз лисы"}
+{"id":"game_events_cul_skill_tree:2160368553216","en":"While Tushan Xiaoyu is affected by Radiant Heart, her own Starecho Skill cooldown is reduced by 50%.","ru":"Пока на Тушань Сяоюй действует эффект «Светлое сердце», время перезарядки её навыка звёздного эха сокращается на 50%."}
+{"id":"game_events_cul_skill_tree:2164663520256","en":"Bond of the Star Jade","ru":"Узы звездного нефрита"}
+{"id":"game_events_cul_skill_tree:2164663520512","en":"After the Starborn's Charged Attack hits an enemy, the whole team's damage dealt increases by 40% (duration: 15s).","ru":"После попадания заряженной атаки Звездорождённого по врагу урон, наносимый всей командой, повышается на 40% (длительность: 15 с)."}
+{"id":"game_events_cul_skill_tree:2168958487552","en":"Golden Autumn Scenery","ru":"Золотой осенний пейзаж"}
+{"id":"game_events_cul_skill_tree:2168958487808","en":"After Maple activates a Starecho Skill, the whole team's EX CRIT Rate increases by 15% (max 2 stacks, duration: 20s).","ru":"После активации Мейпл навыка звёздного эха шанс крита EX всей команды повышается на 15% (максимум 2 стак., длительность: 20 с)."}
+{"id":"game_events_cul_skill_tree:2581275347968","en":"Of One Heart I","ru":"Единым сердцем I"}
+{"id":"game_events_cul_skill_tree:2581275348224","en":"Sets the trial character's Level to 40.","ru":"Устанавливает уровень пробного персонажа на 40."}
+{"id":"game_events_cul_skill_tree:2585570315264","en":"Of One Heart II","ru":"Единым сердцем II"}
+{"id":"game_events_cul_skill_tree:2585570315520","en":"Sets the trial character's Level to 60.","ru":"Устанавливает уровень пробного персонажа на 60."}
+{"id":"game_events_cul_skill_tree:2589865282560","en":"Of One Heart III","ru":"Единым сердцем III"}
+{"id":"game_events_cul_skill_tree:2589865282816","en":"Sets the trial character's Level to 80.","ru":"Устанавливает уровень пробного персонажа на 80."}
+{"id":"game_events_cul_skill_tree:2594160249856","en":"Lead by Example I","ru":"Вести примером I"}
+{"id":"game_events_cul_skill_tree:2594160250112","en":"The whole team's ATK increases by 20%.","ru":"Атака всей команды повышается на 20%."}
+{"id":"game_events_cul_skill_tree:2598455217152","en":"Lead by Example II","ru":"Вести примером II"}
+{"id":"game_events_cul_skill_tree:2598455217408","en":"The whole team's DEF Penetration increases by 20%.","ru":"Пробитие защиты всей команды повышается на 20%."}
+{"id":"game_events_cul_skill_tree:2602750184448","en":"The Pursuit of Mastery: Mind's Eye","ru":"Стремление к мастерству: Внутреннее око"}
+{"id":"game_events_cul_skill_tree:2602750184704","en":"After Mind's Eye reaches SS, Max HP increases by a further 0.1% for each point of Mind's Eye affinity 1 (stackable).","ru":"После достижения внутренним оком ранга SS максимальный запас HP дополнительно повышается на 0.1% за каждую единицу атрибута внутреннего ока 1 (складывается)."}
+{"id":"game_events_cul_skill_tree:2607045150720","en":"Current training focus is Mind's Eye.","ru":"Текущее направление тренировки — «Внутреннее око»."}
+{"id":"game_events_cul_skill_tree:2607045151744","en":"Clear Mirror, Still Water I","ru":"Ясное зерцало, спокойная вода I"}
+{"id":"game_events_cul_skill_tree:2607045152000","en":"Each time 1 stacks of Hellfire are consumed, gain Clear Mirror, Still Water, increasing own ATK by 5% (max 4 stacks, duration: 24s).","ru":"Каждые 1 стак. израсходованного адского пламени даруют «Ясное зерцало, спокойную воду», повышая собственную атаку на 5% (максимум 4 стак., длительность: 24 с)."}
+{"id":"game_events_cul_skill_tree:2611340118016","en":"Current training focus is Mind's Eye.","ru":"Текущее направление тренировки — «Внутреннее око»."}
+{"id":"game_events_cul_skill_tree:2611340119040","en":"Clear Mirror, Still Water II","ru":"Ясное зерцало, спокойная вода II"}
+{"id":"game_events_cul_skill_tree:2611340119296","en":"ATK amplification from Clear Mirror, Still Water increases to 10%.","ru":"Усиление атаки от «Ясного зерцала, спокойной воды» повышается до 10%."}
+{"id":"game_events_cul_skill_tree:2615635085312","en":"Current training focus is Mind's Eye, or Shiroro's support level is maxed.","ru":"Текущее направление тренировки — «Внутреннее око», либо уровень поддержки Сироро максимален."}
+{"id":"game_events_cul_skill_tree:2615635086336","en":"All Things Are the Sword","ru":"Всё сущее — меч"}
+{"id":"game_events_cul_skill_tree:2615635086592","en":"Minamoto Chiyo's Tuning Level increases by a further 1. If Tuning Level is already maxed, own ATK increases by 60%.","ru":"Уровень настройки Минамото Тиё дополнительно повышается на 1. Если уровень настройки уже максимален, собственная атака повышается на 60%."}
+{"id":"game_events_cul_skill_tree:3010772077568","en":"Flash Momentum I","ru":"Натиск вспышки I"}
+{"id":"game_events_cul_skill_tree:3010772077824","en":"The whole team's damage dealt increases by 10%.","ru":"Урон, наносимый всей командой, повышается на 10%."}
+{"id":"game_events_cul_skill_tree:3015067044864","en":"Flash Momentum II","ru":"Натиск вспышки II"}
+{"id":"game_events_cul_skill_tree:3015067045120","en":"The whole team's Normal Attack damage increases by 20%.","ru":"Урон обычной атаки всей команды повышается на 20%."}
+{"id":"game_events_cul_skill_tree:3019362012160","en":"Flash Momentum III","ru":"Натиск вспышки III"}
+{"id":"game_events_cul_skill_tree:3019362012416","en":"The whole team's Charged Attack damage increases by 20%.","ru":"Урон заряженной атаки всей команды повышается на 20%."}
+{"id":"game_events_cul_skill_tree:3023656979456","en":"Flash Momentum IV","ru":"Натиск вспышки IV"}
+{"id":"game_events_cul_skill_tree:3023656979712","en":"The whole team's Starecho Skill damage increases by 40%.","ru":"Урон навыка звёздного эха всей команды повышается на 40%."}
+{"id":"game_events_cul_skill_tree:3027951946752","en":"Flash Momentum V","ru":"Натиск вспышки V"}
+{"id":"game_events_cul_skill_tree:3027951947008","en":"The whole team's Starpolar Skill damage increases by 40%.","ru":"Урон звёзднополярного навыка всей команды повышается на 40%."}
+{"id":"game_events_cul_skill_tree:3032246914048","en":"The Pursuit of Mastery: Iai","ru":"Стремление к мастерству: Иай"}
+{"id":"game_events_cul_skill_tree:3032246914304","en":"After Iai reaches SS, damage dealt increases by a further 0.05% for each point of Iai affinity 1 (stackable).","ru":"После достижения иай ранга SS наносимый урон дополнительно повышается на 0.05% за каждую единицу атрибута иай 1 (складывается)."}
+{"id":"game_events_cul_skill_tree:3036541880320","en":"Current training focus is Iai.","ru":"Текущее направление тренировки — «Иай»."}
+{"id":"game_events_cul_skill_tree:3036541881344","en":"Overflowing Edge I","ru":"Переполняющая острота I"}
+{"id":"game_events_cul_skill_tree:3036541881600","en":"After activating a Starecho Skill, own DEF Penetration increases by 10% (duration: 24s).","ru":"После активации навыка звёздного эха собственное пробитие защиты повышается на 10% (длительность: 24 с)."}
+{"id":"game_events_cul_skill_tree:3040836847616","en":"Current training focus is Iai.","ru":"Текущее направление тренировки — «Иай»."}
+{"id":"game_events_cul_skill_tree:3040836848640","en":"Overflowing Edge II","ru":"Переполняющая острота II"}
+{"id":"game_events_cul_skill_tree:3040836848896","en":"After activating a Charged Attack or Starpolar Skill, own DEF Penetration increases by 20% (duration: 24s, stacks with Overflowing Edge I).","ru":"После активации заряженной атаки или звёзднополярного навыка собственное пробитие защиты повышается на 20% (длительность: 24 с, складывается с эффектом «Переполняющая острота I»)."}
+{"id":"game_events_cul_skill_tree:3045131814912","en":"Current training focus is Iai, or Ruby's support level is maxed.","ru":"Текущее направление тренировки — «Иай», либо уровень поддержки Руби максимален."}
+{"id":"game_events_cul_skill_tree:3045131815936","en":"Inferno Wild Dance! Stellar Cascade!","ru":"Неистовый танец пламени! Звёздный каскад!"}
+{"id":"game_events_cul_skill_tree:3045131816192","en":"After Minamoto Chiyo uses the final hit of a Normal Attack, a Charged Attack, a Starecho Skill, or a Starpolar Skill, the whole team's damage dealt increases by 15% (duration: 24s, stackable per activation method).","ru":"После того как Минамото Тиё совершает финальный удар обычной атаки, применяет заряженную атаку, навык звёздного эха или звёзднополярный навык, урон, наносимый всей командой, повышается на 15% (длительность: 24 с, складывается отдельно для каждого способа активации)."}
+{"id":"game_events_cul_skill_tree:3440268807168","en":"Offense-Defense Reversal I","ru":"Обращение нападения и защиты I"}
+{"id":"game_events_cul_skill_tree:3440268807424","en":"The whole team's Starpolar Charge recovery rate increases by 30%.","ru":"Скорость восстановления звёзднополярного заряда всей команды повышается на 30%."}
+{"id":"game_events_cul_skill_tree:3444563774464","en":"Offense-Defense Reversal II","ru":"Обращение нападения и защиты II"}
+{"id":"game_events_cul_skill_tree:3444563774720","en":"The whole team's Starecho Skill cooldown is reduced by 10%.","ru":"Время перезарядки навыка звёздного эха всей команды сокращается на 10%."}
+{"id":"game_events_cul_skill_tree:3448858741760","en":"Offense-Defense Reversal III","ru":"Обращение нападения и защиты III"}
+{"id":"game_events_cul_skill_tree:3448858742016","en":"Kibo Special Skill Energy recovery rate increases by 50%.","ru":"Скорость восстановления энергии особого навыка кибо повышается на 50%."}
+{"id":"game_events_cul_skill_tree:3453153709056","en":"Offense-Defense Reversal IV","ru":"Обращение нападения и защиты IV"}
+{"id":"game_events_cul_skill_tree:3453153709312","en":"The whole team's Starpolar Charge recovery rate increases by 20%.","ru":"Скорость восстановления звёзднополярного заряда всей команды повышается на 20%."}
+{"id":"game_events_cul_skill_tree:3457448676352","en":"Offense-Defense Reversal V","ru":"Обращение нападения и защиты V"}
+{"id":"game_events_cul_skill_tree:3457448676608","en":"The whole team's DEF increases by 20%.","ru":"Защита всей команды повышается на 20%."}
+{"id":"game_events_cul_skill_tree:3461743643648","en":"The Pursuit of Mastery: Counter Slash","ru":"Стремление к мастерству: Ответный разрез"}
+{"id":"game_events_cul_skill_tree:3461743643904","en":"After Counter Slash reaches SS, Energy recovery rate increases by a further 0.03% for each point of Counter Slash affinity 1 (stackable).","ru":"После достижения ответным разрезом ранга SS скорость восстановления энергии дополнительно повышается на 0.03% за каждую единицу атрибута ответного разреза 1 (складывается)."}
+{"id":"game_events_cul_skill_tree:3466038609920","en":"Current training focus is Counter Slash.","ru":"Текущее направление тренировки — «Ответный разрез»."}
+{"id":"game_events_cul_skill_tree:3466038610944","en":"Safe Return I","ru":"Благополучное возвращение I"}
+{"id":"game_events_cul_skill_tree:3466038611200","en":"After Minamoto Chiyo activates a Starflash Skill, gains a Shield equal to 20% of her Max HP and also increases her Stagger Resistance (duration: 15s).","ru":"После активации Минамото Тиё навыка звёздной вспышки она получает щит в размере 20% от максимального запаса HP, а также повышает своё сопротивление оглушению (длительность: 15 с)."}
+{"id":"game_events_cul_skill_tree:3470333577216","en":"Current training focus is Counter Slash.","ru":"Текущее направление тренировки — «Ответный разрез»."}
+{"id":"game_events_cul_skill_tree:3470333578240","en":"Safe Return II","ru":"Благополучное возвращение II"}
+{"id":"game_events_cul_skill_tree:3470333578496","en":"After switching the controlled character, restores HP to the whole team equal to 8% of own Max HP (cooldown: 10s).","ru":"После смены управляемого персонажа всей команде восстанавливается HP в размере 8% от собственного максимального запаса HP (перезарядка: 10 с)."}
+{"id":"game_events_cul_skill_tree:3474628544512","en":"Current training focus is Counter Slash, or Shalle's support level is maxed.","ru":"Текущее направление тренировки — «Ответный разрез», либо уровень поддержки Шалль максимален."}
+{"id":"game_events_cul_skill_tree:3474628545536","en":"The King's Sword Arts","ru":"Искусство меча короля"}
+{"id":"game_events_cul_skill_tree:3474628545792","en":"After activating a Starflash Skill, the whole team's Starecho Skill cooldown is reduced by 50%, and all allies' Starpolar Charge increases by 10 (cooldown: 10s).","ru":"После активации навыка звёздной вспышки время перезарядки навыка звёздного эха всей команды сокращается на 50%, а звёзднополярный заряд всех союзников повышается на 10 (перезарядка: 10 с)."}
+{"id":"game_events_cul_skill_tree:3869765536768","en":"Ambush I","ru":"Засада I"}
+{"id":"game_events_cul_skill_tree:3869765537024","en":"Increases the entire team's Break Efficiency by 20%.","ru":"Повышает эффективность прорыва всего отряда на 20%."}
+{"id":"game_events_cul_skill_tree:3874060504064","en":"Ambush II","ru":"Внезапная атака II"}
+{"id":"game_events_cul_skill_tree:3874060504320","en":"Increases the entire team's Break Value by 50.","ru":"Повышает значение прорыва всего отряда на 50."}
+{"id":"game_events_cul_skill_tree:3878355471360","en":"Ambush III","ru":"Внезапная атака III"}
+{"id":"game_events_cul_skill_tree:3878355471616","en":"Increases the Dark DMG dealt by the entire team by 30%.","ru":"Повышает тёмный урон всего отряда на 30%."}
+{"id":"game_events_cul_skill_tree:3882650438656","en":"Ambush IV","ru":"Внезапная атака IV"}
+{"id":"game_events_cul_skill_tree:3882650438912","en":"Increases the entire team's Crit Rate by 30%.","ru":"Повышает крит. шанс всего отряда на 30%."}
+{"id":"game_events_cul_skill_tree:3886945405952","en":"Ambush V","ru":"Внезапная атака V"}
+{"id":"game_events_cul_skill_tree:3886945406208","en":"Increases the entire team's Crit DMG by 40%.","ru":"Повышает крит. урон всего отряда на 40%."}
+{"id":"game_events_cul_skill_tree:3891240373248","en":"Diligence: Suppression","ru":"Усердие: подавление"}
+{"id":"game_events_cul_skill_tree:3891240373504","en":"After Subdue reaches SS, Crit DMG increases by an additional 0.08% for every 1 Subdue stat (stacks).","ru":"После достижения показателем «Подавление» значения SS крит. урон дополнительно повышается на 0.08% за каждые 1 ед. подавления (эффект складывается)."}
+{"id":"game_events_cul_skill_tree:3895535339520","en":"Current training focus is set to \"Subdue.\"","ru":"Текущий курс тренировки — «Подавление»."}
+{"id":"game_events_cul_skill_tree:3895535340544","en":"Unstoppable Momentum I","ru":"Неудержимый натиск I"}
+{"id":"game_events_cul_skill_tree:3895535340800","en":"After a Starecho Skill hits an enemy, that enemy's Break Efficiency received increases by 15% (duration: 24s).","ru":"После попадания навыка звёздного эха по противнику эффективность прорыва, получаемая этим противником, повышается на 15% (длительность: 24 сек.)."}
+{"id":"game_events_cul_skill_tree:3899830306816","en":"Current training focus is set to \"Subdue.\"","ru":"Текущий курс тренировки — «Подавление»."}
+{"id":"game_events_cul_skill_tree:3899830307840","en":"Unstoppable Momentum II","ru":"Неудержимый натиск II"}
+{"id":"game_events_cul_skill_tree:3899830308096","en":"After a Charged Attack or Starecho Skill hits an enemy, that enemy's Break Efficiency received increases by 30% (duration: 24s; stacks with the effect of \"Unstoppable Momentum I\").","ru":"После попадания заряженной атаки или навыка звёздного эха по противнику эффективность прорыва, получаемая этим противником, повышается на 30% (длительность: 24 сек.; складывается с эффектом «Неудержимого натиска I»)."}
+{"id":"game_events_cul_skill_tree:3904125274112","en":"Current training focus is set to \"Subdue,\" or \"Nameless\" has reached maximum Support Level.","ru":"Текущий курс тренировки — «Подавление», или уровень поддержки «Безымянного» достиг максимума."}
+{"id":"game_events_cul_skill_tree:3904125275136","en":"Sheathe","ru":"Убрать оружие"}
+{"id":"game_events_cul_skill_tree:3904125275392","en":"When Minamoto Chiyo's attack hits an enemy, the DMG that enemy takes while Broken increases by 100% (duration: 24s).","ru":"Когда атака Минамото Тиё попадает по противнику, урон, получаемый этим противником в состоянии прорыва, повышается на 100% (длительность: 24 сек.)."}
+{"id":"game_events_cul_skill_tree:4299262266368","en":"One Step at a Time","ru":"Шаг за шагом к вершине"}
+{"id":"game_events_cul_skill_tree:4299262266624","en":"After consuming 6 stacks of Hellfire, Normal Attack DMG increases by 40% (duration: 24s).","ru":"После расходования 6 стак. «Адского пламени» урон обычной атаки повышается на 40% (длительность: 24 сек.)."}
+{"id":"game_events_cul_skill_tree:4303557233664","en":"Inexhaustible Power","ru":"Неиссякаемая сила"}
+{"id":"game_events_cul_skill_tree:4303557233920","en":"After using a Starpolar Skill, Starpolar Charge increases by 20.","ru":"После применения звёзднополярного навыка звёзднополярный заряд повышается на 20."}
+{"id":"game_events_cul_skill_tree:4307852200960","en":"Layered Pursuit","ru":"Наложение преследования"}
+{"id":"game_events_cul_skill_tree:4307852201216","en":"Increases the Dark DMG enemies take from Normal Attacks by 2% (max 20 stacks; duration: 24s).","ru":"Повышает тёмный урон, получаемый противниками от обычных атак, на 2% (макс. 20 стак.; длительность: 24 сек.)."}
+{"id":"game_events_cul_skill_tree:433791699968","en":"Karmic Convergence I","ru":"Переплетение судеб I"}
+{"id":"game_events_cul_skill_tree:433791700224","en":"Sets the Level of trial team characters to 40.","ru":"Устанавливает уровень персонажей пробной команды на 40."}
+{"id":"game_events_cul_skill_tree:438086667264","en":"Karmic Convergence II","ru":"Переплетение судеб II"}
+{"id":"game_events_cul_skill_tree:438086667520","en":"Sets the Level of trial team characters to 60.","ru":"Устанавливает уровень персонажей пробной команды на 60."}
+{"id":"game_events_cul_skill_tree:442381634560","en":"Clear Conscience","ru":"Светлая душа"}
+{"id":"game_events_cul_skill_tree:442381634816","en":"When Tushan Xiaoyu uses her Starflash Skill, she gains the Bright Heart buff. Each Sigil she holds increases ATK by 10% for 20 seconds.","ru":"После применения навыка звёздной вспышки Тушань Сяоюй получает усиление «Светлое сердце». Каждая имеющаяся печать повышает атаку на 10% на 20 секунд."}
+{"id":"game_events_cul_skill_tree:446676601856","en":"Karmic Convergence III","ru":"Переплетение судеб III"}
+{"id":"game_events_cul_skill_tree:446676602112","en":"Sets the Level of trial team characters to 80.","ru":"Устанавливает уровень персонажей пробной команды на 80."}
+{"id":"game_events_cul_skill_tree:450971569152","en":"Toward Greater Heights","ru":"К новым вершинам"}
+{"id":"game_events_cul_skill_tree:450971569408","en":"Tushan Xiaoyu's Tuning level increases by an additional 1. If Tuning is already at maximum, her ATK increases by 60%.","ru":"Уровень настройки Тушань Сяоюй дополнительно повышается на 1. Если настройка уже на максимуме, сила атаки повышается на 60%."}
+{"id":"game_events_cul_skill_tree:455266536448","en":"Mana Refinement","ru":"Совершенствование маны"}
+{"id":"game_events_cul_skill_tree:455266536704","en":"After Mana reaches S, each point of Mana increases Max HP by an additional 0.1%. This effect stacks.","ru":"Когда мана достигает ранга S, каждое её очко дополнительно повышает макс. ОЗ на 0,1%. Эффект суммируется."}
+{"id":"game_events_cul_skill_tree:863288429568","en":"Daring Advance I","ru":"Смелое продвижение I"}
+{"id":"game_events_cul_skill_tree:863288429824","en":"Charged Attack damage increases by 20%.","ru":"Урон заряженной атаки повышается на 20%."}
+{"id":"game_events_cul_skill_tree:867583396864","en":"Daring Advance II","ru":"Смелое продвижение II"}
+{"id":"game_events_cul_skill_tree:867583397120","en":"Damage dealt increases by 15%.","ru":"Наносимый урон повышается на 15%."}
+{"id":"game_events_cul_skill_tree:871878364160","en":"Daring Advance III","ru":"Смелое продвижение III"}
+{"id":"game_events_cul_skill_tree:871878364416","en":"Damage taken decreases by 20%.","ru":"Получаемый урон снижается на 20%."}
+{"id":"game_events_cul_skill_tree:876173331456","en":"Daring Advance IV","ru":"Смелое продвижение IV"}
+{"id":"game_events_cul_skill_tree:876173331712","en":"DEF penetration increases by 20%.","ru":"Пробивание защиты повышается на 20%."}
+{"id":"game_events_cul_skill_tree:880468298752","en":"Peach Blossoms in Full Bloom","ru":"Пышный цвет персиковых деревьев"}
+{"id":"game_events_cul_skill_tree:880468299008","en":"When Tushan Xiaoyu's Starecho Skill hits an enemy, she gains 2 Wind Sigil.","ru":"Когда навык звёздного эха Тушань Сяоюй попадает по врагу, она получает 2 знак ветра."}
+{"id":"game_events_cul_skill_tree:884763266048","en":"Courage Refinement","ru":"Совершенствование отваги"}
+{"id":"game_events_cul_skill_tree:884763266304","en":"After Courage reaches S, each point of Courage increases ATK by an additional 0.05%. This effect stacks.","ru":"Когда храбрость достигает ранга S, каждое её очко дополнительно повышает атаку на 0,05%. Эффект суммируется."}

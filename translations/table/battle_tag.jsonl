@@ -1,0 +1,32 @@
+{"id":"battle_tag:4299262264064","en":"Debuff","ru":"Ослабление"}
+{"id":"battle_tag:4299262264320","en":"Applies various Debuffs to weaken enemies and boosts the team's damage output.","ru":"Накладывает на врагов различные ослабления, снижая их силу и повышая урон команды."}
+{"id":"battle_tag:4303557231360","en":"Tank","ru":"Танк"}
+{"id":"battle_tag:4303557231616","en":"Wields powerful Shields to charge across the battlefield with unshakable defense.","ru":"Использует мощные щиты и несокрушимую защиту, чтобы прорываться через поле боя."}
+{"id":"battle_tag:4307852198656","en":"Jammer","ru":"Глушитель"}
+{"id":"battle_tag:4307852198912","en":"Reads the flow of battle and restricts enemy actions, creating openings for allies to attack safely.","ru":"Оценивает ход боя и ограничивает действия врагов, создавая союзникам условия для безопасных атак."}
+{"id":"battle_tag:4312147165952","en":"Buff","ru":"Усиление"}
+{"id":"battle_tag:4312147166208","en":"Strengthens allies and applies various Buffs to themselves to enhance combat ability.","ru":"Усиливает союзников и накладывает на себя различные усиления, повышая боевые способности."}
+{"id":"battle_tag:4316442133248","en":"healer","ru":"лекарь"}
+{"id":"battle_tag:4316442133504","en":"Restores allies' HP with a compassionate heart and skillful technique, improving survivability.","ru":"Восстанавливает здоровье союзников благодаря состраданию и мастерству, повышая их живучесть."}
+{"id":"battle_tag:4320737100544","en":"Attacker","ru":"Атакующий"}
+{"id":"battle_tag:4320737100800","en":"Stays on the battlefield and reliably contributes through Steadfast attacks.","ru":"Остаётся на поле боя и уверенно приносит пользу стойкими атаками."}
+{"id":"battle_tag:4325032067840","en":"Assassin","ru":"Ассасин"}
+{"id":"battle_tag:4325032068096","en":"Unleashes burst damage, dealing heavy damage to enemies at the decisive moment.","ru":"Обрушивает мощный залп урона, нанося врагам тяжёлый урон в решающий момент."}
+{"id":"battle_tag:4329327035136","en":"Assist","ru":"Поддержка"}
+{"id":"battle_tag:4329327035392","en":"Syncs with allies and supports their attacks from close by.","ru":"Действует заодно с союзниками и поддерживает их атаки рядом."}
+{"id":"battle_tag:4333622002432","en":"Sigil Gain","ru":"Прибавление печатей"}
+{"id":"battle_tag:4333622002688","en":"Rapidly accumulates the team's Sigils.","ru":"Быстро накапливает печати команды."}
+{"id":"battle_tag:4337916969728","en":"Sigil Consumption","ru":"Расход печатей"}
+{"id":"battle_tag:4337916969984","en":"Consumes accumulated Sigils to deal EX Damage.","ru":"Расходует накопленные печати, нанося урон EX."}
+{"id":"battle_tag:4342211937024","en":"Normal Attack","ru":"Обычная атака"}
+{"id":"battle_tag:4342211937280","en":"Uses Normal Attacks as their main damage source, steadily pressing the enemy.","ru":"Наносит основной урон обычными атаками, методично тесня врага."}
+{"id":"battle_tag:4346506904320","en":"Charged Attack","ru":"Заряженная атака"}
+{"id":"battle_tag:4346506904576","en":"Delivers powerful blows, damaging enemies primarily with Charged Attacks.","ru":"Наносит сокрушительные удары, опираясь в основном на заряженные атаки."}
+{"id":"battle_tag:4350801871616","en":"Sigil EX","ru":"EX-печать"}
+{"id":"battle_tag:4350801871872","en":"Deals massive EX Damage.","ru":"Наносит огромный урон EX."}
+{"id":"battle_tag:4355096838912","en":"Break","ru":"Прорыв"}
+{"id":"battle_tag:4355096839168","en":"Efficiently depletes enemies' Stance Gauge to Break them and end fights quickly.","ru":"Эффективно истощает шкалу стойкости врагов, вызывая прорыв и быстро завершая бой."}
+{"id":"battle_tag:8594229560064","en":"Attack","ru":"Атака"}
+{"id":"battle_tag:8598524527360","en":"Strike","ru":"Удар"}
+{"id":"battle_tag:8602819494656","en":"Support","ru":"Поддержка"}
+{"id":"battle_tag:8607114461952","en":"Healing","ru":"Лечение"}

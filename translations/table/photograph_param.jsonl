@@ -1,0 +1,81 @@
+{"id":"photograph_param:1292785156864","en":"Wind Direction","ru":"Направление ветра"}
+{"id":"photograph_param:1297080124160","en":"Wind Strength","ru":"Сила ветра"}
+{"id":"photograph_param:1722281886464","en":"No Filter","ru":"Без фильтра"}
+{"id":"photograph_param:1726576853760","en":"Filter 1","ru":"Фильтр 1"}
+{"id":"photograph_param:1730871821056","en":"Filter 2","ru":"Фильтр 2"}
+{"id":"photograph_param:1735166788352","en":"Filter 3","ru":"Фильтр 3"}
+{"id":"photograph_param:1739461755648","en":"Filter 4","ru":"Фильтр 4"}
+{"id":"photograph_param:1743756722944","en":"Filter 5","ru":"Фильтр 5"}
+{"id":"photograph_param:1748051690240","en":"Filter 6","ru":"Фильтр 6"}
+{"id":"photograph_param:2151778616064","en":"Default","ru":"По умолчанию"}
+{"id":"photograph_param:2156073583360","en":"Special","ru":"Особое"}
+{"id":"photograph_param:2160368550656","en":"Wave","ru":"Помахать"}
+{"id":"photograph_param:2164663517952","en":"Like","ru":"Нравится"}
+{"id":"photograph_param:2168958485248","en":"Heart","ru":"Сердце"}
+{"id":"photograph_param:2173253452544","en":"Bow","ru":"Поклон"}
+{"id":"photograph_param:2177548419840","en":"Cry","ru":"Плач"}
+{"id":"photograph_param:2181843387136","en":"Laugh","ru":"Смех"}
+{"id":"photograph_param:2581275345664","en":"Default","ru":"По умолчанию"}
+{"id":"photograph_param:2585570312960","en":"Happy","ru":"Радость"}
+{"id":"photograph_param:2589865280256","en":"Angry","ru":"Гнев"}
+{"id":"photograph_param:2594160247552","en":"Sad","ru":"Грусть"}
+{"id":"photograph_param:2598455214848","en":"Shy","ru":"Смущение"}
+{"id":"photograph_param:2602750182144","en":"Surprised","ru":"Удивление"}
+{"id":"photograph_param:3010772075264","en":"Exposure","ru":"Экспозиция"}
+{"id":"photograph_param:3015067042560","en":"Brightness","ru":"Яркость"}
+{"id":"photograph_param:3019362009856","en":"Highlights","ru":"Света"}
+{"id":"photograph_param:3023656977152","en":"Shadows","ru":"Тени"}
+{"id":"photograph_param:3027951944448","en":"Contrast","ru":"Контраст"}
+{"id":"photograph_param:3032246911744","en":"Saturation","ru":"Насыщенность"}
+{"id":"photograph_param:3036541879040","en":"Color Temperature","ru":"Температура цвета"}
+{"id":"photograph_param:3040836846336","en":"Hue","ru":"Оттенок"}
+{"id":"photograph_param:3440268804864","en":"Wide Angle","ru":"Широкий угол"}
+{"id":"photograph_param:3444563772160","en":"Depth of Field","ru":"Глубина резкости"}
+{"id":"photograph_param:3448858739456","en":"Soft Light","ru":"Мягкий свет"}
+{"id":"photograph_param:3453153706752","en":"Vignette","ru":"Виньетка"}
+{"id":"photograph_param:3457448674048","en":"Film Grain","ru":"Зернистость"}
+{"id":"photograph_param:3461743641344","en":"Rotation","ru":"Поворот"}
+{"id":"photograph_param:3466038608640","en":"Tilt","ru":"Наклон"}
+{"id":"photograph_param:3869765534464","en":"Default Scene","ru":"Сцена по умолчанию"}
+{"id":"photograph_param:3874060501760","en":"Greenback Model Room","ru":"Макетная комната Гринбэк"}
+{"id":"photograph_param:3878355469056","en":"Greyback Model Room","ru":"Модельная комната Грейбэка"}
+{"id":"photograph_param:4299262264064","en":"Self","ru":"Себя"}
+{"id":"photograph_param:4303557231360","en":"Team Members","ru":"Члены отряда"}
+{"id":"photograph_param:4307852198656","en":"Generic NPC","ru":"Обычный NPC"}
+{"id":"photograph_param:4312147165952","en":"Other NPCs","ru":"Прочие NPC"}
+{"id":"photograph_param:4316442133248","en":"Companion Kibo","ru":"Кибо-спутник"}
+{"id":"photograph_param:4320737100544","en":"Weapon","ru":"Оружие"}
+{"id":"photograph_param:4325032067840","en":"Mount","ru":"Скакун"}
+{"id":"photograph_param:4329327035136","en":"Other Kibo","ru":"Прочие кибо"}
+{"id":"photograph_param:4333622002432","en":"Other Kibo Names","ru":"Имена прочих кибо"}
+{"id":"photograph_param:4337916969728","en":"Other NPC Names","ru":"Имена прочих NPC"}
+{"id":"photograph_param:433791697664","en":"Sunny","ru":"Ясно"}
+{"id":"photograph_param:4342211937024","en":"4K Screenshot","ru":"Скриншот 4K"}
+{"id":"photograph_param:438086664960","en":"Rain","ru":"Дождь"}
+{"id":"photograph_param:442381632256","en":"Snow","ru":"Снег"}
+{"id":"photograph_param:4728758993664","en":"Default","ru":"По умолчанию"}
+{"id":"photograph_param:4733053960960","en":"Run","ru":"Бег"}
+{"id":"photograph_param:4737348928256","en":"Fall Down","ru":"Падение"}
+{"id":"photograph_param:4741643895552","en":"Get Up","ru":"Подъём"}
+{"id":"photograph_param:4745938862848","en":"Take Damage","ru":"Получение урона"}
+{"id":"photograph_param:5158255723264","en":"Normal","ru":"Обычное"}
+{"id":"photograph_param:5162550690560","en":"Fierce","ru":"Свирепый"}
+{"id":"photograph_param:5166845657856","en":"Alert","ru":"Настороженность"}
+{"id":"photograph_param:5171140625152","en":"Dizzy","ru":"Головокружение"}
+{"id":"photograph_param:5175435592448","en":"Happy","ru":"Радость"}
+{"id":"photograph_param:5179730559744","en":"Fear","ru":"Страх"}
+{"id":"photograph_param:5184025527040","en":"Cry","ru":"Плач"}
+{"id":"photograph_param:5188320494336","en":"Special","ru":"Особое"}
+{"id":"photograph_param:5192615461632","en":"Happy","ru":"Радость"}
+{"id":"photograph_param:5196910428928","en":"Pain","ru":"Боль"}
+{"id":"photograph_param:5201205396224","en":"Sleep","ru":"Сон"}
+{"id":"photograph_param:5587752452864","en":"Lighting1","ru":"Освещение1"}
+{"id":"photograph_param:5592047420160","en":"Lighting2","ru":"Освещение2"}
+{"id":"photograph_param:5596342387456","en":"Lighting3","ru":"Освещение3"}
+{"id":"photograph_param:7305739371264","en":"Lighting Intensity","ru":"Интенсивность освещения"}
+{"id":"photograph_param:7735236100864","en":"Lighting","ru":"Освещение"}
+{"id":"photograph_param:7739531068160","en":"Skin Highlight","ru":"Блик на коже"}
+{"id":"photograph_param:863288427264","en":"Early Morning","ru":"Рассвет"}
+{"id":"photograph_param:867583394560","en":"Day","ru":"День"}
+{"id":"photograph_param:871878361856","en":"Evening","ru":"Вечер"}
+{"id":"photograph_param:876173329152","en":"Late Night","ru":"Глубокая ночь"}

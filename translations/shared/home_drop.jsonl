@@ -1,0 +1,1306 @@
+{"id":"shared:home_drop:10001:45:_note","en":"Fresh Egg","ru":"Свежее яйцо"}
+{"id":"shared:home_drop:10002:46:_note","en":"Rich Milk","ru":"Жирное молоко"}
+{"id":"shared:home_drop:10003:47:_note","en":"Honey","ru":"Мёд"}
+{"id":"shared:home_drop:10004:48:_note","en":"Raw Flame Stone","ru":"Необработанный пламекамень"}
+{"id":"shared:home_drop:1001:0:_note","en":"Egg","ru":"Яйцо"}
+{"id":"shared:home_drop:1002:1:_note","en":"Milk","ru":"Молоко"}
+{"id":"shared:home_drop:1003:2:_note","en":"Honey","ru":"Мёд"}
+{"id":"shared:home_drop:1004:3:_note","en":"Raw Flame Stone","ru":"Необработанный пламекамень"}
+{"id":"shared:home_drop:1005:4:_note","en":"Kibo Egg","ru":"Яйцо кибо"}
+{"id":"shared:home_drop:1006:5:_note","en":"Common Kibo base product: Star Essence","ru":"Базовый продукт обычных кибо: звёздная эссенция"}
+{"id":"shared:home_drop:1007:6:_note","en":"Beast Family base product: Fine Softdown","ru":"Базовый продукт Семейства зверей: тонкий мягкий пух"}
+{"id":"shared:home_drop:1008:7:_note","en":"Feather Family base product: Variegated Flight Feather","ru":"Базовый продукт Семейства пернатых: пёстрое маховое перо"}
+{"id":"shared:home_drop:1009:8:_note","en":"Scale Family base product: Glimmering Scale","ru":"Базовый продукт Семейства чешуйчатых: мерцающая чешуя"}
+{"id":"shared:home_drop:1010:9:_note","en":"Skinchanger Family base product: Shifting Softshell","ru":"Базовый продукт Семейства перевёртышей: изменчивый мягкий панцирь"}
+{"id":"shared:home_drop:1011:10:_note","en":"Flora Family base product: Moss-Covered Soil","ru":"Базовый продукт Семейства флоры: мшистая почва"}
+{"id":"shared:home_drop:1012:11:_note","en":"Automaton Family base product: Worn Component","ru":"Базовый продукт Семейства автоматонов: изношенная деталь"}
+{"id":"shared:home_drop:1013:12:_note","en":"Common Kibo rare product: Smooth Congealed Fat","ru":"Редкий продукт обычных кибо: гладкий сгущённый жир"}
+{"id":"shared:home_drop:1014:13:_note","en":"Beast Family rare product: Beast Spirit Horn","ru":"Редкий продукт Семейства зверей: рог звериного духа"}
+{"id":"shared:home_drop:1015:14:_note","en":"Feather Family rare product: Sharp Beak","ru":"Редкий продукт Семейства пернатых: острый клюв"}
+{"id":"shared:home_drop:1016:15:_note","en":"Scale Family rare product: Luminescent Scale Membrane","ru":"Редкий продукт Семейства чешуйчатых: светящаяся чешуйчатая мембрана"}
+{"id":"shared:home_drop:1017:16:_note","en":"Skinchanger Family rare product: Shed Old Molt","ru":"Редкий продукт Семейства перевёртышей: сброшенная старая кожа"}
+{"id":"shared:home_drop:1018:17:_note","en":"Elemental Kin rare product: Essence Sand","ru":"Редкий продукт Элементалей: песок сущности"}
+{"id":"shared:home_drop:1019:18:_note","en":"Spirit Family rare product: Condensed Crystal Core","ru":"Редкий продукт Семейства духов: сгущённое кристаллическое ядро"}
+{"id":"shared:home_drop:1020:19:_note","en":"Non-Attribute Elemental Particle","ru":"Элементарная частица без атрибута"}
+{"id":"shared:home_drop:1021:20:_note","en":"Earth Attribute Elemental Particle","ru":"Элементарная частица земного атрибута"}
+{"id":"shared:home_drop:1022:21:_note","en":"Water Element Elemental Particle","ru":"Элементарная частица водного элемента"}
+{"id":"shared:home_drop:1023:22:_note","en":"Fire Attribute Elemental Particle","ru":"Элементарная частица огненного атрибута"}
+{"id":"shared:home_drop:1024:23:_note","en":"Wind Attribute Elemental Particle","ru":"Элементарная частица ветряного атрибута"}
+{"id":"shared:home_drop:1025:24:_note","en":"Ice Attribute Elemental Particle","ru":"Элементарная частица ледяного атрибута"}
+{"id":"shared:home_drop:1026:25:_note","en":"Thunder Elemental Particle","ru":"Элементарная частица грома"}
+{"id":"shared:home_drop:1027:26:_note","en":"Wood Attribute Elemental Particle","ru":"Элементарная частица древесной стихии"}
+{"id":"shared:home_drop:1028:27:_note","en":"Light Element Elemental Particle","ru":"Элементарная частица светлого элемента"}
+{"id":"shared:home_drop:1029:28:_note","en":"Dark Attribute Elemental Particle","ru":"Элементарная частица тёмного атрибута"}
+{"id":"shared:home_drop:1030:29:_note","en":"Spirit Family base product: Cipher Wheel","ru":"Базовый продукт Семейства духов: шифровальный диск"}
+{"id":"shared:home_drop:1031:30:_note","en":"Elemental Kin base product: Elemental Condensate","ru":"Базовый продукт Элементалей: элементальный конденсат"}
+{"id":"shared:home_drop:1032:31:_note","en":"Automaton Family rare product: Steadfast Core","ru":"Редкий продукт Семейства автоматонов: неизменное ядро"}
+{"id":"shared:home_drop:1033:32:_note","en":"Flora Family rare product: Hollow-Veined Leaf","ru":"Редкий продукт Семейства флоры: лист с полыми жилками"}
+{"id":"shared:home_drop:1034:33:_note","en":"Skinchanger Family unique product: Raw Flame Stone","ru":"Уникальный продукт Семейства перевёртышей: необработанный пламекамень"}
+{"id":"shared:home_drop:1040:34:_note","en":"Ranch EXP Pack","ru":"Набор опыта ранчо"}
+{"id":"shared:home_drop:1050:35:_note","en":"Insight Ranch surprise product: basic materials","ru":"Неожиданный продукт ранчо познаний: базовые материалы"}
+{"id":"shared:home_drop:1051:36:_note","en":"Insight Ranch surprise product: rare Blue Star Knot Card","ru":"Неожиданный продукт ранчо познаний: редкая карта синего звёздного узла"}
+{"id":"shared:home_drop:1052:37:_note","en":"Insight Ranch surprise product: rare Homestead Coin","ru":"Неожиданный продукт ранчо познаний: редкая монета поместья"}
+{"id":"shared:home_drop:1053:38:_note","en":"Insight Ranch surprise product: rare Starwhisper Fruit","ru":"Неожиданный продукт ранчо познаний: редкий плод звёздного шёпота"}
+{"id":"shared:home_drop:1054:39:_note","en":"Insight Ranch surprise product: rare Starwhisper Fruit","ru":"Неожиданный продукт ранчо познаний: редкий плод звёздного шёпота"}
+{"id":"shared:home_drop:1055:40:_note","en":"Insight Ranch surprise product: rare Gold Star Knot Card","ru":"Неожиданный продукт ранчо познаний: редкая карта золотого звёздного узла"}
+{"id":"shared:home_drop:1056:41:_note","en":"Insight Ranch surprise product: rare Homestead Coin","ru":"Неожиданный продукт ранчо познаний: редкая монета поместья"}
+{"id":"shared:home_drop:1057:42:_note","en":"Insight Ranch surprise product: rare Starwhisper Fruit","ru":"Неожиданный продукт ранчо познаний: редкий плод звёздного шёпота"}
+{"id":"shared:home_drop:1058:43:_note","en":"Insight Ranch surprise product: rare Starwhisper Fruit","ru":"Неожиданный продукт ранчо познаний: редкий плод звёздного шёпота"}
+{"id":"shared:home_drop:1059:44:_note","en":"Insight Ranch surprise product: rare Starwhisper Fruit","ru":"Неожиданный продукт ранчо познаний: редкий плод звёздного шёпота"}
+{"id":"shared:home_drop:110001:140:_note","en":"Softwood","ru":"Мягкая древесина"}
+{"id":"shared:home_drop:110002:141:_note","en":"Hardwood","ru":"Твёрдая древесина"}
+{"id":"shared:home_drop:110003:142:_note","en":"Sapstone Wood","ru":"Смолокаменная древесина"}
+{"id":"shared:home_drop:110004:143:_note","en":"Fragrant Wind Wood","ru":"Древесина душистого ветра"}
+{"id":"shared:home_drop:110005:144:_note","en":"Star-Guided Wood","ru":"Звездонаправленная древесина"}
+{"id":"shared:home_drop:110006:145:_note","en":"Flamefeather Wood","ru":"Древесина пламенного пера"}
+{"id":"shared:home_drop:11011:49:_note","en":"Star Essence, -1-grade Kibo, common","ru":"Звёздная эссенция, кибо -1-го разряда, обычное"}
+{"id":"shared:home_drop:11012:50:_note","en":"Star Essence, -2-grade Kibo, common","ru":"Звёздная эссенция, кибо -2-го разряда, обычное"}
+{"id":"shared:home_drop:11013:51:_note","en":"Star Essence, -3-grade Kibo, common","ru":"Звёздная эссенция, кибо -3-го разряда, обычное"}
+{"id":"shared:home_drop:11014:52:_note","en":"Star Essence, -4-grade Kibo, common","ru":"Звёздная эссенция, кибо -4-го разряда, обычное"}
+{"id":"shared:home_drop:11031:53:_note","en":"Fine Softdown, -1-grade Kibo, common","ru":"Тонкий мягкий пух, кибо -1-го разряда, обычное"}
+{"id":"shared:home_drop:11032:54:_note","en":"Fine Softdown, -2-grade Kibo, common","ru":"Тонкий мягкий пух, кибо -2-го разряда, обычное"}
+{"id":"shared:home_drop:11033:55:_note","en":"Fine Softdown, -3-grade Kibo, common","ru":"Тонкий мягкий пух, кибо -3-го разряда, обычное"}
+{"id":"shared:home_drop:11034:56:_note","en":"Fine Softdown, -4-grade Kibo, common","ru":"Тонкий мягкий пух, кибо -4-го разряда, обычное"}
+{"id":"shared:home_drop:11041:57:_note","en":"Variegated Flight Feather, -1-grade Kibo, common","ru":"Пёстрое маховое перо, кибо -1-го разряда, обычное"}
+{"id":"shared:home_drop:11042:58:_note","en":"Variegated Flight Feather, -2-grade Kibo, common","ru":"Пёстрое маховое перо, кибо -2-го разряда, обычное"}
+{"id":"shared:home_drop:11043:59:_note","en":"Variegated Flight Feather, -3-grade Kibo, common","ru":"Пёстрое маховое перо, кибо -3-го разряда, обычное"}
+{"id":"shared:home_drop:11044:60:_note","en":"Variegated Flight Feather, -4-grade Kibo, common","ru":"Пёстрое маховое перо, кибо -4-го разряда, обычное"}
+{"id":"shared:home_drop:11051:61:_note","en":"Glimmering Scale, -1-grade Kibo, common","ru":"Мерцающая чешуя, кибо -1-го разряда, обычное"}
+{"id":"shared:home_drop:11052:62:_note","en":"Glimmering Scale, -2-grade Kibo, common","ru":"Мерцающая чешуя, кибо -2-го разряда, обычное"}
+{"id":"shared:home_drop:11053:63:_note","en":"Glimmering Scale, -3-grade Kibo, common","ru":"Мерцающая чешуя, кибо -3-го разряда, обычное"}
+{"id":"shared:home_drop:11054:64:_note","en":"Glimmering Scale, -4-grade Kibo, common","ru":"Мерцающая чешуя, кибо -4-го разряда, обычное"}
+{"id":"shared:home_drop:11061:65:_note","en":"Shifting Softshell, -1-grade Kibo, common","ru":"Изменчивый мягкий панцирь, кибо -1-го разряда, обычное"}
+{"id":"shared:home_drop:11062:66:_note","en":"Shifting Softshell, -2-grade Kibo, common","ru":"Изменчивый мягкий панцирь, кибо -2-го разряда, обычное"}
+{"id":"shared:home_drop:11063:67:_note","en":"Shifting Softshell, -3-grade Kibo, common","ru":"Изменчивый мягкий панцирь, кибо -3-го разряда, обычное"}
+{"id":"shared:home_drop:11064:68:_note","en":"Shifting Softshell, -4-grade Kibo, common","ru":"Изменчивый мягкий панцирь, кибо -4-го разряда, обычное"}
+{"id":"shared:home_drop:11081:69:_note","en":"Elemental Condensate, -1-grade Kibo, common","ru":"Элементальный конденсат, кибо -1-го разряда, обычное"}
+{"id":"shared:home_drop:11082:70:_note","en":"Elemental Condensate, -2-grade Kibo, common","ru":"Элементальный конденсат, кибо -2-го разряда, обычное"}
+{"id":"shared:home_drop:11083:71:_note","en":"Elemental Condensate, -3-grade Kibo, common","ru":"Элементальный конденсат, кибо -3-го разряда, обычное"}
+{"id":"shared:home_drop:11084:72:_note","en":"Elemental Condensate, -4-grade Kibo, common","ru":"Элементальный конденсат, кибо -4-го разряда, обычное"}
+{"id":"shared:home_drop:11091:73:_note","en":"Cipher Wheel, -1-grade Kibo, common","ru":"Шифровальный диск, кибо -1-го разряда, обычное"}
+{"id":"shared:home_drop:11092:74:_note","en":"Cipher Wheel, -2-grade Kibo, common","ru":"Шифровальный диск, кибо -2-го разряда, обычное"}
+{"id":"shared:home_drop:11093:75:_note","en":"Cipher Wheel, -3-grade Kibo, common","ru":"Шифровальный диск, кибо -3-го разряда, обычное"}
+{"id":"shared:home_drop:11094:76:_note","en":"Cipher Wheel, -4-grade Kibo, common","ru":"Шифровальный диск, кибо -4-го разряда, обычное"}
+{"id":"shared:home_drop:11101:77:_note","en":"Worn Component, -1-grade Kibo, common","ru":"Изношенная деталь, кибо -1-го разряда, обычное"}
+{"id":"shared:home_drop:11102:78:_note","en":"Worn Component, -2-grade Kibo, common","ru":"Изношенная деталь, кибо -2-го разряда, обычное"}
+{"id":"shared:home_drop:11103:79:_note","en":"Worn Component, -3-grade Kibo, common","ru":"Изношенная деталь, кибо -3-го разряда, обычное"}
+{"id":"shared:home_drop:11104:80:_note","en":"Worn Component, -4-grade Kibo, common","ru":"Изношенная деталь, кибо -4-го разряда, обычное"}
+{"id":"shared:home_drop:11111:81:_note","en":"Moss-Covered Soil, -1-grade Kibo, common","ru":"Мшистая почва, кибо -1-го разряда, обычное"}
+{"id":"shared:home_drop:11112:82:_note","en":"Moss-Covered Soil, -2-grade Kibo, common","ru":"Мшистая почва, кибо -2-го разряда, обычное"}
+{"id":"shared:home_drop:11113:83:_note","en":"Moss-Covered Soil, -3-grade Kibo, common","ru":"Мшистая почва, кибо -3-го разряда, обычное"}
+{"id":"shared:home_drop:11114:84:_note","en":"Moss-Covered Soil, -4-grade Kibo, common","ru":"Мшистая почва, кибо -4-го разряда, обычное"}
+{"id":"shared:home_drop:111300000:878:_note","en":"Sprout Valley Tier -1 Lumber Camp — Softwood","ru":"Долина Ростков, лесопилка -1 уровня — мягкая древесина"}
+{"id":"shared:home_drop:111317001:879:_note","en":"Sprout Valley Tier -1 Lumber Camp — Fiber","ru":"Долина Ростков, лесопилка -1 уровня — волокно"}
+{"id":"shared:home_drop:112300000:880:_note","en":"Sprout Valley Tier -2 Lumber Camp — Softwood","ru":"Долина Ростков, лесопилка -2 уровня — мягкая древесина"}
+{"id":"shared:home_drop:112300006:881:_note","en":"Sprout Valley Tier -2 Lumber Camp — Sapstone Wood","ru":"Долина Ростков, лесопилка -2 уровня — сок-камень древесина"}
+{"id":"shared:home_drop:112317001:882:_note","en":"Sprout Valley Tier -2 Lumber Camp — Fiber","ru":"Долина Ростков, лесопилка -2 уровня — волокно"}
+{"id":"shared:home_drop:11300000:838:_note","en":"Lumber Camp — Facility1 — Softwood","ru":"Лесопилка — объект1 — мягкая древесина"}
+{"id":"shared:home_drop:11300006:839:_note","en":"Lumber Camp — Facility1 — Sapstone Wood","ru":"Лесопилка — объект1 — сок-камень древесина"}
+{"id":"shared:home_drop:11317001:840:_note","en":"Lumber Camp — Facility1 — Fiber","ru":"Лесопилка — объект1 — волокно"}
+{"id":"shared:home_drop:11561101:841:_note","en":"Sprout Valley · Zones 1–3 · Tier -1 Feeding Site Egg","ru":"Долина Ростков · зоны 1–3 · яйцо кормушки -1 уровня"}
+{"id":"shared:home_drop:11561102:842:_note","en":"Sprout Valley · Zones 1–3 · Tier -2 Feeding Site Egg","ru":"Долина Ростков · зоны 1–3 · яйцо кормушки -2 уровня"}
+{"id":"shared:home_drop:11561103:843:_note","en":"Sprout Valley · Zones 1–3 · Tier -3 Feeding Site Egg","ru":"Долина Ростков · зоны 1–3 · яйцо кормушки -3 уровня"}
+{"id":"shared:home_drop:11561201:844:_note","en":"Sprout Valley · Zones 2–4 · Tier -1 Feeding Site Egg","ru":"Долина Ростков · зоны 2–4 · яйцо кормушки -1 уровня"}
+{"id":"shared:home_drop:11561202:845:_note","en":"Sprout Valley · Zones 2–4 · Tier -2 Feeding Site Egg","ru":"Долина Ростков · зоны 2–4 · яйцо кормушки -2 уровня"}
+{"id":"shared:home_drop:11561203:846:_note","en":"Sprout Valley · Zones 2–4 · Tier -3 Feeding Site Egg","ru":"Долина Ростков · зоны 2–4 · яйцо кормушки -3 уровня"}
+{"id":"shared:home_drop:11561301:847:_note","en":"Sprout Valley · Zone 5 · Tier -1 Feeding Site Egg","ru":"Долина Ростков · зона 5 · яйцо кормушки -1 уровня"}
+{"id":"shared:home_drop:11561302:848:_note","en":"Sprout Valley · Zone 5 · Tier -2 Feeding Site Egg","ru":"Долина Ростков · зона 5 · яйцо кормушки -2 уровня"}
+{"id":"shared:home_drop:11561303:849:_note","en":"Sprout Valley · Zone 5 · Tier -3 Feeding Site Egg","ru":"Долина Ростков · зона 5 · яйцо кормушки -3 уровня"}
+{"id":"shared:home_drop:11562101:850:_note","en":"Fleece · Zones 1–2 · Tier -1 Feeding Site Egg","ru":"Флис · зоны 1–2 · яйцо кормушки -1 уровня"}
+{"id":"shared:home_drop:11562102:851:_note","en":"Fleece · Zones 1–2 · Tier -2 Feeding Site Egg","ru":"Флис · зоны 1–2 · яйцо кормушки -2 уровня"}
+{"id":"shared:home_drop:11562103:852:_note","en":"Fleece · Zones 1–2 · Tier -3 Feeding Site Egg","ru":"Флис · зоны 1–2 · яйцо кормушки -3 уровня"}
+{"id":"shared:home_drop:119001:146:_note","en":"Fragrant Resin","ru":"Ароматная смола"}
+{"id":"shared:home_drop:119002:147:_note","en":"Wood Wax Chunk","ru":"Кусок древесного воска"}
+{"id":"shared:home_drop:119003:148:_note","en":"Hardened Bark","ru":"Закалённая кора"}
+{"id":"shared:home_drop:119004:149:_note","en":"Spiritwood Branch","ru":"Ветвь древа духов"}
+{"id":"shared:home_drop:120001:150:_note","en":"Duststone","ru":"Пылевой камень"}
+{"id":"shared:home_drop:120002:151:_note","en":"Solid Rock","ru":"Крепкая порода"}
+{"id":"shared:home_drop:120003:152:_note","en":"Whitestone","ru":"Белый камень"}
+{"id":"shared:home_drop:120004:153:_note","en":"Azurewind Rock","ru":"Лазурноветровая порода"}
+{"id":"shared:home_drop:120005:154:_note","en":"Glintstone","ru":"Мерцающий камень"}
+{"id":"shared:home_drop:120006:155:_note","en":"Cavern Crystal","ru":"Пещерный кристалл"}
+{"id":"shared:home_drop:12011:85:_note","en":"Smooth Congealed Fat, -1-grade Kibo, rare","ru":"Гладкий сгущённый жир, кибо -1-го разряда, редкое"}
+{"id":"shared:home_drop:12012:86:_note","en":"Smooth Congealed Fat, -2-grade Kibo, rare","ru":"Гладкий сгущённый жир, кибо -2-го разряда, редкое"}
+{"id":"shared:home_drop:12013:87:_note","en":"Smooth Congealed Fat, -3-grade Kibo, rare","ru":"Гладкий сгущённый жир, кибо -3-го разряда, редкое"}
+{"id":"shared:home_drop:12014:88:_note","en":"Smooth Congealed Fat, -4-grade Kibo, rare","ru":"Гладкий сгущённый жир, кибо -4-го разряда, редкое"}
+{"id":"shared:home_drop:12031:89:_note","en":"Beast Spirit Horn, -1-grade Kibo, rare","ru":"Рог звериного духа, кибо -1-го разряда, редкое"}
+{"id":"shared:home_drop:12032:90:_note","en":"Beast Spirit Horn — -2-grade Kibo rarity","ru":"Рог звериного духа — редкость кибо ранга -2"}
+{"id":"shared:home_drop:12033:91:_note","en":"Beast Spirit Horn — -3-grade Kibo rarity","ru":"Рог звериного духа — редкость кибо ранга -3"}
+{"id":"shared:home_drop:12034:92:_note","en":"Beast Spirit Horn — -4-grade Kibo rarity","ru":"Рог звериного духа — редкость кибо ранга -4"}
+{"id":"shared:home_drop:12041:93:_note","en":"Sharp Beak — -1-grade Kibo rarity","ru":"Острый клюв — редкость кибо ранга -1"}
+{"id":"shared:home_drop:12042:94:_note","en":"Sharp Beak — -2-grade Kibo rarity","ru":"Острый клюв — редкость кибо ранга -2"}
+{"id":"shared:home_drop:12043:95:_note","en":"Sharp Beak — -3-grade Kibo rarity","ru":"Острый клюв — редкость кибо ранга -3"}
+{"id":"shared:home_drop:12044:96:_note","en":"Sharp Beak — -4-grade Kibo rarity","ru":"Острый клюв — редкость кибо ранга -4"}
+{"id":"shared:home_drop:12051:97:_note","en":"Iridescent Membrane — -1-grade Kibo rarity","ru":"Радужная перепонка — редкость кибо ранга -1"}
+{"id":"shared:home_drop:12052:98:_note","en":"Iridescent Membrane — -2-grade Kibo rarity","ru":"Радужная перепонка — редкость кибо ранга -2"}
+{"id":"shared:home_drop:12053:99:_note","en":"Iridescent Membrane — -3-grade Kibo rarity","ru":"Радужная перепонка — редкость кибо ранга -3"}
+{"id":"shared:home_drop:12054:100:_note","en":"Iridescent Membrane — -4-grade Kibo rarity","ru":"Радужная перепонка — редкость кибо ранга -4"}
+{"id":"shared:home_drop:12061:101:_note","en":"Discarded Molt — -1-grade Kibo rarity","ru":"Сброшенная оболочка — редкость кибо ранга -1"}
+{"id":"shared:home_drop:12062:102:_note","en":"Discarded Molt — -2-grade Kibo rarity","ru":"Сброшенная оболочка — редкость кибо ранга -2"}
+{"id":"shared:home_drop:12063:103:_note","en":"Discarded Molt — -3-grade Kibo rarity","ru":"Сброшенная оболочка — редкость кибо ранга -3"}
+{"id":"shared:home_drop:12064:104:_note","en":"Discarded Molt — -4-grade Kibo rarity","ru":"Сброшенная оболочка — редкость кибо ранга -4"}
+{"id":"shared:home_drop:12081:105:_note","en":"Essence Sand — -1-grade Kibo rarity","ru":"Песок сущности — редкость кибо ранга -1"}
+{"id":"shared:home_drop:12082:106:_note","en":"Essence Sand — -2-grade Kibo rarity","ru":"Песок сущности — редкость кибо ранга -2"}
+{"id":"shared:home_drop:12083:107:_note","en":"Essence Sand — -3-grade Kibo rarity","ru":"Песок сущности — редкость кибо ранга -3"}
+{"id":"shared:home_drop:12084:108:_note","en":"Essence Sand — -4-grade Kibo rarity","ru":"Песок сущности — редкость кибо ранга -4"}
+{"id":"shared:home_drop:12091:109:_note","en":"Congealed Crystal Core — -1-grade Kibo rarity","ru":"Сгущённое кристальное ядро — редкость кибо ранга -1"}
+{"id":"shared:home_drop:12092:110:_note","en":"Congealed Crystal Core — -2-grade Kibo rarity","ru":"Сгущённое кристальное ядро — редкость кибо ранга -2"}
+{"id":"shared:home_drop:12093:111:_note","en":"Congealed Crystal Core — -3-grade Kibo rarity","ru":"Сгущённое кристальное ядро — редкость кибо ранга -3"}
+{"id":"shared:home_drop:12094:112:_note","en":"Congealed Crystal Core — -4-grade Kibo rarity","ru":"Сгущённое кристальное ядро — редкость кибо ранга -4"}
+{"id":"shared:home_drop:1210011:398:_note","en":"1 Star Goldwheat","ru":"1 звёздная золотая пшеница"}
+{"id":"shared:home_drop:1210012:399:_note","en":"2 Star Goldwheat","ru":"2 звёздная золотая пшеница"}
+{"id":"shared:home_drop:1210013:400:_note","en":"3 Star Goldwheat","ru":"3 звёздная золотая пшеница"}
+{"id":"shared:home_drop:1210014:401:_note","en":"4 Star Goldwheat","ru":"4 звёздная золотая пшеница"}
+{"id":"shared:home_drop:1210015:402:_note","en":"5 Star Goldwheat","ru":"5 звёздная золотая пшеница"}
+{"id":"shared:home_drop:1210016:403:_note","en":"2 Star Goldwheat - Ascension Yield","ru":"2 звёздная золотая пшеница — урожай возвышения"}
+{"id":"shared:home_drop:1210017:404:_note","en":"3 Star Goldwheat - Ascension Yield","ru":"3 звёздная золотая пшеница — урожай возвышения"}
+{"id":"shared:home_drop:1210018:405:_note","en":"4 Star Goldwheat - Ascension Yield","ru":"4 звёздная золотая пшеница — урожай возвышения"}
+{"id":"shared:home_drop:1210019:406:_note","en":"5 Star Goldwheat - Ascension Yield","ru":"5 звёздная золотая пшеница — урожай возвышения"}
+{"id":"shared:home_drop:1210021:407:_note","en":"1 Star Bountiful Corn","ru":"1 звёздная изобильная кукуруза"}
+{"id":"shared:home_drop:1210022:408:_note","en":"2 Star Bountiful Corn","ru":"2 звёздная изобильная кукуруза"}
+{"id":"shared:home_drop:1210023:409:_note","en":"3 Star Bountiful Corn","ru":"3 звёздная изобильная кукуруза"}
+{"id":"shared:home_drop:1210024:410:_note","en":"4 Star Bountiful Corn","ru":"4 звёздная изобильная кукуруза"}
+{"id":"shared:home_drop:1210025:411:_note","en":"5 Star Bountiful Corn","ru":"5 звёздная изобильная кукуруза"}
+{"id":"shared:home_drop:1210026:412:_note","en":"2 Star Bountiful Corn - Ascension Yield","ru":"2 звёздная изобильная кукуруза — урожай возвышения"}
+{"id":"shared:home_drop:1210027:413:_note","en":"3 Star Bountiful Corn - Ascension Yield","ru":"3 звёздная изобильная кукуруза — урожай возвышения"}
+{"id":"shared:home_drop:1210028:414:_note","en":"4 Star Bountiful Corn - Ascension Yield","ru":"4 звёздная изобильная кукуруза — урожай возвышения"}
+{"id":"shared:home_drop:1210029:415:_note","en":"5 Star Bountiful Corn - Ascension Yield","ru":"5 звёздная изобильная кукуруза — урожай возвышения"}
+{"id":"shared:home_drop:1210031:416:_note","en":"1 Star Crispheart Carrot","ru":"1 звёздная хрустящая морковь"}
+{"id":"shared:home_drop:1210032:417:_note","en":"2 Star Crispheart Carrot","ru":"2 звёздная хрустящая морковь"}
+{"id":"shared:home_drop:1210033:418:_note","en":"3 Star Crispheart Carrot","ru":"3 звёздная хрустящая морковь"}
+{"id":"shared:home_drop:1210034:419:_note","en":"4 Star Crispheart Carrot","ru":"4 звёздная хрустящая морковь"}
+{"id":"shared:home_drop:1210035:420:_note","en":"5 Star Crispheart Carrot","ru":"5 звёздная хрустящая морковь"}
+{"id":"shared:home_drop:1210036:421:_note","en":"2 Star Crispheart Carrot - Ascension Yield","ru":"2 звёздная хрустящая морковь — урожай возвышения"}
+{"id":"shared:home_drop:1210037:422:_note","en":"3 Star Crispheart Carrot - Ascension Yield","ru":"3 звёздная хрустящая морковь — урожай возвышения"}
+{"id":"shared:home_drop:1210038:423:_note","en":"4 Star Crispheart Carrot - Ascension Yield","ru":"4 звёздная хрустящая морковь — урожай возвышения"}
+{"id":"shared:home_drop:1210039:424:_note","en":"5 Star Crispheart Carrot - Ascension Yield","ru":"5 звёздная хрустящая морковь — урожай возвышения"}
+{"id":"shared:home_drop:1210041:425:_note","en":"1 Star Newmoon Potato","ru":"1 звёздный новолунный картофель"}
+{"id":"shared:home_drop:1210042:426:_note","en":"2 Star Newmoon Potato","ru":"2 звёздный новолунный картофель"}
+{"id":"shared:home_drop:1210043:427:_note","en":"3 Star Newmoon Potato","ru":"3 звёздный новолунный картофель"}
+{"id":"shared:home_drop:1210044:428:_note","en":"4 Star Newmoon Potato","ru":"4 звёздный новолунный картофель"}
+{"id":"shared:home_drop:1210045:429:_note","en":"5 Star Newmoon Potato","ru":"5 звёздный новолунный картофель"}
+{"id":"shared:home_drop:1210046:430:_note","en":"2 Star Newmoon Potato - Ascension Yield","ru":"2 звёздный новолунный картофель — урожай возвышения"}
+{"id":"shared:home_drop:1210047:431:_note","en":"3 Star Newmoon Potato - Ascension Yield","ru":"3 звёздный новолунный картофель — урожай возвышения"}
+{"id":"shared:home_drop:1210048:432:_note","en":"4 Star Newmoon Potato - Ascension Yield","ru":"4 звёздный новолунный картофель — урожай возвышения"}
+{"id":"shared:home_drop:1210049:433:_note","en":"5 Star Newmoon Potato - Ascension Yield","ru":"5 звёздный новолунный картофель — урожай возвышения"}
+{"id":"shared:home_drop:1210051:434:_note","en":"1 Star Wolf Pepper","ru":"1 звёздный волчий перец"}
+{"id":"shared:home_drop:1210052:435:_note","en":"2 Star Wolf Pepper","ru":"2 звёздный волчий перец"}
+{"id":"shared:home_drop:1210053:436:_note","en":"3 Star Wolf Pepper","ru":"3 звёздный волчий перец"}
+{"id":"shared:home_drop:1210054:437:_note","en":"4 Star Wolf Pepper","ru":"4 звёздный волчий перец"}
+{"id":"shared:home_drop:1210055:438:_note","en":"5 Star Wolf Pepper","ru":"5 звёздный волчий перец"}
+{"id":"shared:home_drop:1210056:439:_note","en":"2 Star Wolf Pepper - Ascension Yield","ru":"2 звёздный волчий перец — урожай возвышения"}
+{"id":"shared:home_drop:1210057:440:_note","en":"3 Star Wolf Pepper - Ascension Yield","ru":"3 звёздный волчий перец — урожай возвышения"}
+{"id":"shared:home_drop:1210058:441:_note","en":"4 Star Wolf Pepper - Ascension Yield","ru":"4 звёздный волчий перец — урожай возвышения"}
+{"id":"shared:home_drop:1210059:442:_note","en":"5 Star Wolf Pepper - Ascension Yield","ru":"5 звёздный волчий перец — урожай возвышения"}
+{"id":"shared:home_drop:1210061:443:_note","en":"1 Star Red Eggplant","ru":"1 звёздный красный баклажан"}
+{"id":"shared:home_drop:1210062:444:_note","en":"2 Star Red Eggplant","ru":"2 звёздный красный баклажан"}
+{"id":"shared:home_drop:1210063:445:_note","en":"3 Star Red Eggplant","ru":"3 звёздный красный баклажан"}
+{"id":"shared:home_drop:1210064:446:_note","en":"4 Star Red Eggplant","ru":"4 звёздный красный баклажан"}
+{"id":"shared:home_drop:1210065:447:_note","en":"5 Star Red Eggplant","ru":"5 звёздный красный баклажан"}
+{"id":"shared:home_drop:1210066:448:_note","en":"2 Star Red Eggplant - Ascension Yield","ru":"2 звёздный красный баклажан — урожай возвышения"}
+{"id":"shared:home_drop:1210067:449:_note","en":"3 Star Red Eggplant - Ascension Yield","ru":"3 звёздный красный баклажан — урожай возвышения"}
+{"id":"shared:home_drop:1210068:450:_note","en":"4 Star Red Eggplant - Ascension Yield","ru":"4 звёздный красный баклажан — урожай возвышения"}
+{"id":"shared:home_drop:1210069:451:_note","en":"5 Star Red Eggplant - Ascension Yield","ru":"5 звёздный красный баклажан — урожай возвышения"}
+{"id":"shared:home_drop:1210071:452:_note","en":"1 Star Sugarheart Cabbage","ru":"1 звёздная сахарная капуста"}
+{"id":"shared:home_drop:1210072:453:_note","en":"2 Star Sugarheart Cabbage","ru":"2 звёздная сахарная капуста"}
+{"id":"shared:home_drop:1210073:454:_note","en":"3 Star Sugarheart Cabbage","ru":"3 звёздная сахарная капуста"}
+{"id":"shared:home_drop:1210074:455:_note","en":"4 Star Sugarheart Cabbage","ru":"4 звёздная сахарная капуста"}
+{"id":"shared:home_drop:1210075:456:_note","en":"5 Star Sugarheart Cabbage","ru":"5 звёздная сахарная капуста"}
+{"id":"shared:home_drop:1210076:457:_note","en":"2 Star Sugarheart Cabbage - Ascension Yield","ru":"2 звёздная сахарная капуста — урожай возвышения"}
+{"id":"shared:home_drop:1210077:458:_note","en":"3 Star Sugarheart Cabbage – Ascension Output","ru":"3 Звёздная сахарная капуста — результат возвышения"}
+{"id":"shared:home_drop:1210078:459:_note","en":"4 Star Sugarheart Cabbage – Ascension Output","ru":"4 Звёздная сахарная капуста — результат возвышения"}
+{"id":"shared:home_drop:1210079:460:_note","en":"5 Star Sugarheart Cabbage – Ascension Output","ru":"5 Звёздная сахарная капуста — результат возвышения"}
+{"id":"shared:home_drop:1210081:461:_note","en":"1 Star Paipai","ru":"1 Звёздный Пайпай"}
+{"id":"shared:home_drop:1210082:462:_note","en":"2 Star Paipai","ru":"2 Звёздный Пайпай"}
+{"id":"shared:home_drop:1210083:463:_note","en":"3 Star Paipai","ru":"3 Звёздный Пайпай"}
+{"id":"shared:home_drop:1210084:464:_note","en":"4 Star Paipai","ru":"4 Звёздный Пайпай"}
+{"id":"shared:home_drop:1210085:465:_note","en":"5 Star Paipai","ru":"5 Звёздный Пайпай"}
+{"id":"shared:home_drop:1210086:466:_note","en":"2 Star Paipai – Ascension Output","ru":"2 Звёздный Пайпай — результат возвышения"}
+{"id":"shared:home_drop:1210087:467:_note","en":"3 Star Paipai – Ascension Output","ru":"3 Звёздный Пайпай — результат возвышения"}
+{"id":"shared:home_drop:1210088:468:_note","en":"4 Star Paipai – Ascension Output","ru":"4 Звёздный Пайпай — результат возвышения"}
+{"id":"shared:home_drop:1210089:469:_note","en":"5 Star Paipai – Ascension Output","ru":"5 Звёздный Пайпай — результат возвышения"}
+{"id":"shared:home_drop:1210091:470:_note","en":"1 Star Dewmelon","ru":"1 Звёздная росяная дыня"}
+{"id":"shared:home_drop:1210092:471:_note","en":"2 Star Dewmelon","ru":"2 Звёздная росяная дыня"}
+{"id":"shared:home_drop:1210093:472:_note","en":"3 Star Dewmelon","ru":"3 Звёздная росяная дыня"}
+{"id":"shared:home_drop:1210094:473:_note","en":"4 Star Dewmelon","ru":"4 Звёздная росяная дыня"}
+{"id":"shared:home_drop:1210095:474:_note","en":"5 Star Dewmelon","ru":"5 Звёздная росяная дыня"}
+{"id":"shared:home_drop:1210096:475:_note","en":"2 Star Dewmelon – Ascension Output","ru":"2 Звёздная росяная дыня — результат возвышения"}
+{"id":"shared:home_drop:1210097:476:_note","en":"3 Star Dewmelon – Ascension Output","ru":"3 Звёздная росяная дыня — результат возвышения"}
+{"id":"shared:home_drop:1210098:477:_note","en":"4 Star Dewmelon – Ascension Output","ru":"4 Звёздная росяная дыня — результат возвышения"}
+{"id":"shared:home_drop:1210099:478:_note","en":"5 Star Dewmelon – Ascension Output","ru":"5 Звёздная росяная дыня — результат возвышения"}
+{"id":"shared:home_drop:1210101:479:_note","en":"1 Star Goldsand Pumpkin","ru":"1 Звёздная золотопесчаная тыква"}
+{"id":"shared:home_drop:1210102:480:_note","en":"2 Star Goldsand Pumpkin","ru":"2 Звёздная золотопесчаная тыква"}
+{"id":"shared:home_drop:1210103:481:_note","en":"3 Star Goldsand Pumpkin","ru":"3 Звёздная золотопесчаная тыква"}
+{"id":"shared:home_drop:1210104:482:_note","en":"4 Star Goldsand Pumpkin","ru":"4 Звёздная золотопесчаная тыква"}
+{"id":"shared:home_drop:1210105:483:_note","en":"5 Star Goldsand Pumpkin","ru":"5 Звёздная золотопесчаная тыква"}
+{"id":"shared:home_drop:1210106:484:_note","en":"2 Star Goldsand Pumpkin – Ascension Output","ru":"2 Звёздная золотопесчаная тыква — результат возвышения"}
+{"id":"shared:home_drop:1210107:485:_note","en":"3 Star Goldsand Pumpkin – Ascension Output","ru":"3 Звёздная золотопесчаная тыква — результат возвышения"}
+{"id":"shared:home_drop:1210108:486:_note","en":"4 Star Goldsand Pumpkin – Ascension Output","ru":"4 Звёздная золотопесчаная тыква — результат возвышения"}
+{"id":"shared:home_drop:1210109:487:_note","en":"5 Star Goldsand Pumpkin – Ascension Output","ru":"5 Звёздная золотопесчаная тыква — результат возвышения"}
+{"id":"shared:home_drop:1210110:488:_note","en":"Gilded Goldwheat","ru":"Позолоченная золотая пшеница"}
+{"id":"shared:home_drop:1210111:489:_note","en":"Gilded Plump Corn","ru":"Позолоченная наливная кукуруза"}
+{"id":"shared:home_drop:1210112:490:_note","en":"Gilded Crispheart Carrot","ru":"Позолоченная хрусткосердечная морковь"}
+{"id":"shared:home_drop:1210113:491:_note","en":"Gilded Crescent Potato","ru":"Позолоченный полумесячный картофель"}
+{"id":"shared:home_drop:1210114:492:_note","en":"Gilded Wolf Pepper","ru":"Позолоченный волчий перец"}
+{"id":"shared:home_drop:1210115:493:_note","en":"Gilded Red Eggplant","ru":"Позолоченный красный баклажан"}
+{"id":"shared:home_drop:1210116:494:_note","en":"Gilded Dewmelon","ru":"Позолоченная росяная дыня"}
+{"id":"shared:home_drop:1210117:495:_note","en":"Gilded Sugarheart Cabbage","ru":"Позолоченная сахарная капуста"}
+{"id":"shared:home_drop:1210118:496:_note","en":"Gilded Goldsand Pumpkin","ru":"Позолоченная золотопесчаная тыква"}
+{"id":"shared:home_drop:1210119:497:_note","en":"Gilded Paipai","ru":"Позолоченный Пайпай"}
+{"id":"shared:home_drop:1210120:498:_note","en":"Farming EXP16","ru":"Опыт земледелия16"}
+{"id":"shared:home_drop:1210121:499:_note","en":"Farming EXP33","ru":"Опыт земледелия33"}
+{"id":"shared:home_drop:1210122:500:_note","en":"Farming EXP49","ru":"Опыт земледелия49"}
+{"id":"shared:home_drop:1210123:501:_note","en":"Farming EXP65","ru":"Опыт земледелия65"}
+{"id":"shared:home_drop:1210124:502:_note","en":"Farming EXP98","ru":"Опыт земледелия98"}
+{"id":"shared:home_drop:1210125:503:_note","en":"Farming EXP130","ru":"Опыт земледелия130"}
+{"id":"shared:home_drop:1210126:504:_note","en":"Farming EXP260","ru":"Опыт земледелия260"}
+{"id":"shared:home_drop:12101:113:_note","en":"Steady Core — -1-grade Kibo rarity","ru":"Стабильное ядро — редкость кибо ранга -1"}
+{"id":"shared:home_drop:12102:114:_note","en":"Steady Core — -2-grade Kibo rarity","ru":"Стабильное ядро — редкость кибо ранга -2"}
+{"id":"shared:home_drop:12103:115:_note","en":"Steady Core — -3-grade Kibo rarity","ru":"Стабильное ядро — редкость кибо ранга -3"}
+{"id":"shared:home_drop:12104:116:_note","en":"Steady Core — -4-grade Kibo rarity","ru":"Стабильное ядро — редкость кибо ранга -4"}
+{"id":"shared:home_drop:12111:117:_note","en":"Skyvein Leaf — -1-grade Kibo rarity","ru":"Лист небесной жилы — редкость кибо ранга -1"}
+{"id":"shared:home_drop:12112:118:_note","en":"Skyvein Leaf — -2-grade Kibo rarity","ru":"Лист небесной жилы — редкость кибо ранга -2"}
+{"id":"shared:home_drop:12113:119:_note","en":"Skyvein Leaf — -3-grade Kibo rarity","ru":"Лист небесной жилы — редкость кибо ранга -3"}
+{"id":"shared:home_drop:12114:120:_note","en":"Skyvein Leaf — -4-grade Kibo rarity","ru":"Лист небесной жилы — редкость кибо ранга -4"}
+{"id":"shared:home_drop:121301000:883:_note","en":"Sprout Valley Tier -1 Quarry — Duststone","ru":"Долина Ростков, каменоломня -1 уровня — пыльный камень"}
+{"id":"shared:home_drop:121318001:884:_note","en":"Sprout Valley Tier -1 Quarry — Clay","ru":"Долина Ростков, каменоломня -1 уровня — глина"}
+{"id":"shared:home_drop:1220011:505:_note","en":"1 Star Goldwheat Seeds","ru":"1 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1220012:506:_note","en":"2 Star Goldwheat Seeds","ru":"2 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1220013:507:_note","en":"3 Star Goldwheat Seeds","ru":"3 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1220014:508:_note","en":"4 Star Goldwheat Seeds","ru":"4 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1220015:509:_note","en":"5 Star Goldwheat Seeds","ru":"5 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1220016:510:_note","en":"2 Star Goldwheat Seeds – Ascension Drop","ru":"2 Семена звёздной золотой пшеницы — награда возвышения"}
+{"id":"shared:home_drop:1220017:511:_note","en":"3 Star Goldwheat Seeds – Ascension Drop","ru":"3 Семена звёздной золотой пшеницы — награда возвышения"}
+{"id":"shared:home_drop:1220018:512:_note","en":"4 Star Goldwheat Seeds – Ascension Drop","ru":"4 Семена звёздной золотой пшеницы — награда возвышения"}
+{"id":"shared:home_drop:1220019:513:_note","en":"5 Star Goldwheat Seeds – Ascension Drop","ru":"5 Семена звёздной золотой пшеницы — награда возвышения"}
+{"id":"shared:home_drop:1220021:514:_note","en":"1 Star Plump Corn Seeds","ru":"1 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1220022:515:_note","en":"2 Star Plump Corn Seeds","ru":"2 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1220023:516:_note","en":"3 Star Plump Corn Seeds","ru":"3 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1220024:517:_note","en":"4 Star Plump Corn Seeds","ru":"4 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1220025:518:_note","en":"5 Star Plump Corn Seeds","ru":"5 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1220026:519:_note","en":"2 Star Plump Corn Seeds – Ascension Drop","ru":"2 Семена звёздной наливной кукурузы — награда возвышения"}
+{"id":"shared:home_drop:1220027:520:_note","en":"3 Star Plump Corn Seeds – Ascension Drop","ru":"3 Семена звёздной наливной кукурузы — награда возвышения"}
+{"id":"shared:home_drop:1220028:521:_note","en":"4 Star Plump Corn Seeds – Ascension Drop","ru":"4 Семена звёздной наливной кукурузы — награда возвышения"}
+{"id":"shared:home_drop:1220029:522:_note","en":"5 Star Plump Corn Seeds – Ascension Drop","ru":"5 Семена звёздной наливной кукурузы — награда возвышения"}
+{"id":"shared:home_drop:1220031:523:_note","en":"1 Star Crispheart Carrot Seeds","ru":"1 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1220032:524:_note","en":"2 Star Crispheart Carrot Seeds","ru":"2 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1220033:525:_note","en":"3 Star Crispheart Carrot Seeds","ru":"3 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1220034:526:_note","en":"4 Star Crispheart Carrot Seeds","ru":"4 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1220035:527:_note","en":"5 Star Crispheart Carrot Seeds","ru":"5 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1220036:528:_note","en":"2 Star Crispheart Carrot Seeds – Ascension Drop","ru":"2 Семена звёздной хрусткосердечной моркови — награда возвышения"}
+{"id":"shared:home_drop:1220037:529:_note","en":"3 Star Crispheart Carrot Seeds – Ascension Drop","ru":"3 Семена звёздной хрусткосердечной моркови — награда возвышения"}
+{"id":"shared:home_drop:1220038:530:_note","en":"4 Star Crispheart Carrot Seeds – Ascension Drop","ru":"4 Семена звёздной хрусткосердечной моркови — награда возвышения"}
+{"id":"shared:home_drop:1220039:531:_note","en":"5 Star Crispheart Carrot Seeds – Ascension Drop","ru":"5 Семена звёздной хрусткосердечной моркови — награда возвышения"}
+{"id":"shared:home_drop:1220041:532:_note","en":"1 Star Crescent Potato Seeds","ru":"1 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1220042:533:_note","en":"2 Star Crescent Potato Seeds","ru":"2 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1220043:534:_note","en":"3 Star Crescent Potato Seeds","ru":"3 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1220044:535:_note","en":"4 Star Crescent Potato Seeds","ru":"4 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1220045:536:_note","en":"5 Star Crescent Potato Seeds","ru":"5 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1220046:537:_note","en":"2 Star Crescent Potato Seeds – Ascension Drop","ru":"2 Семена звёздного полумесячного картофеля — награда возвышения"}
+{"id":"shared:home_drop:1220047:538:_note","en":"3 Star Crescent Potato Seeds – Ascension Drop","ru":"3 Семена звёздного полумесячного картофеля — награда возвышения"}
+{"id":"shared:home_drop:1220048:539:_note","en":"4 Star Crescent Potato Seeds – Ascension Drop","ru":"4 Семена звёздного полумесячного картофеля — награда возвышения"}
+{"id":"shared:home_drop:1220049:540:_note","en":"5 Star Crescent Potato Seeds – Ascension Drop","ru":"5 Семена звёздного полумесячного картофеля — награда возвышения"}
+{"id":"shared:home_drop:1220051:541:_note","en":"1 Star Wolf Pepper Seeds","ru":"1 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1220052:542:_note","en":"2 Star Wolf Pepper Seeds","ru":"2 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1220053:543:_note","en":"3 Star Wolf Pepper Seeds","ru":"3 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1220054:544:_note","en":"4 Star Wolf Pepper Seeds","ru":"4 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1220055:545:_note","en":"5 Star Wolf Pepper Seeds","ru":"5 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1220056:546:_note","en":"2 Star Wolf Pepper Seeds – Ascension Drop","ru":"2 Семена звёздного волчьего перца — награда возвышения"}
+{"id":"shared:home_drop:1220057:547:_note","en":"3 Star Wolf Pepper Seeds – Ascension Drop","ru":"3 Семена звёздного волчьего перца — награда возвышения"}
+{"id":"shared:home_drop:1220058:548:_note","en":"4 Star Wolf Pepper Seeds – Ascension Drop","ru":"4 Семена звёздного волчьего перца — награда возвышения"}
+{"id":"shared:home_drop:1220059:549:_note","en":"5 Star Wolf Pepper Seeds – Ascension Drop","ru":"5 Семена звёздного волчьего перца — награда возвышения"}
+{"id":"shared:home_drop:1220061:550:_note","en":"1Star Tomato Seed","ru":"1Семена звёздного томата"}
+{"id":"shared:home_drop:1220062:551:_note","en":"2Star Tomato Seed","ru":"2Семена звёздного томата"}
+{"id":"shared:home_drop:1220063:552:_note","en":"3Star Tomato Seed","ru":"3Семена звёздного томата"}
+{"id":"shared:home_drop:1220064:553:_note","en":"4Star Tomato Seed","ru":"4Семена звёздного томата"}
+{"id":"shared:home_drop:1220065:554:_note","en":"5Star Tomato Seed","ru":"5Семена звёздного томата"}
+{"id":"shared:home_drop:1220066:555:_note","en":"2Star Tomato Seed – Ascension Drop","ru":"2Семена звёздного томата – дроп при возвышении"}
+{"id":"shared:home_drop:1220067:556:_note","en":"3Star Tomato Seed – Ascension Drop","ru":"3Семена звёздного томата – дроп при возвышении"}
+{"id":"shared:home_drop:1220068:557:_note","en":"4Star Tomato Seed – Ascension Drop","ru":"4Семена звёздного томата – дроп при возвышении"}
+{"id":"shared:home_drop:1220069:558:_note","en":"5Star Tomato Seed – Ascension Drop","ru":"5Семена звёздного томата – дроп при возвышении"}
+{"id":"shared:home_drop:1220071:559:_note","en":"1Star Sugarheart Cabbage Seed","ru":"1Семена звёздной сахарной капусты"}
+{"id":"shared:home_drop:1220072:560:_note","en":"2Star Sugarheart Cabbage Seed","ru":"2Семена звёздной сахарной капусты"}
+{"id":"shared:home_drop:1220073:561:_note","en":"3Star Sugarheart Cabbage Seed","ru":"3Семена звёздной сахарной капусты"}
+{"id":"shared:home_drop:1220074:562:_note","en":"4Star Sugarheart Cabbage Seed","ru":"4Семена звёздной сахарной капусты"}
+{"id":"shared:home_drop:1220075:563:_note","en":"5Star Sugarheart Cabbage Seed","ru":"5Семена звёздной сахарной капусты"}
+{"id":"shared:home_drop:1220076:564:_note","en":"2Star Sugarheart Cabbage Seed – Ascension Drop","ru":"2Семена звёздной сахарной капусты – дроп при возвышении"}
+{"id":"shared:home_drop:1220077:565:_note","en":"3Star Sugarheart Cabbage Seed – Ascension Drop","ru":"3Семена звёздной сахарной капусты – дроп при возвышении"}
+{"id":"shared:home_drop:1220078:566:_note","en":"4Star Sugarheart Cabbage Seed – Ascension Drop","ru":"4Семена звёздной сахарной капусты – дроп при возвышении"}
+{"id":"shared:home_drop:1220079:567:_note","en":"5Star Sugarheart Cabbage Seed – Ascension Drop","ru":"5Семена звёздной сахарной капусты – дроп при возвышении"}
+{"id":"shared:home_drop:1220081:568:_note","en":"1Star Pipi Seed","ru":"1Семена звёздной пипи"}
+{"id":"shared:home_drop:1220082:569:_note","en":"2Star Pipi Seed","ru":"2Семена звёздной пипи"}
+{"id":"shared:home_drop:1220083:570:_note","en":"3Star Pipi Seed","ru":"3Семена звёздной пипи"}
+{"id":"shared:home_drop:1220084:571:_note","en":"4Star Pipi Seed","ru":"4Семена звёздной пипи"}
+{"id":"shared:home_drop:1220085:572:_note","en":"5Star Pipi Seed","ru":"5Семена звёздной пипи"}
+{"id":"shared:home_drop:1220086:573:_note","en":"2Star Pipi Seed","ru":"2Семена звёздной пипи"}
+{"id":"shared:home_drop:1220087:574:_note","en":"3Star Pipi Seed","ru":"3Семена звёздной пипи"}
+{"id":"shared:home_drop:1220088:575:_note","en":"4Star Pipi Seed","ru":"4Семена звёздной пипи"}
+{"id":"shared:home_drop:1220089:576:_note","en":"5Star Pipi Seed","ru":"5Семена звёздной пипи"}
+{"id":"shared:home_drop:1220091:577:_note","en":"1Star Watermelon Seed","ru":"1Семена звёздного водяного арбуза"}
+{"id":"shared:home_drop:1220092:578:_note","en":"2Star Watermelon Seed","ru":"2Семена звёздного водяного арбуза"}
+{"id":"shared:home_drop:1220093:579:_note","en":"3Star Watermelon Seed","ru":"3Семена звёздного водяного арбуза"}
+{"id":"shared:home_drop:1220094:580:_note","en":"4Star Watermelon Seed","ru":"4Семена звёздного водяного арбуза"}
+{"id":"shared:home_drop:1220095:581:_note","en":"5Star Watermelon Seed","ru":"5Семена звёздного водяного арбуза"}
+{"id":"shared:home_drop:1220096:582:_note","en":"2Star Watermelon Seed","ru":"2Семена звёздного водяного арбуза"}
+{"id":"shared:home_drop:1220097:583:_note","en":"3Star Watermelon Seed","ru":"3Семена звёздного водяного арбуза"}
+{"id":"shared:home_drop:1220098:584:_note","en":"4Star Watermelon Seed","ru":"4Семена звёздного водяного арбуза"}
+{"id":"shared:home_drop:1220099:585:_note","en":"5Star Watermelon Seed","ru":"5Семена звёздного водяного арбуза"}
+{"id":"shared:home_drop:1220101:586:_note","en":"1Star Golden Sand Pumpkin Seed","ru":"1Семена звёздной золотопесочной тыквы"}
+{"id":"shared:home_drop:1220102:587:_note","en":"2Star Golden Sand Pumpkin Seed","ru":"2Семена звёздной золотопесочной тыквы"}
+{"id":"shared:home_drop:1220103:588:_note","en":"3Star Golden Sand Pumpkin Seed","ru":"3Семена звёздной золотопесочной тыквы"}
+{"id":"shared:home_drop:1220104:589:_note","en":"4Star Golden Sand Pumpkin Seed","ru":"4Семена звёздной золотопесочной тыквы"}
+{"id":"shared:home_drop:1220105:590:_note","en":"5Star Golden Sand Pumpkin Seed","ru":"5Семена звёздной золотопесочной тыквы"}
+{"id":"shared:home_drop:1220106:591:_note","en":"2Star Golden Sand Pumpkin Seed","ru":"2Семена звёздной золотопесочной тыквы"}
+{"id":"shared:home_drop:1220107:592:_note","en":"3Star Golden Sand Pumpkin Seed","ru":"3Семена звёздной золотопесочной тыквы"}
+{"id":"shared:home_drop:1220108:593:_note","en":"4Star Golden Sand Pumpkin Seed","ru":"4Семена звёздной золотопесочной тыквы"}
+{"id":"shared:home_drop:1220109:594:_note","en":"5Star Golden Sand Pumpkin Seed","ru":"5Семена звёздной золотопесочной тыквы"}
+{"id":"shared:home_drop:122301000:885:_note","en":"Sprout Valley Tier -2 Quarry — Duststone","ru":"Долина Ростков, каменоломня -2 уровня — пыльный камень"}
+{"id":"shared:home_drop:122318001:886:_note","en":"Sprout Valley Tier -2 Quarry — Clay","ru":"Долина Ростков, каменоломня -2 уровня — глина"}
+{"id":"shared:home_drop:12300000:853:_note","en":"Lumber Camp — Facility2 — Softwood","ru":"Лесопилка — объект2 — мягкая древесина"}
+{"id":"shared:home_drop:12300006:854:_note","en":"Lumber Camp — Facility2 — Sapstone Wood","ru":"Лесопилка — объект2 — сок-камень древесина"}
+{"id":"shared:home_drop:1230001:595:_note","en":"Moonweave Flax","ru":"Луннотканый лён"}
+{"id":"shared:home_drop:1230002:596:_note","en":"Cloudtail Cotton","ru":"Хлопок облачного хвоста"}
+{"id":"shared:home_drop:12317001:855:_note","en":"Lumber Camp — Facility2 — Fiber","ru":"Лесопилка — объект2 — волокно"}
+{"id":"shared:home_drop:1240001:597:_note","en":"Moonweave Flax Seed","ru":"Семена луннотканого льна"}
+{"id":"shared:home_drop:1240002:598:_note","en":"Cloudtail Cotton Seed","ru":"Семена хлопка облачного хвоста"}
+{"id":"shared:home_drop:1250001:599:_note","en":"Manderdrake Grass","ru":"Трава мандердрейка"}
+{"id":"shared:home_drop:1250002:600:_note","en":"Dewdrop Flower","ru":"Цветок росы"}
+{"id":"shared:home_drop:1250003:601:_note","en":"Ember Mushroom","ru":"Тлеющий гриб"}
+{"id":"shared:home_drop:1250004:602:_note","en":"Sky Lotus","ru":"Небесный лотос"}
+{"id":"shared:home_drop:1250005:603:_note","en":"Frostwolf Reed","ru":"Тростник морозного волка"}
+{"id":"shared:home_drop:1250006:604:_note","en":"Thunderfruit","ru":"Громовой плод"}
+{"id":"shared:home_drop:1250007:605:_note","en":"Whisker Grass","ru":"Усиковая трава"}
+{"id":"shared:home_drop:1250008:606:_note","en":"Nightglow Mushroom","ru":"Ночной светогриб"}
+{"id":"shared:home_drop:1250009:607:_note","en":"Shadegrass","ru":"Теневая трава"}
+{"id":"shared:home_drop:1260001:608:_note","en":"Manderdrake Grass Seed","ru":"Семена травы мандердрейка"}
+{"id":"shared:home_drop:1260002:609:_note","en":"Dewdrop Flower Seed","ru":"Семена цветка росы"}
+{"id":"shared:home_drop:1260003:610:_note","en":"Ember Mushroom Spore","ru":"Споры тлеющего гриба"}
+{"id":"shared:home_drop:1260004:611:_note","en":"Sky Lotus Seed","ru":"Семена небесного лотоса"}
+{"id":"shared:home_drop:1260005:612:_note","en":"Frostwolf Reed Seed","ru":"Семена тростника морозного волка"}
+{"id":"shared:home_drop:1260006:613:_note","en":"Thunderfruit Seed","ru":"Семена громового плода"}
+{"id":"shared:home_drop:1260007:614:_note","en":"Whisker Grass Seed","ru":"Семена усиковой травы"}
+{"id":"shared:home_drop:1260008:615:_note","en":"Nightglow Mushroom Spore","ru":"Споры ночного светогриба"}
+{"id":"shared:home_drop:1260009:616:_note","en":"Shadegrass Seed","ru":"Семена теневой травы"}
+{"id":"shared:home_drop:1260010:617:_note","en":"1Starwhisper Tree Seed","ru":"1Семена звездошёпотного дерева"}
+{"id":"shared:home_drop:1260011:618:_note","en":"2Starwhisper Tree Seed","ru":"2Семена звездошёпотного дерева"}
+{"id":"shared:home_drop:1260012:619:_note","en":"3Starwhisper Tree Seed","ru":"3Семена звездошёпотного дерева"}
+{"id":"shared:home_drop:1260013:620:_note","en":"4Starwhisper Tree Seed","ru":"4Семена звездошёпотного дерева"}
+{"id":"shared:home_drop:1260014:621:_note","en":"5Starwhisper Tree Seed","ru":"5Семена звездошёпотного дерева"}
+{"id":"shared:home_drop:1260015:622:_note","en":"1Star Poli Berry Seed","ru":"1Семена звёздной ягоды поли"}
+{"id":"shared:home_drop:1260016:623:_note","en":"2Star Poli Berry Seed","ru":"2Семена звёздной ягоды поли"}
+{"id":"shared:home_drop:1260017:624:_note","en":"3Star Poli Berry Seed","ru":"3Семена звёздной ягоды поли"}
+{"id":"shared:home_drop:1260018:625:_note","en":"4Star Poli Berry Seed","ru":"4Семена звёздной ягоды поли"}
+{"id":"shared:home_drop:1260019:626:_note","en":"5Star Poli Berry Seed","ru":"5Семена звёздной ягоды поли"}
+{"id":"shared:home_drop:1260020:627:_note","en":"1Starlife Lantern Seed","ru":"1Семена звёздного фонарика жизни"}
+{"id":"shared:home_drop:1260021:628:_note","en":"2Starlife Lantern Seed","ru":"2Семена звёздного фонарика жизни"}
+{"id":"shared:home_drop:1260022:629:_note","en":"3Starlife Lantern Seed","ru":"3Семена звёздного фонарика жизни"}
+{"id":"shared:home_drop:1260023:630:_note","en":"4Starlife Lantern Seed","ru":"4Семена звёздного фонарика жизни"}
+{"id":"shared:home_drop:1260024:631:_note","en":"5Starlife Lantern Seed","ru":"5Семена звёздного фонарика жизни"}
+{"id":"shared:home_drop:1260025:632:_note","en":"1Starscale Shellfruit Seed","ru":"1Семена звездочешуйчатого плода-раковины"}
+{"id":"shared:home_drop:1260026:633:_note","en":"2Starscale Shellfruit Seed","ru":"2Семена звездочешуйчатого плода-раковины"}
+{"id":"shared:home_drop:1260027:634:_note","en":"3Starscale Shellfruit Seed","ru":"3Семена звездочешуйчатого плода-раковины"}
+{"id":"shared:home_drop:1260028:635:_note","en":"4Starscale Shellfruit Seed","ru":"4Семена звездочешуйчатого плода-раковины"}
+{"id":"shared:home_drop:1260029:636:_note","en":"5Starscale Shellfruit Seed","ru":"5Семена звездочешуйчатого плода-раковины"}
+{"id":"shared:home_drop:1260030:637:_note","en":"1Star Spirit Guardian Fruit Seed","ru":"1Семена звёздного плода-хранителя духов"}
+{"id":"shared:home_drop:1260031:638:_note","en":"2Star Spirit Guardian Fruit Seed","ru":"2Семена звёздного плода-хранителя духов"}
+{"id":"shared:home_drop:1260032:639:_note","en":"3Star Spirit Guardian Fruit Seed","ru":"3Семена звёздного плода-хранителя духов"}
+{"id":"shared:home_drop:1260033:640:_note","en":"4Star Spirit Guardian Fruit Seed","ru":"4Семена звёздного плода-хранителя духов"}
+{"id":"shared:home_drop:1260034:641:_note","en":"5Star Spirit Guardian Fruit Seed","ru":"5Семена звёздного плода-хранителя духов"}
+{"id":"shared:home_drop:1261001:642:_note","en":"1Star Factor Tree Seed","ru":"1Семена звёздного факторного дерева"}
+{"id":"shared:home_drop:1261002:643:_note","en":"2Star Factor Tree Seed","ru":"2Семена звёздного факторного дерева"}
+{"id":"shared:home_drop:1261003:644:_note","en":"3Star Factor Tree Seed","ru":"3Семена звёздного факторного дерева"}
+{"id":"shared:home_drop:1261004:645:_note","en":"4Star Factor Tree Seed","ru":"4Семена звёздного факторного дерева"}
+{"id":"shared:home_drop:1261005:646:_note","en":"5Star Factor Tree Seed","ru":"5Семена звёздного факторного дерева"}
+{"id":"shared:home_drop:1261006:647:_note","en":"Crimson Factor Fruit","ru":"Багряный фактор-плод"}
+{"id":"shared:home_drop:1261007:648:_note","en":"Red Factor Fruit","ru":"Красный фактор-плод"}
+{"id":"shared:home_drop:1261008:649:_note","en":"Blue Factor Fruit","ru":"Синий фактор-плод"}
+{"id":"shared:home_drop:1261009:650:_note","en":"Purple Factor Fruit","ru":"Фиолетовый фактор-плод"}
+{"id":"shared:home_drop:1261010:651:_note","en":"Gold Factor Fruit","ru":"Золотой фактор-плод"}
+{"id":"shared:home_drop:1280011:652:_note","en":"1 Star Goldwheat Seeds","ru":"1 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1280012:653:_note","en":"2 Star Goldwheat Seeds","ru":"2 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1280013:654:_note","en":"3 Star Goldwheat Seeds","ru":"3 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1280014:655:_note","en":"4 Star Goldwheat Seeds","ru":"4 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1280015:656:_note","en":"5 Star Goldwheat Seeds","ru":"5 Семена звёздной золотой пшеницы"}
+{"id":"shared:home_drop:1280021:657:_note","en":"1 Star Plump Corn Seeds","ru":"1 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1280022:658:_note","en":"2 Star Plump Corn Seeds","ru":"2 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1280023:659:_note","en":"3 Star Plump Corn Seeds","ru":"3 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1280024:660:_note","en":"4 Star Plump Corn Seeds","ru":"4 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1280025:661:_note","en":"5 Star Plump Corn Seeds","ru":"5 Семена звёздной наливной кукурузы"}
+{"id":"shared:home_drop:1280031:662:_note","en":"1 Star Crispheart Carrot Seeds","ru":"1 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1280032:663:_note","en":"2 Star Crispheart Carrot Seeds","ru":"2 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1280033:664:_note","en":"3 Star Crispheart Carrot Seeds","ru":"3 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1280034:665:_note","en":"4 Star Crispheart Carrot Seeds","ru":"4 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1280035:666:_note","en":"5 Star Crispheart Carrot Seeds","ru":"5 Семена звёздной хрусткосердечной моркови"}
+{"id":"shared:home_drop:1280041:667:_note","en":"1 Star Crescent Potato Seeds","ru":"1 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1280042:668:_note","en":"2 Star Crescent Potato Seeds","ru":"2 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1280043:669:_note","en":"3 Star Crescent Potato Seeds","ru":"3 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1280044:670:_note","en":"4 Star Crescent Potato Seeds","ru":"4 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1280045:671:_note","en":"5 Star Crescent Potato Seeds","ru":"5 Семена звёздного полумесячного картофеля"}
+{"id":"shared:home_drop:1280051:672:_note","en":"1 Star Wolf Pepper Seeds","ru":"1 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1280052:673:_note","en":"2 Star Wolf Pepper Seeds","ru":"2 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1280053:674:_note","en":"3 Star Wolf Pepper Seeds","ru":"3 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1280054:675:_note","en":"4 Star Wolf Pepper Seeds","ru":"4 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1280055:676:_note","en":"5 Star Wolf Pepper Seeds","ru":"5 Семена звёздного волчьего перца"}
+{"id":"shared:home_drop:1280061:677:_note","en":"1Star Tomato Seed","ru":"1Семена звёздного томата"}
+{"id":"shared:home_drop:1280062:678:_note","en":"2Star Tomato Seed","ru":"2Семена звёздного томата"}
+{"id":"shared:home_drop:1280063:679:_note","en":"3Star Tomato Seed","ru":"3Семена звёздного томата"}
+{"id":"shared:home_drop:1280064:680:_note","en":"4Star Tomato Seed","ru":"4Семена звёздного томата"}
+{"id":"shared:home_drop:1280065:681:_note","en":"5Star Tomato Seed","ru":"5Семена звёздного томата"}
+{"id":"shared:home_drop:129001:156:_note","en":"Otherworld Stone","ru":"Запредельный камень"}
+{"id":"shared:home_drop:129002:157:_note","en":"Relic Stone","ru":"Камень наследия"}
+{"id":"shared:home_drop:129003:158:_note","en":"Burnstone","ru":"Жгучий камень"}
+{"id":"shared:home_drop:129004:159:_note","en":"Cipher Rune Stone","ru":"Рунный камень шифра"}
+{"id":"shared:home_drop:130001:160:_note","en":"Impure Metal","ru":"Неочищенный металл"}
+{"id":"shared:home_drop:130002:161:_note","en":"Associated Metal","ru":"Сопутствующий металл"}
+{"id":"shared:home_drop:130003:162:_note","en":"Skyiron Ore","ru":"Небесная железная руда"}
+{"id":"shared:home_drop:130004:163:_note","en":"Windcopper Ore","ru":"Ветряная медная руда"}
+{"id":"shared:home_drop:130005:164:_note","en":"Radiance Ore","ru":"Сияющая руда"}
+{"id":"shared:home_drop:130006:165:_note","en":"Silver Ore","ru":"Серебряная руда"}
+{"id":"shared:home_drop:1300111201:1193:_note","en":"Base Yield - Grove Orchard - Softwood (-100 Chance)","ru":"Базовая добыча — садовый лес: мягкая древесина (шанс -100)"}
+{"id":"shared:home_drop:1300111202:1194:_note","en":"Fleece Lumber Camp A Unlock - Grove Orchard - Hardwood (-100 Chance)","ru":"Лесозаготовка Флиса A — открытие: садовый лес, твёрдая древесина (шанс -100)"}
+{"id":"shared:home_drop:1300111203:1195:_note","en":"Base Yield - Grove Orchard - Fiber (-100 Chance)","ru":"Базовая добыча — садовый лес: волокно (шанс -100)"}
+{"id":"shared:home_drop:1300111204:1196:_note","en":"Base Yield - Grove Orchard - Speckled Red Mushroom (-40% Chance, 1 pcs.)","ru":"Базовая добыча — садовый лес: крапчатый красный гриб (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300111205:1197:_note","en":"Base Yield - Grove Orchard - Speckled Red Mushroom (-20% Chance, 2 pcs.)","ru":"Базовая добыча — садовый лес: крапчатый красный гриб (шанс -20%, 2 шт.)"}
+{"id":"shared:home_drop:1300111206:1198:_note","en":"Base Yield - Grove Orchard - Red Fruit (-40% Chance, 1 pcs.)","ru":"Базовая добыча — садовый лес: красный плод (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300111207:1199:_note","en":"Base Yield - Grove Orchard - Red Fruit (-20% Chance, 2 pcs.)","ru":"Базовая добыча — садовый лес: красный плод (шанс -20%, 2 шт.)"}
+{"id":"shared:home_drop:1300111208:1200:_note","en":"Sprout Valley Gathering Hut A Unlock - Grove Orchard - Clear Moon Fruit (-40% Chance, 1 pcs.)","ru":"Хижина сбора Долины Ростков A — открытие: садовый лес, плод ясной луны (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300111209:1201:_note","en":"Sprout Valley Gathering Hut A Unlock - Grove Orchard - Clear Moon Fruit (-20% Chance, 2 pcs.)","ru":"Хижина сбора Долины Ростков A — открытие: садовый лес, плод ясной луны (шанс -20%, 2 шт.)"}
+{"id":"shared:home_drop:1300111210:1202:_note","en":"Sprout Valley Gathering Hut B Unlock - Grove Orchard - Bitter Sun Fruit (-40% Chance, 1 pcs.)","ru":"Хижина сбора Долины Ростков B — открытие: садовый лес, горький солнечный плод (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300111211:1203:_note","en":"Sprout Valley Gathering Hut B Unlock - Grove Orchard - Bitter Sun Fruit (-20% Chance, 2 pcs.)","ru":"Хижина сбора Долины Ростков B — открытие: садовый лес, горький солнечный плод (шанс -20%, 2 шт.)"}
+{"id":"shared:home_drop:1300111212:1204:_note","en":"Sprout Valley Gathering Hut C Unlock - Grove Orchard - Peach Lychee (-40% Chance, 1 pcs.)","ru":"Хижина сбора Долины Ростков C — открытие: садовый лес, персиковый личжи (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300111213:1205:_note","en":"Sprout Valley Gathering Hut C Unlock - Grove Orchard - Peach Lychee (-20% Chance, 2 pcs.)","ru":"Хижина сбора Долины Ростков C — открытие: садовый лес, персиковый личжи (шанс -20%, 2 шт.)"}
+{"id":"shared:home_drop:1300111214:1206:_note","en":"Base Yield - Grove Orchard - Juice Stone (-40% Chance, 1 pcs.)","ru":"Базовая добыча — садовый лес: соковый камень (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300111215:1207:_note","en":"Base Yield - Grove Orchard - Juice Stone (-20% Chance, 2 pcs.)","ru":"Базовая добыча — садовый лес: соковый камень (шанс -20%, 2 шт.)"}
+{"id":"shared:home_drop:1300112101:1208:_note","en":"Softwood Daily Output +100","ru":"Мягкая древесина, дневная добыча: +100"}
+{"id":"shared:home_drop:1300112102:1209:_note","en":"Fiber Daily Output +100","ru":"Волокно, дневная добыча: +100"}
+{"id":"shared:home_drop:1300112103:1210:_note","en":"Unlock Hardwood Production","ru":"Открыть добычу твёрдой древесины"}
+{"id":"shared:home_drop:1300112104:1211:_note","en":"Hardwood Daily Output +100","ru":"Твёрдая древесина, дневная добыча: +100"}
+{"id":"shared:home_drop:1300112601:1212:_note","en":"Unlock Clear Moon Fruit","ru":"Открыть плод ясной луны"}
+{"id":"shared:home_drop:1300112602:1213:_note","en":"Unlock Clear Moon Fruit","ru":"Открыть плод ясной луны"}
+{"id":"shared:home_drop:1300112603:1214:_note","en":"Unlock Bitter Sun Fruit","ru":"Открыть горький солнечный плод"}
+{"id":"shared:home_drop:1300112604:1215:_note","en":"Unlock Bitter Sun Fruit","ru":"Открыть горький солнечный плод"}
+{"id":"shared:home_drop:1300112605:1216:_note","en":"Unlock Peach Lychee","ru":"Открыть персиковый личжи"}
+{"id":"shared:home_drop:1300112606:1217:_note","en":"Unlock Peach Lychee","ru":"Открыть персиковый личжи"}
+{"id":"shared:home_drop:1300112607:1218:_note","en":"Speckled Red Mushroom +80","ru":"Крапчатый красный гриб +80"}
+{"id":"shared:home_drop:1300112608:1219:_note","en":"Red Fruit +80","ru":"Красный плод +80"}
+{"id":"shared:home_drop:1300112609:1220:_note","en":"Clear Moon Fruit +80","ru":"Плод ясной луны +80"}
+{"id":"shared:home_drop:1300112610:1221:_note","en":"Bitter Sun Fruit +80","ru":"Горький солнечный плод +80"}
+{"id":"shared:home_drop:1300112611:1222:_note","en":"Peach Lychee +80","ru":"Персиковый личжи +80"}
+{"id":"shared:home_drop:1300112612:1223:_note","en":"Juice Stone +80","ru":"Соковый камень +80"}
+{"id":"shared:home_drop:1300112613:1224:_note","en":"Speckled Red Mushroom +80","ru":"Крапчатый красный гриб +80"}
+{"id":"shared:home_drop:1300112614:1225:_note","en":"Red Fruit +80","ru":"Красный плод +80"}
+{"id":"shared:home_drop:1300112615:1226:_note","en":"Clear Moon Fruit +80","ru":"Плод ясной луны +80"}
+{"id":"shared:home_drop:1300112616:1227:_note","en":"Bitter Sun Fruit +80","ru":"Горький солнечный плод +80"}
+{"id":"shared:home_drop:1300112617:1228:_note","en":"Peach Lychee +80","ru":"Персиковый личжи +80"}
+{"id":"shared:home_drop:1300112618:1229:_note","en":"Juice Stone +80","ru":"Соковый камень +80"}
+{"id":"shared:home_drop:1300211101:1230:_note","en":"Base Yield - Wind Copper (-100 Chance)","ru":"Базовая добыча — ветряная медь (шанс -100)"}
+{"id":"shared:home_drop:1300211102:1231:_note","en":"Sprout Valley Mine B Unlock - Gleam Tin (-100 Chance)","ru":"Шахта Долины Ростков B — открытие: блестящее олово (шанс -100)"}
+{"id":"shared:home_drop:1300211103:1232:_note","en":"Fleece Mine A Unlock - Mirror Iron (-100 Chance)","ru":"Шахта Флиса A — открытие: зеркальное железо (шанс -100)"}
+{"id":"shared:home_drop:1300211104:1233:_note","en":"Fleece Mine C Unlock - Silver (-100 Chance)","ru":"Шахта Флиса C — открытие: серебро (шанс -100)"}
+{"id":"shared:home_drop:1300211105:1234:_note","en":"Base Yield - Dust Stone (-100 Chance)","ru":"Базовая добыча — пыльный камень (шанс -100)"}
+{"id":"shared:home_drop:1300211106:1235:_note","en":"Fleece Quarry A Unlock - Solid Rock (-100 Chance)","ru":"Каменоломня Флиса A — открытие: прочная скала (шанс -100)"}
+{"id":"shared:home_drop:1300211107:1236:_note","en":"Sprout Valley Quarry B Unlock - Topaz (-100 Chance)","ru":"Каменоломня Долины Ростков B — открытие: топаз (шанс -100)"}
+{"id":"shared:home_drop:1300211108:1237:_note","en":"Fleece Quarry A Unlock - Blue Crystal (-100 Chance)","ru":"Каменоломня Флиса A — открытие: синий кристалл (шанс -100)"}
+{"id":"shared:home_drop:1300212201:1238:_note","en":"Dust Stone Daily Output +100","ru":"Пыльный камень, дневная добыча: +100"}
+{"id":"shared:home_drop:1300212202:1239:_note","en":"Topaz, Unlock Production","ru":"Топаз, открыть добычу"}
+{"id":"shared:home_drop:1300212203:1240:_note","en":"Solid Rock Unlock","ru":"Открыть прочную скалу"}
+{"id":"shared:home_drop:1300212204:1241:_note","en":"Blue Crystal Unlock","ru":"Открыть синий кристалл"}
+{"id":"shared:home_drop:1300212205:1242:_note","en":"Solid Rock Daily Output +80","ru":"Прочная скала, дневная добыча: +80"}
+{"id":"shared:home_drop:1300212301:1243:_note","en":"Wind Copper Ore Daily Output \n+120","ru":"Ветряная медная руда, дневная добыча: \n+120"}
+{"id":"shared:home_drop:1300212302:1244:_note","en":"Gleam Tin Ore \n Unlock Production","ru":"Блестящая оловянная руда \n: открыть добычу"}
+{"id":"shared:home_drop:1300212303:1245:_note","en":"Gleam Tin Ore Daily Output \n+120","ru":"Блестящая оловянная руда, дневная добыча: \n+120"}
+{"id":"shared:home_drop:1300212304:1246:_note","en":"Mirror Iron Ore Unlock Production","ru":"Открыть добычу зеркальной железной руды"}
+{"id":"shared:home_drop:1300212305:1247:_note","en":"Mirror Iron Ore Daily Output +120","ru":"Зеркальная железная руда, дневная добыча: +120"}
+{"id":"shared:home_drop:1300212306:1248:_note","en":"Unlock Silver Ore","ru":"Открыть серебряную руду"}
+{"id":"shared:home_drop:1300212307:1249:_note","en":"Blue Jade +20","ru":"Синий нефрит +20"}
+{"id":"shared:home_drop:1300212308:1250:_note","en":"Yellow Crystal +20","ru":"Жёлтый кристалл +20"}
+{"id":"shared:home_drop:1300212309:1251:_note","en":"Silver Ore Increase +120","ru":"Серебряная руда: прирост +120"}
+{"id":"shared:home_drop:1300411301:1252:_note","en":"Base Yield - Elemental Altar - Earth Elemental Particle (-40% Chance, 1 pcs.)","ru":"Базовая добыча — алтарь стихий: частица земной стихии (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300411302:1253:_note","en":"Base Yield - Elemental Altar - Water Elemental Particle (-40% Chance, 1 pcs.)","ru":"Базовая добыча — алтарь стихий: частица водной стихии (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300411303:1254:_note","en":"Base Yield - Elemental Altar - Fire Elemental Particle (-40% Chance, 1 pcs.)","ru":"Базовая добыча — алтарь стихий: частица огненной стихии (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300411304:1255:_note","en":"Base Yield - Elemental Altar - Wind Elemental Particle (-40% Chance, 1 pcs.)","ru":"Базовая добыча — алтарь стихий: частица воздушной стихии (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300411305:1256:_note","en":"Base Yield - Elemental Altar - Ice Elemental Particle (-40% Chance, 1 pcs.)","ru":"Базовая добыча — алтарь стихий: частица ледяной стихии (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300411306:1257:_note","en":"Base Yield - Elemental Altar - Lightning Elemental Particle (-40% Chance, 1 pcs.)","ru":"Базовая добыча — алтарь стихий: частица грозовой стихии (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300411307:1258:_note","en":"Base Yield - Elemental Altar - Wood Elemental Particle (-40% Chance, 1 pcs.)","ru":"Базовая добыча — алтарь стихий: частица древесного элемента (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300411308:1259:_note","en":"Base Yield - Elemental Altar - Light Elemental Particle (-40% Chance, 1 pcs.)","ru":"Базовая добыча — алтарь стихий: частица светлой стихии (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300411309:1260:_note","en":"Base Yield - Elemental Altar - Dark Elemental Particle (-40% Chance, 1 pcs.)","ru":"Базовая добыча — алтарь стихий: частица тёмной стихии (шанс -40%, 1 шт.)"}
+{"id":"shared:home_drop:1300412501:1261:_note","en":"Earth Elemental Particle Output +30","ru":"Частицы земной стихии, добыча: +30"}
+{"id":"shared:home_drop:1300412502:1262:_note","en":"Water Elemental Particle Output +","ru":"Добыча частиц водной стихии +"}
+{"id":"shared:home_drop:1300412503:1263:_note","en":"Fire Elemental Particle Output +","ru":"Добыча частиц огненной стихии +"}
+{"id":"shared:home_drop:1300412504:1264:_note","en":"Wind Elemental Particle Output +","ru":"Добыча частиц воздушной стихии +"}
+{"id":"shared:home_drop:1300412505:1265:_note","en":"Ice Elemental Particle Output +","ru":"Добыча частиц ледяной стихии +"}
+{"id":"shared:home_drop:1300412506:1266:_note","en":"Lightning Elemental Particle Output +","ru":"Добыча частиц грозовой стихии +"}
+{"id":"shared:home_drop:1300412507:1267:_note","en":"Wood Elemental Particle Output +","ru":"Добыча частиц древесного элемента +"}
+{"id":"shared:home_drop:1300412508:1268:_note","en":"Light Elemental Particle Output +","ru":"Добыча частиц светлой стихии +"}
+{"id":"shared:home_drop:1300412509:1269:_note","en":"Dark Elemental Particle Output +","ru":"Добыча частиц тёмной стихии +"}
+{"id":"shared:home_drop:1300412510:1270:_note","en":"Earth Elemental Particle Output +50","ru":"Частицы земной стихии, добыча: +50"}
+{"id":"shared:home_drop:1300412511:1271:_note","en":"Water Elemental Particle Output +","ru":"Добыча частиц водной стихии +"}
+{"id":"shared:home_drop:1300412512:1272:_note","en":"Fire Elemental Particle Output +","ru":"Добыча частиц огненной стихии +"}
+{"id":"shared:home_drop:1300412513:1273:_note","en":"Wind Elemental Particle Output +","ru":"Добыча частиц воздушной стихии +"}
+{"id":"shared:home_drop:1300412514:1274:_note","en":"Ice Elemental Particle Output +","ru":"Добыча частиц ледяной стихии +"}
+{"id":"shared:home_drop:1300412515:1275:_note","en":"Lightning Elemental Particle Output +","ru":"Добыча частиц грозовой стихии +"}
+{"id":"shared:home_drop:1300412516:1276:_note","en":"Wood Elemental Particle Output +","ru":"Добыча частиц древесного элемента +"}
+{"id":"shared:home_drop:1300412517:1277:_note","en":"Light Elemental Particle Output +","ru":"Добыча частиц светлой стихии +"}
+{"id":"shared:home_drop:1300412518:1278:_note","en":"Dark Elemental Particle Output +","ru":"Добыча частиц тёмной стихии +"}
+{"id":"shared:home_drop:1300412519:1279:_note","en":"Earth Elemental Particle Output +30","ru":"Частицы земной стихии, добыча: +30"}
+{"id":"shared:home_drop:1300412520:1280:_note","en":"Water Elemental Particle Output +","ru":"Добыча частиц водной стихии +"}
+{"id":"shared:home_drop:1300412521:1281:_note","en":"Fire Elemental Particle Output +","ru":"Добыча частиц огненной стихии +"}
+{"id":"shared:home_drop:1300412522:1282:_note","en":"Wind Elemental Particle Output +","ru":"Добыча частиц воздушной стихии +"}
+{"id":"shared:home_drop:1300412523:1283:_note","en":"Ice Elemental Particle Output +","ru":"Добыча частиц ледяной стихии +"}
+{"id":"shared:home_drop:1300412524:1284:_note","en":"Lightning Elemental Particle Output +","ru":"Добыча частиц грозовой стихии +"}
+{"id":"shared:home_drop:1300412525:1285:_note","en":"Wood Elemental Particle Output +","ru":"Добыча частиц древесного элемента +"}
+{"id":"shared:home_drop:1300412526:1286:_note","en":"Light Elemental Particle Output +","ru":"Добыча частиц светлой стихии +"}
+{"id":"shared:home_drop:1300412527:1287:_note","en":"Dark Elemental Particle Output +","ru":"Добыча частиц тёмной стихии +"}
+{"id":"shared:home_drop:1300412528:1288:_note","en":"Earth Elemental Particle Output +50","ru":"Частицы земной стихии, добыча: +50"}
+{"id":"shared:home_drop:1300412529:1289:_note","en":"Water Elemental Particle Output +","ru":"Добыча частиц водной стихии +"}
+{"id":"shared:home_drop:1300412530:1290:_note","en":"Fire Elemental Particle Output +","ru":"Добыча частиц огненной стихии +"}
+{"id":"shared:home_drop:1300412531:1291:_note","en":"Wind Elemental Particle Output +","ru":"Добыча частиц воздушной стихии +"}
+{"id":"shared:home_drop:1300412532:1292:_note","en":"Ice Elemental Particle Output +","ru":"Добыча частиц ледяной стихии +"}
+{"id":"shared:home_drop:1300412533:1293:_note","en":"Lightning Elemental Particle Output +","ru":"Добыча частиц грозовой стихии +"}
+{"id":"shared:home_drop:1300412534:1294:_note","en":"Wood Elemental Particle Output +","ru":"Добыча частиц древесного элемента +"}
+{"id":"shared:home_drop:1300412535:1295:_note","en":"Light Elemental Particle Output +","ru":"Добыча частиц светлой стихии +"}
+{"id":"shared:home_drop:1300412536:1296:_note","en":"Dark Elemental Particle Output +","ru":"Добыча частиц тёмной стихии +"}
+{"id":"shared:home_drop:1300511401:1297:_note","en":"Base Yield - Feeding Spot - Fresh Beast Meat","ru":"Базовая добыча — кормушка: свежее мясо зверя"}
+{"id":"shared:home_drop:1300511402:1298:_note","en":"Base Yield - Feeding Spot - Fine Beast Meat","ru":"Базовая добыча — кормушка: отборное мясо зверя"}
+{"id":"shared:home_drop:1300511403:1299:_note","en":"Base Yield - Feeding Spot - Prime Beast Meat","ru":"Базовая добыча — кормушка: первосортное мясо зверя"}
+{"id":"shared:home_drop:1300511404:1300:_note","en":"Base Yield - Feeding Spot - Fresh Poultry Meat","ru":"Базовая добыча — кормушка: свежее мясо птицы"}
+{"id":"shared:home_drop:1300511405:1301:_note","en":"Base Yield - Feeding Spot - Fine Poultry Meat","ru":"Базовая добыча — кормушка: отборное мясо птицы"}
+{"id":"shared:home_drop:1300511406:1302:_note","en":"Base Yield - Feeding Spot - Prime Poultry Meat","ru":"Базовая добыча — кормушка: первосортное мясо птицы"}
+{"id":"shared:home_drop:1300511407:1303:_note","en":"Base Yield - Feeding Spot - Damaged Beast Hide","ru":"Базовая добыча — кормушка: повреждённая шкура зверя"}
+{"id":"shared:home_drop:1300511408:1304:_note","en":"Base Yield - Feeding Spot - Intact Beast Hide","ru":"Базовая добыча — кормушка: целая шкура зверя"}
+{"id":"shared:home_drop:1300511450:1305:_note","en":"Homestead Gathering EXP Pack","ru":"Набор опыта сбора для поместья"}
+{"id":"shared:home_drop:131000101:887:_note","en":"Softwood Base Daily Output 5400","ru":"Базовый дневной выход мягкой древесины 5400"}
+{"id":"shared:home_drop:1310001:682:_note","en":"Mild Starwhisper Fruit-1Star","ru":"Слабая звездошёпотная ягода-1Звезда"}
+{"id":"shared:home_drop:131000201:888:_note","en":"Fiber Base Daily Output 1800","ru":"Базовый дневной выход волокна 1800"}
+{"id":"shared:home_drop:1310002:683:_note","en":"Sweet Starwhisper Fruit-1Star","ru":"Сладкая звездошёпотная ягода-1Звезда"}
+{"id":"shared:home_drop:1310003:684:_note","en":"Crisp Sweet Starwhisper Fruit-1Star","ru":"Хрустящий сладкий звезднословный плод-1Звезда"}
+{"id":"shared:home_drop:1310004:685:_note","en":"Rich Sweet Starwhisper Fruit-1Star","ru":"Сладкий сахарный звезднословный плод-1Звезда"}
+{"id":"shared:home_drop:1310005:686:_note","en":"Mild Starwhisper Fruit-2Star","ru":"Преспый звезднословный плод-2Звезда"}
+{"id":"shared:home_drop:1310006:687:_note","en":"Faintly Sweet Starwhisper Fruit-2Star","ru":"Слегка сладкий звезднословный плод-2Звезда"}
+{"id":"shared:home_drop:1310007:688:_note","en":"Crisp Sweet Starwhisper Fruit-2Star","ru":"Хрустящий сладкий звезднословный плод-2Звезда"}
+{"id":"shared:home_drop:1310008:689:_note","en":"Rich Sweet Starwhisper Fruit-2Star","ru":"Сладкий сахарный звезднословный плод-2Звезда"}
+{"id":"shared:home_drop:1310009:690:_note","en":"Mild Starwhisper Fruit-3Star","ru":"Преспый звезднословный плод-3Звезда"}
+{"id":"shared:home_drop:1310010:691:_note","en":"Faintly Sweet Starwhisper Fruit-3Star","ru":"Слегка сладкий звезднословный плод-3Звезда"}
+{"id":"shared:home_drop:1310011:692:_note","en":"Crisp Sweet Starwhisper Fruit-3Star","ru":"Хрустящий сладкий звезднословный плод-3Звезда"}
+{"id":"shared:home_drop:1310012:693:_note","en":"Rich Sweet Starwhisper Fruit-3Star","ru":"Сладкий сахарный звезднословный плод-3Звезда"}
+{"id":"shared:home_drop:1310013:694:_note","en":"Mild Starwhisper Fruit-4Star","ru":"Преспый звезднословный плод-4Звезда"}
+{"id":"shared:home_drop:1310014:695:_note","en":"Faintly Sweet Starwhisper Fruit-4Star","ru":"Слегка сладкий звезднословный плод-4Звезда"}
+{"id":"shared:home_drop:1310015:696:_note","en":"Crisp Sweet Starwhisper Fruit-4Star","ru":"Хрустящий сладкий звезднословный плод-4Звезда"}
+{"id":"shared:home_drop:1310016:697:_note","en":"Rich Sweet Starwhisper Fruit-4Star","ru":"Сладкий сахарный звезднословный плод-4Звезда"}
+{"id":"shared:home_drop:1310017:698:_note","en":"Mild Starwhisper Fruit-5Star","ru":"Преспый звезднословный плод-5Звезда"}
+{"id":"shared:home_drop:1310018:699:_note","en":"Faintly Sweet Starwhisper Fruit-5Star","ru":"Слегка сладкий звезднословный плод-5Звезда"}
+{"id":"shared:home_drop:1310019:700:_note","en":"Crisp Sweet Starwhisper Fruit-5Star","ru":"Хрустящий сладкий звезднословный плод-5Звезда"}
+{"id":"shared:home_drop:1310020:701:_note","en":"Rich Sweet Starwhisper Fruit-5Star","ru":"Сладкий сахарный звезднословный плод-5Звезда"}
+{"id":"shared:home_drop:1310021:702:_note","en":"Boli Fruit - Starwhisper Tree Surprise-1Star","ru":"Плод боли — сюрприз звезднословного древа-1Звезда"}
+{"id":"shared:home_drop:1310022:703:_note","en":"Life Lantern - Starwhisper Tree Surprise-1Star","ru":"Фонарь жизни — сюрприз звезднословного древа-1Звезда"}
+{"id":"shared:home_drop:1310023:704:_note","en":"Scale Shell Fruit - Starwhisper Tree Surprise-1Star","ru":"Чешуйчатый плод — сюрприз звезднословного древа-1Звезда"}
+{"id":"shared:home_drop:1310024:705:_note","en":"Spike Fruit - Starwhisper Tree Surprise-1Star","ru":"Остроконечный плод — сюрприз звезднословного древа-1Звезда"}
+{"id":"shared:home_drop:1310025:706:_note","en":"Spur Fruit - Starwhisper Tree Surprise-1Star","ru":"Колючий плод — сюрприз звезднословного древа-1Звезда"}
+{"id":"shared:home_drop:1310026:707:_note","en":"Spirit Crystal Fruit - Starwhisper Tree Surprise-1Star","ru":"Плод духа-кристалла — сюрприз звезднословного древа-1Звезда"}
+{"id":"shared:home_drop:1310027:708:_note","en":"Boli Fruit - Starwhisper Tree Surprise-2Star","ru":"Плод боли — сюрприз звезднословного древа-2Звезда"}
+{"id":"shared:home_drop:1310028:709:_note","en":"Life Lantern - Starwhisper Tree Surprise-2Star","ru":"Фонарь жизни — сюрприз звезднословного древа-2Звезда"}
+{"id":"shared:home_drop:1310029:710:_note","en":"Scale Shell Fruit - Starwhisper Tree Surprise-2Star","ru":"Чешуйчатый плод — сюрприз звезднословного древа-2Звезда"}
+{"id":"shared:home_drop:1310030:711:_note","en":"Spike Fruit - Starwhisper Tree Surprise-2Star","ru":"Остроконечный плод — сюрприз звезднословного древа-2Звезда"}
+{"id":"shared:home_drop:1310031:712:_note","en":"Spur Fruit - Starwhisper Tree Surprise-2Star","ru":"Колючий плод — сюрприз звезднословного древа-2Звезда"}
+{"id":"shared:home_drop:1310032:713:_note","en":"Spirit Crystal Fruit - Starwhisper Tree Surprise-2Star","ru":"Плод духа-кристалла — сюрприз звезднословного древа-2Звезда"}
+{"id":"shared:home_drop:1310033:714:_note","en":"Boli Fruit - Starwhisper Tree Surprise-3Star","ru":"Плод боли — сюрприз звезднословного древа-3Звезда"}
+{"id":"shared:home_drop:1310034:715:_note","en":"Life Lantern - Starwhisper Tree Surprise-3Star","ru":"Фонарь жизни — сюрприз звезднословного древа-3Звезда"}
+{"id":"shared:home_drop:1310035:716:_note","en":"Scale Shell Fruit - Starwhisper Tree Surprise-3Star","ru":"Чешуйчатый плод — сюрприз звезднословного древа-3Звезда"}
+{"id":"shared:home_drop:1310036:717:_note","en":"Spike Fruit - Starwhisper Tree Surprise-3Star","ru":"Остроконечный плод — сюрприз звезднословного древа-3Звезда"}
+{"id":"shared:home_drop:1310037:718:_note","en":"Spur Fruit - Starwhisper Tree Surprise-3Star","ru":"Колючий плод — сюрприз звезднословного древа-3Звезда"}
+{"id":"shared:home_drop:1310038:719:_note","en":"Spirit Crystal Fruit - Starwhisper Tree Surprise-3Star","ru":"Плод духа-кристалла — сюрприз звезднословного древа-3Звезда"}
+{"id":"shared:home_drop:1310039:720:_note","en":"Boli Fruit - Starwhisper Tree Surprise-4Star","ru":"Плод боли — сюрприз звезднословного древа-4Звезда"}
+{"id":"shared:home_drop:1310040:721:_note","en":"Life Lantern - Starwhisper Tree Surprise-4Star","ru":"Фонарь жизни — сюрприз звезднословного древа-4Звезда"}
+{"id":"shared:home_drop:1310041:722:_note","en":"Scale Shell Fruit - Starwhisper Tree Surprise-4Star","ru":"Чешуйчатый плод — сюрприз звезднословного древа-4Звезда"}
+{"id":"shared:home_drop:1310042:723:_note","en":"Spike Fruit - Starwhisper Tree Surprise-4Star","ru":"Остроконечный плод — сюрприз звезднословного древа-4Звезда"}
+{"id":"shared:home_drop:1310043:724:_note","en":"Spur Fruit - Starwhisper Tree Surprise-4Star","ru":"Колючий плод — сюрприз звезднословного древа-4Звезда"}
+{"id":"shared:home_drop:1310044:725:_note","en":"Spirit Crystal Fruit - Starwhisper Tree Surprise-4Star","ru":"Плод духа-кристалла — сюрприз звезднословного древа-4Звезда"}
+{"id":"shared:home_drop:1310045:726:_note","en":"Boli Fruit - Starwhisper Tree Surprise-5Star","ru":"Плод боли — сюрприз звезднословного древа-5Звезда"}
+{"id":"shared:home_drop:1310046:727:_note","en":"Life Lantern - Starwhisper Tree Surprise-5Star","ru":"Фонарь жизни — сюрприз звезднословного древа-5Звезда"}
+{"id":"shared:home_drop:1310047:728:_note","en":"Scale Shell Fruit - Starwhisper Tree Surprise-5Star","ru":"Чешуйчатый плод — сюрприз звезднословного древа-5Звезда"}
+{"id":"shared:home_drop:1310048:729:_note","en":"Spike Fruit - Starwhisper Tree Surprise-5Star","ru":"Остроконечный плод — сюрприз звезднословного древа-5Звезда"}
+{"id":"shared:home_drop:1310049:730:_note","en":"Spur Fruit - Starwhisper Tree Surprise-5Star","ru":"Колючий плод — сюрприз звезднословного древа-5Звезда"}
+{"id":"shared:home_drop:1310050:731:_note","en":"Spirit Crystal Fruit - Starwhisper Tree Surprise-5Star","ru":"Плод духа-кристалла — сюрприз звезднословного древа-5Звезда"}
+{"id":"shared:home_drop:1310051:732:_note","en":"Unripe Sourcevein Fruit-1Star","ru":"Незрелый плод жилы истока-1Звезда"}
+{"id":"shared:home_drop:1310052:733:_note","en":"Ripe Sourcevein Fruit-1Star","ru":"Зрелый плод жилы истока-1Звезда"}
+{"id":"shared:home_drop:1310053:734:_note","en":"Plump Sourcevein Fruit-1Star","ru":"Набухший плод жилы истока-1Звезда"}
+{"id":"shared:home_drop:1310055:735:_note","en":"Unripe Sourcevein Fruit-2Star","ru":"Незрелый плод жилы истока-2Звезда"}
+{"id":"shared:home_drop:1310056:736:_note","en":"Ripe Sourcevein Fruit-2Star","ru":"Зрелый плод жилы истока-2Звезда"}
+{"id":"shared:home_drop:1310057:737:_note","en":"Plump Sourcevein Fruit-2Star","ru":"Набухший плод жилы истока-2Звезда"}
+{"id":"shared:home_drop:1310059:738:_note","en":"Unripe Sourcevein Fruit-3Star","ru":"Незрелый плод жилы истока-3Звезда"}
+{"id":"shared:home_drop:1310060:739:_note","en":"Ripe Sourcevein Fruit-3Star","ru":"Зрелый плод жилы истока-3Звезда"}
+{"id":"shared:home_drop:1310061:740:_note","en":"Plump Sourcevein Fruit-3Star","ru":"Набухший плод жилы истока-3Звезда"}
+{"id":"shared:home_drop:1310063:741:_note","en":"Unripe Sourcevein Fruit-4Star","ru":"Незрелый плод жилы истока-4Звезда"}
+{"id":"shared:home_drop:1310064:742:_note","en":"Ripe Sourcevein Fruit-4Star","ru":"Зрелый плод жилы истока-4Звезда"}
+{"id":"shared:home_drop:1310065:743:_note","en":"Plump Sourcevein Fruit-4Star","ru":"Набухший плод жилы истока-4Звезда"}
+{"id":"shared:home_drop:1310066:744:_note","en":"Perfect Sourcevein Fruit-4Star","ru":"Совершенный плод жилы истока-4Звезда"}
+{"id":"shared:home_drop:1310067:745:_note","en":"Unripe Sourcevein Fruit-5Star","ru":"Незрелый плод жилы истока-5Звезда"}
+{"id":"shared:home_drop:1310068:746:_note","en":"Ripe Sourcevein Fruit-5Star","ru":"Зрелый плод жилы истока-5Звезда"}
+{"id":"shared:home_drop:1310069:747:_note","en":"Plump Sourcevein Fruit-5Star","ru":"Набухший плод жилы истока-5Звезда"}
+{"id":"shared:home_drop:1310070:748:_note","en":"Perfect Sourcevein Fruit-5Star","ru":"Совершенный плод жилы истока-5Звезда"}
+{"id":"shared:home_drop:1310071:749:_note","en":"Boli Fruit - Sourcevein Tree Surprise-1Star","ru":"Плод боли — сюрприз древа истока-1Звезда"}
+{"id":"shared:home_drop:1310072:750:_note","en":"Life Lantern - Sourcevein Tree Surprise-1Star","ru":"Фонарь жизни — сюрприз древа истока-1Звезда"}
+{"id":"shared:home_drop:1310073:751:_note","en":"Scale Shell Fruit - Sourcevein Tree Surprise-1Star","ru":"Чешуйчатый плод — сюрприз древа истока-1Звезда"}
+{"id":"shared:home_drop:1310074:752:_note","en":"Spike Fruit - Sourcevein Tree Surprise-1Star","ru":"Остроконечный плод — сюрприз древа истока-1Звезда"}
+{"id":"shared:home_drop:1310075:753:_note","en":"Spur Fruit - Sourcevein Tree Surprise-1Star","ru":"Колючий плод — сюрприз древа истока-1Звезда"}
+{"id":"shared:home_drop:1310076:754:_note","en":"Spirit Crystal Fruit - Sourcevein Tree Surprise-1Star","ru":"Плод духа-кристалла — сюрприз древа истока-1Звезда"}
+{"id":"shared:home_drop:1310077:755:_note","en":"Boli Fruit - Sourcevein Tree Surprise-2Star","ru":"Плод боли — сюрприз древа истока-2Звезда"}
+{"id":"shared:home_drop:1310078:756:_note","en":"Life Lantern - Sourcevein Tree Surprise-2Star","ru":"Фонарь жизни — сюрприз древа истока-2Звезда"}
+{"id":"shared:home_drop:1310079:757:_note","en":"Scale Shell Fruit - Sourcevein Tree Surprise-2Star","ru":"Чешуйчатый плод — сюрприз древа истока-2Звезда"}
+{"id":"shared:home_drop:1310080:758:_note","en":"Spike Fruit - Sourcevein Tree Surprise-2Star","ru":"Остроконечный плод — сюрприз древа истока-2Звезда"}
+{"id":"shared:home_drop:1310081:759:_note","en":"Spur Fruit - Sourcevein Tree Surprise-2Star","ru":"Колючий плод — сюрприз древа истока-2Звезда"}
+{"id":"shared:home_drop:1310082:760:_note","en":"Spirit Crystal Fruit - Sourcevein Tree Surprise-2Star","ru":"Плод духа-кристалла — сюрприз древа истока-2Звезда"}
+{"id":"shared:home_drop:1310083:761:_note","en":"Boli Fruit - Sourcevein Tree Surprise-3Star","ru":"Плод боли — сюрприз древа истока-3Звезда"}
+{"id":"shared:home_drop:1310084:762:_note","en":"Life Lantern - Sourcevein Tree Surprise-3Star","ru":"Фонарь жизни — сюрприз древа истока-3Звезда"}
+{"id":"shared:home_drop:1310085:763:_note","en":"Scale Shell Fruit - Sourcevein Tree Surprise-3Star","ru":"Чешуйчатый плод — сюрприз древа истока-3Звезда"}
+{"id":"shared:home_drop:1310086:764:_note","en":"Spike Fruit - Sourcevein Tree Surprise-3Star","ru":"Остроконечный плод — сюрприз древа истока-3Звезда"}
+{"id":"shared:home_drop:1310087:765:_note","en":"Spur Fruit - Sourcevein Tree Surprise-3Star","ru":"Колючий плод — сюрприз древа истока-3Звезда"}
+{"id":"shared:home_drop:1310088:766:_note","en":"Spirit Crystal Fruit - Sourcevein Tree Surprise-3Star","ru":"Плод духа-кристалла — сюрприз древа истока-3Звезда"}
+{"id":"shared:home_drop:1310089:767:_note","en":"Boli Fruit - Sourcevein Tree Surprise-4Star","ru":"Плод боли — сюрприз древа истока-4Звезда"}
+{"id":"shared:home_drop:1310090:768:_note","en":"Life Lantern - Sourcevein Tree Surprise-4Star","ru":"Фонарь жизни — сюрприз древа истока-4Звезда"}
+{"id":"shared:home_drop:1310091:769:_note","en":"Scale Shell Fruit - Sourcevein Tree Surprise-4Star","ru":"Чешуйчатый плод — сюрприз древа истока-4Звезда"}
+{"id":"shared:home_drop:1310092:770:_note","en":"Spike Fruit - Sourcevein Tree Surprise-4Star","ru":"Остроконечный плод — сюрприз древа истока-4Звезда"}
+{"id":"shared:home_drop:1310093:771:_note","en":"Spur Fruit - Sourcevein Tree Surprise-4Star","ru":"Колючий плод — сюрприз древа истока-4Звезда"}
+{"id":"shared:home_drop:1310094:772:_note","en":"Spirit Crystal Fruit - Sourcevein Tree Surprise-4Star","ru":"Плод духа-кристалла — сюрприз древа истока-4Звезда"}
+{"id":"shared:home_drop:1310095:773:_note","en":"Boli Fruit - Sourcevein Tree Surprise-5Star","ru":"Плод боли — сюрприз древа истока-5Звезда"}
+{"id":"shared:home_drop:1310096:774:_note","en":"Life Lantern - Sourcevein Tree Surprise-5Star","ru":"Фонарь жизни — сюрприз древа истока-5Звезда"}
+{"id":"shared:home_drop:1310097:775:_note","en":"Scale Shell Fruit - Sourcevein Tree Surprise-5Star","ru":"Чешуйчатый плод — сюрприз древа истока-5Звезда"}
+{"id":"shared:home_drop:1310098:776:_note","en":"Pointed Berry — Font Tree Surprise-5Star","ru":"Остроконечная ягода — сюрприз Древа истока-5звезда"}
+{"id":"shared:home_drop:1310099:777:_note","en":"Spikeberry — Font Tree Surprise-5Star","ru":"Колючая ягода — сюрприз Древа истока-5звезда"}
+{"id":"shared:home_drop:1310100:778:_note","en":"Spirit Crystal Berry — Font Tree Surprise-5Star","ru":"Ягода дух-кристалла — сюрприз Древа истока-5звезда"}
+{"id":"shared:home_drop:131010101:889:_note","en":"Softwood Daily Output Increase 360 — Sprout Valley — Wolfsong Plains","ru":"Прирост дневного выхода мягкой древесины 360 — Долина Ростков — Волчье Поющее Плато"}
+{"id":"shared:home_drop:1310101:779:_note","en":"Burst Berry — Font Tree Surprise — New","ru":"Взрывная ягода — сюрприз Древа истока — новое"}
+{"id":"shared:home_drop:131010201:890:_note","en":"Fiber Daily Output Increase 120 — Sprout Valley — Wolfsong Plains","ru":"Прирост дневного выхода волокна 120 — Долина Ростков — Волчье Поющее Плато"}
+{"id":"shared:home_drop:1310102:780:_note","en":"Life Lantern — Font Tree Surprise — New","ru":"Фонарь жизни — сюрприз Древа истока — новое"}
+{"id":"shared:home_drop:1310103:781:_note","en":"Scale-Shell Berry — Font Tree Surprise — New","ru":"Чешуйчатая ягода — сюрприз Древа истока — новое"}
+{"id":"shared:home_drop:1310104:782:_note","en":"Pointed Berry — Font Tree Surprise — New","ru":"Остроконечная ягода — сюрприз Древа истока — новое"}
+{"id":"shared:home_drop:1310105:783:_note","en":"Spikeberry — Font Tree Surprise — New","ru":"Колючая ягода — сюрприз Древа истока — новое"}
+{"id":"shared:home_drop:1310106:784:_note","en":"Spirit Crystal Berry — Font Tree Surprise — New","ru":"Ягода дух-кристалла — сюрприз Древа истока — новое"}
+{"id":"shared:home_drop:131020101:891:_note","en":"Softwood Daily Output Increase 360 — Sprout Valley — Mistleaf Thicket","ru":"Прирост дневного выхода мягкой древесины 360 — Долина Ростков — Туманнолистная чаща"}
+{"id":"shared:home_drop:131020201:892:_note","en":"Fiber Daily Output Increase 120 — Sprout Valley — Mistleaf Thicket","ru":"Прирост дневного выхода волокна 120 — Долина Ростков — Туманнолистная чаща"}
+{"id":"shared:home_drop:131030101:893:_note","en":"Unlock Hardwood Output, Daily Output 1800 — Fleece — Bountiful Vale","ru":"Разблокировать выход твёрдой древесины, дневной выход 1800 — Флис — Плодородная долина"}
+{"id":"shared:home_drop:131030301:894:_note","en":"Softwood Daily Output Increase 360 — Fleece — Bountiful Vale","ru":"Прирост дневного выхода мягкой древесины 360 — Флис — Плодородная долина"}
+{"id":"shared:home_drop:131030401:895:_note","en":"Fiber Daily Output Increase 120 — Fleece — Bountiful Vale","ru":"Прирост дневного выхода волокна 120 — Флис — Плодородная долина"}
+{"id":"shared:home_drop:131040101:896:_note","en":"Hardwood Daily Output Increase 360 — Fleece — Lostpath Forest","ru":"Прирост дневного выхода твёрдой древесины 360 — Флис — Затерянный лес"}
+{"id":"shared:home_drop:1311005:785:_note","en":"Gold Fruit","ru":"Золотой плод"}
+{"id":"shared:home_drop:1311006:786:_note","en":"Gold Fruit","ru":"Золотой плод"}
+{"id":"shared:home_drop:1311007:787:_note","en":"Gold Fruit","ru":"Золотой плод"}
+{"id":"shared:home_drop:1311008:788:_note","en":"Gold Fruit","ru":"Золотой плод"}
+{"id":"shared:home_drop:1311009:789:_note","en":"Gold Fruit","ru":"Золотой плод"}
+{"id":"shared:home_drop:1311010:790:_note","en":"Burst Berry (Large)","ru":"Взрывная ягода (большая)"}
+{"id":"shared:home_drop:1311011:791:_note","en":"Burst Berry (Small)","ru":"Взрывная ягода (малая)"}
+{"id":"shared:home_drop:1311012:792:_note","en":"Burst Berry (Large)","ru":"Взрывная ягода (большая)"}
+{"id":"shared:home_drop:1311013:793:_note","en":"Burst Berry (Small)","ru":"Взрывная ягода (малая)"}
+{"id":"shared:home_drop:1311014:794:_note","en":"Burst Berry (Large)","ru":"Взрывная ягода (большая)"}
+{"id":"shared:home_drop:1311015:795:_note","en":"Burst Berry (Small)","ru":"Взрывная ягода (малая)"}
+{"id":"shared:home_drop:1311016:796:_note","en":"Burst Berry (Large)","ru":"Взрывная ягода (большая)"}
+{"id":"shared:home_drop:1311017:797:_note","en":"Burst Berry (Small)","ru":"Взрывная ягода (малая)"}
+{"id":"shared:home_drop:1311018:798:_note","en":"Burst Berry (Large)","ru":"Взрывная ягода (большая)"}
+{"id":"shared:home_drop:1311019:799:_note","en":"Burst Berry (Small)","ru":"Взрывная ягода (малая)"}
+{"id":"shared:home_drop:1311020:800:_note","en":"Life Lantern (Large)","ru":"Фонарь жизни (большой)"}
+{"id":"shared:home_drop:1311021:801:_note","en":"Life Lantern (Small)","ru":"Фонарь жизни (малый)"}
+{"id":"shared:home_drop:1311022:802:_note","en":"Life Lantern (Large)","ru":"Фонарь жизни (большой)"}
+{"id":"shared:home_drop:1311023:803:_note","en":"Life Lantern (Small)","ru":"Фонарь жизни (малый)"}
+{"id":"shared:home_drop:1311024:804:_note","en":"Life Lantern (Large)","ru":"Фонарь жизни (большой)"}
+{"id":"shared:home_drop:1311025:805:_note","en":"Life Lantern (Small)","ru":"Фонарь жизни (малый)"}
+{"id":"shared:home_drop:1311026:806:_note","en":"Life Lantern (Large)","ru":"Фонарь жизни (большой)"}
+{"id":"shared:home_drop:1311027:807:_note","en":"Life Lantern (Small)","ru":"Фонарь жизни (малый)"}
+{"id":"shared:home_drop:1311028:808:_note","en":"Life Lantern (Large)","ru":"Фонарь жизни (большой)"}
+{"id":"shared:home_drop:1311029:809:_note","en":"Life Lantern (Small)","ru":"Фонарь жизни (малый)"}
+{"id":"shared:home_drop:1311030:810:_note","en":"Scale-Shell Berry (Large)","ru":"Чешуйчатая ягода (большая)"}
+{"id":"shared:home_drop:1311031:811:_note","en":"Scale-Shell Berry (Small)","ru":"Чешуйчатая ягода (малая)"}
+{"id":"shared:home_drop:1311032:812:_note","en":"Scale-Shell Berry (Large)","ru":"Чешуйчатая ягода (большая)"}
+{"id":"shared:home_drop:1311033:813:_note","en":"Scale-Shell Berry (Small)","ru":"Чешуйчатая ягода (малая)"}
+{"id":"shared:home_drop:1311034:814:_note","en":"Scale-Shell Berry (Large)","ru":"Чешуйчатая ягода (большая)"}
+{"id":"shared:home_drop:1311035:815:_note","en":"Scale-Shell Berry (Small)","ru":"Чешуйчатая ягода (малая)"}
+{"id":"shared:home_drop:1311036:816:_note","en":"Scale-Shell Berry (Large)","ru":"Чешуйчатая ягода (большая)"}
+{"id":"shared:home_drop:1311037:817:_note","en":"Scale-Shell Berry (Small)","ru":"Чешуйчатая ягода (малая)"}
+{"id":"shared:home_drop:1311038:818:_note","en":"Scale-Shell Berry (Large)","ru":"Чешуйчатая ягода (большая)"}
+{"id":"shared:home_drop:1311039:819:_note","en":"Scale-Shell Berry (Small)","ru":"Чешуйчатая ягода (малая)"}
+{"id":"shared:home_drop:1311040:820:_note","en":"Spirit Ward Berry (Large)","ru":"Ягода духа-хранителя (большая)"}
+{"id":"shared:home_drop:1311041:821:_note","en":"Spirit Ward Berry (Small)","ru":"Ягода духа-хранителя (малая)"}
+{"id":"shared:home_drop:1311042:822:_note","en":"Spirit Ward Berry (Large)","ru":"Ягода духа-хранителя (большая)"}
+{"id":"shared:home_drop:1311043:823:_note","en":"Spirit Ward Berry (Small)","ru":"Ягода духа-хранителя (малая)"}
+{"id":"shared:home_drop:1311044:824:_note","en":"Spirit Ward Berry (Large)","ru":"Ягода духа-хранителя (большая)"}
+{"id":"shared:home_drop:1311045:825:_note","en":"Spirit Ward Berry (Small)","ru":"Ягода духа-хранителя (малая)"}
+{"id":"shared:home_drop:1311046:826:_note","en":"Spirit Ward Berry (Large)","ru":"Ягода духа-хранителя (большая)"}
+{"id":"shared:home_drop:1311047:827:_note","en":"Spirit Ward Berry (Small)","ru":"Ягода духа-хранителя (малая)"}
+{"id":"shared:home_drop:1311048:828:_note","en":"Spirit Ward Berry (Large)","ru":"Ягода духа-хранителя (большая)"}
+{"id":"shared:home_drop:1311049:829:_note","en":"Spirit Ward Berry (Small)","ru":"Ягода духа-хранителя (малая)"}
+{"id":"shared:home_drop:131303000:897:_note","en":"Sprout Valley Tier -1 Mine — Windcopper Ore","ru":"Долина Ростков, рудник -1 уровня — ветромедная руда"}
+{"id":"shared:home_drop:131303001:898:_note","en":"Sprout Valley Tier -1 Mine — Glimmertin Ore","ru":"Долина Ростков, рудник -1 уровня — мерцающе-оловянная руда"}
+{"id":"shared:home_drop:131303002:899:_note","en":"Sprout Valley Tier -1 Mine — Rock Salt","ru":"Долина Ростков, рудник -1 уровня — каменная соль"}
+{"id":"shared:home_drop:132000101:900:_note","en":"Duststone Base Daily Output 900","ru":"Базовый дневной выход пыльного камня 900"}
+{"id":"shared:home_drop:1320001:830:_note","en":"Gold Dewflower","ru":"Золоторосная росянка"}
+{"id":"shared:home_drop:132000201:901:_note","en":"Topaz Base Daily Output 20","ru":"Базовый дневной выход топаза 20"}
+{"id":"shared:home_drop:1320002:831:_note","en":"Storm Spirit Flower","ru":"Цветок духа бури"}
+{"id":"shared:home_drop:132000301:902:_note","en":"Duststone Base Daily Output 900","ru":"Базовый дневной выход пыльного камня 900"}
+{"id":"shared:home_drop:1320003:832:_note","en":"Swallowtail Flower","ru":"Цветок ласточки"}
+{"id":"shared:home_drop:132000401:903:_note","en":"Topaz Base Daily Output 20","ru":"Базовый дневной выход топаза 20"}
+{"id":"shared:home_drop:1320004:833:_note","en":"Gardul Lotus","ru":"Лотос Гардула"}
+{"id":"shared:home_drop:132000501:904:_note","en":"Bedrock Base Daily Output 600","ru":"Базовый дневной выход твёрдой породы 600"}
+{"id":"shared:home_drop:132000601:905:_note","en":"Bluecrystal Base Daily Output 10","ru":"Базовый дневной выход синего кристалла 10"}
+{"id":"shared:home_drop:132000701:906:_note","en":"Bedrock Base Daily Output 600","ru":"Базовый дневной выход твёрдой породы 600"}
+{"id":"shared:home_drop:132000801:907:_note","en":"Basic daily Silver output 10","ru":"Базовый ежедневный доход серебра 10"}
+{"id":"shared:home_drop:132010101:908:_note","en":"Increases daily Duststone output at the Windcopper Mine by 240_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневную добычу каменной пыли на медном месторождении Ветрокрыла на 240_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:132010201:909:_note","en":"Increases daily Topaz output at the Windcopper Mine by 4_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневную добычу топаза на медном месторождении Ветрокрыла на 4_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:132020101:910:_note","en":"Increases daily Duststone output at the Glinttin Mine by 240_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневную добычу каменной пыли на оловянном месторождении Блеска на 240_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:132020201:911:_note","en":"Increases daily Topaz output at the Glinttin Mine by 4_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневную добычу топаза на оловянном месторождении Блеска на 4_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:132030101:912:_note","en":"Increases daily Bedrock output at the Mirrorspar Mine by 160_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневную добычу твердой породы на железном месторождении Зеркального Шпата на 160_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:132030201:913:_note","en":"Increases daily Azure Crystal output at the Mirrorspar Mine by 2_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневную добычу лазурного кристалла на железном месторождении Зеркального Шпата на 2_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:132040101:914:_note","en":"Increases daily Bedrock output at the Skyiron Mine by 160_Fleece_Scar of the Final Battle","ru":"Увеличивает ежедневную добычу твердой породы на небесном железном месторождении на 160_Флис_Шрам Последней Битвы"}
+{"id":"shared:home_drop:132040201:915:_note","en":"Increases daily Silver output at the Skyiron Mine by 2_Fleece_Scar of the Final Battle","ru":"Увеличивает ежедневный доход серебра на небесном железном месторождении на 2_Флис_Шрам Последней Битвы"}
+{"id":"shared:home_drop:132303000:916:_note","en":"Sprout Valley Lv. -2 Mine - Windcopper Ore","ru":"Долина Ростков, рудник ур. -2 - медная руда Ветрокрыла"}
+{"id":"shared:home_drop:132303001:917:_note","en":"Sprout Valley Lv. -2 Mine - Glinttin Ore","ru":"Долина Ростков, рудник ур. -2 - оловянная руда Блеска"}
+{"id":"shared:home_drop:132303002:918:_note","en":"Sprout Valley Lv. -2 Mine - Rock Salt","ru":"Долина Ростков, рудник ур. -2 - каменная соль"}
+{"id":"shared:home_drop:132303003:919:_note","en":"Sprout Valley Lv. -2 Mine - Raw Topaz","ru":"Долина Ростков, рудник ур. -2 - необработанный топаз"}
+{"id":"shared:home_drop:13300001:856:_note","en":"Lumber Camp — Facility3 — Hardwood","ru":"Лесопилка — объект3 — твёрдая древесина"}
+{"id":"shared:home_drop:13300007:857:_note","en":"Lumber Camp — Facility3 — Balmwind Wood","ru":"Лесопилка — объект3 — благовейная древесина"}
+{"id":"shared:home_drop:133000101:920:_note","en":"Basic daily Windcopper Ore output 1800","ru":"Базовый ежедневный доход медной руды Ветрокрыла 1800"}
+{"id":"shared:home_drop:1330001:834:_note","en":"Gold Dewflower Seeds","ru":"Семена золоторосной росянки"}
+{"id":"shared:home_drop:133000201:921:_note","en":"Basic daily Glinttin Ore output 1200","ru":"Базовый ежедневный доход оловянной руды Блеска 1200"}
+{"id":"shared:home_drop:1330002:835:_note","en":"Storm Spirit Flower Seeds","ru":"Семена цветка духа бури"}
+{"id":"shared:home_drop:133000301:922:_note","en":"Basic daily Mirrorspar Ore output 900","ru":"Базовый ежедневный доход руды Зеркального Шпата 900"}
+{"id":"shared:home_drop:1330003:836:_note","en":"Swallowtail Flower Seeds","ru":"Семена цветка ласточки"}
+{"id":"shared:home_drop:133000401:923:_note","en":"Basic daily Skyiron Ore output 720","ru":"Базовый ежедневный доход небесной железной руды 720"}
+{"id":"shared:home_drop:1330004:837:_note","en":"Gardul Lotus Seeds","ru":"Семена лотоса Гардула"}
+{"id":"shared:home_drop:133010101:924:_note","en":"Increases daily Windcopper Ore output at the Windcopper Mine by 360_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневную добычу медной руды Ветрокрыла на медном месторождении Ветрокрыла на 360_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:133020101:925:_note","en":"Increases daily Glinttin Ore output at the Glinttin Mine by 120_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневную добычу оловянной руды Блеска на оловянном месторождении Блеска на 120_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:133030101:926:_note","en":"Increases daily Glinttin Ore output at the Glinttin Mine by 120_Sprout Valley_Traceshadow Cliff Valley","ru":"Увеличивает ежедневную добычу оловянной руды Блеска на оловянном месторождении Блеска на 120_Долина Ростков_Ущелье Теневых Следов"}
+{"id":"shared:home_drop:133040101:927:_note","en":"Increases daily Mirrorspar Ore output at the Mirrorspar Mine by 90_Fleece_Bountiful Valley","ru":"Увеличивает ежедневную добычу руды Зеркального Шпата на железном месторождении Зеркального Шпата на 90_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:133050101:928:_note","en":"Increases daily Mirrorspar Ore output at the Mirrorspar Mine by 90_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневную добычу руды Зеркального Шпата на железном месторождении Зеркального Шпата на 90_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:133060101:929:_note","en":"Increases daily Skyiron Ore output at the Skyiron Mine by 72_Fleece_Lost Trail Forest","ru":"Увеличивает ежедневную добычу небесной железной руды на небесном железном месторождении на 72_Флис_Лес Затерянных Троп"}
+{"id":"shared:home_drop:133070101:930:_note","en":"Increases daily Skyiron Ore output at the Skyiron Mine by 72_Fleece_Scar of the Final Battle","ru":"Увеличивает ежедневную добычу небесной железной руды на небесном железном месторождении на 72_Флис_Шрам Последней Битвы"}
+{"id":"shared:home_drop:13317001:858:_note","en":"Lumber Camp — Facility3 — Fiber","ru":"Лесопилка — объект3 — волокно"}
+{"id":"shared:home_drop:135000101:931:_note","en":"Basic daily Earth Elemental Particle output 300","ru":"Базовый ежедневный доход частиц Земной стихии 300"}
+{"id":"shared:home_drop:135000201:932:_note","en":"Basic daily Water Elemental Particle output 300","ru":"Базовый ежедневный доход частиц Водной стихии 300"}
+{"id":"shared:home_drop:135000301:933:_note","en":"Basic daily Fire Elemental Particle output 300","ru":"Базовый ежедневный доход частиц Огненной стихии 300"}
+{"id":"shared:home_drop:135000401:934:_note","en":"Basic daily Wind Elemental Particle output 300","ru":"Базовый ежедневный доход частиц Воздушной стихии 300"}
+{"id":"shared:home_drop:135000501:935:_note","en":"Basic daily Ice Elemental Particle output 300","ru":"Базовый ежедневный доход частиц Ледяной стихии 300"}
+{"id":"shared:home_drop:135000601:936:_note","en":"Basic daily Lightning Elemental Particle output 300","ru":"Базовый ежедневный доход частиц Грозовой стихии 300"}
+{"id":"shared:home_drop:135000701:937:_note","en":"Basic daily Wood Elemental Particle output 300","ru":"Базовый ежедневный доход частиц Древесного элемента 300"}
+{"id":"shared:home_drop:135000801:938:_note","en":"Basic daily Light Elemental Particle output 100","ru":"Базовый ежедневный доход частиц Светлой стихии 100"}
+{"id":"shared:home_drop:135000901:939:_note","en":"Basic daily Dark Elemental Particle output 100","ru":"Базовый ежедневный доход частиц Темной стихии 100"}
+{"id":"shared:home_drop:135010101:940:_note","en":"Increases daily Earth Elemental Particle output by 90_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневный доход частиц Земной стихии на 90_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:135010201:941:_note","en":"Increases daily Water Elemental Particle output by 90_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневный доход частиц Водной стихии на 90_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:135010301:942:_note","en":"Increases daily Fire Elemental Particle output by 90_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневный доход частиц Огненной стихии на 90_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:135010401:943:_note","en":"Increases daily Wind Elemental Particle output by 90_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневный доход частиц Воздушной стихии на 90_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:135010501:944:_note","en":"Increases daily Ice Elemental Particle output by 90_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневный доход частиц Ледяной стихии на 90_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:135010601:945:_note","en":"Increases daily Lightning Elemental Particle output by 90_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневный доход частиц Грозовой стихии на 90_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:135010701:946:_note","en":"Increases daily Wood Elemental Particle output by 90_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневный доход частиц Древесного элемента на 90_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:135010801:947:_note","en":"Increases daily Light Elemental Particle output by 30_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневный доход частиц Светлой стихии на 30_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:135010901:948:_note","en":"Increases daily Dark Elemental Particle output by 30_Sprout Valley_Wolfhowl Plains","ru":"Увеличивает ежедневный доход частиц Темной стихии на 30_Долина Ростков_Равнина Волчьего Воя"}
+{"id":"shared:home_drop:135020101:949:_note","en":"Increases daily Earth Elemental Particle output by 90_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход частиц Земной стихии на 90_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:135020201:950:_note","en":"Increases daily Water Elemental Particle output by 90_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход частиц Водной стихии на 90_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:135020301:951:_note","en":"Increases daily Fire Elemental Particle output by 90_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход частиц Огненной стихии на 90_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:135020401:952:_note","en":"Increases daily Wind Elemental Particle output by 90_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход частиц Воздушной стихии на 90_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:135020501:953:_note","en":"Increases daily Ice Elemental Particle output by 90_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход частиц Ледяной стихии на 90_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:135020601:954:_note","en":"Increases daily Lightning Elemental Particle output by 90_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход частиц Грозовой стихии на 90_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:135020701:955:_note","en":"Increases daily Wood Elemental Particle output by 90_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход частиц Древесного элемента на 90_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:135020801:956:_note","en":"Increases daily Light Elemental Particle output by 30_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход частиц Светлой стихии на 30_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:135020901:957:_note","en":"Increases daily Dark Elemental Particle output by 30_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход частиц Темной стихии на 30_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:135040101:958:_note","en":"Increases daily Earth Elemental Particle output by 90_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход частиц Земной стихии на 90_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:135040201:959:_note","en":"Increases daily Water Elemental Particle output by 90_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход частиц Водной стихии на 90_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:135040301:960:_note","en":"Increases daily Fire Elemental Particle output by 90_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход частиц Огненной стихии на 90_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:135040401:961:_note","en":"Increases daily Wind Elemental Particle output by 90_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход частиц Воздушной стихии на 90_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:135040501:962:_note","en":"Increases daily Ice Elemental Particle output by 90_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход частиц Ледяной стихии на 90_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:135040601:963:_note","en":"Increases daily Lightning Elemental Particle output by 90_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход частиц Грозовой стихии на 90_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:135040701:964:_note","en":"Increases daily Wood Elemental Particle output by 90_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход частиц Древесного элемента на 90_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:135040801:965:_note","en":"Increases daily Light Elemental Particle output by 30_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход частиц Светлой стихии на 30_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:135040901:966:_note","en":"Increases daily Dark Elemental Particle output by 30_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход частиц Темной стихии на 30_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:135050101:967:_note","en":"Increases daily Earth Elemental Particle output by 90_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход частиц Земной стихии на 90_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:135050201:968:_note","en":"Increases daily Water Elemental Particle output by 90_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход частиц Водной стихии на 90_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:135050301:969:_note","en":"Increases daily Fire Elemental Particle output by 90_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход частиц Огненной стихии на 90_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:135050401:970:_note","en":"Increases daily Wind Elemental Particle output by 90_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход частиц Воздушной стихии на 90_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:135050501:971:_note","en":"Increases daily Ice Elemental Particle output by 90_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход частиц Ледяной стихии на 90_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:135050601:972:_note","en":"Increases daily Lightning Elemental Particle output by 90_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход частиц Грозовой стихии на 90_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:135050701:973:_note","en":"Increases daily Wood Elemental Particle output by 90_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход частиц Древесного элемента на 90_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:135050801:974:_note","en":"Increases daily Light Elemental Particle output by 30_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход частиц Светлой стихии на 30_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:135050901:975:_note","en":"Increases daily Dark Elemental Particle output by 30_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход частиц Темной стихии на 30_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:136000101:976:_note","en":"Basic daily Mottled Red Mushroom output 144","ru":"Базовый ежедневный доход крапчатого красного гриба 144"}
+{"id":"shared:home_drop:136000201:977:_note","en":"Basic daily Red Berry output 144","ru":"Базовый ежедневный доход красной ягоды 144"}
+{"id":"shared:home_drop:136000301:978:_note","en":"Basic daily Juicestone output 144","ru":"Базовый ежедневный доход сокового камня 144"}
+{"id":"shared:home_drop:136010101:979:_note","en":"Unlocks Clear Moon Fruit output, daily output 144_Sprout Valley_Windrest Woodland","ru":"Открывает добычу плода Ясной Луны, ежедневный доход 144_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:136020101:980:_note","en":"Unlocks Bitter Sun Fruit output, daily output 144_Sprout Valley_Mistleaf Thicket","ru":"Открывает добычу плода Горького Солнца, ежедневный доход 144_Долина Ростков_Туманная чаща"}
+{"id":"shared:home_drop:136030101:981:_note","en":"Unlocks Peach Lychee output, daily output 144_Sprout Valley_Rimrock Highlands","ru":"Открывает добычу персикового личи, ежедневный доход 144_Долина Ростков_Скалистое нагорье"}
+{"id":"shared:home_drop:136040101:982:_note","en":"Increases daily Mottled Red Mushroom output by 15_Sprout Valley_Traceshadow Cliff Valley","ru":"Увеличивает ежедневный доход крапчатого красного гриба на 15_Долина Ростков_Ущелье Теневых Следов"}
+{"id":"shared:home_drop:136040201:983:_note","en":"Increases daily Red Berry output by 15_Sprout Valley_Traceshadow Cliff Valley","ru":"Увеличивает ежедневный доход красной ягоды на 15_Долина Ростков_Ущелье Теневых Следов"}
+{"id":"shared:home_drop:136040301:984:_note","en":"Increases daily Juicestone output by 15_Sprout Valley_Traceshadow Cliff Valley","ru":"Увеличивает ежедневный доход сокового камня на 15_Долина Ростков_Ущелье Теневых Следов"}
+{"id":"shared:home_drop:136040401:985:_note","en":"Increases daily Clear Moon Fruit output by 15_Sprout Valley_Traceshadow Cliff Valley","ru":"Увеличивает ежедневный доход плода Ясной Луны на 15_Долина Ростков_Ущелье Теневых Следов"}
+{"id":"shared:home_drop:136040501:986:_note","en":"Increases daily Bitter Sun Fruit output by 15_Sprout Valley_Traceshadow Cliff Valley","ru":"Увеличивает ежедневный доход плода Горького Солнца на 15_Долина Ростков_Ущелье Теневых Следов"}
+{"id":"shared:home_drop:136040601:987:_note","en":"Increases daily Peach Lychee output by 15_Sprout Valley_Traceshadow Cliff Valley","ru":"Увеличивает ежедневный доход персикового личи на 15_Долина Ростков_Ущелье Теневых Следов"}
+{"id":"shared:home_drop:136050101:988:_note","en":"Increases daily Mottled Red Mushroom output by 15_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход крапчатого красного гриба на 15_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:136050201:989:_note","en":"Increases daily Red Berry output by 15_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход красной ягоды на 15_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:136050301:990:_note","en":"Increases daily Juicestone output by 15_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход сокового камня на 15_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:136050401:991:_note","en":"Increases daily Clear Moon Fruit output by 15_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход плода Ясной Луны на 15_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:136050501:992:_note","en":"Increases daily Bitter Sun Fruit output by 15_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход плода Горького Солнца на 15_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:136050601:993:_note","en":"Increases daily Peach Lychee output by 15_Fleece_Bountiful Valley","ru":"Увеличивает ежедневный доход персикового личи на 15_Флис_Плодородная Долина"}
+{"id":"shared:home_drop:137000101:994:_note","en":"Basic daily Fine Starlight Splinter output 200","ru":"Базовый ежедневный доход мелкого осколка звездного света 200"}
+{"id":"shared:home_drop:137010101:995:_note","en":"Increases daily Fine Starlight Splinter output by 200_Sprout Valley_Windrest Woodland","ru":"Увеличивает ежедневный доход мелкого осколка звездного света на 200_Долина Ростков_Лес Ветров"}
+{"id":"shared:home_drop:137020101:996:_note","en":"Increases daily Fine Starlight Splinter output by 400_Sprout Valley_Rimrock Highlands","ru":"Увеличивает ежедневный доход мелкого осколка звездного света на 400_Долина Ростков_Скалистое нагорье"}
+{"id":"shared:home_drop:137030101:997:_note","en":"Increases daily Fine Starlight Splinter output by 400_Fleece_Thawing Winter Lake","ru":"Увеличивает ежедневный доход мелкого осколка звездного света на 400_Флис_Озеро Оттепели"}
+{"id":"shared:home_drop:137040101:998:_note","en":"Increases daily Fine Starlight Splinter output by 500_Fleece_Lost Trail Forest","ru":"Увеличивает ежедневный доход мелкого осколка звездного света на 500_Флис_Лес Затерянных Троп"}
+{"id":"shared:home_drop:138000101:999:_note","en":"Base daily Beast Meat output: 180","ru":"Базовый ежедневный выход мяса зверя: 180"}
+{"id":"shared:home_drop:138000201:1000:_note","en":"Base daily Poultry output: 180","ru":"Базовый ежедневный выход мяса птицы: 180"}
+{"id":"shared:home_drop:138000301:1001:_note","en":"Base daily Tattered Hide output: 720","ru":"Базовый ежедневный выход рваной шкуры: 720"}
+{"id":"shared:home_drop:138000401:1002:_note","en":"Base daily Sprout Valley blue egg output: 2","ru":"Базовый ежедневный выход синих яиц Долины Ростков: 2"}
+{"id":"shared:home_drop:138010201:1003:_note","en":"Unlocks Sprout Valley purple egg production. Daily output: 0.5_Sprout Valley_Mistleaf Thicket","ru":"Разблокирует производство фиолетовых яиц в Долине Ростков. Ежедневный выход: 0.5_Долина Ростков_Туманнолиственная чаща"}
+{"id":"shared:home_drop:138010301:1004:_note","en":"High-grade attribute egg 1 daily output increased by 0.08_Sprout Valley_Mistleaf Thicket","ru":"Ежедневный выход яиц высокого ранга 1 увеличен на 0.08_Долина Ростков_Туманнолиственная чаща"}
+{"id":"shared:home_drop:138020201:1005:_note","en":"Beast Meat daily output increased by 18_Sprout Valley_Rimrock Highlands","ru":"Ежедневный выход мяса зверя увеличен на 18_Долина Ростков_Крайскальное нагорье"}
+{"id":"shared:home_drop:138020301:1006:_note","en":"Poultry daily output increased by 18_Sprout Valley_Rimrock Highlands","ru":"Ежедневный выход мяса птицы увеличен на 18_Долина Ростков_Крайскальное нагорье"}
+{"id":"shared:home_drop:138020401:1007:_note","en":"High-grade attribute egg 2 daily output increased by 0.08_Sprout Valley_Rimrock Highlands","ru":"Ежедневный выход яиц высокого ранга 2 увеличен на 0.08_Долина Ростков_Крайскальное нагорье"}
+{"id":"shared:home_drop:138030201:1008:_note","en":"Tattered Hide daily output increased by 96_Sprout Valley_Traceshadow Crag","ru":"Ежедневный выход рваной шкуры увеличен на 96_Долина Ростков_Скала Теней Следов"}
+{"id":"shared:home_drop:138030301:1009:_note","en":"High-grade attribute egg 3 daily output increased by 0.08_Sprout Valley_Traceshadow Crag","ru":"Ежедневный выход яиц высокого ранга 3 увеличен на 0.08_Долина Ростков_Скала Теней Следов"}
+{"id":"shared:home_drop:138040101:1010:_note","en":"Unlocks Whole Hide production. Daily output: 480_Fleece_Bountiful Vale","ru":"Разблокирует производство целых шкур. Ежедневный выход: 480_Флис_Плодородная долина"}
+{"id":"shared:home_drop:138040301:1011:_note","en":"Unlocks Fleece blue egg production. Daily output: 2_Fleece_Bountiful Vale","ru":"Разблокирует производство синих яиц во Флисе. Ежедневный выход: 2_Флис_Плодородная долина"}
+{"id":"shared:home_drop:138040401:1012:_note","en":"Unlocks Fleece purple egg production. Daily output: 0.5_Fleece_Bountiful Vale","ru":"Разблокирует производство фиолетовых яиц во Флисе. Ежедневный выход: 0.5_Флис_Плодородная долина"}
+{"id":"shared:home_drop:138040501:1013:_note","en":"High-grade attribute egg 4 daily output increased by 0.08_Fleece_Bountiful Vale","ru":"Ежедневный выход яиц высокого ранга 4 увеличен на 0.08_Флис_Плодородная долина"}
+{"id":"shared:home_drop:138050201:1014:_note","en":"Beast Meat daily output increased by 18_Fleece_Losttrail Forest","ru":"Ежедневный выход мяса зверя увеличен на 18_Флис_Лес Затерянных Троп"}
+{"id":"shared:home_drop:138050301:1015:_note","en":"Poultry daily output increased by 18_Fleece_Losttrail Forest","ru":"Ежедневный выход мяса птицы увеличен на 18_Флис_Лес Затерянных Троп"}
+{"id":"shared:home_drop:138050401:1016:_note","en":"High-grade attribute egg 5 daily output increased by 0.08_Fleece_Losttrail Forest","ru":"Ежедневный выход яиц высокого ранга 5 увеличен на 0.08_Флис_Лес Затерянных Троп"}
+{"id":"shared:home_drop:138060201:1017:_note","en":"Tattered Hide daily output increased by 72_Fleece_Scar of the Final Battle","ru":"Ежедневный выход рваной шкуры увеличен на 72_Флис_Шрам Последней Битвы"}
+{"id":"shared:home_drop:138060301:1018:_note","en":"Whole Hide daily output increased by 72_Fleece_Scar of the Final Battle","ru":"Ежедневный выход целых шкур увеличен на 72_Флис_Шрам Последней Битвы"}
+{"id":"shared:home_drop:138060401:1019:_note","en":"High-grade attribute egg 6 daily output increased by 0.08_Fleece_Scar of the Final Battle","ru":"Ежедневный выход яиц высокого ранга 6 увеличен на 0.08_Флис_Шрам Последней Битвы"}
+{"id":"shared:home_drop:139000001:1020:_note","en":"Insight node — bonus Softwood","ru":"Узел Познаний — дополнительный мягкий лес"}
+{"id":"shared:home_drop:139000002:1021:_note","en":"Insight node — bonus Red Berry, Sapstone","ru":"Узел Познаний — дополнительные красная ягода и соковый камень"}
+{"id":"shared:home_drop:139000003:1022:_note","en":"Insight node — bonus Hardwood","ru":"Узел Познаний — дополнительная твёрдая древесина"}
+{"id":"shared:home_drop:139001:166:_note","en":"Radiant Diamond","ru":"Сияющий алмаз"}
+{"id":"shared:home_drop:139002:167:_note","en":"Colorful Amber Stone","ru":"Камень цветного янтаря"}
+{"id":"shared:home_drop:139003:168:_note","en":"Emerald Fiber Stone","ru":"Изумрудноволокнистый камень"}
+{"id":"shared:home_drop:139004:169:_note","en":"Blazefire Stone","ru":"Камень жгучего огня"}
+{"id":"shared:home_drop:140001:170:_note","en":"Tattered Hide","ru":"Потрёпанная шкура"}
+{"id":"shared:home_drop:140002:171:_note","en":"Intact Hide","ru":"Целая шкура"}
+{"id":"shared:home_drop:140003:172:_note","en":"Fine Hide","ru":"Отличная шкура"}
+{"id":"shared:home_drop:140004:173:_note","en":"Fresh Beast Meat","ru":"Свежее мясо зверя"}
+{"id":"shared:home_drop:140005:174:_note","en":"Quality Beast Meat","ru":"Качественное мясо зверя"}
+{"id":"shared:home_drop:140006:175:_note","en":"Prime Beast Meat","ru":"Превосходное мясо зверя"}
+{"id":"shared:home_drop:140007:176:_note","en":"Fresh Poultry","ru":"Свежее мясо птицы"}
+{"id":"shared:home_drop:140008:177:_note","en":"Quality Poultry","ru":"Качественное мясо птицы"}
+{"id":"shared:home_drop:140009:178:_note","en":"Prime Poultry","ru":"Превосходное мясо птицы"}
+{"id":"shared:home_drop:140010:179:_note","en":"Egg","ru":"Яйцо"}
+{"id":"shared:home_drop:140011:180:_note","en":"Milk","ru":"Молоко"}
+{"id":"shared:home_drop:140012:181:_note","en":"Common Creature Base Yield","ru":"Базовый продукт обычных существ"}
+{"id":"shared:home_drop:140013:182:_note","en":"Beast Family basic yield","ru":"Базовый ресурс Семейства зверей"}
+{"id":"shared:home_drop:140014:183:_note","en":"Feather Family basic yield","ru":"Базовый ресурс Семейства пернатых"}
+{"id":"shared:home_drop:140015:184:_note","en":"Scale Family basic yield","ru":"Базовый ресурс Семейства чешуйчатых"}
+{"id":"shared:home_drop:140016:185:_note","en":"Moltskin Family basic yield","ru":"Базовый ресурс Семейства линяющих"}
+{"id":"shared:home_drop:140017:186:_note","en":"Common creature rare yield","ru":"Редкий ресурс обычных существ"}
+{"id":"shared:home_drop:140018:187:_note","en":"Beast Family rare yield","ru":"Редкий ресурс Семейства зверей"}
+{"id":"shared:home_drop:140019:188:_note","en":"Feather Family rare yield","ru":"Редкий ресурс Семейства пернатых"}
+{"id":"shared:home_drop:140020:189:_note","en":"Scale Family rare yield","ru":"Редкий ресурс Семейства чешуйчатых"}
+{"id":"shared:home_drop:140021:190:_note","en":"Moltskin Family rare yield","ru":"Редкий ресурс Семейства линяющих"}
+{"id":"shared:home_drop:141312001:1023:_note","en":"Sprout Valley -1-level Starshine Ore — Fragmented Starlight","ru":"Долина Ростков, звездный рудник -1 уровня — осколки звёздного сияния"}
+{"id":"shared:home_drop:142312001:1024:_note","en":"Sprout Valley -2-level Starshine Ore — Fragmented Starlight","ru":"Долина Ростков, звездный рудник -2 уровня — осколки звёздного сияния"}
+{"id":"shared:home_drop:14300001:859:_note","en":"Lumber Camp — Facility4 — Hardwood","ru":"Лесопилка — объект4 — твёрдая древесина"}
+{"id":"shared:home_drop:14300007:860:_note","en":"Lumber Camp — Facility4 — Balmwind Wood","ru":"Лесопилка — объект4 — благовейная древесина"}
+{"id":"shared:home_drop:14317001:861:_note","en":"Lumber Camp — Facility4 — Fiber","ru":"Лесопилка — объект4 — волокно"}
+{"id":"shared:home_drop:150001:191:_note","en":"Earth Elemental Mote","ru":"Частица Земной стихии"}
+{"id":"shared:home_drop:150002:192:_note","en":"Water Elemental Mote","ru":"Частица Водной стихии"}
+{"id":"shared:home_drop:150003:193:_note","en":"Fire Elemental Mote","ru":"Частица Огненной стихии"}
+{"id":"shared:home_drop:150004:194:_note","en":"Wind Elemental Mote","ru":"Частица Воздушной стихии"}
+{"id":"shared:home_drop:150005:195:_note","en":"Ice Elemental Mote","ru":"Частица Ледяной стихии"}
+{"id":"shared:home_drop:150006:196:_note","en":"Lightning Elemental Mote","ru":"Частица Грозовой стихии"}
+{"id":"shared:home_drop:150007:197:_note","en":"Wood Elemental Mote","ru":"Частица Древесного элемента"}
+{"id":"shared:home_drop:150008:198:_note","en":"Light Elemental Mote","ru":"Частица Светлой стихии"}
+{"id":"shared:home_drop:150009:199:_note","en":"Dark Elemental Mote","ru":"Частица Тёмной стихии"}
+{"id":"shared:home_drop:150010:200:_note","en":"Elemental Kin rare yield","ru":"Редкий ресурс Элементалей"}
+{"id":"shared:home_drop:150011:201:_note","en":"Spirit Family rare yield","ru":"Редкий ресурс Семейства духов"}
+{"id":"shared:home_drop:151302001:1025:_note","en":"Sprout Valley -1-level Hunting Lodge — Tattered Hide","ru":"Долина Ростков, охотничья хижина -1 уровня — рваная шкура"}
+{"id":"shared:home_drop:151308000:1026:_note","en":"Sprout Valley -1-level Hunting Lodge — Fresh Beast Meat","ru":"Долина Ростков, охотничья хижина -1 уровня — свежее мясо зверя"}
+{"id":"shared:home_drop:151308003:1027:_note","en":"Sprout Valley -1-level Hunting Lodge — Fresh Poultry","ru":"Долина Ростков, охотничья хижина -1 уровня — свежее мясо птицы"}
+{"id":"shared:home_drop:152302001:1028:_note","en":"Sprout Valley -2-level Hunting Lodge — Tattered Hide","ru":"Долина Ростков, охотничья хижина -2 уровня — рваная шкура"}
+{"id":"shared:home_drop:152302002:1029:_note","en":"Sprout Valley -2-level Hunting Lodge — Whole Hide","ru":"Долина Ростков, охотничья хижина -2 уровня — целая шкура"}
+{"id":"shared:home_drop:152308000:1030:_note","en":"Sprout Valley -2-level Hunting Lodge — Fresh Beast Meat","ru":"Долина Ростков, охотничья хижина -2 уровня — свежее мясо зверя"}
+{"id":"shared:home_drop:152308001:1031:_note","en":"Sprout Valley -2-level Hunting Lodge — Fine Beast Meat","ru":"Долина Ростков, охотничья хижина -2 уровня — отборное мясо зверя"}
+{"id":"shared:home_drop:152308003:1032:_note","en":"Sprout Valley -2-level Hunting Lodge — Fresh Poultry","ru":"Долина Ростков, охотничья хижина -2 уровня — свежее мясо птицы"}
+{"id":"shared:home_drop:152308004:1033:_note","en":"Sprout Valley -2-level Hunting Lodge — Fine Poultry","ru":"Долина Ростков, охотничья хижина -2 уровня — отборное мясо птицы"}
+{"id":"shared:home_drop:152308009:1034:_note","en":"Sprout Valley -2-level Hunting Lodge — Fresh Eggs","ru":"Долина Ростков, охотничья хижина -2 уровня — свежие яйца"}
+{"id":"shared:home_drop:152308010:1035:_note","en":"Sprout Valley -2-level Hunting Lodge — Rich Milk","ru":"Долина Ростков, охотничья хижина -2 уровня — густое молоко"}
+{"id":"shared:home_drop:161311002:1036:_note","en":"Sprout Valley -1-level Elemental Altar — Earth Element Motes","ru":"Долина Ростков, элементный алтарь -1 уровня — частицы земной стихии"}
+{"id":"shared:home_drop:161311003:1037:_note","en":"Sprout Valley -1-level Elemental Altar — Water Element Motes","ru":"Долина Ростков, элементный алтарь -1 уровня — частицы водной стихии"}
+{"id":"shared:home_drop:161311004:1038:_note","en":"Sprout Valley -1-level Elemental Altar — Fire Element Motes","ru":"Долина Ростков, элементный алтарь -1 уровня — частицы огненной стихии"}
+{"id":"shared:home_drop:161311005:1039:_note","en":"Sprout Valley -1-level Elemental Altar — Wind Element Motes","ru":"Долина Ростков, элементный алтарь -1 уровня — частицы воздушной стихии"}
+{"id":"shared:home_drop:161311006:1040:_note","en":"Sprout Valley -1-level Elemental Altar — Ice Element Motes","ru":"Долина Ростков, элементный алтарь -1 уровня — частицы ледяной стихии"}
+{"id":"shared:home_drop:161311007:1041:_note","en":"Sprout Valley -1-level Elemental Altar — Lightning Element Motes","ru":"Долина Ростков, элементный алтарь -1 уровня — частицы грозовой стихии"}
+{"id":"shared:home_drop:161311008:1042:_note","en":"Sprout Valley -1-level Elemental Altar — Wood Element Motes","ru":"Долина Ростков, элементный алтарь -1 уровня — частицы древесного элемента"}
+{"id":"shared:home_drop:161311009:1043:_note","en":"Sprout Valley -1-level Elemental Altar — Light Element Motes","ru":"Долина Ростков, элементный алтарь -1 уровня — частицы светлой стихии"}
+{"id":"shared:home_drop:161311010:1044:_note","en":"Sprout Valley -1-level Elemental Altar — Dark Element Motes","ru":"Долина Ростков, элементный алтарь -1 уровня — частицы тёмной стихии"}
+{"id":"shared:home_drop:162311002:1045:_note","en":"Sprout Valley -2-level Elemental Altar — Earth Element Motes","ru":"Долина Ростков, элементный алтарь -2 уровня — частицы земной стихии"}
+{"id":"shared:home_drop:162311003:1046:_note","en":"Sprout Valley -2-level Elemental Altar — Water Element Motes","ru":"Долина Ростков, элементный алтарь -2 уровня — частицы водной стихии"}
+{"id":"shared:home_drop:162311004:1047:_note","en":"Sprout Valley -2-level Elemental Altar — Fire Element Motes","ru":"Долина Ростков, элементный алтарь -2 уровня — частицы огненной стихии"}
+{"id":"shared:home_drop:162311005:1048:_note","en":"Sprout Valley -2-level Elemental Altar — Wind Element Motes","ru":"Долина Ростков, элементный алтарь -2 уровня — частицы воздушной стихии"}
+{"id":"shared:home_drop:162311006:1049:_note","en":"Sprout Valley -2-level Elemental Altar — Ice Element Motes","ru":"Долина Ростков, элементный алтарь -2 уровня — частицы ледяной стихии"}
+{"id":"shared:home_drop:162311007:1050:_note","en":"Sprout Valley -2-level Elemental Altar — Lightning Element Motes","ru":"Долина Ростков, элементный алтарь -2 уровня — частицы грозовой стихии"}
+{"id":"shared:home_drop:162311008:1051:_note","en":"Sprout Valley -2-level Elemental Altar — Wood Element Motes","ru":"Долина Ростков, элементный алтарь -2 уровня — частицы древесного элемента"}
+{"id":"shared:home_drop:162311009:1052:_note","en":"Sprout Valley -2-level Elemental Altar — Light Element Motes","ru":"Долина Ростков, элементный алтарь -2 уровня — частицы светлой стихии"}
+{"id":"shared:home_drop:162311010:1053:_note","en":"Sprout Valley -2-level Elemental Altar — Dark Element Motes","ru":"Долина Ростков, элементный алтарь -2 уровня — частицы тёмной стихии"}
+{"id":"shared:home_drop:171308006:1054:_note","en":"Sprout Valley -1-level Fishing Ground — Fresh Fish","ru":"Долина Ростков, рыбное угодье -1 уровня — свежая рыба"}
+{"id":"shared:home_drop:172308006:1055:_note","en":"Sprout Valley -2-level Fishing Ground — Fresh Fish","ru":"Долина Ростков, рыбное угодье -2 уровня — свежая рыба"}
+{"id":"shared:home_drop:172308007:1056:_note","en":"Sprout Valley -2-level Fishing Ground — Fine Fish","ru":"Долина Ростков, рыбное угодье -2 уровня — отборная рыба"}
+{"id":"shared:home_drop:172308008:1057:_note","en":"Sprout Valley -2-level Fishing Ground — Prime Fish","ru":"Долина Ростков, рыбное угодье -2 уровня — первоклассная рыба"}
+{"id":"shared:home_drop:173308006:1058:_note","en":"Sprout Valley -3-level Fishing Ground — Fresh Fish","ru":"Долина Ростков, рыбное угодье -3 уровня — свежая рыба"}
+{"id":"shared:home_drop:173308007:1059:_note","en":"Sprout Valley -3-level Fishing Ground — Fine Fish","ru":"Долина Ростков, рыбное угодье -3 уровня — отборная рыба"}
+{"id":"shared:home_drop:173308008:1060:_note","en":"Sprout Valley -3-level Fishing Ground — Prime Fish","ru":"Долина Ростков, рыбное угодье -3 уровня — первоклассная рыба"}
+{"id":"shared:home_drop:173308011:1061:_note","en":"Sprout Valley -3-level Fishing Ground — Crab Meat","ru":"Долина Ростков, рыбное угодье -3 уровня — мясо краба"}
+{"id":"shared:home_drop:173308012:1062:_note","en":"Sprout Valley -3-level Fishing Ground — Shrimp Meat","ru":"Долина Ростков, рыбное угодье -3 уровня — мясо креветки"}
+{"id":"shared:home_drop:181306000:1063:_note","en":"Sprout Valley -1-level Gathering Hut — Red Berry","ru":"Долина Ростков, хижина сбора -1 уровня — красная ягода"}
+{"id":"shared:home_drop:181306001:1064:_note","en":"Sprout Valley -1-level Gathering Hut — Clearmoon Fruit","ru":"Долина Ростков, хижина сбора -1 уровня — яснолунный плод"}
+{"id":"shared:home_drop:181306002:1065:_note","en":"Sprout Valley -1-level Gathering Hut — Bittersun Fruit","ru":"Долина Ростков, хижина сбора -1 уровня — горькосолнечный плод"}
+{"id":"shared:home_drop:181306003:1066:_note","en":"Sprout Valley -1-level Gathering Hut — Peach Lychee","ru":"Долина Ростков, хижина сбора -1 уровня — персиковый личи"}
+{"id":"shared:home_drop:181306004:1067:_note","en":"Sprout Valley -1-level Gathering Hut — Sapstone","ru":"Долина Ростков, хижина сбора -1 уровня — соковый камень"}
+{"id":"shared:home_drop:181306006:1068:_note","en":"Sprout Valley -1-level Gathering Hut — Common Spotted Redcap","ru":"Долина Ростков, хижина сбора -1 уровня — обычный крапчатый красноголовик"}
+{"id":"shared:home_drop:181317001:1069:_note","en":"Sprout Valley -1-level Gathering Hut — Fiber","ru":"Долина Ростков, хижина сбора -1 уровня — волокно"}
+{"id":"shared:home_drop:210001:202:_note","en":"2 Softwood","ru":"2 Мягкая древесина"}
+{"id":"shared:home_drop:210002:203:_note","en":"2 Hardwood","ru":"2 Твёрдая древесина"}
+{"id":"shared:home_drop:210003:204:_note","en":"2 Sapstone Wood","ru":"2 Смолокаменная древесина"}
+{"id":"shared:home_drop:210004:205:_note","en":"2 Breezeblown Wood","ru":"2 Древесина ветров"}
+{"id":"shared:home_drop:210005:206:_note","en":"2 Star-Guided Wood","ru":"2 Звёздная древесина"}
+{"id":"shared:home_drop:210006:207:_note","en":"2 Flameplume Wood","ru":"2 Пламепёрая древесина"}
+{"id":"shared:home_drop:211300001:1070:_note","en":"Fleece -1-level Lumber Camp — Hardwood","ru":"Флис, лесопилка -1 уровня — твёрдая древесина"}
+{"id":"shared:home_drop:211317001:1071:_note","en":"Fleece -1-level Lumber Camp — Fiber","ru":"Флис, лесопилка -1 уровня — волокно"}
+{"id":"shared:home_drop:212300001:1072:_note","en":"Fleece -2-level Lumber Camp — Hardwood","ru":"Флис, лесопилка -2 уровня — твёрдая древесина"}
+{"id":"shared:home_drop:212300007:1073:_note","en":"Fleece -2-level Lumber Camp — Breezewood","ru":"Флис, лесопилка -2 уровня — ветряная древесина"}
+{"id":"shared:home_drop:212317001:1074:_note","en":"Fleece -2-level Lumber Camp — Fiber","ru":"Флис, лесопилка -2 уровня — волокно"}
+{"id":"shared:home_drop:21301000:862:_note","en":"Quarry — Facility1 — Duststone","ru":"Каменоломня — объект1 — пыльный камень"}
+{"id":"shared:home_drop:21318001:863:_note","en":"Quarry — Facility1 — Clay","ru":"Каменоломня — объект1 — глина"}
+{"id":"shared:home_drop:213300001:1075:_note","en":"Fleece -3-level Lumber Camp — Hardwood","ru":"Флис, лесопилка -3 уровня — твёрдая древесина"}
+{"id":"shared:home_drop:213300007:1076:_note","en":"Fleece -3-level Lumber Camp — Breezewood","ru":"Флис, лесопилка -3 уровня — ветряная древесина"}
+{"id":"shared:home_drop:213317001:1077:_note","en":"Fleece -3-level Lumber Camp — Fiber","ru":"Флис, лесопилка -3 уровня — волокно"}
+{"id":"shared:home_drop:214300001:1078:_note","en":"Fleece -4-level Lumber Camp — Hardwood","ru":"Флис, лесопилка -4 уровня — твёрдая древесина"}
+{"id":"shared:home_drop:214300007:1079:_note","en":"Fleece -4-level Lumber Camp — Breezewood","ru":"Флис, лесопилка -4 уровня — ветряная древесина"}
+{"id":"shared:home_drop:214317001:1080:_note","en":"Fleece -4-level Lumber Camp — Fiber","ru":"Флис, лесопилка -4 уровня — волокно"}
+{"id":"shared:home_drop:215300001:1081:_note","en":"Fleece -5-level Lumber Camp — Hardwood","ru":"Флис, лесопилка -5 уровня — твёрдая древесина"}
+{"id":"shared:home_drop:215300007:1082:_note","en":"Fleece -5-level Lumber Camp — Breezewood","ru":"Флис, лесопилка -5 уровня — ветряная древесина"}
+{"id":"shared:home_drop:215317001:1083:_note","en":"Fleece -5-level Lumber Camp — Fiber","ru":"Флис, лесопилка -5 уровня — волокно"}
+{"id":"shared:home_drop:219001:208:_note","en":"2 Fragrant Wood Resin","ru":"2 Ароматная древесная смола"}
+{"id":"shared:home_drop:219002:209:_note","en":"2 Wood Wax Block","ru":"2 Блок древесного воска"}
+{"id":"shared:home_drop:219003:210:_note","en":"2 Hardened Bark","ru":"2 Затвердевшая кора"}
+{"id":"shared:home_drop:219004:211:_note","en":"2 Spiritwood Branch","ru":"2 Ветвь древа духов"}
+{"id":"shared:home_drop:220001:212:_note","en":"2 Duststone","ru":"2 Пыльный камень"}
+{"id":"shared:home_drop:220002:213:_note","en":"2 Solid Rock","ru":"2 Крепкая порода"}
+{"id":"shared:home_drop:220003:214:_note","en":"2 Whitestone","ru":"2 Белый камень"}
+{"id":"shared:home_drop:220004:215:_note","en":"2 Azurewind Rock","ru":"2 Лазурноветреный камень"}
+{"id":"shared:home_drop:220005:216:_note","en":"2 Glimmerstone","ru":"2 Мерцающий камень"}
+{"id":"shared:home_drop:220006:217:_note","en":"2 Cave Crystal","ru":"2 Пещерный кристалл"}
+{"id":"shared:home_drop:221301001:1084:_note","en":"Fleece -1-level Quarry — Firmstone","ru":"Флис, каменоломня -1 уровня — крепкий камень"}
+{"id":"shared:home_drop:221318002:1085:_note","en":"Fleece -1-level Quarry — Kaolin","ru":"Флис, каменоломня -1 уровня — каолин"}
+{"id":"shared:home_drop:222301001:1086:_note","en":"Fleece -2-level Quarry — Firmstone","ru":"Флис, каменоломня -2 уровня — крепкий камень"}
+{"id":"shared:home_drop:222318002:1087:_note","en":"Fleece -2-level Quarry — Kaolin","ru":"Флис, каменоломня -2 уровня — каолин"}
+{"id":"shared:home_drop:22301000:864:_note","en":"Quarry — Facility2 — Duststone","ru":"Каменоломня — объект2 — пыльный камень"}
+{"id":"shared:home_drop:22318001:865:_note","en":"Quarry — Facility2 — Clay","ru":"Каменоломня — объект2 — глина"}
+{"id":"shared:home_drop:223301001:1088:_note","en":"Fleece -3-level Quarry — Firmstone","ru":"Флис, каменоломня -3 уровня — крепкий камень"}
+{"id":"shared:home_drop:223318002:1089:_note","en":"Fleece -3-level Quarry — Kaolin","ru":"Флис, каменоломня -3 уровня — каолин"}
+{"id":"shared:home_drop:224301001:1090:_note","en":"Fleece -4-level Quarry — Firmstone","ru":"Флис, каменоломня -4 уровня — крепкий камень"}
+{"id":"shared:home_drop:224318002:1091:_note","en":"Fleece -4 Quarry - Kaolin","ru":"Флис, карьер -4: каолин"}
+{"id":"shared:home_drop:225301001:1092:_note","en":"Fleece -5 Quarry - Hardstone","ru":"Флис, карьер -5: твердый камень"}
+{"id":"shared:home_drop:225318002:1093:_note","en":"Fleece -5 Quarry - Kaolin","ru":"Флис, карьер -5: каолин"}
+{"id":"shared:home_drop:229001:218:_note","en":"2 Skyfall Stone","ru":"2 Небесный камень"}
+{"id":"shared:home_drop:229002:219:_note","en":"2 Relic Stone","ru":"2 Камень древних"}
+{"id":"shared:home_drop:229003:220:_note","en":"2 Burnstone","ru":"2 Жгучий камень"}
+{"id":"shared:home_drop:229004:221:_note","en":"2 Cipher Runestone","ru":"2 Руна шифра"}
+{"id":"shared:home_drop:230001:222:_note","en":"2 Impure Metal","ru":"2 Нечистый металл"}
+{"id":"shared:home_drop:230002:223:_note","en":"2 Associated Metal","ru":"2 Сопутствующий металл"}
+{"id":"shared:home_drop:230003:224:_note","en":"2 Skyiron Ore","ru":"2 Небесная железная руда"}
+{"id":"shared:home_drop:230004:225:_note","en":"2 Windcopper Ore","ru":"2 Ветрокедровая медь"}
+{"id":"shared:home_drop:230005:226:_note","en":"2 Radiance Ore","ru":"2 Сияющая руда"}
+{"id":"shared:home_drop:230006:227:_note","en":"2 Silver Ore","ru":"2 Серебряная руда"}
+{"id":"shared:home_drop:231303004:1094:_note","en":"Fleece -1 Mine - Specularite","ru":"Флис, рудник -1: зеркальный железняк"}
+{"id":"shared:home_drop:231303006:1095:_note","en":"Fleece -1 Mine - Emberstone","ru":"Флис, рудник -1: тлеющий камень"}
+{"id":"shared:home_drop:231303007:1096:_note","en":"Fleece -1 Mine - Silver Ore","ru":"Флис, рудник -1: серебряная руда"}
+{"id":"shared:home_drop:232303004:1097:_note","en":"Fleece -2 Mine - Specularite","ru":"Флис, рудник -2: зеркальный железняк"}
+{"id":"shared:home_drop:232303006:1098:_note","en":"Fleece -2 Mine - Emberstone","ru":"Флис, рудник -2: тлеющий камень"}
+{"id":"shared:home_drop:232303007:1099:_note","en":"Fleece -2 Mine - Silver Ore","ru":"Флис, рудник -2: серебряная руда"}
+{"id":"shared:home_drop:232303013:1100:_note","en":"Fleece -2 Mine - Azure Crystal Ore","ru":"Флис, рудник -2: руда лазурного кристалла"}
+{"id":"shared:home_drop:23301001:866:_note","en":"Quarry — Facility3 — Bedrock","ru":"Каменоломня — объект3 — твёрдая порода"}
+{"id":"shared:home_drop:233303004:1101:_note","en":"Fleece -3 Mine - Specularite","ru":"Флис, рудник -3: зеркальный железняк"}
+{"id":"shared:home_drop:233303006:1102:_note","en":"Fleece -3 Mine - Emberstone","ru":"Флис, рудник -3: тлеющий камень"}
+{"id":"shared:home_drop:233303007:1103:_note","en":"Fleece -3 Mine - Silver Ore","ru":"Флис, рудник -3: серебряная руда"}
+{"id":"shared:home_drop:233303013:1104:_note","en":"Fleece -3 Mine - Azure Crystal Ore","ru":"Флис, рудник -3: руда лазурного кристалла"}
+{"id":"shared:home_drop:233518002:1105:_note","en":"Quarry - Facility 3 - Kaolin Clay","ru":"Карьер, объект 3: каолиновая глина"}
+{"id":"shared:home_drop:234303004:1106:_note","en":"Fleece -4 Mine - Specularite","ru":"Флис, рудник -4: зеркальный железняк"}
+{"id":"shared:home_drop:234303006:1107:_note","en":"Fleece -4 Mine - Emberstone","ru":"Флис, рудник -4: тлеющий камень"}
+{"id":"shared:home_drop:234303007:1108:_note","en":"Fleece -4 Mine - Silver Ore","ru":"Флис, рудник -4: серебряная руда"}
+{"id":"shared:home_drop:234303013:1109:_note","en":"Fleece -4 Mine - Azure Crystal Ore","ru":"Флис, рудник -4: руда лазурного кристалла"}
+{"id":"shared:home_drop:235303004:1110:_note","en":"Fleece -5 Mine - Specularite","ru":"Флис, рудник -5: зеркальный железняк"}
+{"id":"shared:home_drop:235303006:1111:_note","en":"Fleece -5 Mine - Emberstone","ru":"Флис, рудник -5: тлеющий камень"}
+{"id":"shared:home_drop:235303007:1112:_note","en":"Fleece -5 Mine - Silver Ore","ru":"Флис, рудник -5: серебряная руда"}
+{"id":"shared:home_drop:235303013:1113:_note","en":"Fleece -5 Mine - Azure Crystal Ore","ru":"Флис, рудник -5: руда лазурного кристалла"}
+{"id":"shared:home_drop:239001:228:_note","en":"2 Radiant Diamond","ru":"2 Сияющий алмаз"}
+{"id":"shared:home_drop:239002:229:_note","en":"2 Colorful Amber Stone","ru":"2 Камень цветного янтаря"}
+{"id":"shared:home_drop:239003:230:_note","en":"2 Verdantfiber Stone","ru":"2 Зеленоволокнистый камень"}
+{"id":"shared:home_drop:239004:231:_note","en":"2 Blazefire Stone","ru":"2 Пламенный камень"}
+{"id":"shared:home_drop:240001:232:_note","en":"2 Torn Hide","ru":"2 Рваная шкура"}
+{"id":"shared:home_drop:240002:233:_note","en":"2 Intact Hide","ru":"2 Целая шкура"}
+{"id":"shared:home_drop:240003:234:_note","en":"2 Fine Hide","ru":"2 Отборная шкура"}
+{"id":"shared:home_drop:240004:235:_note","en":"2 Fresh Beast Meat","ru":"2 Свежее мясо зверя"}
+{"id":"shared:home_drop:240005:236:_note","en":"2 Choice Beast Meat","ru":"2 Мясо зверя высокого качества"}
+{"id":"shared:home_drop:240006:237:_note","en":"2 Prime Beast Meat","ru":"2 Мясо зверя отличного качества"}
+{"id":"shared:home_drop:240007:238:_note","en":"2 Fresh Poultry","ru":"2 Свежее мясо птицы"}
+{"id":"shared:home_drop:240008:239:_note","en":"2 Choice Poultry","ru":"2 Мясо птицы высокого качества"}
+{"id":"shared:home_drop:240009:240:_note","en":"2 Prime Poultry","ru":"2 Мясо птицы отличного качества"}
+{"id":"shared:home_drop:240010:241:_note","en":"2 Egg","ru":"2 Яйцо"}
+{"id":"shared:home_drop:240011:242:_note","en":"2 Milk","ru":"2 Молоко"}
+{"id":"shared:home_drop:240012:243:_note","en":"2 Star Essence","ru":"2 Звёздная эссенция"}
+{"id":"shared:home_drop:240013:244:_note","en":"2 Fine Softdown","ru":"2 Мягкий пух"}
+{"id":"shared:home_drop:240014:245:_note","en":"2 Variegated Feather","ru":"2 Пёстрое перо"}
+{"id":"shared:home_drop:240015:246:_note","en":"2 Gleaming Scale","ru":"2 Мерцающая чешуйка"}
+{"id":"shared:home_drop:240016:247:_note","en":"2 Shifting Softshell","ru":"2 Изменчивый мягкий панцирь"}
+{"id":"shared:home_drop:240017:248:_note","en":"2 Smooth Gel","ru":"2 Гладкий гель"}
+{"id":"shared:home_drop:240018:249:_note","en":"2 Beast Spirit Horn","ru":"2 Рог звериного духа"}
+{"id":"shared:home_drop:240019:250:_note","en":"2 Sharp Beak","ru":"2 Острый клюв"}
+{"id":"shared:home_drop:240020:251:_note","en":"2 Scale-Membrane","ru":"2 Чешуйчатая мембрана"}
+{"id":"shared:home_drop:240021:252:_note","en":"2 Shed Molt","ru":"2 Оставленная старая кожа"}
+{"id":"shared:home_drop:24301001:867:_note","en":"Quarry — Facility4 — Bedrock","ru":"Каменоломня — объект4 — твёрдая порода"}
+{"id":"shared:home_drop:243518002:1114:_note","en":"Quarry - Facility 4 - Kaolin Clay","ru":"Карьер, объект 4: каолиновая глина"}
+{"id":"shared:home_drop:250001:253:_note","en":"2 Earth Elemental Mote","ru":"2 Частица Земной стихии"}
+{"id":"shared:home_drop:250002:254:_note","en":"2 Water Elemental Mote","ru":"2 Частица Водной стихии"}
+{"id":"shared:home_drop:250003:255:_note","en":"2 Fire Elemental Mote","ru":"2 Частица Огненной стихии"}
+{"id":"shared:home_drop:250004:256:_note","en":"2 Wind Elemental Mote","ru":"2 Частица Воздушной стихии"}
+{"id":"shared:home_drop:250005:257:_note","en":"2 Ice Elemental Mote","ru":"2 Частица Ледяной стихии"}
+{"id":"shared:home_drop:250006:258:_note","en":"2 Lightning Elemental Mote","ru":"2 Частица Грозовой стихии"}
+{"id":"shared:home_drop:250007:259:_note","en":"2 Wood Elemental Mote","ru":"2 Частица Древесного элемента"}
+{"id":"shared:home_drop:250008:260:_note","en":"2 Light Elemental Mote","ru":"2 Частица Светлой стихии"}
+{"id":"shared:home_drop:250009:261:_note","en":"2 Dark Elemental Mote","ru":"2 Частица Тёмной стихии"}
+{"id":"shared:home_drop:250010:262:_note","en":"2 Essence Sand","ru":"2 Песок сущности"}
+{"id":"shared:home_drop:250011:263:_note","en":"2 Elemental Crystal Core","ru":"2 Кристаллическое ядро стихии"}
+{"id":"shared:home_drop:251302001:1115:_note","en":"Fleece -1 Hunting Lodge - Damaged Hide","ru":"Флис, охотничий домик -1: поврежденная шкура"}
+{"id":"shared:home_drop:251308000:1116:_note","en":"Fleece -1 Hunting Lodge - Fresh Beast Meat","ru":"Флис, охотничий домик -1: свежее мясо зверя"}
+{"id":"shared:home_drop:251308003:1117:_note","en":"Fleece -1 Hunting Lodge - Fresh Poultry","ru":"Флис, охотничий домик -1: свежая птица"}
+{"id":"shared:home_drop:252302001:1118:_note","en":"Fleece -2 Hunting Lodge - Damaged Hide","ru":"Флис, охотничий домик -2: поврежденная шкура"}
+{"id":"shared:home_drop:252302002:1119:_note","en":"Fleece -2 Hunting Lodge - Intact Hide","ru":"Флис, охотничий домик -2: целая шкура"}
+{"id":"shared:home_drop:252308000:1120:_note","en":"Fleece -2 Hunting Lodge - Fresh Beast Meat","ru":"Флис, охотничий домик -2: свежее мясо зверя"}
+{"id":"shared:home_drop:252308001:1121:_note","en":"Fleece -2 Hunting Lodge - Fine Beast Meat","ru":"Флис, охотничий домик -2: отборное мясо зверя"}
+{"id":"shared:home_drop:252308003:1122:_note","en":"Fleece -2 Hunting Lodge - Fresh Poultry","ru":"Флис, охотничий домик -2: свежая птица"}
+{"id":"shared:home_drop:252308004:1123:_note","en":"Fleece -2 Hunting Lodge - Fine Poultry","ru":"Флис, охотничий домик -2: отборная птица"}
+{"id":"shared:home_drop:252308009:1124:_note","en":"Fleece -2 Hunting Lodge - Fresh Eggs","ru":"Флис, охотничий домик -2: свежие яйца"}
+{"id":"shared:home_drop:252308010:1125:_note","en":"Fleece -2 Hunting Lodge - Rich Milk","ru":"Флис, охотничий домик -2: жирное молоко"}
+{"id":"shared:home_drop:261311002:1126:_note","en":"Fleece -1 Elemental Altar - Earth Element Particles","ru":"Флис, алтарь стихий -1: частицы Земной стихии"}
+{"id":"shared:home_drop:261311003:1127:_note","en":"Fleece -1 Elemental Altar - Water Element Particles","ru":"Флис, алтарь стихий -1: частицы Водной стихии"}
+{"id":"shared:home_drop:261311004:1128:_note","en":"Fleece -1 Elemental Altar - Fire Element Particles","ru":"Флис, алтарь стихий -1: частицы Огненной стихии"}
+{"id":"shared:home_drop:261311005:1129:_note","en":"Fleece -1 Elemental Altar - Wind Element Particles","ru":"Флис, алтарь стихий -1: частицы Ветряной стихии"}
+{"id":"shared:home_drop:261311006:1130:_note","en":"Fleece -1 Elemental Altar - Ice Element Particles","ru":"Флис, алтарь стихий -1: частицы Ледяной стихии"}
+{"id":"shared:home_drop:261311007:1131:_note","en":"Fleece -1 Elemental Altar - Lightning Element Particles","ru":"Флис, алтарь стихий -1: частицы Грозовой стихии"}
+{"id":"shared:home_drop:261311008:1132:_note","en":"Fleece -1 Elemental Altar - Wood Element Particles","ru":"Флис, алтарь стихий -1: частицы Древесного элемента"}
+{"id":"shared:home_drop:261311009:1133:_note","en":"Fleece -1 Elemental Altar - Light Element Particles","ru":"Флис, алтарь стихий -1: частицы Светлой стихии"}
+{"id":"shared:home_drop:261311010:1134:_note","en":"Fleece -1 Elemental Altar - Dark Element Particles","ru":"Флис, алтарь стихий -1: частицы Темной стихии"}
+{"id":"shared:home_drop:262311002:1135:_note","en":"Fleece -2 Elemental Altar - Earth Element Particles","ru":"Флис, алтарь стихий -2: частицы Земной стихии"}
+{"id":"shared:home_drop:262311003:1136:_note","en":"Fleece -2 Elemental Altar - Water Element Particles","ru":"Флис, алтарь стихий -2: частицы Водной стихии"}
+{"id":"shared:home_drop:262311004:1137:_note","en":"Fleece -2 Elemental Altar - Fire Element Particles","ru":"Флис, алтарь стихий -2: частицы Огненной стихии"}
+{"id":"shared:home_drop:262311005:1138:_note","en":"Fleece -2 Elemental Altar - Wind Element Particles","ru":"Флис, алтарь стихий -2: частицы Ветряной стихии"}
+{"id":"shared:home_drop:262311006:1139:_note","en":"Fleece -2 Elemental Altar - Ice Element Particles","ru":"Флис, алтарь стихий -2: частицы Ледяной стихии"}
+{"id":"shared:home_drop:262311007:1140:_note","en":"Fleece -2 Elemental Altar - Lightning Element Particles","ru":"Флис, алтарь стихий -2: частицы Грозовой стихии"}
+{"id":"shared:home_drop:262311008:1141:_note","en":"Fleece -2 Elemental Altar - Wood Element Particles","ru":"Флис, алтарь стихий -2: частицы Древесного элемента"}
+{"id":"shared:home_drop:262311009:1142:_note","en":"Fleece -2 Elemental Altar - Light Element Particles","ru":"Флис, алтарь стихий -2: частицы Светлой стихии"}
+{"id":"shared:home_drop:262311010:1143:_note","en":"Fleece -2 Elemental Altar - Dark Element Particles","ru":"Флис, алтарь стихий -2: частицы Темной стихии"}
+{"id":"shared:home_drop:263311002:1144:_note","en":"Fleece -3 Elemental Altar - Earth Element Particles","ru":"Флис, алтарь стихий -3: частицы Земной стихии"}
+{"id":"shared:home_drop:263311003:1145:_note","en":"Fleece -3 Elemental Altar - Water Element Particles","ru":"Флис, алтарь стихий -3: частицы Водной стихии"}
+{"id":"shared:home_drop:263311004:1146:_note","en":"Fleece -3 Elemental Altar - Fire Element Particles","ru":"Флис, алтарь стихий -3: частицы Огненной стихии"}
+{"id":"shared:home_drop:263311005:1147:_note","en":"Fleece -3 Elemental Altar - Wind Element Particles","ru":"Флис, алтарь стихий -3: частицы Ветряной стихии"}
+{"id":"shared:home_drop:263311006:1148:_note","en":"Fleece -3 Elemental Altar - Ice Element Particles","ru":"Флис, алтарь стихий -3: частицы Ледяной стихии"}
+{"id":"shared:home_drop:263311007:1149:_note","en":"Fleece -3 Elemental Altar - Lightning Element Particles","ru":"Флис, алтарь стихий -3: частицы Грозовой стихии"}
+{"id":"shared:home_drop:263311008:1150:_note","en":"Fleece -3 Elemental Altar - Wood Element Particles","ru":"Флис, алтарь стихий -3: частицы Древесного элемента"}
+{"id":"shared:home_drop:263311009:1151:_note","en":"Fleece -3 Elemental Altar - Light Element Particles","ru":"Флис, алтарь стихий -3: частицы Светлой стихии"}
+{"id":"shared:home_drop:263311010:1152:_note","en":"Fleece -3 Elemental Altar - Dark Element Particles","ru":"Флис, алтарь стихий -3: частицы Темной стихии"}
+{"id":"shared:home_drop:264311002:1153:_note","en":"Fleece -4 Elemental Altar - Earth Element Particles","ru":"Флис, алтарь стихий -4: частицы Земной стихии"}
+{"id":"shared:home_drop:264311003:1154:_note","en":"Fleece -4 Elemental Altar - Water Element Particles","ru":"Флис, алтарь стихий -4: частицы Водной стихии"}
+{"id":"shared:home_drop:264311004:1155:_note","en":"Fleece -4 Elemental Altar - Fire Element Particles","ru":"Флис, алтарь стихий -4: частицы Огненной стихии"}
+{"id":"shared:home_drop:264311005:1156:_note","en":"Fleece -4 Elemental Altar - Wind Element Particles","ru":"Флис, алтарь стихий -4: частицы Ветряной стихии"}
+{"id":"shared:home_drop:264311006:1157:_note","en":"Fleece -4 Elemental Altar - Ice Element Particles","ru":"Флис, алтарь стихий -4: частицы Ледяной стихии"}
+{"id":"shared:home_drop:264311007:1158:_note","en":"Fleece -4 Elemental Altar - Lightning Element Particles","ru":"Флис, алтарь стихий -4: частицы Грозовой стихии"}
+{"id":"shared:home_drop:264311008:1159:_note","en":"Fleece -4 Elemental Altar - Wood Element Particles","ru":"Флис, алтарь стихий -4: частицы Древесного элемента"}
+{"id":"shared:home_drop:264311009:1160:_note","en":"Fleece -4 Elemental Altar - Light Element Particles","ru":"Флис, алтарь стихий -4: частицы Светлой стихии"}
+{"id":"shared:home_drop:264311010:1161:_note","en":"Fleece -4 Elemental Altar - Dark Element Particles","ru":"Флис, алтарь стихий -4: частицы Темной стихии"}
+{"id":"shared:home_drop:265311002:1162:_note","en":"Fleece -5 Elemental Altar - Earth Element Particles","ru":"Флис, алтарь стихий -5: частицы Земной стихии"}
+{"id":"shared:home_drop:265311003:1163:_note","en":"Fleece -5 Elemental Altar - Water Element Particles","ru":"Флис, алтарь стихий -5: частицы Водной стихии"}
+{"id":"shared:home_drop:265311004:1164:_note","en":"Fleece -5 Elemental Altar - Fire Element Particles","ru":"Флис, алтарь стихий -5: частицы Огненной стихии"}
+{"id":"shared:home_drop:265311005:1165:_note","en":"Fleece -5 Elemental Altar - Wind Element Particles","ru":"Флис, алтарь стихий -5: частицы Ветряной стихии"}
+{"id":"shared:home_drop:265311006:1166:_note","en":"Fleece -5 Elemental Altar - Ice Element Particles","ru":"Флис, алтарь стихий -5: частицы Ледяной стихии"}
+{"id":"shared:home_drop:265311007:1167:_note","en":"Fleece -5 Elemental Altar - Lightning Element Particles","ru":"Флис, алтарь стихий -5: частицы Грозовой стихии"}
+{"id":"shared:home_drop:265311008:1168:_note","en":"Fleece -5 Elemental Altar - Wood Element Particles","ru":"Флис, алтарь стихий -5: частицы Древесного элемента"}
+{"id":"shared:home_drop:265311009:1169:_note","en":"Fleece -5 Elemental Altar - Light Element Particles","ru":"Флис, алтарь стихий -5: частицы Светлой стихии"}
+{"id":"shared:home_drop:265311010:1170:_note","en":"Fleece -5 Elemental Altar - Dark Element Particles","ru":"Флис, алтарь стихий -5: частицы Темной стихии"}
+{"id":"shared:home_drop:271308006:1171:_note","en":"Fleece -1 Fishing Ground - Fresh Fish Meat","ru":"Флис, рыбное угодье -1: свежее рыбное мясо"}
+{"id":"shared:home_drop:271308007:1172:_note","en":"Fleece -1 Fishing Ground - Fine Fish Meat","ru":"Флис, рыбное угодье -1: отборное рыбное мясо"}
+{"id":"shared:home_drop:271308008:1173:_note","en":"Fleece -1 Fishing Ground - Excellent Fish Meat","ru":"Флис, рыбное угодье -1: превосходное рыбное мясо"}
+{"id":"shared:home_drop:272308006:1174:_note","en":"Fleece -2 Fishing Ground - Fresh Fish Meat","ru":"Флис, рыбное угодье -2: свежее рыбное мясо"}
+{"id":"shared:home_drop:272308007:1175:_note","en":"Fleece -2 Fishing Ground - Fine Fish Meat","ru":"Флис, рыбное угодье -2: отборное рыбное мясо"}
+{"id":"shared:home_drop:272308008:1176:_note","en":"Fleece -2 Fishing Ground - Excellent Fish Meat","ru":"Флис, рыбное угодье -2: превосходное рыбное мясо"}
+{"id":"shared:home_drop:272308011:1177:_note","en":"Fleece -2 Fishing Ground - Crab Meat","ru":"Флис, рыбное угодье -2: крабовое мясо"}
+{"id":"shared:home_drop:272308012:1178:_note","en":"Fleece -2 Fishing Ground - Shrimp Meat","ru":"Флис, рыбное угодье -2: креветочное мясо"}
+{"id":"shared:home_drop:281306000:1179:_note","en":"Fleece -1 Gathering Hut - Red Berry","ru":"Флис, хижина собирателя -1: красная ягода"}
+{"id":"shared:home_drop:281306001:1180:_note","en":"Fleece -1 Gathering Hut - Clearmoon Fruit","ru":"Флис, хижина собирателя -1: плод ясной луны"}
+{"id":"shared:home_drop:281306002:1181:_note","en":"Fleece -1 Gathering Hut - Bittersun Fruit","ru":"Флис, хижина собирателя -1: горькосолнечный плод"}
+{"id":"shared:home_drop:281306003:1182:_note","en":"Fleece -1 Gathering Hut - Peach-Litchi","ru":"Флис, хижина собирателя -1: персик-личи"}
+{"id":"shared:home_drop:281306004:1183:_note","en":"Fleece-1-Grade Gathering Hut - Juice Stone","ru":"Флис-1 — хижина сбора: соковый камень"}
+{"id":"shared:home_drop:281306006:1184:_note","en":"Fleece-1-Grade Gathering Hut - Common Speckled Red Mushroom","ru":"Флис-1 — хижина сбора: обычный крапчатый красный гриб"}
+{"id":"shared:home_drop:281306009:1185:_note","en":"Fleece-1-Grade Gathering Hut - Common Paipai","ru":"Флис-1 — хижина сбора: обычный пайпай"}
+{"id":"shared:home_drop:282306000:1186:_note","en":"Fleece-2-Grade Gathering Hut - Red Fruit","ru":"Флис-2 — хижина сбора: красный плод"}
+{"id":"shared:home_drop:282306001:1187:_note","en":"Fleece-2-Grade Gathering Hut - Clear Moon Fruit","ru":"Флис-2 — хижина сбора: плод ясной луны"}
+{"id":"shared:home_drop:282306002:1188:_note","en":"Fleece-2-Grade Gathering Hut - Bitter Sun Fruit","ru":"Флис-2 — хижина сбора: горький солнечный плод"}
+{"id":"shared:home_drop:282306003:1189:_note","en":"Fleece-2-Grade Gathering Hut - Peach Lychee","ru":"Флис-2 — хижина сбора: персиковый личжи"}
+{"id":"shared:home_drop:282306004:1190:_note","en":"Fleece-2-Grade Gathering Hut - Juice Stone","ru":"Флис-2 — хижина сбора: соковый камень"}
+{"id":"shared:home_drop:282306006:1191:_note","en":"Fleece-2-Grade Gathering Hut - Common Speckled Red Mushroom","ru":"Флис-2 — хижина сбора: обычный крапчатый красный гриб"}
+{"id":"shared:home_drop:282306009:1192:_note","en":"Fleece-2-Grade Gathering Hut - Common Paipai","ru":"Флис-2 — хижина сбора: обычный пайпай"}
+{"id":"shared:home_drop:310001:264:_note","en":"3 Softwood","ru":"3 Мягкая древесина"}
+{"id":"shared:home_drop:310002:265:_note","en":"3 Hardwood","ru":"3 Твёрдая древесина"}
+{"id":"shared:home_drop:310003:266:_note","en":"3 Sapstone Wood","ru":"3 Смолокаменная древесина"}
+{"id":"shared:home_drop:310004:267:_note","en":"3 Breezeblown Wood","ru":"3 Древесина ветров"}
+{"id":"shared:home_drop:310005:268:_note","en":"3 Star-Guided Wood","ru":"3 Звёздная древесина"}
+{"id":"shared:home_drop:310006:269:_note","en":"3 Flameplume Wood","ru":"3 Пламепёрая древесина"}
+{"id":"shared:home_drop:31303000:868:_note","en":"Mine — Facility1 — Windcopper Ore","ru":"Рудник — объект1 — ветромедная руда"}
+{"id":"shared:home_drop:31303002:869:_note","en":"Mine — Facility1 — Rock Salt","ru":"Рудник — объект1 — каменная соль"}
+{"id":"shared:home_drop:319001:270:_note","en":"3 Fragrant Wood Resin","ru":"3 Ароматная древесная смола"}
+{"id":"shared:home_drop:319002:271:_note","en":"3 Wood Wax Block","ru":"3 Блок древесного воска"}
+{"id":"shared:home_drop:319003:272:_note","en":"3 Hardened Bark","ru":"3 Затвердевшая кора"}
+{"id":"shared:home_drop:319004:273:_note","en":"3 Spiritwood Branch","ru":"3 Ветвь древа духов"}
+{"id":"shared:home_drop:320001:274:_note","en":"3 Duststone","ru":"3 Пыльный камень"}
+{"id":"shared:home_drop:320002:275:_note","en":"3 Hardrock","ru":"3 Твердый камень"}
+{"id":"shared:home_drop:320003:276:_note","en":"3 Quartzite","ru":"3 Кварцит"}
+{"id":"shared:home_drop:320004:277:_note","en":"3 Pale Windstone","ru":"3 Бледный ветряной камень"}
+{"id":"shared:home_drop:320005:278:_note","en":"3 Shimmering Niter","ru":"3 Мерцающая селитра"}
+{"id":"shared:home_drop:320006:279:_note","en":"3 Cavern Crystal","ru":"3 Пещерный кристалл"}
+{"id":"shared:home_drop:32303001:870:_note","en":"Mine — Facility2 — Glimmertin Ore","ru":"Рудник — объект2 — мерцающе-оловянная руда"}
+{"id":"shared:home_drop:32303003:871:_note","en":"Mine — Facility2 — Topaz Ore","ru":"Рудник — объект2 — руда топаза"}
+{"id":"shared:home_drop:329001:280:_note","en":"3 Meteorite","ru":"3 Небесный камень"}
+{"id":"shared:home_drop:329002:281:_note","en":"3 Relic Stone","ru":"3 Камень-реликвия"}
+{"id":"shared:home_drop:329003:282:_note","en":"3 Emberstone","ru":"3 Тлеющий камень"}
+{"id":"shared:home_drop:329004:283:_note","en":"3 Cipher Runestone","ru":"3 Рунический камень шифра"}
+{"id":"shared:home_drop:330001:284:_note","en":"3 Impure Metal","ru":"3 Загрязненный металл"}
+{"id":"shared:home_drop:330002:285:_note","en":"3 Associated Metal","ru":"3 Сопутствующий металл"}
+{"id":"shared:home_drop:330003:286:_note","en":"3 Skyiron Ore","ru":"3 Небесная железная руда"}
+{"id":"shared:home_drop:330004:287:_note","en":"3 Windcopper Ore","ru":"3 Ветряная медная руда"}
+{"id":"shared:home_drop:330005:288:_note","en":"3 Radiant Ore","ru":"3 Сияющая руда"}
+{"id":"shared:home_drop:330006:289:_note","en":"3 Silver Ore","ru":"3 Серебряная руда"}
+{"id":"shared:home_drop:33303004:872:_note","en":"Mine — Facility3 — Specularite","ru":"Рудник — объект3 — зеркальный железняк"}
+{"id":"shared:home_drop:33303006:873:_note","en":"Mine — Facility3 — Emberstone","ru":"Рудник — объект3 — тлеющий камень"}
+{"id":"shared:home_drop:339001:290:_note","en":"3 Radiant Diamond","ru":"3 Сияющий алмаз"}
+{"id":"shared:home_drop:339002:291:_note","en":"3 Colorful Amber Stone","ru":"3 Камень цветного янтаря"}
+{"id":"shared:home_drop:339003:292:_note","en":"3 Verdant Fiberstone","ru":"3 Зеленый волокнистый камень"}
+{"id":"shared:home_drop:339004:293:_note","en":"3 Blazestone","ru":"3 Пламенный камень"}
+{"id":"shared:home_drop:340001:294:_note","en":"3 Tattered Hide","ru":"3 Рваная шкура"}
+{"id":"shared:home_drop:340002:295:_note","en":"3 Intact Hide","ru":"3 Целая шкура"}
+{"id":"shared:home_drop:340003:296:_note","en":"3 Fine Hide","ru":"3 Отличная шкура"}
+{"id":"shared:home_drop:340004:297:_note","en":"3 Fresh Beast Meat","ru":"3 Свежее мясо зверя"}
+{"id":"shared:home_drop:340005:298:_note","en":"3 Quality Beast Meat","ru":"3 Качественное мясо зверя"}
+{"id":"shared:home_drop:340006:299:_note","en":"3 Prime Beast Meat","ru":"3 Превосходное мясо зверя"}
+{"id":"shared:home_drop:340007:300:_note","en":"3 Fresh Poultry","ru":"3 Свежее мясо птицы"}
+{"id":"shared:home_drop:340008:301:_note","en":"3 Quality Poultry","ru":"3 Качественное мясо птицы"}
+{"id":"shared:home_drop:340009:302:_note","en":"3 Prime Poultry","ru":"3 Превосходное мясо птицы"}
+{"id":"shared:home_drop:340010:303:_note","en":"3 Egg","ru":"3 Яйцо"}
+{"id":"shared:home_drop:340011:304:_note","en":"3 Milk","ru":"3 Молоко"}
+{"id":"shared:home_drop:340012:305:_note","en":"3 Stellar Essence","ru":"3 Звездная эссенция"}
+{"id":"shared:home_drop:340013:306:_note","en":"3 Fine Soft Down","ru":"3 Мелкий мягкий пух"}
+{"id":"shared:home_drop:340014:307:_note","en":"3 Variegated Feather","ru":"3 Пестрое перо"}
+{"id":"shared:home_drop:340015:308:_note","en":"3 Glimmering Scale","ru":"3 Мерцающая чешуя"}
+{"id":"shared:home_drop:340016:309:_note","en":"3 Shifting Soft Shell","ru":"3 Изменчивый мягкий панцирь"}
+{"id":"shared:home_drop:340017:310:_note","en":"3 Smooth Curd","ru":"3 Гладкий творожистый сгусток"}
+{"id":"shared:home_drop:340018:311:_note","en":"3 Beast Spirit Horn","ru":"3 Рог духа зверя"}
+{"id":"shared:home_drop:340019:312:_note","en":"3 Sharp Beak","ru":"3 Острый клюв"}
+{"id":"shared:home_drop:340020:313:_note","en":"3 Iridescent Membrane","ru":"3 Радужная пленка"}
+{"id":"shared:home_drop:340021:314:_note","en":"3 Cast-Off Shedding","ru":"3 Сброшенная старая кожа"}
+{"id":"shared:home_drop:34303007:874:_note","en":"Mine — Facility4 — Silver Ore","ru":"Рудник — объект4 — серебряная руда"}
+{"id":"shared:home_drop:34303013:875:_note","en":"Mine — Facility4 — Bluecrystal Ore","ru":"Рудник — объект4 — синекристальная руда"}
+{"id":"shared:home_drop:350001:315:_note","en":"3 Earth Element Particle","ru":"3 Частица земной стихии"}
+{"id":"shared:home_drop:350002:316:_note","en":"3 Water Element Particle","ru":"3 Частица водной стихии"}
+{"id":"shared:home_drop:350003:317:_note","en":"3 Fire Element Particle","ru":"3 Частица огненной стихии"}
+{"id":"shared:home_drop:350004:318:_note","en":"3 Wind Element Particle","ru":"3 Частица ветряной стихии"}
+{"id":"shared:home_drop:350005:319:_note","en":"3 Ice Element Particle","ru":"3 Частица ледяной стихии"}
+{"id":"shared:home_drop:350006:320:_note","en":"3 Lightning Element Particle","ru":"3 Частица грозовой стихии"}
+{"id":"shared:home_drop:350007:321:_note","en":"3 Wood Element Particle","ru":"3 Частица древесного элемента"}
+{"id":"shared:home_drop:350008:322:_note","en":"3 Light Element Particle","ru":"3 Частица светлой стихии"}
+{"id":"shared:home_drop:350009:323:_note","en":"3 Dark Element Particle","ru":"3 Частица темной стихии"}
+{"id":"shared:home_drop:350010:324:_note","en":"3 Essence Sand","ru":"3 Песок сущности"}
+{"id":"shared:home_drop:350011:325:_note","en":"3 Elemental Core","ru":"3 Элементарное ядро"}
+{"id":"shared:home_drop:410001:326:_note","en":"4 Softwood","ru":"4 Мягкая древесина"}
+{"id":"shared:home_drop:410002:327:_note","en":"4 Hardwood","ru":"4 Твердая древесина"}
+{"id":"shared:home_drop:410003:328:_note","en":"4 Sapstone Wood","ru":"4 Древесина сокового камня"}
+{"id":"shared:home_drop:410004:329:_note","en":"4 Breezeblown Wood","ru":"4 Древесина благоуханного ветра"}
+{"id":"shared:home_drop:410005:330:_note","en":"4 Star-Guided Wood","ru":"4 Древесина звездного пути"}
+{"id":"shared:home_drop:410006:331:_note","en":"4 Flamefeather Wood","ru":"4 Древесина пламенного пера"}
+{"id":"shared:home_drop:41312001:876:_note","en":"Star Radiance Mine — Facility1 — Fine Starshard Radiance","ru":"Звёздный рудник — объект1 — мелкая сияющая звездная крупица"}
+{"id":"shared:home_drop:419001:332:_note","en":"4 Fragrant Wood Resin","ru":"4 Ароматная древесная смола"}
+{"id":"shared:home_drop:419002:333:_note","en":"4 Wood Wax Block","ru":"4 Брусок древесного воска"}
+{"id":"shared:home_drop:419003:334:_note","en":"4 Hardened Bark","ru":"4 Затвердевшая кора"}
+{"id":"shared:home_drop:419004:335:_note","en":"4 Spiritwood Branch","ru":"4 Ветвь духовного древа"}
+{"id":"shared:home_drop:420001:336:_note","en":"4 Duststone","ru":"4 Пыльный камень"}
+{"id":"shared:home_drop:420002:337:_note","en":"4 Hardrock","ru":"4 Твердый камень"}
+{"id":"shared:home_drop:420003:338:_note","en":"4 Quartzite","ru":"4 Кварцит"}
+{"id":"shared:home_drop:420004:339:_note","en":"4 Pale Windstone","ru":"4 Бледный ветряной камень"}
+{"id":"shared:home_drop:420005:340:_note","en":"4 Shimmering Niter","ru":"4 Мерцающая селитра"}
+{"id":"shared:home_drop:420006:341:_note","en":"4 Cavern Crystal","ru":"4 Пещерный кристалл"}
+{"id":"shared:home_drop:42312001:877:_note","en":"Star Radiance Mine — Facility2 — Fine Starshard Radiance","ru":"Звёздный рудник — объект2 — мелкая сияющая звездная крупица"}
+{"id":"shared:home_drop:429001:342:_note","en":"4 Meteorite","ru":"4 Небесный камень"}
+{"id":"shared:home_drop:429002:343:_note","en":"4 Relic Stone","ru":"4 Камень-реликвия"}
+{"id":"shared:home_drop:429003:344:_note","en":"4 Emberstone","ru":"4 Тлеющий камень"}
+{"id":"shared:home_drop:429004:345:_note","en":"4 Cipher Runestone","ru":"4 Рунический камень шифра"}
+{"id":"shared:home_drop:430001:346:_note","en":"4 Impure Metal","ru":"4 Загрязненный металл"}
+{"id":"shared:home_drop:430002:347:_note","en":"4 Associated Metal","ru":"4 Сопутствующий металл"}
+{"id":"shared:home_drop:430003:348:_note","en":"4 Skyiron Ore","ru":"4 Небесная железная руда"}
+{"id":"shared:home_drop:430004:349:_note","en":"4 Windcopper Ore","ru":"4 Ветряная медная руда"}
+{"id":"shared:home_drop:430005:350:_note","en":"4 Radiant Ore","ru":"4 Сияющая руда"}
+{"id":"shared:home_drop:430006:351:_note","en":"4 Silver Ore","ru":"4 Серебряная руда"}
+{"id":"shared:home_drop:439001:352:_note","en":"4 Radiant Diamond","ru":"4 Сияющий алмаз"}
+{"id":"shared:home_drop:439002:353:_note","en":"4 Colorful Amber Stone","ru":"4 Камень цветного янтаря"}
+{"id":"shared:home_drop:439003:354:_note","en":"4 Verdant Fiberstone","ru":"4 Зеленый волокнистый камень"}
+{"id":"shared:home_drop:439004:355:_note","en":"4 Blazestone","ru":"4 Пламенный камень"}
+{"id":"shared:home_drop:510001:356:_note","en":"5 Softwood","ru":"5 Мягкая древесина"}
+{"id":"shared:home_drop:510002:357:_note","en":"5 Hardwood","ru":"5 Твердая древесина"}
+{"id":"shared:home_drop:510003:358:_note","en":"5 Sapstone Wood","ru":"5 Древесина сокового камня"}
+{"id":"shared:home_drop:510004:359:_note","en":"5 Breezeblown Wood","ru":"5 Древесина благоуханного ветра"}
+{"id":"shared:home_drop:510005:360:_note","en":"5 Star-Guided Wood","ru":"5 Древесина звездного пути"}
+{"id":"shared:home_drop:510006:361:_note","en":"5 Flamefeather Wood","ru":"5 Древесина пламенного пера"}
+{"id":"shared:home_drop:51700:121:_note","en":"Elemental Altar — Facility 1 — Earth Element Particle","ru":"Элементальный алтарь — сооружение 1 — частица Земной стихии"}
+{"id":"shared:home_drop:51701:122:_note","en":"Elemental Altar — Facility 1 — Water Element Particle","ru":"Элементальный алтарь — сооружение 1 — частица Водной стихии"}
+{"id":"shared:home_drop:51702:123:_note","en":"Elemental Altar — Facility 1 — Fire Element Particle","ru":"Элементальный алтарь — сооружение 1 — частица Огненной стихии"}
+{"id":"shared:home_drop:51703:124:_note","en":"Elemental Altar — Facility 1 — Wind Element Particle","ru":"Элементальный алтарь — сооружение 1 — частица Ветряной стихии"}
+{"id":"shared:home_drop:51704:125:_note","en":"Elemental Altar — Facility 1 — Ice Element Particle","ru":"Элементальный алтарь — сооружение 1 — частица Ледяной стихии"}
+{"id":"shared:home_drop:51705:126:_note","en":"Elemental Altar — Facility 1 — Lightning Element Particle","ru":"Элементальный алтарь — сооружение 1 — частица Грозовой стихии"}
+{"id":"shared:home_drop:51706:127:_note","en":"Elemental Altar — Facility 1 — Wood Element Particle","ru":"Элементальный алтарь — сооружение 1 — частица Древесного элемента"}
+{"id":"shared:home_drop:51707:128:_note","en":"Elemental Altar — Facility 1 — Light Element Particle","ru":"Элементальный алтарь — сооружение 1 — частица Светлой стихии"}
+{"id":"shared:home_drop:51708:129:_note","en":"Elemental Altar — Facility 1 — Dark Element Particle","ru":"Элементальный алтарь — сооружение 1 — частица Тёмной стихии"}
+{"id":"shared:home_drop:519001:362:_note","en":"5 Fragrant Wood Resin","ru":"5 Ароматная древесная смола"}
+{"id":"shared:home_drop:519002:363:_note","en":"5 Wood Wax Block","ru":"5 Брусок древесного воска"}
+{"id":"shared:home_drop:519003:364:_note","en":"5 Hardened Bark","ru":"5 Затвердевшая кора"}
+{"id":"shared:home_drop:519004:365:_note","en":"5 Spiritwood Branch","ru":"5 Ветвь духовного древа"}
+{"id":"shared:home_drop:520001:366:_note","en":"5 Duststone","ru":"Пыльный камень 5-го уровня"}
+{"id":"shared:home_drop:520002:367:_note","en":"5 Solid Rock","ru":"Твёрдая порода 5-го уровня"}
+{"id":"shared:home_drop:520003:368:_note","en":"5 Whitecalcite","ru":"Белый кальцит 5-го уровня"}
+{"id":"shared:home_drop:520004:369:_note","en":"5 Ashwind Rock","ru":"Пепельный камень 5-го уровня"}
+{"id":"shared:home_drop:520005:370:_note","en":"5 Glint Saltpeter","ru":"Блестящая селитра 5-го уровня"}
+{"id":"shared:home_drop:520006:371:_note","en":"5 Hollow Crystal","ru":"Пустотный кристалл 5-го уровня"}
+{"id":"shared:home_drop:52700:130:_note","en":"Elemental Altar — Facility 2 — Earth Element Particle","ru":"Элементальный алтарь — сооружение 2 — частица Земной стихии"}
+{"id":"shared:home_drop:52701:131:_note","en":"Elemental Altar — Facility 2 — Water Element Particle","ru":"Элементальный алтарь — сооружение 2 — частица Водной стихии"}
+{"id":"shared:home_drop:52702:132:_note","en":"Elemental Altar — Facility 2 — Fire Element Particle","ru":"Элементальный алтарь — сооружение 2 — частица Огненной стихии"}
+{"id":"shared:home_drop:52703:133:_note","en":"Elemental Altar — Facility 2 — Wind Element Particle","ru":"Элементальный алтарь — сооружение 2 — частица Ветряной стихии"}
+{"id":"shared:home_drop:52704:134:_note","en":"Elemental Altar — Facility 2 — Ice Element Particle","ru":"Элементальный алтарь — сооружение 2 — частица Ледяной стихии"}
+{"id":"shared:home_drop:52705:135:_note","en":"Elemental Altar — Facility 2 — Lightning Element Particle","ru":"Элементальный алтарь — сооружение 2 — частица Грозовой стихии"}
+{"id":"shared:home_drop:52706:136:_note","en":"Elemental Altar — Facility 2 — Wood Element Particle","ru":"Элементальный алтарь — сооружение 2 — частица Древесного элемента"}
+{"id":"shared:home_drop:52707:137:_note","en":"Elemental Altar — Facility 2 — Light Element Particle","ru":"Элементальный алтарь — сооружение 2 — частица Светлой стихии"}
+{"id":"shared:home_drop:52708:138:_note","en":"Elemental Altar — Facility 2 — Dark Element Particle","ru":"Элементальный алтарь — сооружение 2 — частица Тёмной стихии"}
+{"id":"shared:home_drop:529001:372:_note","en":"5 Othersky Stone","ru":"Небесный камень 5-го уровня"}
+{"id":"shared:home_drop:529002:373:_note","en":"5 Relic Stone","ru":"Камень реликвий 5-го уровня"}
+{"id":"shared:home_drop:529003:374:_note","en":"5 Blaze Stone","ru":"Пламенный камень 5-го уровня"}
+{"id":"shared:home_drop:529004:375:_note","en":"5 Cipher Runestone","ru":"Шифрованный рунный камень 5-го уровня"}
+{"id":"shared:home_drop:530001:376:_note","en":"5 Impure Metal","ru":"Неочищенный металл 5-го уровня"}
+{"id":"shared:home_drop:530002:377:_note","en":"5 Associated Metal","ru":"Сопутствующий металл 5-го уровня"}
+{"id":"shared:home_drop:530003:378:_note","en":"5 Voidiron Ore","ru":"Пустожелезная руда 5-го уровня"}
+{"id":"shared:home_drop:530004:379:_note","en":"5 Windcopper Ore","ru":"Ветряная медная руда 5-го уровня"}
+{"id":"shared:home_drop:530005:380:_note","en":"5 Radiant Ore","ru":"Сияющая руда 5-го уровня"}
+{"id":"shared:home_drop:530006:381:_note","en":"5 Silver Ore","ru":"Серебряная руда 5-го уровня"}
+{"id":"shared:home_drop:539001:382:_note","en":"5 Bright Diamond","ru":"Яркий алмаз 5-го уровня"}
+{"id":"shared:home_drop:539002:383:_note","en":"5 Colorful Amber Stone","ru":"Камень цветного янтаря 5-го уровня"}
+{"id":"shared:home_drop:539003:384:_note","en":"5 Emerald Fiberstone","ru":"Изумрудный волокнистый камень 5-го уровня"}
+{"id":"shared:home_drop:539004:385:_note","en":"5 Blazing Firestone","ru":"Пламенный огнекамень 5-го уровня"}
+{"id":"shared:home_drop:54000:139:_note","en":"Sprout Valley — Advanced Kibo Egg (Mysterious Egg, hatched drop)_Pigchoco, Sprout Valley — Advanced Kibo Egg (Mysterious Egg, hatched drop)_Bunnyray","ru":"Долина Ростков — продвинутое яйцо кибо (Таинственное яйцо, выпадает при вылуплении)_Свиншоколад, Долина Ростков — продвинутое яйцо кибо (Таинственное яйцо, выпадает при вылуплении)_Зайцерог"}
+{"id":"shared:home_drop:910001:386:_note","en":"5_4 Crystal Embryo Grade 1","ru":"5_4 заготовка кристалла, класс 1"}
+{"id":"shared:home_drop:910002:387:_note","en":"5_4 Crystal Embryo Grade 2","ru":"5_4 заготовка кристалла, класс 2"}
+{"id":"shared:home_drop:910003:388:_note","en":"5_4 Crystal Embryo Grade 3","ru":"5_4 заготовка кристалла, класс 3"}
+{"id":"shared:home_drop:910004:389:_note","en":"5_4 Crystal Embryo Grade 4","ru":"5_4 заготовка кристалла, класс 4"}
+{"id":"shared:home_drop:920001:390:_note","en":"3_1 Crystal Embryo Grade 1","ru":"3_1 заготовка кристалла, класс 1"}
+{"id":"shared:home_drop:920002:391:_note","en":"3_1 Crystal Embryo Grade 2","ru":"3_1 заготовка кристалла, класс 2"}
+{"id":"shared:home_drop:920003:392:_note","en":"3_2 Crystal Embryo Grade 3","ru":"3_2 заготовка кристалла, класс 3"}
+{"id":"shared:home_drop:920004:393:_note","en":"3_2 Crystal Embryo Grade 4","ru":"3_2 заготовка кристалла, класс 4"}
+{"id":"shared:home_drop:930004:394:_note","en":"Full Crystal Embryo Grade 4","ru":"Полная заготовка кристалла, класс 4"}
+{"id":"shared:home_drop:930005:395:_note","en":"Full Crystal Embryo Grade 5","ru":"Полная заготовка кристалла, класс 5"}
+{"id":"shared:home_drop:940004:396:_note","en":"3_2 Full Crystal Embryo Grade 4","ru":"3_2 полная заготовка кристалла, класс 4"}
+{"id":"shared:home_drop:940005:397:_note","en":"3_2 Full Crystal Embryo Grade 5","ru":"3_2 полная заготовка кристалла, класс 5"}

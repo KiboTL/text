@@ -1,0 +1,987 @@
+{"id":"journey_task_target:13185553893688064","en":"Defeat the Boss Frogremi","ru":"Победите босса Фрогреми"}
+{"id":"journey_task_target:13185553893688320","en":"Defeat the Boss Frogremi in Sprout Valley","ru":"Победите босса Фрогреми в Долине Ростков"}
+{"id":"journey_task_target:13185553893688576","en":"Frogremi, let's settle this!","ru":"Фрогреми, давай сразимся!"}
+{"id":"journey_task_target:13185558188655360","en":"Defeat the Boss Gururu","ru":"Победите босса Гуруру"}
+{"id":"journey_task_target:13185558188655616","en":"Defeat the Boss Gururu in Sprout Valley","ru":"Победите босса Гуруру в Долине Ростков"}
+{"id":"journey_task_target:13185558188655872","en":"Gururu, let's settle this!","ru":"Гуруру, давай сразимся!"}
+{"id":"journey_task_target:13185562483622656","en":"Defeat the Boss Crimzor","ru":"Победите босса Кримзора"}
+{"id":"journey_task_target:13185562483622912","en":"Defeat the Boss Crimzor in Sprout Valley","ru":"Победите босса Кримзора в Долине Ростков"}
+{"id":"journey_task_target:13185562483623168","en":"Crimzor, let's settle this!","ru":"Кримзор, давай сразимся!"}
+{"id":"journey_task_target:13185566778589952","en":"Defeat the Boss Granzalos","ru":"Победите босса Гранзалоса"}
+{"id":"journey_task_target:13185566778590208","en":"Defeat the Boss Granzalos in Sprout Valley","ru":"Победите босса Гранзалоса в Долине Ростков"}
+{"id":"journey_task_target:13185566778590464","en":"Granzalos, let's settle this!","ru":"Гранзалос, давай сразимся!"}
+{"id":"journey_task_target:13185575368524544","en":"Defeat the Boss Fielock","ru":"Победите босса Филока"}
+{"id":"journey_task_target:13185575368524800","en":"Defeat the Boss Fielock in Sprout Valley","ru":"Победите босса Филока в Долине Ростков"}
+{"id":"journey_task_target:13185575368525056","en":"Fielock, let's settle this!","ru":"Филок, давай сразимся!"}
+{"id":"journey_task_target:13185579663491840","en":"Defeat the Boss Signa","ru":"Победите босса Сигну"}
+{"id":"journey_task_target:13185579663492096","en":"Defeat the Boss Blue Signa in Fleece","ru":"Победите босса Синюю Сигну во Флисе"}
+{"id":"journey_task_target:13185579663492352","en":"Blue Signa, let's settle this!","ru":"Синяя Сигна, давай сразимся!"}
+{"id":"journey_task_target:13185583958459136","en":"Defeat the Boss Koboltarg","ru":"Победите босса Кобольтарга"}
+{"id":"journey_task_target:13185583958459392","en":"Defeat the Boss Koboltarg in Fleece","ru":"Победите босса Кобольтарга во Флисе"}
+{"id":"journey_task_target:13185583958459648","en":"Koboltarg, let's settle this!","ru":"Кобольтарг, давай сразимся!"}
+{"id":"journey_task_target:13185588253426432","en":"Defeat the Boss Megalm","ru":"Победите босса Мегальма"}
+{"id":"journey_task_target:13185588253426688","en":"Defeat the Boss Megalm in Fleece","ru":"Победите босса Мегальма во Флисе"}
+{"id":"journey_task_target:13185588253426944","en":"Megalm, let's settle this!","ru":"Мегальм, давай сразимся!"}
+{"id":"journey_task_target:13185592548393728","en":"Defeat the Boss Maeljark","ru":"Победите босса Мэйлджарка"}
+{"id":"journey_task_target:13185592548393984","en":"Defeat the Boss Maeljark in Fleece","ru":"Победите босса Мэйлджарка во Флисе"}
+{"id":"journey_task_target:13185592548394240","en":"Kruisame, let's settle this!","ru":"Круисаме, давай сразимся!"}
+{"id":"journey_task_target:13185596843361024","en":"Defeat the Boss Gartiger","ru":"Победите босса Гартигера"}
+{"id":"journey_task_target:13185596843361280","en":"Defeat the Boss Gartiger in Fleece","ru":"Победите босса Гартигера во Флисе"}
+{"id":"journey_task_target:13185596843361536","en":"Gartiger, let's settle this!","ru":"Гартигер, давай сразимся!"}
+{"id":"journey_task_target:13185601138328320","en":"Defeat the Boss Gourmank","ru":"Победите босса Гурманка"}
+{"id":"journey_task_target:13185601138328576","en":"Defeat the Boss Gourmank in Fleece","ru":"Победите босса Гурманка во Флисе"}
+{"id":"journey_task_target:13185601138328832","en":"Gourmank, let's settle this!","ru":"Гурманк, давай сразимся!"}
+{"id":"journey_task_target:13185605433295616","en":"Defeat the Boss Faundi","ru":"Победите босса Фаунди"}
+{"id":"journey_task_target:13185605433295872","en":"Defeat the Boss Faundi in Fleece","ru":"Победите босса Фаунди во Флисе"}
+{"id":"journey_task_target:13185605433296128","en":"Faundi, let's settle this!","ru":"Фаунди, давай сразимся!"}
+{"id":"journey_task_target:13185609728262912","en":"Defeat the Boss Neetmit","ru":"Победите босса Нитмита"}
+{"id":"journey_task_target:13185609728263168","en":"Defeat the Boss Neetmit in Fleece","ru":"Победите босса Нитмита во Флисе"}
+{"id":"journey_task_target:13185609728263424","en":"Neetmit, let's settle this!","ru":"Нитмит, давай сразимся!"}
+{"id":"journey_task_target:13185614023230208","en":"Defeat Giganshaura","ru":"Победите Гигансёуру"}
+{"id":"journey_task_target:13185614023230464","en":"Defeat the Giganshaura in Sprout Valley","ru":"Победите Гигансёуру в Долине Ростков"}
+{"id":"journey_task_target:13185614023230720","en":"Giganshaura, let's settle this!","ru":"Гигансёура, давай сразимся!"}
+{"id":"journey_task_target:13185618318197504","en":"Defeat Vespervamp","ru":"Победите Сумерокрыла"}
+{"id":"journey_task_target:13185618318197760","en":"Defeat the Vespervamp in Sprout Valley","ru":"Победите Сумерокрыла в Долине Ростков"}
+{"id":"journey_task_target:13185618318198016","en":"Vespervamp, let's settle this!","ru":"Сумерокрыл, давай сразимся!"}
+{"id":"journey_task_target:13185622613164800","en":"Defeat Raikoumo","ru":"Победите Райкоумо"}
+{"id":"journey_task_target:13185622613165056","en":"Defeat the Raikoumo in Fleece","ru":"Победите Райкоумо во Флисе"}
+{"id":"journey_task_target:13185622613165312","en":"Raikoumo, let's settle this!","ru":"Райкоумо, давай сразимся!"}
+{"id":"journey_task_target:13185626908132096","en":"Defeat Flame Kinglaraga","ru":"Победите Флэйм-Кинглага"}
+{"id":"journey_task_target:13185626908132352","en":"Defeat the Flame Kinglaraga in Fleece","ru":"Победите Флэйм-Кинглага во Флисе"}
+{"id":"journey_task_target:13185626908132608","en":"Flamraga, let's settle this!","ru":"Фламрага, давай сразимся!"}
+{"id":"journey_task_target:13185631203099392","en":"Defeat Ceresha","ru":"Победите Церешу"}
+{"id":"journey_task_target:13185631203099648","en":"Defeat the Ceresha in Fleece","ru":"Победите Церешу во Флисе"}
+{"id":"journey_task_target:13185631203099904","en":"Ceresha, let's settle this!","ru":"Цереша, давай сразимся!"}
+{"id":"journey_task_target:13185635498066688","en":"Defeat Amalthea","ru":"Победите Амальтею"}
+{"id":"journey_task_target:13185635498066944","en":"Defeat the Amalthea in Fleece","ru":"Победите Амальтею во Флисе"}
+{"id":"journey_task_target:13185635498067200","en":"Amalthea, let's settle this!","ru":"Амальтея, давай сразимся!"}
+{"id":"journey_task_target:13185639793033984","en":"A Wall to Surpass I","ru":"Стена, которую нужно преодолеть I"}
+{"id":"journey_task_target:13185639793034240","en":"Defeat Bosses or Aberrant Kibo 1 times","ru":"Победите боссов или аберрантов-кибо 1 раз"}
+{"id":"journey_task_target:13185639793034496","en":"Team up with your companions, take on powerful foes, and aim for even greater heights!","ru":"Объединяйтесь с товарищами, бросайте вызов сильным врагам и стремитесь к новым вершинам!"}
+{"id":"journey_task_target:13185644088001280","en":"A Wall to Surpass II","ru":"Стена, которую нужно преодолеть II"}
+{"id":"journey_task_target:13185644088001536","en":"Defeat Bosses or Aberrant Kibo 5 times","ru":"Победите боссов или аберрантов-кибо 5 раз"}
+{"id":"journey_task_target:13185644088001792","en":"Team up with your companions, take on powerful foes, and aim for even greater heights!","ru":"Объединяйтесь с товарищами, бросайте вызов сильным врагам и стремитесь к новым вершинам!"}
+{"id":"journey_task_target:13185648382968576","en":"A Wall to Surpass III","ru":"Стена, которую нужно преодолеть III"}
+{"id":"journey_task_target:13185648382968832","en":"Defeat Bosses or Aberrant Kibo 10 times","ru":"Победите боссов или аберрантов-кибо 10 раз"}
+{"id":"journey_task_target:13185648382969088","en":"Team up with your companions, take on powerful foes, and aim for even greater heights!","ru":"Объединяйтесь с товарищами, бросайте вызов сильным врагам и стремитесь к новым вершинам!"}
+{"id":"journey_task_target:13185983390417664","en":"Sprout Valley Exploration II","ru":"Исследование Долины Ростков II"}
+{"id":"journey_task_target:13185983390417920","en":"Raise your Sprout Valley exploration level to 5","ru":"Повысьте уровень исследования Долины Ростков до 5"}
+{"id":"journey_task_target:13185983390418176","en":"The trail of the stars shall be etched across every corner of Sprout Valley.","ru":"Звёздный след отпечатается по всем уголкам Долины Ростков."}
+{"id":"journey_task_target:13185987685384960","en":"Sprout Valley Exploration III","ru":"Исследование Долины Ростков III"}
+{"id":"journey_task_target:13185987685385216","en":"Raise your Sprout Valley exploration level to 7","ru":"Повысьте уровень исследования Долины Ростков до 7"}
+{"id":"journey_task_target:13185987685385472","en":"The trail of the stars shall be etched across every corner of Sprout Valley.","ru":"Звёздный след отпечатается по всем уголкам Долины Ростков."}
+{"id":"journey_task_target:13185991980352256","en":"Fleece Exploration I","ru":"Исследование Флиса I"}
+{"id":"journey_task_target:13185991980352512","en":"Raise your Fleece exploration level to 3","ru":"Повысьте уровень исследования Флиса до 3"}
+{"id":"journey_task_target:13185991980352768","en":"In time, the trail of the stars shall be etched across all of Fleece.","ru":"Со временем звёздный след будет запечатлён по всему Флису."}
+{"id":"journey_task_target:13185996275319552","en":"Fleece Exploration II","ru":"Исследование Флиса II"}
+{"id":"journey_task_target:13185996275319808","en":"Raise your Fleece exploration level to 5","ru":"Повысьте уровень исследования Флиса до 5"}
+{"id":"journey_task_target:13185996275320064","en":"In time, the trail of the stars shall be etched across all of Fleece.","ru":"Со временем звёздный след будет запечатлён по всему Флису."}
+{"id":"journey_task_target:13186000570286848","en":"Fleece Exploration III","ru":"Исследование Флиса III"}
+{"id":"journey_task_target:13186000570287104","en":"Raise your Fleece exploration level to 7","ru":"Повысьте уровень исследования Флиса до 7"}
+{"id":"journey_task_target:13186000570287360","en":"In time, the trail of the stars shall be etched across all of Fleece.","ru":"Со временем звёздный след будет запечатлён по всему Флису."}
+{"id":"journey_task_target:13186004865254144","en":"Path of Discovery I","ru":"Путь первооткрывателя I"}
+{"id":"journey_task_target:13186004865254400","en":"Clear the Map Difficulty: Star Spring of Wisdom breakthrough quest","ru":"Пройдите испытание прорыва «Звёздный источник мудрости» на карте"}
+{"id":"journey_task_target:13186004865254656","en":"Promilia, resonate with me!","ru":"Промилия, резонируй со мной!"}
+{"id":"journey_task_target:13186009160221440","en":"Path of Discovery II","ru":"Путь первооткрывателя II"}
+{"id":"journey_task_target:13186009160221696","en":"Clear the Map Difficulty: Star Surge of Vigor breakthrough quest","ru":"Пройдите испытание прорыва «Звёздный прилив бодрости» на карте"}
+{"id":"journey_task_target:13186009160221952","en":"Promilia, resonate with me!","ru":"Промилия, резонируй со мной!"}
+{"id":"journey_task_target:13186013455188736","en":"Path of Discovery III","ru":"Путь первооткрывателя III"}
+{"id":"journey_task_target:13186013455188992","en":"Clear the Map Difficulty: Star Current of Radiance breakthrough quest","ru":"Пройдите испытание прорыва «Звёздное течение сияния» на карте"}
+{"id":"journey_task_target:13186013455189248","en":"Promilia, resonate with me!","ru":"Промилия, резонируй со мной!"}
+{"id":"journey_task_target:13186412887147264","en":"Rolling Grago","ru":"Кати-Граго"}
+{"id":"journey_task_target:13186412887147520","en":"Clear Rolling Grago 1 times","ru":"Пройдите «Кати-Граго» 1 раз"}
+{"id":"journey_task_target:13186412887147776","en":"When it comes to Rolling Grago, I'm second to none!","ru":"В «Кати-Граго» мне нет равных!"}
+{"id":"journey_task_target:13186417182114560","en":"Transform into a Cabbird","ru":"Превращение в капустокрыла"}
+{"id":"journey_task_target:13186417182114816","en":"Clear Transform into a Cabbird 1 times","ru":"Пройдите «Превращение в капустокрыла» 1 раз"}
+{"id":"journey_task_target:13186417182115072","en":"When it comes to transforming into a Cabbird, I'm second to none!","ru":"В превращении в капустокрыла мне нет равных!"}
+{"id":"journey_task_target:13186421477081856","en":"Duru's Homecoming","ru":"Возвращение Дуру домой"}
+{"id":"journey_task_target:13186421477082112","en":"Clear Duru's Homecoming 1 times","ru":"Пройдите «Возвращение Дуру домой» 1 раз"}
+{"id":"journey_task_target:13186421477082368","en":"When it comes to Duru's Homecoming, I'm second to none!","ru":"В «Возвращении Дуру домой» мне нет равных!"}
+{"id":"journey_task_target:13186425772049152","en":"Mount Trial","ru":"Испытание скакуна"}
+{"id":"journey_task_target:13186425772049408","en":"Clear the Mount Trial 1 times","ru":"Пройдите Испытание скакуна 1 раз"}
+{"id":"journey_task_target:13186425772049664","en":"When it comes to the Mount Trial, I'm confident no one can beat me!","ru":"В Испытании скакуна мне нет равных, уж будь уверен!"}
+{"id":"journey_task_target:13186430067016448","en":"Perfect Riff's Performance","ru":"Идеальное исполнение Риффа"}
+{"id":"journey_task_target:13186430067016704","en":"Reach 3★ in Riff's Performance","ru":"Достигните 3★ в «Исполнении Риффа»"}
+{"id":"journey_task_target:13186430067016960","en":"When it comes to Riff's Performance, I'm second to none!","ru":"В «Исполнении Риффа» мне нет равных!"}
+{"id":"journey_task_target:13186434361983744","en":"Altar of the Shining Seal","ru":"алтарь сияющей печати"}
+{"id":"journey_task_target:13186434361984000","en":"Clear the Altar of the Shining Seal 1 times","ru":"Пройдите испытание алтаря сияющей печати 1 раз"}
+{"id":"journey_task_target:13186434361984256","en":"No one handles the Altar of the Shining Seal better than I do!","ru":"Никто не справляется с алтарём сияющей печати лучше меня!"}
+{"id":"journey_task_target:13186438656951040","en":"Perfect Sozanka's Ladder","ru":"Идеальная Лестница Содзанки"}
+{"id":"journey_task_target:13186438656951296","en":"Earn 3★ on Sozanka's Ladder","ru":"Получите 3★ на Лестнице Содзанки"}
+{"id":"journey_task_target:13186438656951552","en":"When it comes to Sozanka's Ladder, I'm second to none!","ru":"На Лестнице Содзанки мне нет равных!"}
+{"id":"journey_task_target:13186442951918336","en":"Perfect Surging Aura","ru":"Идеальная бурлящая Аура"}
+{"id":"journey_task_target:13186442951918592","en":"Clear Surging Aura 1 times","ru":"Пройдите «Бурлящую Ауру» 1 раз"}
+{"id":"journey_task_target:13186442951918848","en":"When it comes to Surging Aura, I'm second to none!","ru":"В «Бурлящей Ауре» мне нет равных!"}
+{"id":"journey_task_target:13186447246885632","en":"Perfect Kibo Companion","ru":"Идеальный напарник-кибо"}
+{"id":"journey_task_target:13186447246885888","en":"Earn 3★ with Kibo Companion","ru":"Получите 3★ в «Напарнике-кибо»"}
+{"id":"journey_task_target:13186447246886144","en":"No one is better than I am at handling a companion Kibo!","ru":"Никто не управляется с напарником-кибо лучше меня!"}
+{"id":"journey_task_target:13186842383876864","en":"Follow the Kibo I","ru":"Следуй за кибо I"}
+{"id":"journey_task_target:13186842383877120","en":"Clear Kibo Puzzles 1 times","ru":"Решите головоломки кибо 1 раз"}
+{"id":"journey_task_target:13186842383877376","en":"A tricky puzzle? With a Kibo companion by your side, there's nothing to fear!","ru":"Сложная головоломка? С напарником-кибо она не страшна!"}
+{"id":"journey_task_target:13186846678844160","en":"Follow the Kibo II","ru":"Следуй за кибо II"}
+{"id":"journey_task_target:13186846678844416","en":"Clear Kibo Puzzles 5 times","ru":"Решите головоломки кибо 5 раз"}
+{"id":"journey_task_target:13186846678844672","en":"A tricky puzzle? With a Kibo companion by your side, there's nothing to fear!","ru":"Сложная головоломка? С напарником-кибо она не страшна!"}
+{"id":"journey_task_target:13186850973811456","en":"Follow the Kibo III","ru":"Следуй за кибо III"}
+{"id":"journey_task_target:13186850973811712","en":"Clear Kibo Puzzles 10 times","ru":"Решите головоломки кибо 10 раз"}
+{"id":"journey_task_target:13186850973811968","en":"A tricky puzzle? With a Kibo companion by your side, there's nothing to fear!","ru":"Сложная головоломка? С напарником-кибо она не страшна!"}
+{"id":"journey_task_target:13186855268778752","en":"Follow the Kibo IV","ru":"Следуй за кибо IV"}
+{"id":"journey_task_target:13186855268779008","en":"Clear Kibo Puzzles 20 times","ru":"Решите головоломки кибо 20 раз"}
+{"id":"journey_task_target:13186855268779264","en":"A tricky puzzle? With a Kibo companion by your side, there's nothing to fear!","ru":"Сложная головоломка? С напарником-кибо она не страшна!"}
+{"id":"journey_task_target:13186868153680640","en":"Travel Surprises I","ru":"Дорожные сюрпризы I"}
+{"id":"journey_task_target:13186868153680896","en":"Open 1 Treasure Chests in the field","ru":"Откройте 1 сундуков с сокровищами в мире"}
+{"id":"journey_task_target:13186868153681152","en":"Adventures are always full of treasure chests.","ru":"Приключения всегда полны сундуков с сокровищами."}
+{"id":"journey_task_target:13186872448647936","en":"Travel Surprises II","ru":"Дорожные сюрпризы II"}
+{"id":"journey_task_target:13186872448648192","en":"Open 10 Treasure Chests in the field","ru":"Откройте 10 сундуков с сокровищами в мире"}
+{"id":"journey_task_target:13186872448648448","en":"Adventures are always full of treasure chests.","ru":"Приключения всегда полны сундуков с сокровищами."}
+{"id":"journey_task_target:13186876743615232","en":"Travel Surprises III","ru":"Дорожные сюрпризы III"}
+{"id":"journey_task_target:13186876743615488","en":"Open 20 Treasure Chests in the field","ru":"Откройте 20 сундуков с сокровищами в мире"}
+{"id":"journey_task_target:13186876743615744","en":"Adventures are always full of treasure chests.","ru":"Приключения всегда полны сундуков с сокровищами."}
+{"id":"journey_task_target:13186881038582528","en":"Hatching Hope I","ru":"Надежда на вылупление I"}
+{"id":"journey_task_target:13186881038582784","en":"Obtain 1 Kibo Eggs in the field","ru":"Получите 1 яиц кибо в мире"}
+{"id":"journey_task_target:13186881038583040","en":"I wonder what kind of Kibo will hatch from a mysterious Kibo Egg~","ru":"Интересно, какой кибо вылупится из загадочного яйца кибо~"}
+{"id":"journey_task_target:13186885333549824","en":"Hatching Hope II","ru":"Надежда на вылупление II"}
+{"id":"journey_task_target:13186885333550080","en":"Obtain 5 Kibo Eggs in the field","ru":"Получите 5 яиц кибо в мире"}
+{"id":"journey_task_target:13186885333550336","en":"I wonder what kind of Kibo will hatch from a mysterious Kibo Egg~","ru":"Интересно, какой кибо вылупится из загадочного яйца кибо~"}
+{"id":"journey_task_target:13186889628517120","en":"Hatching Hope III","ru":"Надежда на вылупление III"}
+{"id":"journey_task_target:13186889628517376","en":"Obtain 10 Kibo Eggs in the field","ru":"Получите 10 яиц кибо в мире"}
+{"id":"journey_task_target:13186889628517632","en":"I wonder what kind of Kibo will hatch from a mysterious Kibo Egg~","ru":"Интересно, какой кибо вылупится из загадочного яйца кибо~"}
+{"id":"journey_task_target:13186893923484416","en":"Starvein Breakthrough: Sprout Valley","ru":"Звёздный поток насквозь: Долина Ростков"}
+{"id":"journey_task_target:13186893923484672","en":"Unlock all Starvein Nodes in Sprout Valley","ru":"Разблокируйте все узлы звёздного потока в Долине Ростков"}
+{"id":"journey_task_target:13186893923484928","en":"Starvein Breach: Sprout Valley!","ru":"Прорыв звёздного потока: Долина Ростков!"}
+{"id":"journey_task_target:13186898218451712","en":"Starvein Breach: Fleece","ru":"Прорыв звёздного потока: Флис"}
+{"id":"journey_task_target:13186898218451968","en":"Unlock all Starvein Nodes in Fleece","ru":"Открыть все узлы звёздного потока во Флисе"}
+{"id":"journey_task_target:13186898218452224","en":"Starvein Breach: Fleece!","ru":"Прорыв звёздного потока: Флис!"}
+{"id":"journey_task_target:13186902513419008","en":"Traverse Sprout Valley","ru":"Пройти Долину Ростков"}
+{"id":"journey_task_target:13186902513419264","en":"Unlock all temporary nodes in Sprout Valley","ru":"Открыть все временные узлы в Долине Ростков"}
+{"id":"journey_task_target:13186902513419520","en":"Tracks spread across Sprout Valley!","ru":"Следы тянутся через Долину Ростков!"}
+{"id":"journey_task_target:13186906808386304","en":"Starlaw Collection: Sprout Valley","ru":"Сбор звёздного закона: Долина Ростков"}
+{"id":"journey_task_target:13186906808386560","en":"Reach Starlaw collection level 3 in Sprout Valley","ru":"Достичь уровня сбора звёздного закона 3 в Долине Ростков"}
+{"id":"journey_task_target:13186906808386816","en":"In Sprout Valley, where the stars first descended, the melody of the stars gradually resounded far and wide.","ru":"В Долине Ростков, где впервые сошли звёзды, мелодия звёзд постепенно разнеслась повсюду."}
+{"id":"journey_task_target:13186911103353600","en":"Starlaw Collection: Fleece","ru":"Сбор звёздного закона: Флис"}
+{"id":"journey_task_target:13186911103353856","en":"Reach Starlaw collection level 3 in Fleece","ru":"Достичь уровня сбора звёздного закона 3 во Флисе"}
+{"id":"journey_task_target:13186911103354112","en":"In Fleece, where the stars first descended, the melody of the stars gradually resounded far and wide.","ru":"Во Флисе, где впервые сошли звёзды, мелодия звёзд постепенно разнеслась повсюду."}
+{"id":"journey_task_target:13187271880606464","en":"Moments We Shared","ru":"Мгновения, разделённые в пути"}
+{"id":"journey_task_target:13187271880606720","en":"Take 1 photos of characters in Camera Mode","ru":"Сделать 1 фотографий персонажей в режиме камеры"}
+{"id":"journey_task_target:13187271880606976","en":"Every encounter on a journey is a bond. Capture this moment in a photo.","ru":"Каждая встреча в пути — это связь. Запечатлей этот миг на фотографии."}
+{"id":"journey_task_target:17394621843768064","en":"Starlink Journey II","ru":"Путь звёздной связи II"}
+{"id":"journey_task_target:17394621843768320","en":"Raise 1 characters to Level 50","ru":"Повысить 1 персонажей до уровня 50"}
+{"id":"journey_task_target:17394621843768576","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:17394626138735360","en":"Starlink Journey IV","ru":"Путь звёздной связи IV"}
+{"id":"journey_task_target:17394626138735616","en":"Raise 2 characters to Level 60","ru":"Повысить 2 персонажей до уровня 60"}
+{"id":"journey_task_target:17394626138735872","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:17394630433702656","en":"Starlink Journey V","ru":"Путь звёздной связи V"}
+{"id":"journey_task_target:17394630433702912","en":"Raise 3 characters to Level 70","ru":"Повысить 3 персонажей до уровня 70"}
+{"id":"journey_task_target:17394630433703168","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:17394634728669952","en":"Starlink Journey VI","ru":"Путь звёздной связи VI"}
+{"id":"journey_task_target:17394634728670208","en":"Raise 3 characters to Level 80","ru":"Повысить 3 персонажей до уровня 80"}
+{"id":"journey_task_target:17394634728670464","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:17394639023637248","en":"Starlink Journey VII","ru":"Путь звёздной связи VII"}
+{"id":"journey_task_target:17394639023637504","en":"Raise 3 characters to Level 90","ru":"Повысить 3 персонажей до уровня 90"}
+{"id":"journey_task_target:17394639023637760","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:17394643318604544","en":"Starlink Journey VIII","ru":"Путь звёздной связи VIII"}
+{"id":"journey_task_target:17394643318604800","en":"Raise 1 characters to Level 100","ru":"Повысить 1 персонажей до уровня 100"}
+{"id":"journey_task_target:17394643318605056","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:17394647613571840","en":"Starlink Journey IX","ru":"Путь звёздной связи IX"}
+{"id":"journey_task_target:17394647613572096","en":"Raise 3 characters to Level 100","ru":"Повысить 3 персонажей до уровня 100"}
+{"id":"journey_task_target:17394647613572352","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:17394651908539136","en":"Starlink Journey X","ru":"Путь звёздной связи X"}
+{"id":"journey_task_target:17394651908539392","en":"Raise 5 characters to Level 100","ru":"Повысить 5 персонажей до уровня 100"}
+{"id":"journey_task_target:17394651908539648","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:17394656203506432","en":"Together with Her I","ru":"Вместе с ней I"}
+{"id":"journey_task_target:17394656203506688","en":"Level up characters 1 times","ru":"Повысить уровень персонажей 1 раз"}
+{"id":"journey_task_target:17394656203506944","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:17395051340497664","en":"Anima Ready","ru":"Анима готова"}
+{"id":"journey_task_target:17395051340497920","en":"Equip Anima on 3 characters in your party","ru":"Экипировать аниму 3 персонажам в отряде"}
+{"id":"journey_task_target:17395051340498176","en":"Resonating with an Anima on the same wavelength draws out the power hidden within.","ru":"Резонанс с анимой на той же волне высвобождает скрытую внутри силу."}
+{"id":"journey_task_target:17395055635464960","en":"Radiant Memories II","ru":"Сияющие воспоминания II"}
+{"id":"journey_task_target:17395055635465216","en":"Raise 1 Anima to Level 50","ru":"Повысить 1 анимы до уровня 50"}
+{"id":"journey_task_target:17395055635465472","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
+{"id":"journey_task_target:17395059930432256","en":"Radiant Memories III","ru":"Сияющие воспоминания III"}
+{"id":"journey_task_target:17395059930432512","en":"Raise 3 Anima to Level 70","ru":"Повысить 3 анимы до уровня 70"}
+{"id":"journey_task_target:17395059930432768","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
+{"id":"journey_task_target:17395064225399552","en":"Radiant Memories IV","ru":"Сияющие воспоминания IV"}
+{"id":"journey_task_target:17395064225399808","en":"Raise 3 Anima to Level 90","ru":"Повысить 3 анимы до уровня 90"}
+{"id":"journey_task_target:17395064225400064","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
+{"id":"journey_task_target:17395068520366848","en":"Radiant Memories V","ru":"Сияющие воспоминания V"}
+{"id":"journey_task_target:17395068520367104","en":"Raise 1 Anima to Level 100","ru":"Повысить 1 анимы до уровня 100"}
+{"id":"journey_task_target:17395068520367360","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
+{"id":"journey_task_target:17395072815334144","en":"Radiant Memories VI","ru":"Сияющие воспоминания VI"}
+{"id":"journey_task_target:17395072815334400","en":"Raise 3 Anima to Level 100","ru":"Повысить 3 анимы до уровня 100"}
+{"id":"journey_task_target:17395072815334656","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
+{"id":"journey_task_target:17395077110301440","en":"Radiant Memories VII","ru":"Сияющие воспоминания VII"}
+{"id":"journey_task_target:17395077110301696","en":"Raise 5 Anima to Level 100","ru":"Повысить 5 анимы до уровня 100"}
+{"id":"journey_task_target:17395077110301952","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
+{"id":"journey_task_target:17395081405268736","en":"Radiant Memories I","ru":"Сияющие воспоминания I"}
+{"id":"journey_task_target:17395081405268992","en":"Level up Anima 1 times","ru":"Повысить уровень анимы 1 раз"}
+{"id":"journey_task_target:17395081405269248","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
+{"id":"journey_task_target:17395085700236032","en":"Embracing Memories","ru":"Обнимая воспоминания"}
+{"id":"journey_task_target:17395085700236288","en":"Equip an Anima to any character","ru":"Экипируйте аниму любому персонажу"}
+{"id":"journey_task_target:17395085700236544","en":"Resonating with an Anima on the same wavelength draws out the power hidden within.","ru":"Резонанс с анимой на той же волне высвобождает скрытую внутри силу."}
+{"id":"journey_task_target:17395480837227264","en":"Convey Your Feelings I","ru":"Передать свои чувства I"}
+{"id":"journey_task_target:17395480837227520","en":"Give gifts to any character 1 times","ru":"Подарить подарки любому персонажу 1 раз"}
+{"id":"journey_task_target:17395480837227776","en":"A relationship is something you build little by little. So... choose your gift carefully and give it a try.","ru":"Отношения строятся понемногу. Так что... хорошенько выбери подарок и попробуй его подарить."}
+{"id":"journey_task_target:17395485132194560","en":"Convey Your Feelings II","ru":"Передать свои чувства II"}
+{"id":"journey_task_target:17395485132194816","en":"Give gifts to any character 5 times","ru":"Подарить подарки любому персонажу 5 раз"}
+{"id":"journey_task_target:17395485132195072","en":"A relationship is something you build little by little. So... choose your gift carefully and give it a try.","ru":"Отношения строятся понемногу. Так что... хорошенько выбери подарок и попробуй его подарить."}
+{"id":"journey_task_target:17395489427161856","en":"Hearts in Tune I","ru":"В ладу сердец I"}
+{"id":"journey_task_target:17395489427162112","en":"Raise the bond level of 1 character(s) to Level 5","ru":"Повысьте уровень связи 1 персонажа(-ей) до уровня 5"}
+{"id":"journey_task_target:17395489427162368","en":"As long as you have the will to understand each other, opening your hearts will come naturally!","ru":"Если есть воля понять друг друга, то открыть сердца получится само собой!"}
+{"id":"journey_task_target:17395493722129152","en":"Hearts in Tune II","ru":"В ладу сердец II"}
+{"id":"journey_task_target:17395493722129408","en":"Raise the bond level of 1 character(s) to Level 10","ru":"Повысьте уровень связи 1 персонажа(-ей) до уровня 10"}
+{"id":"journey_task_target:17395493722129664","en":"As long as you have the will to understand each other, opening your hearts will come naturally!","ru":"Если есть воля понять друг друга, то открыть сердца получится само собой!"}
+{"id":"journey_task_target:17395910333956864","en":"Stairway of Star Blessing: 2","ru":"Ступени звёздного благословения: 2"}
+{"id":"journey_task_target:17395910333957120","en":"Raise the Star Blessing of 1 characters to Ascension Degree IV","ru":"Повысить звёздное благословение 1 персонажей до степени вознесения IV"}
+{"id":"journey_task_target:17395910333957376","en":"Listen closely. To the star's sonata engraved upon the soul.","ru":"Прислушайся. К сонате звёзд, отпечатанной в душе."}
+{"id":"journey_task_target:17395914628924160","en":"Stairway of Star Blessing: 4","ru":"Ступени звёздного благословения: 4"}
+{"id":"journey_task_target:17395914628924416","en":"Raise the Star Blessing of 1 characters to Ascension Degree VIII","ru":"Повысить звёздное благословение 1 персонажей до степени вознесения VIII"}
+{"id":"journey_task_target:17395914628924672","en":"Listen closely. To the star's sonata engraved upon the soul.","ru":"Прислушайся. К сонате звёзд, отпечатанной в душе."}
+{"id":"journey_task_target:17395918923891456","en":"Stairway of Star Blessing: V","ru":"Ступени звёздного благословения: V"}
+{"id":"journey_task_target:17395918923891712","en":"Raise the Star Blessing of 3 characters to Ascension Degree VIII","ru":"Повысить звёздное благословение 3 персонажей до степени вознесения VIII"}
+{"id":"journey_task_target:17395918923891968","en":"Listen closely. To the star's sonata engraved upon the soul.","ru":"Прислушайся. К сонате звёзд, отпечатанной в душе."}
+{"id":"journey_task_target:17395923218858752","en":"Stairway of Star Blessing: VI","ru":"Ступени звёздного благословения: VI"}
+{"id":"journey_task_target:17395923218859008","en":"Raise the Star Blessing of 1 characters to Ascension Degree XII","ru":"Повысить звёздное благословение 1 персонажей до степени вознесения XII"}
+{"id":"journey_task_target:17395923218859264","en":"Listen closely. To the star's sonata engraved upon the soul.","ru":"Прислушайся. К сонате звёзд, отпечатанной в душе."}
+{"id":"journey_task_target:17395927513826048","en":"Stairway of Star Blessing: VII","ru":"Ступени звёздного благословения: VII"}
+{"id":"journey_task_target:17395927513826304","en":"Raise the Star Blessing of 3 characters to Ascension Degree XII","ru":"Повысить звёздное благословение 3 персонажей до степени вознесения XII"}
+{"id":"journey_task_target:17395927513826560","en":"Listen closely. To the star's sonata engraved upon the soul.","ru":"Прислушайся. К сонате звёзд, отпечатанной в душе."}
+{"id":"journey_task_target:17395931808793344","en":"Stairway of Star Blessing: VIII","ru":"Ступени звёздного благословения: VIII"}
+{"id":"journey_task_target:17395931808793600","en":"Raise the Star Blessing of 5 characters to Ascension Degree XII","ru":"Повысить звёздное благословение 5 персонажей до степени вознесения XII"}
+{"id":"journey_task_target:17395931808793856","en":"Listen closely. To the star's sonata engraved upon the soul.","ru":"Прислушайся. К сонате звёзд, отпечатанной в душе."}
+{"id":"journey_task_target:17396339830686464","en":"Fully Armed","ru":"Полная экипировка"}
+{"id":"journey_task_target:17396339830686720","en":"Equip 5 pieces of equipment on any character","ru":"Экипировать 5 предметов снаряжения любому персонажу"}
+{"id":"journey_task_target:17396339830686976","en":"The better your equipment, the stronger your combat power!","ru":"Чем лучше снаряжение, тем сильнее боевая мощь!"}
+{"id":"journey_task_target:17396344125653760","en":"Fully Prepared I","ru":"Полная готовность I"}
+{"id":"journey_task_target:17396344125654016","en":"Equip 5 pieces of blue-rarity or higher equipment on a character","ru":"Экипировать персонажу 5 предметов снаряжения редкости «синий» или выше"}
+{"id":"journey_task_target:17396344125654272","en":"The higher the equipment rank, the stronger your combat power!","ru":"Чем выше ранг снаряжения, тем сильнее боевая мощь!"}
+{"id":"journey_task_target:17396348420621056","en":"Fully Prepared II","ru":"Полная готовность II"}
+{"id":"journey_task_target:17396348420621312","en":"Equip 5 pieces of purple-rarity or higher equipment on a character","ru":"Экипировать персонажу 5 предметов снаряжения редкости «фиолетовый» или выше"}
+{"id":"journey_task_target:17396348420621568","en":"The higher the equipment rank, the stronger your combat power!","ru":"Чем выше ранг снаряжения, тем сильнее боевая мощь!"}
+{"id":"journey_task_target:17396352715588352","en":"Fully Prepared III","ru":"Полная готовность III"}
+{"id":"journey_task_target:17396352715588608","en":"Equip 5 pieces of gold-rarity or higher equipment on a character","ru":"Экипировать персонажу 5 предметов снаряжения редкости «золотой» или выше"}
+{"id":"journey_task_target:17396352715588864","en":"The higher the equipment rank, the stronger your combat power!","ru":"Чем выше ранг снаряжения, тем сильнее боевая мощь!"}
+{"id":"journey_task_target:17396357010555648","en":"Equipment Enhancement II","ru":"Усиление снаряжения II"}
+{"id":"journey_task_target:17396357010555904","en":"Enhance 1 pieces of equipment to +3","ru":"Усилить 1 предметов снаряжения до +3"}
+{"id":"journey_task_target:17396357010556160","en":"Temper your equipment to make it tougher and stronger!","ru":"Закаляйте снаряжение — крепче и сильнее!"}
+{"id":"journey_task_target:17396361305522944","en":"Equipment Enhancement III","ru":"Усиление снаряжения III"}
+{"id":"journey_task_target:17396361305523200","en":"Enhance 1 pieces of equipment to +6","ru":"Усилить 1 предметов снаряжения до +6"}
+{"id":"journey_task_target:17396361305523456","en":"Temper your equipment to make it tougher and stronger!","ru":"Закаляйте снаряжение — крепче и сильнее!"}
+{"id":"journey_task_target:17396365600490240","en":"Equipment Enhancement IV","ru":"Усиление снаряжения IV"}
+{"id":"journey_task_target:17396365600490496","en":"Enhance 3 pieces of equipment to +6","ru":"Усилить 3 предметов снаряжения до +6"}
+{"id":"journey_task_target:17396365600490752","en":"Temper your equipment to make it tougher and stronger!","ru":"Закаляйте снаряжение — крепче и сильнее!"}
+{"id":"journey_task_target:17396369895457536","en":"Full Body Armament I","ru":"Полное вооружение I"}
+{"id":"journey_task_target:17396369895457792","en":"Enhance all equipment of any character to +6","ru":"Усилить всё снаряжение любого персонажа до +6"}
+{"id":"journey_task_target:17396369895458048","en":"A sharp blade for the strong!","ru":"Сильнейшим — острейший клинок!"}
+{"id":"journey_task_target:17396374190424832","en":"Full Armament II","ru":"Полное вооружение II"}
+{"id":"journey_task_target:17396374190425088","en":"Enhance all of any character's equipment to +9","ru":"Усилить всё снаряжение любого персонажа до +9"}
+{"id":"journey_task_target:17396374190425344","en":"A sharp blade for the strong!","ru":"Сильнейшим — острейший клинок!"}
+{"id":"journey_task_target:17396378485392128","en":"Full Armament III","ru":"Полное вооружение III"}
+{"id":"journey_task_target:17396378485392384","en":"Enhance all of any character's equipment to +12","ru":"Усилить всё снаряжение любого персонажа до +12"}
+{"id":"journey_task_target:17396378485392640","en":"A sharp blade for the strong!","ru":"Сильнейшим — острейший клинок!"}
+{"id":"journey_task_target:17396382780359424","en":"Equipment Enhancement V","ru":"Усиление снаряжения V"}
+{"id":"journey_task_target:17396382780359680","en":"Enhance 1 pieces of equipment to +15","ru":"Усилить 1 ед. снаряжения до +15"}
+{"id":"journey_task_target:17396382780359936","en":"A Golden Legend to Make You Gasp!","ru":"Золотая легенда — просто ах!"}
+{"id":"journey_task_target:17396387075326720","en":"Soulful Polish I","ru":"Полировка до блеска I"}
+{"id":"journey_task_target:17396387075326976","en":"Increase an equipment's stars by 1","ru":"Повысить звёзды снаряжения на 1"}
+{"id":"journey_task_target:17396387075327232","en":"Forged with exquisite craftsmanship, its luster drawn out into a magnificent vessel","ru":"Отточено дивным мастерством, блеск его явлен в дивном сосуде"}
+{"id":"journey_task_target:17396391370294016","en":"Soulful Polish II","ru":"Полировка до блеска II"}
+{"id":"journey_task_target:17396391370294272","en":"Raise 1 pieces of equipment to 2★","ru":"Повысить 1 ед. снаряжения до 2★"}
+{"id":"journey_task_target:17396391370294528","en":"Forged with exquisite craftsmanship, its luster drawn out into a magnificent vessel","ru":"Отточено дивным мастерством, блеск его явлен в дивном сосуде"}
+{"id":"journey_task_target:17396395665261312","en":"Soulful Polish III","ru":"Полировка до блеска III"}
+{"id":"journey_task_target:17396395665261568","en":"Raise 1 pieces of equipment to 3★","ru":"Повысить 1 ед. снаряжения до 3★"}
+{"id":"journey_task_target:17396395665261824","en":"Forged with exquisite craftsmanship, its luster drawn out into a magnificent vessel","ru":"Отточено дивным мастерством, блеск его явлен в дивном сосуде"}
+{"id":"journey_task_target:17396399960228608","en":"Soulful Polish IV","ru":"Полировка до блеска IV"}
+{"id":"journey_task_target:17396399960228864","en":"Raise 3 pieces of equipment to 3★","ru":"Повысить 3 ед. снаряжения до 3★"}
+{"id":"journey_task_target:17396399960229120","en":"Forged with exquisite craftsmanship, its luster drawn out into a magnificent vessel","ru":"Отточено дивным мастерством, блеск его явлен в дивном сосуде"}
+{"id":"journey_task_target:17396404255195904","en":"Full Armament IV","ru":"Полное вооружение IV"}
+{"id":"journey_task_target:17396404255196160","en":"Raise all of any character's equipment to 3★","ru":"Повысить всё снаряжение любого персонажа до 3★"}
+{"id":"journey_task_target:17396404255196416","en":"A sharp blade for the strong!","ru":"Сильнейшим — острейший клинок!"}
+{"id":"journey_task_target:17396408550163200","en":"Full Armament V","ru":"Полное вооружение V"}
+{"id":"journey_task_target:17396408550163456","en":"Raise all of any character's equipment to 4★","ru":"Повысить всё снаряжение любого персонажа до 4★"}
+{"id":"journey_task_target:17396408550163712","en":"A sharp blade for the strong!","ru":"Сильнейшим — острейший клинок!"}
+{"id":"journey_task_target:17396412845130496","en":"Full Armament VI","ru":"Полное вооружение VI"}
+{"id":"journey_task_target:17396412845130752","en":"Raise all of any character's equipment to 5★","ru":"Повысить всё снаряжение любого персонажа до 5★"}
+{"id":"journey_task_target:17396412845131008","en":"A sharp blade for the strong!","ru":"Сильнейшим — острейший клинок!"}
+{"id":"journey_task_target:17437571516728064","en":"Starlink: Mellowmie","ru":"Звёздная связь: Меллоуми"}
+{"id":"journey_task_target:17437571516728320","en":"Starlink with 1 Mellowmie","ru":"Создать звёздную связь с Меллоуми (1 шт.)"}
+{"id":"journey_task_target:17437571516728576","en":"The next Kibo to Starlink with is... a Mellowmie.","ru":"Следующий кибо для звёздной связи... Меллоуми."}
+{"id":"journey_task_target:17437575811695360","en":"Starlink: Pyonlu","ru":"Звёздная связь: Пионру"}
+{"id":"journey_task_target:17437575811695616","en":"Starlink with 1 Pyonlu","ru":"Создать звёздную связь с Пионру (1 шт.)"}
+{"id":"journey_task_target:17437575811695872","en":"The next Kibo to Starlink with is... a Pyonlu.","ru":"Следующий кибо для звёздной связи... Пионру."}
+{"id":"journey_task_target:17437580106662656","en":"Kibo Diversity I","ru":"Многообразие кибо I"}
+{"id":"journey_task_target:17437580106662912","en":"Starlink with 10 Kibo of different species","ru":"Создать звёздную связь с кибо разных видов (10 шт.)"}
+{"id":"journey_task_target:17437580106663168","en":"Form a Starlink with your favorite Kibos, make them your companions, and show them the wide world!","ru":"Создайте Звёздную связь с любимыми кибо, возьмите их в напарники и покажите им большой мир!"}
+{"id":"journey_task_target:17437584401629952","en":"Kibo Diversity II","ru":"Многообразие кибо II"}
+{"id":"journey_task_target:17437584401630208","en":"Starlink with 30 Kibo of different species","ru":"Создать звёздную связь с кибо разных видов (30 шт.)"}
+{"id":"journey_task_target:17437584401630464","en":"Form a Starlink with your favorite Kibos, make them your companions, and show them the wide world!","ru":"Создайте Звёздную связь с любимыми кибо, возьмите их в напарники и покажите им большой мир!"}
+{"id":"journey_task_target:17437588696597248","en":"Kibo Diversity III","ru":"Многообразие кибо III"}
+{"id":"journey_task_target:17437588696597504","en":"Starlink with 40 Kibo of different species","ru":"Создать звёздную связь с кибо разных видов (40 шт.)"}
+{"id":"journey_task_target:17437588696597760","en":"Form a Starlink with your favorite Kibos, make them your companions, and show them the wide world!","ru":"Создайте Звёздную связь с любимыми кибо, возьмите их в напарники и покажите им большой мир!"}
+{"id":"journey_task_target:17437592991564544","en":"Kibo Diversity IV","ru":"Многообразие кибо IV"}
+{"id":"journey_task_target:17437592991564800","en":"Starlink with 50 Kibo of different species","ru":"Создать звёздную связь с кибо разных видов (50 шт.)"}
+{"id":"journey_task_target:17437592991565056","en":"Form a Starlink with your favorite Kibos, make them your companions, and show them the wide world!","ru":"Создайте Звёздную связь с любимыми кибо, возьмите их в напарники и покажите им большой мир!"}
+{"id":"journey_task_target:17437597286531840","en":"Starlink: Amalthea","ru":"Звёздная связь: Амальтея"}
+{"id":"journey_task_target:17437597286532096","en":"Starlink with 1 Amalthea","ru":"Создать звёздную связь с Амальтеей (1 шт.)"}
+{"id":"journey_task_target:17437597286532352","en":"The next Kibo to Starlink with is... an Amalthea.","ru":"Следующий кибо для звёздной связи... Амальтея."}
+{"id":"journey_task_target:17437601581499136","en":"Starlink: Ceresha","ru":"Звёздная связь: Цереша"}
+{"id":"journey_task_target:17437601581499392","en":"Starlink with 1 Ceresha","ru":"Создать звёздную связь с Церешей (1 шт.)"}
+{"id":"journey_task_target:17437601581499648","en":"The next Kibo to Starlink with is... a Ceresha.","ru":"Следующий кибо для звёздной связи... Цереша."}
+{"id":"journey_task_target:17437605876466432","en":"Kibo Companion I","ru":"Напарник-кибо I"}
+{"id":"journey_task_target:17437605876466688","en":"Starlink with 20 Kibo","ru":"Создать звёздную связь с кибо (20 шт.)"}
+{"id":"journey_task_target:17437605876466944","en":"You can never have too many Kibo Companions!","ru":"Напарников-кибо много не бывает!"}
+{"id":"journey_task_target:17437610171433728","en":"Kibo Companion II","ru":"Напарник-кибо II"}
+{"id":"journey_task_target:17437610171433984","en":"Starlink with 30 Kibo","ru":"Создать звёздную связь с кибо (30 шт.)"}
+{"id":"journey_task_target:17437610171434240","en":"You can never have too many Kibo Companions!","ru":"Напарников-кибо много не бывает!"}
+{"id":"journey_task_target:17437614466401024","en":"Kibo Companion III","ru":"Напарник-кибо III"}
+{"id":"journey_task_target:17437614466401280","en":"Starlink with 50 Kibo","ru":"Создать звёздную связь с кибо (50 шт.)"}
+{"id":"journey_task_target:17437614466401536","en":"You can never have too many Kibo Companions!","ru":"Напарников-кибо много не бывает!"}
+{"id":"journey_task_target:17437618761368320","en":"Kibo Companion IV","ru":"Напарник-кибо IV"}
+{"id":"journey_task_target:17437618761368576","en":"Starlink with 100 Kibo","ru":"Создать звёздную связь с кибо (100 шт.)"}
+{"id":"journey_task_target:17437618761368832","en":"You can never have too many Kibo Companions!","ru":"Напарников-кибо много не бывает!"}
+{"id":"journey_task_target:17437623056335616","en":"Starlink: Gayak","ru":"Звёздная связь: Гаяк"}
+{"id":"journey_task_target:17437623056335872","en":"Starlink with 1 Gayak","ru":"Создать звёздную связь с Гаяком (1 шт.)"}
+{"id":"journey_task_target:17437623056336128","en":"The next Kibo to Starlink with is... a Gayak.","ru":"Следующий кибо для звёздной связи... Гаяк."}
+{"id":"journey_task_target:17438001013457664","en":"Kibo Growth I","ru":"Рост кибо I"}
+{"id":"journey_task_target:17438001013457920","en":"Evolve any Kibo 1 times","ru":"Эволюционировать любого кибо 1 раз"}
+{"id":"journey_task_target:17438001013458176","en":"When a Kibo evolves, its appearance changes completely~","ru":"Когда кибо эволюционирует, его облик меняется до неузнаваемости~"}
+{"id":"journey_task_target:17438005308424960","en":"Raising Kibo III","ru":"Воспитание кибо III"}
+{"id":"journey_task_target:17438005308425216","en":"Own 1 Kibo at Level 50","ru":"Иметь кибо уровня 50 (1 шт.)"}
+{"id":"journey_task_target:17438005308425472","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:17438009603392256","en":"Nurturing Bonds II","ru":"Воспитание уз II"}
+{"id":"journey_task_target:17438009603392512","en":"Place 3 Kibo at Level 60 in your team","ru":"Включить в отряд кибо уровня 60 (3 шт.)"}
+{"id":"journey_task_target:17438009603392768","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:17438013898359552","en":"Nurturing Bonds III","ru":"Воспитание уз III"}
+{"id":"journey_task_target:17438013898359808","en":"Place 3 Kibo at Level 70 in your team","ru":"Включить в отряд кибо уровня 70 (3 шт.)"}
+{"id":"journey_task_target:17438013898360064","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:17438018193326848","en":"Nurturing Bonds IV","ru":"Воспитание уз IV"}
+{"id":"journey_task_target:17438018193327104","en":"Place 3 Kibo at Level 80 in your team","ru":"Включить в отряд кибо уровня 80 (3 шт.)"}
+{"id":"journey_task_target:17438018193327360","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:17438022488294144","en":"Nurturing Bonds V","ru":"Воспитание уз V"}
+{"id":"journey_task_target:17438022488294400","en":"Place 3 Kibo at Level 90 in your team","ru":"Включить в отряд кибо уровня 90 (3 шт.)"}
+{"id":"journey_task_target:17438022488294656","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:17438026783261440","en":"Raising Kibo IV","ru":"Воспитание кибо IV"}
+{"id":"journey_task_target:17438026783261696","en":"Own 1 Kibo at Level 100","ru":"Иметь кибо уровня 100 (1 шт.)"}
+{"id":"journey_task_target:17438026783261952","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:17438031078228736","en":"Growing Together with Kibo VI","ru":"Расти вместе с кибо VI"}
+{"id":"journey_task_target:17438031078228992","en":"Place 3 Kibo at Level 100 in your team","ru":"Включить в отряд кибо уровня 100 (3 шт.)"}
+{"id":"journey_task_target:17438031078229248","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:17438035373196032","en":"Kibo Level Up V","ru":"Повышение уровня кибо V"}
+{"id":"journey_task_target:17438035373196288","en":"Own 6 Kibo at Level 100","ru":"Иметь кибо уровня 100 (6 шт.)"}
+{"id":"journey_task_target:17438035373196544","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:17438430510187264","en":"Training Kibo I","ru":"Тренировка кибо I"}
+{"id":"journey_task_target:17438430510187520","en":"Enhance any Kibo's Source Vein","ru":"Усилить Исходную жилу любого кибо"}
+{"id":"journey_task_target:17438430510187776","en":"Leveling up a Kibo's Source Vein should make it a more powerful ally.","ru":"Повышение уровня Исходной жилы кибо сделает его более сильным союзником."}
+{"id":"journey_task_target:17438434805154560","en":"Training Kibo II","ru":"Тренировка кибо II"}
+{"id":"journey_task_target:17438434805154816","en":"Raise any Kibo's Source Vein to Stage II","ru":"Повысить Исходную жилу любого кибо до ступени II"}
+{"id":"journey_task_target:17438434805155072","en":"Leveling up a Kibo's Source Vein should make it a more powerful ally.","ru":"Повышение уровня Исходной жилы кибо сделает его более сильным союзником."}
+{"id":"journey_task_target:17438439100121856","en":"Training Kibo III","ru":"Тренировка кибо III"}
+{"id":"journey_task_target:17438439100122112","en":"Raise 2 Kibo's Source Vein to Stage II","ru":"Повысить Исходную жилу кибо до ступени II (2 шт.)"}
+{"id":"journey_task_target:17438439100122368","en":"Leveling up a Kibo's Source Vein should make it a more powerful ally.","ru":"Повышение уровня Исходной жилы кибо сделает его более сильным союзником."}
+{"id":"journey_task_target:17438443395089152","en":"Training Kibo IV","ru":"Тренировка кибо IV"}
+{"id":"journey_task_target:17438443395089408","en":"Raise 2 Kibo's Source Vein to Stage III","ru":"Повысить Исходную жилу кибо до ступени III (2 шт.)"}
+{"id":"journey_task_target:17438443395089664","en":"Leveling up a Kibo's Source Vein should make it a more powerful ally.","ru":"Повышение уровня Исходной жилы кибо сделает его более сильным союзником."}
+{"id":"journey_task_target:17438447690056448","en":"Training Kibo V","ru":"Тренировка кибо V"}
+{"id":"journey_task_target:17438447690056704","en":"Raise 2 Kibo's Source Vein to Stage IV","ru":"Повысить Исходную жилу кибо до ступени IV (2 шт.)"}
+{"id":"journey_task_target:17438447690056960","en":"Leveling up a Kibo's Source Vein should make it a more powerful ally.","ru":"Повышение уровня Исходной жилы кибо сделает его более сильным союзником."}
+{"id":"journey_task_target:17438451985023744","en":"Training Kibo VI","ru":"Тренировка кибо VI"}
+{"id":"journey_task_target:17438451985024000","en":"Raise 2 Kibo's Source Vein to Stage V","ru":"Повысить Исходную жилу кибо до ступени V (2 шт.)"}
+{"id":"journey_task_target:17438451985024256","en":"Leveling up a Kibo's Source Vein should make it a more powerful ally.","ru":"Повышение уровня Исходной жилы кибо сделает его более сильным союзником."}
+{"id":"journey_task_target:17438456279991040","en":"Training Kibo VII","ru":"Тренировка кибо VII"}
+{"id":"journey_task_target:17438456279991296","en":"Max out 2 Kibo's Source Vein","ru":"Максимально усилить Исходную жилу кибо (2 шт.)"}
+{"id":"journey_task_target:17438456279991552","en":"Leveling up a Kibo's Source Vein should make it a more powerful ally.","ru":"Повышение уровня Исходной жилы кибо сделает его более сильным союзником."}
+{"id":"journey_task_target:17438460574958336","en":"Training Kibo VIII","ru":"Тренировка кибо VIII"}
+{"id":"journey_task_target:17438460574958592","en":"Max out 3 Kibo's Source Vein","ru":"Максимально усилить Исходную жилу кибо (3 шт.)"}
+{"id":"journey_task_target:17438460574958848","en":"Leveling up a Kibo's Source Vein should make it a more powerful ally.","ru":"Повышение уровня Исходной жилы кибо сделает его более сильным союзником."}
+{"id":"journey_task_target:17438860006916864","en":"Kibo with Genius Aptitude","ru":"Кибо с одарённостью «Гений»"}
+{"id":"journey_task_target:17438860006917120","en":"Starlink with 1 Kibo with \"Genius\" Aptitude","ru":"Создать звёздную связь с кибо с одарённостью «Гений» (1 шт.)"}
+{"id":"journey_task_target:17438860006917376","en":"Kibo with outstanding aptitude become stronger forces in battle.","ru":"Кибо с выдающейся одарённостью становятся более сильной боевой силой."}
+{"id":"journey_task_target:17438864301884160","en":"Kibo with the Prodigy Aptitude","ru":"Кибо с одарённостью «Самородок»"}
+{"id":"journey_task_target:17438864301884416","en":"Starlink with 1 Kibo with the Prodigy Aptitude","ru":"Заключить звёздную связь с кибо с одарённостью «Самородок» в количестве 1"}
+{"id":"journey_task_target:17438864301884672","en":"Kibo with outstanding aptitude become stronger forces in battle.","ru":"Кибо с выдающейся одарённостью становятся более сильной боевой силой."}
+{"id":"journey_task_target:17438868596851456","en":"Kibo with the Gifted Talent","ru":"Кибо с одарённостью «Прирождённый талант»"}
+{"id":"journey_task_target:17438868596851712","en":"Starlink with 1 Kibo with the Gifted Talent","ru":"Заключить звёздную связь с кибо с одарённостью «Прирождённый талант» в количестве 1"}
+{"id":"journey_task_target:17438868596851968","en":"Kibo with outstanding aptitude become stronger forces in battle.","ru":"Кибо с выдающейся одарённостью становятся более сильной боевой силой."}
+{"id":"journey_task_target:17438872891818752","en":"Use Potential Fruit","ru":"Использовать плод потенциала"}
+{"id":"journey_task_target:17438872891819008","en":"Use Potential Fruit to strengthen a Kibo's Potential 1 times","ru":"Использовать плод потенциала, чтобы усилить потенциал кибо 1 раз"}
+{"id":"journey_task_target:17438872891819264","en":"Potential Fruit is the perfect item for raising a Kibo's Potential!","ru":"Плод потенциала — идеальный предмет для развития потенциала кибо!"}
+{"id":"journey_task_target:17439289503646464","en":"Use Factor Fruit I","ru":"Использовать плод фактора I"}
+{"id":"journey_task_target:17439289503646720","en":"Use Factor Fruit to reroll Kibo Factors 1 times","ru":"Использовать плоды фактора, чтобы изменить факторы кибо 1 раз"}
+{"id":"journey_task_target:17439289503646976","en":"Not happy with your Kibo companion's Factors? That's when Factor Fruit comes in handy!","ru":"Не устраивают факторы вашего кибо-напарника? Тогда на помощь придёт плод фактора!"}
+{"id":"journey_task_target:17439293798613760","en":"Kibo Factor Mutation I","ru":"Мутация факторов кибо I"}
+{"id":"journey_task_target:17439293798614016","en":"Mutate Kibo Factors 5 times","ru":"Провести мутацию факторов кибо 5 раз"}
+{"id":"journey_task_target:17439293798614272","en":"Choose, choose.","ru":"Выбор, выбор."}
+{"id":"journey_task_target:17439298093581056","en":"Kibo Factor Mutation II","ru":"Мутация факторов кибо II"}
+{"id":"journey_task_target:17439298093581312","en":"Mutate Kibo Factors 10 times","ru":"Провести мутацию факторов кибо 10 раз"}
+{"id":"journey_task_target:17439298093581568","en":"Choose, choose.","ru":"Выбор, выбор."}
+{"id":"journey_task_target:17439302388548352","en":"Use Factor Fruit II","ru":"Использовать плод фактора II"}
+{"id":"journey_task_target:17439302388548608","en":"Use purple-rarity Factor Fruit 1 times","ru":"Использовать плоды фактора фиолетовой редкости 1 раз"}
+{"id":"journey_task_target:17439302388548864","en":"Not happy with your Kibo companion's Factors? That's when Factor Fruit comes in handy!","ru":"Не устраивают факторы вашего кибо-напарника? Тогда на помощь придёт плод фактора!"}
+{"id":"journey_task_target:17439306683515648","en":"Use Factor Fruit III","ru":"Использовать плод фактора III"}
+{"id":"journey_task_target:17439306683515904","en":"Use gold-rarity Factor Fruit 1 times","ru":"Использовать плоды фактора золотой редкости 1 раз"}
+{"id":"journey_task_target:17439306683516160","en":"Not happy with your Kibo companion's Factors? That's when Factor Fruit comes in handy!","ru":"Не устраивают факторы вашего кибо-напарника? Тогда на помощь придёт плод фактора!"}
+{"id":"journey_task_target:17439310978482944","en":"Kibo with Perfect Factors","ru":"Кибо с идеальными факторами"}
+{"id":"journey_task_target:17439310978483200","en":"Own 1 Kibo with 8 Factors","ru":"Иметь 8 факторов у 1 кибо"}
+{"id":"journey_task_target:17439310978483456","en":"Your Kibo companion's Factors are perfect!","ru":"Факторы вашего кибо-напарника безупречны!"}
+{"id":"journey_task_target:17439315273450240","en":"Kibo with High-Quality Factors I","ru":"Кибо с качественными факторами I"}
+{"id":"journey_task_target:17439315273450496","en":"Own 1 Kibo with 4 purple Factors","ru":"Иметь 4 фиолетовых факторов у 1 кибо"}
+{"id":"journey_task_target:17439315273450752","en":"Your Kibo companion has excellent Factors!","ru":"У вашего кибо-напарника превосходные факторы!"}
+{"id":"journey_task_target:17439319568417536","en":"Kibo with High-Quality Factors II","ru":"Кибо с качественными факторами II"}
+{"id":"journey_task_target:17439319568417792","en":"Own 1 Kibo with 6 purple Factors","ru":"Иметь 6 фиолетовых факторов у 1 кибо"}
+{"id":"journey_task_target:17439319568418048","en":"Your Kibo companion has excellent Factors!","ru":"У вашего кибо-напарника превосходные факторы!"}
+{"id":"journey_task_target:21646639466808064","en":"Seashell Ghost Story","ru":"История о призраке в ракушке"}
+{"id":"journey_task_target:21646639466808320","en":"Complete the sub-story Seashell Ghost Story","ru":"Завершить подысторию «История о призраке в ракушке»"}
+{"id":"journey_task_target:21646639466808576","en":"Every small memory in Promilia becomes a mark of the eternal stars.","ru":"Каждое скромное воспоминание в Промилии становится знаком вечных звёзд."}
+{"id":"journey_task_target:21646643761775360","en":"Kibo's Stone of Grace","ru":"Камень благодати кибо"}
+{"id":"journey_task_target:21646643761775616","en":"Complete the sub-story Ultimate Secret Art: Blessing Stone","ru":"Завершить подысторию «Высшее искусство: Камень благодати»"}
+{"id":"journey_task_target:21646643761775872","en":"Every small memory in Promilia becomes a mark of the eternal stars.","ru":"Каждое скромное воспоминание в Промилии становится знаком вечных звёзд."}
+{"id":"journey_task_target:21646648056742656","en":"Journey of the Frantic Delivery","ru":"Путешествие сумбурной доставки"}
+{"id":"journey_task_target:21646648056742912","en":"Complete the sub-story Journey of the Frantic Delivery","ru":"Завершить подысторию «Путешествие сумбурной доставки»"}
+{"id":"journey_task_target:21646648056743168","en":"Every small memory in Promilia becomes a mark of the eternal stars.","ru":"Каждое скромное воспоминание в Промилии становится знаком вечных звёзд."}
+{"id":"journey_task_target:21646652351709952","en":"Mitty's Coming-of-Age Ceremony","ru":"Совершеннолетие Митти"}
+{"id":"journey_task_target:21646652351710208","en":"Complete the sub-story Mitty's Coming-of-Age Ceremony","ru":"Завершить подысторию «Совершеннолетие Митти»"}
+{"id":"journey_task_target:21646652351710464","en":"Every small memory in Promilia becomes a mark of the eternal stars.","ru":"Каждое скромное воспоминание в Промилии становится знаком вечных звёзд."}
+{"id":"journey_task_target:21646656646677248","en":"Dream Catcher","ru":"Ловец снов"}
+{"id":"journey_task_target:21646656646677504","en":"Complete the sub-story Dream Catcher","ru":"Завершить подысторию «Ловец снов»"}
+{"id":"journey_task_target:21646656646677760","en":"Every small memory in Promilia becomes a mark of the eternal stars.","ru":"Каждое скромное воспоминание в Промилии становится знаком вечных звёзд."}
+{"id":"journey_task_target:21646660941644544","en":"Bond Shared: Abby","ru":"Общая связь: Эбби"}
+{"id":"journey_task_target:21646660941644800","en":"Complete the character story Dreams and Treasure","ru":"Завершить историю персонажа «Мечты и сокровище»"}
+{"id":"journey_task_target:21646660941645056","en":"Walk with the bond you share and turn a page of a story.","ru":"Идите рядом с общей связью и переверните страницу истории."}
+{"id":"journey_task_target:21646665236611840","en":"Bond Shared: Tushan Xiaoyu","ru":"Общая связь: Тушань Сяоюй"}
+{"id":"journey_task_target:21646665236612096","en":"Complete the character story A Peach Bond Tied by Thousand Threads","ru":"Завершить историю персонажа «Персиковые узы, связанные тысячей нитей»"}
+{"id":"journey_task_target:21646665236612352","en":"Walk with the bond you share and turn a page of a story.","ru":"Идите рядом с общей связью и переверните страницу истории."}
+{"id":"journey_task_target:21646673826546432","en":"A Song Wishing for New Sprouts","ru":"Песнь о новых ростках"}
+{"id":"journey_task_target:21646673826546688","en":"Complete the sub-story Restoring the Yalhadom","ru":"Завершить подысторию «Восстановление Ялхадома»"}
+{"id":"journey_task_target:21646673826546944","en":"Sing a healing song to the newborn sprouts.","ru":"Спойте песнь исцеления юным росткам."}
+{"id":"journey_task_target:21646678121513728","en":"The Mansion's Haunting Shadow","ru":"Призрачная тень особняка"}
+{"id":"journey_task_target:21646678121513984","en":"Complete the sub-story The Mansion's Haunting Shadow","ru":"Завершить подысторию «Призрачная тень особняка»"}
+{"id":"journey_task_target:21646678121514240","en":"An eerie shadow stirs within the mansion. What secrets could it be hiding?","ru":"В особняке шевелится жуткая тень. Интересно, какие секреты она скрывает?"}
+{"id":"journey_task_target:21647068963537664","en":"Main Story Commission I","ru":"Сюжетное поручение I"}
+{"id":"journey_task_target:21647068963537920","en":"Complete the main story commission \"1-1 Leaving Home\"","ru":"Завершить сюжетное поручение «1-1 Вдали от родного дома»"}
+{"id":"journey_task_target:21647068963538176","en":"Take on a commission and press onward!","ru":"Беритесь за поручение и двигайтесь вперёд!"}
+{"id":"journey_task_target:21647073258504960","en":"Main Story Commission II","ru":"Сюжетное поручение II"}
+{"id":"journey_task_target:21647073258505216","en":"Complete the main story commission \"1-4 Valley of the Unknown\"","ru":"Завершить сюжетное поручение «1-4 Неизведанная долина»"}
+{"id":"journey_task_target:21647073258505472","en":"Take on a commission and press onward!","ru":"Беритесь за поручение и двигайтесь вперёд!"}
+{"id":"journey_task_target:21647077553472256","en":"Main Story Commission III","ru":"Сюжетное поручение III"}
+{"id":"journey_task_target:21647077553472512","en":"Complete the main story commission \"1-8 Guidance of the Stars\"","ru":"Завершить сюжетное поручение «1-8 Звёздное руководство»"}
+{"id":"journey_task_target:21647077553472768","en":"Take on a commission and press onward!","ru":"Беритесь за поручение и двигайтесь вперёд!"}
+{"id":"journey_task_target:21647081848439552","en":"Main Story Commission IV","ru":"Сюжетное поручение IV"}
+{"id":"journey_task_target:21647081848439808","en":"Complete the main story commission \"2-4 Dawn of All Spirits\"","ru":"Завершить сюжетное поручение «2-4 Рассвет всех духов»"}
+{"id":"journey_task_target:21647081848440064","en":"Take on a commission and press onward!","ru":"Беритесь за поручение и двигайтесь вперёд!"}
+{"id":"journey_task_target:21647086143406848","en":"Main Story Commission V","ru":"Сюжетное поручение V"}
+{"id":"journey_task_target:21647086143407104","en":"Complete the main story commission \"2-7 Emblem of Inheritance\"","ru":"Завершить сюжетное поручение «2-7 Герб наследия»"}
+{"id":"journey_task_target:21647086143407360","en":"Take on a commission and press onward!","ru":"Беритесь за поручение и двигайтесь вперёд!"}
+{"id":"journey_task_target:21647090438374144","en":"Main Story Commission VI","ru":"Сюжетное поручение VI"}
+{"id":"journey_task_target:21647090438374400","en":"Complete the main story commission \"3-4 A Long Road Ahead\"","ru":"Завершить сюжетное поручение «3-4 Долгий путь впереди»"}
+{"id":"journey_task_target:21647090438374656","en":"Take on a commission and press onward!","ru":"Беритесь за поручение и двигайтесь вперёд!"}
+{"id":"journey_task_target:21647094733341440","en":"Main Story Commission VII","ru":"Сюжетное поручение VII"}
+{"id":"journey_task_target:21647094733341696","en":"Complete the main story commission \"3-7 The Great Wolf's Guardian\"","ru":"Завершить сюжетное поручение «3-7 Защита Великого волка»"}
+{"id":"journey_task_target:21647094733341952","en":"Take on a commission and press onward!","ru":"Беритесь за поручение и двигайтесь вперёд!"}
+{"id":"journey_task_target:21647099028308736","en":"Main Story Commission VIII","ru":"Сюжетное поручение VIII"}
+{"id":"journey_task_target:21647099028308992","en":"Complete the main story commission \"4-10 Subjugation of the Frenzy\"","ru":"Завершить сюжетное поручение «4-10 Подавление безумия»"}
+{"id":"journey_task_target:21647099028309248","en":"Take on a commission and press onward!","ru":"Беритесь за поручение и двигайтесь вперёд!"}
+{"id":"journey_task_target:21647103323276032","en":"Shining Silver","ru":"Серебряное сияние"}
+{"id":"journey_task_target:21647103323276288","en":"Complete the daily commission Basic Materials: Shining Silver 1 times","ru":"Завершить ежедневное поручение «Основные материалы: Серебряное сияние» 1 раз"}
+{"id":"journey_task_target:21647103323276544","en":"On the road to strength, every small step counts.","ru":"На пути к силе важен каждый маленький шаг."}
+{"id":"journey_task_target:21647107618243328","en":"Proof of Refinement","ru":"Доказательство мастерства"}
+{"id":"journey_task_target:21647107618243584","en":"Complete the daily commission Basic Materials: Tempered a Thousand Times 1 times","ru":"Завершить ежедневное поручение «Основные материалы: Закалка тысячей ударов» 1 раз"}
+{"id":"journey_task_target:21647107618243840","en":"On the road to strength, every small step counts.","ru":"На пути к силе важен каждый маленький шаг."}
+{"id":"journey_task_target:21647111913210624","en":"Crystal Extraction","ru":"Извлечение кристаллов"}
+{"id":"journey_task_target:21647111913210880","en":"Complete the daily commission Basic Materials: Crystal Extraction 1 times","ru":"Завершить ежедневное поручение «Основные материалы: Извлечение кристаллов» 1 раз"}
+{"id":"journey_task_target:21647111913211136","en":"On the road to strength, every small step counts.","ru":"На пути к силе важен каждый маленький шаг."}
+{"id":"journey_task_target:21647116208177920","en":"Boss Challenge I","ru":"Испытание босса I"}
+{"id":"journey_task_target:21647116208178176","en":"Complete the difficulty II daily commission Boss Challenge 1 times","ru":"Завершить ежедневное поручение «Испытание босса» II уровня сложности 1 раз"}
+{"id":"journey_task_target:21647116208178432","en":"Do not fear powerful foes!","ru":"Не бойтесь сильных врагов!"}
+{"id":"journey_task_target:21647120503145216","en":"Boss Challenge II","ru":"Испытание босса II"}
+{"id":"journey_task_target:21647120503145472","en":"Complete the difficulty IV daily commission Boss Challenge 1 times","ru":"Завершить ежедневное поручение «Испытание босса» IV уровня сложности 1 раз"}
+{"id":"journey_task_target:21647120503145728","en":"Do not fear powerful foes!","ru":"Не бойтесь сильных врагов!"}
+{"id":"journey_task_target:21647124798112512","en":"Boss Challenge III","ru":"Испытание босса III"}
+{"id":"journey_task_target:21647124798112768","en":"Complete the difficulty VI daily commission Boss Challenge 1 times","ru":"Завершить ежедневное поручение «Испытание босса» VI уровня сложности 1 раз"}
+{"id":"journey_task_target:21647124798113024","en":"Do not fear powerful foes!","ru":"Не бойтесь сильных врагов!"}
+{"id":"journey_task_target:21647129093079808","en":"Equipment Acquisition II","ru":"Получение снаряжения II"}
+{"id":"journey_task_target:21647129093080064","en":"Complete the difficulty III daily commission Equipment Acquisition 1 times","ru":"Завершить ежедневное поручение «Получение снаряжения» III уровня сложности 1 раз"}
+{"id":"journey_task_target:21647129093080320","en":"Fully armed!","ru":"Полное вооружение!"}
+{"id":"journey_task_target:21647133388047104","en":"Equipment Acquisition III","ru":"Получение снаряжения III"}
+{"id":"journey_task_target:21647133388047360","en":"Complete the difficulty V daily commission Equipment Acquisition 1 times","ru":"Завершить ежедневное поручение «Получение снаряжения» V уровня сложности 1 раз"}
+{"id":"journey_task_target:21647133388047616","en":"Fully armed!","ru":"Полное вооружение!"}
+{"id":"journey_task_target:21647137683014400","en":"Equipment Acquisition IV","ru":"Получение снаряжения IV"}
+{"id":"journey_task_target:21647137683014656","en":"Complete the difficulty V daily commission Equipment Acquisition 10 times","ru":"Завершить ежедневное поручение «Получение снаряжения» V уровня сложности 10 раз"}
+{"id":"journey_task_target:21647137683014912","en":"Fully armed!","ru":"Полное вооружение!"}
+{"id":"journey_task_target:21647141977981696","en":"Equipment Acquisition V","ru":"Получение снаряжения V"}
+{"id":"journey_task_target:21647141977981952","en":"Complete the difficulty V daily commission Equipment Acquisition 20 times","ru":"Завершить ежедневное поручение «Получение снаряжения» V уровня сложности 20 раз"}
+{"id":"journey_task_target:21647141977982208","en":"Fully armed!","ru":"Полное вооружение!"}
+{"id":"journey_task_target:21647498460267264","en":"Crisis Subjugation II","ru":"Подавление кризиса II"}
+{"id":"journey_task_target:21647498460267520","en":"Complete Crisis Subjugation 5 times","ru":"Завершить «Подавление кризиса» 5 раз"}
+{"id":"journey_task_target:21647498460267776","en":"The brilliance of the stars always pierces the darkness of crisis and clears the vast skies!","ru":"Сияние звёзд всегда разгоняет тьму кризиса и очищает небеса!"}
+{"id":"journey_task_target:21647502755234560","en":"Crisis Subjugation III","ru":"Подавление кризиса III"}
+{"id":"journey_task_target:21647502755234816","en":"Complete Crisis Subjugation 10 times","ru":"Завершить «Подавление кризиса» 10 раз"}
+{"id":"journey_task_target:21647502755235072","en":"The brilliance of the stars always pierces the darkness of crisis and clears the vast skies!","ru":"Сияние звёзд всегда разгоняет тьму кризиса и очищает небеса!"}
+{"id":"journey_task_target:21647507050201856","en":"Crisis Subjugation: Multiplayer","ru":"Подавление кризиса: многопользовательский режим"}
+{"id":"journey_task_target:21647507050202112","en":"Complete Crisis Subjugation with a party 1 times","ru":"Завершить «Подавление кризиса» в отряде 1 раз"}
+{"id":"journey_task_target:21647507050202368","en":"The light of countless stars drives away the shadows and illuminates the world!","ru":"Свет бесчисленных звёзд разгоняет сумрак и озаряет мир!"}
+{"id":"journey_task_target:21647511345169152","en":"Clear Crisis Subjugation II","ru":"Пройти «Подавление кризиса II»"}
+{"id":"journey_task_target:21647511345169408","en":"Clear any Crisis Subjugation on Difficulty II.","ru":"Пройти любое «Подавление кризиса» сложности II."}
+{"id":"journey_task_target:21647511345169664","en":"The light of countless stars drives away the shadows and illuminates the world!","ru":"Свет бесчисленных звёзд разгоняет сумрак и озаряет мир!"}
+{"id":"journey_task_target:21647515640136448","en":"Crisis Subjugation: Three Clear","ru":"Подавление кризиса: прохождение III"}
+{"id":"journey_task_target:21647515640136704","en":"Clear any Crisis Subjugation on Difficulty III.","ru":"Пройти любое «Подавление кризиса» сложности III."}
+{"id":"journey_task_target:21647515640136960","en":"The light of countless stars drives away the shadows and illuminates the world!","ru":"Свет бесчисленных звёзд разгоняет сумрак и озаряет мир!"}
+{"id":"journey_task_target:21647519935103744","en":"Crisis Subjugation: Four Clear","ru":"Подавление кризиса: прохождение IV"}
+{"id":"journey_task_target:21647519935104000","en":"Clear any Crisis Subjugation on Difficulty IV.","ru":"Пройти любое «Подавление кризиса» сложности IV."}
+{"id":"journey_task_target:21647519935104256","en":"The light of countless stars drives away the shadows and illuminates the world!","ru":"Свет бесчисленных звёзд разгоняет сумрак и озаряет мир!"}
+{"id":"journey_task_target:21647524230071040","en":"Never Stingy with Praise","ru":"Не скупиться на похвалу"}
+{"id":"journey_task_target:21647524230071296","en":"After a Crisis Subjugation ends, receive \"likes\" from teammates 10 times.","ru":"После завершения «Подавления кризиса» получить «лайки» от товарищей по команде 10 раз."}
+{"id":"journey_task_target:21647524230071552","en":"Every member of the team matters. Don't be stingy with praise.","ru":"Каждый в команде важен. Не скупитесь на похвалу."}
+{"id":"journey_task_target:21647528525038336","en":"No Slacking Off","ru":"Без халтуры"}
+{"id":"journey_task_target:21647528525038592","en":"Earn MVP 1 times in Crisis Subjugation multiplayer mode.","ru":"Получить статус MVP в многопользовательском режиме «Подавления кризиса» 1 раз."}
+{"id":"journey_task_target:21647528525038848","en":"Aim to be the team's model and show everyone your dedication.","ru":"Стремитесь стать примером для команды и покажите всем своё усердие."}
+{"id":"journey_task_target:21647532820005632","en":"Never Abandon a Comrade","ru":"Не бросать товарищей"}
+{"id":"journey_task_target:21647532820005888","en":"After a Crisis Subjugation ends, receive a friend request from a teammate.","ru":"После завершения «Подавления кризиса» получить заявку в друзья от товарища по команде."}
+{"id":"journey_task_target:21647532820006144","en":"Comrades are precious. Create as many chances to cooperate as you can!","ru":"Товарищи очень важны. Создавайте как можно больше возможностей для сотрудничества!"}
+{"id":"journey_task_target:21647927956996864","en":"Sculpted Flow: Circular Shadow Challenge - Introductory","ru":"Текущая скульптура: Круговая тень — вводное испытание"}
+{"id":"journey_task_target:21647927956997120","en":"Clear Traces of the Heavenly Dao: Sculpted Flow: Circular Shadow III.","ru":"Пройти «Следы небесного пути: Текущая скульптура: Круговая тень III»."}
+{"id":"journey_task_target:21647927956997376","en":"The visage of the past, illuminated by the light of the Tower of the Heavenly Way, reveals itself.","ru":"Образ минувшего, озарённый светом Башни Небесного пути, является вновь."}
+{"id":"journey_task_target:21647932251964160","en":"Sculpted Flow: Circular Shadow Challenge - Full Clear","ru":"Текущая скульптура: Круговая тень — полное прохождение"}
+{"id":"journey_task_target:21647932251964416","en":"Earn 21★ in Dustshadow of the Sun's Crossing: Sculpted Flow: Circular Shadow.","ru":"Получить 21★ в «Пылевой тени солнечного перехода: Текущая скульптура: Круговая тень»."}
+{"id":"journey_task_target:21647932251964672","en":"The visage of the past, illuminated by the light of the Tower of the Heavenly Way, reveals itself.","ru":"Образ минувшего, озарённый светом Башни Небесного пути, является вновь."}
+{"id":"journey_task_target:21647936546931456","en":"Eternal Flow: Circular Shadow Challenge - One","ru":"Вечное течение: Круговая тень — испытание I"}
+{"id":"journey_task_target:21647936546931712","en":"Earn 12★ in Dustshadow of the Sun's Crossing: Eternal Flow: Circular Shadow.","ru":"Получить 12★ в «Пылевой тени солнечного перехода: Вечное течение: Круговая тень»."}
+{"id":"journey_task_target:21647936546931968","en":"The visage of the past, illuminated by the light of the Tower of the Heavenly Way, reveals itself.","ru":"Образ минувшего, озарённый светом Башни Небесного пути, является вновь."}
+{"id":"journey_task_target:21647940841898752","en":"Eternal Flow: Circular Shadow Challenge - Two","ru":"Вечное течение: Круговая тень — испытание II"}
+{"id":"journey_task_target:21647940841899008","en":"Earn 21★ in Dustshadow of the Sun's Crossing: Eternal Flow: Circular Shadow.","ru":"Получить 21★ в «Пылевой тени солнечного перехода: Вечное течение: Круговая тень»."}
+{"id":"journey_task_target:21647940841899264","en":"The visage of the past, illuminated by the light of the Tower of the Heavenly Way, reveals itself.","ru":"Образ минувшего, озарённый светом Башни Небесного пути, является вновь."}
+{"id":"journey_task_target:21647945136866048","en":"Tidal Flow: Circular Shadow Challenge - One","ru":"Приливное течение: Круговая тень — испытание I"}
+{"id":"journey_task_target:21647945136866304","en":"Earn 12★ in Dustshadow of the Sun's Crossing: Tidal Flow: Circular Shadow.","ru":"Получить 12★ в «Пылевой тени солнечного перехода: Приливное течение: Круговая тень»."}
+{"id":"journey_task_target:21647945136866560","en":"The visage of the past, illuminated by the light of the Tower of the Heavenly Way, reveals itself.","ru":"Образ минувшего, озарённый светом Башни Небесного пути, является вновь."}
+{"id":"journey_task_target:21647949431833344","en":"Tidal Flow: Circular Shadow Challenge - Two","ru":"Приливное течение: Круговая тень — испытание II"}
+{"id":"journey_task_target:21647949431833600","en":"Earn 15★ in Dustshadow of the Sun's Crossing: Tidal Flow: Circular Shadow.","ru":"Получить 15★ в «Пылевой тени солнечного перехода: Приливное течение: Круговая тень»."}
+{"id":"journey_task_target:21647949431833856","en":"The visage of the past, illuminated by the light of the Tower of the Heavenly Way, reveals itself.","ru":"Образ минувшего, озарённый светом Башни Небесного пути, является вновь."}
+{"id":"journey_task_target:21647953726800640","en":"Tidal Flow: Circular Shadow Challenge - Three","ru":"Приливное течение: Круговая тень — испытание III"}
+{"id":"journey_task_target:21647953726800896","en":"Earn 18★ in Dustshadow of the Sun's Crossing: Tidal Flow: Circular Shadow.","ru":"Получить 18★ в «Пылевой тени солнечного перехода: Приливное течение: Круговая тень»."}
+{"id":"journey_task_target:21647953726801152","en":"The visage of the past, illuminated by the light of the Tower of the Heavenly Way, reveals itself.","ru":"Образ минувшего, озарённый светом Башни Небесного пути, является вновь."}
+{"id":"journey_task_target:21648357453726464","en":"Kibo Fight - First Battle","ru":"Бой кибо — первый бой"}
+{"id":"journey_task_target:21648357453726720","en":"Clear all Kibo Fight tutorial stages.","ru":"Пройти все обучающие этапы «Боя кибо»."}
+{"id":"journey_task_target:21648357453726976","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:21648361748693760","en":"Kibo Fight - Sprout Valley - One","ru":"Бой кибо — Долина Ростков I"}
+{"id":"journey_task_target:21648361748694016","en":"Raise the Kibo Fight Area Level of Sprout Valley to 3.","ru":"Повысить уровень области «Бой кибо» в Долине Ростков до 3."}
+{"id":"journey_task_target:21648361748694272","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:21648366043661056","en":"Kibo Fight - Sprout Valley - Two","ru":"Бой кибо — Долина Ростков II"}
+{"id":"journey_task_target:21648366043661312","en":"Raise the Kibo Fight Area Level of Sprout Valley to 5.","ru":"Повысить уровень области «Бой кибо» в Долине Ростков до 5."}
+{"id":"journey_task_target:21648366043661568","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:21648370338628352","en":"Kibo Fight - Sprout Valley - Three","ru":"Бой кибо — Долина Ростков III"}
+{"id":"journey_task_target:21648370338628608","en":"Raise the Kibo Fight Area Level of Sprout Valley to 8.","ru":"Повысить уровень области «Бой кибо» в Долине Ростков до 8."}
+{"id":"journey_task_target:21648370338628864","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:21648374633595648","en":"Kibo Fight - Sprout Valley - Four","ru":"Бой кибо — Долина Ростков IV"}
+{"id":"journey_task_target:21648374633595904","en":"Raise the Kibo Fight Area Level of Sprout Valley to 10.","ru":"Повысить уровень области «Бой кибо» в Долине Ростков до 10."}
+{"id":"journey_task_target:21648374633596160","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:21648378928562944","en":"Kibo Fight - Fleece - One","ru":"Бой кибо — Флис I"}
+{"id":"journey_task_target:21648378928563200","en":"Raise the Kibo Fight Area Level of Fleece to 3.","ru":"Повысить уровень области «Бой кибо» во Флисе до 3."}
+{"id":"journey_task_target:21648378928563456","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:21648383223530240","en":"Kibo Fight - Fleece - Two","ru":"Бой кибо — Флис II"}
+{"id":"journey_task_target:21648383223530496","en":"Raise the Kibo Fight Area Level of Fleece to 5.","ru":"Повысить уровень области «Бой кибо» во Флисе до 5."}
+{"id":"journey_task_target:21648383223530752","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:21648387518497536","en":"Kibo Fight - Fleece - Three","ru":"Бой кибо — Флис III"}
+{"id":"journey_task_target:21648387518497792","en":"Raise the Kibo Fight Area Level of Fleece to 8.","ru":"Повысить уровень области «Бой кибо» во Флисе до 8."}
+{"id":"journey_task_target:21648387518498048","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:21648391813464832","en":"Kibo Fight - Enlistment Match","ru":"Бой кибо — отборочный поединок"}
+{"id":"journey_task_target:21648391813465088","en":"Participate in Kibo Fight Enlistment Matches 1 times.","ru":"Принять участие в отборочных поединках «Боя кибо» 1 раз."}
+{"id":"journey_task_target:21648391813465344","en":"A time of invitation, a contest of friendship!","ru":"Время приглашений, состязание дружбы!"}
+{"id":"journey_task_target:21648396108432128","en":"Kibo Fight - Star Crown","ru":"Бой кибо — Звёздная корона"}
+{"id":"journey_task_target:21648396108432384","en":"Participate in the Kibo Fight Star Crown Cup 1 times.","ru":"Принять участие в «Кубке Звёздной короны» «Боя кибо» 1 раз."}
+{"id":"journey_task_target:21648396108432640","en":"Reach the pinnacle of the fight, and crown yourself with the Star Crown!","ru":"Достигните вершины боя и увенчайте себя Звёздной короной!"}
+{"id":"journey_task_target:4337921263928064","en":"Craft a Stella Card","ru":"Создать Карту звёзд"}
+{"id":"journey_task_target:4337921263928320","en":"Craft 5 Stella Card(s) with Quick Craft","ru":"Создайте Карты звёзд (5 шт.) с помощью быстрого ремесла"}
+{"id":"journey_task_target:4337921263928576","en":"Stella Cards are a vital resource for forming a Starlink with a Kibo. Low-level Stella Cards can be crafted directly with Quick Craft.","ru":"Карты звёзд — важнейший ресурс для создания Звёздной связи с кибо. Карты звёзд низкого уровня можно создать напрямую с помощью быстрого ремесла."}
+{"id":"journey_task_target:4337925558895360","en":"The Starlink Journey: Prologue","ru":"Путь Звёздной связи: Пролог"}
+{"id":"journey_task_target:4337925558895616","en":"Raise the Level of 1 character(s) to 20","ru":"Поднимите Уровень персонажей (1 шт.) до 20"}
+{"id":"journey_task_target:4337925558895872","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:4337929853862656","en":"Kibo Level Up: Prologue","ru":"Повышение уровня кибо: Пролог"}
+{"id":"journey_task_target:4337929853862912","en":"Own 1 Kibo at Level 10","ru":"Имейте кибо (1 шт.) Уровня 10"}
+{"id":"journey_task_target:4337929853863168","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:4337934148829952","en":"Starlink: One","ru":"Звёздная связь: Один"}
+{"id":"journey_task_target:4337934148830208","en":"Form a Starlink with 5 Kibo","ru":"Создайте Звёздную связь с кибо (5 шт.)"}
+{"id":"journey_task_target:4337934148830464","en":"You can never have too many Kibo Companions!","ru":"Напарников-кибо много не бывает!"}
+{"id":"journey_task_target:4337938443797248","en":"Equip an Anima","ru":"Экипировать аниму"}
+{"id":"journey_task_target:4337938443797504","en":"Equip an Anima to any character","ru":"Экипируйте аниму любому персонажу"}
+{"id":"journey_task_target:4337938443797760","en":"Resonating with an Anima on the same wavelength draws out the power hidden within.","ru":"Резонанс с анимой на той же волне высвобождает скрытую внутри силу."}
+{"id":"journey_task_target:4337942738764544","en":"Mount Trial: Introduction","ru":"Испытание скакуна: Введение"}
+{"id":"journey_task_target:4337942738764800","en":"Clear any Mount Trial 1 time(s)","ru":"Пройдите любое Испытание скакуна (1 раз)"}
+{"id":"journey_task_target:4337942738765056","en":"When it comes to the Mount Trial, I'm confident no one can beat me!","ru":"В Испытании скакуна мне нет равных, уж будь уверен!"}
+{"id":"journey_task_target:4337947033731840","en":"A Starborn's New Life","ru":"Новая жизнь Звездорождённого"}
+{"id":"journey_task_target:4337947033732096","en":"Complete the \"Granted the Farm\" part of the \"First Time in Sprout Valley\" quest","ru":"Завершите часть «Дарование фермы» в задании «Впервые в Долине Ростков»"}
+{"id":"journey_task_target:4337947033732352","en":"Now that you've been given the Farm, your new journey of management and creation begins. Keep clearing the main story quest!","ru":"Теперь, когда ферма передана вам, начинается новый путь управления и созидания. Продолжайте проходить основное сюжетное задание!"}
+{"id":"journey_task_target:4810367666488064","en":"Starlink: Two","ru":"Звёздная связь: Два"}
+{"id":"journey_task_target:4810367666488320","en":"Form a Starlink with 10 Kibo","ru":"Создайте Звёздную связь с кибо (10 шт.)"}
+{"id":"journey_task_target:4810367666488576","en":"You can never have too many Kibo Companions!","ru":"Напарников-кибо много не бывает!"}
+{"id":"journey_task_target:4810371961455360","en":"The Starlink Journey: One","ru":"Путь Звёздной связи: Один"}
+{"id":"journey_task_target:4810371961455616","en":"Raise the Level of 1 character(s) to 30","ru":"Поднимите Уровень персонажей (1 шт.) до 30"}
+{"id":"journey_task_target:4810371961455872","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:4810376256422656","en":"Brilliant Memories: One","ru":"Яркие воспоминания: Один"}
+{"id":"journey_task_target:4810376256422912","en":"Raise the Level of 1 Anima to 30","ru":"Поднимите Уровень аним (1 шт.) до 30"}
+{"id":"journey_task_target:4810376256423168","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
+{"id":"journey_task_target:4810380551389952","en":"Raising Kibo: One","ru":"Выращивание кибо: Один"}
+{"id":"journey_task_target:4810380551390208","en":"Own 1 Kibo at Level 20","ru":"Имейте кибо (1 шт.) Уровня 20"}
+{"id":"journey_task_target:4810380551390464","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:4810384846357248","en":"Build a Windbrass Mine","ru":"Построить шахту ветряной меди"}
+{"id":"journey_task_target:4810384846357504","en":"Build and place a Windbrass Mine on the Farm","ru":"Постройте и разместите шахту ветряной меди на ферме"}
+{"id":"journey_task_target:4810384846357760","en":"Once your Star Knowledge Level reaches 10, you can build a Windbrass Mine. With one, you'll no longer have to swing a pickaxe out in the sun and wind.","ru":"Когда Уровень звёздных знаний достигнет 10, вы сможете построить шахту ветряной меди. С ней вам больше не придётся махать киркой под солнцем и ветром."}
+{"id":"journey_task_target:4810384846359296","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:4810389141324544","en":"Build an Elemental Altar","ru":"Построить Элементальный алтарь"}
+{"id":"journey_task_target:4810389141324800","en":"Build and place an Elemental Altar on the Farm","ru":"Постройте и разместите Элементальный алтарь на ферме"}
+{"id":"journey_task_target:4810389141325056","en":"Once your Star Knowledge Level reaches 10, you can build an Elemental Altar. Fine Particles of elements are essential to becoming stronger. Put the Elemental Altar to good use, and it will be a great help on your path to power!","ru":"Когда Уровень звёздных знаний достигнет 10, вы сможете построить Элементальный алтарь. Мелкие частицы элементов необходимы, чтобы стать сильнее. Хорошо используйте Элементальный алтарь — он станет большим подспорьем на пути к силе!"}
+{"id":"journey_task_target:4810389141326592","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:4810393436291840","en":"Defeat the Boss Cabbird","ru":"Победите Босса Капустокрыла"}
+{"id":"journey_task_target:4810393436292096","en":"Defeat the Boss Cabbird in Sprout Valley","ru":"Победите Босса Капустокрыла в Долине Ростков"}
+{"id":"journey_task_target:4810393436292352","en":"Cabbird, it's you and me!","ru":"Капустокрыл, я вызываю тебя на бой!"}
+{"id":"journey_task_target:5240293892817664","en":"A Wide Variety of Kibo Companions","ru":"Многообразие напарников-кибо"}
+{"id":"journey_task_target:5240293892817920","en":"Form a Starlink with 20 different types of Kibo","ru":"Создайте Звёздную связь с кибо разных видов (20 шт.)"}
+{"id":"journey_task_target:5240293892818176","en":"Form a Starlink with your favorite Kibos, make them your companions, and show them the wide world!","ru":"Создайте Звёздную связь с любимыми кибо, возьмите их в напарники и покажите им большой мир!"}
+{"id":"journey_task_target:5240298187784960","en":"Raising Kibo: Two","ru":"Выращивание кибо: Два"}
+{"id":"journey_task_target:5240298187785216","en":"Own 1 Kibo at Level 30","ru":"Имейте кибо (1 шт.) Уровня 30"}
+{"id":"journey_task_target:5240298187785472","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:5240302482752256","en":"Dispatch Kibo for Work: One","ru":"Отправка кибо на работу: Один"}
+{"id":"journey_task_target:5240302482752512","en":"Dispatch 7 worker Kibo to the Farm Headquarters","ru":"Отправьте рабочих кибо (7 шт.) в фермерский штаб"}
+{"id":"journey_task_target:5240302482752768","en":"One Kibo, one burrow. 7 Kibos to 7 burrow.","ru":"Один кибо — одна нора. 7 кибо на 7 нору."}
+{"id":"journey_task_target:5240306777719552","en":"Complete Trade Orders: One","ru":"Выполнение торговых заказов: Один"}
+{"id":"journey_task_target:5240306777719808","en":"Complete the quest \"First Step to Riches!\"","ru":"Завершите задание «Первый шаг к богатству!»"}
+{"id":"journey_task_target:5240306777720064","en":"To make your Farm thrive, you can't skip taking on orders!","ru":"Чтобы ферма процветала, без приёма заказов не обойтись!"}
+{"id":"journey_task_target:5240311072686848","en":"Defeat the Boss Yellowalbi","ru":"Победите Босса Йеллоуальби"}
+{"id":"journey_task_target:5240311072687104","en":"Defeat the Boss Yellowalbi in Sprout Valley","ru":"Победите Босса Йеллоуальби в Долине Ростков"}
+{"id":"journey_task_target:5240311072687360","en":"Yellowalbi, let's go!","ru":"Йеллоуальби, в бой!"}
+{"id":"journey_task_target:5240315367654144","en":"Defeat the Boss Luminous Firefly","ru":"Победите Босса Светящегося светлячка"}
+{"id":"journey_task_target:5240315367654400","en":"Defeat the Boss Luminous Firefly in Sprout Valley","ru":"Победите Босса Светящегося светлячка в Долине Ростков"}
+{"id":"journey_task_target:5240315367654656","en":"Luminous Firefly, let's go!","ru":"Светящийся светлячок, в бой!"}
+{"id":"journey_task_target:5240319662621440","en":"Production Efficiency Facilities: One","ru":"Сооружения для повышения эффективности производства: Один"}
+{"id":"journey_task_target:5240319662621696","en":"Repair 1 gathering facilities in the field","ru":"Отремонтируйте объекты сбора в поле (1 шт.)"}
+{"id":"journey_task_target:5240319662621952","en":"Repair gathering facilities in the field to boost production efficiency!","ru":"Ремонтируйте объекты сбора в поле, чтобы повысить эффективность производства!"}
+{"id":"journey_task_target:5670220119147264","en":"Stairway of Star Blessing: One","ru":"Лестница Звёздного благословения: Один"}
+{"id":"journey_task_target:5670220119147520","en":"Perform Star Blessing Ascension on any character 1 time(s)","ru":"Проведите Вознесение Звёздного благословения любого персонажа (1 раз)"}
+{"id":"journey_task_target:5670220119147776","en":"Listen closely. To the star's sonata engraved upon the soul.","ru":"Прислушайся. К сонате звёзд, отпечатанной в душе."}
+{"id":"journey_task_target:5670224414114560","en":"Kibo Fight: Tutorial","ru":"Бой кибо: Обучение"}
+{"id":"journey_task_target:5670224414114816","en":"Complete the quest \"Let's Kibo Fight!\"","ru":"Завершите задание «Давайте устроим Бой кибо!»"}
+{"id":"journey_task_target:5670224414115072","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:5670228709081856","en":"Gather Basic Materials","ru":"Сбор базовых материалов"}
+{"id":"journey_task_target:5670228709082112","en":"Complete Daily Commission - Basic Materials 1 time(s)","ru":"Завершите ежедневное Поручение «Базовые материалы» (1 раз)"}
+{"id":"journey_task_target:5670228709082368","en":"On the road to strength, every small step counts.","ru":"На пути к силе важен каждый маленький шаг."}
+{"id":"journey_task_target:5670233004049152","en":"Complete Boss Challenges","ru":"Прохождение испытаний боссов"}
+{"id":"journey_task_target:5670233004049408","en":"Complete Daily Commission - Boss Challenge 1 time(s)","ru":"Завершите ежедневное Поручение «Испытание босса» (1 раз)"}
+{"id":"journey_task_target:5670233004049664","en":"Do not fear powerful foes!","ru":"Не бойтесь сильных врагов!"}
+{"id":"journey_task_target:5670237299016448","en":"Crisis Subjugation: One","ru":"Подавление кризиса: Один"}
+{"id":"journey_task_target:5670237299016704","en":"Clear Crisis Subjugation on any difficulty 2 times.","ru":"Пройдите «Подавление кризиса» на любой сложности 2 раз."}
+{"id":"journey_task_target:5670237299016960","en":"The brilliance of the stars always pierces the darkness of crisis and clears the vast skies!","ru":"Сияние звёзд всегда разгоняет тьму кризиса и очищает небеса!"}
+{"id":"journey_task_target:5670241593983744","en":"Defeat Kinglaraga","ru":"Победите Кинглага"}
+{"id":"journey_task_target:5670241593984000","en":"Defeat Kinglaraga in Sprout Valley","ru":"Победите Кинглага в Долине Ростков"}
+{"id":"journey_task_target:5670241593984256","en":"Time to face Kinglaraga!","ru":"Пора сразиться с Кинглагом!"}
+{"id":"journey_task_target:5670245888951040","en":"Complete Trading Orders II","ru":"Выполните торговые заказы II"}
+{"id":"journey_task_target:5670245888951296","en":"Complete 2 orders at the Farm's Trading Post","ru":"Выполните 2 заказов на Торговом посту фермы"}
+{"id":"journey_task_target:5670245888951552","en":"To make your Farm thrive, you can't skip taking on orders!","ru":"Чтобы ферма процветала, без приёма заказов не обойтись!"}
+{"id":"journey_task_target:5670245888953088","en":"The Farm has no Trading Post","ru":"На ферме нет Торгового поста"}
+{"id":"journey_task_target:6100146345476864","en":"Path of Starlink III","ru":"Путь Звёздной связи III"}
+{"id":"journey_task_target:6100146345477120","en":"Raise 2 characters to Level 50","ru":"Поднимите 2 персонажей до Уровня 50"}
+{"id":"journey_task_target:6100146345477376","en":"Walk with the stars, and through battle and the tempering of the Star Vessel, reach even greater heights.","ru":"Иди вместе со звёздами, и через битвы и закалку Звёздного сосуда достигни ещё больших высот."}
+{"id":"journey_task_target:6100150640444160","en":"Stairway of Star Blessing III","ru":"Лестница Звёздного благословения III"}
+{"id":"journey_task_target:6100150640444416","en":"Raise 3 characters' Star Blessing to Ascension Degree IV","ru":"Поднимите Звёздное благословение 3 персонажей до Степени вознесения IV"}
+{"id":"journey_task_target:6100150640444672","en":"Listen closely. To the star's sonata engraved upon the soul.","ru":"Прислушайся. К сонате звёзд, отпечатанной в душе."}
+{"id":"journey_task_target:6100154935411456","en":"Anima Level Up II","ru":"Повышение уровня Анимы II"}
+{"id":"journey_task_target:6100154935411712","en":"Raise 2 Anima to Level 50","ru":"Поднимите 2 Аним до Уровня 50"}
+{"id":"journey_task_target:6100154935411968","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
+{"id":"journey_task_target:6100159230378752","en":"Choose a Kibo Factor Mutation","ru":"Выберите мутацию Фактора кибо"}
+{"id":"journey_task_target:6100159230379008","en":"Make a selection 1 times during Kibo Factor Mutation","ru":"Сделайте выбор 1 раз во время мутации Фактора кибо"}
+{"id":"journey_task_target:6100159230379264","en":"Choose, choose.","ru":"Выбор, выбор."}
+{"id":"journey_task_target:6100163525346048","en":"Farm Level Up I","ru":"Повышение уровня фермы I"}
+{"id":"journey_task_target:6100163525346304","en":"Raise the Farm Level to 20","ru":"Поднимите уровень фермы до 20"}
+{"id":"journey_task_target:6100163525346560","en":"Farm work isn't something you can just do half-heartedly. A little more effort is needed to raise dependable fighting strength!","ru":"Работа на ферме не терпит халтуры. Чтобы вырастить надёжную боевую силу, придётся ещё немного постараться!"}
+{"id":"journey_task_target:6100167820313344","en":"Build a Hatch Post","ru":"Постройте Пост вылупления"}
+{"id":"journey_task_target:6100167820313600","en":"Build and place a Hatch Post on the Farm","ru":"Постройте и разместите Пост вылупления на ферме"}
+{"id":"journey_task_target:6100167820313856","en":"The Hatch Post is a vital Farm facility. Who knows, the next surprise might just hatch right here!","ru":"Пост вылупления — важнейший объект фермы. Кто знает, может быть, следующий сюрприз появится именно здесь!"}
+{"id":"journey_task_target:6100167820315392","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:6100172115280640","en":"Defeat Boss Rarappo","ru":"Победите Босса Рараппо"}
+{"id":"journey_task_target:6100172115280896","en":"Defeat Boss Rarappo in Sprout Valley","ru":"Победите Босса Рараппо в Долине Ростков"}
+{"id":"journey_task_target:6100172115281152","en":"Rarappo, let's settle this!","ru":"Рараппо, давай сразимся!"}
+{"id":"journey_task_target:6530072571806464","en":"Nurture Bonds I","ru":"Воспитание связи I"}
+{"id":"journey_task_target:6530072571806720","en":"Place 3 Kibo of Level 50 in your team","ru":"Поместите 3 кибо Уровня 50 в отряд"}
+{"id":"journey_task_target:6530072571806976","en":"Every Kibo has its own personality and talents. Raise them patiently and get to know them better.","ru":"У каждого кибо свой характер и свои таланты. Растите их терпеливо и узнавайте их лучше."}
+{"id":"journey_task_target:6530076866773760","en":"Obtain Equipment I","ru":"Получение снаряжения I"}
+{"id":"journey_task_target:6530076866774016","en":"Complete the Daily Commission: Obtain Equipment 1 times","ru":"Выполните ежедневное Поручение «Получение снаряжения» 1 раз"}
+{"id":"journey_task_target:6530076866774272","en":"Fully armed!","ru":"Полное вооружение!"}
+{"id":"journey_task_target:6530081161741056","en":"Equipment Enhancement I","ru":"Усиление снаряжения I"}
+{"id":"journey_task_target:6530081161741312","en":"Enhance equipment 1 times","ru":"Усильте снаряжение 1 раз"}
+{"id":"journey_task_target:6530081161741568","en":"Temper your equipment to make it tougher and stronger!","ru":"Закаляйте снаряжение — крепче и сильнее!"}
+{"id":"journey_task_target:6530085456708352","en":"Defeat Phantomfly","ru":"Победите Призракрыла"}
+{"id":"journey_task_target:6530085456708608","en":"Defeat Phantomfly in Sprout Valley","ru":"Победите Призракрыла в Долине Ростков"}
+{"id":"journey_task_target:6530085456708864","en":"Phantomfly, let's settle this!","ru":"Призракрыл, давай сразимся!"}
+{"id":"journey_task_target:6530089751675648","en":"Explore Sprout Valley I","ru":"Исследование Долины Ростков I"}
+{"id":"journey_task_target:6530089751675904","en":"Raise Sprout Valley's exploration level to 3","ru":"Поднимите уровень исследования Долины Ростков до 3"}
+{"id":"journey_task_target:6530089751676160","en":"The trail of the stars shall be etched across every corner of Sprout Valley.","ru":"Звёздный след отпечатается по всем уголкам Долины Ростков."}
+{"id":"journey_task_target:6530094046642944","en":"First Exploration of Traces of the Heavenly Dao","ru":"Первое исследование Следов небесного пути"}
+{"id":"journey_task_target:6530094046643200","en":"Clear Traces of the Heavenly Dao: Sculpted Flow: Circular Shadow I","ru":"Пройдите «Следы небесного пути: Текущая скульптура: Круговая тень I»"}
+{"id":"journey_task_target:6530094046643456","en":"The visage of the past, illuminated by the light of the Tower of the Heavenly Way, reveals itself.","ru":"Образ минувшего, озарённый светом Башни Небесного пути, является вновь."}
+{"id":"journey_task_target:6530098341610240","en":"Kibo Fight: Beginner","ru":"Бой кибо: для начинающих"}
+{"id":"journey_task_target:6530098341610496","en":"Win 2 Kibo Fights against fighters in any area","ru":"Победите в 2 Боях кибо против бойцов в любом регионе"}
+{"id":"journey_task_target:6530098341610752","en":"Aim for the top of Kibo Fight together with fighters from all across Promilia!","ru":"Вместе с бойцами со всей Промилии стремитесь к вершине Боя кибо!"}
+{"id":"journey_task_target:8718787905848064","en":"Mining Efficiency Boost I","ru":"Повышение эффективности добычи I"}
+{"id":"journey_task_target:8718787905848320","en":"Build and place a Flash Tin Mine on the Farm","ru":"Постройте и разместите шахту блестящего олова на ферме"}
+{"id":"journey_task_target:8718787905848576","en":"To craft a precious Stella Card, you need Starlight Ore, plus Moonlight Hemp cloth and Bronze Ingots. Give it a try.","ru":"Чтобы создать драгоценную Карту звёзд, помимо Звёздной руды нужны ткань из Лунной конопли и Бронзовые слитки. Попробуйте сделать."}
+{"id":"journey_task_target:8718787905850112","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8718792200815360","en":"Farm Expansion: Smelter","ru":"Расширение фермы: плавильня"}
+{"id":"journey_task_target:8718792200815616","en":"Build and place a Smelter on the Farm","ru":"Постройте и разместите плавильню на ферме"}
+{"id":"journey_task_target:8718792200815872","en":"To craft a precious Stella Card, you need Starlight Ore, plus Moonlight Hemp cloth and Bronze Ingots. Give it a try.","ru":"Чтобы создать драгоценную Карту звёзд, помимо Звёздной руды нужны ткань из Лунной конопли и Бронзовые слитки. Попробуйте сделать."}
+{"id":"journey_task_target:8718792200817408","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8718796495782656","en":"Smelt Bronze Ingots","ru":"Выплавьте Бронзовые слитки"}
+{"id":"journey_task_target:8718796495782912","en":"Smelt Bronze Ingots in the Smelter","ru":"Выплавьте Бронзовые слитки в плавильне"}
+{"id":"journey_task_target:8718796495783168","en":"To craft a precious Stella Card, you need Starlight Ore, plus Moonlight Hemp cloth and Bronze Ingots. Give it a try.","ru":"Чтобы создать драгоценную Карту звёзд, помимо Звёздной руды нужны ткань из Лунной конопли и Бронзовые слитки. Попробуйте сделать."}
+{"id":"journey_task_target:8718796495784704","en":"The Farm has no Smelter","ru":"На ферме нет плавильни"}
+{"id":"journey_task_target:8718800790749952","en":"Cultivate and Harvest: Moonlight Hemp","ru":"Выращивание и сбор урожая: Лунная конопля"}
+{"id":"journey_task_target:8718800790750208","en":"Cultivate and harvest Moonlight Hemp on the Farm","ru":"Вырастите и соберите Лунную коноплю на ферме"}
+{"id":"journey_task_target:8718800790750464","en":"To craft a precious Stella Card, you need Starlight Ore, plus Moonlight Hemp cloth and Bronze Ingots. Give it a try.","ru":"Чтобы создать драгоценную Карту звёзд, помимо Звёздной руды нужны ткань из Лунной конопли и Бронзовые слитки. Попробуйте сделать."}
+{"id":"journey_task_target:8718800790752000","en":"The Farm has no fields","ru":"На ферме нет полей"}
+{"id":"journey_task_target:8718805085717248","en":"Farm Expansion: Spinning Wheel","ru":"Расширение фермы: прялка"}
+{"id":"journey_task_target:8718805085717504","en":"Build and place a Spinning Wheel on the Farm","ru":"Постройте и разместите прялку на ферме"}
+{"id":"journey_task_target:8718805085717760","en":"To craft a precious Stella Card, you need Starlight Ore, plus Moonlight Hemp cloth and Bronze Ingots. Give it a try.","ru":"Чтобы создать драгоценную Карту звёзд, помимо Звёздной руды нужны ткань из Лунной конопли и Бронзовые слитки. Попробуйте сделать."}
+{"id":"journey_task_target:8718805085719296","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8718809380684544","en":"Craft Moonlight Hemp Cloth","ru":"Создайте ткань из Лунной конопли"}
+{"id":"journey_task_target:8718809380684800","en":"Weave Moonlight Hemp Cloth at the Spinning Wheel","ru":"Соткайте ткань из Лунной конопли на прялке"}
+{"id":"journey_task_target:8718809380685056","en":"To craft a precious Stella Card, you need Starlight Ore, plus Moonlight Hemp cloth and Bronze Ingots. Give it a try.","ru":"Чтобы создать драгоценную Карту звёзд, помимо Звёздной руды нужны ткань из Лунной конопли и Бронзовые слитки. Попробуйте сделать."}
+{"id":"journey_task_target:8718809380686592","en":"The Farm has no Spinning Wheel","ru":"На ферме нет прялки"}
+{"id":"journey_task_target:8718813675651840","en":"Craft a Rare Stella Card","ru":"Создайте редкую Карту звёзд"}
+{"id":"journey_task_target:8718813675652096","en":"Craft a Rare Stella Card at the Resonance Stone Platform","ru":"Создайте редкую Карту звёзд на Резонансной каменной платформе"}
+{"id":"journey_task_target:8718813675652352","en":"To craft a precious Stella Card, you need Starlight Ore, plus Moonlight Hemp cloth and Bronze Ingots. Give it a try.","ru":"Чтобы создать драгоценную Карту звёзд, помимо Звёздной руды нужны ткань из Лунной конопли и Бронзовые слитки. Попробуйте сделать."}
+{"id":"journey_task_target:8718813675653888","en":"The Farm has no Resonance Stone Platform","ru":"На ферме нет Резонансной каменной платформы"}
+{"id":"journey_task_target:8718822265586432","en":"Farm Expansion: Workshop","ru":"Расширение фермы: мастерская"}
+{"id":"journey_task_target:8718822265586688","en":"Build and place a Crafting Workshop on the Farm","ru":"Постройте и разместите ремесленную мастерскую на ферме"}
+{"id":"journey_task_target:8718822265586944","en":"To craft a Radiant Stella Card, you need Starlight Ore, plus Spiderfluff cloth and Mirror Iron Ingots. Give it a try.","ru":"Чтобы создать сияющую Карту звёзд, помимо Звёздной руды нужны ткань из Паутинного пуха и слитки Зеркального железа. Попробуйте сделать."}
+{"id":"journey_task_target:8718822265588480","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8718826560553728","en":"Mining Efficiency Boost II","ru":"Повышение эффективности добычи II"}
+{"id":"journey_task_target:8718826560553984","en":"Build and place a Mirror Iron Mine on the Farm","ru":"Постройте и разместите шахту Зеркального железа на ферме"}
+{"id":"journey_task_target:8718826560554240","en":"To craft a Radiant Stella Card, you need Starlight Ore, plus Spiderfluff cloth and Mirror Iron Ingots. Give it a try.","ru":"Чтобы создать сияющую Карту звёзд, помимо Звёздной руды нужны ткань из Паутинного пуха и слитки Зеркального железа. Попробуйте сделать."}
+{"id":"journey_task_target:8718826560555776","en":"The Farm has no Workshop","ru":"На ферме нет мастерской"}
+{"id":"journey_task_target:8718830855521024","en":"Farm Expansion: Refinery","ru":"Расширение фермы: рафинировня"}
+{"id":"journey_task_target:8718830855521280","en":"Build and place a Refinery on the Farm","ru":"Постройте и разместите рафинировню на ферме"}
+{"id":"journey_task_target:8718830855521536","en":"To craft a Radiant Stella Card, you need Starlight Ore, plus Spiderfluff cloth and Mirror Iron Ingots. Give it a try.","ru":"Чтобы создать сияющую Карту звёзд, помимо Звёздной руды нужны ткань из Паутинного пуха и слитки Зеркального железа. Попробуйте сделать."}
+{"id":"journey_task_target:8718830855523072","en":"The Farm has no Workshop","ru":"На ферме нет мастерской"}
+{"id":"journey_task_target:8718835150488320","en":"Smelt Mirror Iron Ingots","ru":"Выплавьте слитки Зеркального железа"}
+{"id":"journey_task_target:8718835150488576","en":"Smelt Mirror Iron Ingots at the Refinery","ru":"Выплавьте слитки Зеркального железа в рафинировне"}
+{"id":"journey_task_target:8718835150488832","en":"To craft a Radiant Stella Card, you need Starlight Ore, plus Spiderfluff cloth and Mirror Iron Ingots. Give it a try.","ru":"Чтобы создать сияющую Карту звёзд, помимо Звёздной руды нужны ткань из Паутинного пуха и слитки Зеркального железа. Попробуйте сделать."}
+{"id":"journey_task_target:8718835150490368","en":"The Farm has no Refinery","ru":"На ферме нет рафинировни"}
+{"id":"journey_task_target:8718839445455616","en":"Craft a Fine Stella Card","ru":"Создайте качественную Карту звёзд"}
+{"id":"journey_task_target:8718839445455872","en":"Craft a Fine Stella Card at the Resonance Stone Platform","ru":"Создайте качественную Карту звёзд на Резонансной каменной платформе"}
+{"id":"journey_task_target:8718839445456128","en":"To craft a Fine Stella Card, you need Starlight Ore, plus Moonlight Hemp cloth and Bronze Ingots. Give it a try.","ru":"Чтобы создать качественную Карту звёзд, помимо Звёздной руды нужны ткань из Лунной конопли и Бронзовые слитки. Попробуйте сделать."}
+{"id":"journey_task_target:8718839445457664","en":"The Farm has no Resonance Stone Platform","ru":"На ферме нет Резонансной каменной платформы"}
+{"id":"journey_task_target:8718856625324800","en":"Cultivate and Harvest: Spiderfluff","ru":"Выращивание и сбор урожая: Паутинный пух"}
+{"id":"journey_task_target:8718856625325056","en":"Cultivate and harvest Spiderfluff on the Farm","ru":"Вырастите и соберите Паутинный пух на ферме"}
+{"id":"journey_task_target:8718856625325312","en":"To craft a Radiant Stella Card, you need Starlight Ore, plus Spiderfluff cloth and Mirror Iron Ingots. Give it a try.","ru":"Чтобы создать сияющую Карту звёзд, помимо Звёздной руды нужны ткань из Паутинного пуха и слитки Зеркального железа. Попробуйте сделать."}
+{"id":"journey_task_target:8718856625326848","en":"The Farm has no fields","ru":"На ферме нет полей"}
+{"id":"journey_task_target:8718860920292096","en":"Farm Expansion: Weaving Workshop","ru":"Расширение фермы: ткацкая мастерская"}
+{"id":"journey_task_target:8718860920292352","en":"Build and place a Weaving Workshop on the Farm","ru":"Постройте и разместите ткацкую мастерскую на ферме"}
+{"id":"journey_task_target:8718860920292608","en":"To craft a Radiant Stella Card, you need Starlight Ore, plus Spiderfluff cloth and Mirror Iron Ingots. Give it a try.","ru":"Чтобы создать сияющую Карту звёзд, помимо Звёздной руды нужны ткань из Паутинного пуха и слитки Зеркального железа. Попробуйте сделать."}
+{"id":"journey_task_target:8718860920294144","en":"The Farm has no Workshop","ru":"На ферме нет мастерской"}
+{"id":"journey_task_target:8718865215259392","en":"Craft Spiderfluff Cloth","ru":"Создайте ткань из Паутинного пуха"}
+{"id":"journey_task_target:8718865215259648","en":"Weave Spiderfluff Cloth at the Weaving Workshop","ru":"Соткайте ткань из Паутинного пуха в ткацкой мастерской"}
+{"id":"journey_task_target:8718865215259904","en":"To craft a Radiant Stella Card, you need Starlight Ore, plus Spiderfluff cloth and Mirror Iron Ingots. Give it a try.","ru":"Чтобы создать сияющую Карту звёзд, помимо Звёздной руды нужны ткань из Паутинного пуха и слитки Зеркального железа. Попробуйте сделать."}
+{"id":"journey_task_target:8718865215261440","en":"The Farm has no Weaving Workshop","ru":"На ферме нет ткацкой мастерской"}
+{"id":"journey_task_target:8718869510226688","en":"Craft a Radiant Stella Card","ru":"Создайте сияющую Карту звёзд"}
+{"id":"journey_task_target:8718869510226944","en":"Craft a Radiant Stella Card at the Resonance Stone Platform","ru":"Создайте сияющую Карту звёзд на Резонансной каменной платформе"}
+{"id":"journey_task_target:8718869510227200","en":"To craft a Radiant Stella Card, you need Starlight Ore, plus Spiderfluff cloth and Mirror Iron Ingots. Give it a try.","ru":"Чтобы создать сияющую Карту звёзд, помимо Звёздной руды нужны ткань из Паутинного пуха и слитки Зеркального железа. Попробуйте сделать."}
+{"id":"journey_task_target:8718869510228736","en":"The Farm has no Resonance Stone Platform","ru":"На ферме нет Резонансной каменной платформы"}
+{"id":"journey_task_target:8718873805193984","en":"Farm Expansion: Dormitory","ru":"Расширение фермы: общежитие"}
+{"id":"journey_task_target:8718873805194240","en":"Build 1 rooms of the Sharl-style Dormitory on the Farm","ru":"Постройте 1 комнат общежития в стиле Шарля на ферме"}
+{"id":"journey_task_target:8718873805194496","en":"Guests occasionally visit the Farm. Prepare a comfortable place for them to rest.","ru":"На ферму время от времени наведываются гости. Подготовьте для них уютное место для отдыха."}
+{"id":"journey_task_target:8718873805196032","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8718878100161280","en":"Move into the Dormitory","ru":"Заселение в общежитие"}
+{"id":"journey_task_target:8718878100161536","en":"Move any character into the Sharl-style Dormitory","ru":"Поселите любого персонажа в общежитие в стиле Шарля"}
+{"id":"journey_task_target:8718878100161792","en":"Guests occasionally visit the Farm. Prepare a comfortable place for them to rest.","ru":"На ферму время от времени наведываются гости. Подготовьте для них уютное место для отдыха."}
+{"id":"journey_task_target:8718878100163328","en":"The farm has no Sharl-style dormitory.","ru":"На ферме нет общежития в стиле Шаллула."}
+{"id":"journey_task_target:8718882395128576","en":"Farm Expansion: Elemental Furnace","ru":"Расширение фермы: элементальная печь"}
+{"id":"journey_task_target:8718882395128832","en":"Build and place an Elemental Stone Furnace on the farm.","ru":"Постройте и разместите элементальную каменную печь на ферме."}
+{"id":"journey_task_target:8718882395129088","en":"Put the Elemental Furnace to good use. It should be a big help in getting stronger!","ru":"Хорошенько используйте элементальную печь. Она здорово поможет вам стать сильнее!"}
+{"id":"journey_task_target:8718882395130624","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8718886690095872","en":"Elemental Particle Conversion","ru":"Преобразование элементарных частиц"}
+{"id":"journey_task_target:8718886690096128","en":"Perform Elemental Particle Conversion at the Elemental Stone Furnace 1 time(s).","ru":"Выполните преобразование элементарных частиц у элементальной каменной печи 1 раз(а)."}
+{"id":"journey_task_target:8718886690096384","en":"Put the Elemental Furnace to good use. It should be a big help in getting stronger!","ru":"Хорошенько используйте элементальную печь. Она здорово поможет вам стать сильнее!"}
+{"id":"journey_task_target:8718886690097920","en":"The farm has no Elemental Stone Furnace.","ru":"На ферме нет элементальной каменной печи."}
+{"id":"journey_task_target:8718895280030464","en":"Land Reclamation: Fields I","ru":"Освоение земли: поля I"}
+{"id":"journey_task_target:8718895280030720","en":"Reclaim 20 field plot(s) on the farm.","ru":"Освойте 20 участок(ов) поля на ферме."}
+{"id":"journey_task_target:8718895280030976","en":"Till the fields and grow crops. Work hard, or you'll have nothing to eat! As your farm level rises, you can reclaim more land and harvest plenty of ingredients.","ru":"Возделывайте поля и выращивайте урожай. Хорошо потрудитесь, иначе останетесь без еды! С повышением уровня фермы вы сможете осваивать больше земли и собирать много ингредиентов."}
+{"id":"journey_task_target:8718899574997760","en":"Land Reclamation: Fields II","ru":"Освоение земли: поля II"}
+{"id":"journey_task_target:8718899574998016","en":"Reclaim 50 field plot(s) on the farm.","ru":"Освойте 50 участок(ов) поля на ферме."}
+{"id":"journey_task_target:8718899574998272","en":"Till the fields and grow crops. Work hard, or you'll have nothing to eat! As your farm level rises, you can reclaim more land and harvest plenty of ingredients.","ru":"Возделывайте поля и выращивайте урожай. Хорошо потрудитесь, иначе останетесь без еды! С повышением уровня фермы вы сможете осваивать больше земли и собирать много ингредиентов."}
+{"id":"journey_task_target:8718903869965056","en":"Kibo Hatching I","ru":"Вылупление кибо I"}
+{"id":"journey_task_target:8718903869965312","en":"Hatch Kibo Eggs at the Hatch Post 1 time(s).","ru":"Вылупите яйца кибо на посту вылупления 1 раз(а)."}
+{"id":"journey_task_target:8718903869965568","en":"The Hatch Post is where surprises are born!","ru":"Пост вылупления — место, где рождаются сюрпризы!"}
+{"id":"journey_task_target:8718903869967104","en":"The farm has no Hatch Post.","ru":"На ферме нет поста вылупления."}
+{"id":"journey_task_target:8718908164932352","en":"Kibo Hatching II","ru":"Вылупление кибо II"}
+{"id":"journey_task_target:8718908164932608","en":"Hatch Kibo Eggs at the Hatch Post 10 time(s).","ru":"Вылупите яйца кибо на посту вылупления 10 раз(а)."}
+{"id":"journey_task_target:8718908164932864","en":"The Hatch Post is where surprises are born!","ru":"Пост вылупления — место, где рождаются сюрпризы!"}
+{"id":"journey_task_target:8718908164934400","en":"The farm has no Hatch Post.","ru":"На ферме нет поста вылупления."}
+{"id":"journey_task_target:8718912459899648","en":"Place Kibo in the Ranch","ru":"Разместите кибо в загоне"}
+{"id":"journey_task_target:8718912459899904","en":"Place 10 Kibo in the Ranch.","ru":"Разместите 10 кибо в загоне."}
+{"id":"journey_task_target:8718912459900160","en":"Run wild and have fun in the Ranch to your heart's content, Kibo friends!","ru":"Резвитесь в загоне вволю и получайте удовольствие, друзья кибо!"}
+{"id":"journey_task_target:8718916754866944","en":"Harvest Farm Produce","ru":"Соберите продукцию фермы"}
+{"id":"journey_task_target:8718916754867200","en":"Use Collect All at the Farm Headquarters 10 time(s).","ru":"Воспользуйтесь функцией «Собрать всё» в фермерском штабе 10 раз(а)."}
+{"id":"journey_task_target:8718916754867456","en":"Simple enough.","ru":"Всё просто."}
+{"id":"journey_task_target:8718921049834240","en":"Craft a Kibo Saddle","ru":"Создайте седло для кибо"}
+{"id":"journey_task_target:8718921049834496","en":"Craft any Kibo Saddle.","ru":"Создайте любое седло для кибо."}
+{"id":"journey_task_target:8718921049834752","en":"A good Kibo deserves a good saddle.","ru":"Хорошему кибо — хорошее седло."}
+{"id":"journey_task_target:8718921049836288","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8718925344801536","en":"Dispatch Work Kibo 2","ru":"Отправьте рабочих кибо 2"}
+{"id":"journey_task_target:8718925344801792","en":"Dispatch 12 Work Kibo to the Farm Headquarters.","ru":"Отправьте 12 рабочих кибо в фермерский штаб."}
+{"id":"journey_task_target:8718925344802048","en":"Kibo are reliable partners in running a farm.","ru":"Кибо — надёжные напарники в управлении фермой."}
+{"id":"journey_task_target:8718929639768832","en":"Dispatch Work Kibo III","ru":"Отправьте рабочих кибо III"}
+{"id":"journey_task_target:8718929639769088","en":"Dispatch 20 Work Kibo to the Farm Headquarters.","ru":"Отправьте 20 рабочих кибо в фермерский штаб."}
+{"id":"journey_task_target:8718929639769344","en":"Kibo are reliable partners in running a farm.","ru":"Кибо — надёжные напарники в управлении фермой."}
+{"id":"journey_task_target:8718933934736128","en":"Dispatch an Ignition Kibo","ru":"Отправьте кибо-истопника"}
+{"id":"journey_task_target:8718933934736384","en":"Dispatch 1 Kibo with the [Ignition] job to the farm.","ru":"Отправьте 1 кибо с профессией «Истопник» на ферму."}
+{"id":"journey_task_target:8718933934736640","en":"Every Kibo has its strengths. Leave specialized work to the Kibo made for it!","ru":"У каждого кибо есть свои сильные стороны. Специализированную работу доверьте кибо, созданным для неё!"}
+{"id":"journey_task_target:8718938229703424","en":"Dispatch a Logging Kibo","ru":"Отправьте кибо-лесоруба"}
+{"id":"journey_task_target:8718938229703680","en":"Dispatch 1 Kibo with the [Logging] job to the farm.","ru":"Отправьте 1 кибо с профессией «Лесоруб» на ферму."}
+{"id":"journey_task_target:8718938229703936","en":"Every Kibo has its strengths. Leave specialized work to the Kibo made for it!","ru":"У каждого кибо есть свои сильные стороны. Специализированную работу доверьте кибо, созданным для неё!"}
+{"id":"journey_task_target:8718942524670720","en":"Dispatch an Elemental Kibo","ru":"Отправьте элементального кибо"}
+{"id":"journey_task_target:8718942524670976","en":"Dispatch 1 Kibo with the [Elemental] job to the farm.","ru":"Отправьте 1 кибо с профессией «Элемент» на ферму."}
+{"id":"journey_task_target:8718942524671232","en":"Every Kibo has its strengths. Leave specialized work to the Kibo made for it!","ru":"У каждого кибо есть свои сильные стороны. Специализированную работу доверьте кибо, созданным для неё!"}
+{"id":"journey_task_target:8718946819638016","en":"Dispatch a Farm Work Kibo","ru":"Отправьте кибо-фермера"}
+{"id":"journey_task_target:8718946819638272","en":"Dispatch 1 Kibo with the [Farm Work] job to the farm.","ru":"Отправьте 1 кибо с профессией «Работа на ферме» на ферму."}
+{"id":"journey_task_target:8718946819638528","en":"Every Kibo has its strengths. Leave specialized work to the Kibo made for it!","ru":"У каждого кибо есть свои сильные стороны. Специализированную работу доверьте кибо, созданным для неё!"}
+{"id":"journey_task_target:8718951114605312","en":"Dispatch a Watering Kibo","ru":"Отправьте кибо-поливальщика"}
+{"id":"journey_task_target:8718951114605568","en":"Dispatch 1 Kibo with the [Watering] job to the farm.","ru":"Отправьте 1 кибо с профессией «Полив» на ферму."}
+{"id":"journey_task_target:8718951114605824","en":"Every Kibo has its strengths. Leave specialized work to the Kibo made for it!","ru":"У каждого кибо есть свои сильные стороны. Специализированную работу доверьте кибо, созданным для неё!"}
+{"id":"journey_task_target:8718955409572608","en":"Dispatch a Mining Kibo","ru":"Отправьте кибо-шахтёра"}
+{"id":"journey_task_target:8718955409572864","en":"Dispatch 1 Kibo with the [Mining] job to the farm.","ru":"Отправьте 1 кибо с профессией «Добыча» на ферму."}
+{"id":"journey_task_target:8718955409573120","en":"Every Kibo has its strengths. Leave specialized work to the Kibo made for it!","ru":"У каждого кибо есть свои сильные стороны. Специализированную работу доверьте кибо, созданным для неё!"}
+{"id":"journey_task_target:8718959704539904","en":"Dispatch a Caretaking Kibo","ru":"Отправьте кибо-смотрителя"}
+{"id":"journey_task_target:8718959704540160","en":"Dispatch 1 Kibo with the [Caretaking] job to the farm.","ru":"Отправьте 1 кибо с профессией «Уход» на ферму."}
+{"id":"journey_task_target:8718959704540416","en":"Every Kibo has its strengths. Leave specialized work to the Kibo made for it!","ru":"У каждого кибо есть свои сильные стороны. Специализированную работу доверьте кибо, созданным для неё!"}
+{"id":"journey_task_target:8718963999507200","en":"Dispatch a Forging Kibo","ru":"Отправьте кибо-кузнеца"}
+{"id":"journey_task_target:8718963999507456","en":"Dispatch 1 Kibo with the [Forging] job to the farm.","ru":"Отправьте 1 кибо с профессией «Ковка» на ферму."}
+{"id":"journey_task_target:8718963999507712","en":"Every Kibo has its strengths. Leave specialized work to the Kibo made for it!","ru":"У каждого кибо есть свои сильные стороны. Специализированную работу доверьте кибо, созданным для неё!"}
+{"id":"journey_task_target:8718968294474496","en":"Dispatch a Handicraft Kibo","ru":"Отправьте кибо-ремесленника"}
+{"id":"journey_task_target:8718968294474752","en":"Dispatch 1 Kibo with the [Handicraft] job to the farm.","ru":"Отправьте 1 кибо с профессией «Ремесло» на ферму."}
+{"id":"journey_task_target:8718968294475008","en":"Every Kibo has its strengths. Leave specialized work to the Kibo made for it!","ru":"У каждого кибо есть свои сильные стороны. Специализированную работу доверьте кибо, созданным для неё!"}
+{"id":"journey_task_target:8719217402577664","en":"Fertile Soil Reclamation I","ru":"Освоение плодородной почвы I"}
+{"id":"journey_task_target:8719217402577920","en":"Reclaim 4 plot(s) of Fertile Soil on the farm.","ru":"Освойте 4 участок(ов) плодородной почвы на ферме."}
+{"id":"journey_task_target:8719217402578176","en":"Fruit trees on the farm can only grow in Fertile Soil. Rich soil also gives extra benefits to ordinary crops. Raise your farm level to unlock more fertile plots!","ru":"Фруктовые деревья на ферме растут только на плодородной почве. Богатая почва также даёт дополнительную пользу обычному урожаю. Повышайте уровень фермы, чтобы открыть больше плодородных участков!"}
+{"id":"journey_task_target:8719221697544960","en":"Fertile Soil Reclamation II","ru":"Освоение плодородной почвы II"}
+{"id":"journey_task_target:8719221697545216","en":"Reclaim 8 plot(s) of Fertile Soil on the farm.","ru":"Освойте 8 участок(ов) плодородной почвы на ферме."}
+{"id":"journey_task_target:8719221697545472","en":"Fruit trees on the farm can only grow in Fertile Soil. Rich soil also gives extra benefits to ordinary crops. Raise your farm level to unlock more fertile plots!","ru":"Фруктовые деревья на ферме растут только на плодородной почве. Богатая почва также даёт дополнительную пользу обычному урожаю. Повышайте уровень фермы, чтобы открыть больше плодородных участков!"}
+{"id":"journey_task_target:8719225992512256","en":"Fertile Soil Reclamation III","ru":"Освоение плодородной почвы III"}
+{"id":"journey_task_target:8719225992512512","en":"Reclaim 12 plot(s) of Fertile Soil on the farm.","ru":"Освойте 12 участок(ов) плодородной почвы на ферме."}
+{"id":"journey_task_target:8719225992512768","en":"Fruit trees on the farm can only grow in Fertile Soil. Rich soil also gives extra benefits to ordinary crops. Raise your farm level to unlock more fertile plots!","ru":"Фруктовые деревья на ферме растут только на плодородной почве. Богатая почва также даёт дополнительную пользу обычному урожаю. Повышайте уровень фермы, чтобы открыть больше плодородных участков!"}
+{"id":"journey_task_target:8719230287479552","en":"Fertile Soil Reclamation IV","ru":"Освоение плодородной почвы IV"}
+{"id":"journey_task_target:8719230287479808","en":"Reclaim 16 plot(s) of Fertile Soil on the farm.","ru":"Освойте 16 участок(ов) плодородной почвы на ферме."}
+{"id":"journey_task_target:8719230287480064","en":"Fruit trees on the farm can only grow in Fertile Soil. Rich soil also gives extra benefits to ordinary crops. Raise your farm level to unlock more fertile plots!","ru":"Фруктовые деревья на ферме растут только на плодородной почве. Богатая почва также даёт дополнительную пользу обычному урожаю. Повышайте уровень фермы, чтобы открыть больше плодородных участков!"}
+{"id":"journey_task_target:8719234582446848","en":"Fertile Soil Reclamation V","ru":"Освоение плодородной почвы V"}
+{"id":"journey_task_target:8719234582447104","en":"Reclaim 20 plot(s) of Fertile Soil on the farm.","ru":"Освойте 20 участок(ов) плодородной почвы на ферме."}
+{"id":"journey_task_target:8719234582447360","en":"Fruit trees on the farm can only grow in Fertile Soil. Rich soil also gives extra benefits to ordinary crops. Raise your farm level to unlock more fertile plots!","ru":"Фруктовые деревья на ферме растут только на плодородной почве. Богатая почва также даёт дополнительную пользу обычному урожаю. Повышайте уровень фермы, чтобы открыть больше плодородных участков!"}
+{"id":"journey_task_target:8719238877414144","en":"Cultivate Factor Fruit Trees I","ru":"Выращивание факторных фруктовых деревьев I"}
+{"id":"journey_task_target:8719238877414400","en":"Plant 1 Factor Fruit Tree(s) on the farm.","ru":"Посадите 1 факторное фруктовое дерево(деревьев) на ферме."}
+{"id":"journey_task_target:8719238877414656","en":"Use the Factor Fruit harvested from Factor Fruit Trees to complete Kibo Factor Mutations. Now, let's cultivate them in Fertile Soil.","ru":"Собранные с факторных фруктовых деревьев факторные плоды позволяют завершить мутацию факторов кибо. Что ж, давайте вырастим их на плодородной почве."}
+{"id":"journey_task_target:8719238877416192","en":"The farm has no Fertile Soil.","ru":"На ферме нет плодородной почвы."}
+{"id":"journey_task_target:8719243172381440","en":"Cultivate Factor Fruit Trees II","ru":"Выращивание факторных фруктовых деревьев II"}
+{"id":"journey_task_target:8719243172381696","en":"Plant 2 Factor Fruit Tree(s) on the farm.","ru":"Посадите 2 факторное фруктовое дерево(деревьев) на ферме."}
+{"id":"journey_task_target:8719243172381952","en":"Use the Factor Fruit harvested from Factor Fruit Trees to complete Kibo Factor Mutations. Now, let's cultivate them in Fertile Soil.","ru":"Собранные с факторных фруктовых деревьев факторные плоды позволяют завершить мутацию факторов кибо. Что ж, давайте вырастим их на плодородной почве."}
+{"id":"journey_task_target:8719243172383488","en":"The farm has no Fertile Soil.","ru":"На ферме нет плодородной почвы."}
+{"id":"journey_task_target:8719247467348736","en":"Cultivate Source Vein Fruit Trees I","ru":"Выращивание фруктовых деревьев исходной жилы I"}
+{"id":"journey_task_target:8719247467348992","en":"Plant 1 Source Vein Fruit Tree(s) on the farm.","ru":"Посадите 1 фруктовое дерево(деревьев) исходной жилы на ферме."}
+{"id":"journey_task_target:8719247467349248","en":"Sourcefruit harvested from Source Vein Fruit Trees lets you raise a Kibo's Source Vein level. Now, let's cultivate them in Fertile Soil.","ru":"Собранные с фруктовых деревьев исходной жилы плоды истока позволяют повысить уровень исходной жилы кибо. Что ж, давайте вырастим их на плодородной почве."}
+{"id":"journey_task_target:8719247467350784","en":"The farm has no Fertile Soil.","ru":"На ферме нет плодородной почвы."}
+{"id":"journey_task_target:8719251762316032","en":"Cultivate Source Vein Fruit Trees II","ru":"Выращивание фруктовых деревьев исходной жилы II"}
+{"id":"journey_task_target:8719251762316288","en":"Plant 2 Source Vein Fruit Tree(s) on the farm.","ru":"Посадите 2 фруктовое дерево(деревьев) исходной жилы на ферме."}
+{"id":"journey_task_target:8719251762316544","en":"Sourcefruit harvested from Source Vein Fruit Trees lets you raise a Kibo's Source Vein level. Now, let's cultivate them in Fertile Soil.","ru":"Собранные с фруктовых деревьев исходной жилы плоды истока позволяют повысить уровень исходной жилы кибо. Что ж, давайте вырастим их на плодородной почве."}
+{"id":"journey_task_target:8719251762318080","en":"The farm has no Fertile Soil.","ru":"На ферме нет плодородной почвы."}
+{"id":"journey_task_target:8719256057283328","en":"Cultivate Starful Fruit Trees I","ru":"Выращивание звёздных фруктовых деревьев I"}
+{"id":"journey_task_target:8719256057283584","en":"Plant 1 Starful Fruit Tree(s) on the farm.","ru":"Посадите 1 звёздное фруктовое дерево(деревьев) на ферме."}
+{"id":"journey_task_target:8719256057283840","en":"Starful Fruit from Starful Fruit Trees can level up a Kibo. Now, let's cultivate them in Fertile Soil.","ru":"Собранные со звёздных фруктовых деревьев звёздные плоды позволяют повысить уровень кибо. Что ж, давайте вырастим их на плодородной почве."}
+{"id":"journey_task_target:8719256057285376","en":"The farm has no Fertile Soil.","ru":"На ферме нет плодородной почвы."}
+{"id":"journey_task_target:8719260352250624","en":"Cultivate Starful Fruit Trees II","ru":"Выращивание звёздных фруктовых деревьев II"}
+{"id":"journey_task_target:8719260352250880","en":"Plant 2 Starful Fruit Tree(s) on the farm.","ru":"Посадите 2 звёздное фруктовое дерево(деревьев) на ферме."}
+{"id":"journey_task_target:8719260352251136","en":"Starful Fruit from Starful Fruit Trees can level up a Kibo. Now, let's cultivate them in Fertile Soil.","ru":"Собранные со звёздных фруктовых деревьев звёздные плоды позволяют повысить уровень кибо. Что ж, давайте вырастим их на плодородной почве."}
+{"id":"journey_task_target:8719260352252672","en":"The farm has no Fertile Soil.","ru":"На ферме нет плодородной почвы."}
+{"id":"journey_task_target:8719659784209152","en":"Craft Friendship Dumplings","ru":"Создайте дружелюбные клёцки"}
+{"id":"journey_task_target:8719659784209408","en":"Craft ordinary Friendship Dumplings on the farm 1 time(s).","ru":"Создайте обычные дружелюбные клёцки на ферме 1 раз(а)."}
+{"id":"journey_task_target:8719659784209664","en":"Mastery comes from trial and error, repeated over and over. Try your hand at making Friendship Dumplings.","ru":"Мастерство приходит через повторяющиеся пробы и ошибки. Попробуйте создать дружелюбные клёцки."}
+{"id":"journey_task_target:8719659784211200","en":"The farm has no Cooking Pot.","ru":"На ферме нет котелка."}
+{"id":"journey_task_target:8719664079176448","en":"Craft Lucky Steamed Buns","ru":"Создайте счастливые паровые пирожки"}
+{"id":"journey_task_target:8719664079176704","en":"Craft ordinary Lucky Steamed Buns on the farm 1 time(s).","ru":"Создайте обычные счастливые паровые пирожки на ферме 1 раз(а)."}
+{"id":"journey_task_target:8719664079176960","en":"Mastery comes from trial and error, repeated over and over. Try your hand at making Lucky Steamed Buns.","ru":"Мастерство приходит через повторяющиеся пробы и ошибки. Попробуйте создать счастливые паровые пирожки."}
+{"id":"journey_task_target:8719664079178496","en":"The farm has no Cooking Pot.","ru":"На ферме нет котелка."}
+{"id":"journey_task_target:8719668374143744","en":"Craft Elder Spirit Dew","ru":"Создайте росу древних духов"}
+{"id":"journey_task_target:8719668374144000","en":"Craft Elder Spirit Dew on the farm 1 time(s).","ru":"Создайте росу древних духов на ферме 1 раз(а)."}
+{"id":"journey_task_target:8719668374144256","en":"Mastery comes from trial and error, repeated over and over. Try your hand at making Elder Spirit Dew.","ru":"Мастерство приходит через повторяющиеся пробы и ошибки. Попробуйте создать росу древних духов."}
+{"id":"journey_task_target:8719668374145792","en":"The farm has no Alchemy Stand.","ru":"На ферме нет алхимического стола."}
+{"id":"journey_task_target:8719672669111040","en":"Craft Elder Spirit Rain","ru":"Создайте дождь древних духов"}
+{"id":"journey_task_target:8719672669111296","en":"Craft Elder Spirit Rain on the farm 1 time(s).","ru":"Создайте дождь древних духов на ферме 1 раз(а)."}
+{"id":"journey_task_target:8719672669111552","en":"Mastery comes from trial and error, repeated over and over. Try your hand at making Elder Spirit Rain.","ru":"Мастерство приходит через повторяющиеся пробы и ошибки. Попробуйте создать дождь древних духов."}
+{"id":"journey_task_target:8719672669113088","en":"The farm has no Alchemy Stand.","ru":"На ферме нет алхимического стола."}
+{"id":"journey_task_target:8720076396036864","en":"Farm Expansion: Feeding Station","ru":"Расширение фермы: кормушка"}
+{"id":"journey_task_target:8720076396037120","en":"Build and place a Feeding Station on the farm","ru":"Постройте кормушку на ферме и разместите её"}
+{"id":"journey_task_target:8720076396037376","en":"Set up a Feeding Station and expand your farm!","ru":"Установите кормушку и расширьте свою ферму!"}
+{"id":"journey_task_target:8720076396038912","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8720080691004160","en":"Production Efficiency Facility II","ru":"Объект повышения эффективности II"}
+{"id":"journey_task_target:8720080691004416","en":"Repair 2 field gathering facilities","ru":"Отремонтируйте полевые сборные объекты: 2"}
+{"id":"journey_task_target:8720080691004672","en":"Repair gathering facilities in the field to boost production efficiency!","ru":"Ремонтируйте объекты сбора в поле, чтобы повысить эффективность производства!"}
+{"id":"journey_task_target:8720084985971456","en":"Sprout Valley Production Boost I","ru":"Усиление производства в Долине Ростков I"}
+{"id":"journey_task_target:8720084985971712","en":"Repair 5 field gathering facilities in Sprout Valley","ru":"Отремонтируйте полевые сборные объекты в Долине Ростков: 5"}
+{"id":"journey_task_target:8720084985971968","en":"Repair gathering facilities in the field to boost production efficiency!","ru":"Ремонтируйте объекты сбора в поле, чтобы повысить эффективность производства!"}
+{"id":"journey_task_target:8720089280938752","en":"Sprout Valley Production Boost II","ru":"Усиление производства в Долине Ростков II"}
+{"id":"journey_task_target:8720089280939008","en":"Repair 10 field gathering facilities in Sprout Valley","ru":"Отремонтируйте полевые сборные объекты в Долине Ростков: 10"}
+{"id":"journey_task_target:8720089280939264","en":"Repair gathering facilities in the field to boost production efficiency!","ru":"Ремонтируйте объекты сбора в поле, чтобы повысить эффективность производства!"}
+{"id":"journey_task_target:8720093575906048","en":"Fleece Production Boost I","ru":"Усиление производства во Флисе I"}
+{"id":"journey_task_target:8720093575906304","en":"Repair 5 field gathering facilities in Fleece","ru":"Отремонтируйте полевые сборные объекты во Флисе: 5"}
+{"id":"journey_task_target:8720093575906560","en":"Repair gathering facilities in the field to boost production efficiency!","ru":"Ремонтируйте объекты сбора в поле, чтобы повысить эффективность производства!"}
+{"id":"journey_task_target:8720097870873344","en":"Fleece Production Boost II","ru":"Усиление производства во Флисе II"}
+{"id":"journey_task_target:8720097870873600","en":"Repair 10 field gathering facilities in Fleece","ru":"Отремонтируйте полевые сборные объекты во Флисе: 10"}
+{"id":"journey_task_target:8720097870873856","en":"Repair gathering facilities in the field to boost production efficiency!","ru":"Ремонтируйте объекты сбора в поле, чтобы повысить эффективность производства!"}
+{"id":"journey_task_target:8720505892766464","en":"Equipment Crafting I","ru":"Создание снаряжения I"}
+{"id":"journey_task_target:8720505892766720","en":"Craft equipment 1 times on the farm","ru":"Создайте снаряжение на ферме: 1"}
+{"id":"journey_task_target:8720505892766976","en":"Strike the hammer, then strike again—that's how equipment is made!","ru":"Бей молотом, бей ещё раз — вот так и создаётся снаряжение!"}
+{"id":"journey_task_target:8720505892768512","en":"There is no Weapon Workshop on the farm","ru":"На ферме нет Оружейной мастерской"}
+{"id":"journey_task_target:8720510187733760","en":"Equipment Crafting II","ru":"Создание снаряжения II"}
+{"id":"journey_task_target:8720510187734016","en":"Craft specified equipment 1 times on the farm","ru":"Создайте указанное снаряжение на ферме: 1"}
+{"id":"journey_task_target:8720510187734272","en":"Strike the hammer, then strike again—that's how equipment is made!","ru":"Бей молотом, бей ещё раз — вот так и создаётся снаряжение!"}
+{"id":"journey_task_target:8720510187735808","en":"There is no Weapon Workshop on the farm","ru":"На ферме нет Оружейной мастерской"}
+{"id":"journey_task_target:8720514482701056","en":"Farm Expansion: Tanning Bench","ru":"Расширение фермы: кожевенный верстак"}
+{"id":"journey_task_target:8720514482701312","en":"Build and place a Tanning Bench on the farm","ru":"Постройте кожевенный верстак на ферме и разместите его"}
+{"id":"journey_task_target:8720514482701568","en":"Set up a Tanning Bench that helps craft equipment and boost your fighting strength!","ru":"Установите кожевенный верстак для создания снаряжения и повысьте свою боевую мощь!"}
+{"id":"journey_task_target:8720514482703104","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8720518777668352","en":"Farm Expansion: Tannery","ru":"Расширение фермы: кожевня"}
+{"id":"journey_task_target:8720518777668608","en":"Build and place a Tannery on the farm","ru":"Постройте кожевню на ферме и разместите её"}
+{"id":"journey_task_target:8720518777668864","en":"Set up a Tannery that helps craft equipment and boost your fighting strength!","ru":"Установите кожевню для создания снаряжения и повысьте свою боевую мощь!"}
+{"id":"journey_task_target:8720518777670400","en":"The Farm has no Workshop","ru":"На ферме нет мастерской"}
+{"id":"journey_task_target:8720523072635648","en":"Farm Expansion: Weapon Workshop","ru":"Расширение фермы: Оружейная мастерская"}
+{"id":"journey_task_target:8720523072635904","en":"Build and place a Weapon Workshop on the farm","ru":"Постройте Оружейную мастерскую на ферме и разместите её"}
+{"id":"journey_task_target:8720523072636160","en":"Set up a Weapon Workshop that helps craft equipment and boost your fighting strength!","ru":"Установите Оружейную мастерскую для создания снаряжения и повысьте свою боевую мощь!"}
+{"id":"journey_task_target:8720523072637696","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
+{"id":"journey_task_target:8720527367602944","en":"Equipment Crafting III","ru":"Создание снаряжения III"}
+{"id":"journey_task_target:8720527367603200","en":"Craft specified equipment using Difficulty IV materials 1 times","ru":"Создайте указанное снаряжение из материалов сложности IV: 1"}
+{"id":"journey_task_target:8720527367603456","en":"Strike the hammer, then strike again—that's how equipment is made!","ru":"Бей молотом, бей ещё раз — вот так и создаётся снаряжение!"}
+{"id":"journey_task_target:8720527367604992","en":"There is no Weapon Workshop on the farm","ru":"На ферме нет Оружейной мастерской"}
+{"id":"journey_task_target:8720531662570240","en":"Equipment Crafting IV","ru":"Создание снаряжения IV"}
+{"id":"journey_task_target:8720531662570496","en":"Craft specified equipment using Difficulty IV materials 10 times","ru":"Создайте указанное снаряжение из материалов сложности IV: 10"}
+{"id":"journey_task_target:8720531662570752","en":"Strike the hammer, then strike again—that's how equipment is made!","ru":"Бей молотом, бей ещё раз — вот так и создаётся снаряжение!"}
+{"id":"journey_task_target:8720531662572288","en":"There is no Weapon Workshop on the farm","ru":"На ферме нет Оружейной мастерской"}
+{"id":"journey_task_target:8720935389496064","en":"Complete Trade Orders III","ru":"Выполнение торговых заказов III"}
+{"id":"journey_task_target:8720935389496320","en":"Complete 3 orders at the farm's Trading Post","ru":"Выполните заказы на Торговом посту фермы: 3"}
+{"id":"journey_task_target:8720935389496576","en":"To make your Farm thrive, you can't skip taking on orders!","ru":"Чтобы ферма процветала, без приёма заказов не обойтись!"}
+{"id":"journey_task_target:8720935389498112","en":"The Farm has no Trading Post","ru":"На ферме нет Торгового поста"}
+{"id":"journey_task_target:8720939684463360","en":"Complete Trade Orders IV","ru":"Выполнение торговых заказов IV"}
+{"id":"journey_task_target:8720939684463616","en":"Complete 1 mid-rarity orders","ru":"Выполните заказы средней редкости: 1"}
+{"id":"journey_task_target:8720939684463872","en":"To make your Farm thrive, you can't skip taking on orders!","ru":"Чтобы ферма процветала, без приёма заказов не обойтись!"}
+{"id":"journey_task_target:8720939684465408","en":"The Farm has no Trading Post","ru":"На ферме нет Торгового поста"}
+{"id":"journey_task_target:8720943979430656","en":"Complete Trade Orders V","ru":"Выполнение торговых заказов V"}
+{"id":"journey_task_target:8720943979430912","en":"Complete 1 high-rarity orders","ru":"Выполните заказы высокой редкости: 1"}
+{"id":"journey_task_target:8720943979431168","en":"To make your Farm thrive, you can't skip taking on orders!","ru":"Чтобы ферма процветала, без приёма заказов не обойтись!"}
+{"id":"journey_task_target:8720943979432704","en":"The Farm has no Trading Post","ru":"На ферме нет Торгового поста"}
+{"id":"journey_task_target:8720952569365248","en":"Trade Revenue I","ru":"Доход от торговли I"}
+{"id":"journey_task_target:8720952569365504","en":"Earn a total of 10,000 Shining Coins from selling goods","ru":"Получите в сумме 10,000 блистающих монет за продажу товаров"}
+{"id":"journey_task_target:8720952569365760","en":"Earn, earn, and expand your farm!","ru":"Зарабатывайте, зарабатывайте и расширяйте свою ферму!"}
+{"id":"journey_task_target:8720956864332544","en":"Trade Revenue II","ru":"Доход от торговли II"}
+{"id":"journey_task_target:8720956864332800","en":"Earn a total of 100,000 Shining Coins from selling goods","ru":"Получите в сумме 100,000 блистающих монет за продажу товаров"}
+{"id":"journey_task_target:8720956864333056","en":"Earn, earn, and expand your farm!","ru":"Зарабатывайте, зарабатывайте и расширяйте свою ферму!"}
+{"id":"journey_task_target:8720961159299840","en":"Buy Kibo Eggs","ru":"Покупка яиц кибо"}
+{"id":"journey_task_target:8720961159300096","en":"Buy Kibo Eggs 1 times at the Sparkling Curio Shop","ru":"Купите яйца кибо в Лавке мерцающих диковинок: 1"}
+{"id":"journey_task_target:8720961159300352","en":"Some Kibo Eggs sneak into the farm shop. Grab one and take it home~","ru":"Некоторые яйца кибо тайком появляются в магазине на ферме. Прихватите одно и заберите домой~"}
+{"id":"journey_task_target:8720965454267136","en":"Reasonable Expenses I","ru":"Разумные траты I"}
+{"id":"journey_task_target:8720965454267392","en":"Spend 50,000 Shining Coins","ru":"Потратьте блистающих монет: 50,000"}
+{"id":"journey_task_target:8720965454267648","en":"Every expense is a reasonable expense!","ru":"Любая трата — разумная трата!"}
+{"id":"journey_task_target:8720969749234432","en":"Reasonable Expenses II","ru":"Разумные траты II"}
+{"id":"journey_task_target:8720969749234688","en":"Spend 500,000 Shining Coins","ru":"Потратьте блистающих монет: 500,000"}
+{"id":"journey_task_target:8720969749234944","en":"Every expense is a reasonable expense!","ru":"Любая трата — разумная трата!"}
+{"id":"journey_task_target:8720974044201728","en":"Reasonable Expenses III","ru":"Разумные траты III"}
+{"id":"journey_task_target:8720974044201984","en":"Spend 5,000,000 Shining Coins","ru":"Потратьте блистающих монет: 5,000,000"}
+{"id":"journey_task_target:8720974044202240","en":"Every expense is a reasonable expense!","ru":"Любая трата — разумная трата!"}

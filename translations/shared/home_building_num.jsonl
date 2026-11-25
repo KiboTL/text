@@ -1,0 +1,89 @@
+{"id":"shared:home_building_num:1000:0:_note","en":"Workbench limit: 1","ru":"Предел верстаков: 1"}
+{"id":"shared:home_building_num:1001:1:_note","en":"Workbench limit: 2","ru":"Предел верстаков: 2"}
+{"id":"shared:home_building_num:1002:2:_note","en":"Kibo dining table limit: 1","ru":"Предел столов для кибо: 1"}
+{"id":"shared:home_building_num:1006:3:_note","en":"Furnace limit: 1","ru":"Предел печей: 1"}
+{"id":"shared:home_building_num:1007:4:_note","en":"Furnace limit: 2","ru":"Предел печей: 2"}
+{"id":"shared:home_building_num:1017:5:_note","en":"Tanning rack limit: 1","ru":"Предел кожевенных стоек: 1"}
+{"id":"shared:home_building_num:1018:6:_note","en":"Tanning rack limit: 2","ru":"Предел кожевенных стоек: 2"}
+{"id":"shared:home_building_num:1019:7:_note","en":"Spinning wheel limit: 1","ru":"Предел прялочных колёс: 1"}
+{"id":"shared:home_building_num:1020:8:_note","en":"Spinning wheel limit: 2","ru":"Предел прялочных колёс: 2"}
+{"id":"shared:home_building_num:1021:9:_note","en":"Elemental stone furnace limit: 1","ru":"Предел печей элементарного камня: 1"}
+{"id":"shared:home_building_num:1022:10:_note","en":"Cooking pot limit: 1","ru":"Предел котлов для готовки: 1"}
+{"id":"shared:home_building_num:1023:11:_note","en":"Cooking pot limit: 2","ru":"Предел котлов для готовки: 2"}
+{"id":"shared:home_building_num:1024:12:_note","en":"Starstone table limit: 1","ru":"Предел звёзднокаменных столов: 1"}
+{"id":"shared:home_building_num:1025:13:_note","en":"Hatching post limit: 1","ru":"Предел насестов для вылупления: 1"}
+{"id":"shared:home_building_num:1026:14:_note","en":"Hatching post limit: 2","ru":"Предел насестов для вылупления: 2"}
+{"id":"shared:home_building_num:1027:15:_note","en":"Hatching post limit: 3","ru":"Предел насестов для вылупления: 3"}
+{"id":"shared:home_building_num:1029:16:_note","en":"Sapwood Boat","ru":"Лодка из смолистого дерева"}
+{"id":"shared:home_building_num:1030:17:_note","en":"Bonfire Pillar","ru":"Столб-костёр"}
+{"id":"shared:home_building_num:1031:18:_note","en":"Brazier","ru":"Жаровня"}
+{"id":"shared:home_building_num:1032:19:_note","en":"Wooden Cart","ru":"Деревянная тележка"}
+{"id":"shared:home_building_num:1033:20:_note","en":"Spirit Rite Drum","ru":"Барабан духовного обряда"}
+{"id":"shared:home_building_num:1035:21:_note","en":"\"Lilac\" Potted Plant","ru":"Горшечная «сирень»"}
+{"id":"shared:home_building_num:1036:22:_note","en":"\"Emergency Rations\"","ru":"«Неприкосновенный запас»"}
+{"id":"shared:home_building_num:1037:23:_note","en":"Little Wooden Horse","ru":"Деревянная лошадка"}
+{"id":"shared:home_building_num:1038:24:_note","en":"\"Straight\" Lamppost","ru":"«Ровный» фонарный столб"}
+{"id":"shared:home_building_num:1039:25:_note","en":"\"Wooden Post Meeting\"","ru":"«Собрание деревянных столбов»"}
+{"id":"shared:home_building_num:1040:26:_note","en":"Owl-Faced Totem","ru":"Тотем с совиным ликом"}
+{"id":"shared:home_building_num:1041:27:_note","en":"Praise of the Wolf God","ru":"Слава Волчьему богу"}
+{"id":"shared:home_building_num:1042:28:_note","en":"\"Nectarflower\" Potted Plant","ru":"Горшечный «нектарный цветок»"}
+{"id":"shared:home_building_num:1043:29:_note","en":"\"Wild Hill Cluster\" Potted Plant","ru":"Горшечный «дикий холм»"}
+{"id":"shared:home_building_num:1044:30:_note","en":"\"Tilted\" Lamppost","ru":"«Наклонённый» фонарный столб"}
+{"id":"shared:home_building_num:1045:31:_note","en":"\"Bent\" Lamppost","ru":"«Изогнутый» фонарный столб"}
+{"id":"shared:home_building_num:1046:32:_note","en":"Mushroom Stump","ru":"Грибной пень"}
+{"id":"shared:home_building_num:1047:33:_note","en":"Kibo Shrine","ru":"Святилище кибо"}
+{"id":"shared:home_building_num:1052:34:_note","en":"Mill limit: 1","ru":"Предел мельниц: 1"}
+{"id":"shared:home_building_num:1054:35:_note","en":"Dry Field limit: 4","ru":"Предел сухих полей: 4"}
+{"id":"shared:home_building_num:1063:36:_note","en":"Farming Hut limit: 1","ru":"Предел земледельческих хижин: 1"}
+{"id":"shared:home_building_num:1066:37:_note","en":"Smelting Shop limit: 1","ru":"Предел плавильных: 1"}
+{"id":"shared:home_building_num:1067:38:_note","en":"Tannery limit: 1","ru":"Предел кожевенных мастерских: 1"}
+{"id":"shared:home_building_num:1068:39:_note","en":"Weaving Shop limit: 1","ru":"Предел ткацких мастерских: 1"}
+{"id":"shared:home_building_num:1069:40:_note","en":"Workshop limit: 1","ru":"Предел мастерских: 1"}
+{"id":"shared:home_building_num:1070:41:_note","en":"Forge limit: 1","ru":"Предел кузниц: 1"}
+{"id":"shared:home_building_num:1073:42:_note","en":"Cooking Shop limit: 1","ru":"Предел кухонь: 1"}
+{"id":"shared:home_building_num:1080:43:_note","en":"Charlu-Style Dormitory limit: 3","ru":"Предел общежитий в стиле Шарлу: 3"}
+{"id":"shared:home_building_num:1081:44:_note","en":"Trading Post limit: 1","ru":"Предел торговых постов: 1"}
+{"id":"shared:home_building_num:1082:45:_note","en":"Alchemy Table limit: 1","ru":"Предел алхимических столов: 1"}
+{"id":"shared:home_building_num:1087:46:_note","en":"Fleece-Style Dormitory limit: 2","ru":"Предел общежитий в стиле Флиса: 2"}
+{"id":"shared:home_building_num:1118:47:_note","en":"Fertile Field limit: 0","ru":"Предел плодородных полей: 0"}
+{"id":"shared:home_building_num:1132:48:_note","en":"Feeding Spot limit: 1","ru":"Предел мест кормления: 1"}
+{"id":"shared:home_building_num:1133:49:_note","en":"Windcopper Mine limit: 1","ru":"Предел рудников ветряной меди: 1"}
+{"id":"shared:home_building_num:1134:50:_note","en":"Starshine Mine limit: 1","ru":"Предел рудников звёздного сияния: 1"}
+{"id":"shared:home_building_num:1135:51:_note","en":"Elemental Altar limit: 1","ru":"Предел элементальных алтарей: 1"}
+{"id":"shared:home_building_num:1136:52:_note","en":"Display Stand limit: 6","ru":"Предел витрин: 6"}
+{"id":"shared:home_building_num:1138:53:_note","en":"Orchard limit: 1","ru":"Предел лесных садов: 1"}
+{"id":"shared:home_building_num:1140:54:_note","en":"Totem Pole limit: 9999 (maximum number of totem poles that can be placed)","ru":"Предел тотемных столбов: 9999 (максимальное число тотемных столбов, которое можно разместить)"}
+{"id":"shared:home_building_num:1146:55:_note","en":"Elemental Star Wedge limit: 2","ru":"Предел элементальных звёздных клиньев: 2"}
+{"id":"shared:home_building_num:1147:56:_note","en":"Elemental Star Wedge limit: 3","ru":"Предел элементальных звёздных клиньев: 3"}
+{"id":"shared:home_building_num:1148:57:_note","en":"Elemental Star Wedge limit: 4","ru":"Предел элементальных звёздных клиньев: 4"}
+{"id":"shared:home_building_num:1149:58:_note","en":"Elemental Star Wedge limit: 5","ru":"Предел элементальных звёздных клиньев: 5"}
+{"id":"shared:home_building_num:1150:59:_note","en":"Glimmer Tin Mine limit: 1","ru":"Предел рудников мерцающего олова: 1"}
+{"id":"shared:home_building_num:1151:60:_note","en":"Specularite Mine limit: 1","ru":"Предел рудников зеркального железа: 1"}
+{"id":"shared:home_building_num:1152:61:_note","en":"Skyiron Mine limit: 1","ru":"Предел рудников небесного железа: 1"}
+{"id":"shared:home_building_num:2001:62:_note","en":"Dry Field limit: 8","ru":"Предел сухих полей: 8"}
+{"id":"shared:home_building_num:2002:63:_note","en":"Dry Field limit: 12","ru":"Предел сухих полей: 12"}
+{"id":"shared:home_building_num:2003:64:_note","en":"Dry Field limit: 16","ru":"Предел сухих полей: 16"}
+{"id":"shared:home_building_num:2004:65:_note","en":"Dry Field limit: 20","ru":"Предел сухих полей: 20"}
+{"id":"shared:home_building_num:2005:66:_note","en":"Dry Field limit: 24","ru":"Предел сухих полей: 24"}
+{"id":"shared:home_building_num:2006:67:_note","en":"Dry Field limit: 28","ru":"Предел сухих полей: 28"}
+{"id":"shared:home_building_num:2007:68:_note","en":"Dry Field limit: 32","ru":"Предел сухих полей: 32"}
+{"id":"shared:home_building_num:2008:69:_note","en":"Dry Field limit: 36","ru":"Предел сухих полей: 36"}
+{"id":"shared:home_building_num:2009:70:_note","en":"Dry Field limit: 40","ru":"Предел сухих полей: 40"}
+{"id":"shared:home_building_num:2010:71:_note","en":"Dry Field limit: 44","ru":"Предел сухих полей: 44"}
+{"id":"shared:home_building_num:2011:72:_note","en":"Dry Field limit: 48","ru":"Предел сухих полей: 48"}
+{"id":"shared:home_building_num:2012:73:_note","en":"Dry Field limit: 50","ru":"Предел сухих полей: 50"}
+{"id":"shared:home_building_num:2013:74:_note","en":"Fertile Field limit: 4","ru":"Предел плодородных полей: 4"}
+{"id":"shared:home_building_num:2014:75:_note","en":"Fertile Field limit: 8","ru":"Предел плодородных полей: 8"}
+{"id":"shared:home_building_num:2015:76:_note","en":"Fertile Field limit: 12","ru":"Предел плодородных полей: 12"}
+{"id":"shared:home_building_num:2016:77:_note","en":"Fertile Field limit: 16","ru":"Предел плодородных полей: 16"}
+{"id":"shared:home_building_num:2017:78:_note","en":"Fertile Field limit: 20","ru":"Предел плодородных полей: 20"}
+{"id":"shared:home_building_num:2018:79:_note","en":"Fertile Field limit: 24","ru":"Предел плодородных полей: 24"}
+{"id":"shared:home_building_num:2019:80:_note","en":"Max fertile fields: 28","ru":"Лимит плодородных полей: 28"}
+{"id":"shared:home_building_num:2020:81:_note","en":"Max fertile fields: 32","ru":"Лимит плодородных полей: 32"}
+{"id":"shared:home_building_num:2021:82:_note","en":"Max fertile fields: 36","ru":"Лимит плодородных полей: 36"}
+{"id":"shared:home_building_num:2022:83:_note","en":"Max fertile fields: 40","ru":"Лимит плодородных полей: 40"}
+{"id":"shared:home_building_num:2023:84:_note","en":"Max fertile fields: 42","ru":"Лимит плодородных полей: 42"}
+{"id":"shared:home_building_num:2024:85:_note","en":"Max fertile fields: 44","ru":"Лимит плодородных полей: 44"}
+{"id":"shared:home_building_num:2025:86:_note","en":"Max fertile fields: 46","ru":"Лимит плодородных полей: 46"}
+{"id":"shared:home_building_num:2026:87:_note","en":"Max fertile fields: 48","ru":"Лимит плодородных полей: 48"}
+{"id":"shared:home_building_num:2027:88:_note","en":"Max fertile fields: 50","ru":"Лимит плодородных полей: 50"}

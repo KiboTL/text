@@ -1,0 +1,28 @@
+{"id":"kibo_duel_tag:433791697664","en":"Melee","ru":"Ближний бой"}
+{"id":"kibo_duel_tag:433791697920","en":"A Kibo skilled in melee attacks.","ru":"Кибо, искусный в атаках ближнего боя."}
+{"id":"kibo_duel_tag:438086664960","en":"Ranged","ru":"Дальний бой"}
+{"id":"kibo_duel_tag:438086665216","en":"A Kibo skilled in ranged attacks.","ru":"Кибо, искусный в атаках дальнего боя."}
+{"id":"kibo_duel_tag:442381632256","en":"Survival","ru":"Выживание"}
+{"id":"kibo_duel_tag:442381632512","en":"A Kibo with high survivability.","ru":"Кибо с высокой живучестью."}
+{"id":"kibo_duel_tag:446676599552","en":"Healing","ru":"Лечение"}
+{"id":"kibo_duel_tag:446676599808","en":"A Kibo that can heal allies.","ru":"Кибо, способный лечить союзников."}
+{"id":"kibo_duel_tag:450971566848","en":"Support","ru":"Поддержка"}
+{"id":"kibo_duel_tag:450971567104","en":"A Kibo that can grant various buffs to allies.","ru":"Кибо, способный накладывать на союзников различные усиления."}
+{"id":"kibo_duel_tag:863288427264","en":"Sustained","ru":"Длительный"}
+{"id":"kibo_duel_tag:863288427520","en":"A Kibo that can deal damage or heal continuously on the field.","ru":"Кибо, способный непрерывно наносить урон или лечить на поле."}
+{"id":"kibo_duel_tag:867583394560","en":"Burst","ru":"Взрывной"}
+{"id":"kibo_duel_tag:867583394816","en":"A Kibo that can deal massive damage or heal instantly on the field.","ru":"Кибо, способный мгновенно нанести огромный урон или вылечить на поле."}
+{"id":"kibo_duel_tag:871878361856","en":"Growth","ru":"Рост"}
+{"id":"kibo_duel_tag:871878362112","en":"A Kibo that keeps growing on the field.","ru":"Кибо, который продолжает расти на поле."}
+{"id":"kibo_duel_tag:876173329152","en":"Control","ru":"Контроль"}
+{"id":"kibo_duel_tag:876173329408","en":"A Kibo that can inflict action-disrupting effects on enemies.","ru":"Кибо, способный накладывать на врагов эффекты, нарушающие действия."}
+{"id":"kibo_duel_tag:880468296448","en":"Enhance","ru":"Усиление"}
+{"id":"kibo_duel_tag:880468296704","en":"A Kibo that can strengthen allies.","ru":"Кибо, способный усиливать союзников."}
+{"id":"kibo_duel_tag:884763263744","en":"Weaken","ru":"Ослабление"}
+{"id":"kibo_duel_tag:884763264000","en":"A Kibo that can weaken enemies.","ru":"Кибо, способный ослаблять врагов."}
+{"id":"kibo_duel_tag:889058231040","en":"Charge","ru":"Заряд"}
+{"id":"kibo_duel_tag:889058231296","en":"A Kibo that can restore allies' Energy.","ru":"Кибо, способный восстанавливать энергию союзников."}
+{"id":"kibo_duel_tag:893353198336","en":"Deployment","ru":"Размещение"}
+{"id":"kibo_duel_tag:893353198592","en":"A Kibo that can provide Deployment Cost to allies.","ru":"Кибо, способный давать союзникам стоимость размещения."}
+{"id":"kibo_duel_tag:897648165632","en":"Weather","ru":"Погода"}
+{"id":"kibo_duel_tag:897648165888","en":"A Kibo that can change the weather on the field.","ru":"Кибо, способный менять погоду на поле."}

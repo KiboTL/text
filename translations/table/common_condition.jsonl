@@ -1,0 +1,43 @@
+{"id":"common_condition:137460428310528","en":"Unlock {0}","ru":"Откройте {0}"}
+{"id":"common_condition:214752659769344","en":"Duel time remaining {time} sec or more","ru":"Осталось времени дуэли: {time} сек. или больше"}
+{"id":"common_condition:214756954736640","en":"Unlocked by clearing Chapter {index}-{name} stage of {mode}","ru":"Открывается после прохождения этапа {mode} глава {index}-{name}"}
+{"id":"common_condition:261997300025344","en":"{name} reputation reaches Level {lv}","ru":"Репутация {name} достигает уровня {lv}"}
+{"id":"common_condition:262001594992640","en":"Complete story order \"{name}\"","ru":"Завершите сюжетный заказ «{name}»"}
+{"id":"common_condition:262005889959936","en":"Clear stages of difficulty {difficulty} or higher {num} times","ru":"Пройдите этапы сложности {difficulty} и выше {num} раз"}
+{"id":"common_condition:262010184927232","en":"[Unknown]","ru":"[Неизвестно]"}
+{"id":"common_condition:262014479894528","en":"Earn {num} points","ru":"Наберите очки: {num}"}
+{"id":"common_condition:262018774861824","en":"Complete all event quests","ru":"Выполните все квесты события"}
+{"id":"common_condition:262023069829120","en":"Star Knowledge Level {min} or higher, {max} or lower","ru":"Уровень звёздных знаний от {min} до {max}"}
+{"id":"common_condition:262027364796416","en":"Character death","ru":"Гибель персонажа"}
+{"id":"common_condition:262031659763712","en":"Battlefield condition met","ru":"Условие поля боя выполнено"}
+{"id":"common_condition:47278999996416","en":"Complete {sciencename} research","ru":"Завершите исследование {sciencename}"}
+{"id":"common_condition:47283294963712","en":"Unlocked when Farm Expansion Level reaches {value}","ru":"Открывается при достижении уровня расширения фермы {value}"}
+{"id":"common_condition:47287589931008","en":"Unlocked when {techName} Insight Level reaches {level}","ru":"Открывается при достижении уровня познаний {techName} {level}"}
+{"id":"common_condition:47291884898304","en":"Unlocked when {techType} Level reaches {level}","ru":"Открывается при достижении уровня {techType} {level}"}
+{"id":"common_condition:47296179865600","en":"Unlock node \"{techType}\"","ru":"Откройте узел «{techType}»"}
+{"id":"common_condition:51707111278592","en":"Farm {name} reaches Level {level}","ru":"Ферма {name} достигает уровня {level}"}
+{"id":"common_condition:51719996180480","en":"Unlock {0}","ru":"Откройте {0}"}
+{"id":"common_condition:51732881082368","en":"Complete the quest \"{0}\"","ru":"Завершите квест «{0}»"}
+{"id":"common_condition:51887499905024","en":"Owned","ru":"В наличии"}
+{"id":"common_condition:51896089839616","en":"Owned","ru":"В наличии"}
+{"id":"common_condition:51969104283648","en":"Unlocked when the Area Level of {0} reaches {1}.","ru":"Открывается при достижении уровнем области {0} значения {1}."}
+{"id":"common_condition:56023553411072","en":"Unlocked by completing the main story Commission \"{0} {1}\"","ru":"Открывается после завершения основного сюжетного поручения «{0} {1}»"}
+{"id":"common_condition:56027848378368","en":"Unlocked by completing all main story quests","ru":"Открывается после завершения всех основных сюжетных квестов"}
+{"id":"common_condition:56032143345664","en":"Unlocked by earning {index}★ in a main story Commission","ru":"Открывается после получения {index}★ в основном сюжетном поручении"}
+{"id":"common_condition:56173877266432","en":"Win a Kibo Fight within 60 sec","ru":"Победите в бою кибо за 60 сек."}
+{"id":"common_condition:56195352102912","en":"Set all Kibo used in battle to Levitation Cannon type","ru":"Сделайте всех кибо, используемых в бою, парящими пушками"}
+{"id":"common_condition:56221121906688","en":"Use Starecho Skills XX times","ru":"Используйте навыки звёздного эха XX раз"}
+{"id":"common_condition:56246891710464","en":"Build a 2-person dormitory","ru":"Постройте общежитие на 2 мест"}
+{"id":"common_condition:56251186677760","en":"Unlock all furniture in 1 dormitories (paid only, TBD)","ru":"Откройте всю мебель в общежитиях (1) (только за плату, не определено)"}
+{"id":"common_condition:56255481645056","en":"Interact with 1 characters in the dormitory","ru":"Пообщайтесь с персонажами в общежитии: 1"}
+{"id":"common_condition:56259776612352","en":"Complete 300 orders","ru":"Выполните заказы: 300"}
+{"id":"common_condition:56315611187200","en":"Clear {2} difficulty {1} with {0}★","ru":"Пройдите {2} сложности {1} на {0}★"}
+{"id":"common_condition:56319906154496","en":"Clear {1} difficulty {0} {2} times","ru":"Пройдите {1} сложности {0} раз: {2}"}
+{"id":"common_condition:56324201121792","en":"Clear the specified daily Commission {0} times","ru":"Выполните указанное ежедневное поручение {0} раз"}
+{"id":"common_condition:56328496089088","en":"Clear the specified daily Commission with {0}★ {1} times","ru":"Выполните указанное ежедневное поручение на {0}★ раз: {1}"}
+{"id":"common_condition:56332791056384","en":"Clear all daily Commissions of difficulty {0}","ru":"Выполните все ежедневные поручения сложности {0}"}
+{"id":"common_condition:56337086023680","en":"Clear {2} difficulty {1} with {0}★","ru":"Пройдите {2} сложности {1} на {0}★"}
+{"id":"common_condition:56358560860160","en":"Not yet unlocked","ru":"Не открыто"}
+{"id":"common_condition:8607114463232","en":"Required Star Knowledge Level {playerlevel}","ru":"Требуемый уровень звёздных знаний {playerlevel}"}
+{"id":"common_condition:8619999365120","en":"Complete the quest \"{name}\"","ru":"Завершите квест «{name}»"}
+{"id":"common_condition:8628589299712","en":"Maximum level reached","ru":"Достигнут максимальный уровень"}

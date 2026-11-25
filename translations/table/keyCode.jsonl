@@ -1,0 +1,111 @@
+{"id":"keyCode:103079216128","en":"=","ru":"="}
+{"id":"keyCode:107374183424","en":"↑","ru":"↑"}
+{"id":"keyCode:111669150720","en":"↓","ru":"↓"}
+{"id":"keyCode:115964118016","en":"→","ru":"→"}
+{"id":"keyCode:120259085312","en":"←","ru":"←"}
+{"id":"keyCode:124554052608","en":"Insert Key","ru":"Клавиша Insert"}
+{"id":"keyCode:128849019904","en":"Home Key","ru":"Клавиша Home"}
+{"id":"keyCode:12884902912","en":"Delete Key","ru":"Клавиша Delete"}
+{"id":"keyCode:133143987200","en":"End Key","ru":"Клавиша End"}
+{"id":"keyCode:137438954496","en":"PageUp Key","ru":"Клавиша PageUp"}
+{"id":"keyCode:141733921792","en":"PageDown Key","ru":"Клавиша PageDown"}
+{"id":"keyCode:146028889088","en":"F1 Key","ru":"Клавиша F1"}
+{"id":"keyCode:150323856384","en":"F2 Key","ru":"Клавиша F2"}
+{"id":"keyCode:154618823680","en":"F3 Key","ru":"Клавиша F3"}
+{"id":"keyCode:158913790976","en":"F4 Key","ru":"Клавиша F4"}
+{"id":"keyCode:163208758272","en":"F5 Key","ru":"Клавиша F5"}
+{"id":"keyCode:167503725568","en":"F6 Key","ru":"Клавиша F6"}
+{"id":"keyCode:171798692864","en":"F7 Key","ru":"Клавиша F7"}
+{"id":"keyCode:17179870208","en":"Tab Key","ru":"Клавиша Tab"}
+{"id":"keyCode:176093660160","en":"F8 Key","ru":"Клавиша F8"}
+{"id":"keyCode:180388627456","en":"F9 Key","ru":"Клавиша F9"}
+{"id":"keyCode:184683594752","en":"F10 Key","ru":"Клавиша F10"}
+{"id":"keyCode:188978562048","en":"F11 Key","ru":"Клавиша F11"}
+{"id":"keyCode:193273529344","en":"F12 Key","ru":"Клавиша F12"}
+{"id":"keyCode:197568496640","en":"F13 Key","ru":"Клавиша F13"}
+{"id":"keyCode:201863463936","en":"F14 Key","ru":"Клавиша F14"}
+{"id":"keyCode:206158431232","en":"F15 Key","ru":"Клавиша F15"}
+{"id":"keyCode:210453398528","en":"Num0","ru":"Num0"}
+{"id":"keyCode:214748365824","en":"Num1","ru":"Num1"}
+{"id":"keyCode:21474837504","en":"Clear Key","ru":"Клавиша Clear"}
+{"id":"keyCode:219043333120","en":"Num2","ru":"Num2"}
+{"id":"keyCode:223338300416","en":"Num3","ru":"Num3"}
+{"id":"keyCode:227633267712","en":"Num4","ru":"Num4"}
+{"id":"keyCode:231928235008","en":"Num5","ru":"Num5"}
+{"id":"keyCode:236223202304","en":"Num6","ru":"Num6"}
+{"id":"keyCode:240518169600","en":"Num7","ru":"Num7"}
+{"id":"keyCode:244813136896","en":"Num8","ru":"Num8"}
+{"id":"keyCode:249108104192","en":"Num9","ru":"Num9"}
+{"id":"keyCode:253403071488","en":"[","ru":"["}
+{"id":"keyCode:257698038784","en":"\\","ru":"\\"}
+{"id":"keyCode:25769804800","en":"Pause Key","ru":"Клавиша Pause"}
+{"id":"keyCode:261993006080","en":"]","ru":"]"}
+{"id":"keyCode:266287973376","en":"‘’","ru":"‘’"}
+{"id":"keyCode:270582940672","en":"A Key","ru":"Клавиша A"}
+{"id":"keyCode:274877907968","en":"B Key","ru":"Клавиша B"}
+{"id":"keyCode:279172875264","en":"C Key","ru":"Клавиша C"}
+{"id":"keyCode:283467842560","en":"D Key","ru":"Клавиша D"}
+{"id":"keyCode:287762809856","en":"E key","ru":"Клавиша E"}
+{"id":"keyCode:292057777152","en":"F key","ru":"Клавиша F"}
+{"id":"keyCode:296352744448","en":"G key","ru":"Клавиша G"}
+{"id":"keyCode:300647711744","en":"H key","ru":"Клавиша H"}
+{"id":"keyCode:30064772096","en":"Space Key","ru":"Клавиша пробела"}
+{"id":"keyCode:304942679040","en":"I key","ru":"Клавиша I"}
+{"id":"keyCode:309237646336","en":"J key","ru":"Клавиша J"}
+{"id":"keyCode:313532613632","en":"K key","ru":"Клавиша K"}
+{"id":"keyCode:317827580928","en":"L key","ru":"Клавиша L"}
+{"id":"keyCode:322122548224","en":"M key","ru":"Клавиша M"}
+{"id":"keyCode:326417515520","en":"N key","ru":"Клавиша N"}
+{"id":"keyCode:330712482816","en":"O key","ru":"Клавиша O"}
+{"id":"keyCode:335007450112","en":"P key","ru":"Клавиша P"}
+{"id":"keyCode:339302417408","en":"Q key","ru":"Клавиша Q"}
+{"id":"keyCode:343597384704","en":"R key","ru":"Клавиша R"}
+{"id":"keyCode:34359739392","en":"0","ru":"0"}
+{"id":"keyCode:347892352000","en":"S key","ru":"Клавиша S"}
+{"id":"keyCode:352187319296","en":"T key","ru":"Клавиша T"}
+{"id":"keyCode:356482286592","en":"U key","ru":"Клавиша U"}
+{"id":"keyCode:360777253888","en":"V key","ru":"Клавиша V"}
+{"id":"keyCode:365072221184","en":"W key","ru":"Клавиша W"}
+{"id":"keyCode:369367188480","en":"X key","ru":"Клавиша X"}
+{"id":"keyCode:373662155776","en":"Y key","ru":"Клавиша Y"}
+{"id":"keyCode:377957123072","en":"Z key","ru":"Клавиша Z"}
+{"id":"keyCode:382252090368","en":"Scroll Lock key","ru":"Клавиша Scroll Lock"}
+{"id":"keyCode:386547057664","en":"Right Shift key","ru":"Правая клавиша Shift"}
+{"id":"keyCode:38654706688","en":"1","ru":"1"}
+{"id":"keyCode:390842024960","en":"Left Shift key","ru":"Левая клавиша Shift"}
+{"id":"keyCode:395136992256","en":"Right Ctrl key","ru":"Правая клавиша Ctrl"}
+{"id":"keyCode:399431959552","en":"Left Ctrl key","ru":"Левая клавиша Ctrl"}
+{"id":"keyCode:408021894144","en":"Left Alt key","ru":"Левая клавиша Alt"}
+{"id":"keyCode:412316861440","en":"Left mouse button","ru":"Левая кнопка мыши"}
+{"id":"keyCode:416611828736","en":"Right mouse button","ru":"Правая кнопка мыши"}
+{"id":"keyCode:420906796032","en":"Middle mouse button","ru":"Средняя кнопка мыши"}
+{"id":"keyCode:425201763328","en":"Mouse side button1","ru":"Боковая кнопка мыши1"}
+{"id":"keyCode:429496730624","en":"Mouse side button2","ru":"Боковая кнопка мыши2"}
+{"id":"keyCode:42949673984","en":"2","ru":"2"}
+{"id":"keyCode:4294968320","en":"None","ru":"Нет"}
+{"id":"keyCode:433791697920","en":"Enter key","ru":"Клавиша Enter"}
+{"id":"keyCode:438086665216","en":"Esc key","ru":"Клавиша Esc"}
+{"id":"keyCode:442381632512","en":"Menu key","ru":"Клавиша меню"}
+{"id":"keyCode:446676599808","en":"Caps Lock key","ru":"Клавиша Caps Lock"}
+{"id":"keyCode:450971567104","en":"Num Lock key","ru":"Клавиша Num Lock"}
+{"id":"keyCode:455266534400","en":"Print Screen key","ru":"Клавиша Print Screen"}
+{"id":"keyCode:459561501696","en":"`","ru":"`"}
+{"id":"keyCode:463856468992","en":";","ru":";"}
+{"id":"keyCode:468151436288","en":",","ru":","}
+{"id":"keyCode:472446403584","en":".","ru":"."}
+{"id":"keyCode:47244641280","en":"3","ru":"3"}
+{"id":"keyCode:476741370880","en":"-","ru":"-"}
+{"id":"keyCode:481036338176","en":"=","ru":"="}
+{"id":"keyCode:51539608576","en":"4","ru":"4"}
+{"id":"keyCode:55834575872","en":"5","ru":"5"}
+{"id":"keyCode:60129543168","en":"6","ru":"6"}
+{"id":"keyCode:64424510464","en":"7","ru":"7"}
+{"id":"keyCode:68719477760","en":"8","ru":"8"}
+{"id":"keyCode:73014445056","en":"9","ru":"9"}
+{"id":"keyCode:77309412352","en":".","ru":"."}
+{"id":"keyCode:81604379648","en":"/","ru":"/"}
+{"id":"keyCode:85899346944","en":"*","ru":"*"}
+{"id":"keyCode:8589935616","en":"Backspace Key","ru":"Клавиша Backspace"}
+{"id":"keyCode:90194314240","en":"-","ru":"-"}
+{"id":"keyCode:94489281536","en":"+","ru":"+"}
+{"id":"keyCode:98784248832","en":"Enter","ru":"Enter"}

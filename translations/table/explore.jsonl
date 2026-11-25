@@ -1,0 +1,306 @@
+{"id":"explore:429501458358995968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429501887855725568","en":"Quarry","ru":"Каменоломня"}
+{"id":"explore:429501887855725824","en":"Increases daily output of <color=#3f892e>Duststone</color> and <color=#3f892e>Topaz</color> at the <color=#3f892e>Glimmertin Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>пыльного камня</color> и <color=#3f892e>топаза</color> <color=#3f892e>на руднике мерцающего олова</color>."}
+{"id":"explore:429501892150692864","en":"Mine","ru":"Шахта"}
+{"id":"explore:429501892150693120","en":"Increases daily output of <color=#3f892e>Glimmertin</color> at the <color=#3f892e>Glimmertin Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>мерцающего олова</color> <color=#3f892e>на руднике мерцающего олова</color>."}
+{"id":"explore:429501896445660160","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"explore:429501896445660416","en":"Increases the daily output of <color=#3f892e>Elemental Particles</color>.","ru":"Увеличивает ежедневное производство <color=#3f892e>элементарных частиц</color>."}
+{"id":"explore:429501900740627456","en":"Gathering Hut","ru":"Хижина сбора"}
+{"id":"explore:429501900740627712","en":"Unlocks production of <color=#3f892e>Moonberries</color> at the <color=#3f892e>Orchard</color>.","ru":"Открывает производство <color=#3f892e>лунных ягод</color> <color=#3f892e>во фруктовом саду</color>."}
+{"id":"explore:429501905035594752","en":"Starlight Mine","ru":"Шахта звёздного сияния"}
+{"id":"explore:429501905035595008","en":"Increases daily output of <color=#3f892e>Cracked Starlight Ore</color> at the <color=#3f892e>Starlight Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>треснувшей звёздной руды</color> <color=#3f892e>в шахте звёздного сияния</color>."}
+{"id":"explore:429502317352455168","en":"Giganshaura","ru":"Гигансёура"}
+{"id":"explore:429502317352455424","en":"It sits atop the mountain peak, clad in a hard shell. For Giganshaura, locking horns is a battle for honor, and each clash is a contest of strength and standing.","ru":"Он восседает на горной вершине, облачённый в твёрдый панцирь. Для Гигансёуры столкновение рогами — бой за честь, и каждое такое противостояние решает, кто сильнее и выше по положению."}
+{"id":"explore:429502317352455680","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"explore:429502746849184768","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429502751144152064","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429503605842643968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429504035339373568","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429504039634340864","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429504043929308160","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429504048224275456","en":"Exploration Challenge","ru":"Испытание исследователя"}
+{"id":"explore:429504052519242752","en":"Umi Discovered","ru":"Уми найдена"}
+{"id":"explore:429504056814210048","en":"Rhythm of the Stars","ru":"Ритм звёзд"}
+{"id":"explore:429504464836103168","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429504469131070464","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429504894332832768","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429505753326291968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429506182823021568","en":"Lumberyard","ru":"Лесопилка"}
+{"id":"explore:429506182823021824","en":"Increases daily output of <color=#3f892e>Softwood</color> and <color=#3f892e>Fiber</color> at the <color=#3f892e>Orchard</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>мягкой древесины</color> и <color=#3f892e>волокна</color> <color=#3f892e>во фруктовом саду</color>."}
+{"id":"explore:429506187117988864","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"explore:429506187117989120","en":"Increases the daily output of <color=#3f892e>Elemental Particles</color>.","ru":"Увеличивает ежедневное производство <color=#3f892e>элементарных частиц</color>."}
+{"id":"explore:429506191412956160","en":"Gathering Hut","ru":"Хижина сбора"}
+{"id":"explore:429506191412956416","en":"Unlocks production of <color=#3f892e>Youthberries</color> at the <color=#3f892e>Orchard</color>.","ru":"Открывает производство <color=#3f892e>ягод юности</color> <color=#3f892e>во фруктовом саду</color>."}
+{"id":"explore:429506195707923456","en":"Feeding Ground","ru":"Кормушка"}
+{"id":"explore:429506195707923712","en":"Additionally unlocks Kibo Egg production at <color=#3f892e>the Feeding Ground</color>.","ru":"Дополнительно открывает производство яиц кибо в <color=#3f892e>кормушке</color>."}
+{"id":"explore:429506612319751168","en":"Phantomfly","ru":"Призракрыл"}
+{"id":"explore:429506612319751424","en":"A hazy legend lurking deep in Mistveil Forest. Drawn by powerful obsessions, it appears—but offers nothing back except capricious mischief. Truth or illusion. Dream or reality. This is the fairy butterfly no one can touch.","ru":"Смутная легенда, таящаяся в глубине Туманного леса. Привлечённая сильными одержимостями, она является, но дарит лишь капризные проказы. Правда или морок? Сон или явь? Это и есть фея-бабочка, к которой невозможно прикоснуться."}
+{"id":"explore:429506612319751680","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"explore:429506616614718464","en":"Vespervamp","ru":"Сумерокрыл"}
+{"id":"explore:429506616614718720","en":"A mysterious, nightmare-like being said to hide deep in Mistveil Forest, concealing itself by day and appearing at night.","ru":"Таинственное создание, подобное кошмару: говорят, оно прячется в глубине Туманного леса, днём скрывается, а ночью выходит наружу."}
+{"id":"explore:429506616614718976","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"explore:429507041816480768","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429507046111448064","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429508330306669568","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429508334601636864","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429508338896604160","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429508343191571456","en":"Exploration Challenge","ru":"Испытание исследователя"}
+{"id":"explore:429508347486538752","en":"Umi Discovered","ru":"Уми найдена"}
+{"id":"explore:429508351781506048","en":"Rhythm of the Stars","ru":"Ритм звёзд"}
+{"id":"explore:429508759803399168","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429509189300128768","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429510048293587968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429510477790317568","en":"Gathering Hut","ru":"Хижина сбора"}
+{"id":"explore:429510477790317824","en":"Unlocks production of <color=#3f892e>Rich Peaches</color> at the <color=#3f892e>Orchard</color>.","ru":"Открывает производство <color=#3f892e>сочных персиков</color> <color=#3f892e>во фруктовом саду</color>."}
+{"id":"explore:429510482085284864","en":"Starlight Mine","ru":"Шахта звёздного сияния"}
+{"id":"explore:429510482085285120","en":"Increases daily output of <color=#3f892e>Cracked Starlight Ore</color> at the <color=#3f892e>Starlight Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>треснувшей звёздной руды</color> <color=#3f892e>в шахте звёздного сияния</color>."}
+{"id":"explore:429510486380252160","en":"Feeding Ground","ru":"Кормушка"}
+{"id":"explore:429510486380252416","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Beast Meat</color> and <color=#3f892e>Poultry</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>мяса зверя</color> и <color=#3f892e>мяса птицы</color>1"}
+{"id":"explore:429510907287047168","en":"Spitehorn","ru":"Спайтхорн"}
+{"id":"explore:429510907287047424","en":"A giant bird of prey with vicious horns and thorns. It spreads its wings to summon fierce winds and biting frost. Its harsh cry and gloomy appearance have made it a symbol of ill omen, bringing decay and ruin.","ru":"Огромная хищная птица со злобными рогами и шипами. Раскинув крылья, она призывает яростные ветры и лютый мороз. Из-за резкого крика и мрачного облика её считают зловещим знаком, несущим упадок и гибель."}
+{"id":"explore:429510907287047680","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"explore:429511336783776768","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429512195777235968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429512625273965568","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429512629568932864","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429512633863900160","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429512638158867456","en":"Exploration Challenge","ru":"Испытание исследователя"}
+{"id":"explore:429512642453834752","en":"Umi Discovered","ru":"Уми найдена"}
+{"id":"explore:429512646748802048","en":"Rhythm of the Stars","ru":"Ритм звёзд"}
+{"id":"explore:429513054770695168","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429513059065662464","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429513484267424768","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429514343260883968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429514772757613568","en":"Lumberyard","ru":"Лесопилка"}
+{"id":"explore:429514772757613824","en":"Increases daily output of <color=#3f892e>Softwood</color> and <color=#3f892e>Fiber</color> at the <color=#3f892e>Orchard</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>мягкой древесины</color> и <color=#3f892e>волокна</color> <color=#3f892e>во фруктовом саду</color>."}
+{"id":"explore:429514777052580864","en":"Quarry","ru":"Каменоломня"}
+{"id":"explore:429514777052581120","en":"<color=#3f892e>Windcopper Mine</color>: <color=#3f892e>Duststone</color> and <color=#3f892e>Topaz</color> daily yield increased1","ru":"<color=#3f892e>Рудник ветрокорицы</color>: суточный прирост <color=#3f892e>камня пыли</color> и <color=#3f892e>Топаза</color>1"}
+{"id":"explore:429514781347548160","en":"Mine","ru":"Шахта"}
+{"id":"explore:429514781347548416","en":"<color=#3f892e>Windcopper Mine</color>: <color=#3f892e>Windcopper</color> daily yield increased1","ru":"<color=#3f892e>Рудник ветрокорицы</color>: суточный прирост <color=#3f892e>ветрокорицы</color>1"}
+{"id":"explore:429514785642515456","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"explore:429514785642515712","en":"Increases the storage limit for <color=#3f892e>Elemental Particles</color>.","ru":"Увеличивает предел хранения <color=#3f892e>элементарных частиц</color>."}
+{"id":"explore:429515202254343168","en":"Kinglaraga","ru":"Кинглага"}
+{"id":"explore:429515202254343424","en":"Lord of the wilds. The eye of the storm that embodies might and majesty. Swift as lightning, fierce as lightning, loud as lightning!","ru":"Владыка пустошей. Око бури, воплощающее мощь и величие. Быстрый, как молния, свирепый, как молния, громкий, как молния!"}
+{"id":"explore:429515202254343680","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"explore:429515631751072768","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429515636046040064","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429516061247802368","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516065542769664","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516069837736960","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516074132704256","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516078427671552","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516082722638848","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516087017606144","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516091312573440","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516095607540736","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516099902508032","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516104197475328","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516108492442624","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516112787409920","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516117082377216","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516121377344512","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516125672311808","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516129967279104","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516134262246400","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516138557213696","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516142852180992","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516147147148288","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516151442115584","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516155737082880","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516160032050176","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516164327017472","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516168621984768","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516172916952064","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516177211919360","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516181506886656","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516185801853952","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516190096821248","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516194391788544","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429516490744531968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429516495039499264","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429516920241261568","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429516924536228864","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429516928831196160","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429516933126163456","en":"Exploration Challenge","ru":"Испытание исследователя"}
+{"id":"explore:429516937421130752","en":"Umi Discovered","ru":"Уми найдена"}
+{"id":"explore:429516941716098048","en":"Rhythm of the Stars","ru":"Ритм звёзд"}
+{"id":"explore:429517349737991168","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429517354032958464","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429517779234720768","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:429518638228179968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429519067724909568","en":"Mine","ru":"Шахта"}
+{"id":"explore:429519067724909824","en":"Increases daily output of <color=#3f892e>Glimmertin</color> at the <color=#3f892e>Glimmertin Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>мерцающего олова</color> <color=#3f892e>на руднике мерцающего олова</color>."}
+{"id":"explore:429519072019876864","en":"Gathering Hut","ru":"Хижина сбора"}
+{"id":"explore:429519072019877120","en":"<color=#3f892e>Orchard</color>: fruit 1daily yield increased","ru":"<color=#3f892e>Сад</color>: суточный прирост 1фруктов"}
+{"id":"explore:429519076314844160","en":"Feeding Ground","ru":"Кормушка"}
+{"id":"explore:429519076314844416","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Tattered Beast Hide</color> and <color=#3f892e>Fine Beast Hide</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>рваной шкуры зверя</color> и <color=#3f892e>хорошей шкуры зверя</color>1"}
+{"id":"explore:429519926718368768","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429519931013336064","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429519935308303360","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:429520785711827968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429520790006795264","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429520794301762560","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:429521215208557568","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429521219503524864","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429521223798492160","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:429521228093459456","en":"Exploration Challenge","ru":"Испытание исследователя"}
+{"id":"explore:429521232388426752","en":"Umi Discovered","ru":"Уми найдена"}
+{"id":"explore:429521236683394048","en":"Rhythm of the Stars","ru":"Ритм звёзд"}
+{"id":"explore:429521644705287168","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429521649000254464","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429521653295221760","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:429522074202016768","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433796425654995968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433796855151725568","en":"Lumberyard","ru":"Лесопилка"}
+{"id":"explore:433796855151725824","en":"<color=#3f892e>Orchard</color>: unlocks <color=#3f892e>Hardwood</color> production","ru":"<color=#3f892e>Сад</color>: открывает добычу <color=#3f892e>твёрдой древесины</color>"}
+{"id":"explore:433796859446692864","en":"Mine","ru":"Шахта"}
+{"id":"explore:433796859446693120","en":"<color=#3f892e>Mirror Iron Mine</color>: <color=#3f892e>Mirror Iron</color> 1daily yield increased","ru":"<color=#3f892e>Рудник зеркального железа</color>: суточный прирост <color=#3f892e>зеркального железа</color>1"}
+{"id":"explore:433796863741660160","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"explore:433796863741660416","en":"Increases the storage limit for <color=#3f892e>Elemental Particles</color>.","ru":"Увеличивает предел хранения <color=#3f892e>элементарных частиц</color>."}
+{"id":"explore:433796868036627456","en":"Gathering Hut","ru":"Хижина сбора"}
+{"id":"explore:433796868036627712","en":"<color=#3f892e>Orchard</color>: fruit 1daily yield increased","ru":"<color=#3f892e>Сад</color>: суточный прирост 1фруктов"}
+{"id":"explore:433796872331594752","en":"Feeding Ground","ru":"Кормушка"}
+{"id":"explore:433796872331595008","en":"Additionally unlocks Kibo Egg production at <color=#3f892e>the Feeding Ground</color>.","ru":"Дополнительно открывает производство яиц кибо в <color=#3f892e>кормушке</color>."}
+{"id":"explore:433797284648455168","en":"Ceresha","ru":"Цереша"}
+{"id":"explore:433797284648455424","en":"A mysterious Kibo said in legend to symbolize \"gold\" and \"abundance.\" Its power embodies the will of the elements and of nature itself.","ru":"Таинственный кибо, который, согласно легендам, олицетворяет «золото» и «изобилие». Его сила воплощает волю элементов и самой природы."}
+{"id":"explore:433797284648455680","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"explore:433797714145184768","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:433798143641914368","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798147936881664","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798152231848960","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798156526816256","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798160821783552","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798165116750848","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798169411718144","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798173706685440","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798178001652736","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798182296620032","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798186591587328","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798190886554624","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798195181521920","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798199476489216","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798203771456512","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798208066423808","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798212361391104","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798216656358400","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798220951325696","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433798573138643968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433799002635373568","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433799006930340864","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433799011225308160","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433799015520275456","en":"Exploration Challenge","ru":"Испытание исследователя"}
+{"id":"explore:433799019815242752","en":"Umi Discovered","ru":"Уми найдена"}
+{"id":"explore:433799024110210048","en":"Rhythm of the Stars","ru":"Ритм звёзд"}
+{"id":"explore:433799432132103168","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:433799861628832768","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433800720622291968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433801150119021568","en":"Quarry","ru":"Каменоломня"}
+{"id":"explore:433801150119021824","en":"Increases daily output of <color=#3f892e>Hardrock</color> and <color=#3f892e>Azure Crystals</color> at the <color=#3f892e>Mirror Iron Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>крепкого камня</color> и <color=#3f892e>лазурных кристаллов</color> <color=#3f892e>на руднике зеркального железа</color>."}
+{"id":"explore:433801154413988864","en":"Mine","ru":"Шахта"}
+{"id":"explore:433801154413989120","en":"<color=#3f892e>Mirror Iron Mine</color>: <color=#3f892e>Mirror Iron</color> 1daily yield increased","ru":"<color=#3f892e>Рудник зеркального железа</color>: суточный прирост <color=#3f892e>зеркального железа</color>1"}
+{"id":"explore:433801158708956160","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"explore:433801158708956416","en":"Increases the daily output of <color=#3f892e>Elemental Particles</color>.","ru":"Увеличивает ежедневное производство <color=#3f892e>элементарных частиц</color>."}
+{"id":"explore:433801163003923456","en":"Starlight Mine","ru":"Шахта звёздного сияния"}
+{"id":"explore:433801163003923712","en":"Increases daily output of <color=#3f892e>Cracked Starlight Ore</color> at the <color=#3f892e>Starlight Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>треснувшей звёздной руды</color> <color=#3f892e>в шахте звёздного сияния</color>."}
+{"id":"explore:433801579615751168","en":"Raikoumo","ru":"Райкоумо"}
+{"id":"explore:433801579615751424","en":"Its fierce appearance leads some intelligent species to regard it as a symbol of \"power,\" and its massive twin horns are sometimes depicted as a cultural emblem of strength.","ru":"Благодаря свирепому виду некоторые разумные виды считают его символом «силы», а его огромные парные рога порой изображают как культурный символ могущества."}
+{"id":"explore:433801579615751680","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"explore:433801583910718464","en":"Amalthea","ru":"Амальтея"}
+{"id":"explore:433801583910718720","en":"It cannot promise calm weather, but it can purify rivers and make aquatic plants flourish. It has never bestowed gold or treasure, but it can moisten the earth and make grain ripen in abundance.","ru":"Он не может обещать спокойную погоду, но способен очищать реки и заставлять водные растения пышно разрастаться. Он никогда не дарил золота или сокровищ, но может питать землю влагой и заставлять зерно обильно созревать."}
+{"id":"explore:433801583910718976","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"explore:433802009112480768","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:433802013407448064","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:433802438609210368","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802442904177664","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802447199144960","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802451494112256","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802455789079552","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802460084046848","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802464379014144","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802468673981440","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802472968948736","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802477263916032","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802481558883328","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802485853850624","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802490148817920","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802494443785216","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433802868105939968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433802872400907264","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433802876695874560","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433803297602669568","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433803301897636864","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433803306192604160","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433803310487571456","en":"Exploration Challenge","ru":"Испытание исследователя"}
+{"id":"explore:433803314782538752","en":"Umi Discovered","ru":"Уми найдена"}
+{"id":"explore:433803319077506048","en":"Rhythm of the Stars","ru":"Ритм звёзд"}
+{"id":"explore:433803727099399168","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:433803731394366464","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:433803735689333760","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:433804156596128768","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433805015589587968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433805445086317568","en":"Lumberyard","ru":"Лесопилка"}
+{"id":"explore:433805445086317824","en":"Increases daily output of <color=#3f892e>Hardwood</color> at the <color=#3f892e>Orchard</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>твёрдой древесины</color> <color=#3f892e>во фруктовом саду</color>."}
+{"id":"explore:433805449381284864","en":"Mine","ru":"Шахта"}
+{"id":"explore:433805449381285120","en":"Increases daily output of <color=#3f892e>Sky Iron</color> at the <color=#3f892e>Sky Iron Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>небесного железа</color> <color=#3f892e>на руднике небесного железа</color>."}
+{"id":"explore:433805453676252160","en":"Starlight Mine","ru":"Шахта звёздного сияния"}
+{"id":"explore:433805453676252416","en":"Increases daily output of <color=#3f892e>Cracked Starlight Ore</color> at the <color=#3f892e>Starlight Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>треснувшей звёздной руды</color> <color=#3f892e>в шахте звёздного сияния</color>."}
+{"id":"explore:433805457971219456","en":"Feeding Ground","ru":"Кормушка"}
+{"id":"explore:433805457971219712","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Beast Meat</color> and <color=#3f892e>Poultry</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>мяса зверя</color> и <color=#3f892e>мяса птицы</color>1"}
+{"id":"explore:433805874583047168","en":"Flamraga","ru":"Фламрага"}
+{"id":"explore:433805874583047424","en":"Fierce as raging fire, rampant as raging fire, radiant as raging fire!","ru":"Свиреп, как яростное пламя, буен, как яростное пламя, ослепителен, как яростное пламя!"}
+{"id":"explore:433805874583047680","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"explore:433806304079776768","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:433806308374744064","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:433806312669711360","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:433806733576506368","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806737871473664","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806742166440960","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806746461408256","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806750756375552","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806755051342848","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806759346310144","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806763641277440","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806767936244736","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806772231212032","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806776526179328","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806780821146624","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806785116113920","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806789411081216","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433806793706048512","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433807163073235968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433807167368203264","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433807171663170560","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433807592569965568","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433807596864932864","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433807601159900160","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433807605454867456","en":"Exploration Challenge","ru":"Испытание исследователя"}
+{"id":"explore:433807609749834752","en":"Umi Discovered","ru":"Уми найдена"}
+{"id":"explore:433807614044802048","en":"Rhythm of the Stars","ru":"Ритм звёзд"}
+{"id":"explore:433808022066695168","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:433808026361662464","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:433808030656629760","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:433808034951597056","en":"Elite Challenge","ru":"Испытание элиты"}
+{"id":"explore:433808451563424768","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433809310556883968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433809740053613568","en":"Quarry","ru":"Каменоломня"}
+{"id":"explore:433809740053613824","en":"Increases daily output of <color=#3f892e>Hardrock</color> and <color=#3f892e>Silver</color> at the <color=#3f892e>Sky Iron Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>крепкого камня</color> и <color=#3f892e>серебра</color> <color=#3f892e>на руднике небесного железа</color>."}
+{"id":"explore:433809744348580864","en":"Mine","ru":"Шахта"}
+{"id":"explore:433809744348581120","en":"Increases daily output of <color=#3f892e>Sky Iron</color> at the <color=#3f892e>Sky Iron Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>небесного железа</color> <color=#3f892e>на руднике небесного железа</color>."}
+{"id":"explore:433809748643548160","en":"Feeding Ground","ru":"Кормушка"}
+{"id":"explore:433809748643548416","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Tattered Beast Hide</color> and <color=#3f892e>Fine Beast Hide</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>рваной шкуры зверя</color> и <color=#3f892e>хорошей шкуры зверя</color>1"}
+{"id":"explore:433810599047072768","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:433810603342040064","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"explore:433811028543802368","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433811032838769664","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433811037133736960","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433811041428704256","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433811045723671552","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433811050018638848","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433811054313606144","en":"Starlink","ru":"Звёздная связь"}
+{"id":"explore:433811458040531968","en":"Starvein Node","ru":"Узел звёздного потока"}
+{"id":"explore:433811887537261568","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433811891832228864","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433811896127196160","en":"Kibo Puzzle","ru":"Головоломка кибо"}
+{"id":"explore:433811900422163456","en":"Exploration Challenge","ru":"Испытание исследователя"}
+{"id":"explore:433811904717130752","en":"Umi Discovered","ru":"Уми найдена"}
+{"id":"explore:433811909012098048","en":"Rhythm of the Stars","ru":"Ритм звёзд"}

@@ -1,0 +1,1454 @@
+{"id":"shared:errorCode:0:0:_en_desc","en":"Operation successful","ru":"Операция выполнена успешно"}
+{"id":"shared:errorCode:100001:1452:_en_desc","en":"Party state error","ru":"Ошибка состояния отряда"}
+{"id":"shared:errorCode:100002:1453:_en_desc","en":"Party is changing targets","ru":"Отряд меняет цель"}
+{"id":"shared:errorCode:100003:1454:_en_desc","en":"Target is cooling down","ru":"Цель восстанавливается"}
+{"id":"shared:errorCode:10001:59:_en_desc","en":"No character created yet (special logic — do not use!!!!)","ru":"Персонаж ещё не создан (особая логика, не использовать!!!!)"}
+{"id":"shared:errorCode:10002:60:_en_desc","en":"Character already created.","ru":"Персонаж уже создан."}
+{"id":"shared:errorCode:10003:61:_en_desc","en":"Not logged in to gameserver yet","ru":"Вход на gameserver ещё не выполнен"}
+{"id":"shared:errorCode:10004:62:_en_desc","en":"Token verification failed","ru":"Ошибка проверки токена"}
+{"id":"shared:errorCode:10005:63:_en_desc","en":"Player already offline","ru":"Игрок уже офлайн"}
+{"id":"shared:errorCode:10006:64:_en_desc","en":"Player name limit reached","ru":"Достигнут лимит игроков с таким именем"}
+{"id":"shared:errorCode:10007:65:_en_desc","en":"Contains profanity","ru":"Содержит нецензурную лексику"}
+{"id":"shared:errorCode:10008:66:_en_desc","en":"Name contains invalid characters","ru":"Имя содержит недопустимые символы"}
+{"id":"shared:errorCode:10009:67:_en_desc","en":"Account banned","ru":"Аккаунт заблокирован"}
+{"id":"shared:errorCode:10010:68:_en_desc","en":"Initial data already customized","ru":"Начальные данные уже настроены"}
+{"id":"shared:errorCode:10011:69:_en_desc","en":"Invalid target","ru":"Недопустимая цель"}
+{"id":"shared:errorCode:10012:70:_en_desc","en":"Duplicate spirit consumed","ru":"Дублирующийся расходуемый дух"}
+{"id":"shared:errorCode:10013:71:_en_desc","en":"This spirit is already equipped","ru":"Этот дух уже экипирован"}
+{"id":"shared:errorCode:10014:72:_en_desc","en":"Spirit configuration does not exist","ru":"Конфигурация духа не существует"}
+{"id":"shared:errorCode:10015:73:_en_desc","en":"Insufficient items","ru":"Недостаточно предметов"}
+{"id":"shared:errorCode:10018:74:_en_desc","en":"Invalid parameter","ru":"Недопустимый параметр"}
+{"id":"shared:errorCode:10019:75:_en_desc","en":"This accessory is already equipped","ru":"Это украшение уже экипировано"}
+{"id":"shared:errorCode:1001:13:_en_desc","en":"Database system error","ru":"Ошибка системы базы данных"}
+{"id":"shared:errorCode:10020:76:_en_desc","en":"Accessory is at max level","ru":"Украшение достигло максимального уровня"}
+{"id":"shared:errorCode:10021:77:_en_desc","en":"This accessory is already locked","ru":"Это украшение уже заблокировано"}
+{"id":"shared:errorCode:10022:78:_en_desc","en":"Spirit is at max tier","ru":"Дух достиг максимального ранга"}
+{"id":"shared:errorCode:10023:79:_en_desc","en":"Spirit cannot be upgraded","ru":"Дух нельзя повысить"}
+{"id":"shared:errorCode:10024:80:_en_desc","en":"Spirit's max star level exceeded","ru":"Превышен максимальный уровень звёзд духа"}
+{"id":"shared:errorCode:10025:81:_en_desc","en":"Spirit has reached max experience","ru":"Дух достиг максимального опыта"}
+{"id":"shared:errorCode:10026:82:_en_desc","en":"Spirit does not exist","ru":"Дух не существует"}
+{"id":"shared:errorCode:10027:83:_en_desc","en":"Accessory does not exist","ru":"Украшение не существует"}
+{"id":"shared:errorCode:10028:84:_en_desc","en":"No configuration found for the corresponding accessory","ru":"Конфигурация для соответствующего украшения не найдена"}
+{"id":"shared:errorCode:10029:85:_en_desc","en":"Exceeds the maximum number of accessories the hero can wear","ru":"Превышено максимальное количество украшений, которое может носить герой"}
+{"id":"shared:errorCode:1002:14:_en_desc","en":"Game server system error","ru":"Системная ошибка игрового сервера"}
+{"id":"shared:errorCode:10030:86:_en_desc","en":"The accessory to be upgraded cannot be used as material","ru":"Украшение, которое нужно улучшить, нельзя использовать как материал"}
+{"id":"shared:errorCode:10031:87:_en_desc","en":"Spirit has no corresponding tier","ru":"У духа нет соответствующего ранга"}
+{"id":"shared:errorCode:10032:88:_en_desc","en":"Player level too low to upgrade spirit","ru":"Недостаточный уровень игрока для повышения духа"}
+{"id":"shared:errorCode:10033:89:_en_desc","en":"The spirit used for star-up is the same as the specified spirit","ru":"Дух для повышения звёзд совпадает с указанным духом"}
+{"id":"shared:errorCode:10034:90:_en_desc","en":"No star-up item configured for spirits of this rarity","ru":"Для духов этой редкости не настроен предмет повышения звёзд"}
+{"id":"shared:errorCode:10035:91:_en_desc","en":"This spirit is already locked","ru":"Этот дух уже заблокирован"}
+{"id":"shared:errorCode:10036:92:_en_desc","en":"This spirit is already equipped by a hero","ru":"Этот дух уже экипирован героем"}
+{"id":"shared:errorCode:10037:93:_en_desc","en":"No such spirit configuration in spirit table","ru":"В таблице духов нет такой конфигурации духа"}
+{"id":"shared:errorCode:10038:94:_en_desc","en":"No such currency type configuration in currency table","ru":"В таблице валют нет такой конфигурации валюты"}
+{"id":"shared:errorCode:10039:95:_en_desc","en":"Requested backpack item count is less than or equal to 0","ru":"Запрошенное количество предметов в рюкзаке меньше или равно 0"}
+{"id":"shared:errorCode:1003:15:_en_desc","en":"Battle server system error","ru":"Системная ошибка боевого сервера"}
+{"id":"shared:errorCode:10040:96:_en_desc","en":"Item type does not exist","ru":"Тип предмета не существует"}
+{"id":"shared:errorCode:10041:97:_en_desc","en":"Consumed spirit cannot be the same as the fused spirit","ru":"Расходуемый дух не может совпадать с объединяемым духом"}
+{"id":"shared:errorCode:10042:98:_en_desc","en":"Consumed spirit is locked","ru":"Расходуемый дух заблокирован"}
+{"id":"shared:errorCode:10043:99:_en_desc","en":"No consumed spirit configuration found for spirit fusion","ru":"Конфигурация расходуемого духа для слияния духов не найдена"}
+{"id":"shared:errorCode:10044:100:_en_desc","en":"Insufficient consumed spirits","ru":"Недостаточно расходуемых духов"}
+{"id":"shared:errorCode:10045:101:_en_desc","en":"No cost for spirit star-up","ru":"Нет затрат для повышения звёзд духа"}
+{"id":"shared:errorCode:10046:102:_en_desc","en":"No configuration found for equipment upgrade","ru":"Конфигурация для улучшения снаряжения не найдена"}
+{"id":"shared:errorCode:10047:103:_en_desc","en":"No configuration found for equipment destruction","ru":"Конфигурация для уничтожения снаряжения не найдена"}
+{"id":"shared:errorCode:10048:104:_en_desc","en":"Equipment score is maxed","ru":"Оценка снаряжения достигла максимума"}
+{"id":"shared:errorCode:10049:105:_en_desc","en":"Attunement parameter error","ru":"Ошибка параметра синхронизации"}
+{"id":"shared:errorCode:1004:16:_en_desc","en":"Cross-server interaction server system error","ru":"Системная ошибка сервера межсерверного взаимодействия"}
+{"id":"shared:errorCode:10050:106:_en_desc","en":"Contains invalid characters","ru":"Содержит недопустимые символы"}
+{"id":"shared:errorCode:10051:107:_en_desc","en":"Character length exceeds limit","ru":"Длина символов превышает лимит"}
+{"id":"shared:errorCode:10052:108:_en_desc","en":"Spirit consumed for star-up has a different ID from the main spirit","ru":"ID духа, расходуемого на повышение звёзд, отличается от ID основного духа"}
+{"id":"shared:errorCode:10053:109:_en_desc","en":"Some items exceeded the holding limit and were sent to your mail. Please check your mailbox.","ru":"Некоторые предметы превысили лимит хранения и были отправлены на почту. Проверьте почтовый ящик."}
+{"id":"shared:errorCode:10054:110:_en_desc","en":"You have been disconnected\\nReason: {0}","ru":"Соединение разорвано\\nПричина: {0}"}
+{"id":"shared:errorCode:10056:111:_en_desc","en":"You have been disconnected\\nReason: {0}","ru":"Соединение разорвано\\nПричина: {0}"}
+{"id":"shared:errorCode:10057:112:_en_desc","en":"Spirit backpack space is almost full. Please clean it up.","ru":"Место в рюкзаке духов почти закончилось. Освободите место."}
+{"id":"shared:errorCode:10058:113:_en_desc","en":"No valid cost provided for spirit upgrade","ru":"Не указана допустимая стоимость улучшения духа"}
+{"id":"shared:errorCode:10059:114:_en_desc","en":"Equipment backpack is almost full. Please clear it before proceeding.","ru":"Рюкзак снаряжения почти полон. Освободите место перед выполнением действия."}
+{"id":"shared:errorCode:1005:17:_en_desc","en":"System busy","ru":"Система занята"}
+{"id":"shared:errorCode:10060:115:_en_desc","en":"Gathering tool backpack is almost full. Please clear it before proceeding.","ru":"Рюкзак инструментов для сбора почти полон. Освободите место перед выполнением действия."}
+{"id":"shared:errorCode:10061:116:_en_desc","en":"Kibo egg backpack is almost full. Please clear it before proceeding.","ru":"Рюкзак яиц кибо почти полон. Освободите место перед выполнением действия."}
+{"id":"shared:errorCode:10062:117:_en_desc","en":"You can only hold 1 of this item","ru":"Этот предмет можно иметь только в количестве 1"}
+{"id":"shared:errorCode:10063:118:_en_desc","en":"Data overflow","ru":"Переполнение данных"}
+{"id":"shared:errorCode:10064:119:_en_desc","en":"No valid cost provided for spirit upgrade","ru":"Не указана допустимая стоимость улучшения духа"}
+{"id":"shared:errorCode:10065:120:_en_desc","en":"Cannot switch instances right now; a team member's backpack is full.","ru":"Сейчас нельзя сменить экземпляр: рюкзак одного из участников группы полон."}
+{"id":"shared:errorCode:10066:121:_en_desc","en":"Text cannot contain more than 6 digits","ru":"Текст не может содержать более 6 цифр"}
+{"id":"shared:errorCode:1006:18:_en_desc","en":"GM server system error","ru":"Системная ошибка GM-сервера"}
+{"id":"shared:errorCode:1007:19:_en_desc","en":"Game server configuration error","ru":"Ошибка конфигурации игрового сервера"}
+{"id":"shared:errorCode:1008:20:_en_desc","en":"Specified GameServer not found","ru":"Указанный GameServer не найден"}
+{"id":"shared:errorCode:1009:21:_en_desc","en":"Chat server system error","ru":"Системная ошибка сервера чата"}
+{"id":"shared:errorCode:100:2:_en_desc","en":"Unknown channel","ru":"Неизвестный канал"}
+{"id":"shared:errorCode:1010:22:_en_desc","en":"Recommended server system error","ru":"Системная ошибка сервера рекомендаций"}
+{"id":"shared:errorCode:10111:122:_en_desc","en":"Stamina exchange limit reached","ru":"Достигнут лимит обмена выносливости"}
+{"id":"shared:errorCode:10112:123:_en_desc","en":"Stamina is full","ru":"Выносливость заполнена"}
+{"id":"shared:errorCode:10113:124:_en_desc","en":"No such item in the general item table","ru":"В таблице общих предметов нет такого предмета"}
+{"id":"shared:errorCode:10114:125:_en_desc","en":"Quantity of consumed general items not sent","ru":"Не отправлено количество расходуемых общих предметов"}
+{"id":"shared:errorCode:10115:126:_en_desc","en":"Id of general item consumed for hero healing not sent","ru":"Не отправлен ID общего предмета, расходуемого на лечение героя"}
+{"id":"shared:errorCode:10116:127:_en_desc","en":"HP is full","ru":"Здоровье заполнено"}
+{"id":"shared:errorCode:10117:128:_en_desc","en":"Item backpack is full","ru":"Рюкзак предметов полон"}
+{"id":"shared:errorCode:10118:129:_en_desc","en":"Parameter error using general item","ru":"Ошибка параметра при использовании общего предмета"}
+{"id":"shared:errorCode:10119:130:_en_desc","en":"Diamond stamina purchase limit reached","ru":"Достигнут лимит покупки выносливости за алмазы"}
+{"id":"shared:errorCode:1011:23:_en_desc","en":"Server temporarily unreachable","ru":"Сервер временно недоступен"}
+{"id":"shared:errorCode:10120:131:_en_desc","en":"The selected item is not in this choice pack","ru":"Выбранного предмета нет в этом наборе на выбор"}
+{"id":"shared:errorCode:10121:132:_en_desc","en":"Choice pack contents are empty","ru":"Содержимое набора на выбор пусто"}
+{"id":"shared:errorCode:10122:133:_en_desc","en":"Quantity of exchange items not sent","ru":"Не отправлено количество обмениваемых предметов"}
+{"id":"shared:errorCode:10123:134:_en_desc","en":"Id of general item consumed for hero healing not sent","ru":"Не отправлен ID общего предмета, расходуемого на лечение героя"}
+{"id":"shared:errorCode:10124:135:_en_desc","en":"HP increased by 0","ru":"Здоровье увеличено на 0"}
+{"id":"shared:errorCode:10125:136:_en_desc","en":"Parameter error sending choice pack","ru":"Ошибка параметра при отправке набора на выбор"}
+{"id":"shared:errorCode:10126:137:_en_desc","en":"Character affinity not unlocked","ru":"Привязанность персонажа не разблокирована"}
+{"id":"shared:errorCode:10127:138:_en_desc","en":"This type is not supported by quick items","ru":"Этот тип не поддерживается быстрыми предметами"}
+{"id":"shared:errorCode:10128:139:_en_desc","en":"Quick item slot limit exceeded","ru":"Превышен лимит ячеек быстрых предметов"}
+{"id":"shared:errorCode:10129:140:_en_desc","en":"Quick item slot used more than once","ru":"Ячейка быстрого предмета использована повторно"}
+{"id":"shared:errorCode:1012:24:_en_desc","en":"Database not found","ru":"База данных не найдена"}
+{"id":"shared:errorCode:10130:141:_en_desc","en":"Equipment does not fit the mech girl's slot","ru":"Снаряжение не подходит для слота девочки-меха"}
+{"id":"shared:errorCode:10140:142:_en_desc","en":"Mail loading","ru":"Загрузка почты"}
+{"id":"shared:errorCode:101:3:_en_desc","en":"Verification failed","ru":"Проверка не пройдена"}
+{"id":"shared:errorCode:10202:143:_en_desc","en":"Prerequisite instance not unlocked","ru":"Предварительный экземпляр не разблокирован"}
+{"id":"shared:errorCode:10205:144:_en_desc","en":"IP banned","ru":"IP заблокирован"}
+{"id":"shared:errorCode:10206:145:_en_desc","en":"Player ID banned","ru":"ID игрока заблокирован"}
+{"id":"shared:errorCode:10207:146:_en_desc","en":"Device banned","ru":"Устройство заблокировано"}
+{"id":"shared:errorCode:10208:147:_en_desc","en":"Too many requests","ru":"Слишком много запросов"}
+{"id":"shared:errorCode:10209:148:_en_desc","en":"Link heartbeat timed out","ru":"Время ожидания контрольного сигнала соединения истекло"}
+{"id":"shared:errorCode:10210:149:_en_desc","en":"Cannot send other messages while logging in","ru":"Во время входа нельзя отправлять другие сообщения"}
+{"id":"shared:errorCode:10211:150:_en_desc","en":"Invalid reconnect token","ru":"Недействительный токен переподключения"}
+{"id":"shared:errorCode:10212:151:_en_desc","en":"Login verification failed","ru":"Не удалось подтвердить вход"}
+{"id":"shared:errorCode:10213:152:_en_desc","en":"Login verification timed out","ru":"Время ожидания подтверждения входа истекло"}
+{"id":"shared:errorCode:10214:153:_en_desc","en":"Failed to get player ID","ru":"Не удалось получить ID игрока"}
+{"id":"shared:errorCode:10215:154:_en_desc","en":"Token verification failed","ru":"Ошибка проверки токена"}
+{"id":"shared:errorCode:10216:155:_en_desc","en":"Token verification expired","ru":"Срок действия токена подтверждения истёк"}
+{"id":"shared:errorCode:10217:156:_en_desc","en":"Ban information verification failed","ru":"Не удалось проверить информацию о блокировке"}
+{"id":"shared:errorCode:10218:157:_en_desc","en":"Ban information expired","ru":"Срок действия информации о блокировке истёк"}
+{"id":"shared:errorCode:10219:158:_en_desc","en":"Rented pet has been taken down","ru":"Арендованное существо уже снято"}
+{"id":"shared:errorCode:1021:25:_en_desc","en":"Protocol ID does not exist","ru":"Идентификатор протокола не существует"}
+{"id":"shared:errorCode:10220:159:_en_desc","en":"Kibo has no mutation","ru":"У кибо нет мутации"}
+{"id":"shared:errorCode:10221:160:_en_desc","en":"Whitelist verification failed","ru":"Не удалось проверить белый список"}
+{"id":"shared:errorCode:10222:161:_en_desc","en":"Message length exceeds limit","ru":"Длина сообщения превышает лимит"}
+{"id":"shared:errorCode:10223:162:_en_desc","en":"Custom Kibo cannot mutate","ru":"Настраиваемый кибо не может мутировать"}
+{"id":"shared:errorCode:10224:163:_en_desc","en":"Client environment abnormal. Please check client integrity","ru":"Среда клиента неисправна. Проверьте целостность клиента"}
+{"id":"shared:errorCode:1022:26:_en_desc","en":"Incorrect protocol format","ru":"Неверный формат протокола"}
+{"id":"shared:errorCode:10230:164:_en_desc","en":"No matching outfit configuration found","ru":"Конфигурация наряда не найдена"}
+{"id":"shared:errorCode:10231:165:_en_desc","en":"No matching outfit part found","ru":"Часть наряда не найдена"}
+{"id":"shared:errorCode:10232:166:_en_desc","en":"Occupied part ID conflict","ru":"Конфликт занятого ID части"}
+{"id":"shared:errorCode:10233:167:_en_desc","en":"No matching color configuration found","ru":"Конфигурация расцветки не найдена"}
+{"id":"shared:errorCode:10234:168:_en_desc","en":"Outfit and weapon IDs cannot be 0","ru":"ID наряда и оружия не могут быть 0"}
+{"id":"shared:errorCode:10235:169:_en_desc","en":"Outfit part type error","ru":"Неверный тип части наряда"}
+{"id":"shared:errorCode:10236:170:_en_desc","en":"Outfit not unlocked","ru":"Наряд не разблокирован"}
+{"id":"shared:errorCode:1023:27:_en_desc","en":"Failed to pack response packet","ru":"Не удалось собрать пакет ответа"}
+{"id":"shared:errorCode:1024:28:_en_desc","en":"Invalid request packet parameters","ru":"Неверные параметры пакета запроса"}
+{"id":"shared:errorCode:10250:171:_en_desc","en":"Dungeon not open","ru":"Подземелье недоступно"}
+{"id":"shared:errorCode:10251:172:_en_desc","en":"Single-player dungeon ID does not exist","ru":"ID одиночного подземелья не существует"}
+{"id":"shared:errorCode:10252:173:_en_desc","en":"Invalid team lineup","ru":"Недопустимый состав отряда"}
+{"id":"shared:errorCode:10253:174:_en_desc","en":"Material dungeon not open","ru":"Подземелье материалов недоступно"}
+{"id":"shared:errorCode:10254:175:_en_desc","en":"Random dungeon ID does not exist","ru":"ID случайного подземелья не существует"}
+{"id":"shared:errorCode:10255:176:_en_desc","en":"Dungeon not cleared","ru":"Подземелье не пройдено"}
+{"id":"shared:errorCode:10256:177:_en_desc","en":"Failed to enter dungeon scene","ru":"Не удалось войти в сцену подземелья"}
+{"id":"shared:errorCode:10257:178:_en_desc","en":"Dungeon is missing scene configuration","ru":"У подземелья отсутствует конфигурация сцены"}
+{"id":"shared:errorCode:10258:179:_en_desc","en":"This dungeon has no such scene","ru":"В этом подземелье нет такой сцены"}
+{"id":"shared:errorCode:10259:180:_en_desc","en":"Commission configuration does not exist","ru":"Конфигурация поручения не существует"}
+{"id":"shared:errorCode:1025:29:_en_desc","en":"Invalid player ID. PlayerID must be >=10000 and below the maximum allowed by CenterServer.","ru":"Недопустимый идентификатор игрока. PlayerID должен быть >=10000 и меньше максимального значения, разрешённого CenterServer."}
+{"id":"shared:errorCode:10260:181:_en_desc","en":"Commission dungeon not unlocked","ru":"Подземелье поручения не разблокировано"}
+{"id":"shared:errorCode:10261:182:_en_desc","en":"Commission dungeon group not unlocked","ru":"Группа подземелий поручения не разблокирована"}
+{"id":"shared:errorCode:10262:183:_en_desc","en":"Commission dungeon difficulty not unlocked","ru":"Сложность подземелья поручения не разблокирована"}
+{"id":"shared:errorCode:10263:184:_en_desc","en":"Commission dungeon star-collection configuration does not exist","ru":"Конфигурация сбора звёзд подземелья поручения не существует"}
+{"id":"shared:errorCode:10264:185:_en_desc","en":"Commission dungeon star-collection reward already claimed","ru":"Награда за сбор звёзд подземелья поручения уже получена"}
+{"id":"shared:errorCode:10265:186:_en_desc","en":"Commission dungeon star-collection not reached","ru":"Сбор звёзд подземелья поручения не достигнут"}
+{"id":"shared:errorCode:10266:187:_en_desc","en":"Commission feature not yet open","ru":"Функция поручений пока недоступна"}
+{"id":"shared:errorCode:10267:188:_en_desc","en":"Not within dungeon open hours","ru":"Вне времени доступности подземелья"}
+{"id":"shared:errorCode:10268:189:_en_desc","en":"Dungeon type error","ru":"Неверный тип подземелья"}
+{"id":"shared:errorCode:10269:190:_en_desc","en":"Multiplayer dungeon ID does not exist","ru":"ID многопользовательского подземелья не существует"}
+{"id":"shared:errorCode:1026:30:_en_desc","en":"Unable to log in right now. Please try again in 1 minutes","ru":"Вход временно невозможен. Повторите попытку через 1 мин."}
+{"id":"shared:errorCode:10270:191:_en_desc","en":"Dungeon group ID does not exist","ru":"ID группы подземелий не существует"}
+{"id":"shared:errorCode:10271:192:_en_desc","en":"Cannot obtain dungeon configuration from group and difficulty","ru":"Не удалось получить конфигурацию подземелья по группе и сложности"}
+{"id":"shared:errorCode:10272:193:_en_desc","en":"Player does not meet dungeon group conditions","ru":"Игрок не соответствует условиям группы подземелий"}
+{"id":"shared:errorCode:10273:194:_en_desc","en":"Dungeon is missing random scene configuration","ru":"У подземелья отсутствует конфигурация случайных сцен"}
+{"id":"shared:errorCode:10274:195:_en_desc","en":"Commission ID does not exist","ru":"ID поручения не существует"}
+{"id":"shared:errorCode:10275:196:_en_desc","en":"Current map is invalid. Cannot re-enter commission dungeon","ru":"Текущая карта недействительна. Повторный вход в подземелье поручения невозможен"}
+{"id":"shared:errorCode:10276:197:_en_desc","en":"Not currently in a commission dungeon. Cannot re-enter commission dungeon","ru":"Вы не в подземелье поручения. Повторный вход в подземелье поручения невозможен"}
+{"id":"shared:errorCode:10277:198:_en_desc","en":"Current commission dungeon does not match. Cannot re-enter","ru":"Текущее подземелье поручения не совпадает. Повторный вход невозможен"}
+{"id":"shared:errorCode:10278:199:_en_desc","en":"Invalid map","ru":"Недействительная карта"}
+{"id":"shared:errorCode:10279:200:_en_desc","en":"Not currently in a dungeon map","ru":"Вы не на карте подземелья"}
+{"id":"shared:errorCode:1027:31:_en_desc","en":"No player exists with that nickname","ru":"Игрок с таким ником не существует"}
+{"id":"shared:errorCode:10280:201:_en_desc","en":"Invalid nest level_id","ru":"Недействительный level_id гнезда"}
+{"id":"shared:errorCode:10281:202:_en_desc","en":"Nest star rating requirement not met","ru":"Требование по звёздам гнезда не выполнено"}
+{"id":"shared:errorCode:10282:203:_en_desc","en":"Nest summon parameter error (invalid summon type, source_pet_id does not exist)","ru":"Ошибка параметров призыва гнезда (неверный тип призыва, source_pet_id не существует)"}
+{"id":"shared:errorCode:10283:204:_en_desc","en":"Nest summon logic error (player does not exist, pet configuration does not exist)","ru":"Ошибка логики призыва гнезда (игрок не существует, конфигурация существа не существует)"}
+{"id":"shared:errorCode:10284:205:_en_desc","en":"Nest summon count limit","ru":"Ограничение количества призывов гнезда"}
+{"id":"shared:errorCode:10285:206:_en_desc","en":"Nest summon cost limit","ru":"Ограничение стоимости призыва гнезда"}
+{"id":"shared:errorCode:10286:207:_en_desc","en":"Nest summon hand order limit","ru":"Ограничение порядка карт в руке при призыве гнезда"}
+{"id":"shared:errorCode:10287:208:_en_desc","en":"Nest summon can only replace a self-summoned Kibo when there is no summon target on the field and the summon count is full","ru":"Призыв гнезда может заменить призванного вами кибо, только когда на поле нет цели призыва и достигнут предел призывов"}
+{"id":"shared:errorCode:10288:209:_en_desc","en":"Map gameplay state restriction","ru":"Ограничение состояния игрового режима на карте"}
+{"id":"shared:errorCode:10289:210:_en_desc","en":"Nest summon area restriction","ru":"Ограничение зоны призыва гнезда"}
+{"id":"shared:errorCode:1028:32:_en_desc","en":"No player exists with that PlayerID","ru":"Игрок с таким PlayerID не существует"}
+{"id":"shared:errorCode:10290:211:_en_desc","en":"Nest team size restriction","ru":"Ограничение размера отряда гнезда"}
+{"id":"shared:errorCode:10291:212:_en_desc","en":"Nest not opened","ru":"Гнездо не открыто"}
+{"id":"shared:errorCode:10292:213:_en_desc","en":"Nest already completed","ru":"Гнездо уже пройдено"}
+{"id":"shared:errorCode:10293:214:_en_desc","en":"Nest tutorial stage restriction","ru":"Ограничение обучающего этапа гнезда"}
+{"id":"shared:errorCode:10294:215:_en_desc","en":"Nest challenge in progress","ru":"Испытание гнезда уже идёт"}
+{"id":"shared:errorCode:10295:216:_en_desc","en":"Nest guidance restricts joining a team","ru":"Руководство гнезда запрещает присоединение к отряду"}
+{"id":"shared:errorCode:10296:217:_en_desc","en":"Bomb-pass target is already dead","ru":"Цель передачи бомбы уже мертва"}
+{"id":"shared:errorCode:10297:218:_en_desc","en":"Protocol parameter error","ru":"Ошибка параметров протокола"}
+{"id":"shared:errorCode:10298:219:_en_desc","en":"Server code logic error","ru":"Ошибка логики серверного кода"}
+{"id":"shared:errorCode:10299:220:_en_desc","en":"Player does not hold the bomb","ru":"У игрока нет бомбы"}
+{"id":"shared:errorCode:1029:33:_en_desc","en":"Invalid logic","ru":"Неверная логика"}
+{"id":"shared:errorCode:102:4:_en_desc","en":"Timed out","ru":"Время ожидания истекло"}
+{"id":"shared:errorCode:10300:221:_en_desc","en":"Bomb-pass target does not exist","ru":"Цель передачи бомбы не существует"}
+{"id":"shared:errorCode:10301:222:_en_desc","en":"Bomb-pass distance restriction","ru":"Ограничение дистанции передачи бомбы"}
+{"id":"shared:errorCode:10302:223:_en_desc","en":"Bomb Splash gameplay state restriction","ru":"Ограничение состояния режима «Бомба-всплеск»"}
+{"id":"shared:errorCode:10303:224:_en_desc","en":"Bomb Splash player state restriction","ru":"Ограничение состояния игрока в «Бомба-всплеске»"}
+{"id":"shared:errorCode:10304:225:_en_desc","en":"Bomb pass on cooldown","ru":"Передача бомбы на перезарядке"}
+{"id":"shared:errorCode:10305:226:_en_desc","en":"Bomb Splash skill card cooldown restriction","ru":"Ограничение перезарядки карты навыка «Бомба-всплеска»"}
+{"id":"shared:errorCode:10306:227:_en_desc","en":"Bomb Splash skill card distance restriction","ru":"Ограничение дистанции карты навыка «Бомба-всплеска»"}
+{"id":"shared:errorCode:10307:228:_en_desc","en":"Bomb Splash player skill does not exist","ru":"Навык игрока в «Бомба-всплеске» не существует"}
+{"id":"shared:errorCode:10308:229:_en_desc","en":"Bomb Splash player skill on cooldown","ru":"Навык игрока в «Бомба-всплеске» на перезарядке"}
+{"id":"shared:errorCode:10309:230:_en_desc","en":"Bomb Splash skill use count limit","ru":"Ограничение числа использований навыка в «Бомба-всплеске»"}
+{"id":"shared:errorCode:1030:34:_en_desc","en":"Invalid target","ru":"Неверная цель"}
+{"id":"shared:errorCode:10310:231:_en_desc","en":"Bomb Splash matchmaking time restriction","ru":"Ограничение времени подбора в «Бомба-всплеске»"}
+{"id":"shared:errorCode:10311:232:_en_desc","en":"Bomb Splash AFK matchmaking ban","ru":"Бан за бездействие в «Бомба-всплеске»"}
+{"id":"shared:errorCode:10312:233:_en_desc","en":"Multiplayer main city area is full","ru":"Область многопользовательского главного города заполнена"}
+{"id":"shared:errorCode:10313:234:_en_desc","en":"Multiplayer main city shard has been destroyed","ru":"Сегмент многопользовательского главного города уничтожен"}
+{"id":"shared:errorCode:10314:235:_en_desc","en":"Trial stage has no trial character configured","ru":"Для испытательного этапа не настроен пробный персонаж"}
+{"id":"shared:errorCode:10315:236:_en_desc","en":"Not in a trial stage. Cannot restart","ru":"Вы не на испытательном этапе. Перезапуск невозможен"}
+{"id":"shared:errorCode:10316:237:_en_desc","en":"Invalid stage configuration","ru":"Недействительная конфигурация этапа"}
+{"id":"shared:errorCode:10317:238:_en_desc","en":"Prerequisites not met","ru":"Предварительные условия не выполнены"}
+{"id":"shared:errorCode:10318:239:_en_desc","en":"Stage mismatch. Cannot adjust","ru":"Этап не совпадает. Изменение невозможно"}
+{"id":"shared:errorCode:10319:240:_en_desc","en":"No selection has been made; cannot start the challenge","ru":"Выбор не сделан, начать испытание невозможно"}
+{"id":"shared:errorCode:1031:35:_en_desc","en":"Channel does not exist","ru":"Канал не существует"}
+{"id":"shared:errorCode:10320:241:_en_desc","en":"The selected trial does not match the current challenge","ru":"Выбранное испытание не соответствует текущему испытанию"}
+{"id":"shared:errorCode:10321:242:_en_desc","en":"Stage trials are unavailable at the current phase","ru":"На текущем этапе испытания уровней недоступны"}
+{"id":"shared:errorCode:10322:243:_en_desc","en":"This trial stage cannot be selected","ru":"Этот уровень испытания нельзя выбрать"}
+{"id":"shared:errorCode:10323:244:_en_desc","en":"Trial stage selected","ru":"Уровень испытания выбран"}
+{"id":"shared:errorCode:10324:245:_en_desc","en":"Sweep is not available until cleared","ru":"Зачистка недоступна до прохождения"}
+{"id":"shared:errorCode:10325:246:_en_desc","en":"Sweep requirements not yet met","ru":"Условия зачистки ещё не выполнены"}
+{"id":"shared:errorCode:10326:247:_en_desc","en":"Wave count cannot be changed for this stage","ru":"Для этого уровня нельзя изменить число волн"}
+{"id":"shared:errorCode:10327:248:_en_desc","en":"Wave count cannot be changed for this stage type","ru":"Для этого типа уровня нельзя изменить число волн"}
+{"id":"shared:errorCode:10328:249:_en_desc","en":"Wave change is invalid","ru":"Изменение волн недействительно"}
+{"id":"shared:errorCode:10329:250:_en_desc","en":"Battle type does not exist","ru":"Тип боя не существует"}
+{"id":"shared:errorCode:1032:36:_en_desc","en":"Invalid time","ru":"Неверное время"}
+{"id":"shared:errorCode:10330:251:_en_desc","en":"Already in a team","ru":"Уже в отряде"}
+{"id":"shared:errorCode:10331:252:_en_desc","en":"Not in any team","ru":"Не состоит ни в одном отряде"}
+{"id":"shared:errorCode:10332:253:_en_desc","en":"That team does not exist","ru":"Такого отряда не существует"}
+{"id":"shared:errorCode:10333:254:_en_desc","en":"Team is full","ru":"Отряд заполнен"}
+{"id":"shared:errorCode:10334:255:_en_desc","en":"Not the team leader","ru":"Не лидер отряда"}
+{"id":"shared:errorCode:10335:256:_en_desc","en":"Not everyone in the team is ready","ru":"Не все в отряде готовы"}
+{"id":"shared:errorCode:10336:257:_en_desc","en":"Invitation was declined","ru":"Приглашение отклонено"}
+{"id":"shared:errorCode:10337:258:_en_desc","en":"Not in a stage","ru":"Не находится на уровне"}
+{"id":"shared:errorCode:10338:259:_en_desc","en":"Cannot enter battle","ru":"Не удаётся войти в бой"}
+{"id":"shared:errorCode:10339:260:_en_desc","en":"Invalid battle","ru":"Недействительный бой"}
+{"id":"shared:errorCode:1033:37:_en_desc","en":"Invalid request","ru":"Неверный запрос"}
+{"id":"shared:errorCode:10340:261:_en_desc","en":"Player is not in the scene","ru":"Игрок не находится на сцене"}
+{"id":"shared:errorCode:10341:262:_en_desc","en":"Player is not in the homestead","ru":"Игрок не находится в поместье"}
+{"id":"shared:errorCode:10342:263:_en_desc","en":"Cannot find the player's homestead scene manager","ru":"Не удаётся найти менеджер сцены поместья игрока"}
+{"id":"shared:errorCode:10343:264:_en_desc","en":"Homestead building not found","ru":"Постройка поместья не найдена"}
+{"id":"shared:errorCode:10344:265:_en_desc","en":"Homestead building cannot be upgraded","ru":"Постройку поместья нельзя улучшить"}
+{"id":"shared:errorCode:10345:266:_en_desc","en":"Homestead building cannot be built","ru":"Постройку поместья нельзя построить"}
+{"id":"shared:errorCode:10346:267:_en_desc","en":"Homestead building state mismatch","ru":"Состояние постройки поместья не совпадает"}
+{"id":"shared:errorCode:10347:268:_en_desc","en":"Homestead building cannot be moved","ru":"Постройку поместья нельзя переместить"}
+{"id":"shared:errorCode:10348:269:_en_desc","en":"Failed to load homestead production configuration","ru":"Не удалось загрузить конфигурацию производства поместья"}
+{"id":"shared:errorCode:10349:270:_en_desc","en":"Homestead production quantity is empty","ru":"Количество производства поместья пусто"}
+{"id":"shared:errorCode:1034:38:_en_desc","en":"Request expired","ru":"Запрос устарел"}
+{"id":"shared:errorCode:10350:271:_en_desc","en":"Homestead production has a completed quantity","ru":"В производстве поместья есть завершённое количество"}
+{"id":"shared:errorCode:10351:272:_en_desc","en":"Homestead production request did not include a quantity","ru":"В запросе производства поместья не указано количество"}
+{"id":"shared:errorCode:10352:273:_en_desc","en":"Homestead canteen production configuration error","ru":"Ошибка конфигурации производства столовой поместья"}
+{"id":"shared:errorCode:10353:274:_en_desc","en":"Homestead production requires a pet assigned","ru":"Для производства в поместье требуется питомец"}
+{"id":"shared:errorCode:10354:275:_en_desc","en":"Not enough homestead quick slots","ru":"Недостаточно ячеек быстрого доступа поместья"}
+{"id":"shared:errorCode:10355:276:_en_desc","en":"Saddle already owned","ru":"Седло уже есть"}
+{"id":"shared:errorCode:10356:277:_en_desc","en":"Homestead building count exceeds the allowed limit","ru":"Число построек поместья превышает допустимый предел"}
+{"id":"shared:errorCode:10357:278:_en_desc","en":"Facility not unlocked","ru":"Объект не разблокирован"}
+{"id":"shared:errorCode:10358:279:_en_desc","en":"System not unlocked","ru":"Система не разблокирована"}
+{"id":"shared:errorCode:10359:280:_en_desc","en":"Production quantity exceeds the limit","ru":"Количество производства превышает предел"}
+{"id":"shared:errorCode:1035:39:_en_desc","en":"This server is full and cannot accept new registrations","ru":"Сервер заполнен, регистрация новых аккаунтов невозможна"}
+{"id":"shared:errorCode:10360:281:_en_desc","en":"Research in progress","ru":"Исследование в процессе"}
+{"id":"shared:errorCode:10361:282:_en_desc","en":"Insufficient resources","ru":"Недостаточно ресурсов"}
+{"id":"shared:errorCode:10362:283:_en_desc","en":"Homestead tech configuration not found","ru":"Конфигурация технологий поместья не найдена"}
+{"id":"shared:errorCode:10363:284:_en_desc","en":"Locked","ru":"Не разблокировано"}
+{"id":"shared:errorCode:10364:285:_en_desc","en":"Not researched","ru":"Не исследовано"}
+{"id":"shared:errorCode:10365:286:_en_desc","en":"Research already completed","ru":"Исследование уже завершено"}
+{"id":"shared:errorCode:10366:287:_en_desc","en":"Insufficient configuration","ru":"Недостаточно конфигурации"}
+{"id":"shared:errorCode:10367:288:_en_desc","en":"Building type mismatch","ru":"Тип постройки не совпадает"}
+{"id":"shared:errorCode:10368:289:_en_desc","en":"Building configuration not found","ru":"Конфигурация постройки не найдена"}
+{"id":"shared:errorCode:10369:290:_en_desc","en":"No one in the room","ru":"В комнате никого нет"}
+{"id":"shared:errorCode:1036:40:_en_desc","en":"New protocol sent before previous response","ru":"Новый протокол отправлен до получения ответа"}
+{"id":"shared:errorCode:10370:291:_en_desc","en":"Homestead production equipment requires a specified Kibo buff","ru":"Оборудованию производства поместья требуется указанный бонус кибо"}
+{"id":"shared:errorCode:10371:292:_en_desc","en":"Kibo score for homestead production equipment is too low","ru":"Рейтинг кибо для оборудования производства поместья слишком низок"}
+{"id":"shared:errorCode:10373:293:_en_desc","en":"Canteen supplies insufficient","ru":"Недостаточно припасов столовой"}
+{"id":"shared:errorCode:10374:294:_en_desc","en":"Canteen is already running","ru":"Столовая уже работает"}
+{"id":"shared:errorCode:10375:295:_en_desc","en":"Resident configuration not found","ru":"Конфигурация жителя не найдена"}
+{"id":"shared:errorCode:10376:296:_en_desc","en":"Population data not found","ru":"Данные о населении не найдены"}
+{"id":"shared:errorCode:10377:297:_en_desc","en":"Recruitment time not reached","ru":"Время найма ещё не наступило"}
+{"id":"shared:errorCode:10378:298:_en_desc","en":"Insufficient workers","ru":"Недостаточно работников"}
+{"id":"shared:errorCode:10379:299:_en_desc","en":"Room ID mismatch","ru":"Идентификатор комнаты не совпадает"}
+{"id":"shared:errorCode:1037:41:_en_desc","en":"Protocols sent too quickly","ru":"Протоколы отправляются слишком быстро"}
+{"id":"shared:errorCode:10387:300:_en_desc","en":"Homestead building cannot be stored","ru":"Постройку поместья нельзя убрать в хранилище"}
+{"id":"shared:errorCode:10388:301:_en_desc","en":"Dormitory area already unlocked","ru":"Зона общежития уже разблокирована"}
+{"id":"shared:errorCode:10389:302:_en_desc","en":"Character is already in the dormitory","ru":"Персонаж уже в общежитии"}
+{"id":"shared:errorCode:1038:42:_en_desc","en":"Frontend requested to restart the login flow","ru":"Требуется повторный вход через клиент"}
+{"id":"shared:errorCode:10390:303:_en_desc","en":"Homestead level too low","ru":"Уровень поместья слишком низок"}
+{"id":"shared:errorCode:10391:304:_en_desc","en":"Homestead level reward already claimed","ru":"Награда за уровень поместья уже получена"}
+{"id":"shared:errorCode:10392:305:_en_desc","en":"Homestead level configuration not found","ru":"Конфигурация уровня поместья не найдена"}
+{"id":"shared:errorCode:1039:43:_en_desc","en":"Decryption failed","ru":"Ошибка расшифровки"}
+{"id":"shared:errorCode:103:5:_en_desc","en":"Banned","ru":"Заблокировано"}
+{"id":"shared:errorCode:10401:306:_en_desc","en":"Purchase failed","ru":"Ошибка покупки"}
+{"id":"shared:errorCode:10402:307:_en_desc","en":"Canteen production failed","ru":"Производство в столовой не удалось"}
+{"id":"shared:errorCode:10403:308:_en_desc","en":"Building is not producing","ru":"Постройка не производит"}
+{"id":"shared:errorCode:10404:309:_en_desc","en":"Canteen item mismatch","ru":"Предмет столовой не совпадает"}
+{"id":"shared:errorCode:10405:310:_en_desc","en":"Canteen configuration not found","ru":"Конфигурация столовой не найдена"}
+{"id":"shared:errorCode:10406:311:_en_desc","en":"Canteen cannot produce this item","ru":"Столовая не может произвести этот предмет"}
+{"id":"shared:errorCode:10407:312:_en_desc","en":"The person in charge is already working","ru":"Ответственный уже работает"}
+{"id":"shared:errorCode:1040:44:_en_desc","en":"Incorrect message seqno","ru":"Неверный seqno сообщения"}
+{"id":"shared:errorCode:10412:313:_en_desc","en":"Pet cannot start the next work round","ru":"Питомец не может начать следующий рабочий цикл"}
+{"id":"shared:errorCode:10413:314:_en_desc","en":"Pet is being assigned","ru":"Питомец назначается"}
+{"id":"shared:errorCode:10414:315:_en_desc","en":"Invalid pet work state","ru":"Недопустимое рабочее состояние питомца"}
+{"id":"shared:errorCode:10415:316:_en_desc","en":"Pet is not working","ru":"Питомец не работает"}
+{"id":"shared:errorCode:10416:317:_en_desc","en":"Hero is not in the dormitory","ru":"Герой не в общежитии"}
+{"id":"shared:errorCode:10417:318:_en_desc","en":"Gathering attempts have reached the limit","ru":"Число сборов достигло предела"}
+{"id":"shared:errorCode:10418:319:_en_desc","en":"Planting plot: data sent by the grid is empty","ru":"Участок посадки: данные от сетки пусты"}
+{"id":"shared:errorCode:10419:320:_en_desc","en":"Invalid plot","ru":"Недействительный участок"}
+{"id":"shared:errorCode:1041:45:_en_desc","en":"Platform authentication failed","ru":"Ошибка аутентификации платформы"}
+{"id":"shared:errorCode:10420:321:_en_desc","en":"Active quest not completed","ru":"Активное задание не выполнено"}
+{"id":"shared:errorCode:10421:322:_en_desc","en":"Pet is working","ru":"Питомец работает"}
+{"id":"shared:errorCode:10422:323:_en_desc","en":"A working pet is required","ru":"Требуется рабочий питомец"}
+{"id":"shared:errorCode:10423:324:_en_desc","en":"Pet does not match the building","ru":"Питомец не подходит для постройки"}
+{"id":"shared:errorCode:10424:325:_en_desc","en":"No matching seeds","ru":"Нет подходящих семян"}
+{"id":"shared:errorCode:10425:326:_en_desc","en":"Not enough seeds","ru":"Недостаточно семян"}
+{"id":"shared:errorCode:10426:327:_en_desc","en":"Incorrect quick slot type","ru":"Неверный тип ячейки быстрого доступа"}
+{"id":"shared:errorCode:10427:328:_en_desc","en":"Invalid quick slot parameter","ru":"Неверный параметр ячейки быстрого доступа"}
+{"id":"shared:errorCode:10428:329:_en_desc","en":"Incorrect building ID","ru":"Неверный идентификатор постройки"}
+{"id":"shared:errorCode:10429:330:_en_desc","en":"Incorrect seed ID","ru":"Неверный идентификатор семени"}
+{"id":"shared:errorCode:1042:46:_en_desc","en":"zoneId stored in db does not match zoneId sent by gs","ru":"zoneId в базе данных не совпадает с zoneId, отправленным gs"}
+{"id":"shared:errorCode:10430:331:_en_desc","en":"Production queue is full","ru":"Очередь производства заполнена"}
+{"id":"shared:errorCode:10431:332:_en_desc","en":"Invalid planting parameters","ru":"Неверные параметры посадки"}
+{"id":"shared:errorCode:10432:333:_en_desc","en":"Invalid building upgrade parameters","ru":"Неверные параметры улучшения здания"}
+{"id":"shared:errorCode:10433:334:_en_desc","en":"Failed to load the open world scene","ru":"Не удалось загрузить сцену открытого мира"}
+{"id":"shared:errorCode:10434:335:_en_desc","en":"Fixed fields cannot be moved","ru":"Закреплённые поля нельзя перемещать"}
+{"id":"shared:errorCode:10435:336:_en_desc","en":"Fixed field count exceeds the limit","ru":"Количество закреплённых полей превышает лимит"}
+{"id":"shared:errorCode:10436:337:_en_desc","en":"Fields cannot be disabled","ru":"Поля нельзя отключить"}
+{"id":"shared:errorCode:10437:338:_en_desc","en":"Seed storage is full","ru":"Хранилище семян заполнено"}
+{"id":"shared:errorCode:1043:47:_en_desc","en":"Server version is outdated","ru":"Версия сервера устарела"}
+{"id":"shared:errorCode:10440:339:_en_desc","en":"Hero attunement limit reached","ru":"Достигнут лимит настройки героя"}
+{"id":"shared:errorCode:10441:340:_en_desc","en":"Invalid hero attunement configuration","ru":"Неверная конфигурация настройки героя"}
+{"id":"shared:errorCode:1044:48:_en_desc","en":"Feature temporarily disabled","ru":"Функция временно отключена"}
+{"id":"shared:errorCode:1045:49:_en_desc","en":"Invalid branch","ru":"Неверная ветвь"}
+{"id":"shared:errorCode:104:6:_en_desc","en":"Server under maintenance","ru":"Сервер на техобслуживании"}
+{"id":"shared:errorCode:10500:341:_en_desc","en":"Invalid roguelike refresh configuration","ru":"Неверная конфигурация обновления в режиме рогалика"}
+{"id":"shared:errorCode:10501:342:_en_desc","en":"Roguelike refresh limit for this type reached","ru":"Достигнут лимит обновлений этого типа в режиме рогалика"}
+{"id":"shared:errorCode:10502:343:_en_desc","en":"Invalid roguelike refresh type","ru":"Неверный тип обновления в режиме рогалика"}
+{"id":"shared:errorCode:10504:344:_en_desc","en":"Roguelike refresh count configuration is empty","ru":"Количество обновлений в конфигурации рогалика не задано"}
+{"id":"shared:errorCode:10505:345:_en_desc","en":"Not a roguelike rest node","ru":"Это не узел отдыха в режиме рогалика"}
+{"id":"shared:errorCode:10506:346:_en_desc","en":"No free healing effect available","ru":"Нет доступного бесплатного эффекта восстановления здоровья"}
+{"id":"shared:errorCode:10507:347:_en_desc","en":"Roguelike relic shop is locked","ru":"Магазин реликвий в режиме рогалика заблокирован"}
+{"id":"shared:errorCode:10550:348:_en_desc","en":"Failed to claim quest reward","ru":"Не удалось получить награду за задание"}
+{"id":"shared:errorCode:10551:349:_en_desc","en":"Rental reward is empty","ru":"Награда за аренду отсутствует"}
+{"id":"shared:errorCode:10552:350:_en_desc","en":"Rental reward claim limit reached","ru":"Достигнут лимит получения награды за аренду"}
+{"id":"shared:errorCode:10553:351:_en_desc","en":"Invalid pet auto-work plot","ru":"Неверный участок для автоматической работы питомца"}
+{"id":"shared:errorCode:10554:352:_en_desc","en":"Pet talent mismatch","ru":"Талант питомца не соответствует"}
+{"id":"shared:errorCode:10555:353:_en_desc","en":"No rewards available to claim from pet auto-work","ru":"Нет наград за автоматическую работу питомца"}
+{"id":"shared:errorCode:10556:354:_en_desc","en":"Production has not started","ru":"Производство не начато"}
+{"id":"shared:errorCode:10557:355:_en_desc","en":"Too many pets released at once","ru":"Слишком много питомцев отпущено за раз"}
+{"id":"shared:errorCode:10558:356:_en_desc","en":"Too many pet eggs released at once","ru":"Слишком много яиц питомцев отпущено за раз"}
+{"id":"shared:errorCode:10559:357:_en_desc","en":"Special Kibo cannot be released","ru":"Особых кибо нельзя отпускать"}
+{"id":"shared:errorCode:10560:358:_en_desc","en":"Kibo is currently carried by a hero","ru":"кибо в данный момент несёт герой"}
+{"id":"shared:errorCode:10561:359:_en_desc","en":"Kibo is in the mount wheel","ru":"кибо находится в колесе скакунов"}
+{"id":"shared:errorCode:10562:360:_en_desc","en":"Kibo cabin is locked","ru":"Домик кибо заблокирован"}
+{"id":"shared:errorCode:10563:361:_en_desc","en":"Kibo cabin does not exist","ru":"Домика кибо не существует"}
+{"id":"shared:errorCode:10564:362:_en_desc","en":"Not all Kibo cabins can be locked","ru":"Нельзя заблокировать все домики кибо"}
+{"id":"shared:errorCode:10565:363:_en_desc","en":"Collecting","ru":"Идёт сбор"}
+{"id":"shared:errorCode:10566:364:_en_desc","en":"This plot already has another farming cabin","ru":"На этом участке уже есть другая фермерская хижина"}
+{"id":"shared:errorCode:10567:365:_en_desc","en":"Pets cannot plant on this plot","ru":"Питомцы не могут сажать на этом участке"}
+{"id":"shared:errorCode:10568:366:_en_desc","en":"Neither pet box can be empty","ru":"Ни одна из ячеек для питомцев не может быть пустой"}
+{"id":"shared:errorCode:10569:367:_en_desc","en":"Kibo tier configuration does not exist","ru":"Конфигурация ранга кибо не существует"}
+{"id":"shared:errorCode:10570:368:_en_desc","en":"Invalid home hub position","ru":"Неверная позиция центра усадьбы"}
+{"id":"shared:errorCode:10571:369:_en_desc","en":"Home hub is full","ru":"Центр усадьбы заполнен"}
+{"id":"shared:errorCode:10572:370:_en_desc","en":"Home building construction parameters are empty","ru":"Параметры строительства здания усадьбы не заданы"}
+{"id":"shared:errorCode:10573:371:_en_desc","en":"Home building upgrade requirements not met","ru":"Условия улучшения здания усадьбы не выполнены"}
+{"id":"shared:errorCode:10574:372:_en_desc","en":"Home building upgrade requirements not met","ru":"Условия улучшения здания усадьбы не выполнены"}
+{"id":"shared:errorCode:10575:373:_en_desc","en":"Cannot find next-level home building ID","ru":"Не удалось найти ID здания усадьбы следующего уровня"}
+{"id":"shared:errorCode:10576:374:_en_desc","en":"Home building is empty","ru":"Здание усадьбы отсутствует"}
+{"id":"shared:errorCode:10577:375:_en_desc","en":"Invalid home building production completion parameters","ru":"Неверные параметры завершения производства здания усадьбы"}
+{"id":"shared:errorCode:10578:376:_en_desc","en":"Home building not found or invalid GUID parameter","ru":"Здание усадьбы не найдено или неверный параметр GUID"}
+{"id":"shared:errorCode:10579:377:_en_desc","en":"Home building production is not complete","ru":"Производство здания усадьбы не завершено"}
+{"id":"shared:errorCode:10580:378:_en_desc","en":"Failed to load home building production configuration","ru":"Не удалось загрузить конфигурацию производства здания усадьбы"}
+{"id":"shared:errorCode:10581:379:_en_desc","en":"Home building quantity limit reached; cannot place","ru":"Достигнут лимит количества зданий усадьбы; размещение невозможно"}
+{"id":"shared:errorCode:10582:380:_en_desc","en":"Cannot place home building","ru":"Невозможно разместить здание усадьбы"}
+{"id":"shared:errorCode:10583:381:_en_desc","en":"Home building production configuration not found","ru":"Конфигурация производства здания усадьбы не найдена"}
+{"id":"shared:errorCode:10584:382:_en_desc","en":"Home building group configuration not found","ru":"Конфигурация группы зданий усадьбы не найдена"}
+{"id":"shared:errorCode:10585:383:_en_desc","en":"Home building and production group configurations do not match","ru":"Конфигурации здания усадьбы и производственной группы не совпадают"}
+{"id":"shared:errorCode:10586:384:_en_desc","en":"All home production is complete","ru":"Всё производство в усадьбе завершено"}
+{"id":"shared:errorCode:10587:385:_en_desc","en":"Home building placement limit reached","ru":"Достигнут лимит размещения зданий усадьбы"}
+{"id":"shared:errorCode:10589:386:_en_desc","en":"Saddle configuration not found","ru":"Конфигурация седла не найдена"}
+{"id":"shared:errorCode:10590:387:_en_desc","en":"This home building has no smelting function","ru":"У этого здания усадьбы нет функции плавки"}
+{"id":"shared:errorCode:10591:388:_en_desc","en":"Smelting limit value is set to 0","ru":"Значение лимита плавки задано как 0"}
+{"id":"shared:errorCode:10592:389:_en_desc","en":"This Kibo has reached its daily affinity gain limit from petting","ru":"Этот кибо достиг дневного лимита прироста привязанности от поглаживания"}
+{"id":"shared:errorCode:10593:390:_en_desc","en":"This Kibo has reached its daily affinity gain limit from petting","ru":"Этот кибо достиг дневного лимита прироста привязанности от поглаживания"}
+{"id":"shared:errorCode:10594:391:_en_desc","en":"Wishlist is full","ru":"Список желаний заполнен"}
+{"id":"shared:errorCode:10595:392:_en_desc","en":"Already on the wishlist","ru":"Уже в списке желаний"}
+{"id":"shared:errorCode:10596:393:_en_desc","en":"Wishlist entry does not exist","ru":"Записи в списке желаний не существует"}
+{"id":"shared:errorCode:10597:394:_en_desc","en":"Wishlist entry is already tracked","ru":"Запись в списке желаний уже отслеживается"}
+{"id":"shared:errorCode:10598:395:_en_desc","en":"Wishlist tracking canceled","ru":"Отслеживание записи в списке желаний отменено"}
+{"id":"shared:errorCode:10599:396:_en_desc","en":"Invalid wishlist configuration","ru":"Неверная конфигурация списка желаний"}
+{"id":"shared:errorCode:105:7:_en_desc","en":"Resources need updating","ru":"Требуется обновление ресурсов"}
+{"id":"shared:errorCode:10600:397:_en_desc","en":"Dormitory is full","ru":"Общежитие заполнено"}
+{"id":"shared:errorCode:106013:1455:_en_desc","en":"The character to move out is not in this dormitory.","ru":"Выселяемого персонажа нет в этом общежитии."}
+{"id":"shared:errorCode:10601:398:_en_desc","en":"Character is already in this dormitory","ru":"Персонаж уже находится в этом общежитии"}
+{"id":"shared:errorCode:10602:399:_en_desc","en":"Visiting character is not in this dormitory","ru":"Гостевой персонаж не находится в этом общежитии"}
+{"id":"shared:errorCode:10603:400:_en_desc","en":"Character is already in another dormitory","ru":"Персонаж уже находится в другом общежитии"}
+{"id":"shared:errorCode:10604:401:_en_desc","en":"Cannot perform this action while characters are in the dormitory","ru":"Невозможно выполнить действие, пока в общежитии есть персонажи"}
+{"id":"shared:errorCode:10605:402:_en_desc","en":"This building is not a dormitory; action unavailable","ru":"Это здание не является общежитием; действие недоступно"}
+{"id":"shared:errorCode:10606:403:_en_desc","en":"This furniture is already in that character's dormitory","ru":"Эта мебель уже находится в общежитии этого персонажа"}
+{"id":"shared:errorCode:10607:404:_en_desc","en":"This furniture is not exclusive to the current player","ru":"Эта мебель не является эксклюзивной для текущего игрока"}
+{"id":"shared:errorCode:10608:405:_en_desc","en":"Dormitory scene configuration does not exist","ru":"Конфигурация сцены общежития не существует"}
+{"id":"shared:errorCode:10609:406:_en_desc","en":"Invalid furniture gift parameters","ru":"Неверные параметры подарка мебели"}
+{"id":"shared:errorCode:10610:407:_en_desc","en":"Invalid affinity item gift","ru":"Неверный подарок предмета привязанности"}
+{"id":"shared:errorCode:10611:408:_en_desc","en":"Furniture configuration does not exist","ru":"Конфигурация мебели не существует"}
+{"id":"shared:errorCode:10612:409:_en_desc","en":"This furniture is already owned","ru":"Эта мебель уже есть"}
+{"id":"shared:errorCode:10614:410:_en_desc","en":"Invalid dormitory number","ru":"Неверный номер общежития"}
+{"id":"shared:errorCode:10615:411:_en_desc","en":"Character is not in the specified dormitory","ru":"Персонаж не находится в указанном общежитии"}
+{"id":"shared:errorCode:10616:412:_en_desc","en":"Dormitory assignment number is empty","ru":"Номер назначенного общежития не указан"}
+{"id":"shared:errorCode:10617:413:_en_desc","en":"Insufficient dormitory outfit items","ru":"Недостаточно предметов для переодевания в общежитии"}
+{"id":"shared:errorCode:10620:414:_en_desc","en":"Roguelike shop relic purchase limit reached","ru":"Достигнут лимит покупки реликвий в магазине рогалика"}
+{"id":"shared:errorCode:10621:415:_en_desc","en":"Roguelike shop relic configuration does not exist","ru":"Конфигурация реликвии магазина рогалика не существует"}
+{"id":"shared:errorCode:10622:416:_en_desc","en":"Insufficient roguelike shop currency","ru":"Недостаточно валюты магазина рогалика"}
+{"id":"shared:errorCode:10630:417:_en_desc","en":"No active map in the roguelike system","ru":"В системе рогалика нет активной карты"}
+{"id":"shared:errorCode:10631:418:_en_desc","en":"Roguelike node configuration does not exist","ru":"Конфигурация узла рогалика не существует"}
+{"id":"shared:errorCode:10632:419:_en_desc","en":"Roguelike map configuration does not exist","ru":"Конфигурация карты рогалика не существует"}
+{"id":"shared:errorCode:10633:420:_en_desc","en":"Roguelike map configuration index does not exist","ru":"Индекс конфигурации карты рогалика не существует"}
+{"id":"shared:errorCode:10634:421:_en_desc","en":"Roguelike map ID is not unlocked","ru":"ID карты рогалика не разблокирован"}
+{"id":"shared:errorCode:10635:422:_en_desc","en":"Roguelike node UID does not exist","ru":"UID узла рогалика не существует"}
+{"id":"shared:errorCode:10636:423:_en_desc","en":"Current roguelike node is not complete","ru":"Текущий узел рогалика не завершён"}
+{"id":"shared:errorCode:10637:424:_en_desc","en":"Next roguelike node is not connected to the current node","ru":"Следующий узел рогалика не соединён с текущим"}
+{"id":"shared:errorCode:10638:425:_en_desc","en":"Current roguelike node does not exist","ru":"Текущий узел рогалика не существует"}
+{"id":"shared:errorCode:10639:426:_en_desc","en":"Roguelike stage config ID does not exist","ru":"ID конфигурации этапа рогалика не существует"}
+{"id":"shared:errorCode:10640:427:_en_desc","en":"Roguelike stage is not open","ru":"Этап рогалика сейчас закрыт"}
+{"id":"shared:errorCode:10641:428:_en_desc","en":"Roguelike stage difficulty requirement not met","ru":"Требуемая сложность этапа рогалика не достигнута"}
+{"id":"shared:errorCode:10642:429:_en_desc","en":"Roguelike character info already backed up","ru":"Информация о персонаже рогалика уже сохранена"}
+{"id":"shared:errorCode:10643:430:_en_desc","en":"Failed to randomize roguelike map ID","ru":"Не удалось выбрать случайный ID карты рогалика"}
+{"id":"shared:errorCode:10644:431:_en_desc","en":"Selected event ID does not exist","ru":"ID выбранного события не существует"}
+{"id":"shared:errorCode:10645:432:_en_desc","en":"Selected event is already in progress","ru":"Выбранное событие уже выполняется"}
+{"id":"shared:errorCode:10646:433:_en_desc","en":"Roguelike stage mismatch","ru":"Несоответствие этапа рогалика"}
+{"id":"shared:errorCode:10647:434:_en_desc","en":"Current roguelike system node already completed","ru":"Текущий узел системы рогалика уже пройден"}
+{"id":"shared:errorCode:10648:435:_en_desc","en":"Next roguelike system node not found","ru":"Следующий узел системы рогалика не найден"}
+{"id":"shared:errorCode:10649:436:_en_desc","en":"Roguelike entry character does not exist","ru":"Персонаж, введённый в рогалик, не существует"}
+{"id":"shared:errorCode:10650:437:_en_desc","en":"Order does not exist","ru":"Заказ не существует"}
+{"id":"shared:errorCode:10651:438:_en_desc","en":"Order cannot be accepted","ru":"Заказ нельзя принять"}
+{"id":"shared:errorCode:10652:439:_en_desc","en":"Invalid order config","ru":"Недействительная конфигурация заказа"}
+{"id":"shared:errorCode:10653:440:_en_desc","en":"Order cannot be refreshed","ru":"Заказ нельзя обновить"}
+{"id":"shared:errorCode:10654:441:_en_desc","en":"Order refresh limit reached","ru":"Достигнут предел обновлений заказа"}
+{"id":"shared:errorCode:10655:442:_en_desc","en":"Order cannot be submitted","ru":"Заказ нельзя отправить"}
+{"id":"shared:errorCode:10656:443:_en_desc","en":"Order was not refreshed","ru":"Заказ не был обновлён"}
+{"id":"shared:errorCode:10657:444:_en_desc","en":"Order config does not exist","ru":"Конфигурация заказа не существует"}
+{"id":"shared:errorCode:10658:445:_en_desc","en":"Quality requirement mismatch","ru":"Несоответствие требования к качеству"}
+{"id":"shared:errorCode:10659:446:_en_desc","en":"Material cannot be recycled","ru":"Материал нельзя переработать"}
+{"id":"shared:errorCode:10660:447:_en_desc","en":"Trading post is not open","ru":"Торговый пост закрыт"}
+{"id":"shared:errorCode:10670:448:_en_desc","en":"Prerequisite stage not cleared","ru":"Предыдущий этап не пройден"}
+{"id":"shared:errorCode:10671:449:_en_desc","en":"Player is not in the roguelike map","ru":"Игрок не находится на карте рогалика"}
+{"id":"shared:errorCode:10672:450:_en_desc","en":"Duplicate character brought into roguelike","ru":"Повторяющийся персонаж, введённый в рогалик"}
+{"id":"shared:errorCode:10673:451:_en_desc","en":"Duplicate pet brought into roguelike","ru":"Повторяющийся питомец, введённый в рогалик"}
+{"id":"shared:errorCode:10674:452:_en_desc","en":"Too many players brought into roguelike","ru":"Превышен предел игроков в рогалике"}
+{"id":"shared:errorCode:10675:453:_en_desc","en":"Roguelike Treasure Chest ID error","ru":"Ошибка ID сундука с сокровищами рогалика"}
+{"id":"shared:errorCode:10676:454:_en_desc","en":"Selected event config does not exist","ru":"Конфигурация выбранного события не существует"}
+{"id":"shared:errorCode:10677:455:_en_desc","en":"Room mismatch","ru":"Несоответствие комнаты"}
+{"id":"shared:errorCode:10678:456:_en_desc","en":"Generic roguelike error","ru":"Общая ошибка рогалика"}
+{"id":"shared:errorCode:10679:457:_en_desc","en":"Player level mismatch","ru":"Несоответствие уровня игрока"}
+{"id":"shared:errorCode:10680:458:_en_desc","en":"Invalid reward type","ru":"Неверный тип награды"}
+{"id":"shared:errorCode:10681:459:_en_desc","en":"Selected effect config does not exist","ru":"Конфигурация выбранного эффекта не существует"}
+{"id":"shared:errorCode:10682:460:_en_desc","en":"Invalid currency type","ru":"Недопустимый тип валюты"}
+{"id":"shared:errorCode:10683:461:_en_desc","en":"Invalid relic quality","ru":"Неверное качество реликвии"}
+{"id":"shared:errorCode:10684:462:_en_desc","en":"Invalid reward ID","ru":"Неверный ID награды"}
+{"id":"shared:errorCode:10685:463:_en_desc","en":"Individual reward claim not supported","ru":"Отдельное получение награды не поддерживается"}
+{"id":"shared:errorCode:10686:464:_en_desc","en":"Claim requirements not met","ru":"Условия получения не выполнены"}
+{"id":"shared:errorCode:10687:465:_en_desc","en":"New random event config error","ru":"Ошибка конфигурации нового случайного события"}
+{"id":"shared:errorCode:10688:466:_en_desc","en":"New random event execution error","ru":"Ошибка выполнения нового случайного события"}
+{"id":"shared:errorCode:10689:467:_en_desc","en":"Invalid nextcontenttype","ru":"Неверный тип nextcontenttype"}
+{"id":"shared:errorCode:10690:468:_en_desc","en":"Resting is not allowed in this room","ru":"В этой комнате нельзя отдыхать"}
+{"id":"shared:errorCode:10691:469:_en_desc","en":"Insufficient rest resources","ru":"Недостаточно ресурсов для отдыха"}
+{"id":"shared:errorCode:10692:470:_en_desc","en":"That character is not in the party","ru":"Этот персонаж не в отряде"}
+{"id":"shared:errorCode:10693:471:_en_desc","en":"Event cycle does not exist","ru":"Цикл события не существует"}
+{"id":"shared:errorCode:10694:472:_en_desc","en":"Max HP: 0","ru":"Максимум здоровья: 0"}
+{"id":"shared:errorCode:106:8:_en_desc","en":"Registration is full","ru":"Регистрация заполнена"}
+{"id":"shared:errorCode:10700:473:_en_desc","en":"Mail not found","ru":"Письмо не найдено"}
+{"id":"shared:errorCode:10701:474:_en_desc","en":"Mail already claimed","ru":"Награда из письма уже получена"}
+{"id":"shared:errorCode:10702:475:_en_desc","en":"Unclaimed mail cannot be deleted","ru":"Неполученное письмо нельзя удалить"}
+{"id":"shared:errorCode:10703:476:_en_desc","en":"Invalid mail ID","ru":"Неверный ID письма"}
+{"id":"shared:errorCode:10704:477:_en_desc","en":"Mail has expired","ru":"Срок действия письма истёк"}
+{"id":"shared:errorCode:10705:478:_en_desc","en":"Mail clear error","ru":"Ошибка очистки писем"}
+{"id":"shared:errorCode:10706:479:_en_desc","en":"Mail already favorited","ru":"Письмо уже в избранном"}
+{"id":"shared:errorCode:10707:480:_en_desc","en":"Favorites are full","ru":"Избранное заполнено"}
+{"id":"shared:errorCode:10708:481:_en_desc","en":"Mail is unread","ru":"Письмо не прочитано"}
+{"id":"shared:errorCode:10709:482:_en_desc","en":"Mail already sent","ru":"Письмо уже отправлено"}
+{"id":"shared:errorCode:10710:483:_en_desc","en":"Mail connection does not exist","ru":"Связь с письмом не существует"}
+{"id":"shared:errorCode:10711:484:_en_desc","en":"Mail config error","ru":"Ошибка конфигурации письма"}
+{"id":"shared:errorCode:10712:485:_en_desc","en":"Mail reward already claimed","ru":"Награда из письма уже получена"}
+{"id":"shared:errorCode:10713:486:_en_desc","en":"Conditional mail conditions not met","ru":"Условия условного письма не выполнены"}
+{"id":"shared:errorCode:10714:487:_en_desc","en":"Unconditional mail condition error","ru":"Ошибка условия безусловного письма"}
+{"id":"shared:errorCode:10715:488:_en_desc","en":"Kibo Cabin is full; cannot claim Kibo","ru":"Домик кибо заполнен, нельзя получить кибо"}
+{"id":"shared:errorCode:10716:489:_en_desc","en":"Kibo Cabin rename system not unlocked","ru":"Система переименования домика кибо не разблокирована"}
+{"id":"shared:errorCode:10720:490:_en_desc","en":"Stargift synthesis config does not exist","ru":"Конфигурация синтеза звёздного дара не существует"}
+{"id":"shared:errorCode:10721:491:_en_desc","en":"Stargift equipment Ascension cost config does not exist","ru":"Конфигурация затрат на Возвышение снаряжения звёздного дара не существует"}
+{"id":"shared:errorCode:10722:492:_en_desc","en":"Insufficient base materials for Stargift synthesis","ru":"Недостаточно базовых материалов для синтеза звёздного дара"}
+{"id":"shared:errorCode:10723:493:_en_desc","en":"Stargift synthesis material calculation exceeds limit","ru":"Расчёт материалов для синтеза звёздного дара превышает предел"}
+{"id":"shared:errorCode:10724:494:_en_desc","en":"Stargift synthesis conditions not unlocked","ru":"Условия синтеза звёздного дара не разблокированы"}
+{"id":"shared:errorCode:10753:495:_en_desc","en":"Production system not unlocked","ru":"Система производства не разблокирована"}
+{"id":"shared:errorCode:10754:496:_en_desc","en":"Pet talent system not unlocked","ru":"Система талантов питомцев не разблокирована"}
+{"id":"shared:errorCode:10755:497:_en_desc","en":"Kibo work system not unlocked","ru":"Система работы кибо не разблокирована"}
+{"id":"shared:errorCode:10756:498:_en_desc","en":"Planting system not unlocked","ru":"Система посадки не разблокирована"}
+{"id":"shared:errorCode:10757:499:_en_desc","en":"Wardrobe system not unlocked","ru":"Система гардероба не разблокирована"}
+{"id":"shared:errorCode:10758:500:_en_desc","en":"Resource ID for this part does not exist","ru":"ID ресурса для этой части не существует"}
+{"id":"shared:errorCode:10759:501:_en_desc","en":"No matching color for this part's resource","ru":"Для ресурса этой части нет подходящего цвета"}
+{"id":"shared:errorCode:10760:502:_en_desc","en":"Resource ID for this part does not match","ru":"ID ресурса для этой части не совпадает"}
+{"id":"shared:errorCode:10761:503:_en_desc","en":"Story ID config does not exist","ru":"Конфигурация ID истории не существует"}
+{"id":"shared:errorCode:10771:504:_en_desc","en":"Unit already owned","ru":"Этот юнит уже получен"}
+{"id":"shared:errorCode:10772:505:_en_desc","en":"Prerequisite unit not unlocked","ru":"Предыдущий юнит не разблокирован"}
+{"id":"shared:errorCode:10773:506:_en_desc","en":"Unlock quest not completed","ru":"Задание разблокировки не выполнено"}
+{"id":"shared:errorCode:10774:507:_en_desc","en":"Unit not found in unit inventory","ru":"Этот юнит не найден в инвентаре юнитов"}
+{"id":"shared:errorCode:10775:508:_en_desc","en":"Unit recruitment failed","ru":"Не удалось завербовать юнита"}
+{"id":"shared:errorCode:10776:509:_en_desc","en":"Experience gained: 0","ru":"Получено опыта: 0"}
+{"id":"shared:errorCode:10777:510:_en_desc","en":"Cannot use self as upgrade material","ru":"Нельзя использовать себя как материал для улучшения"}
+{"id":"shared:errorCode:10778:511:_en_desc","en":"Soldier already unlocked","ru":"Солдат уже разблокирован"}
+{"id":"shared:errorCode:10779:512:_en_desc","en":"Prerequisite unit ID mismatch","ru":"Несовпадение ID предыдущего юнита"}
+{"id":"shared:errorCode:10780:513:_en_desc","en":"Duplicate soldier slot","ru":"Повторяющийся слот солдата"}
+{"id":"shared:errorCode:10781:514:_en_desc","en":"Failed to deploy soldier","ru":"Не удалось выставить солдата"}
+{"id":"shared:errorCode:10782:515:_en_desc","en":"Product ID does not exist","ru":"ID товара не существует"}
+{"id":"shared:errorCode:10783:516:_en_desc","en":"Production limit reached","ru":"Достигнут предел производства"}
+{"id":"shared:errorCode:10784:517:_en_desc","en":"Collection requirements not met (not found/insufficient)","ru":"Условия сбора не выполнены (не найдено/недостаточно)"}
+{"id":"shared:errorCode:10785:518:_en_desc","en":"Canceled: conditions not met (not found/insufficient quantity)","ru":"Отменено: условия не выполнены (не найдено/недостаточно)"}
+{"id":"shared:errorCode:10786:519:_en_desc","en":"Homestead production recipe is not unlocked","ru":"Рецепт производства на ранчо не разблокирован"}
+{"id":"shared:errorCode:10787:520:_en_desc","en":"Requirements for selected Homestead production materials are not met","ru":"Требования к выбранным материалам производства на ранчо не выполнены"}
+{"id":"shared:errorCode:10788:521:_en_desc","en":"Selected Homestead production materials do not match the configured quantity","ru":"Выбранные материалы производства на ранчо не соответствуют заданному количеству"}
+{"id":"shared:errorCode:10789:522:_en_desc","en":"Selected Homestead production materials do not match the configured group","ru":"Выбранные материалы производства на ранчо не соответствуют заданной группе"}
+{"id":"shared:errorCode:10790:523:_en_desc","en":"This character has no Starborn milestone rewards available to claim","ru":"У этого персонажа нет доступных наград за этапы Звёздного дара"}
+{"id":"shared:errorCode:10791:524:_en_desc","en":"Character level does not meet the reward requirement","ru":"Уровень персонажа не соответствует требованию для получения награды"}
+{"id":"shared:errorCode:10792:525:_en_desc","en":"Character Starborn milestone reward already claimed","ru":"Награда за этап Звёздного дара персонажа уже получена"}
+{"id":"shared:errorCode:10793:526:_en_desc","en":"Character Starborn milestone reward configuration does not exist","ru":"Конфигурация награды за этап Звёздного дара персонажа не существует"}
+{"id":"shared:errorCode:10794:527:_en_desc","en":"Character affinity configuration not found","ru":"Конфигурация привязанности персонажа не найдена"}
+{"id":"shared:errorCode:10795:528:_en_desc","en":"Character affinity reward is empty","ru":"Награда за привязанность персонажа пуста"}
+{"id":"shared:errorCode:10796:529:_en_desc","en":"Character does not exist","ru":"Персонаж не существует"}
+{"id":"shared:errorCode:10797:530:_en_desc","en":"Character skill upgrade failed","ru":"Не удалось улучшить навык персонажа"}
+{"id":"shared:errorCode:10798:531:_en_desc","en":"Character star level upgrade failed","ru":"Не удалось повысить звёздный уровень персонажа"}
+{"id":"shared:errorCode:10799:532:_en_desc","en":"Character does not meet Ascension requirements","ru":"Персонаж не соответствует требованиям Возвышения"}
+{"id":"shared:errorCode:107:9:_en_desc","en":"Playtime limit for minors","ru":"Ограничение игрового времени для несовершеннолетних"}
+{"id":"shared:errorCode:10800:533:_en_desc","en":"Character next-level configuration does not exist","ru":"Конфигурация следующего уровня персонажа не существует"}
+{"id":"shared:errorCode:10801:534:_en_desc","en":"Missing character level-up item","ru":"Не хватает предмета для повышения уровня персонажа"}
+{"id":"shared:errorCode:10802:535:_en_desc","en":"Number of equipment slots for character tier exceeds configured amount","ru":"Количество слотов снаряжения для ранга персонажа превышает заданное"}
+{"id":"shared:errorCode:10803:536:_en_desc","en":"Character tier Ascension configuration does not exist","ru":"Конфигурация Возвышения ранга персонажа не существует"}
+{"id":"shared:errorCode:10804:537:_en_desc","en":"Character tier Ascension cost configuration does not exist","ru":"Конфигурация затрат на Возвышение ранга персонажа не существует"}
+{"id":"shared:errorCode:10805:538:_en_desc","en":"Character current-level configuration does not exist","ru":"Конфигурация текущего уровня персонажа не существует"}
+{"id":"shared:errorCode:10806:539:_en_desc","en":"Spirit purchase limit reached","ru":"Лимит покупки духов достигнут"}
+{"id":"shared:errorCode:10807:540:_en_desc","en":"Card purchase not available","ru":"Покупка карт недоступна"}
+{"id":"shared:errorCode:10808:541:_en_desc","en":"Purchase limit reached","ru":"Лимит покупок достигнут"}
+{"id":"shared:errorCode:10809:542:_en_desc","en":"Invalid character Starborn ID","ru":"Неверный ID Звёздного дара персонажа"}
+{"id":"shared:errorCode:10810:543:_en_desc","en":"Insufficient items for pet upgrade","ru":"Недостаточно предметов для улучшения питомца"}
+{"id":"shared:errorCode:10811:544:_en_desc","en":"Pet does not exist","ru":"Питомец не существует"}
+{"id":"shared:errorCode:10812:545:_en_desc","en":"Egg does not exist","ru":"Яйцо не существует"}
+{"id":"shared:errorCode:10813:546:_en_desc","en":"Egg is not incubating","ru":"Яйцо не инкубируется"}
+{"id":"shared:errorCode:10814:547:_en_desc","en":"Egg is already incubating","ru":"Яйцо уже инкубируется"}
+{"id":"shared:errorCode:10815:548:_en_desc","en":"Incubation pool does not exist","ru":"Инкубационный отсек не существует"}
+{"id":"shared:errorCode:10816:549:_en_desc","en":"Incubation pool is incubating","ru":"Инкубационный отсек занят инкубацией"}
+{"id":"shared:errorCode:10817:550:_en_desc","en":"Egg configuration does not exist","ru":"Конфигурация яйца не существует"}
+{"id":"shared:errorCode:10818:551:_en_desc","en":"Incubation pool is not incubating","ru":"Инкубационный отсек не занят инкубацией"}
+{"id":"shared:errorCode:10819:552:_en_desc","en":"Incubation not complete","ru":"Инкубация не завершена"}
+{"id":"shared:errorCode:10820:553:_en_desc","en":"Pet is already deployed","ru":"Питомец уже в отряде"}
+{"id":"shared:errorCode:10821:554:_en_desc","en":"Pet vigor is already full","ru":"Бодрость питомца уже заполнена"}
+{"id":"shared:errorCode:10822:555:_en_desc","en":"Not enough pets","ru":"Недостаточно питомцев"}
+{"id":"shared:errorCode:10823:556:_en_desc","en":"Kibo Cottage is full; cannot Star-Bind","ru":"Домик кибо заполнен, невозможно совершить Звёздную связь"}
+{"id":"shared:errorCode:10824:557:_en_desc","en":"Failed to add gene","ru":"Не удалось добавить ген"}
+{"id":"shared:errorCode:10825:558:_en_desc","en":"Failed to add to incubation pool","ru":"Не удалось добавить в инкубационный отсек"}
+{"id":"shared:errorCode:10826:559:_en_desc","en":"Insufficient vigor","ru":"Недостаточно бодрости"}
+{"id":"shared:errorCode:10827:560:_en_desc","en":"Insufficient gene recombination attempts","ru":"Недостаточно попыток рекомбинации генов"}
+{"id":"shared:errorCode:10828:561:_en_desc","en":"Pet bag is full; cannot hatch","ru":"Сумка питомцев заполнена, невозможно вылупить"}
+{"id":"shared:errorCode:10829:562:_en_desc","en":"Duplicate pet lock operation","ru":"Повторная блокировка питомца"}
+{"id":"shared:errorCode:10830:563:_en_desc","en":"Pet is already locked","ru":"Питомец уже заблокирован"}
+{"id":"shared:errorCode:10831:564:_en_desc","en":"Gene configuration not found","ru":"Конфигурация гена не найдена"}
+{"id":"shared:errorCode:10832:565:_en_desc","en":"No pet at this location","ru":"В этом месте нет питомца"}
+{"id":"shared:errorCode:10833:566:_en_desc","en":"Failed to add pet","ru":"Не удалось добавить питомца"}
+{"id":"shared:errorCode:10834:567:_en_desc","en":"No friend pet rental attempts remaining","ru":"Не осталось попыток аренды питомца у друзей"}
+{"id":"shared:errorCode:10835:568:_en_desc","en":"Pet learnable ability does not exist","ru":"Изучаемая способность питомца не существует"}
+{"id":"shared:errorCode:10836:569:_en_desc","en":"Pet bag is full; cannot add more","ru":"Сумка питомцев заполнена, невозможно добавить"}
+{"id":"shared:errorCode:10837:570:_en_desc","en":"Insufficient activity","ru":"Недостаточно активности"}
+{"id":"shared:errorCode:10838:571:_en_desc","en":"Activity reward already claimed","ru":"Награда за активность уже получена"}
+{"id":"shared:errorCode:10839:572:_en_desc","en":"No incubation pool uses remaining","ru":"Не осталось использований инкубационного отсека"}
+{"id":"shared:errorCode:10840:573:_en_desc","en":"Pet rank-up failed","ru":"Не удалось повысить ранг питомца"}
+{"id":"shared:errorCode:10841:574:_en_desc","en":"Egg is already locked","ru":"Яйцо уже заблокировано"}
+{"id":"shared:errorCode:10842:575:_en_desc","en":"Invalid activity reward type","ru":"Неверный тип награды за активность"}
+{"id":"shared:errorCode:10843:576:_en_desc","en":"Pet configuration does not exist","ru":"Конфигурация питомца не существует"}
+{"id":"shared:errorCode:10844:577:_en_desc","en":"Pet has no next stage","ru":"У питомца нет следующей стадии"}
+{"id":"shared:errorCode:10845:578:_en_desc","en":"Pet Ascension required level not reached","ru":"Не достигнут требуемый уровень для Возвышения питомца"}
+{"id":"shared:errorCode:10846:579:_en_desc","en":"No pet specified for deletion","ru":"Не указан питомец для удаления"}
+{"id":"shared:errorCode:10847:580:_en_desc","en":"No pet egg specified for deletion","ru":"Не указано яйцо питомца для удаления"}
+{"id":"shared:errorCode:10848:581:_en_desc","en":"Item provided is not a quick-hatch pet egg aid","ru":"Указанный предмет не является средством для быстрого вылупления яйца питомца"}
+{"id":"shared:errorCode:10849:582:_en_desc","en":"This pet configuration cannot battle","ru":"Этот питомец не может участвовать в бою"}
+{"id":"shared:errorCode:10850:583:_en_desc","en":"This pet configuration cannot be mounted","ru":"На этом питомце нельзя ездить"}
+{"id":"shared:errorCode:10851:584:_en_desc","en":"You cannot add yourself as a friend","ru":"Нельзя добавить себя в друзья"}
+{"id":"shared:errorCode:10852:585:_en_desc","en":"Friend limit reached","ru":"Лимит друзей достигнут"}
+{"id":"shared:errorCode:10853:586:_en_desc","en":"The other player's friend request list is full","ru":"Список заявок в друзья у другого игрока заполнен"}
+{"id":"shared:errorCode:10854:587:_en_desc","en":"You're already friends!","ru":"Вы уже друзья!"}
+{"id":"shared:errorCode:10855:588:_en_desc","en":"The other player's friend limit has been reached","ru":"У другого игрока достигнут лимит друзей"}
+{"id":"shared:errorCode:10856:589:_en_desc","en":"Invalid friend-related command sent","ru":"Отправлена неверная команда, связанная с друзьями"}
+{"id":"shared:errorCode:10857:590:_en_desc","en":"Block list is full","ru":"Список заблокированных заполнен"}
+{"id":"shared:errorCode:10858:591:_en_desc","en":"The other player has blocked you","ru":"Другой игрок заблокировал вас"}
+{"id":"shared:errorCode:10859:592:_en_desc","en":"You have blocked this player","ru":"Вы заблокировали этого игрока"}
+{"id":"shared:errorCode:10860:593:_en_desc","en":"The other player has already received your friend request","ru":"Другой игрок уже получил вашу заявку в друзья"}
+{"id":"shared:errorCode:10861:594:_en_desc","en":"Length exceeds the limit","ru":"Длина превышает допустимый предел"}
+{"id":"shared:errorCode:10862:595:_en_desc","en":"Chat message length exceeds the limit","ru":"Длина сообщения чата превышает допустимый предел"}
+{"id":"shared:errorCode:10863:596:_en_desc","en":"Open chat window limit reached","ru":"Достигнут лимит открытых окон чата"}
+{"id":"shared:errorCode:10864:597:_en_desc","en":"The other player is not your friend","ru":"Этот игрок не является вашим другом"}
+{"id":"shared:errorCode:10865:598:_en_desc","en":"Chat message violates the rules and could not be sent","ru":"Сообщение чата нарушает правила и не было отправлено"}
+{"id":"shared:errorCode:10866:599:_en_desc","en":"Chat information has already been requested","ru":"Информация чата уже запрошена"}
+{"id":"shared:errorCode:10867:600:_en_desc","en":"Message content is empty","ru":"Содержимое сообщения пусто"}
+{"id":"shared:errorCode:10868:601:_en_desc","en":"You have muted this player's chat","ru":"Вы отключили чат этого игрока"}
+{"id":"shared:errorCode:10869:602:_en_desc","en":"Chat cooldown has not elapsed","ru":"Перезарядка чата ещё не прошла"}
+{"id":"shared:errorCode:10870:603:_en_desc","en":"Invalid chat data","ru":"Недопустимые данные чата"}
+{"id":"shared:errorCode:10871:604:_en_desc","en":"Exceeds the pet limit for a single Kibo Box","ru":"Превышен лимит питомцев для одного ящика кибо"}
+{"id":"shared:errorCode:10872:605:_en_desc","en":"Pet satiety configuration error","ru":"Ошибка конфигурации сытости питомца"}
+{"id":"shared:errorCode:10873:606:_en_desc","en":"Insufficient satiety","ru":"Недостаточно сытости"}
+{"id":"shared:errorCode:10874:607:_en_desc","en":"The item used is not food","ru":"Используемый предмет не является едой"}
+{"id":"shared:errorCode:10875:608:_en_desc","en":"Food added to the trough exceeds the limit","ru":"Еда в кормушке превышает допустимый предел"}
+{"id":"shared:errorCode:10876:609:_en_desc","en":"Pet is not in the trough","ru":"Питомец не находится в кормушке"}
+{"id":"shared:errorCode:10877:610:_en_desc","en":"Pet slots are full","ru":"Слоты питомцев заполнены"}
+{"id":"shared:errorCode:10878:611:_en_desc","en":"Pet home configuration does not exist","ru":"Конфигурация дома питомцев не существует"}
+{"id":"shared:errorCode:10879:612:_en_desc","en":"Pet is working","ru":"Питомец работает"}
+{"id":"shared:errorCode:10880:613:_en_desc","en":"Kibo box limit exceeded","ru":"Превышен лимит ящика кибо"}
+{"id":"shared:errorCode:10881:614:_en_desc","en":"Duplicate pet inventory ID","ru":"Дублирующийся ID инвентаря питомцев"}
+{"id":"shared:errorCode:10882:615:_en_desc","en":"Pet satiety exceeds the configured maximum","ru":"Сытость питомца превышает настроенный максимум"}
+{"id":"shared:errorCode:10883:616:_en_desc","en":"Pet satiety is already full","ru":"Сытость питомца уже полна"}
+{"id":"shared:errorCode:10884:617:_en_desc","en":"This food is not for pets","ru":"Эта еда не для питомцев"}
+{"id":"shared:errorCode:10885:618:_en_desc","en":"Kibo Cabin is full","ru":"Хижина кибо заполнена"}
+{"id":"shared:errorCode:10886:619:_en_desc","en":"Pet egg configuration does not exist","ru":"Конфигурация яйца питомца не существует"}
+{"id":"shared:errorCode:10887:620:_en_desc","en":"Failed to remove food from the dining table","ru":"Не удалось убрать еду со стола"}
+{"id":"shared:errorCode:10888:621:_en_desc","en":"Name change cooldown is in effect","ru":"Действует ограничение на смену имени"}
+{"id":"shared:errorCode:10889:622:_en_desc","en":"Birthday cannot be changed","ru":"День рождения нельзя изменить"}
+{"id":"shared:errorCode:10890:623:_en_desc","en":"Invalid birthday data","ru":"Недопустимые данные дня рождения"}
+{"id":"shared:errorCode:10891:624:_en_desc","en":"Invalid hero display selection data","ru":"Недопустимые данные выбора отображаемого героя"}
+{"id":"shared:errorCode:10892:625:_en_desc","en":"No need to swap the same Kibo","ru":"Не нужно менять местами одного и того же кибо"}
+{"id":"shared:errorCode:10893:626:_en_desc","en":"Kibo work type does not match","ru":"Тип работы кибо не подходит"}
+{"id":"shared:errorCode:10894:627:_en_desc","en":"Food configuration does not exist","ru":"Конфигурация еды не существует"}
+{"id":"shared:errorCode:10895:628:_en_desc","en":"No materials received for pet level-up","ru":"Не получены материалы для повышения уровня питомца"}
+{"id":"shared:errorCode:10896:629:_en_desc","en":"Invalid material ID for pet level-up","ru":"Недопустимый ID материала для повышения уровня питомца"}
+{"id":"shared:errorCode:10897:630:_en_desc","en":"No materials received for pet aptitude upgrade","ru":"Не получены материалы для повышения одарённости питомца"}
+{"id":"shared:errorCode:10898:631:_en_desc","en":"Invalid material ID for pet aptitude upgrade","ru":"Недопустимый ID материала для повышения одарённости питомца"}
+{"id":"shared:errorCode:10899:632:_en_desc","en":"Pet aptitude does not exist","ru":"Одарённость питомца не существует"}
+{"id":"shared:errorCode:108:10:_en_desc","en":"Session expired","ru":"Сеанс истек"}
+{"id":"shared:errorCode:10900:633:_en_desc","en":"Roguelike room does not exist","ru":"Комната рогалика не существует"}
+{"id":"shared:errorCode:10901:634:_en_desc","en":"Roguelike version does not exist","ru":"Версия рогалика не существует"}
+{"id":"shared:errorCode:10902:635:_en_desc","en":"Roguelike reward does not exist","ru":"Награда рогалика не существует"}
+{"id":"shared:errorCode:10903:636:_en_desc","en":"Invalid roguelike reward parameters","ru":"Недопустимые параметры награды рогалика"}
+{"id":"shared:errorCode:10904:637:_en_desc","en":"Not enough roguelike Closed Strings","ru":"Недостаточно замкнутых струн рогалика"}
+{"id":"shared:errorCode:10905:638:_en_desc","en":"Roguelike already has this Echo","ru":"В рогалике уже есть это эхо"}
+{"id":"shared:errorCode:10906:639:_en_desc","en":"Roguelike does not have this Echo","ru":"В рогалике нет этого эха"}
+{"id":"shared:errorCode:10907:640:_en_desc","en":"This Echo has already been deleted from the roguelike","ru":"Это эхо уже удалено из рогалика"}
+{"id":"shared:errorCode:10908:641:_en_desc","en":"Invalid roguelike Echo effect parameters","ru":"Недопустимые параметры эффекта эха рогалика"}
+{"id":"shared:errorCode:10909:642:_en_desc","en":"Roguelike strategy does not exist","ru":"Стратегия рогалика не существует"}
+{"id":"shared:errorCode:10910:643:_en_desc","en":"Roguelike strategy error","ru":"Ошибка стратегии рогалика"}
+{"id":"shared:errorCode:10911:644:_en_desc","en":"Roguelike not created","ru":"Рогалик не создан"}
+{"id":"shared:errorCode:10912:645:_en_desc","en":"Roguelike already created","ru":"Рогалик уже создан"}
+{"id":"shared:errorCode:10913:646:_en_desc","en":"The current roguelike room still has an unfinished battle","ru":"В текущей комнате рогалика ещё есть незавершённый бой"}
+{"id":"shared:errorCode:10914:647:_en_desc","en":"This roguelike research item does not exist","ru":"Этот пункт исследований рогалика не существует"}
+{"id":"shared:errorCode:10915:648:_en_desc","en":"Prerequisite roguelike research is not unlocked","ru":"Предварительное исследование рогалика не разблокировано"}
+{"id":"shared:errorCode:10916:649:_en_desc","en":"Not enough roguelike research points","ru":"Недостаточно очков исследований рогалика"}
+{"id":"shared:errorCode:10917:650:_en_desc","en":"Roguelike research already unlocked","ru":"Исследование рогалика уже разблокировано"}
+{"id":"shared:errorCode:10918:651:_en_desc","en":"Roguelike investigation reward does not exist","ru":"Награда за расследование в рогалике не существует"}
+{"id":"shared:errorCode:10919:652:_en_desc","en":"Insufficient roguelike investigation value","ru":"Недостаточно значения расследования рогалика"}
+{"id":"shared:errorCode:10920:653:_en_desc","en":"Not currently in a roguelike scene","ru":"Вы сейчас не на сцене рогалика"}
+{"id":"shared:errorCode:10921:654:_en_desc","en":"There are still unclaimed roguelike rewards","ru":"Есть ещё неполученные награды рогалика"}
+{"id":"shared:errorCode:10922:655:_en_desc","en":"Roguelike battle does not exist","ru":"Бой рогалика не существует"}
+{"id":"shared:errorCode:10923:656:_en_desc","en":"This event is not a battle event","ru":"Это событие не является боевым"}
+{"id":"shared:errorCode:10924:657:_en_desc","en":"Roguelike boss battle does not exist","ru":"Бой с боссом рогалика не существует"}
+{"id":"shared:errorCode:10925:658:_en_desc","en":"This event is already complete","ru":"Это событие уже завершено"}
+{"id":"shared:errorCode:10926:659:_en_desc","en":"This event does not exist","ru":"Это событие не существует"}
+{"id":"shared:errorCode:10927:660:_en_desc","en":"You have not defeated the boss yet","ru":"Вы ещё не победили босса"}
+{"id":"shared:errorCode:10928:661:_en_desc","en":"This investigation value reward has already been claimed this week","ru":"Эта награда за значение расследования уже получена на этой неделе"}
+{"id":"shared:errorCode:10929:662:_en_desc","en":"Invalid roguelike encounter parameters","ru":"Недопустимые параметры встречи в рогалике"}
+{"id":"shared:errorCode:10930:663:_en_desc","en":"Roguelike season pass reward already claimed","ru":"Награда сезонного пропуска рогалика уже получена"}
+{"id":"shared:errorCode:10931:664:_en_desc","en":"Not enough roguelike season pass points","ru":"Недостаточно очков сезонного пропуска рогалика"}
+{"id":"shared:errorCode:10932:665:_en_desc","en":"No such roguelike season pass reward","ru":"Такой награды сезонного пропуска рогалика нет"}
+{"id":"shared:errorCode:10933:666:_en_desc","en":"Invalid roguelike story choice","ru":"Недопустимый сюжетный выбор рогалика"}
+{"id":"shared:errorCode:10934:667:_en_desc","en":"The current map does not allow entering the roguelike","ru":"Текущая карта не позволяет войти в рогалик"}
+{"id":"shared:errorCode:10935:668:_en_desc","en":"This roguelike skill tree node is already activated","ru":"Этот узел дерева навыков рогалика уже активирован"}
+{"id":"shared:errorCode:10936:669:_en_desc","en":"An adjacent roguelike skill tree node is not unlocked","ru":"Соседний узел дерева навыков рогалика не разблокирован"}
+{"id":"shared:errorCode:10937:670:_en_desc","en":"The current roguelike skill tree is empty","ru":"Текущее дерево навыков рогалика пусто"}
+{"id":"shared:errorCode:10938:671:_en_desc","en":"Roguelike skill tree configuration not found","ru":"Конфигурация дерева навыков рогалика не найдена"}
+{"id":"shared:errorCode:10940:672:_en_desc","en":"Invalid hero gift parameters","ru":"Недопустимые параметры подарка герою"}
+{"id":"shared:errorCode:10941:673:_en_desc","en":"Hero gift limit reached","ru":"Достигнут лимит подарков герою"}
+{"id":"shared:errorCode:10942:674:_en_desc","en":"Hero gift system is not enabled","ru":"Система подарков героям не включена"}
+{"id":"shared:errorCode:10943:675:_en_desc","en":"Hero attunement system is not enabled","ru":"Система настройки героев не включена"}
+{"id":"shared:errorCode:10970:676:_en_desc","en":"Repeatable stage is not unlocked","ru":"Повторяемый этап не разблокирован"}
+{"id":"shared:errorCode:10971:677:_en_desc","en":"Repeatable stage has no daily attempt limit","ru":"У повторяемого этапа нет дневного лимита попыток"}
+{"id":"shared:errorCode:10972:678:_en_desc","en":"Invalid repeatable stage mode","ru":"Недопустимый режим повторяемого этапа"}
+{"id":"shared:errorCode:10973:679:_en_desc","en":"Invalid repeatable stage event configuration","ru":"Недопустимая конфигурация события повторяемого этапа"}
+{"id":"shared:errorCode:10974:680:_en_desc","en":"Invalid repeatable stage event configuration","ru":"Недопустимая конфигурация события повторяемого этапа"}
+{"id":"shared:errorCode:10975:681:_en_desc","en":"Invalid repeatable stage event time","ru":"Недопустимое время события повторяемого этапа"}
+{"id":"shared:errorCode:10976:682:_en_desc","en":"Invalid repeatable stage chapter","ru":"Недопустимая глава повторяемого этапа"}
+{"id":"shared:errorCode:10977:683:_en_desc","en":"Invalid repeatable stage group configuration","ru":"Недопустимая конфигурация группы повторяемых этапов"}
+{"id":"shared:errorCode:10978:684:_en_desc","en":"Invalid repeatable stage configuration","ru":"Недопустимая конфигурация повторяемого этапа"}
+{"id":"shared:errorCode:10979:685:_en_desc","en":"This Kibo cannot be released","ru":"Этого кибо нельзя отпустить"}
+{"id":"shared:errorCode:10980:686:_en_desc","en":"Repeatable stage reward is unavailable","ru":"Награда повторяемого этапа недоступна"}
+{"id":"shared:errorCode:10981:687:_en_desc","en":"Repeatable stage reward already claimed","ru":"Награда повторяемого этапа уже получена"}
+{"id":"shared:errorCode:10982:688:_en_desc","en":"Repeatable stage first-clear reward already claimed","ru":"Награда за первое прохождение повторяемого этапа уже получена"}
+{"id":"shared:errorCode:10983:689:_en_desc","en":"Repeatable stage objective not yet complete","ru":"Задача повторяемого этапа ещё не выполнена"}
+{"id":"shared:errorCode:10984:690:_en_desc","en":"Invalid repeatable stage objective configuration","ru":"Недопустимая конфигурация задачи повторяемого этапа"}
+{"id":"shared:errorCode:10987:691:_en_desc","en":"Trial formation data has been refreshed; do not send duplicate requests","ru":"Данные пробного отряда обновлены; не отправляйте повторные запросы"}
+{"id":"shared:errorCode:109:11:_en_desc","en":"Failed to parse platform response error","ru":"Ошибка разбора ответа платформы"}
+{"id":"shared:errorCode:110:12:_en_desc","en":"The server is under maintenance. We will bring you a smoother gaming experience soon. Thank you for your patience!","ru":"Сервер находится на техобслуживании. Скоро мы обеспечим вам более плавный игровой процесс. Благодарим за терпение!"}
+{"id":"shared:errorCode:12001:692:_en_desc","en":"Teleport point is not unlocked","ru":"Точка телепорта не разблокирована"}
+{"id":"shared:errorCode:12002:693:_en_desc","en":"Pet object key point configuration is empty","ru":"Конфигурация ключевой точки объекта питомца пуста"}
+{"id":"shared:errorCode:12003:694:_en_desc","en":"Pet object key point options are empty","ru":"Параметры ключевой точки объекта питомца пусты"}
+{"id":"shared:errorCode:12004:695:_en_desc","en":"Invalid pet object feeding state change","ru":"Недопустимое изменение состояния кормления объекта питомца"}
+{"id":"shared:errorCode:12005:696:_en_desc","en":"Pet object does not exist","ru":"Объект питомца не существует"}
+{"id":"shared:errorCode:12006:697:_en_desc","en":"Pet object is already complete","ru":"Объект питомца уже завершён"}
+{"id":"shared:errorCode:12007:698:_en_desc","en":"Pet object is not initialized","ru":"Объект питомца не инициализирован"}
+{"id":"shared:errorCode:12008:699:_en_desc","en":"Invalid pet object food","ru":"Недопустимая еда для объекта питомца"}
+{"id":"shared:errorCode:12009:700:_en_desc","en":"Pet object food exceeds 1","ru":"Еда для объекта питомца превышает 1"}
+{"id":"shared:errorCode:12010:701:_en_desc","en":"Failed to enter scene","ru":"Не удалось войти на сцену"}
+{"id":"shared:errorCode:12011:702:_en_desc","en":"Invalid resource point ID","ru":"Недопустимый ID ресурсной точки"}
+{"id":"shared:errorCode:12012:703:_en_desc","en":"Character is already at the resource point","ru":"Персонаж уже находится в точке ресурсов"}
+{"id":"shared:errorCode:12013:704:_en_desc","en":"Invitation was declined","ru":"Приглашение отклонено"}
+{"id":"shared:errorCode:12014:705:_en_desc","en":"The invited player left the channel","ru":"Приглашённый игрок покинул канал"}
+{"id":"shared:errorCode:12015:706:_en_desc","en":"This player is in a multiplayer action and cannot be invited","ru":"Этот игрок выполняет многопользовательское действие, приглашение невозможно"}
+{"id":"shared:errorCode:12016:707:_en_desc","en":"Entering the map","ru":"Вход на карту"}
+{"id":"shared:errorCode:12017:708:_en_desc","en":"Cannot claim rewards at initial level","ru":"На начальном уровне нельзя получить награду"}
+{"id":"shared:errorCode:12018:709:_en_desc","en":"Stage map marker count limit","ru":"Превышен лимит меток на карте этапа"}
+{"id":"shared:errorCode:12019:710:_en_desc","en":"Invalid map marker description","ru":"Недопустимое описание метки на карте"}
+{"id":"shared:errorCode:12020:711:_en_desc","en":"Map marker description length limit","ru":"Превышена допустимая длина описания метки на карте"}
+{"id":"shared:errorCode:12021:712:_en_desc","en":"World map configuration not found","ru":"Конфигурация карты мира не найдена"}
+{"id":"shared:errorCode:12022:713:_en_desc","en":"World map point configuration not found","ru":"Конфигурация точек карты мира не найдена"}
+{"id":"shared:errorCode:12023:714:_en_desc","en":"No trigger configuration","ru":"Конфигурация триггера отсутствует"}
+{"id":"shared:errorCode:12024:715:_en_desc","en":"Trigger type mismatch","ru":"Несовпадение типа триггера"}
+{"id":"shared:errorCode:12025:716:_en_desc","en":"Combat object is empty","ru":"Боевой объект пуст"}
+{"id":"shared:errorCode:12026:717:_en_desc","en":"Combat object level is 0","ru":"Уровень боевого объекта: 0"}
+{"id":"shared:errorCode:12027:718:_en_desc","en":"Target channel is full","ru":"Целевой канал заполнен"}
+{"id":"shared:errorCode:12028:719:_en_desc","en":"No stamina Treasure Chest has reached its completion time","ru":"Ни один сундук с сокровищами за выносливость ещё не готов к получению"}
+{"id":"shared:errorCode:12029:720:_en_desc","en":"Stamina Treasure Chest claim count limit","ru":"Превышен лимит получения сундуков с сокровищами за выносливость"}
+{"id":"shared:errorCode:12030:721:_en_desc","en":"Player map not found","ru":"Карта игрока не найдена"}
+{"id":"shared:errorCode:12031:722:_en_desc","en":"Invalid map spawn point","ru":"Недопустимая точка появления на карте"}
+{"id":"shared:errorCode:12032:723:_en_desc","en":"Not in the same scene","ru":"Не в одной сцене"}
+{"id":"shared:errorCode:12033:724:_en_desc","en":"No object configuration","ru":"Конфигурация объекта отсутствует"}
+{"id":"shared:errorCode:12034:725:_en_desc","en":"Object is not a combat type","ru":"Объект не боевого типа"}
+{"id":"shared:errorCode:12035:726:_en_desc","en":"No object data","ru":"Данные объекта отсутствуют"}
+{"id":"shared:errorCode:12036:727:_en_desc","en":"Object already completed","ru":"Объект уже завершён"}
+{"id":"shared:errorCode:12037:728:_en_desc","en":"Invalid random group","ru":"Недопустимая случайная группа"}
+{"id":"shared:errorCode:12038:729:_en_desc","en":"No random group configuration","ru":"Конфигурация случайной группы отсутствует"}
+{"id":"shared:errorCode:12039:730:_en_desc","en":"No monster configuration","ru":"Конфигурация монстра отсутствует"}
+{"id":"shared:errorCode:12040:731:_en_desc","en":"No monster configuration","ru":"Конфигурация монстра отсутствует"}
+{"id":"shared:errorCode:12041:732:_en_desc","en":"No monster configuration","ru":"Конфигурация монстра отсутствует"}
+{"id":"shared:errorCode:12042:733:_en_desc","en":"Group mismatch","ru":"Несовпадение группы"}
+{"id":"shared:errorCode:12043:734:_en_desc","en":"Object is not of a discoverable type","ru":"Объект не относится к обнаруживаемому типу"}
+{"id":"shared:errorCode:12044:735:_en_desc","en":"Elevator floor did not change","ru":"Этаж лифта не изменился"}
+{"id":"shared:errorCode:12045:736:_en_desc","en":"General repair configuration does not exist","ru":"Общая конфигурация ремонта не существует"}
+{"id":"shared:errorCode:12046:737:_en_desc","en":"General repair configuration is inconsistent","ru":"Общая конфигурация ремонта не согласована"}
+{"id":"shared:errorCode:12047:738:_en_desc","en":"Already repaired","ru":"Уже отремонтировано"}
+{"id":"shared:errorCode:12048:739:_en_desc","en":"Invalid stamina Treasure Chest multiplier","ru":"Недопустимый множитель сундука с сокровищами за выносливость"}
+{"id":"shared:errorCode:12049:740:_en_desc","en":"Stamina Treasure Chest does not exist","ru":"Сундук с сокровищами за выносливость не существует"}
+{"id":"shared:errorCode:12050:741:_en_desc","en":"Stamina Treasure Chest has expired","ru":"Срок сундука с сокровищами за выносливость истёк"}
+{"id":"shared:errorCode:12051:742:_en_desc","en":"Stamina Treasure Chest claim method misconfigured","ru":"Способ получения сундука с сокровищами за выносливость настроен неверно"}
+{"id":"shared:errorCode:12052:743:_en_desc","en":"Daily stamina Treasure Chest claim limit reached","ru":"Достигнут дневной лимит получения сундуков с сокровищами за выносливость"}
+{"id":"shared:errorCode:12053:744:_en_desc","en":"Weekly stamina Treasure Chest claim limit reached","ru":"Достигнут недельный лимит получения сундуков с сокровищами за выносливость"}
+{"id":"shared:errorCode:12054:745:_en_desc","en":"Not enough stamina","ru":"Недостаточно выносливости"}
+{"id":"shared:errorCode:12055:746:_en_desc","en":"This map has not been explored yet","ru":"Эта карта ещё не исследована"}
+{"id":"shared:errorCode:12056:747:_en_desc","en":"No stamina Treasure Chest drop configuration","ru":"Конфигурация выпадения сундуков с сокровищами за выносливость отсутствует"}
+{"id":"shared:errorCode:12057:748:_en_desc","en":"Stamina Treasure Chest claim method configuration exceeds the limit","ru":"Конфигурация способа получения сундука с сокровищами за выносливость превышает лимит"}
+{"id":"shared:errorCode:12058:749:_en_desc","en":"Stamina Treasure Chest claim method not configured","ru":"Способ получения сундука с сокровищами за выносливость не настроен"}
+{"id":"shared:errorCode:12059:750:_en_desc","en":"Not on the map","ru":"Не на карте"}
+{"id":"shared:errorCode:12060:751:_en_desc","en":"Invalid object","ru":"Недопустимый объект"}
+{"id":"shared:errorCode:12061:752:_en_desc","en":"Invalid object Spawner configuration","ru":"Недопустимая конфигурация Spawner объекта"}
+{"id":"shared:errorCode:12062:753:_en_desc","en":"Spawner configuration type error","ru":"Ошибка типа конфигурации Spawner"}
+{"id":"shared:errorCode:12063:754:_en_desc","en":"Already inside the area","ru":"Уже внутри области"}
+{"id":"shared:errorCode:12064:755:_en_desc","en":"Already left the area","ru":"Уже покинул область"}
+{"id":"shared:errorCode:12065:756:_en_desc","en":"Invalid parameter","ru":"Недопустимый параметр"}
+{"id":"shared:errorCode:12066:757:_en_desc","en":"Invalid item","ru":"Недопустимый предмет"}
+{"id":"shared:errorCode:12067:758:_en_desc","en":"Not a detector item; cannot be used","ru":"Предмет не является детектором и не может быть использован"}
+{"id":"shared:errorCode:12068:759:_en_desc","en":"Item cannot be used on the current map","ru":"Предмет нельзя использовать на текущей карте"}
+{"id":"shared:errorCode:12069:760:_en_desc","en":"Invalid parameter for updating the marker","ru":"Недопустимый параметр обновления метки"}
+{"id":"shared:errorCode:12070:761:_en_desc","en":"Length exceeds the limit","ru":"Длина превышает допустимый предел"}
+{"id":"shared:errorCode:12200:762:_en_desc","en":"World boss Treasure Chest configuration does not exist","ru":"Конфигурация сундука с сокровищами мирового босса не существует"}
+{"id":"shared:errorCode:12201:763:_en_desc","en":"No claimed world boss Treasure Chest","ru":"Нет полученных сундуков с сокровищами мирового босса"}
+{"id":"shared:errorCode:13000:764:_en_desc","en":"Quest already completed","ru":"Задание уже выполнено"}
+{"id":"shared:errorCode:13001:765:_en_desc","en":"Quest rewards already claimed","ru":"Награда за задание уже получена"}
+{"id":"shared:errorCode:13002:766:_en_desc","en":"Quest not completed","ru":"Задание не выполнено"}
+{"id":"shared:errorCode:13003:767:_en_desc","en":"Quest not completed","ru":"Задание не выполнено"}
+{"id":"shared:errorCode:13004:768:_en_desc","en":"No such quest configuration","ru":"Такая конфигурация задания отсутствует"}
+{"id":"shared:errorCode:13005:769:_en_desc","en":"Player does not have this quest","ru":"У игрока нет этого задания"}
+{"id":"shared:errorCode:13006:770:_en_desc","en":"No quest item configuration","ru":"Конфигурация предмета задания отсутствует"}
+{"id":"shared:errorCode:13007:771:_en_desc","en":"Quest item type error","ru":"Ошибка типа предмета задания"}
+{"id":"shared:errorCode:13008:772:_en_desc","en":"Quest node does not exist","ru":"Узел задания не существует"}
+{"id":"shared:errorCode:13009:773:_en_desc","en":"Quest node exceeds the limit","ru":"Узел задания превышает лимит"}
+{"id":"shared:errorCode:13010:774:_en_desc","en":"Quest item submission check error","ru":"Ошибка проверки сдачи предметов задания"}
+{"id":"shared:errorCode:13011:775:_en_desc","en":"Tutorial quest cannot be tracked","ru":"Обучающее задание нельзя отслеживать"}
+{"id":"shared:errorCode:13012:776:_en_desc","en":"Random map ID does not exist","ru":"ID случайной карты не существует"}
+{"id":"shared:errorCode:13013:777:_en_desc","en":"Player has not unlocked this random map","ru":"Игрок не открыл эту случайную карту"}
+{"id":"shared:errorCode:13014:778:_en_desc","en":"Invalid item submission parameter","ru":"Недопустимый параметр сдачи предметов"}
+{"id":"shared:errorCode:13015:779:_en_desc","en":"Insufficient quantity of submitted items","ru":"Недостаточное количество сдаваемых предметов"}
+{"id":"shared:errorCode:13016:780:_en_desc","en":"Invalid parameter for submitting items by type","ru":"Недопустимый параметр сдачи предметов по типу"}
+{"id":"shared:errorCode:13017:781:_en_desc","en":"Invalid parameter for selecting submitted items","ru":"Недопустимый параметр выбора сдаваемых предметов"}
+{"id":"shared:errorCode:13018:782:_en_desc","en":"Tracking operation failed (track or untrack)","ru":"Не удалось выполнить действие отслеживания (включить или отключить)"}
+{"id":"shared:errorCode:13019:783:_en_desc","en":"Cannot accept quest due to incorrect quest type","ru":"Невозможно принять задание из-за неверного типа задания"}
+{"id":"shared:errorCode:13020:784:_en_desc","en":"This item is not in the inventory","ru":"Этого предмета нет в инвентаре"}
+{"id":"shared:errorCode:13030:785:_en_desc","en":"The other party has not sent you a friend request; cannot accept","ru":"Эта сторона не отправляла вам заявку в друзья; принять невозможно"}
+{"id":"shared:errorCode:13031:786:_en_desc","en":"This chat conversation does not exist","ru":"Этот чат не существует"}
+{"id":"shared:errorCode:14000:787:_en_desc","en":"Fishing compendium has no fish ID","ru":"В рыболовном справочнике нет ID рыбы"}
+{"id":"shared:errorCode:14001:788:_en_desc","en":"Invalid fishing rod or bait ID","ru":"Недопустимый ID удочки или приманки"}
+{"id":"shared:errorCode:14002:789:_en_desc","en":"Invalid fishing rod ID","ru":"Недопустимый ID удочки"}
+{"id":"shared:errorCode:14003:790:_en_desc","en":"Item type is not a fishing rod","ru":"Тип предмета не является удочкой"}
+{"id":"shared:errorCode:14004:791:_en_desc","en":"Not enough fishing rod items","ru":"Недостаточно удочек"}
+{"id":"shared:errorCode:14005:792:_en_desc","en":"Not enough bait items","ru":"Недостаточно приманок"}
+{"id":"shared:errorCode:14006:793:_en_desc","en":"Invalid fishing pond ID","ru":"Недопустимый ID рыбного пруда"}
+{"id":"shared:errorCode:14007:794:_en_desc","en":"Bait not set","ru":"Приманка не установлена"}
+{"id":"shared:errorCode:14008:795:_en_desc","en":"There are no fish in the fishing pond","ru":"В рыбном пруду нет рыбы"}
+{"id":"shared:errorCode:14009:796:_en_desc","en":"Fishing time","ru":"Время рыбалки"}
+{"id":"shared:errorCode:14010:797:_en_desc","en":"Fishing compendium event has no fish ID","ru":"В событии рыболовного справочника нет ID рыбы"}
+{"id":"shared:errorCode:14011:798:_en_desc","en":"The number of material types required for cooking does not match the configuration","ru":"Количество типов ингредиентов, необходимых для готовки, не соответствует конфигурации"}
+{"id":"shared:errorCode:14012:799:_en_desc","en":"Cooking materials are empty","ru":"Ингредиенты для готовки отсутствуют"}
+{"id":"shared:errorCode:14013:800:_en_desc","en":"The cooking collection item does not exist","ru":"Предмет коллекции кулинарии не существует"}
+{"id":"shared:errorCode:14014:801:_en_desc","en":"The cooking collection item is not a physical type","ru":"Предмет коллекции кулинарии имеет нематериальный тип"}
+{"id":"shared:errorCode:14015:802:_en_desc","en":"The cooking collection item does not exist in the backpack","ru":"Предмет коллекции кулинарии отсутствует в рюкзаке"}
+{"id":"shared:errorCode:14016:803:_en_desc","en":"The cooking ingredient quality does not exist","ru":"Качество кулинарного ингредиента не существует"}
+{"id":"shared:errorCode:14017:804:_en_desc","en":"The cooking ingredient group does not exist","ru":"Группа кулинарных ингредиентов не существует"}
+{"id":"shared:errorCode:14018:805:_en_desc","en":"The quantity of the item to cook exceeds the current limit","ru":"Количество предметов для приготовления превышает текущий лимит"}
+{"id":"shared:errorCode:14019:806:_en_desc","en":"The dish cooking group does not exist","ru":"Группа приготовления блюда не существует"}
+{"id":"shared:errorCode:14020:807:_en_desc","en":"Cooking is not unlocked","ru":"Кулинария не разблокирована"}
+{"id":"shared:errorCode:14021:808:_en_desc","en":"Cooking proficiency is insufficient","ru":"Недостаточно навыка кулинарии"}
+{"id":"shared:errorCode:14022:809:_en_desc","en":"The quantity of the item to cook is 0","ru":"Количество предметов для приготовления: 0"}
+{"id":"shared:errorCode:14023:810:_en_desc","en":"The item to cook does not exist","ru":"Предмет для приготовления не существует"}
+{"id":"shared:errorCode:14024:811:_en_desc","en":"Cooking dexterity requirement is insufficient","ru":"Недостаточна ловкость в кулинарии"}
+{"id":"shared:errorCode:14025:812:_en_desc","en":"Cooking is unlocked","ru":"Кулинария разблокирована"}
+{"id":"shared:errorCode:14026:813:_en_desc","en":"The quantity of ingredients required for the dish does not match","ru":"Количество ингредиентов, необходимых для блюда, не совпадает"}
+{"id":"shared:errorCode:14027:814:_en_desc","en":"Missing the ingredients required to cook this dish","ru":"Не хватает ингредиентов, необходимых для приготовления этого блюда"}
+{"id":"shared:errorCode:14028:815:_en_desc","en":"The ingredients required to cook this dish are of insufficient quality","ru":"Качество ингредиентов, необходимых для приготовления этого блюда, недостаточно"}
+{"id":"shared:errorCode:14029:816:_en_desc","en":"The ingredients required to cook this dish do not exist","ru":"Ингредиенты, необходимые для приготовления этого блюда, не существуют"}
+{"id":"shared:errorCode:14030:817:_en_desc","en":"Crossed the season","ru":"Произошёл переход через сезон"}
+{"id":"shared:errorCode:14031:818:_en_desc","en":"Locked","ru":"Не разблокировано"}
+{"id":"shared:errorCode:14032:819:_en_desc","en":"No formation set","ru":"Отряд не настроен"}
+{"id":"shared:errorCode:14033:820:_en_desc","en":"Point reward already claimed","ru":"Награда за очки уже получена"}
+{"id":"shared:errorCode:14034:821:_en_desc","en":"Insufficient points","ru":"Недостаточно очков"}
+{"id":"shared:errorCode:14035:822:_en_desc","en":"Point reward does not exist","ru":"Награда за очки не существует"}
+{"id":"shared:errorCode:14036:823:_en_desc","en":"Tower climb battle configuration does not exist","ru":"Конфигурация боя на башне не существует"}
+{"id":"shared:errorCode:14037:824:_en_desc","en":"The start and end times of the tower climb battle cross a week","ru":"Время начала и окончания боя на башне переходит через неделю"}
+{"id":"shared:errorCode:14038:825:_en_desc","en":"Invalid bait id","ru":"Неверный id приманки"}
+{"id":"shared:errorCode:14039:826:_en_desc","en":"Item type is not bait","ru":"Тип предмета не является приманкой"}
+{"id":"shared:errorCode:14040:827:_en_desc","en":"Scene world_city configuration is missing","ru":"Отсутствует конфигурация сцены world_city"}
+{"id":"shared:errorCode:14041:828:_en_desc","en":"The scene does not support Star Recovery Power","ru":"Сцена не поддерживает силу звёздного исцеления"}
+{"id":"shared:errorCode:14042:829:_en_desc","en":"No formation data","ru":"Нет данных отряда"}
+{"id":"shared:errorCode:14043:830:_en_desc","en":"Star Recovery Power is empty","ru":"Сила звёздного исцеления исчерпана"}
+{"id":"shared:errorCode:14050:831:_en_desc","en":"Same level, no need to switch","ru":"Тот же уровень, переключение не требуется"}
+{"id":"shared:errorCode:14051:832:_en_desc","en":"Invalid Star Pulse activity level","ru":"Неверный уровень активности звёздного пульса"}
+{"id":"shared:errorCode:14052:833:_en_desc","en":"Switching Star Pulse activity level is still on cooldown","ru":"Переключение уровня активности звёздного пульса ещё на перезарядке"}
+{"id":"shared:errorCode:14053:834:_en_desc","en":"Required Star Pulse activity level is insufficient","ru":"Требуемый уровень активности звёздного пульса недостаточен"}
+{"id":"shared:errorCode:14054:835:_en_desc","en":"This pet level does not exist","ru":"Этот уровень питомца не существует"}
+{"id":"shared:errorCode:14060:836:_en_desc","en":"Cannot ride a mount in the current scene","ru":"В текущей сцене нельзя ездить на скакуне"}
+{"id":"shared:errorCode:14061:837:_en_desc","en":"This mount is not a flying mount","ru":"Этот скакун не является летающим"}
+{"id":"shared:errorCode:14062:838:_en_desc","en":"The mount cannot switch to the current state","ru":"Скакун не может переключиться в текущее состояние"}
+{"id":"shared:errorCode:14063:839:_en_desc","en":"The player is not mounted","ru":"Игрок не находится верхом"}
+{"id":"shared:errorCode:14064:840:_en_desc","en":"The player cannot switch to the current state","ru":"Игрок не может переключиться в текущее состояние"}
+{"id":"shared:errorCode:14065:841:_en_desc","en":"The player is already in the current state","ru":"Игрок уже находится в текущем состоянии"}
+{"id":"shared:errorCode:14066:842:_en_desc","en":"Mount configuration does not exist","ru":"Конфигурация скакуна не существует"}
+{"id":"shared:errorCode:14067:843:_en_desc","en":"Cannot switch mounts in the current riding state","ru":"В текущем состоянии езды нельзя сменить скакуна"}
+{"id":"shared:errorCode:14068:844:_en_desc","en":"Mount snack bag is not unlocked","ru":"Сумка для лакомств скакуна не разблокирована"}
+{"id":"shared:errorCode:14069:845:_en_desc","en":"The quantity of items in the snack bag is less than the quantity to operate","ru":"Количество предметов в сумке для лакомств меньше количества для операции"}
+{"id":"shared:errorCode:14070:846:_en_desc","en":"Pet talent configuration does not exist","ru":"Конфигурация таланта питомца не существует"}
+{"id":"shared:errorCode:14071:847:_en_desc","en":"Snack bag parameter error","ru":"Ошибка параметра сумки для лакомств"}
+{"id":"shared:errorCode:14072:848:_en_desc","en":"This item is not in the snack bag","ru":"Этого предмета нет в сумке для лакомств"}
+{"id":"shared:errorCode:14073:849:_en_desc","en":"Saddle cannot be crafted repeatedly","ru":"Седло нельзя изготовить повторно"}
+{"id":"shared:errorCode:14074:850:_en_desc","en":"Mount snack bag category exceeds the limit","ru":"Категория сумки для лакомств скакуна превышает лимит"}
+{"id":"shared:errorCode:14075:851:_en_desc","en":"Mount snack bag category error","ru":"Ошибка категории сумки для лакомств скакуна"}
+{"id":"shared:errorCode:14076:852:_en_desc","en":"Mount snack bag slot ID error","ru":"Ошибка ID ячейки сумки для лакомств скакуна"}
+{"id":"shared:errorCode:14077:853:_en_desc","en":"Insufficient snack quantity in the mount snack bag","ru":"Недостаточно лакомств в сумке для лакомств скакуна"}
+{"id":"shared:errorCode:14078:854:_en_desc","en":"Mount snack bag add data is zero","ru":"Данные добавления в сумку для лакомств скакуна равны нулю"}
+{"id":"shared:errorCode:14079:855:_en_desc","en":"Mount snack bag generic item subtype configuration error","ru":"Ошибка конфигурации подтипа универсального предмета сумки для лакомств скакуна"}
+{"id":"shared:errorCode:14080:856:_en_desc","en":"Mount snack bag generic item use type configuration error","ru":"Ошибка конфигурации типа использования универсального предмета сумки для лакомств скакуна"}
+{"id":"shared:errorCode:14090:857:_en_desc","en":"Achievement count triggered by non-frontend","ru":"Счётчик достижения запускается не из фронтенда"}
+{"id":"shared:errorCode:14091:858:_en_desc","en":"No such achievement configuration","ru":"Нет такой конфигурации достижения"}
+{"id":"shared:errorCode:14092:859:_en_desc","en":"Achievement reward cannot be claimed","ru":"Награду за достижение нельзя получить"}
+{"id":"shared:errorCode:14093:860:_en_desc","en":"No such achievement group configuration","ru":"Нет такой конфигурации группы достижений"}
+{"id":"shared:errorCode:14094:861:_en_desc","en":"This achievement is not yet unlocked","ru":"Это достижение ещё не разблокировано"}
+{"id":"shared:errorCode:14095:862:_en_desc","en":"This achievement group is not yet unlocked","ru":"Эта группа достижений ещё не разблокирована"}
+{"id":"shared:errorCode:14096:863:_en_desc","en":"This achievement reward has already been claimed","ru":"Эта награда за достижение уже получена"}
+{"id":"shared:errorCode:14097:864:_en_desc","en":"This achievement is not yet completed","ru":"Это достижение ещё не выполнено"}
+{"id":"shared:errorCode:14100:865:_en_desc","en":"The banner pool is not open","ru":"Пул призыва не открыт"}
+{"id":"shared:errorCode:14101:866:_en_desc","en":"Please complete a single observation first","ru":"Сначала выполните одиночное наблюдение"}
+{"id":"shared:errorCode:14120:867:_en_desc","en":"No such title in configuration","ru":"В конфигурации нет такого титула"}
+{"id":"shared:errorCode:14121:868:_en_desc","en":"The player has not obtained this title","ru":"Игрок не получил этот титул"}
+{"id":"shared:errorCode:14122:869:_en_desc","en":"This title type is incorrect","ru":"Неверный тип этого титула"}
+{"id":"shared:errorCode:14123:870:_en_desc","en":"Title obtained repeatedly","ru":"Титул получен повторно"}
+{"id":"shared:errorCode:14140:871:_en_desc","en":"Cannot claim check-in reward","ru":"Нельзя получить награду за вход"}
+{"id":"shared:errorCode:14141:872:_en_desc","en":"The configuration for the current month of this year does not exist","ru":"Конфигурация текущего месяца этого года не существует"}
+{"id":"shared:errorCode:14142:873:_en_desc","en":"The date configuration for this month of this year does not exist","ru":"Конфигурация даты для этого месяца этого года не существует"}
+{"id":"shared:errorCode:14160:874:_en_desc","en":"Pami communication reply configuration does not exist","ru":"Конфигурация ответа связи Пали не существует"}
+{"id":"shared:errorCode:14161:875:_en_desc","en":"Pami communication configuration does not exist","ru":"Конфигурация связи Пали не существует"}
+{"id":"shared:errorCode:14162:876:_en_desc","en":"The player does not have this Pami mail","ru":"У игрока нет этого письма от Пали"}
+{"id":"shared:errorCode:14180:877:_en_desc","en":"The name card displayed hero list exceeds the limit","ru":"Список отображаемых героев на визитке превышает лимит"}
+{"id":"shared:errorCode:14181:878:_en_desc","en":"The name card displayed pet list exceeds the limit","ru":"Список отображаемых питомцев на визитке превышает лимит"}
+{"id":"shared:errorCode:14182:879:_en_desc","en":"Nonexistent name card configuration","ru":"Несуществующая конфигурация визитки"}
+{"id":"shared:errorCode:14183:880:_en_desc","en":"Nonexistent name card character image configuration","ru":"Несуществующая конфигурация образа персонажа на визитке"}
+{"id":"shared:errorCode:14184:881:_en_desc","en":"Nonexistent name card standee backboard configuration","ru":"Несуществующая конфигурация задника стенда визитки"}
+{"id":"shared:errorCode:14185:882:_en_desc","en":"Nonexistent name card standee baseboard configuration","ru":"Несуществующая конфигурация основания стенда визитки"}
+{"id":"shared:errorCode:14186:883:_en_desc","en":"Nonexistent name card standee Kibo accessory configuration","ru":"Несуществующая конфигурация аксессуара кибо для стенда визитки"}
+{"id":"shared:errorCode:14187:884:_en_desc","en":"Not a customizable name card standee charm configuration","ru":"Не является конфигурацией настраиваемого брелока для стенда визитки"}
+{"id":"shared:errorCode:14188:885:_en_desc","en":"Duplicate displayed pet on the name card","ru":"Повторяющийся отображаемый питомец на визитке"}
+{"id":"shared:errorCode:14189:886:_en_desc","en":"Nonexistent name card avatar configuration","ru":"Несуществующая конфигурация аватара визитки"}
+{"id":"shared:errorCode:14190:887:_en_desc","en":"Nonexistent name card avatar frame configuration","ru":"Несуществующая конфигурация рамки аватара визитки"}
+{"id":"shared:errorCode:14191:888:_en_desc","en":"This avatar is not yet owned","ru":"Этот аватар ещё не получен"}
+{"id":"shared:errorCode:14192:889:_en_desc","en":"This avatar frame is not yet owned","ru":"Эта рамка аватара ещё не получена"}
+{"id":"shared:errorCode:14193:890:_en_desc","en":"This character image is not yet owned","ru":"Этот образ персонажа ещё не получен"}
+{"id":"shared:errorCode:14194:891:_en_desc","en":"This standee backboard is not yet owned","ru":"Этот задник стенда ещё не получен"}
+{"id":"shared:errorCode:14195:892:_en_desc","en":"This standee baseboard is not yet owned","ru":"Это основание стенда ещё не получено"}
+{"id":"shared:errorCode:14196:893:_en_desc","en":"You do not yet own this Kibo accessory.","ru":"У вас ещё нет этого аксессуара для кибо."}
+{"id":"shared:errorCode:14200:894:_en_desc","en":"Tutorial group configuration error","ru":"Ошибка конфигурации группы обучения"}
+{"id":"shared:errorCode:14201:895:_en_desc","en":"Tutorial configuration error","ru":"Ошибка конфигурации обучения"}
+{"id":"shared:errorCode:14202:896:_en_desc","en":"Tutorial group and tutorial configuration mapping error","ru":"Ошибка сопоставления группы обучения и конфигурации обучения"}
+{"id":"shared:errorCode:14203:897:_en_desc","en":"Tutorial cannot be skipped in this mode","ru":"В этом режиме нельзя пропустить обучение"}
+{"id":"shared:errorCode:14204:898:_en_desc","en":"Invalid tutorial skip parameters","ru":"Неверные параметры пропуска обучения"}
+{"id":"shared:errorCode:14220:899:_en_desc","en":"No deployed heroes were sent when setting up the formation","ru":"При настройке отряда не переданы выставленные герои"}
+{"id":"shared:errorCode:14221:900:_en_desc","en":"The same hero was deployed twice when setting up the formation","ru":"При настройке отряда один и тот же герой выставлен дважды"}
+{"id":"shared:errorCode:14222:901:_en_desc","en":"Deployed heroes exceed the limit when setting up the formation","ru":"При настройке отряда превышен лимит выставленных героев"}
+{"id":"shared:errorCode:14223:902:_en_desc","en":"Formation system error","ru":"Ошибка системы отрядов"}
+{"id":"shared:errorCode:14224:903:_en_desc","en":"Custom formation trial character does not exist","ru":"Пробный персонаж пользовательского отряда не существует"}
+{"id":"shared:errorCode:14225:904:_en_desc","en":"Custom formation trial Kibo does not exist","ru":"Пробное кибо пользовательского отряда не существует"}
+{"id":"shared:errorCode:14226:905:_en_desc","en":"Invalid custom formation trial type","ru":"Неверный тип пробы пользовательского отряда"}
+{"id":"shared:errorCode:14227:906:_en_desc","en":"Formation system removal parameters are empty","ru":"Параметры удаления в системе отрядов пусты"}
+{"id":"shared:errorCode:14228:907:_en_desc","en":"Formation system custom formation is empty","ru":"Пользовательский отряд в системе отрядов пуст"}
+{"id":"shared:errorCode:14229:908:_en_desc","en":"Formation system custom formation cannot be empty","ru":"Пользовательский отряд в системе отрядов не может быть пустым"}
+{"id":"shared:errorCode:14300:909:_en_desc","en":"Shop purchase information has expired","ru":"Информация о покупке в магазине устарела"}
+{"id":"shared:errorCode:14301:910:_en_desc","en":"Shop item purchase time is out of range","ru":"Время покупки товара в магазине вне допустимого диапазона"}
+{"id":"shared:errorCode:14302:911:_en_desc","en":"Shop item is not unlocked","ru":"Товар в магазине не разблокирован"}
+{"id":"shared:errorCode:14303:912:_en_desc","en":"Shop is not open","ru":"Магазин не открыт"}
+{"id":"shared:errorCode:14304:913:_en_desc","en":"Exceeded the shop stock limit","ru":"Превышен лимит запасов магазина"}
+{"id":"shared:errorCode:14305:914:_en_desc","en":"Corresponding shop configuration does not exist","ru":"Соответствующая конфигурация магазина не существует"}
+{"id":"shared:errorCode:14306:915:_en_desc","en":"Corresponding item configuration does not exist","ru":"Соответствующая конфигурация товара не существует"}
+{"id":"shared:errorCode:14307:916:_en_desc","en":"Item purchases exceed the configured limit","ru":"Покупки товара превышают установленный лимит"}
+{"id":"shared:errorCode:14308:917:_en_desc","en":"Sent purchase quantity is empty","ru":"Переданное количество для покупки пусто"}
+{"id":"shared:errorCode:14309:918:_en_desc","en":"Invalid channel for item purchase","ru":"Недопустимый канал покупки товара"}
+{"id":"shared:errorCode:14310:919:_en_desc","en":"Corresponding shop purchase configuration does not exist","ru":"Соответствующая конфигурация покупки в магазине не существует"}
+{"id":"shared:errorCode:14311:920:_en_desc","en":"Corresponding shop World configuration does not exist","ru":"Соответствующая конфигурация мира магазина не существует"}
+{"id":"shared:errorCode:14350:921:_en_desc","en":"Field is already tilled","ru":"Поле уже возделано"}
+{"id":"shared:errorCode:14351:922:_en_desc","en":"Field is not tilled","ru":"Поле не возделано"}
+{"id":"shared:errorCode:14352:923:_en_desc","en":"Invalid seed ID","ru":"Неверный ID семян"}
+{"id":"shared:errorCode:14353:924:_en_desc","en":"Field already has plants","ru":"На поле уже посажены растения"}
+{"id":"shared:errorCode:14354:925:_en_desc","en":"Field has no plants yet","ru":"На поле ещё нет растений"}
+{"id":"shared:errorCode:14355:926:_en_desc","en":"Farming system is not unlocked","ru":"Система земледелия не разблокирована"}
+{"id":"shared:errorCode:14356:927:_en_desc","en":"Corresponding seed ID not found in general item table","ru":"Соответствующий ID семян не найден в общей таблице предметов"}
+{"id":"shared:errorCode:14357:928:_en_desc","en":"Corresponding seed ID not found in seed table","ru":"Соответствующий ID семян не найден в таблице семян"}
+{"id":"shared:errorCode:14358:929:_en_desc","en":"Item type in general item table is not seed","ru":"Тип предмета в общей таблице предметов не является семенами"}
+{"id":"shared:errorCode:14359:930:_en_desc","en":"Field is not yet ready for harvest","ru":"Поле ещё не готово к сбору урожая"}
+{"id":"shared:errorCode:14360:931:_en_desc","en":"Field pet cannot harvest automatically","ru":"Питомец поля не может собирать урожай автоматически"}
+{"id":"shared:errorCode:14361:932:_en_desc","en":"Field water level is already sufficient","ru":"Уровень воды на поле уже достаточный"}
+{"id":"shared:errorCode:14362:933:_en_desc","en":"Field type is incompatible","ru":"Тип поля не подходит"}
+{"id":"shared:errorCode:14363:934:_en_desc","en":"Kibo cannot plant special large-area seeds","ru":"кибо не может сажать особые семена, занимающие большую площадь"}
+{"id":"shared:errorCode:14400:935:_en_desc","en":"Next level not found for gathering building","ru":"Не найден следующий уровень здания сбора"}
+{"id":"shared:errorCode:14401:936:_en_desc","en":"World gathering configuration not found","ru":"Конфигурация мирового сбора не найдена"}
+{"id":"shared:errorCode:14402:937:_en_desc","en":"Location gathering configuration not found","ru":"Конфигурация сбора в локации не найдена"}
+{"id":"shared:errorCode:14403:938:_en_desc","en":"Gathering has reached its limit","ru":"Сбор достиг предела"}
+{"id":"shared:errorCode:14404:939:_en_desc","en":"Gathering building does not exist","ru":"Здание сбора не существует"}
+{"id":"shared:errorCode:14405:940:_en_desc","en":"Gathered items do not match","ru":"Собранные предметы не совпадают"}
+{"id":"shared:errorCode:14406:941:_en_desc","en":"Gathering has not started","ru":"Сбор не начат"}
+{"id":"shared:errorCode:14407:942:_en_desc","en":"Gathering building conditions not met","ru":"Условия здания сбора не выполнены"}
+{"id":"shared:errorCode:14408:943:_en_desc","en":"Gathering reward is empty","ru":"Награда за сбор пуста"}
+{"id":"shared:errorCode:14409:944:_en_desc","en":"Location gathering production configuration not found","ru":"Конфигурация производства при сборе в локации не найдена"}
+{"id":"shared:errorCode:14410:945:_en_desc","en":"Location gathering drop configuration not found","ru":"Конфигурация выпадения при сборе в локации не найдена"}
+{"id":"shared:errorCode:14450:946:_en_desc","en":"Number of formations exceeds the maximum","ru":"Количество отрядов превышает максимум"}
+{"id":"shared:errorCode:14451:947:_en_desc","en":"Formation type does not exist","ru":"Тип отряда не существует"}
+{"id":"shared:errorCode:14452:948:_en_desc","en":"Selected controlled character is not in the formation","ru":"Выбранный управляемый персонаж отсутствует в отряде"}
+{"id":"shared:errorCode:14453:949:_en_desc","en":"Formation wiped out","ru":"Отряд полностью уничтожен"}
+{"id":"shared:errorCode:14454:950:_en_desc","en":"Character in formation is dead","ru":"Персонаж в отряде погиб"}
+{"id":"shared:errorCode:14455:951:_en_desc","en":"Player does not have this character","ru":"У игрока нет этого персонажа"}
+{"id":"shared:errorCode:14456:952:_en_desc","en":"This character is not in the formation","ru":"Этого персонажа нет в отряде"}
+{"id":"shared:errorCode:14457:953:_en_desc","en":"Character in formation is still alive","ru":"Персонаж в отряде ещё жив"}
+{"id":"shared:errorCode:14458:954:_en_desc","en":"Current formation wiped out","ru":"Текущий отряд полностью уничтожен"}
+{"id":"shared:errorCode:14459:955:_en_desc","en":"Current formation system does not exist","ru":"Текущая система отрядов не существует"}
+{"id":"shared:errorCode:14460:956:_en_desc","en":"Current formation does not exist","ru":"Текущий отряд не существует"}
+{"id":"shared:errorCode:14461:957:_en_desc","en":"Current formation ID does not exist","ru":"ID текущего отряда не существует"}
+{"id":"shared:errorCode:14470:958:_en_desc","en":"Archive entry already exists and cannot be obtained again","ru":"Запись в архиве уже существует, повторное получение невозможно"}
+{"id":"shared:errorCode:14471:959:_en_desc","en":"Archive acquisition method already exists","ru":"Способ получения записи в архиве уже существует"}
+{"id":"shared:errorCode:14472:960:_en_desc","en":"Player is too far from the book","ru":"Игрок слишком далеко от книги"}
+{"id":"shared:errorCode:14473:961:_en_desc","en":"Too far from the NPC to obtain this book","ru":"Слишком далеко от NPC, чтобы получить эту книгу"}
+{"id":"shared:errorCode:14474:962:_en_desc","en":"No archive item configuration","ru":"Нет конфигурации предмета архива"}
+{"id":"shared:errorCode:14475:963:_en_desc","en":"Kibo archive data does not exist","ru":"Данные архива кибо не существуют"}
+{"id":"shared:errorCode:14476:964:_en_desc","en":"Kibo archive level not reached","ru":"Уровень архива кибо не достигнут"}
+{"id":"shared:errorCode:14477:965:_en_desc","en":"Kibo archive reward already claimed","ru":"Награда архива кибо уже получена"}
+{"id":"shared:errorCode:15000:966:_en_desc","en":"Event is not yet open","ru":"Событие пока не открыто"}
+{"id":"shared:errorCode:15001:967:_en_desc","en":"Event is closed","ru":"Событие закрыто"}
+{"id":"shared:errorCode:15002:968:_en_desc","en":"Invalid event request parameters","ru":"Неверные параметры запроса события"}
+{"id":"shared:errorCode:15003:969:_en_desc","en":"Invalid event request parameters","ru":"Неверные параметры запроса события"}
+{"id":"shared:errorCode:15100:970:_en_desc","en":"Invalid wheel slot setting","ru":"Неверная настройка ячейки колеса"}
+{"id":"shared:errorCode:15101:971:_en_desc","en":"A mount is already in this wheel slot","ru":"В этой ячейке колеса уже есть ездовое животное"}
+{"id":"shared:errorCode:15102:972:_en_desc","en":"This pet is not a mount","ru":"Этот питомец не является ездовым животным"}
+{"id":"shared:errorCode:15103:973:_en_desc","en":"The mount being unequipped is currently being ridden","ru":"Снимаемое ездовое животное сейчас используется для езды"}
+{"id":"shared:errorCode:15104:974:_en_desc","en":"This mount is not set in the wheel","ru":"Это ездовое животное не установлено в колесе"}
+{"id":"shared:errorCode:15105:975:_en_desc","en":"The same item is placed in the wheel","ru":"В колесе размещён одинаковый предмет"}
+{"id":"shared:errorCode:15106:976:_en_desc","en":"Wheel type does not exist","ru":"Тип колеса не существует"}
+{"id":"shared:errorCode:15107:977:_en_desc","en":"Invalid selected wheel slot","ru":"Неверная выбранная ячейка колеса"}
+{"id":"shared:errorCode:15108:978:_en_desc","en":"Wheel slot setting exceeds the limit","ru":"Настройка ячеек колеса превышает лимит"}
+{"id":"shared:errorCode:15120:979:_en_desc","en":"This ranch number does not exist","ru":"Площадка ранчо с этим номером не существует"}
+{"id":"shared:errorCode:15121:980:_en_desc","en":"This ranch storage box is empty","ru":"Ящик хранения этого ранчо пуст"}
+{"id":"shared:errorCode:15122:981:_en_desc","en":"This ranch drop product does not exist","ru":"Продукт выпадения этого ранчо не существует"}
+{"id":"shared:errorCode:15123:982:_en_desc","en":"Pet egg inventory is full","ru":"Инвентарь для яиц питомцев заполнен"}
+{"id":"shared:errorCode:15124:983:_en_desc","en":"This pet egg does not exist in the ranch","ru":"Этого яйца питомца нет на ранчо"}
+{"id":"shared:errorCode:15125:984:_en_desc","en":"This ranch level does not exist","ru":"Этого уровня ранчо не существует"}
+{"id":"shared:errorCode:15126:985:_en_desc","en":"Ranch level has reached maximum","ru":"Ранчо достигло максимального уровня"}
+{"id":"shared:errorCode:15127:986:_en_desc","en":"Farm upgrade requirements not met","ru":"Требования к улучшению ранчо не выполнены"}
+{"id":"shared:errorCode:15128:987:_en_desc","en":"Farm system not unlocked","ru":"Система ранчо не разблокирована"}
+{"id":"shared:errorCode:15129:988:_en_desc","en":"Kibo placement limit exceeded","ru":"Превышен лимит размещения кибо"}
+{"id":"shared:errorCode:15130:989:_en_desc","en":"Pets cannot be caught on battle maps","ru":"На боевых картах нельзя ловить питомцев"}
+{"id":"shared:errorCode:15131:990:_en_desc","en":"Kibo HP too high for Star Binding","ru":"Слишком высокое здоровье кибо для звёздной связи"}
+{"id":"shared:errorCode:15132:991:_en_desc","en":"Pets on the farm cannot perform other labor","ru":"Питомцы на ранчо не могут выполнять другую работу"}
+{"id":"shared:errorCode:15133:992:_en_desc","en":"Duplicate Star Binding in dungeon","ru":"Повторная звёздная связь в подземелье"}
+{"id":"shared:errorCode:15134:993:_en_desc","en":"Daily Star Binding limit for Anomalous Star Nest reached","ru":"Достигнут дневной лимит звёздных связей для Аномального звёздного гнезда"}
+{"id":"shared:errorCode:15135:994:_en_desc","en":"Star Binding limit reached in tutorial stage","ru":"Достигнут лимит звёздных связей на обучающем этапе"}
+{"id":"shared:errorCode:15140:995:_en_desc","en":"Battlefield not found","ru":"Поле боя не найдено"}
+{"id":"shared:errorCode:15141:996:_en_desc","en":"Player battlefield already exists","ru":"Поле боя игрока уже существует"}
+{"id":"shared:errorCode:15142:997:_en_desc","en":"Monster configuration not found","ru":"Конфигурация монстров не найдена"}
+{"id":"shared:errorCode:15143:998:_en_desc","en":"Combat unit not found","ru":"Боевая единица не найдена"}
+{"id":"shared:errorCode:15144:999:_en_desc","en":"Pet catching cooldown","ru":"Перезарядка ловли питомцев"}
+{"id":"shared:errorCode:15145:1000:_en_desc","en":"This pet cannot be caught","ru":"Этого питомца нельзя поймать"}
+{"id":"shared:errorCode:15146:1001:_en_desc","en":"Invalid pet catching parameters","ru":"Недопустимые параметры ловли питомцев"}
+{"id":"shared:errorCode:15147:1002:_en_desc","en":"World event conditions not met","ru":"Условия мирового события не выполнены"}
+{"id":"shared:errorCode:15150:1003:_en_desc","en":"Event has not started","ru":"Событие ещё не началось"}
+{"id":"shared:errorCode:15151:1004:_en_desc","en":"World event configuration does not exist","ru":"Конфигурация мирового события не существует"}
+{"id":"shared:errorCode:15152:1005:_en_desc","en":"Event already completed","ru":"Событие уже завершено"}
+{"id":"shared:errorCode:15153:1006:_en_desc","en":"Event step is 0","ru":"Шаг события: 0"}
+{"id":"shared:errorCode:15154:1007:_en_desc","en":"World event system error","ru":"Ошибка системы мировых событий"}
+{"id":"shared:errorCode:15155:1008:_en_desc","en":"In combat","ru":"В бою"}
+{"id":"shared:errorCode:15156:1009:_en_desc","en":"Invalid Kibo work type for farming hut","ru":"Недопустимый тип работы кибо в фермерской хижине"}
+{"id":"shared:errorCode:15157:1010:_en_desc","en":"Kibo cannot be assigned to this building","ru":"Кибо нельзя назначить в это здание"}
+{"id":"shared:errorCode:15158:1011:_en_desc","en":"Not in production queue","ru":"Нет в очереди производства"}
+{"id":"shared:errorCode:15159:1012:_en_desc","en":"Kibo egg incubation has not started","ru":"Высиживание яйца кибо не начато"}
+{"id":"shared:errorCode:15160:1013:_en_desc","en":"Kibo egg is not in Normal state","ru":"Яйцо кибо не в состоянии Normal"}
+{"id":"shared:errorCode:15161:1014:_en_desc","en":"Kibo egg already finished incubating","ru":"Яйцо кибо уже высижено"}
+{"id":"shared:errorCode:15162:1015:_en_desc","en":"Kibo egg has not finished incubating","ru":"Яйцо кибо ещё не высижено"}
+{"id":"shared:errorCode:15163:1016:_en_desc","en":"Kibo egg is incubating","ru":"Яйцо кибо высиживается"}
+{"id":"shared:errorCode:15164:1017:_en_desc","en":"Kibo egg is not in incubation queue","ru":"Яйцо кибо отсутствует в очереди высиживания"}
+{"id":"shared:errorCode:15170:1018:_en_desc","en":"The same Kibo is deployed in the Kibo battle formation","ru":"В боевом отряде кибо задействован один и тот же кибо"}
+{"id":"shared:errorCode:15171:1019:_en_desc","en":"Duplicate hero common skills deployed in the Kibo battle formation","ru":"В боевом отряде кибо задействованы одинаковые общие навыки героев"}
+{"id":"shared:errorCode:15172:1020:_en_desc","en":"Kibo with duplicate IDs deployed in the Kibo battle formation","ru":"В боевом отряде кибо задействованы кибо с одинаковыми ID"}
+{"id":"shared:errorCode:15173:1021:_en_desc","en":"Kibo battle formation count exceeds the maximum limit","ru":"Количество боевых отрядов кибо превышает максимальный лимит"}
+{"id":"shared:errorCode:15174:1022:_en_desc","en":"Number of Kibo deployed in the Kibo battle formation exceeds the maximum limit","ru":"Количество кибо в боевом отряде превышает максимальный лимит"}
+{"id":"shared:errorCode:15175:1023:_en_desc","en":"Total number of skills selected in the Kibo battle formation exceeds the maximum limit","ru":"Общее количество выбранных навыков в боевом отряде кибо превышает максимальный лимит"}
+{"id":"shared:errorCode:15176:1024:_en_desc","en":"Kibo battle configuration does not exist","ru":"Конфигурация боя кибо не существует"}
+{"id":"shared:errorCode:15177:1025:_en_desc","en":"Current Kibo battle formation is not set","ru":"Текущий боевой отряд кибо не задан"}
+{"id":"shared:errorCode:15178:1026:_en_desc","en":"Current Kibo battle formation does not meet the required Kibo count","ru":"Текущий боевой отряд кибо не соответствует требуемому количеству кибо"}
+{"id":"shared:errorCode:15179:1027:_en_desc","en":"Number of active skills selected in the Kibo battle formation exceeds the maximum limit","ru":"Количество выбранных активных навыков в боевом отряде кибо превышает максимальный лимит"}
+{"id":"shared:errorCode:15180:1028:_en_desc","en":"Number of passive skills selected in the Kibo battle formation exceeds the maximum limit","ru":"Количество выбранных пассивных навыков в боевом отряде кибо превышает максимальный лимит"}
+{"id":"shared:errorCode:15181:1029:_en_desc","en":"This skill is not in this Kibo battle's active skill pool","ru":"Этот навык отсутствует в пуле активных навыков этого боя кибо"}
+{"id":"shared:errorCode:15182:1030:_en_desc","en":"A Kibo battle is already in progress","ru":"Бой кибо уже идёт"}
+{"id":"shared:errorCode:15183:1031:_en_desc","en":"Kibo battle chapter does not exist","ru":"Глава боя кибо не существует"}
+{"id":"shared:errorCode:15184:1032:_en_desc","en":"This Kibo battle chapter is not unlocked","ru":"Эта глава боя кибо не разблокирована"}
+{"id":"shared:errorCode:15185:1033:_en_desc","en":"Prerequisite Kibo battle for this Kibo battle is not completed","ru":"Предварительный бой кибо для этого боя кибо не завершён"}
+{"id":"shared:errorCode:15186:1034:_en_desc","en":"Trial Kibo does not exist","ru":"Пробный кибо не существует"}
+{"id":"shared:errorCode:15187:1035:_en_desc","en":"Only trial Kibo can be deployed in this Kibo battle","ru":"В этом бою кибо можно задействовать только пробных кибо"}
+{"id":"shared:errorCode:15188:1036:_en_desc","en":"Only Kibo owned by the player can be deployed in this Kibo battle","ru":"В этом бою кибо можно задействовать только кибо, принадлежащих игроку"}
+{"id":"shared:errorCode:15189:1037:_en_desc","en":"Kibo battle has not started","ru":"Бой кибо ещё не начался"}
+{"id":"shared:errorCode:15190:1038:_en_desc","en":"Kibo summon position is out of range","ru":"Позиция призыва кибо вне допустимого диапазона"}
+{"id":"shared:errorCode:15191:1039:_en_desc","en":"Player is not in the Kibo battle scene","ru":"Игрок не находится на сцене боя кибо"}
+{"id":"shared:errorCode:15192:1040:_en_desc","en":"Kibo battle configuration art resource map does not exist","ru":"Карта художественных ресурсов конфигурации боя кибо не существует"}
+{"id":"shared:errorCode:15193:1041:_en_desc","en":"Kibo battle scene transition failed","ru":"Не удалось переключить сцену боя кибо"}
+{"id":"shared:errorCode:15194:1042:_en_desc","en":"Kibo battle map configuration does not exist","ru":"Конфигурация карты боя кибо не существует"}
+{"id":"shared:errorCode:15195:1043:_en_desc","en":"Region does not exist","ru":"Регион не существует"}
+{"id":"shared:errorCode:15196:1044:_en_desc","en":"Map reward already claimed","ru":"Награда за карту уже получена"}
+{"id":"shared:errorCode:15197:1045:_en_desc","en":"Insufficient region level","ru":"Недостаточный уровень региона"}
+{"id":"shared:errorCode:15200:1046:_en_desc","en":"Emoji disabled in chat system","ru":"Эмодзи в системе чата отключены"}
+{"id":"shared:errorCode:15201:1047:_en_desc","en":"Chat system closed","ru":"Система чата закрыта"}
+{"id":"shared:errorCode:15300:1048:_en_desc","en":"This shop feature is temporarily closed","ru":"Эта функция магазина временно закрыта"}
+{"id":"shared:errorCode:15301:1049:_en_desc","en":"Name change system closed","ru":"Система смены имени закрыта"}
+{"id":"shared:errorCode:15302:1050:_en_desc","en":"Purchase system closed","ru":"Система покупок закрыта"}
+{"id":"shared:errorCode:15303:1051:_en_desc","en":"Formation system closed","ru":"Система отрядов закрыта"}
+{"id":"shared:errorCode:15304:1052:_en_desc","en":"Shop system closed","ru":"Система магазина закрыта"}
+{"id":"shared:errorCode:15305:1053:_en_desc","en":"Homestead technology closed","ru":"Технологии поместья закрыты"}
+{"id":"shared:errorCode:15306:1054:_en_desc","en":"Achievement system closed","ru":"Система достижений закрыта"}
+{"id":"shared:errorCode:15307:1055:_en_desc","en":"Profile card system closed","ru":"Система визитных карточек закрыта"}
+{"id":"shared:errorCode:15308:1056:_en_desc","en":"Recording closed","ru":"Запись закрыта"}
+{"id":"shared:errorCode:15309:1057:_en_desc","en":"Character profile closed","ru":"Профиль персонажа закрыт"}
+{"id":"shared:errorCode:15310:1058:_en_desc","en":"Homestead building inventory closed","ru":"Инвентарь построек поместья закрыт"}
+{"id":"shared:errorCode:15311:1059:_en_desc","en":"Homestead system closed","ru":"Система поместья закрыта"}
+{"id":"shared:errorCode:15312:1060:_en_desc","en":"Name change closed","ru":"Смена имени закрыта"}
+{"id":"shared:errorCode:15313:1061:_en_desc","en":"Signature editing closed","ru":"Изменение подписи закрыто"}
+{"id":"shared:errorCode:15314:1062:_en_desc","en":"Stamina purchase closed","ru":"Покупка выносливости закрыта"}
+{"id":"shared:errorCode:15315:1063:_en_desc","en":"Kibo battle closed","ru":"Бои кибо закрыты"}
+{"id":"shared:errorCode:15316:1064:_en_desc","en":"Pet rename system closed","ru":"Система переименования питомцев закрыта"}
+{"id":"shared:errorCode:15317:1065:_en_desc","en":"Formation rename system closed","ru":"Система переименования отрядов закрыта"}
+{"id":"shared:errorCode:15318:1066:_en_desc","en":"Signature system closed","ru":"Система подписей закрыта"}
+{"id":"shared:errorCode:15319:1067:_en_desc","en":"Renaming recording templates closed","ru":"Переименование шаблонов записи закрыто"}
+{"id":"shared:errorCode:15350:1068:_en_desc","en":"Payment status error in top-up system","ru":"Ошибка статуса платежа в системе пополнения"}
+{"id":"shared:errorCode:15351:1069:_en_desc","en":"Failed to retrieve order information by order number in top-up system","ru":"Не удалось получить информацию о заказе по номеру заказа в системе пополнения"}
+{"id":"shared:errorCode:15352:1070:_en_desc","en":"Error retrieving product information in top-up system","ru":"Ошибка получения информации о товаре в системе пополнения"}
+{"id":"shared:errorCode:15360:1071:_en_desc","en":"Purchase quantity is empty in payment system","ru":"Количество покупки пусто в платёжной системе"}
+{"id":"shared:errorCode:15361:1072:_en_desc","en":"Failed to retrieve order key by APPID for purchased product in payment system","ru":"Не удалось получить ключ заказа по APPID для приобретённого товара в платёжной системе"}
+{"id":"shared:errorCode:15400:1073:_en_desc","en":"Custom photo template limit reached","ru":"Достигнут лимит пользовательских шаблонов фото"}
+{"id":"shared:errorCode:15401:1074:_en_desc","en":"Invalid custom photo template ID","ru":"Неверный ID пользовательского шаблона фото"}
+{"id":"shared:errorCode:15402:1075:_en_desc","en":"This custom photo template does not exist","ru":"Этот пользовательский шаблон фото не существует"}
+{"id":"shared:errorCode:15403:1076:_en_desc","en":"This bubble is not available","ru":"Этот пузырь недоступен"}
+{"id":"shared:errorCode:15404:1077:_en_desc","en":"This background is not available","ru":"Этот фон недоступен"}
+{"id":"shared:errorCode:15410:1078:_en_desc","en":"Chat sticker collection has reached the limit.","ru":"Достигнут лимит коллекции эмодзи для чата."}
+{"id":"shared:errorCode:15412:1079:_en_desc","en":"The requested stickers include duplicates.","ru":"Среди запрошенных эмодзи есть одинаковые."}
+{"id":"shared:errorCode:15413:1080:_en_desc","en":"Sticker not found.","ru":"Эмодзи не существует."}
+{"id":"shared:errorCode:15414:1081:_en_desc","en":"Sticker not owned.","ru":"Эмодзи не приобретен."}
+{"id":"shared:errorCode:15420:1082:_en_desc","en":"No pets assigned.","ru":"Нет назначенных питомцев."}
+{"id":"shared:errorCode:15421:1083:_en_desc","en":"Not enough satiety for the building pet to perform the action.","ru":"Недостаточно сытости питомца для работы со зданием."}
+{"id":"shared:errorCode:15422:1084:_en_desc","en":"This building cannot be managed remotely.","ru":"Этим зданием нельзя управлять удаленно."}
+{"id":"shared:errorCode:15423:1085:_en_desc","en":"Cannot assign pets to this building.","ru":"В это здание нельзя назначить питомцев."}
+{"id":"shared:errorCode:15424:1086:_en_desc","en":"Kibo abilities are suppressed. Raise your Star Awareness level to feed them~","ru":"Способности кибо подавлены. Чтобы покормить, повысьте уровень звездного сознания~"}
+{"id":"shared:errorCode:15440:1087:_en_desc","en":"Already in a team","ru":"Уже в отряде"}
+{"id":"shared:errorCode:15441:1088:_en_desc","en":"Not in party.","ru":"Не в отряде."}
+{"id":"shared:errorCode:15442:1089:_en_desc","en":"Not the team leader","ru":"Не лидер отряда"}
+{"id":"shared:errorCode:15443:1090:_en_desc","en":"Invitation already sent.","ru":"Приглашение уже отправлено."}
+{"id":"shared:errorCode:15444:1091:_en_desc","en":"Exceeds maximum party size.","ru":"Превышен максимальный размер отряда."}
+{"id":"shared:errorCode:15445:1092:_en_desc","en":"You cannot do this to yourself.","ru":"Нельзя выполнить это действие с собой."}
+{"id":"shared:errorCode:15446:1093:_en_desc","en":"The invited player is already in a party.","ru":"Приглашенный игрок уже в отряде."}
+{"id":"shared:errorCode:15447:1094:_en_desc","en":"This player has not been invited.","ru":"Этот игрок не был приглашен."}
+{"id":"shared:errorCode:15448:1095:_en_desc","en":"Invitation has expired.","ru":"Срок действия приглашения истек."}
+{"id":"shared:errorCode:15449:1096:_en_desc","en":"Matching in progress.","ru":"Идет подбор."}
+{"id":"shared:errorCode:15450:1097:_en_desc","en":"Matched party is empty.","ru":"Подобранный отряд пуст."}
+{"id":"shared:errorCode:15451:1098:_en_desc","en":"Failed to create scene.","ru":"Не удалось создать сцену."}
+{"id":"shared:errorCode:15452:1099:_en_desc","en":"Unable to match.","ru":"Подбор невозможен."}
+{"id":"shared:errorCode:15453:1100:_en_desc","en":"Timed out waiting to enter the dungeon.","ru":"Истекло время ожидания входа в подземелье."}
+{"id":"shared:errorCode:15454:1101:_en_desc","en":"Timed out waiting to decline entering the dungeon.","ru":"Истекло время ожидания отказа от входа в подземелье."}
+{"id":"shared:errorCode:15455:1102:_en_desc","en":"You have already accepted another invitation.","ru":"Вы уже приняли другое приглашение."}
+{"id":"shared:errorCode:15456:1103:_en_desc","en":"Party members are empty.","ru":"Нет участников отряда."}
+{"id":"shared:errorCode:15457:1104:_en_desc","en":"Invitation exceeds maximum party size.","ru":"Приглашение превышает максимальный размер отряда."}
+{"id":"shared:errorCode:15458:1105:_en_desc","en":"You have not been invited by this player.","ru":"Этот игрок вас не приглашал."}
+{"id":"shared:errorCode:15459:1106:_en_desc","en":"You have not been invited.","ru":"Вас не приглашали."}
+{"id":"shared:errorCode:15460:1107:_en_desc","en":"Matching has not started.","ru":"Подбор еще не начался."}
+{"id":"shared:errorCode:15461:1108:_en_desc","en":"No such match party ID.","ru":"Нет отряда подбора с таким ID."}
+{"id":"shared:errorCode:15462:1109:_en_desc","en":"No such ready match party ID.","ru":"Нет отряда подбора с таким ID готовности."}
+{"id":"shared:errorCode:15463:1110:_en_desc","en":"The target player does not meet the dungeon level requirement.","ru":"Целевой игрок не соответствует требованию уровня подземелья."}
+{"id":"shared:errorCode:15464:1111:_en_desc","en":"A party member does not meet the dungeon level requirement.","ru":"Участник отряда не соответствует требованию уровня подземелья."}
+{"id":"shared:errorCode:15465:1112:_en_desc","en":"Party no longer exists.","ru":"Отряд больше не существует."}
+{"id":"shared:errorCode:15466:1113:_en_desc","en":"Party is full.","ru":"Отряд заполнен."}
+{"id":"shared:errorCode:15467:1114:_en_desc","en":"The target is already in the party.","ru":"Цель уже в отряде."}
+{"id":"shared:errorCode:15468:1115:_en_desc","en":"The target is busy. Invite again later.","ru":"Цель занята. Повторите приглашение позже."}
+{"id":"shared:errorCode:15469:1116:_en_desc","en":"Cannot get ready in your home.","ru":"В доме нельзя перейти в состояние готовности."}
+{"id":"shared:errorCode:15470:1117:_en_desc","en":"Cannot switch party leader in a surprise dungeon.","ru":"В подземелье-сюрпризе нельзя сменить лидера отряда."}
+{"id":"shared:errorCode:15471:1118:_en_desc","en":"Some members are not ready yet.","ru":"Некоторые участники еще не готовы."}
+{"id":"shared:errorCode:15472:1119:_en_desc","en":"This operation is not supported in Nest dungeons.","ru":"Эта операция не поддерживается в подземельях Гнезда."}
+{"id":"shared:errorCode:15473:1120:_en_desc","en":"Player is offline.","ru":"Игрок не в сети."}
+{"id":"shared:errorCode:15474:1121:_en_desc","en":"Invalid request parameters.","ru":"Недопустимые параметры запроса."}
+{"id":"shared:errorCode:15475:1122:_en_desc","en":"The party is already in combat.","ru":"Отряд уже в бою."}
+{"id":"shared:errorCode:15476:1123:_en_desc","en":"The other party has not yet unlocked this feature.","ru":"Другая сторона еще не открыла эту функцию."}
+{"id":"shared:errorCode:15477:1124:_en_desc","en":"Party objective has changed.","ru":"Цель отряда изменилась."}
+{"id":"shared:errorCode:15478:1125:_en_desc","en":"The other party has disabled invitations.","ru":"Другая сторона отключила приглашения."}
+{"id":"shared:errorCode:15479:1126:_en_desc","en":"The other party has deleted their game account.","ru":"Другая сторона удалила игровой аккаунт."}
+{"id":"shared:errorCode:15480:1127:_en_desc","en":"Cannot match while in your home.","ru":"В доме нельзя выполнять подбор."}
+{"id":"shared:errorCode:15481:1128:_en_desc","en":"The party is not recruiting.","ru":"Отряд не ведет набор."}
+{"id":"shared:errorCode:15482:1129:_en_desc","en":"Waiting for party status synchronization.","ru":"Ожидание синхронизации состояния отряда."}
+{"id":"shared:errorCode:15483:1130:_en_desc","en":"The other party is already being invited.","ru":"Другую сторону уже приглашают."}
+{"id":"shared:errorCode:15515:1131:_en_desc","en":"A pet is required for production.","ru":"Для производства нужен питомец."}
+{"id":"shared:errorCode:15516:1132:_en_desc","en":"Join request source restriction.","ru":"Ограничение по источнику заявки на вступление."}
+{"id":"shared:errorCode:15517:1133:_en_desc","en":"Join request Star Awareness level restriction.","ru":"Ограничение по уровню звездного сознания для заявки на вступление."}
+{"id":"shared:errorCode:15518:1134:_en_desc","en":"Join request dungeon difficulty restriction.","ru":"Ограничение по сложности подземелья для заявки на вступление."}
+{"id":"shared:errorCode:15600:1135:_en_desc","en":"Redis operation error.","ru":"Ошибка операции Redis."}
+{"id":"shared:errorCode:16001:1136:_en_desc","en":"Home technology category not found.","ru":"Категория домашних технологий не найдена."}
+{"id":"shared:errorCode:16002:1137:_en_desc","en":"Technology skill not found.","ru":"Технологический навык не найден."}
+{"id":"shared:errorCode:16003:1138:_en_desc","en":"Technology skill not unlocked.","ru":"Технологический навык не открыт."}
+{"id":"shared:errorCode:16004:1139:_en_desc","en":"Insufficient technology points.","ru":"Недостаточно технологических очков."}
+{"id":"shared:errorCode:16005:1140:_en_desc","en":"Level is already at the current maximum.","ru":"Уровень уже достиг текущего максимума."}
+{"id":"shared:errorCode:16006:1141:_en_desc","en":"Technology table configuration not found.","ru":"Конфигурация таблицы технологий не найдена."}
+{"id":"shared:errorCode:16007:1142:_en_desc","en":"Technology table point allocation configuration ID not found.","ru":"ID конфигурации распределения очков технологий не найден."}
+{"id":"shared:errorCode:16008:1143:_en_desc","en":"Technology skill conditions not met.","ru":"Условия технологического навыка не выполнены."}
+{"id":"shared:errorCode:16009:1144:_en_desc","en":"Technology is already open.","ru":"Технология уже открыта."}
+{"id":"shared:errorCode:16100:1145:_en_desc","en":"Tutorial quest not found.","ru":"Обучающее задание не существует."}
+{"id":"shared:errorCode:16101:1146:_en_desc","en":"Tutorial quest already accepted.","ru":"Обучающее задание уже принято."}
+{"id":"shared:errorCode:16102:1147:_en_desc","en":"Tutorial quest already completed.","ru":"Обучающее задание уже выполнено."}
+{"id":"shared:errorCode:16103:1148:_en_desc","en":"Tutorial quest group not yet unlocked.","ru":"Группа обучающих заданий еще не открыта."}
+{"id":"shared:errorCode:16104:1149:_en_desc","en":"Tutorial quest not yet completed.","ru":"Обучающее задание еще не выполнено."}
+{"id":"shared:errorCode:16105:1150:_en_desc","en":"Tutorial quest not yet accepted.","ru":"Обучающее задание еще не принято."}
+{"id":"shared:errorCode:16106:1151:_en_desc","en":"Tutorial quest group not found.","ru":"Группа обучающих заданий не существует."}
+{"id":"shared:errorCode:16107:1152:_en_desc","en":"Tutorial quest group not yet completed.","ru":"Группа обучающих заданий еще не выполнена."}
+{"id":"shared:errorCode:16108:1153:_en_desc","en":"Tutorial quest group already completed.","ru":"Группа обучающих заданий уже выполнена."}
+{"id":"shared:errorCode:16109:1154:_en_desc","en":"Unknown tutorial quest error.","ru":"Неизвестная ошибка обучающего задания."}
+{"id":"shared:errorCode:16110:1155:_en_desc","en":"Tutorial quest not available.","ru":"Обучающее задание не открыто."}
+{"id":"shared:errorCode:16130:1156:_en_desc","en":"Gathering tool not found.","ru":"Инструмент для сбора не существует."}
+{"id":"shared:errorCode:16131:1157:_en_desc","en":"Gathering tool not in backpack.","ru":"Этого инструмента для сбора нет в рюкзаке."}
+{"id":"shared:errorCode:16132:1158:_en_desc","en":"This gathering tool is already selected.","ru":"Этот инструмент для сбора уже выбран."}
+{"id":"shared:errorCode:16133:1159:_en_desc","en":"Default gathering tool not selected for this gatherable.","ru":"Не выбран инструмент для сбора по умолчанию для этого ресурса."}
+{"id":"shared:errorCode:16134:1160:_en_desc","en":"Cannot perform this action during combat.","ru":"В бою нельзя выполнить это действие."}
+{"id":"shared:errorCode:16135:1161:_en_desc","en":"Invalid pause time parameter.","ru":"Недопустимый параметр времени паузы."}
+{"id":"shared:errorCode:16136:1162:_en_desc","en":"Player is paused.","ru":"Игрок на паузе."}
+{"id":"shared:errorCode:16137:1163:_en_desc","en":"Cannot toggle pause while the player is switching maps.","ru":"Нельзя переключить паузу во время смены карты."}
+{"id":"shared:errorCode:16138:1164:_en_desc","en":"Attribute fruit configuration not found.","ru":"Конфигурация плода характеристик не существует."}
+{"id":"shared:errorCode:16139:1165:_en_desc","en":"Cannot use multiple attribute fruits at once.","ru":"Нельзя использовать несколько плодов характеристик одновременно."}
+{"id":"shared:errorCode:16140:1166:_en_desc","en":"Kibo Potential Fruit upgrade configuration not found.","ru":"Конфигурация улучшения плода потенциала кибо не существует."}
+{"id":"shared:errorCode:16141:1167:_en_desc","en":"Next-level Kibo Potential Fruit upgrade configuration not found.","ru":"Конфигурация улучшения плода потенциала кибо для следующего уровня не существует."}
+{"id":"shared:errorCode:16142:1168:_en_desc","en":"Kibo Potential Fruit upgrade experience overflow.","ru":"Переполнение опыта улучшения плода потенциала кибо."}
+{"id":"shared:errorCode:16143:1169:_en_desc","en":"Kibo Potential Fruit not found.","ru":"Плод потенциала кибо не существует."}
+{"id":"shared:errorCode:16144:1170:_en_desc","en":"Object not found.","ru":"Объект не существует."}
+{"id":"shared:errorCode:16145:1171:_en_desc","en":"Buff building world configuration not found.","ru":"Конфигурация мира для здания с баффом не найдена."}
+{"id":"shared:errorCode:16146:1172:_en_desc","en":"Buff building build config not found","ru":"Конфигурация постройки для бафф-здания не найдена"}
+{"id":"shared:errorCode:16147:1173:_en_desc","en":"Buff building does not exist","ru":"Бафф-здание не существует"}
+{"id":"shared:errorCode:16148:1174:_en_desc","en":"Buff building is already at max level","ru":"Бафф-здание уже достигло максимального уровня"}
+{"id":"shared:errorCode:16149:1175:_en_desc","en":"Buff building already exists","ru":"Бафф-здание уже существует"}
+{"id":"shared:errorCode:16150:1176:_en_desc","en":"Insufficient buff building materials","ru":"Недостаточно материалов для бафф-здания"}
+{"id":"shared:errorCode:16200:1177:_en_desc","en":"Invalid ecology config","ru":"Недопустимая конфигурация экологии"}
+{"id":"shared:errorCode:16201:1178:_en_desc","en":"Invalid ecology template config","ru":"Недопустимая конфигурация шаблона экологии"}
+{"id":"shared:errorCode:16202:1179:_en_desc","en":"Invalid ecology data","ru":"Недопустимые данные экологии"}
+{"id":"shared:errorCode:16203:1180:_en_desc","en":"Ecology reward already claimed","ru":"Награда экологии уже получена"}
+{"id":"shared:errorCode:16204:1181:_en_desc","en":"Ecology reward cannot be claimed","ru":"Награду экологии нельзя получить"}
+{"id":"shared:errorCode:17000:1182:_en_desc","en":"Attribute is being upgraded","ru":"Атрибут улучшается"}
+{"id":"shared:errorCode:17001:1183:_en_desc","en":"Insufficient upgrade materials","ru":"Недостаточно материалов для улучшения"}
+{"id":"shared:errorCode:17500:1184:_en_desc","en":"Level is at maximum","ru":"Уровень максимальный"}
+{"id":"shared:errorCode:17501:1185:_en_desc","en":"Insufficient progress","ru":"Недостаточно прогресса"}
+{"id":"shared:errorCode:18000:1186:_en_desc","en":"Using a potion requires selecting a target","ru":"Для использования зелья нужно выбрать цель"}
+{"id":"shared:errorCode:18001:1187:_en_desc","en":"Using a potion requires waiting for cooldown","ru":"Для использования зелья нужно дождаться перезарядки"}
+{"id":"shared:errorCode:18002:1188:_en_desc","en":"Potions can only be used in the specified mode","ru":"Зелья можно использовать только в указанном режиме"}
+{"id":"shared:errorCode:18003:1189:_en_desc","en":"Using a potion requires the target to be alive","ru":"Для использования зелья цель должна быть жива"}
+{"id":"shared:errorCode:18004:1190:_en_desc","en":"Using a potion requires the target to be dead","ru":"Для использования зелья цель должна быть мертва"}
+{"id":"shared:errorCode:1901:50:_en_desc","en":"Duplicate login; the previous login session was kicked offline","ru":"Повторный вход: предыдущий сеанс был отключён"}
+{"id":"shared:errorCode:1902:51:_en_desc","en":"GM kicked the player out","ru":"GM исключил игрока"}
+{"id":"shared:errorCode:1903:52:_en_desc","en":"Token expired","ru":"Токен истёк"}
+{"id":"shared:errorCode:1904:53:_en_desc","en":"Queueing","ru":"В очереди"}
+{"id":"shared:errorCode:1906:55:_en_desc","en":"Duplicate login","ru":"Повторный вход"}
+{"id":"shared:errorCode:1907:56:_en_desc","en":"This account is already logged in on another device","ru":"Эта учётная запись уже выполнила вход на другом устройстве"}
+{"id":"shared:errorCode:1909:58:_en_desc","en":"KickByGM hotfix version pushed online","ru":"Горячее обновление версии KickByGM опубликовано"}
+{"id":"shared:errorCode:20000:1191:_en_desc","en":"Fewer than three GM parameters","ru":"Меньше трёх параметров GM"}
+{"id":"shared:errorCode:20001:1192:_en_desc","en":"Fewer than two GM parameters","ru":"Меньше двух параметров GM"}
+{"id":"shared:errorCode:20002:1193:_en_desc","en":"GM parameters are empty","ru":"Параметры GM пусты"}
+{"id":"shared:errorCode:21000:1194:_en_desc","en":"No event config","ru":"Нет конфигурации события"}
+{"id":"shared:errorCode:21001:1195:_en_desc","en":"Event not open","ru":"Событие не открыто"}
+{"id":"shared:errorCode:21002:1196:_en_desc","en":"This event is not yet unlocked","ru":"Это событие ещё не разблокировано"}
+{"id":"shared:errorCode:21003:1197:_en_desc","en":"Cannot claim","ru":"Невозможно получить"}
+{"id":"shared:errorCode:21004:1198:_en_desc","en":"Event data does not exist","ru":"Данные события не существуют"}
+{"id":"shared:errorCode:21005:1199:_en_desc","en":"Event prerequisites not met","ru":"Условия события не выполнены"}
+{"id":"shared:errorCode:21006:1200:_en_desc","en":"Event prerequisite quest not completed","ru":"Предварительное задание события не выполнено"}
+{"id":"shared:errorCode:21007:1201:_en_desc","en":"Outside event period","ru":"Вне периода события"}
+{"id":"shared:errorCode:21008:1202:_en_desc","en":"Entry open time not reached","ru":"Время открытия записи не наступило"}
+{"id":"shared:errorCode:21009:1203:_en_desc","en":"Event prerequisite config not found","ru":"Конфигурация условий события не найдена"}
+{"id":"shared:errorCode:21010:1204:_en_desc","en":"Prerequisite stage not cleared","ru":"Предварительный этап не пройден"}
+{"id":"shared:errorCode:21011:1205:_en_desc","en":"Event reward config not found","ru":"Конфигурация награды события не найдена"}
+{"id":"shared:errorCode:21012:1206:_en_desc","en":"Event reward already claimed","ru":"Награда события уже получена"}
+{"id":"shared:errorCode:21013:1207:_en_desc","en":"Invalid event reward parameters","ru":"Неверные параметры награды события"}
+{"id":"shared:errorCode:21014:1208:_en_desc","en":"Invalid event general reward ID","ru":"Неверный ID общей награды события"}
+{"id":"shared:errorCode:21015:1209:_en_desc","en":"Event reward is in the wrong state and cannot be claimed","ru":"Статус награды события неверен, получить её нельзя"}
+{"id":"shared:errorCode:21016:1210:_en_desc","en":"Event type mismatch","ru":"Несовпадение типа события"}
+{"id":"shared:errorCode:21017:1211:_en_desc","en":"Item submission event data error","ru":"Ошибка данных события сдачи предметов"}
+{"id":"shared:errorCode:21018:1212:_en_desc","en":"Items cannot be submitted right now","ru":"Сейчас нельзя сдать предметы"}
+{"id":"shared:errorCode:21019:1213:_en_desc","en":"Invalid operation","ru":"Недопустимая операция"}
+{"id":"shared:errorCode:21020:1214:_en_desc","en":"Invalid travel group config","ru":"Недопустимая конфигурация группы путешествия"}
+{"id":"shared:errorCode:21021:1215:_en_desc","en":"At least one Kibo must go on the journey","ru":"Хотя бы одно кибо должно отправиться в путешествие"}
+{"id":"shared:errorCode:21022:1216:_en_desc","en":"Kibo dispatch data error","ru":"Ошибка данных отправки кибо"}
+{"id":"shared:errorCode:21023:1217:_en_desc","en":"A Kibo already on the journey cannot be sent again (Kibo already dispatched), or an invalid Kibo was dispatched","ru":"Кибо, уже участвующее в путешествии, нельзя отправить повторно (кибо уже отправлено), либо отправлено недопустимое кибо"}
+{"id":"shared:errorCode:21024:1218:_en_desc","en":"Travel group dispatch limit reached","ru":"Достигнут предел одновременно отправленных групп путешествия"}
+{"id":"shared:errorCode:21025:1219:_en_desc","en":"Travel attempts for this event are exhausted","ru":"Попытки путешествия в этом событии исчерпаны"}
+{"id":"shared:errorCode:21026:1220:_en_desc","en":"A travel group has already been dispatched in this region and cannot be sent again","ru":"Группа путешествия уже отправлена в этом регионе, повторная отправка невозможна"}
+{"id":"shared:errorCode:21027:1221:_en_desc","en":"Travel group does not exist","ru":"Группа путешествия не существует"}
+{"id":"shared:errorCode:21028:1222:_en_desc","en":"Rewards cannot be claimed in the current state","ru":"В текущем состоянии награды получить нельзя"}
+{"id":"shared:errorCode:21029:1223:_en_desc","en":"Kibo is traveling (cannot be released)","ru":"Кибо путешествует (нельзя выпустить)"}
+{"id":"shared:errorCode:21030:1224:_en_desc","en":"Invalid config","ru":"Недопустимая конфигурация"}
+{"id":"shared:errorCode:21031:1225:_en_desc","en":"Conditions not met","ru":"Условия не выполнены"}
+{"id":"shared:errorCode:21032:1226:_en_desc","en":"Event not open","ru":"Событие не открыто"}
+{"id":"shared:errorCode:21033:1227:_en_desc","en":"Stage error","ru":"Ошибка этапа"}
+{"id":"shared:errorCode:21034:1228:_en_desc","en":"Travel points have reached the cap","ru":"Очки путешествия достигли предела"}
+{"id":"shared:errorCode:21035:1229:_en_desc","en":"Daily action limit reached","ru":"Достигнут дневной предел действий"}
+{"id":"shared:errorCode:21036:1230:_en_desc","en":"Insufficient stamina. Rest, then continue your training.","ru":"Недостаточно выносливости. Отдохните, а затем продолжайте тренировку."}
+{"id":"shared:errorCode:21037:1231:_en_desc","en":"Insufficient required experience","ru":"Недостаточно требуемого опыта"}
+{"id":"shared:errorCode:21038:1232:_en_desc","en":"Support character not activated","ru":"Вспомогательный персонаж не активирован"}
+{"id":"shared:errorCode:21039:1233:_en_desc","en":"Invalid effect selection","ru":"Недопустимый выбор эффекта"}
+{"id":"shared:errorCode:21040:1234:_en_desc","en":"Insufficient growth points","ru":"Недостаточно очков роста"}
+{"id":"shared:errorCode:21041:1235:_en_desc","en":"Growth conditions not met","ru":"Условия развития не выполнены"}
+{"id":"shared:errorCode:21042:1236:_en_desc","en":"Insufficient growth materials","ru":"Недостаточно материалов развития"}
+{"id":"shared:errorCode:21043:1237:_en_desc","en":"Parameter request error","ru":"Ошибка запроса параметров"}
+{"id":"shared:errorCode:21044:1238:_en_desc","en":"Early unlock prohibited","ru":"Досрочная разблокировка запрещена"}
+{"id":"shared:errorCode:21045:1239:_en_desc","en":"Early unlock conditions not met","ru":"Условия досрочной разблокировки не выполнены"}
+{"id":"shared:errorCode:21046:1240:_en_desc","en":"Insufficient initial payment for Chiyo's shop purchase","ru":"Недостаточно средств для первой оплаты покупки в магазине Тиё"}
+{"id":"shared:errorCode:21047:1241:_en_desc","en":"Chiyo's shop daily purchase limit reached","ru":"Достигнут дневной предел покупок в магазине Тиё"}
+{"id":"shared:errorCode:21048:1242:_en_desc","en":"Insufficient training fee for the growth gameplay","ru":"Недостаточно платы за тренировку в режиме развития"}
+{"id":"shared:errorCode:21049:1243:_en_desc","en":"Chiyo's shop total purchase limit reached","ru":"Достигнут общий предел покупок в магазине Тиё"}
+{"id":"shared:errorCode:21050:1244:_en_desc","en":"Growth gameplay event time info error","ru":"Ошибка сведений о времени события режима развития"}
+{"id":"shared:errorCode:21051:1245:_en_desc","en":"Growth gameplay opening unlock time not reached","ru":"Время разблокировки старта режима развития не наступило"}
+{"id":"shared:errorCode:21052:1246:_en_desc","en":"Invalid support character selection for the growth gameplay","ru":"Недопустимый выбор вспомогательного персонажа в режиме развития"}
+{"id":"shared:errorCode:21053:1247:_en_desc","en":"Invalid event option for the growth gameplay","ru":"Недопустимый вариант события в режиме развития"}
+{"id":"shared:errorCode:21060:1248:_en_desc","en":"Not the current run","ru":"Это не текущий запуск"}
+{"id":"shared:errorCode:21061:1249:_en_desc","en":"Ending total score not met; cannot save","ru":"Общий счёт концовки не достигнут; сохранение невозможно"}
+{"id":"shared:errorCode:21062:1250:_en_desc","en":"Save parameter error","ru":"Ошибка параметра сохранения"}
+{"id":"shared:errorCode:21063:1251:_en_desc","en":"Does not match the selected difficulty","ru":"Не соответствует выбранной сложности"}
+{"id":"shared:errorCode:21100:1252:_en_desc","en":"Gameplay cannot be restarted","ru":"Режим нельзя перезапустить"}
+{"id":"shared:errorCode:21101:1253:_en_desc","en":"Gameplay cannot be reset","ru":"Режим нельзя сбросить"}
+{"id":"shared:errorCode:21102:1254:_en_desc","en":"This step is already complete","ru":"Этот шаг уже выполнен"}
+{"id":"shared:errorCode:21103:1255:_en_desc","en":"No gameplay config","ru":"Нет конфигурации режима"}
+{"id":"shared:errorCode:21104:1256:_en_desc","en":"Gameplay not started","ru":"Режим не начат"}
+{"id":"shared:errorCode:21105:1257:_en_desc","en":"Gameplay not completed","ru":"Режим не завершён"}
+{"id":"shared:errorCode:21106:1258:_en_desc","en":"Gameplay already completed","ru":"Режим уже завершён"}
+{"id":"shared:errorCode:21107:1259:_en_desc","en":"Gameplay completion time is too short","ru":"Время прохождения режима слишком короткое"}
+{"id":"shared:errorCode:21108:1260:_en_desc","en":"Failed to add transformation pet","ru":"Не удалось добавить питомца-трансформации"}
+{"id":"shared:errorCode:21109:1261:_en_desc","en":"Transformation pet does not exist","ru":"Питомец-трансформации не существует"}
+{"id":"shared:errorCode:21110:1262:_en_desc","en":"obj parameter error","ru":"Ошибка параметра obj"}
+{"id":"shared:errorCode:21111:1263:_en_desc","en":"Homestead content failed review","ru":"Контент усадьбы не прошёл проверку"}
+{"id":"shared:errorCode:21114:1264:_en_desc","en":"Gameplay speed detection is enabled but no range is configured","ru":"Скоростная проверка геймплея включена, но диапазон не настроен"}
+{"id":"shared:errorCode:21150:1265:_en_desc","en":"Nonexistent tutorial level","ru":"Несуществующий обучающий уровень"}
+{"id":"shared:errorCode:21151:1266:_en_desc","en":"Tutorial level not unlocked","ru":"Обучающий уровень не разблокирован"}
+{"id":"shared:errorCode:21152:1267:_en_desc","en":"A tutorial level is already in progress","ru":"Обучающий уровень уже выполняется"}
+{"id":"shared:errorCode:21153:1268:_en_desc","en":"Nonexistent tutorial level type","ru":"Несуществующий тип обучающего уровня"}
+{"id":"shared:errorCode:21155:1269:_en_desc","en":"Server spawner configuration error","ru":"Ошибка конфигурации спавнера сервера"}
+{"id":"shared:errorCode:21156:1270:_en_desc","en":"Spawner interaction limit reached","ru":"Достигнут предел взаимодействий со спавнером"}
+{"id":"shared:errorCode:21157:1271:_en_desc","en":"Failed to start transformation","ru":"Не удалось начать превращение"}
+{"id":"shared:errorCode:21158:1272:_en_desc","en":"Parent gameplay has not started","ru":"Родительский геймплей не начат"}
+{"id":"shared:errorCode:21159:1273:_en_desc","en":"Child gameplay not completed","ru":"Дочерний геймплей не завершён"}
+{"id":"shared:errorCode:21160:1274:_en_desc","en":"Interaction distance too far","ru":"Слишком большое расстояние для взаимодействия"}
+{"id":"shared:errorCode:21161:1275:_en_desc","en":"Duplicate pet decoration","ru":"Повторяющееся украшение питомца"}
+{"id":"shared:errorCode:21162:1276:_en_desc","en":"Pet decoration not obtained","ru":"Украшение питомца не получено"}
+{"id":"shared:errorCode:21163:1277:_en_desc","en":"Pet decoration does not match pet","ru":"Украшение питомца не подходит питомцу"}
+{"id":"shared:errorCode:21164:1278:_en_desc","en":"Pet decoration configuration does not exist","ru":"Конфигурация украшения питомца не существует"}
+{"id":"shared:errorCode:21170:1279:_en_desc","en":"Failed to assign GS during server transfer","ru":"Не удалось назначить GS при смене сервера"}
+{"id":"shared:errorCode:21171:1280:_en_desc","en":"Invalid server transfer parameters","ru":"Недопустимые параметры смены сервера"}
+{"id":"shared:errorCode:21172:1281:_en_desc","en":"Failed to pre-enter map","ru":"Не удалось выполнить предварительный вход на карту"}
+{"id":"shared:errorCode:21173:1282:_en_desc","en":"Line is full","ru":"Линия заполнена"}
+{"id":"shared:errorCode:21174:1283:_en_desc","en":"Line not found","ru":"Линия не найдена"}
+{"id":"shared:errorCode:21175:1284:_en_desc","en":"Failed to create public map","ru":"Не удалось создать публичную карту"}
+{"id":"shared:errorCode:21176:1285:_en_desc","en":"Failed to enter public map when entering game","ru":"Не удалось войти на публичную карту при входе в игру"}
+{"id":"shared:errorCode:21177:1286:_en_desc","en":"Failed to create multiplayer map","ru":"Не удалось создать многопользовательскую карту"}
+{"id":"shared:errorCode:21189:1287:_en_desc","en":"Friend requests sent too frequently","ru":"Слишком частые заявки в друзья"}
+{"id":"shared:errorCode:21190:1288:_en_desc","en":"Friend configuration error","ru":"Ошибка конфигурации друзей"}
+{"id":"shared:errorCode:21191:1289:_en_desc","en":"Failed to query player information","ru":"Не удалось получить информацию об игроке"}
+{"id":"shared:errorCode:21192:1290:_en_desc","en":"Reported player nickname is too long","ru":"Никнейм игрока в жалобе слишком длинный"}
+{"id":"shared:errorCode:21193:1291:_en_desc","en":"Reported player text is too long","ru":"Текст жалобы на игрока слишком длинный"}
+{"id":"shared:errorCode:21194:1292:_en_desc","en":"Failed to recommend friends","ru":"Не удалось порекомендовать друзей"}
+{"id":"shared:errorCode:21195:1293:_en_desc","en":"Friend recommendations requested too frequently","ru":"Слишком частые запросы рекомендаций друзей"}
+{"id":"shared:errorCode:21196:1294:_en_desc","en":"Chat message length exceeds the limit","ru":"Длина сообщения чата превышает допустимый предел"}
+{"id":"shared:errorCode:21197:1295:_en_desc","en":"Too many player queries","ru":"Слишком много запросов об игроках"}
+{"id":"shared:errorCode:21198:1296:_en_desc","en":"Too many chat IDs to sync","ru":"Слишком много ID чатов для синхронизации"}
+{"id":"shared:errorCode:21199:1297:_en_desc","en":"Failed to sync chat information","ru":"Не удалось синхронизировать информацию чата"}
+{"id":"shared:errorCode:21200:1298:_en_desc","en":"Too much combat information uploaded at the same time","ru":"Слишком много боевой информации загружено одновременно"}
+{"id":"shared:errorCode:21201:1299:_en_desc","en":"Please select a report reason before submitting","ru":"Выберите причину жалобы перед отправкой"}
+{"id":"shared:errorCode:21202:1300:_en_desc","en":"Repeated report of the same target during cooldown was rejected","ru":"Повторная жалоба на ту же цель во время перезарядки отклонена"}
+{"id":"shared:errorCode:21203:1301:_en_desc","en":"Report reason contains blocked characters and was intercepted","ru":"Причина жалобы содержит запрещённые символы и была заблокирована"}
+{"id":"shared:errorCode:21204:1302:_en_desc","en":"Please select a report reason before submitting","ru":"Выберите причину жалобы перед отправкой"}
+{"id":"shared:errorCode:21205:1303:_en_desc","en":"Invalid report entry type","ru":"Недопустимый тип точки входа жалобы"}
+{"id":"shared:errorCode:21206:1304:_en_desc","en":"Invalid report item","ru":"Недопустимый объект жалобы"}
+{"id":"shared:errorCode:21207:1305:_en_desc","en":"Your reporting privileges have been revoked. Please contact customer support.","ru":"Ваши права на отправку жалоб отозваны. Обратитесь в службу поддержки."}
+{"id":"shared:errorCode:21298:1306:_en_desc","en":"You are sending messages too quickly. Please take a [[Rest]].","ru":"Вы отправляете сообщения слишком быстро. Пожалуйста, сделайте [[Отдых]]."}
+{"id":"shared:errorCode:21299:1307:_en_desc","en":"Message blocked by anti-spam protection","ru":"Сообщение заблокировано защитой от спама"}
+{"id":"shared:errorCode:21300:1308:_en_desc","en":"Chat history requested too quickly","ru":"Слишком частые запросы истории чата"}
+{"id":"shared:errorCode:21301:1309:_en_desc","en":"Chatting too fast","ru":"Слишком быстрый темп чата"}
+{"id":"shared:errorCode:21302:1310:_en_desc","en":"Invalid chat length","ru":"Недопустимая длина сообщения чата"}
+{"id":"shared:errorCode:21303:1311:_en_desc","en":"Failed to mark as read","ru":"Не удалось отметить как прочитанное"}
+{"id":"shared:errorCode:21304:1312:_en_desc","en":"Failed to mark as read","ru":"Не удалось отметить как прочитанное"}
+{"id":"shared:errorCode:21305:1313:_en_desc","en":"Invalid chat type","ru":"Недопустимый тип чата"}
+{"id":"shared:errorCode:21306:1314:_en_desc","en":"Channel does not exist","ru":"Канал не существует"}
+{"id":"shared:errorCode:21307:1315:_en_desc","en":"Channel is full","ru":"Канал заполнен"}
+{"id":"shared:errorCode:21308:1316:_en_desc","en":"Not in the channel","ru":"Вы не в канале"}
+{"id":"shared:errorCode:21309:1317:_en_desc","en":"Not in a multiplayer instance","ru":"Вы не в многопользовательском подземелье"}
+{"id":"shared:errorCode:21310:1318:_en_desc","en":"This action cannot be performed in the homestead or during a level","ru":"Это действие недоступно в поместье или на уровне"}
+{"id":"shared:errorCode:21400:1319:_en_desc","en":"Illegal outfit modification; configuration validation failed","ru":"Недопустимое изменение одежды: проверка конфигурации не пройдена"}
+{"id":"shared:errorCode:21500:1320:_en_desc","en":"Number of emojis added: 0","ru":"Количество добавленных эмодзи: 0"}
+{"id":"shared:errorCode:21501:1321:_en_desc","en":"Invalid emoji configuration","ru":"Недопустимая конфигурация эмодзи"}
+{"id":"shared:errorCode:21503:1322:_en_desc","en":"Invalid wheel index","ru":"Недопустимый индекс колеса"}
+{"id":"shared:errorCode:21504:1323:_en_desc","en":"Invalid wheel data","ru":"Недопустимые данные колеса"}
+{"id":"shared:errorCode:21505:1324:_en_desc","en":"Incorrect wheel slot count setting","ru":"Неверная настройка количества ячеек колеса"}
+{"id":"shared:errorCode:21506:1325:_en_desc","en":"Wheel data error","ru":"Ошибка данных колеса"}
+{"id":"shared:errorCode:21507:1326:_en_desc","en":"Invalid wheel index","ru":"Недопустимый индекс колеса"}
+{"id":"shared:errorCode:21508:1327:_en_desc","en":"No emoji data for this in the inventory","ru":"В инвентаре нет данных об этом эмодзи"}
+{"id":"shared:errorCode:21509:1328:_en_desc","en":"Duplicate wheel index","ru":"Повторяющийся индекс колеса"}
+{"id":"shared:errorCode:21600:1329:_en_desc","en":"Client cheating","ru":"Читы на клиенте"}
+{"id":"shared:errorCode:21601:1330:_en_desc","en":"Client cheating","ru":"Читы на клиенте"}
+{"id":"shared:errorCode:21602:1331:_en_desc","en":"Harvest HP check failed","ru":"Проверка здоровья при сборе не пройдена"}
+{"id":"shared:errorCode:21603:1332:_en_desc","en":"Invalid harvest time","ru":"Неверное время сбора"}
+{"id":"shared:errorCode:21604:1333:_en_desc","en":"Invalid harvest attack count","ru":"Неверное количество атак при сборе"}
+{"id":"shared:errorCode:21605:1334:_en_desc","en":"Harvest target is not a boss","ru":"Цель сбора не является боссом"}
+{"id":"shared:errorCode:21606:1335:_en_desc","en":"Incorrect harvest attack tool","ru":"Неверный инструмент для атаки при сборе"}
+{"id":"shared:errorCode:21607:1336:_en_desc","en":"Target is too far away to form a Star Bond","ru":"Цель слишком далеко, чтобы образовать звёздную связь"}
+{"id":"shared:errorCode:21608:1337:_en_desc","en":"Nest gameplay system not unlocked","ru":"Система геймплея гнезда не разблокирована"}
+{"id":"shared:errorCode:21609:1338:_en_desc","en":"Nest gameplay co-op NPC not unlocked","ru":"Кооперативный NPC геймплея гнезда не разблокирован"}
+{"id":"shared:errorCode:21610:1339:_en_desc","en":"Matchmaking platform is refreshing","ru":"Платформа подбора команды обновляется"}
+{"id":"shared:errorCode:21611:1340:_en_desc","en":"Abyss gameplay system not unlocked","ru":"Система геймплея Бездны не разблокирована"}
+{"id":"shared:errorCode:21612:1341:_en_desc","en":"Cannot enter the Abyss from the current map","ru":"Вход в Бездну с текущей карты недоступен"}
+{"id":"shared:errorCode:21613:1342:_en_desc","en":"Invalid Abyss mode","ru":"Недопустимый режим Бездны"}
+{"id":"shared:errorCode:21614:1343:_en_desc","en":"Invalid Abyss level","ru":"Недопустимый уровень Бездны"}
+{"id":"shared:errorCode:21615:1344:_en_desc","en":"Prerequisite mode not yet completed","ru":"Предварительный режим ещё не пройден"}
+{"id":"shared:errorCode:21616:1345:_en_desc","en":"Prerequisite level not yet completed","ru":"Предварительный уровень ещё не пройден"}
+{"id":"shared:errorCode:21617:1346:_en_desc","en":"Clear reward already claimed","ru":"Награда за прохождение уже получена"}
+{"id":"shared:errorCode:21618:1347:_en_desc","en":"Star reward already claimed","ru":"Награда за звёзды уже получена"}
+{"id":"shared:errorCode:21619:1348:_en_desc","en":"Invalid star reward group","ru":"Недопустимая группа звёздных наград"}
+{"id":"shared:errorCode:21620:1349:_en_desc","en":"Invalid Abyss deployment team","ru":"Недопустимый отряд для Бездны"}
+{"id":"shared:errorCode:21621:1350:_en_desc","en":"Invalid Abyss level instance ID","ru":"Недопустимый ID экземпляра уровня Бездны"}
+{"id":"shared:errorCode:21622:1351:_en_desc","en":"Number of players brought into the Abyss exceeds the limit","ru":"Число игроков, взятых в Бездну, превышает лимит"}
+{"id":"shared:errorCode:21623:1352:_en_desc","en":"Abyss carry-in character does not exist","ru":"Переносимый в Бездну персонаж не существует"}
+{"id":"shared:errorCode:21624:1353:_en_desc","en":"Duplicate deployed hero","ru":"Повторяющийся выставленный герой"}
+{"id":"shared:errorCode:21625:1354:_en_desc","en":"Duplicate deployed pet","ru":"Повторяющийся выставленный питомец"}
+{"id":"shared:errorCode:21626:1355:_en_desc","en":"Challenge team is empty","ru":"Команда испытания пуста"}
+{"id":"shared:errorCode:21627:1356:_en_desc","en":"Level not open","ru":"Уровень не открыт"}
+{"id":"shared:errorCode:21628:1357:_en_desc","en":"Rotation has already switched","ru":"Ротация уже сменилась"}
+{"id":"shared:errorCode:21700:1358:_en_desc","en":"The [[Kibo]] is in battle","ru":"[[кибо]] сражается"}
+{"id":"shared:errorCode:21701:1359:_en_desc","en":"Summon cooldown not ready","ru":"Перезарядка призыва не завершена"}
+{"id":"shared:errorCode:21702:1360:_en_desc","en":"Lead Kibo already confirmed","ru":"Ведущий кибо уже выбран"}
+{"id":"shared:errorCode:21703:1361:_en_desc","en":"Current state does not match","ru":"Текущее состояние не совпадает"}
+{"id":"shared:errorCode:21704:1362:_en_desc","en":"Not in a Kibo arena","ru":"Не на арене кибо"}
+{"id":"shared:errorCode:21705:1363:_en_desc","en":"Insufficient action points","ru":"Недостаточно очков действия"}
+{"id":"shared:errorCode:21706:1364:_en_desc","en":"Summoning prohibited","ru":"Призыв запрещён"}
+{"id":"shared:errorCode:21707:1365:_en_desc","en":"The summoned Kibo does not exist","ru":"Призванный кибо не существует"}
+{"id":"shared:errorCode:21708:1366:_en_desc","en":"The replaced Kibo does not exist","ru":"Заменяемый кибо не существует"}
+{"id":"shared:errorCode:21709:1367:_en_desc","en":"Duplicate Kibo in formation","ru":"В отряде повторяется кибо"}
+{"id":"shared:errorCode:21710:1368:_en_desc","en":"The Blossom Bond Pledge gameplay config does not exist","ru":"Конфигурация режима «Клятва цветочных уз» не существует"}
+{"id":"shared:errorCode:21800:1369:_en_desc","en":"Character interior scene does not exist","ru":"Внутренняя сцена персонажа не существует"}
+{"id":"shared:errorCode:21801:1370:_en_desc","en":"Character interior scene switch is identical","ru":"Переключение на ту же внутреннюю сцену персонажа"}
+{"id":"shared:errorCode:21802:1371:_en_desc","en":"Character scene prop config does not exist","ru":"Конфигурация реквизита сцены персонажа не существует"}
+{"id":"shared:errorCode:21803:1372:_en_desc","en":"Character is not currently in a dormitory scene","ru":"Персонаж сейчас не находится в сцене общежития"}
+{"id":"shared:errorCode:21804:1373:_en_desc","en":"Ending not achieved","ru":"Концовка не достигнута"}
+{"id":"shared:errorCode:21805:1374:_en_desc","en":"Ending reward already claimed","ru":"Награда за концовку уже получена"}
+{"id":"shared:errorCode:21806:1375:_en_desc","en":"Invalid ending ID","ru":"Недопустимый идентификатор концовки"}
+{"id":"shared:errorCode:29000:1376:_en_desc","en":"Could not find an active travel journal event","ru":"Не удалось найти активное событие путевого журнала"}
+{"id":"shared:errorCode:29001:1377:_en_desc","en":"Cannot purchase again","ru":"Повторная покупка невозможна"}
+{"id":"shared:errorCode:29002:1378:_en_desc","en":"Level exceeds the maximum level","ru":"Уровень превышает максимальный"}
+{"id":"shared:errorCode:29003:1379:_en_desc","en":"Configuration error","ru":"Ошибка конфигурации"}
+{"id":"shared:errorCode:29004:1380:_en_desc","en":"Quest does not exist","ru":"Задание не существует"}
+{"id":"shared:errorCode:29005:1381:_en_desc","en":"Quest not completed; cannot claim reward","ru":"Задание не выполнено — награду получить нельзя"}
+{"id":"shared:errorCode:29006:1382:_en_desc","en":"Not purchased; cannot perform this action","ru":"Не приобретено — это действие недоступно"}
+{"id":"shared:errorCode:29007:1383:_en_desc","en":"Cannot claim level reward again","ru":"Повторно получить награду за уровень нельзя"}
+{"id":"shared:errorCode:29008:1384:_en_desc","en":"Travel journal cannot be repurchased after a refund","ru":"Путевой журнал нельзя купить повторно после возврата средств"}
+{"id":"shared:errorCode:29009:1385:_en_desc","en":"Quest has expired; cannot claim reward","ru":"Срок задания истёк — награду получить нельзя"}
+{"id":"shared:errorCode:29010:1386:_en_desc","en":"Reward already claimed; cannot claim again","ru":"Награда уже получена — повторно получить её нельзя"}
+{"id":"shared:errorCode:29100:1387:_en_desc","en":"Monthly pass feature not unlocked","ru":"Функция месячного абонемента не разблокирована"}
+{"id":"shared:errorCode:29101:1388:_en_desc","en":"Trading post item does not exist","ru":"Предмет торгового ящика не существует"}
+{"id":"shared:errorCode:29102:1389:_en_desc","en":"Trading post is empty; cannot settle immediately","ru":"Торговый ящик пуст — мгновенный расчёт невозможен"}
+{"id":"shared:errorCode:29103:1390:_en_desc","en":"Cancelled trading post item not found","ru":"Отменённый предмет торгового ящика не найден"}
+{"id":"shared:errorCode:29104:1391:_en_desc","en":"Trading post operation error","ru":"Ошибка операции на торговой станции"}
+{"id":"shared:errorCode:29105:1392:_en_desc","en":"No order refresh attempts remaining","ru":"Не осталось попыток обновления заказов"}
+{"id":"shared:errorCode:29106:1393:_en_desc","en":"Goods sold exceed the limit","ru":"Продано товаров сверх лимита"}
+{"id":"shared:errorCode:29110:1394:_en_desc","en":"Monthly pass purchase duration exceeds the limit","ru":"Срок покупки месячного абонемента превышает лимит"}
+{"id":"shared:errorCode:29111:1395:_en_desc","en":"Monthly pass not purchased","ru":"Месячный абонемент не приобретён"}
+{"id":"shared:errorCode:29200:1396:_en_desc","en":"Shop does not exist","ru":"Магазин не существует"}
+{"id":"shared:errorCode:29201:1397:_en_desc","en":"Item does not exist","ru":"Товар не существует"}
+{"id":"shared:errorCode:29202:1398:_en_desc","en":"Purchase limit reached","ru":"Достигнут лимит покупок"}
+{"id":"shared:errorCode:29203:1399:_en_desc","en":"Purchase time restriction","ru":"Ограничение по времени покупки"}
+{"id":"shared:errorCode:29204:1400:_en_desc","en":"Shop static conditions not met (shop has no dynamic condition restrictions)","ru":"Статические условия магазина не выполнены (у магазина нет ограничений динамических условий)"}
+{"id":"shared:errorCode:29205:1401:_en_desc","en":"Item static conditions not met","ru":"Статические условия товара не выполнены"}
+{"id":"shared:errorCode:29206:1402:_en_desc","en":"Item dynamic conditions not met","ru":"Динамические условия товара не выполнены"}
+{"id":"shared:errorCode:29207:1403:_en_desc","en":"Invalid purchase type for this item, e.g. buying a real-money item with tokens","ru":"Недопустимый тип покупки для этого товара, например покупка товара за реальную валюту с помощью токенов"}
+{"id":"shared:errorCode:29208:1404:_en_desc","en":"Failed to create order; please try again later","ru":"Не удалось создать заказ. Повторите попытку позже"}
+{"id":"shared:errorCode:29209:1405:_en_desc","en":"Orders are being created too frequently; please try again later","ru":"Заказы создаются слишком часто. Повторите попытку позже"}
+{"id":"shared:errorCode:29210:1406:_en_desc","en":"Player went offline during delivery","ru":"Игрок вышел из сети во время выдачи"}
+{"id":"shared:errorCode:29211:1407:_en_desc","en":"Purchase conditions not met for non-mall item","ru":"Условия покупки для товара не из магазина не выполнены"}
+{"id":"shared:errorCode:29212:1408:_en_desc","en":"Oversold; other replacement items must be sent","ru":"Продано сверх запаса — необходимо отправить другие предметы взамен"}
+{"id":"shared:errorCode:29213:1409:_en_desc","en":"No delivery handler registered for the shop","ru":"Не зарегистрирован обработчик выдачи для магазина"}
+{"id":"shared:errorCode:29214:1410:_en_desc","en":"No shop check function registered","ru":"Не зарегистрирована функция проверки магазина"}
+{"id":"shared:errorCode:29215:1411:_en_desc","en":"Configuration error; failing fast to prevent an exception","ru":"Ошибка конфигурации; аварийный сбой для предотвращения исключения"}
+{"id":"shared:errorCode:29216:1412:_en_desc","en":"Purchase count exceeds the limit","ru":"Количество покупок превышает лимит"}
+{"id":"shared:errorCode:30001:1413:_en_desc","en":"Pickaxe level too low","ru":"Недостаточный уровень кирки"}
+{"id":"shared:errorCode:30051:1414:_en_desc","en":"Room is full","ru":"Комната заполнена"}
+{"id":"shared:errorCode:30052:1415:_en_desc","en":"Target switch cooldown","ru":"Перезарядка смены цели"}
+{"id":"shared:errorCode:30111:1416:_en_desc","en":"Current tab locked","ru":"Текущая вкладка заблокирована"}
+{"id":"shared:errorCode:30112:1417:_en_desc","en":"Current phase locked","ru":"Текущий этап заблокирован"}
+{"id":"shared:errorCode:30113:1418:_en_desc","en":"No rewards available to claim","ru":"Нет наград для получения"}
+{"id":"shared:errorCode:30114:1419:_en_desc","en":"Card is already tracked","ru":"Карточка уже отслеживается"}
+{"id":"shared:errorCode:30115:1420:_en_desc","en":"Card cannot be tracked","ru":"Карточку нельзя отслеживать"}
+{"id":"shared:errorCode:30116:1421:_en_desc","en":"Card quest already complete, cannot track","ru":"Задание карточки уже выполнено, отслеживание невозможно"}
+{"id":"shared:errorCode:30117:1422:_en_desc","en":"Configuration error","ru":"Ошибка конфигурации"}
+{"id":"shared:errorCode:30118:1423:_en_desc","en":"Journey phase data error","ru":"Ошибка данных этапа путешествия"}
+{"id":"shared:errorCode:30119:1424:_en_desc","en":"Journey tab data error","ru":"Ошибка данных вкладки путешествия"}
+{"id":"shared:errorCode:30120:1425:_en_desc","en":"Claim conditions not met","ru":"Условия получения не выполнены"}
+{"id":"shared:errorCode:30121:1426:_en_desc","en":"Journey quest data error","ru":"Ошибка данных задания путешествия"}
+{"id":"shared:errorCode:30131:1427:_en_desc","en":"Skin not activated","ru":"Образ не активирован"}
+{"id":"shared:errorCode:30132:1428:_en_desc","en":"Skin already equipped","ru":"Образ уже надет"}
+{"id":"shared:errorCode:30151:1429:_en_desc","en":"Pet Soul Star upgrade configuration error","ru":"Ошибка настроек улучшения звёздной души питомца"}
+{"id":"shared:errorCode:30152:1430:_en_desc","en":"Pet Soul Star upgrade cost error","ru":"Ошибка стоимости улучшения звёздной души питомца"}
+{"id":"shared:errorCode:30153:1431:_en_desc","en":"Pet Soul Star upgrade conditions not met","ru":"Условия улучшения звёздной души питомца не выполнены"}
+{"id":"shared:errorCode:30154:1432:_en_desc","en":"Maximum level reached","ru":"Достигнут максимальный уровень"}
+{"id":"shared:errorCode:30181:1433:_en_desc","en":"This Kibo cannot be released","ru":"Этого кибо нельзя отпустить"}
+{"id":"shared:errorCode:30182:1434:_en_desc","en":"Invalid training type","ru":"Неверный тип тренировки"}
+{"id":"shared:errorCode:30183:1435:_en_desc","en":"Data error","ru":"Ошибка данных"}
+{"id":"shared:errorCode:30184:1436:_en_desc","en":"Data error","ru":"Ошибка данных"}
+{"id":"shared:errorCode:30185:1437:_en_desc","en":"Six-dimension attributes cannot be trained","ru":"Шестимерные характеристики нельзя тренировать"}
+{"id":"shared:errorCode:30186:1438:_en_desc","en":"Innate Factor cannot be replaced","ru":"Врождённый фактор нельзя заменить"}
+{"id":"shared:errorCode:30187:1439:_en_desc","en":"Equipped Factors at maximum","ru":"Достигнут предел надетых факторов"}
+{"id":"shared:errorCode:30189:1440:_en_desc","en":"Daily affinity gain limit reached for this Kibo","ru":"Достигнут дневной предел прироста расположения этого кибо"}
+{"id":"shared:errorCode:30190:1441:_en_desc","en":"A pending Factor mutation exists. Complete the Factor mutation first.","ru":"Есть отложенная мутация фактора. Сначала завершите мутацию фактора."}
+{"id":"shared:errorCode:30201:1442:_en_desc","en":"No mutations remaining","ru":"Попытки мутации исчерпаны"}
+{"id":"shared:errorCode:30301:1443:_en_desc","en":"Event not yet open","ru":"Событие ещё не открыто"}
+{"id":"shared:errorCode:3:1:_en_desc","en":"The replaced Kibo has died","ru":"Замененное кибо погибло"}
+{"id":"shared:errorCode:55001:1444:_en_desc","en":"System busy, try again later","ru":"Система занята, повторите попытку позже"}
+{"id":"shared:errorCode:55002:1445:_en_desc","en":"System busy, try again later","ru":"Система занята, повторите попытку позже"}
+{"id":"shared:errorCode:55003:1446:_en_desc","en":"No matching records","ru":"Нет подходящих записей"}
+{"id":"shared:errorCode:60001:1447:_en_desc","en":"Duplicate record","ru":"Дублирующаяся запись"}
+{"id":"shared:errorCode:60002:1448:_en_desc","en":"Record not found","ru":"Запись не найдена"}
+{"id":"shared:errorCode:60003:1449:_en_desc","en":"Expected exactly one record, but received multiple","ru":"Ожидалась ровно одна запись, но получено несколько"}
+{"id":"shared:errorCode:60004:1450:_en_desc","en":"Added by test script","ru":"Добавлено тестовым скриптом"}
+{"id":"shared:errorCode:60005:1451:_en_desc","en":"gatesession missing","ru":"gatesession отсутствует"}

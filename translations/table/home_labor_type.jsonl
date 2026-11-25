@@ -1,0 +1,145 @@
+{"id":"home_labor_type:12884902144","en":"Logging","ru":"Лесозаготовка"}
+{"id":"home_labor_type:12884902656","en":"Gathering efficiency increases by {0}.","ru":"Эффективность сбора повышается на {0}."}
+{"id":"home_labor_type:12884902912","en":"When assigned to a matching gathering facility, product gathering efficiency increases by <color=#767770>{0}</color>.","ru":"При назначении на соответствующее сооружение для сбора эффективность сбора продукции повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:12884904448","en":"Orchard","ru":"Фруктовый сад"}
+{"id":"home_labor_type:12884904960","en":"Orchard","ru":"Фруктовый сад"}
+{"id":"home_labor_type:12884905472","en":"Orchard","ru":"Фруктовый сад"}
+{"id":"home_labor_type:12884905984","en":"Orchard","ru":"Фруктовый сад"}
+{"id":"home_labor_type:12884906240","en":"Gathering Efficiency","ru":"Эффективность сбора"}
+{"id":"home_labor_type:12884906752","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:12884906753","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:17179869440","en":"Element","ru":"Элемент"}
+{"id":"home_labor_type:17179869952","en":"Farm production efficiency increases by {0}.","ru":"Эффективность производства на ферме повышается на {0}."}
+{"id":"home_labor_type:17179869953","en":"Gathering efficiency increases by {0}.","ru":"Эффективность сбора повышается на {0}."}
+{"id":"home_labor_type:17179870208","en":"When assigned to a matching production facility, recipe production efficiency increases by <color=#767770>{0}</color>.","ru":"При назначении на соответствующее производственное сооружение эффективность производства по рецептам повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:17179870209","en":"When assigned to a matching gathering facility, product gathering efficiency increases by <color=#767770>{0}</color>.","ru":"При назначении на соответствующее сооружение для сбора эффективность сбора продукции повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:17179871744","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"home_labor_type:17179872256","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"home_labor_type:17179872768","en":"Resonance Stone Platform","ru":"Резонансная каменная платформа"}
+{"id":"home_labor_type:17179872769","en":"Elemental Stone Furnace","ru":"Элементальная каменная печь"}
+{"id":"home_labor_type:17179872770","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"home_labor_type:17179872771","en":"Alchemy Table","ru":"Алхимический стол"}
+{"id":"home_labor_type:17179873280","en":"Resonance Stone Platform","ru":"Резонансная каменная платформа"}
+{"id":"home_labor_type:17179873281","en":"Elemental Stone Furnace","ru":"Элементальная каменная печь"}
+{"id":"home_labor_type:17179873282","en":"Elemental Altar","ru":"Элементальный алтарь"}
+{"id":"home_labor_type:17179873283","en":"Alchemy Table","ru":"Алхимический стол"}
+{"id":"home_labor_type:17179873536","en":"Production Efficiency","ru":"Эффективность производства"}
+{"id":"home_labor_type:17179873537","en":"Gathering Efficiency","ru":"Эффективность сбора"}
+{"id":"home_labor_type:17179874048","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:17179874049","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:21474836736","en":"Farm Work","ru":"Работа на ферме"}
+{"id":"home_labor_type:21474837248","en":"Chance of not consuming non-fruit-tree seeds when sowing increases by {0}","ru":"Шанс не потратить семена, кроме семян фруктовых деревьев, при посеве повышается на {0}"}
+{"id":"home_labor_type:21474837249","en":"Chance of obtaining extra non-fruit-tree seeds when harvesting increases by {0}","ru":"Шанс получить дополнительные семена, кроме семян фруктовых деревьев, при сборе урожая повышается на {0}"}
+{"id":"home_labor_type:21474837504","en":"When assigned to the Field Cabin, helps with sowing and has a <color=#767770>{0}</color> chance of not consuming non-fruit-tree seeds","ru":"При назначении в полевую хижину помогает с посевом, и с вероятностью <color=#767770>{0}</color> семена, кроме семян фруктовых деревьев, не тратятся"}
+{"id":"home_labor_type:21474837505","en":"When helping with harvesting, the chance of obtaining extra non-fruit-tree seeds increases by <color=#767770>{0}</color>","ru":"При помощи со сбором урожая шанс получить дополнительные семена, кроме семян фруктовых деревьев, повышается на <color=#767770>{0}</color>"}
+{"id":"home_labor_type:21474839040","en":"Field Cabin","ru":"Полевая хижина"}
+{"id":"home_labor_type:21474839552","en":"Field Cabin","ru":"Полевая хижина"}
+{"id":"home_labor_type:21474840064","en":"Field Cabin","ru":"Полевая хижина"}
+{"id":"home_labor_type:21474840576","en":"Field Cabin","ru":"Полевая хижина"}
+{"id":"home_labor_type:21474840832","en":"Seed Recovery","ru":"Возврат семян"}
+{"id":"home_labor_type:21474840833","en":"Seed Harvest","ru":"Сбор семян"}
+{"id":"home_labor_type:21474841344","en":"Recovery Chance +{0}","ru":"Шанс возврата +{0}"}
+{"id":"home_labor_type:21474841345","en":"Seed Chance +{0}","ru":"Шанс получить семена +{0}"}
+{"id":"home_labor_type:25769804032","en":"Watering","ru":"Полив"}
+{"id":"home_labor_type:25769804544","en":"Crop growth speed increases by {0}.","ru":"Скорость роста урожая повышается на {0}."}
+{"id":"home_labor_type:25769804800","en":"When assigned to the Field Cabin, helps with watering, and crop growth speed increases by <color=#767770>{0}</color>.","ru":"При назначении в полевую хижину помогает с поливом, и скорость роста урожая повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:25769806336","en":"Field Cabin","ru":"Полевая хижина"}
+{"id":"home_labor_type:25769806848","en":"Field Cabin","ru":"Полевая хижина"}
+{"id":"home_labor_type:25769807360","en":"Field Cabin","ru":"Полевая хижина"}
+{"id":"home_labor_type:25769807872","en":"Field Cabin","ru":"Полевая хижина"}
+{"id":"home_labor_type:25769808128","en":"Watering Crops","ru":"Полив урожая"}
+{"id":"home_labor_type:25769808640","en":"Growth Speed +{0}","ru":"Скорость роста +{0}"}
+{"id":"home_labor_type:30064771328","en":"Mining","ru":"Добыча руды"}
+{"id":"home_labor_type:30064771840","en":"Gathering efficiency increases by {0}.","ru":"Эффективность сбора повышается на {0}."}
+{"id":"home_labor_type:30064772096","en":"When assigned to a matching gathering facility, product gathering efficiency increases by <color=#767770>{0}</color>.","ru":"При назначении на соответствующее сооружение для сбора эффективность сбора продукции повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:30064773632","en":"Wind Copper Mine","ru":"Медный рудник ветра"}
+{"id":"home_labor_type:30064773633","en":"Starlight Mine","ru":"Рудник звёздного сияния"}
+{"id":"home_labor_type:30064773634","en":"Glimmer Tin Mine","ru":"Оловянный рудник мерцания"}
+{"id":"home_labor_type:30064773635","en":"Mirror Iron Mine","ru":"Рудник зеркального железа"}
+{"id":"home_labor_type:30064773636","en":"Sky Iron Mine","ru":"Рудник небесного железа"}
+{"id":"home_labor_type:30064774144","en":"Wind Copper Mine","ru":"Медный рудник ветра"}
+{"id":"home_labor_type:30064774145","en":"Starlight Mine","ru":"Рудник звёздного сияния"}
+{"id":"home_labor_type:30064774146","en":"Glimmer Tin Mine","ru":"Оловянный рудник мерцания"}
+{"id":"home_labor_type:30064774147","en":"Mirror Iron Mine","ru":"Рудник зеркального железа"}
+{"id":"home_labor_type:30064774148","en":"Sky Iron Mine","ru":"Рудник небесного железа"}
+{"id":"home_labor_type:30064774656","en":"Wind Copper Mine","ru":"Медный рудник ветра"}
+{"id":"home_labor_type:30064774657","en":"Starlight Mine","ru":"Рудник звёздного сияния"}
+{"id":"home_labor_type:30064774658","en":"Glimmer Tin Mine","ru":"Оловянный рудник мерцания"}
+{"id":"home_labor_type:30064774659","en":"Mirror Iron Mine","ru":"Рудник зеркального железа"}
+{"id":"home_labor_type:30064774660","en":"Sky Iron Mine","ru":"Рудник небесного железа"}
+{"id":"home_labor_type:30064775168","en":"Wind Copper Mine","ru":"Медный рудник ветра"}
+{"id":"home_labor_type:30064775169","en":"Starlight Mine","ru":"Шахта звёздного сияния"}
+{"id":"home_labor_type:30064775170","en":"Glint Tin Mine","ru":"Шахта блестящего олова"}
+{"id":"home_labor_type:30064775171","en":"Mirror Iron Mine","ru":"Шахта зеркального железа"}
+{"id":"home_labor_type:30064775172","en":"Sky Iron Mine","ru":"Шахта небесного железа"}
+{"id":"home_labor_type:30064775425","en":"Gathering Efficiency","ru":"Эффективность сбора"}
+{"id":"home_labor_type:30064775937","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:38654705920","en":"Care","ru":"Уход"}
+{"id":"home_labor_type:38654706432","en":"Increases hatching efficiency on the Farm by {0}.","ru":"Эффективность вылупления на ферме повышается на {0}."}
+{"id":"home_labor_type:38654706433","en":"Gathering efficiency increases by {0}.","ru":"Эффективность сбора повышается на {0}."}
+{"id":"home_labor_type:38654706434","en":"Increases production efficiency on the Ranch by {0}.","ru":"Эффективность производства в загоне повышается на {0}."}
+{"id":"home_labor_type:38654706688","en":"When assigned to a Hatch Post, increases Kibo Egg hatching efficiency by <color=#767770>{0}</color>.","ru":"При назначении на пост вылупления эффективность вылупления яиц кибо повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:38654706689","en":"When assigned to a matching gathering facility, product gathering efficiency increases by <color=#767770>{0}</color>.","ru":"При назначении на соответствующее сооружение для сбора эффективность сбора продукции повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:38654706690","en":"When assigned to a Kibo Ranch, helps collect Kibo products and increases the Ranch's production efficiency by <color=#767770>{0}</color>.","ru":"При назначении на ранчо кибо помогает собирать продукцию кибо и повышает эффективность производства ранчо на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:38654708224","en":"Feeding Trough","ru":"Кормушка"}
+{"id":"home_labor_type:38654708736","en":"Feeding Trough","ru":"Кормушка"}
+{"id":"home_labor_type:38654709248","en":"Hatch Post","ru":"Пост вылупления"}
+{"id":"home_labor_type:38654709249","en":"Feeding Trough","ru":"Кормушка"}
+{"id":"home_labor_type:38654709760","en":"Hatch Post","ru":"Пост вылупления"}
+{"id":"home_labor_type:38654709761","en":"Feeding Trough","ru":"Кормушка"}
+{"id":"home_labor_type:38654710016","en":"Hatching Efficiency","ru":"Эффективность вылупления"}
+{"id":"home_labor_type:38654710017","en":"Gathering Efficiency","ru":"Эффективность сбора"}
+{"id":"home_labor_type:38654710018","en":"Ranch Harvest","ru":"Урожай ранчо"}
+{"id":"home_labor_type:38654710528","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:38654710529","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:38654710530","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:4294967552","en":"Ignition","ru":"Розжиг"}
+{"id":"home_labor_type:4294968064","en":"Farm production efficiency increases by {0}.","ru":"Эффективность производства на ферме повышается на {0}."}
+{"id":"home_labor_type:4294968320","en":"When assigned to a matching production facility, recipe production efficiency increases by <color=#767770>{0}</color>.","ru":"При назначении на соответствующее производственное сооружение эффективность производства по рецептам повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:4294969856","en":"Refinery","ru":"Плавильня"}
+{"id":"home_labor_type:4294969857","en":"Cookhouse","ru":"Кухня"}
+{"id":"home_labor_type:4294970368","en":"Refinery","ru":"Плавильня"}
+{"id":"home_labor_type:4294970369","en":"Cookhouse","ru":"Кухня"}
+{"id":"home_labor_type:4294970880","en":"Cooking Pot","ru":"Котелок"}
+{"id":"home_labor_type:4294970881","en":"Cookhouse","ru":"Кухня"}
+{"id":"home_labor_type:4294970882","en":"Blast Furnace","ru":"Доменная печь"}
+{"id":"home_labor_type:4294970883","en":"Refinery","ru":"Плавильня"}
+{"id":"home_labor_type:4294971392","en":"Cooking Pot","ru":"Котелок"}
+{"id":"home_labor_type:4294971393","en":"Cookhouse","ru":"Кухня"}
+{"id":"home_labor_type:4294971394","en":"Blast Furnace","ru":"Доменная печь"}
+{"id":"home_labor_type:4294971395","en":"Refinery","ru":"Плавильня"}
+{"id":"home_labor_type:4294971648","en":"Production Efficiency","ru":"Эффективность производства"}
+{"id":"home_labor_type:4294972160","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:47244640512","en":"Forging","ru":"Кузнечное дело"}
+{"id":"home_labor_type:47244641024","en":"Farm production efficiency increases by {0}.","ru":"Эффективность производства на ферме повышается на {0}."}
+{"id":"home_labor_type:47244641280","en":"When assigned to a matching production facility, recipe production efficiency increases by <color=#767770>{0}</color>.","ru":"При назначении на соответствующее производственное сооружение эффективность производства по рецептам повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:47244643328","en":"Weapon Workshop","ru":"Оружейная мастерская"}
+{"id":"home_labor_type:47244643840","en":"Weapon Workshop","ru":"Оружейная мастерская"}
+{"id":"home_labor_type:47244644352","en":"Weapon Workshop","ru":"Оружейная мастерская"}
+{"id":"home_labor_type:47244644608","en":"Production Efficiency","ru":"Эффективность производства"}
+{"id":"home_labor_type:47244645120","en":"Efficiency +{0}","ru":"Эффективность +{0}"}
+{"id":"home_labor_type:8589934848","en":"Handicraft","ru":"Ручная работа"}
+{"id":"home_labor_type:8589935360","en":"Farm production efficiency increases by {0}.","ru":"Эффективность производства на ферме повышается на {0}."}
+{"id":"home_labor_type:8589935616","en":"When assigned to a matching production facility, recipe production efficiency increases by <color=#767770>{0}</color>.","ru":"При назначении на соответствующее производственное сооружение эффективность производства по рецептам повышается на <color=#767770>{0}</color>."}
+{"id":"home_labor_type:8589937152","en":"Weaving Workshop","ru":"Ткацкая мастерская"}
+{"id":"home_labor_type:8589937153","en":"Tannery","ru":"Кожевня"}
+{"id":"home_labor_type:8589937154","en":"Workshop","ru":"Мастерская"}
+{"id":"home_labor_type:8589937664","en":"Weaving Workshop","ru":"Ткацкая мастерская"}
+{"id":"home_labor_type:8589937665","en":"Tannery","ru":"Кожевня"}
+{"id":"home_labor_type:8589937666","en":"Workshop","ru":"Мастерская"}
+{"id":"home_labor_type:8589938176","en":"Workbench","ru":"Верстак"}
+{"id":"home_labor_type:8589938177","en":"Spinning Wheel","ru":"Прялка"}
+{"id":"home_labor_type:8589938178","en":"Tanning Rack","ru":"Кожевенный станок"}
+{"id":"home_labor_type:8589938179","en":"Mill","ru":"Мельница"}
+{"id":"home_labor_type:8589938180","en":"Weaving Workshop","ru":"Ткацкая мастерская"}
+{"id":"home_labor_type:8589938181","en":"Tannery","ru":"Кожевня"}
+{"id":"home_labor_type:8589938182","en":"Workshop","ru":"Мастерская"}
+{"id":"home_labor_type:8589938688","en":"Workbench","ru":"Верстак"}
+{"id":"home_labor_type:8589938689","en":"Spinning Wheel","ru":"Прялка"}
+{"id":"home_labor_type:8589938690","en":"Tanning Rack","ru":"Кожевенный станок"}
+{"id":"home_labor_type:8589938691","en":"Mill","ru":"Мельница"}
+{"id":"home_labor_type:8589938692","en":"Weaving Workshop","ru":"Ткацкая мастерская"}
+{"id":"home_labor_type:8589938693","en":"Tannery","ru":"Кожевня"}
+{"id":"home_labor_type:8589938694","en":"Workshop","ru":"Мастерская"}
+{"id":"home_labor_type:8589938944","en":"Production Efficiency","ru":"Эффективность производства"}
+{"id":"home_labor_type:8589939456","en":"Efficiency +{0}","ru":"Эффективность +{0}"}

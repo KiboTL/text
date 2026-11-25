@@ -1,0 +1,35 @@
+{"id":"system_filtertype:103079215360","en":"Ownership","ru":"Наличие"}
+{"id":"system_filtertype:107374182656","en":"Dire Beast","ru":"Лютый зверь"}
+{"id":"system_filtertype:111669149952","en":"Field Boss","ru":"Босс поля"}
+{"id":"system_filtertype:115964117248","en":"Sunya-Infested","ru":"Заражён Суньей"}
+{"id":"system_filtertype:120259084544","en":"Hostile Faction","ru":"Враждебная фракция"}
+{"id":"system_filtertype:124554051840","en":"Type","ru":"Тип"}
+{"id":"system_filtertype:128849019136","en":"Profession","ru":"Профессия"}
+{"id":"system_filtertype:12884902144","en":"Faction","ru":"Фракция"}
+{"id":"system_filtertype:133143986432","en":"Filter Range","ru":"Диапазон фильтра"}
+{"id":"system_filtertype:137438953728","en":"Kibo Aptitude","ru":"Одарённость кибо"}
+{"id":"system_filtertype:141733921024","en":"Rare Kibo Type","ru":"Тип редкого кибо"}
+{"id":"system_filtertype:146028888320","en":"Combat Type","ru":"Боевой тип"}
+{"id":"system_filtertype:150323855616","en":"Factor Fruit Rarity","ru":"Редкость плода фактора"}
+{"id":"system_filtertype:167503724800","en":"Mountable","ru":"Можно ездить"}
+{"id":"system_filtertype:17179869440","en":"Role","ru":"Роль"}
+{"id":"system_filtertype:21474836736","en":"Race","ru":"Раса"}
+{"id":"system_filtertype:30064771328","en":"Dish Type","ru":"Тип блюда"}
+{"id":"system_filtertype:34359738624","en":"Set Name","ru":"Название набора"}
+{"id":"system_filtertype:38654705920","en":"Level Status","ru":"Статус уровня"}
+{"id":"system_filtertype:42949673216","en":"Equip Status","ru":"Статус экипировки"}
+{"id":"system_filtertype:4294967552","en":"Rarity","ru":"Редкость"}
+{"id":"system_filtertype:47244640512","en":"All","ru":"Все"}
+{"id":"system_filtertype:51539607808","en":"Movement","ru":"Способ передвижения"}
+{"id":"system_filtertype:55834575104","en":"Kibo Rating","ru":"Оценка кибо"}
+{"id":"system_filtertype:60129542400","en":"Kibo Display","ru":"Отображение кибо"}
+{"id":"system_filtertype:64424509696","en":"Shiny Kibo","ru":"Сияющие кибо"}
+{"id":"system_filtertype:68719476992","en":"Lock Status","ru":"Статус блокировки"}
+{"id":"system_filtertype:73014444288","en":"Gear Rarity","ru":"Редкость снаряжения"}
+{"id":"system_filtertype:77309411584","en":"Main Attribute","ru":"Основной атрибут"}
+{"id":"system_filtertype:81604378880","en":"Factor Fruit Type","ru":"Тип плода фактора"}
+{"id":"system_filtertype:85899346176","en":"Reading Archive Progress","ru":"Прогресс архива чтения"}
+{"id":"system_filtertype:8589934848","en":"Attribute","ru":"Атрибут"}
+{"id":"system_filtertype:90194313472","en":"Reading Category Tags","ru":"Теги категорий чтения"}
+{"id":"system_filtertype:94489280768","en":"Item Rarity","ru":"Редкость предмета"}
+{"id":"system_filtertype:98784248064","en":"Anima Rarity","ru":"Редкость анимы"}

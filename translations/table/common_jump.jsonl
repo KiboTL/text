@@ -1,0 +1,802 @@
+{"id":"common_jump:128853313849344","en":"You have not accepted this quest.","ru":"Вы не приняли это задание."}
+{"id":"common_jump:128857608816640","en":"You have not accepted this quest.","ru":"Вы не приняли это задание."}
+{"id":"common_jump:128861903783936","en":"You have not accepted this quest.","ru":"Вы не приняли это задание."}
+{"id":"common_jump:13318693586944","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:171802986809344","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:171807281776640","en":"This event is not currently running.","ru":"Это событие сейчас не проводится."}
+{"id":"common_jump:171811576743936","en":"This event is not currently running.","ru":"Это событие сейчас не проводится."}
+{"id":"common_jump:171815871711232","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:171820166678528","en":"Please progress the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
+{"id":"common_jump:171824461645824","en":"Please progress the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
+{"id":"common_jump:171828756613120","en":"Please progress the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
+{"id":"common_jump:171833051580416","en":"Please progress the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
+{"id":"common_jump:171837346547712","en":"Please progress the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
+{"id":"common_jump:171841641515008","en":"Please progress the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
+{"id":"common_jump:171845936482304","en":"Please progress the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
+{"id":"common_jump:171863116351488","en":"Please progress the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
+{"id":"common_jump:171906066024448","en":"Please progress the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
+{"id":"common_jump:214752659769344","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214756954736640","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214761249703936","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214765544671232","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214769839638528","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214774134605824","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214778429573120","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214782724540416","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214787019507712","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214791314475008","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214795609442304","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214799904409600","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214804199376896","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214808494344192","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214812789311488","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214817084278784","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214821379246080","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214825674213376","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214829969180672","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214834264147968","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214838559115264","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:214842854082560","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:257702332729344","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257706627696640","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257710922663936","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257715217631232","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257719512598528","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257723807565824","en":"There is no Resonance Stone Platform on the Farm.","ru":"На ферме нет резонансной каменной платформы."}
+{"id":"common_jump:257728102533120","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257732397500416","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257736692467712","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257736692467713","en":"Requires Star Knowledge Level 10.","ru":"Требуется уровень звёздных знаний 10."}
+{"id":"common_jump:257736692467714","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257740987435008","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257740987435009","en":"Requires Star Knowledge Level 10.","ru":"Требуется уровень звёздных знаний 10."}
+{"id":"common_jump:257740987435010","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:25774098745344","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25774098745345","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:257745282402304","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257749577369600","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257753872336896","en":"Requires Star Knowledge Level 2.","ru":"Требуется уровень звёздных знаний 2."}
+{"id":"common_jump:257753872336897","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257753872336898","en":"Unlocked by completing the main story commission \"1-3 Across Ten Thousand Miles.\"","ru":"Открывается после выполнения сюжетного поручения «1-3 За десять тысяч ли»."}
+{"id":"common_jump:257758167304192","en":"Requires Star Knowledge Level 2.","ru":"Требуется уровень звёздных знаний 2."}
+{"id":"common_jump:257758167304193","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257758167304194","en":"Unlocked by completing the main story commission \"1-3 Across Ten Thousand Miles.\"","ru":"Открывается после выполнения сюжетного поручения «1-3 За десять тысяч ли»."}
+{"id":"common_jump:257762462271488","en":"Requires Star Knowledge Level 2.","ru":"Требуется уровень звёздных знаний 2."}
+{"id":"common_jump:257762462271489","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257762462271490","en":"Unlocked by completing the main story commission \"1-3 Across Ten Thousand Miles.\"","ru":"Открывается после выполнения сюжетного поручения «1-3 За десять тысяч ли»."}
+{"id":"common_jump:257766757238784","en":"Requires Star Knowledge Level 10.","ru":"Требуется уровень звёздных знаний 10."}
+{"id":"common_jump:257766757238785","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257766757238786","en":"Unlocked after clearing the main story Commission \"1-5 Prosperity of the People\"","ru":"Разблокируется после выполнения сюжетного поручения «1-5 Процветание народа»"}
+{"id":"common_jump:257771052206080","en":"Requires Star Knowledge Level 15.","ru":"Требуется уровень звёздных знаний 15."}
+{"id":"common_jump:257771052206081","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257775347173376","en":"Unlocked after clearing the main story Commission \"1-5 Prosperity of the People\"","ru":"Разблокируется после выполнения сюжетного поручения «1-5 Процветание народа»"}
+{"id":"common_jump:257779642140672","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257783937107968","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:25778393712640","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25778393712641","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:257788232075264","en":"There is no Workshop on the Farm.","ru":"На ферме нет мастерской."}
+{"id":"common_jump:257792527042560","en":"There is no Refinery on the Farm.","ru":"На ферме нет очистительного цеха."}
+{"id":"common_jump:257796822009856","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257801116977152","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257805411944448","en":"There is no Smelting Furnace on the Farm.","ru":"На ферме нет плавильной печи."}
+{"id":"common_jump:257809706911744","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257814001879040","en":"There is no Spinning Wheel on the Farm.","ru":"На ферме нет прялки."}
+{"id":"common_jump:257818296846336","en":"There is no Resonance Stone Platform on the Farm.","ru":"На ферме нет резонансной каменной платформы."}
+{"id":"common_jump:257822591813632","en":"There is no Resonance Stone Platform on the Farm.","ru":"На ферме нет резонансной каменной платформы."}
+{"id":"common_jump:257826886780928","en":"There is no Refinery on the Farm.","ru":"На ферме нет очистительного цеха."}
+{"id":"common_jump:25782688679936","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25782688679937","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:257831181748224","en":"There is no Workshop on the Farm.","ru":"На ферме нет мастерской."}
+{"id":"common_jump:257835476715520","en":"There is no Weaving Workshop on the Farm.","ru":"На ферме нет ткацкой мастерской."}
+{"id":"common_jump:257839771682816","en":"There is no Resonance Stone Platform on the Farm.","ru":"На ферме нет резонансной каменной платформы."}
+{"id":"common_jump:257844066650112","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257848361617408","en":"There is no Alchemy Table on the Farm.","ru":"На ферме нет алхимического стола."}
+{"id":"common_jump:257852656584704","en":"There is no Alchemy Table on the Farm.","ru":"На ферме нет алхимического стола."}
+{"id":"common_jump:257856951552000","en":"There is no Cooking Pot on the Farm.","ru":"На ферме нет котелка."}
+{"id":"common_jump:257861246519296","en":"There is no Cooking Pot on the Farm.","ru":"На ферме нет котелка."}
+{"id":"common_jump:257865541486592","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257869836453888","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:25786983647232","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25786983647233","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:257874131421184","en":"There is no Workshop on the Farm.","ru":"На ферме нет мастерской."}
+{"id":"common_jump:257878426388480","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257882721355776","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257887016323072","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257912786126848","en":"There is no Weapon Workshop on the Farm.","ru":"На ферме нет оружейной мастерской."}
+{"id":"common_jump:25791278614528","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25791278614529","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:257917081094144","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:25795573581824","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25795573581825","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:257981505603584","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257985800570880","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:257990095538176","en":"There is no Workbench on the Farm.","ru":"На ферме нет верстака."}
+{"id":"common_jump:257990095538177","en":"Unlocked at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
+{"id":"common_jump:257994390505472","en":"There is no Workshop on the Farm.","ru":"На ферме нет мастерской."}
+{"id":"common_jump:257994390505473","en":"Unlocked at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
+{"id":"common_jump:257998685472768","en":"There is no Workshop on the Farm.","ru":"На ферме нет мастерской."}
+{"id":"common_jump:257998685472769","en":"Unlocked at Star Knowledge Level 30","ru":"Открывается на уровне звёздных знаний 30"}
+{"id":"common_jump:25799868549120","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25799868549121","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:258002980440064","en":"There is no Workshop on the Farm.","ru":"На ферме нет мастерской."}
+{"id":"common_jump:258002980440065","en":"Unlocked at Star Knowledge Level 45","ru":"Открывается на уровне звёздных знаний 45"}
+{"id":"common_jump:258007275407360","en":"There is no Smelting Furnace on the Farm.","ru":"На ферме нет плавильной печи."}
+{"id":"common_jump:258011570374656","en":"There is no Refinery on the Farm.","ru":"На ферме нет очистительного цеха."}
+{"id":"common_jump:258020160309248","en":"There is no Kitchen on the Farm.","ru":"На ферме нет кухни."}
+{"id":"common_jump:25804163516416","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25804163516417","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25808458483712","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25808458483713","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25808458483714","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25812753451008","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25812753451009","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25812753451010","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25817048418304","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25817048418305","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25817048418306","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25821343385600","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25821343385601","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25821343385602","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25825638352896","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25825638352897","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25825638352898","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25829933320192","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25829933320193","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25829933320194","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25834228287488","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25834228287489","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25834228287490","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25838523254784","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25838523254785","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25838523254786","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25842818222080","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25842818222081","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25842818222082","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25847113189376","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25847113189377","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25847113189378","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25851408156672","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25851408156673","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25851408156674","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25855703123968","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25855703123969","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25855703123970","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25859998091264","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25859998091265","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25859998091266","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25864293058560","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25864293058561","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25864293058562","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25868588025856","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25868588025857","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25868588025858","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25872882993152","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25872882993153","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25872882993154","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25877177960448","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25877177960449","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25877177960450","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25881472927744","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25881472927745","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25881472927746","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25885767895040","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25885767895041","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25885767895042","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25890062862336","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25890062862337","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25890062862338","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25894357829632","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25894357829633","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25894357829634","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25898652796928","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25898652796929","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25898652796930","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25902947764224","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25902947764225","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25902947764226","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25907242731520","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25907242731521","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25907242731522","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25911537698816","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25911537698817","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25911537698818","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25915832666112","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25915832666113","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25915832666114","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25920127633408","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25920127633409","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25920127633410","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25924422600704","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25924422600705","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25924422600706","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25928717568000","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25928717568001","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25928717568002","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25933012535296","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25933012535297","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25933012535298","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25937307502592","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25937307502593","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25937307502594","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25941602469888","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25941602469889","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25941602469890","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25945897437184","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25945897437185","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25945897437186","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25950192404480","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25950192404481","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25950192404482","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25954487371776","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25954487371777","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25954487371778","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25958782339072","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25958782339073","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25958782339074","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25963077306368","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25963077306369","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25963077306370","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25967372273664","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25967372273665","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25967372273666","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25971667240960","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25971667240961","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25971667240962","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25975962208256","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25975962208257","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25975962208258","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25980257175552","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25980257175553","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25980257175554","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25984552142848","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25984552142849","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25984552142850","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25988847110144","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25988847110145","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25988847110146","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25993142077440","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25993142077441","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25993142077442","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25997437044736","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25997437044737","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:25997437044738","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26001732012032","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26001732012033","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26001732012034","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26006026979328","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26006026979329","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26006026979330","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26010321946624","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26010321946625","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26010321946626","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26014616913920","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26014616913921","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26014616913922","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26018911881216","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26018911881217","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26018911881218","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26023206848512","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26023206848513","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26023206848514","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26027501815808","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26027501815809","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26027501815810","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26031796783104","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26031796783105","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26031796783106","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26036091750400","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26036091750401","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26036091750402","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26040386717696","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26040386717697","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26040386717698","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26044681684992","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26044681684993","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26044681684994","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26048976652288","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26048976652289","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26048976652290","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26053271619584","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26053271619585","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26053271619586","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26057566586880","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26057566586881","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26057566586882","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26061861554176","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26061861554177","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26061861554178","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26066156521472","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26066156521473","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26066156521474","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26070451488768","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26070451488769","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26070451488770","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26074746456064","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26074746456065","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26074746456066","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26079041423360","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26079041423361","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26079041423362","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26083336390656","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26083336390657","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26083336390658","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26087631357952","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26087631357953","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26087631357954","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26091926325248","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26091926325249","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26091926325250","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26096221292544","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26096221292545","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26096221292546","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26100516259840","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26100516259841","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26100516259842","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26104811227136","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26104811227137","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26104811227138","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26109106194432","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26109106194433","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26109106194434","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26113401161728","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26113401161729","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26113401161730","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26117696129024","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26117696129025","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26117696129026","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26121991096320","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26121991096321","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26121991096322","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26126286063616","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26126286063617","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26126286063618","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26130581030912","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26130581030913","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26130581030914","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26134875998208","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26134875998209","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26134875998210","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26139170965504","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26139170965505","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26139170965506","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26143465932800","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26143465932801","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26143465932802","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26147760900096","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26147760900097","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26147760900098","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26152055867392","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26152055867393","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26152055867394","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26156350834688","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26156350834689","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26156350834690","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26160645801984","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26160645801985","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26160645801986","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26164940769280","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26164940769281","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26164940769282","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26220775344128","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26220775344129","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26220775344130","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26220775344131","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26225070311424","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26225070311425","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26225070311426","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26229365278720","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26229365278721","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26229365278722","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26233660246016","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26233660246017","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26233660246018","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26237955213312","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26237955213313","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26237955213314","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26242250180608","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26242250180609","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26242250180610","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26242250180611","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26246545147904","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26246545147905","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26246545147906","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26250840115200","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26250840115201","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26250840115202","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26255135082496","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26255135082497","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26255135082498","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26259430049792","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26259430049793","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26259430049794","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26263725017088","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26263725017089","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26263725017090","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26263725017091","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26268019984384","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26268019984385","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26268019984386","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26272314951680","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26272314951681","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26272314951682","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26276609918976","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26276609918977","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26276609918978","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26280904886272","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26280904886273","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26280904886274","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26280904886275","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26285199853568","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26285199853569","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26285199853570","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26289494820864","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26289494820865","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26289494820866","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26293789788160","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26293789788161","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26293789788162","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26298084755456","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26298084755457","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26298084755458","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26298084755459","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26302379722752","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26302379722753","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26302379722754","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26306674690048","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26306674690049","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26306674690050","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26310969657344","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26310969657345","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26310969657346","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26315264624640","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26315264624641","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26315264624642","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26315264624643","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26319559591936","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26319559591937","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26319559591938","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26323854559232","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26323854559233","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26323854559234","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26323854559235","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26328149526528","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26328149526529","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26328149526530","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26332444493824","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26332444493825","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26332444493826","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26332444493827","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26336739461120","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26336739461121","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26336739461122","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26341034428416","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26341034428417","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26341034428418","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26341034428419","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26345329395712","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26345329395713","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26345329395714","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26349624363008","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26349624363009","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26349624363010","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26349624363011","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26353919330304","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26353919330305","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26353919330306","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26671746910208","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26671746910209","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26671746910210","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26676041877504","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26676041877505","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26676041877506","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26680336844800","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26680336844801","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26680336844802","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26684631812096","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26684631812097","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26684631812098","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26688926779392","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26688926779393","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26688926779394","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26693221746688","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26693221746689","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26693221746690","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26697516713984","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26697516713985","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26697516713986","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26714696583168","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26714696583169","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26714696583170","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26718991550464","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26718991550465","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26718991550466","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26723286517760","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26723286517761","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26723286517762","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26727581485056","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26727581485057","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26727581485058","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26731876452352","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26731876452353","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26731876452354","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26736171419648","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26736171419649","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26736171419650","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26740466386944","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26740466386945","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26740466386946","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26757646256128","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26757646256129","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26761941223424","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26761941223425","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26766236190720","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26766236190721","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26766236190722","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26770531158016","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26770531158017","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26770531158018","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26774826125312","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26774826125313","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26774826125314","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26779121092608","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26779121092609","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26779121092610","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26783416059904","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26783416059905","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:26783416059906","en":"This stage is not unlocked.","ru":"Этот этап не разблокирован."}
+{"id":"common_jump:27921582393344","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27921582393345","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27925877360640","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27925877360641","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27930172327936","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27930172327937","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27934467295232","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27934467295233","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27938762262528","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27938762262529","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27943057229824","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:27943057229825","en":"Unlocked upon reaching the required Star Knowledge Level","ru":"Разблокируется по достижении требуемого уровня звёздных знаний"}
+{"id":"common_jump:300652005689344","en":"This event has not been unlocked.","ru":"Это событие не открыто."}
+{"id":"common_jump:30081950943232","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:344035470346240","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:344039765313536","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38659000633344","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38663295600640","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38667590567936","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38671885535232","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38676180502528","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38680475469824","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38684770437120","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38689065404416","en":"Unlocked after clearing the main story Commission \"1-5 Prosperity of the People\"","ru":"Разблокируется после выполнения сюжетного поручения «1-5 Процветание народа»"}
+{"id":"common_jump:38693360371712","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38697655338496","en":"Field","ru":"Поле"}
+{"id":"common_jump:38697655338497","en":"A small field. Can be placed anywhere on the Farm.\nThe life force slumbering in the fertile soil breathes life into seeds.","ru":"Небольшое поле. Можно разместить в любом месте фермы.\nЖизненная сила, дремлющая в плодородной земле, даёт семенам дыхание жизни."}
+{"id":"common_jump:38697655339008","en":"There are no fields on the Farm.","ru":"На ферме нет полей."}
+{"id":"common_jump:38697655339009","en":"Unlocked after clearing Chapter 1 of the main story","ru":"Разблокируется после прохождения первой главы основной сюжетной линии"}
+{"id":"common_jump:38706245273600","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:38727720110080","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38740605011968","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:38744899979264","en":"The building requirements have not been met.","ru":"Условия строительства не выполнены."}
+{"id":"common_jump:38753489913856","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38757784881152","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38762079848448","en":"Unlocked at Level 40","ru":"Открывается на уровне 40"}
+{"id":"common_jump:38787849652224","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38792144619520","en":"Raise your Farm Insight Level to unlock this building.","ru":"Повысьте уровень познаний на ферме, чтобы открыть это здание."}
+{"id":"common_jump:38796439586816","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38800734554112","en":"Raise your Farm Insight Level to unlock this building.","ru":"Повысьте уровень познаний на ферме, чтобы открыть это здание."}
+{"id":"common_jump:38805029521408","en":"Raise your Farm Insight Level to unlock this building.","ru":"Повысьте уровень познаний на ферме, чтобы открыть это здание."}
+{"id":"common_jump:38809324488704","en":"Raise your Farm Insight Level to unlock this building.","ru":"Повысьте уровень познаний на ферме, чтобы открыть это здание."}
+{"id":"common_jump:38813619456000","en":"Raise your Farm Insight Level to unlock this building.","ru":"Повысьте уровень познаний на ферме, чтобы открыть это здание."}
+{"id":"common_jump:38817914423296","en":"Raise your Farm Insight Level to unlock this building.","ru":"Повысьте уровень познаний на ферме, чтобы открыть это здание."}
+{"id":"common_jump:38830799325184","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38835094292480","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38839389259776","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38843684227072","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38847979194368","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:38852274161664","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:39088497362944","en":"At Star Knowledge Level 10, the corresponding items become available for purchase at Lilika's Shop.","ru":"На уровне звёздных знаний 10 в лавке Лилики можно будет купить соответствующие предметы."}
+{"id":"common_jump:39092792330240","en":"At Star Knowledge Level 15, the corresponding items become available for purchase at Lilika's Shop.","ru":"На уровне звёздных знаний 15 в лавке Лилики можно будет купить соответствующие предметы."}
+{"id":"common_jump:39097087297536","en":"At Star Knowledge Level 20, the corresponding items become available for purchase at Lilika's Shop.","ru":"На уровне звёздных знаний 20 в лавке Лилики можно будет купить соответствующие предметы."}
+{"id":"common_jump:39101382264832","en":"At Star Knowledge Level 25, the corresponding items become available for purchase at Lilika's Shop.","ru":"На уровне звёздных знаний 25 в лавке Лилики можно будет купить соответствующие предметы."}
+{"id":"common_jump:39105677232128","en":"At Star Knowledge Level 30, the corresponding items become available for purchase at Lilika's Shop.","ru":"На уровне звёздных знаний 30 в лавке Лилики можно будет купить соответствующие предметы."}
+{"id":"common_jump:39109972199424","en":"At Star Knowledge Level 45, the corresponding items become available for purchase at Lilika's Shop.","ru":"На уровне звёздных знаний 45 в лавке Лилики можно будет купить соответствующие предметы."}
+{"id":"common_jump:416616122681344","en":"This Kibo has not been discovered yet.","ru":"Этот кибо ещё не обнаружен."}
+{"id":"common_jump:42953967929344","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:42958262896640","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:42962557863936","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:42966852831232","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:42971147798528","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:42975442765824","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:42979737733120","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:42984032700416","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:42988327667712","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:42996917602304","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43001212569600","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43005507536896","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43009802504192","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43014097471488","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43018392438784","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43022687406080","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43026982373376","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43031277340672","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43035572307968","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43039867275264","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43044162242560","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43048457209856","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43052752177152","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43057047144448","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43061342111744","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43065637079040","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43069932046336","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43074227013632","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43078521980928","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43082816948224","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43087111915520","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43091406882816","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43095701850112","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43099996817408","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43104291784704","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43108586752000","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43112881719296","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43117176686592","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43121471653888","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43125766621184","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43130061588480","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43134356555776","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43177306228736","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43181601196032","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43185896163328","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43190191130624","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43194486097920","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43198781065216","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43207370999808","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43211665967104","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43215960934400","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43220255901696","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43224550868992","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43228845836288","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43233140803584","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43237435770880","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43241730738176","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43246025705472","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43250320672768","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43254615640064","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43258910607360","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43263205574656","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43267500541952","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43271795509248","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43276090476544","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43280385443840","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43284680411136","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43288975378432","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43293270345728","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43297565313024","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43301860280320","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43306155247616","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43310450214912","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43314745182208","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43319040149504","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43323335116800","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43327630084096","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43336220018688","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:43340514985984","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43344809953280","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43349104920576","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:43353399887872","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43357694855168","en":"This event is not currently running.","ru":"Это событие сейчас не проводится."}
+{"id":"common_jump:43361989822464","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43366284789760","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43400644528128","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43409234462720","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43413529430016","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:43417824397312","en":"This item is currently unavailable for purchase.","ru":"Сейчас этот товар нельзя купить."}
+{"id":"common_jump:4724511270242304","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:4724554219915264","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:8589934594048","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:85903640889344","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85907935856640","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85912230823936","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85916525791232","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85920820758528","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85925115725824","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85929410693120","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85933705660416","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85938000627712","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85942295595008","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85946590562304","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85950885529600","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85955180496896","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85959475464192","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85963770431488","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85972360366080","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85976655333376","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85989540235264","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:85998130169856","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86006720104448","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86011015071744","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86023899973632","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86028194940928","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:86032489908224","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86036784875520","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86041079842816","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86045374810112","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86049669777408","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86053964744704","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86058259712000","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86062554679296","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86066849646592","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86071144613888","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:86075439581184","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86079734548480","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:86084029515776","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:86088324483072","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:86092619450368","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:86101209384960","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:86105504352256","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:86109799319552","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86114094286848","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86333137618944","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86337432586240","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86341727553536","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86346022520832","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86350317488128","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86354612455424","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86358907422720","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86363202390016","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86367497357312","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86371792324608","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86376087291904","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86380382259200","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86384677226496","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86388972193792","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86393267161088","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86397562128384","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86401857095680","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86406152062976","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86410447030272","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86414741997568","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86419036964864","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86423331932160","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86427626899456","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86431921866752","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86436216834048","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86440511801344","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86444806768640","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86449101735936","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86453396703232","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86457691670528","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86466281605120","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86470576572416","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86474871539712","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86479166507008","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86483461474304","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86487756441600","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86492051408896","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86496346376192","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86500641343488","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86504936310784","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86509231278080","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86513526245376","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86517821212672","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86522116179968","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86526411147264","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86762634348544","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86766929315840","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86771224283136","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86775519250432","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86779814217728","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86784109185024","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86788404152320","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86792699119616","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:86796994086912","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:89769111455744","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:89773406423040","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:89777701390336","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:89781996357632","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:89786291324928","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:90623809947648","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:90628104914944","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:90632399882240","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
+{"id":"common_jump:90636694849536","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:90640989816832","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
+{"id":"common_jump:90645284784128","en":"Please advance the main story.","ru":"Продвиньтесь по основной сюжетной линии."}

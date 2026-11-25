@@ -1,0 +1,998 @@
+{"id":"journey_task:128853313848320","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128853313848576","en":"Star-Journeying Path: 4","ru":"Звёздный путь: 4"}
+{"id":"journey_task:128853313850368","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128853313850624","en":"Mining Efficiency Upgrade: 1","ru":"Повышение эффективности добычи: 1"}
+{"id":"journey_task:128857608815616","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128857608815872","en":"Mining Efficiency Upgrade: 1","ru":"Повышение эффективности добычи: 1"}
+{"id":"journey_task:128857608817664","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128857608817920","en":"Farm Expansion: Smelter","ru":"Расширение фермы: плавильня"}
+{"id":"journey_task:128861903782912","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128861903783168","en":"Farm Expansion: Smelter","ru":"Расширение фермы: плавильня"}
+{"id":"journey_task:128861903784960","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128861903785216","en":"Refining Bronze Ingots","ru":"Выплавка бронзовых слитков"}
+{"id":"journey_task:128866198750208","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128866198750464","en":"Star-Journeying Path: 4","ru":"Звёздный путь: 4"}
+{"id":"journey_task:128866198752256","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128866198752512","en":"Growing and Harvesting: Moonlight Hemp","ru":"Выращивание и сбор: лунная конопля"}
+{"id":"journey_task:128870493717504","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128870493717760","en":"Growing and Harvesting: Moonlight Hemp","ru":"Выращивание и сбор: лунная конопля"}
+{"id":"journey_task:128870493719552","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128870493719808","en":"Farm Expansion: Spinning Wheel","ru":"Расширение фермы: прялка"}
+{"id":"journey_task:128874788684800","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128874788685056","en":"Farm Expansion: Spinning Wheel","ru":"Расширение фермы: прялка"}
+{"id":"journey_task:128874788686848","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128874788687104","en":"Crafting Moonlight Hemp Cloth","ru":"Изготовление ткани из лунной конопли"}
+{"id":"journey_task:128879083652096","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128879083652352","en":"Refining Bronze Ingots and Crafting Moonlight Hemp Cloth","ru":"Выплавка бронзовых слитков и изготовление ткани из лунной конопли"}
+{"id":"journey_task:128879083654144","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128879083654400","en":"Crafting a Rare Stella Card","ru":"Создание редкой Карты звёзд"}
+{"id":"journey_task:128887673586688","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:128887673586944","en":"30","ru":"30"}
+{"id":"journey_task:128887673588736","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128887673588992","en":"Farm Expansion: Workshop","ru":"Расширение фермы: мастерская"}
+{"id":"journey_task:128891968553984","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128891968554240","en":"Farm Expansion: Workshop","ru":"Расширение фермы: мастерская"}
+{"id":"journey_task:128891968556032","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128891968556288","en":"Mining Efficiency Upgrade: 2","ru":"Повышение эффективности добычи: 2"}
+{"id":"journey_task:128896263521280","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128896263521536","en":"Mining Efficiency Upgrade: 2","ru":"Повышение эффективности добычи: 2"}
+{"id":"journey_task:128896263523328","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128896263523584","en":"Farm Expansion: Refinery","ru":"Расширение фермы: рафинировочная"}
+{"id":"journey_task:128900558488576","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128900558488832","en":"Farm Expansion: Refinery","ru":"Расширение фермы: рафинировочная"}
+{"id":"journey_task:128900558490624","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128900558490880","en":"Refine a Mirror Iron Ingot","ru":"Выплавка слитка зеркального железа"}
+{"id":"journey_task:128904853455872","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128904853456128","en":"Craft a rare Stella Card","ru":"Создание редкой карты звёзд"}
+{"id":"journey_task:128904853457920","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128904853458176","en":"Craft a fine Stella Card","ru":"Создание качественной карты звёзд"}
+{"id":"journey_task:128922033325056","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128922033325312","en":"Farm Expansion: Workshop","ru":"Расширение фермы: мастерская"}
+{"id":"journey_task:128922033327104","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128922033327360","en":"Cultivation and Harvesting: Spiderfluff","ru":"Выращивание и сбор: паутинный пух"}
+{"id":"journey_task:128926328292352","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128926328292608","en":"Cultivation and Harvesting: Spiderfluff","ru":"Выращивание и сбор: паутинный пух"}
+{"id":"journey_task:128926328294400","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128926328294656","en":"Farm Expansion: Weaving Workshop","ru":"Расширение фермы: ткацкая мастерская"}
+{"id":"journey_task:128930623259648","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128930623259904","en":"Farm Expansion: Weaving Workshop","ru":"Расширение фермы: ткацкая мастерская"}
+{"id":"journey_task:128930623261696","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128930623261952","en":"Craft Spiderfluff Cloth","ru":"Создание ткани из паутинного пуха"}
+{"id":"journey_task:128934918226944","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:128934918227200","en":"35","ru":"35"}
+{"id":"journey_task:128934918228992","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128934918229248","en":"Craft a Radiant Stella Card","ru":"Создание сияющей карты звёзд"}
+{"id":"journey_task:128939213194240","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:128939213194496","en":"10","ru":"10"}
+{"id":"journey_task:128939213196288","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128939213196544","en":"Farm Expansion: Dormitory","ru":"Расширение фермы: общежитие"}
+{"id":"journey_task:128943508161536","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:128943508161792","en":"10","ru":"10"}
+{"id":"journey_task:128943508163584","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128943508163840","en":"Move into the Dormitory","ru":"Заселение в общежитие"}
+{"id":"journey_task:128947803128832","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:128947803129088","en":"15","ru":"15"}
+{"id":"journey_task:128947803130880","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128947803131136","en":"Farm Expansion: Elemental Furnace","ru":"Расширение фермы: элементальная печь"}
+{"id":"journey_task:128952098096128","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128952098096384","en":"Farm Expansion: Elemental Furnace","ru":"Расширение фермы: элементальная печь"}
+{"id":"journey_task:128952098098176","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128952098098432","en":"Elemental Particle Conversion","ru":"Преобразование элементарных частиц"}
+{"id":"journey_task:128960688030720","en":"Unlocks when Farm Level reaches {0}","ru":"Открывается при достижении уровня фермы {0}"}
+{"id":"journey_task:128960688030976","en":"13","ru":"13"}
+{"id":"journey_task:128960688032768","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128960688033024","en":"Land Reclamation: 2","ru":"Освоение земли: 2"}
+{"id":"journey_task:128964982998016","en":"Unlocks when Farm Level reaches {0}","ru":"Открывается при достижении уровня фермы {0}"}
+{"id":"journey_task:128964982998272","en":"45","ru":"45"}
+{"id":"journey_task:128964983000064","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128964983000320","en":"Land Reclamation: 3","ru":"Освоение земли: 3"}
+{"id":"journey_task:128969277965312","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128969277965568","en":"Star-Journeying Path: 4","ru":"Звёздный путь: 4"}
+{"id":"journey_task:128969277967360","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128969277967616","en":"Kibo Hatching: 1","ru":"Вылупление кибо: 1"}
+{"id":"journey_task:128973572932608","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128973572932864","en":"Kibo Hatching: 1","ru":"Вылупление кибо: 1"}
+{"id":"journey_task:128973572934656","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128973572934912","en":"Kibo Hatching: 2","ru":"Вылупление кибо: 2"}
+{"id":"journey_task:128977867899904","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:128977867900160","en":"30","ru":"30"}
+{"id":"journey_task:128977867901952","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128977867902208","en":"Assign a Kibo to the Ranch","ru":"Отправить кибо в загон"}
+{"id":"journey_task:128982162867200","en":"Available once Farm Headquarters is unlocked","ru":"Доступно после открытия фермерского штаба"}
+{"id":"journey_task:128982162869248","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128982162869504","en":"Harvest Farm Produce","ru":"Собрать урожай фермы"}
+{"id":"journey_task:128986457836544","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128986457836800","en":"Craft a Kibo Saddle","ru":"Создание седла для кибо"}
+{"id":"journey_task:128990752801792","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128990752802048","en":"Star-Journeying Path: 2","ru":"Звёздный путь: 2"}
+{"id":"journey_task:128990752803840","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128990752804096","en":"Assign a Kibo to Work: 2","ru":"Отправить кибо на работу: 2"}
+{"id":"journey_task:128995047769088","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:128995047769344","en":"Assign a Kibo to Work: 2","ru":"Отправить кибо на работу: 2"}
+{"id":"journey_task:128995047771136","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128995047771392","en":"Assign a Kibo to Work: 3","ru":"Отправить кибо на работу: 3"}
+{"id":"journey_task:128999342738432","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:128999342738688","en":"Assign a Kibo to Ignition","ru":"Отправить кибо на растопку"}
+{"id":"journey_task:129003637705728","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129003637705984","en":"Assign a Kibo to Logging","ru":"Отправить кибо на лесозаготовку"}
+{"id":"journey_task:129007932673024","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129007932673280","en":"Assign a Kibo to Elements","ru":"Отправить кибо на элементальные работы"}
+{"id":"journey_task:129012227640320","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129012227640576","en":"Assign a Kibo to Farm Work","ru":"Отправить кибо на работу на ферме"}
+{"id":"journey_task:129016522607616","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129016522607872","en":"Assign a Kibo to Watering","ru":"Отправить кибо на полив"}
+{"id":"journey_task:129020817574912","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129020817575168","en":"Assign a Kibo to Mining","ru":"Отправить кибо на добычу руды"}
+{"id":"journey_task:129025112542208","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129025112542464","en":"Assign a Kibo to Care","ru":"Отправить кибо на уход"}
+{"id":"journey_task:129029407509504","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129029407509760","en":"Assign a Kibo to Forging","ru":"Отправить кибо на ковку"}
+{"id":"journey_task:129033702476800","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129033702477056","en":"Assign a Kibo to Handiwork","ru":"Отправить кибо на ручные работы"}
+{"id":"journey_task:129282810577920","en":"Unlocks when Farm Level reaches {0}","ru":"Открывается при достижении уровня фермы {0}"}
+{"id":"journey_task:129282810578176","en":"18","ru":"18"}
+{"id":"journey_task:129282810579968","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129282810580224","en":"Fertile Soil Reclamation: 1","ru":"Освоение плодородной почвы: 1"}
+{"id":"journey_task:129287105545216","en":"Unlocks when Farm Level reaches {0}","ru":"Открывается при достижении уровня фермы {0}"}
+{"id":"journey_task:129287105545472","en":"22","ru":"22"}
+{"id":"journey_task:129287105547264","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129287105547520","en":"Fertile Soil Reclamation: 2","ru":"Освоение плодородной почвы: 2"}
+{"id":"journey_task:129291400512512","en":"Unlocks when Farm Level reaches {0}","ru":"Открывается при достижении уровня фермы {0}"}
+{"id":"journey_task:129291400512768","en":"26","ru":"26"}
+{"id":"journey_task:129291400514560","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129291400514816","en":"Fertile Soil Reclamation: 3","ru":"Освоение плодородной почвы: 3"}
+{"id":"journey_task:129295695479808","en":"Unlocks when Farm Level reaches {0}","ru":"Открывается при достижении уровня фермы {0}"}
+{"id":"journey_task:129295695480064","en":"30","ru":"30"}
+{"id":"journey_task:129295695481856","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129295695482112","en":"Fertile Soil Reclamation: 4","ru":"Освоение плодородной почвы: 4"}
+{"id":"journey_task:129299990447104","en":"Unlocks when Farm Level reaches {0}","ru":"Открывается при достижении уровня фермы {0}"}
+{"id":"journey_task:129299990447360","en":"34","ru":"34"}
+{"id":"journey_task:129299990449152","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129299990449408","en":"Fertile Soil Reclamation: 5","ru":"Освоение плодородной почвы: 5"}
+{"id":"journey_task:129304285414400","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:129304285414656","en":"30","ru":"30"}
+{"id":"journey_task:129304285416448","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129304285416704","en":"Grow Factor Fruit Trees: 1","ru":"Выращивание факторных плодовых деревьев: 1"}
+{"id":"journey_task:129308580381696","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:129308580381952","en":"Grow Factor Fruit Trees: 1","ru":"Выращивание факторных плодовых деревьев: 1"}
+{"id":"journey_task:129308580383744","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129308580384000","en":"Grow Factor Fruit Trees: 2","ru":"Выращивание факторных плодовых деревьев: 2"}
+{"id":"journey_task:129312875348992","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:129312875349248","en":"20","ru":"20"}
+{"id":"journey_task:129312875351040","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129312875351296","en":"Grow Soul Star Fruit Trees: 1","ru":"Выращивание плодовых деревьев звёздной души: 1"}
+{"id":"journey_task:129317170316288","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:129317170316544","en":"Grow Soul Star Fruit Trees: 1","ru":"Выращивание плодовых деревьев звёздной души: 1"}
+{"id":"journey_task:129317170318336","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129317170318592","en":"Grow Soul Star Fruit Trees: 2","ru":"Выращивание плодовых деревьев звёздной души: 2"}
+{"id":"journey_task:129321465283584","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:129321465283840","en":"20","ru":"20"}
+{"id":"journey_task:129321465285632","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129321465285888","en":"Grow Starful Fruit Trees: 1","ru":"Выращивание звездоплодных деревьев: 1"}
+{"id":"journey_task:129325760250880","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:129325760251136","en":"Grow Starful Fruit Trees: 1","ru":"Выращивание звездоплодных деревьев: 1"}
+{"id":"journey_task:129325760252928","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129325760253184","en":"Grow Starful Fruit Trees: 2","ru":"Выращивание звездоплодных деревьев: 2"}
+{"id":"journey_task:129725192209408","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:129725192209664","en":"25","ru":"25"}
+{"id":"journey_task:129725192211456","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129725192211712","en":"Craft a Friendship Dumpling","ru":"Создание дружелюбной клёцки"}
+{"id":"journey_task:129729487176704","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:129729487176960","en":"25","ru":"25"}
+{"id":"journey_task:129729487178752","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129729487179008","en":"Craft a Lucky Steamed Bun","ru":"Создание счастливого парового пирожка"}
+{"id":"journey_task:129733782144000","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:129733782144256","en":"10","ru":"10"}
+{"id":"journey_task:129733782146048","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129733782146304","en":"Craft Elder Spirit Dew","ru":"Создание росы древних духов"}
+{"id":"journey_task:129738077111296","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:129738077111552","en":"10","ru":"10"}
+{"id":"journey_task:129738077113344","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:129738077113600","en":"Craft Elder Spirit Rain","ru":"Создание дождя древних духов"}
+{"id":"journey_task:130141804037120","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:130141804037376","en":"15","ru":"15"}
+{"id":"journey_task:130141804039168","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130141804039424","en":"Farm Expansion: Feeding Ground","ru":"Расширение фермы: кормушка"}
+{"id":"journey_task:130146099004416","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:130146099004672","en":"Star-Journeying Path: 2","ru":"Звёздный путь: 2"}
+{"id":"journey_task:130146099006464","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130146099006720","en":"Production Boost Facility","ru":"Постройка для повышения производительности"}
+{"id":"journey_task:130150393973760","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130150393974016","en":"Sprout Valley Production Boost: 1","ru":"Повышение производства в Долине Ростков: 1"}
+{"id":"journey_task:130154688939008","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:130154688939264","en":"Sprout Valley Production Boost: 1","ru":"Повышение производства в Долине Ростков: 1"}
+{"id":"journey_task:130154688941056","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130154688941312","en":"Sprout Valley Production Boost: 2","ru":"Повышение производства в Долине Ростков: 2"}
+{"id":"journey_task:130158983906304","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:130158983906560","en":"25","ru":"25"}
+{"id":"journey_task:130158983908352","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130158983908608","en":"Fleece Production Boost: 1","ru":"Повышение производства во Флисе: 1"}
+{"id":"journey_task:130163278873600","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:130163278873856","en":"Fleece Production Boost: 1","ru":"Повышение производства во Флисе: 1"}
+{"id":"journey_task:130163278875648","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130163278875904","en":"Fleece Production Boost: 2","ru":"Повышение производства во Флисе: 2"}
+{"id":"journey_task:130571300766720","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:130571300766976","en":"30","ru":"30"}
+{"id":"journey_task:130571300768768","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130571300769024","en":"Equipment Crafting: 1","ru":"Создание снаряжения: 1"}
+{"id":"journey_task:130575595734016","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:130575595734272","en":"30","ru":"30"}
+{"id":"journey_task:130575595736064","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130575595736320","en":"Equipment Crafting: 2","ru":"Создание снаряжения: 2"}
+{"id":"journey_task:130579890701312","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:130579890701568","en":"30","ru":"30"}
+{"id":"journey_task:130579890703360","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130579890703616","en":"Farm Expansion: Tanning Rack","ru":"Расширение фермы: кожевенный станок"}
+{"id":"journey_task:130584185668608","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:130584185668864","en":"30","ru":"30"}
+{"id":"journey_task:130584185670656","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130584185670912","en":"Farm Expansion: Tannery","ru":"Расширение фермы: кожевенная мастерская"}
+{"id":"journey_task:130588480635904","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:130588480636160","en":"20","ru":"20"}
+{"id":"journey_task:130588480637952","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130588480638208","en":"Farm Expansion: Weapon Workshop","ru":"Расширение фермы: оружейная мастерская"}
+{"id":"journey_task:130592775603200","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:130592775603456","en":"60","ru":"60"}
+{"id":"journey_task:130592775605248","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130592775605504","en":"Equipment Crafting: 3","ru":"Создание снаряжения: 3"}
+{"id":"journey_task:130597070570496","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:130597070570752","en":"Equipment Crafting: 3","ru":"Создание снаряжения: 3"}
+{"id":"journey_task:130597070572544","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:130597070572800","en":"Equipment Crafting: 4","ru":"Создание снаряжения: 4"}
+{"id":"journey_task:131000797496320","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:131000797496576","en":"Star-Journeying Path: 3","ru":"Звёздный путь: 3"}
+{"id":"journey_task:131000797498368","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:131000797498624","en":"Complete Trade Orders: 3","ru":"Выполнение торговых заказов: 3"}
+{"id":"journey_task:131005092463616","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:131005092463872","en":"15","ru":"15"}
+{"id":"journey_task:131005092465664","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:131005092465920","en":"Complete Trade Orders: 4","ru":"Выполнение торговых заказов: 4"}
+{"id":"journey_task:131009387430912","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:131009387431168","en":"15","ru":"15"}
+{"id":"journey_task:131009387432960","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:131009387433216","en":"Complete Trade Orders: 5","ru":"Выполнение торговых заказов: 5"}
+{"id":"journey_task:131017977365504","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:131017977365760","en":"15","ru":"15"}
+{"id":"journey_task:131017977367552","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:131017977367808","en":"Trade Proceeds: 1","ru":"Доход от торговли: 1"}
+{"id":"journey_task:131022272332800","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:131022272333056","en":"15","ru":"15"}
+{"id":"journey_task:131022272334848","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:131022272335104","en":"Trade Proceeds: 2","ru":"Доход от торговли: 2"}
+{"id":"journey_task:131026567300096","en":"Available after Sparkle Curios are unlocked","ru":"Доступно после открытия блеска редкостей"}
+{"id":"journey_task:131026567302144","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:131026567302400","en":"Purchase a Kibo Egg","ru":"Купить яйцо кибо"}
+{"id":"journey_task:131030862267392","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:131030862267648","en":"10","ru":"10"}
+{"id":"journey_task:131030862269440","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:131030862269696","en":"Reasonable Expenses: 1","ru":"Разумные траты: 1"}
+{"id":"journey_task:131035157234688","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:131035157234944","en":"Reasonable Expenses: 1","ru":"Разумные траты: 1"}
+{"id":"journey_task:131035157236736","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:131035157236992","en":"Reasonable Expenses: 2","ru":"Разумные траты: 2"}
+{"id":"journey_task:131039452201984","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:131039452202240","en":"Reasonable Expenses: 2","ru":"Разумные траты: 2"}
+{"id":"journey_task:131039452204032","en":"Farm of Dreams","ru":"Ферма мечты"}
+{"id":"journey_task:131039452204288","en":"Reasonable Expenses: 3","ru":"Разумные траты: 3"}
+{"id":"journey_task:171802986808320","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:171802986808576","en":"A Looming Shadow","ru":"Надвигающаяся тень"}
+{"id":"journey_task:171802986810368","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:171802986810624","en":"Seashell Ghost Story","ru":"История о призраке в ракушке"}
+{"id":"journey_task:171807281775616","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:171807281775872","en":"Food Speaks Louder Than Words","ru":"Вкусная еда убедительнее слов"}
+{"id":"journey_task:171807281777664","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:171807281777920","en":"Kibo's Stone of Grace","ru":"Камень благодати для кибо"}
+{"id":"journey_task:171811576742912","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:171811576743168","en":"Food Speaks Louder Than Words","ru":"Вкусная еда убедительнее слов"}
+{"id":"journey_task:171811576744960","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:171811576745216","en":"The Hectic Delivery Journey","ru":"Хлопотная доставка"}
+{"id":"journey_task:171815871710208","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:171815871710464","en":"Fledgling Wings","ru":"Юные крылья"}
+{"id":"journey_task:171815871712256","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:171815871712512","en":"Mitty's Rite of Flight","ru":"Обряд полёта Митти"}
+{"id":"journey_task:171820166677504","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:171820166677760","en":"18","ru":"18"}
+{"id":"journey_task:171820166679552","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:171820166679808","en":"The Dreamcatcher","ru":"Ловец снов"}
+{"id":"journey_task:171824461644800","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:171824461645056","en":"Starlight Upon You","ru":"Да озарит тебя сияние звёзд"}
+{"id":"journey_task:171824461646848","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:171824461647104","en":"Bonds of Closeness - Abby","ru":"Узы близости · Эбби"}
+{"id":"journey_task:171828756612096","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:171828756612352","en":"The Girl and the Thieving Rat","ru":"Девочка и вор-крыса"}
+{"id":"journey_task:171828756614144","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:171828756614400","en":"Bonds of Closeness - Tushan Xiaoyu","ru":"Узы близости · Тушань Сяоюй"}
+{"id":"journey_task:171837346546688","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:171837346546944","en":"The Star of the Promised Wish","ru":"Звезда обещанного желания"}
+{"id":"journey_task:171837346548736","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:171837346548992","en":"Yalhadom","ru":"Ялхадом"}
+{"id":"journey_task:171841641513984","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:171841641514240","en":"The Girl and the Thieving Rat","ru":"Девочка и вор-крыса"}
+{"id":"journey_task:171841641516032","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:171841641516288","en":"The Phantom of the Manor","ru":"Призрак усадьбы"}
+{"id":"journey_task:172232483537920","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:172232483538176","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:172232483539968","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172232483540224","en":"Main Story Commission·1","ru":"Поручение основной сюжетной линии·1"}
+{"id":"journey_task:172236778505216","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172236778505472","en":"Main Story Commission·1","ru":"Поручение основной сюжетной линии·1"}
+{"id":"journey_task:172236778507264","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172236778507520","en":"Main Story Commission·2","ru":"Поручение основной сюжетной линии·2"}
+{"id":"journey_task:172241073472512","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172241073472768","en":"Main Story Commission·2","ru":"Поручение основной сюжетной линии·2"}
+{"id":"journey_task:172241073474560","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172241073474816","en":"Main Story Commission·3","ru":"Поручение основной сюжетной линии·3"}
+{"id":"journey_task:172245368439808","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172245368440064","en":"Main Story Commission·3","ru":"Поручение основной сюжетной линии·3"}
+{"id":"journey_task:172245368441856","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172245368442112","en":"Main Story Commission·4","ru":"Поручение основной сюжетной линии·4"}
+{"id":"journey_task:172249663407104","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172249663407360","en":"Main Story Commission·4","ru":"Поручение основной сюжетной линии·4"}
+{"id":"journey_task:172249663409152","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172249663409408","en":"Main Story Commission·5","ru":"Поручение основной сюжетной линии·5"}
+{"id":"journey_task:172253958374400","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172253958374656","en":"Main Story Commission·5","ru":"Поручение основной сюжетной линии·5"}
+{"id":"journey_task:172253958376448","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172253958376704","en":"Main Story Commission·6","ru":"Поручение основной сюжетной линии·6"}
+{"id":"journey_task:172258253341696","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172258253341952","en":"Main Story Commission·6","ru":"Поручение основной сюжетной линии·6"}
+{"id":"journey_task:172258253343744","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172258253344000","en":"Main Story Commission·7","ru":"Поручение основной сюжетной линии·7"}
+{"id":"journey_task:172262548308992","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172262548309248","en":"Main Story Commission·7","ru":"Поручение основной сюжетной линии·7"}
+{"id":"journey_task:172262548311040","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172262548311296","en":"Main Story Commission·8","ru":"Поручение основной сюжетной линии·8"}
+{"id":"journey_task:172266843276288","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:172266843276544","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:172266843278336","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172266843278592","en":"Silver Splendor","ru":"Серебряное сияние"}
+{"id":"journey_task:172271138243584","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:172271138243840","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:172271138245632","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172271138245888","en":"Thousand Hammers, Hundred Refinements","ru":"Тысяча молотов, сто закалок"}
+{"id":"journey_task:172275433210880","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:172275433211136","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:172275433212928","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172275433213184","en":"Crystal Extraction","ru":"Извлечение кристаллов"}
+{"id":"journey_task:172279728178176","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:172279728178432","en":"20","ru":"20"}
+{"id":"journey_task:172279728180224","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172279728180480","en":"Boss Challenge I","ru":"Испытание босса I"}
+{"id":"journey_task:172284023145472","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172284023145728","en":"Boss Challenge I","ru":"Испытание босса I"}
+{"id":"journey_task:172284023147520","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172284023147776","en":"Boss Challenge II","ru":"Испытание босса II"}
+{"id":"journey_task:172288318112768","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172288318113024","en":"Boss Challenge II","ru":"Испытание босса II"}
+{"id":"journey_task:172288318114816","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172288318115072","en":"Boss Challenge III","ru":"Испытание босса III"}
+{"id":"journey_task:172292613080064","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:172292613080320","en":"40","ru":"40"}
+{"id":"journey_task:172292613082112","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172292613082368","en":"Gear Acquisition·2","ru":"Получение снаряжения·2"}
+{"id":"journey_task:172296908047360","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:172296908047616","en":"60","ru":"60"}
+{"id":"journey_task:172296908049408","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172296908049664","en":"Gear Acquisition·3","ru":"Получение снаряжения·3"}
+{"id":"journey_task:172301203014656","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172301203014912","en":"Gear Acquisition·3","ru":"Получение снаряжения·3"}
+{"id":"journey_task:172301203016704","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172301203016960","en":"Gear Acquisition·4","ru":"Получение снаряжения·4"}
+{"id":"journey_task:172305497981952","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172305497982208","en":"Gear Acquisition·4","ru":"Получение снаряжения·4"}
+{"id":"journey_task:172305497984000","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172305497984256","en":"Gear Acquisition·5","ru":"Получение снаряжения·5"}
+{"id":"journey_task:172661980267520","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172661980267776","en":"Star-Journeying Path: 3","ru":"Звёздный путь: 3"}
+{"id":"journey_task:172661980269568","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172661980269824","en":"Crisis Subjugation·2","ru":"Подавление кризиса·2"}
+{"id":"journey_task:172666275234816","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172666275235072","en":"Crisis Subjugation·2","ru":"Подавление кризиса·2"}
+{"id":"journey_task:172666275236864","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172666275237120","en":"Crisis Subjugation·3","ru":"Подавление кризиса·3"}
+{"id":"journey_task:172670570204160","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172670570204416","en":"Emergency Subjugation - Multiplayer","ru":"Экстренное подавление · Мультиплеер"}
+{"id":"journey_task:172674865169408","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172674865169664","en":"Star-Journeying Path: 3","ru":"Звёздный путь: 3"}
+{"id":"journey_task:172674865171456","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172674865171712","en":"Clear Crisis Subjugation·2","ru":"Пройти «Подавление кризиса»·2"}
+{"id":"journey_task:172679160136704","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172679160136960","en":"Clear Crisis Subjugation·2","ru":"Пройти «Подавление кризиса»·2"}
+{"id":"journey_task:172679160138752","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172679160139008","en":"Clear Crisis Subjugation·3","ru":"Пройти «Подавление кризиса»·3"}
+{"id":"journey_task:172683455104000","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:172683455104256","en":"Clear Crisis Subjugation·3","ru":"Пройти «Подавление кризиса»·3"}
+{"id":"journey_task:172683455106048","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172683455106304","en":"Clear Crisis Subjugation·4","ru":"Пройти «Подавление кризиса»·4"}
+{"id":"journey_task:172687750073344","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172687750073600","en":"Generous with Praise","ru":"Не скупиться на похвалу"}
+{"id":"journey_task:172692045040640","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172692045040896","en":"Never Slack Off","ru":"Не лениться"}
+{"id":"journey_task:172696340007936","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:172696340008192","en":"Never Abandon Allies","ru":"Не бросать товарищей"}
+{"id":"journey_task:173091476997120","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173091476997376","en":"Starward Journey·5","ru":"Звёздный путь·5"}
+{"id":"journey_task:173091476999168","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173091476999424","en":"Ring of Creation Challenge - Beginner","ru":"Испытание «Кольца созидания» · Для новичков"}
+{"id":"journey_task:173095771964416","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173095771964672","en":"Ring of Creation Challenge - Beginner","ru":"Испытание «Кольца созидания» · Для новичков"}
+{"id":"journey_task:173095771966464","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173095771966720","en":"Ring of Creation Challenge - Full Clear","ru":"Испытание «Кольца созидания» · Полное прохождение"}
+{"id":"journey_task:173100066931712","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173100066931968","en":"Ring of Creation Challenge - Full Clear","ru":"Испытание «Кольца созидания» · Полное прохождение"}
+{"id":"journey_task:173100066933760","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173100066934016","en":"Eternal Ring Challenge·1","ru":"Испытание «Вечного кольца»·1"}
+{"id":"journey_task:173104361899008","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173104361899264","en":"Eternal Ring Challenge·1","ru":"Испытание «Вечного кольца»·1"}
+{"id":"journey_task:173104361901056","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173104361901312","en":"Eternal Ring Challenge·2","ru":"Испытание «Вечного кольца»·2"}
+{"id":"journey_task:173108656866304","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173108656866560","en":"Eternal Ring Challenge·2","ru":"Испытание «Вечного кольца»·2"}
+{"id":"journey_task:173108656868352","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173108656868608","en":"Tidal Ring Challenge·1","ru":"Испытание «Кольца приливов»·1"}
+{"id":"journey_task:173112951833600","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173112951833856","en":"Tidal Ring Challenge·1","ru":"Испытание «Кольца приливов»·1"}
+{"id":"journey_task:173112951835648","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173112951835904","en":"Tidal Ring Challenge·2","ru":"Испытание «Кольца приливов»·2"}
+{"id":"journey_task:173117246800896","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173117246801152","en":"Tidal Ring Challenge·2","ru":"Испытание «Кольца приливов»·2"}
+{"id":"journey_task:173117246802944","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173117246803200","en":"Tidal Ring Challenge·3","ru":"Испытание «Кольца приливов»·3"}
+{"id":"journey_task:173520973726720","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173520973726976","en":"Star-Journeying Path: 2","ru":"Звёздный путь: 2"}
+{"id":"journey_task:173520973728768","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173520973729024","en":"Kibo Fight - First Battle","ru":"Бой кибо · Первый бой"}
+{"id":"journey_task:173525268694016","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:173525268694272","en":"Encounter at Sprout Valley","ru":"Встреча в Долине Ростков"}
+{"id":"journey_task:173525268696064","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173525268696320","en":"Fight at Sprout Valley·1","ru":"Бой в Долине Ростков·1"}
+{"id":"journey_task:173529563661312","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173529563661568","en":"Fight at Sprout Valley·1","ru":"Бой в Долине Ростков·1"}
+{"id":"journey_task:173529563663360","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173529563663616","en":"Fight at Sprout Valley·2","ru":"Бой в Долине Ростков·2"}
+{"id":"journey_task:173533858628608","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173533858628864","en":"Fight at Sprout Valley·2","ru":"Бой в Долине Ростков·2"}
+{"id":"journey_task:173533858630656","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173533858630912","en":"Fight at Sprout Valley·3","ru":"Бой в Долине Ростков·3"}
+{"id":"journey_task:173538153595904","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173538153596160","en":"Fight at Sprout Valley·3","ru":"Бой в Долине Ростков·3"}
+{"id":"journey_task:173538153597952","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173538153598208","en":"Fight at Sprout Valley·4","ru":"Бой в Долине Ростков·4"}
+{"id":"journey_task:173542448563200","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:173542448563456","en":"25","ru":"25"}
+{"id":"journey_task:173542448565248","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173542448565504","en":"Fight at Fleece·1","ru":"Бой во Флисе·1"}
+{"id":"journey_task:173546743530496","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173546743530752","en":"Fight at Fleece·1","ru":"Бой во Флисе·1"}
+{"id":"journey_task:173546743532544","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173546743532800","en":"Fight at Fleece·2","ru":"Бой во Флисе·2"}
+{"id":"journey_task:173551038497792","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173551038498048","en":"Fight at Fleece·2","ru":"Бой во Флисе·2"}
+{"id":"journey_task:173551038499840","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173551038500096","en":"Fight at Fleece·3","ru":"Бой во Флисе·3"}
+{"id":"journey_task:173555333465088","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173555333465344","en":"Fight at Fleece·3","ru":"Бой во Флисе·3"}
+{"id":"journey_task:173555333467136","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173555333467392","en":"Kibo Fight - Enter the Fray","ru":"Бой кибо · Вступление в бой"}
+{"id":"journey_task:173559628432384","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:173559628432640","en":"Kibo Fight - Enter the Fray","ru":"Бой кибо · Вступление в бой"}
+{"id":"journey_task:173559628434432","en":"Path of Trials","ru":"Путь испытаний"}
+{"id":"journey_task:173559628434688","en":"Kibo Fight - Star Crown","ru":"Бой кибо · Звёздная корона"}
+{"id":"journey_task:214752659768320","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:214752659768576","en":"Star-Journeying Path: 1","ru":"Звёздный путь: 1"}
+{"id":"journey_task:214752659770368","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:214752659770624","en":"Together with Her·2","ru":"Вместе с ней·2"}
+{"id":"journey_task:214756954735616","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:214756954735872","en":"Star-Journeying Path: 4","ru":"Звёздный путь: 4"}
+{"id":"journey_task:214756954737664","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:214756954737920","en":"Path of Starlink·2","ru":"Путь Звёздной связи·2"}
+{"id":"journey_task:214761249702912","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:214761249703168","en":"Path of Starlink·2","ru":"Путь Звёздной связи·2"}
+{"id":"journey_task:214761249704960","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:214761249705216","en":"Path of Starlink·3","ru":"Путь Звёздной связи·3"}
+{"id":"journey_task:214765544670208","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:214765544670464","en":"Path of Starlink·3","ru":"Путь Звёздной связи·3"}
+{"id":"journey_task:214765544672256","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:214765544672512","en":"Path of Starlink·4","ru":"Путь Звёздной связи·4"}
+{"id":"journey_task:214769839637504","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:214769839637760","en":"Path of Starlink·4","ru":"Путь Звёздной связи·4"}
+{"id":"journey_task:214769839639552","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:214769839639808","en":"Path of Starlink·5","ru":"Путь Звёздной связи·5"}
+{"id":"journey_task:214774134604800","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:214774134605056","en":"Path of Starlink·5","ru":"Путь Звёздной связи·5"}
+{"id":"journey_task:214774134606848","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:214774134607104","en":"Together with Her·3","ru":"Вместе с ней·3"}
+{"id":"journey_task:214778429572096","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:214778429572352","en":"Together with Her·3","ru":"Вместе с ней·3"}
+{"id":"journey_task:214778429574144","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:214778429574400","en":"Path of Starlink·6","ru":"Путь Звёздной связи·6"}
+{"id":"journey_task:214782724539392","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:214782724539648","en":"Starlink Journey · 6","ru":"Путь Звёздной связи · 6"}
+{"id":"journey_task:214782724541440","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:214782724541696","en":"Starlink Journey · 7","ru":"Путь Звёздной связи · 7"}
+{"id":"journey_task:214787019506688","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:214787019506944","en":"Star-Journeying Path: Prologue","ru":"Звёздный путь: Пролог"}
+{"id":"journey_task:214787019508736","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:214787019508992","en":"Together With Her · 1","ru":"Вместе с ней · 1"}
+{"id":"journey_task:215182156497920","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215182156498176","en":"Star-Journeying Path: 1","ru":"Звёздный путь: 1"}
+{"id":"journey_task:215182156499968","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215182156500224","en":"Anima Ready","ru":"Анима готова"}
+{"id":"journey_task:215186451465216","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215186451465472","en":"Star-Journeying Path: 1","ru":"Звёздный путь: 1"}
+{"id":"journey_task:215186451467264","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215186451467520","en":"Brilliant Memories · 2","ru":"Сияющие воспоминания · 2"}
+{"id":"journey_task:215190746432512","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215190746432768","en":"Brilliant Memories · 2","ru":"Сияющие воспоминания · 2"}
+{"id":"journey_task:215190746434560","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215190746434816","en":"Brilliant Memories · 3","ru":"Сияющие воспоминания · 3"}
+{"id":"journey_task:215195041399808","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215195041400064","en":"Brilliant Memories · 3","ru":"Сияющие воспоминания · 3"}
+{"id":"journey_task:215195041401856","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215195041402112","en":"Brilliant Memories · 4","ru":"Сияющие воспоминания · 4"}
+{"id":"journey_task:215199336367104","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215199336367360","en":"Brilliant Memories · 4","ru":"Сияющие воспоминания · 4"}
+{"id":"journey_task:215199336369152","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215199336369408","en":"Brilliant Memories · 5","ru":"Сияющие воспоминания · 5"}
+{"id":"journey_task:215203631334400","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215203631334656","en":"Brilliant Memories · 5","ru":"Сияющие воспоминания · 5"}
+{"id":"journey_task:215203631336448","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215203631336704","en":"Brilliant Memories · 6","ru":"Сияющие воспоминания · 6"}
+{"id":"journey_task:215207926301696","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215207926301952","en":"Brilliant Memories · 6","ru":"Сияющие воспоминания · 6"}
+{"id":"journey_task:215207926303744","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215207926304000","en":"Brilliant Memories · 7","ru":"Сияющие воспоминания · 7"}
+{"id":"journey_task:215212221268992","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215212221269248","en":"Holding Onto Memories","ru":"Храня воспоминания"}
+{"id":"journey_task:215212221271040","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215212221271296","en":"Brilliant Memories · 1","ru":"Сияющие воспоминания · 1"}
+{"id":"journey_task:215216516236288","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215216516236544","en":"Star-Journeying Path: Prologue","ru":"Звёздный путь: Пролог"}
+{"id":"journey_task:215216516238336","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215216516238592","en":"Holding Onto Memories","ru":"Храня воспоминания"}
+{"id":"journey_task:215611653229568","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215611653229824","en":"Conveying Feelings · 1","ru":"Передать чувства · 1"}
+{"id":"journey_task:215615948194816","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215615948195072","en":"Conveying Feelings · 1","ru":"Передать чувства · 1"}
+{"id":"journey_task:215615948196864","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215615948197120","en":"Conveying Feelings · 2","ru":"Передать чувства · 2"}
+{"id":"journey_task:215620243164160","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215620243164416","en":"Connecting Hearts · 1","ru":"Соединяя сердца · 1"}
+{"id":"journey_task:215624538129408","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:215624538129664","en":"Connecting Hearts · 1","ru":"Соединяя сердца · 1"}
+{"id":"journey_task:215624538131456","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:215624538131712","en":"Connecting Hearts · 2","ru":"Соединяя сердца · 2"}
+{"id":"journey_task:216041149957120","en":"Clear main story Commission \"{0}\"","ru":"Завершите сюжетное поручение «{0}»"}
+{"id":"journey_task:216041149957376","en":"1-1 Leaving Home","ru":"1-1 Покидая родной дом"}
+{"id":"journey_task:216041149959168","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216041149959424","en":"Stairway of Star Blessing · 1","ru":"Ступени Звёздного благословения · 1"}
+{"id":"journey_task:216045444924416","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216045444924672","en":"Stairway of Star Blessing · 1","ru":"Ступени Звёздного благословения · 1"}
+{"id":"journey_task:216045444926464","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216045444926720","en":"Stairway of Star Blessing · 2","ru":"Ступени Звёздного благословения · 2"}
+{"id":"journey_task:216049739891712","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216049739891968","en":"Stairway of Star Blessing · 2","ru":"Ступени Звёздного благословения · 2"}
+{"id":"journey_task:216049739893760","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216049739894016","en":"Stairway of Star Blessing · 3","ru":"Ступени Звёздного благословения · 3"}
+{"id":"journey_task:216054034859008","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216054034859264","en":"Stairway of Star Blessing · 3","ru":"Ступени Звёздного благословения · 3"}
+{"id":"journey_task:216054034861056","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216054034861312","en":"Stairway of Star Blessing · 4","ru":"Ступени Звёздного благословения · 4"}
+{"id":"journey_task:216058329826304","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216058329826560","en":"Stairway of Star Blessing · 4","ru":"Ступени Звёздного благословения · 4"}
+{"id":"journey_task:216058329828352","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216058329828608","en":"Stairway of Star Blessing · 5","ru":"Ступени Звёздного благословения · 5"}
+{"id":"journey_task:216062624793600","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216062624793856","en":"Stairway of Star Blessing · 5","ru":"Ступени Звёздного благословения · 5"}
+{"id":"journey_task:216062624795648","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216062624795904","en":"Stairway of Star Blessing · 6","ru":"Ступени Звёздного благословения · 6"}
+{"id":"journey_task:216470646688768","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216470646689024","en":"Fully Armed","ru":"Полная экипировка"}
+{"id":"journey_task:216474941654016","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216474941654272","en":"Fully Armed","ru":"Полная экипировка"}
+{"id":"journey_task:216474941656064","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216474941656320","en":"Ready for Anything · 1","ru":"Готовы ко всему · 1"}
+{"id":"journey_task:216479236621312","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216479236621568","en":"Ready for Anything · 1","ru":"Готовы ко всему · 1"}
+{"id":"journey_task:216479236623360","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216479236623616","en":"Ready for Anything · 2","ru":"Готовы ко всему · 2"}
+{"id":"journey_task:216483531588608","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216483531588864","en":"Ready for Anything · 2","ru":"Готовы ко всему · 2"}
+{"id":"journey_task:216483531590656","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216483531590912","en":"Ready for Anything · 3","ru":"Готовы ко всему · 3"}
+{"id":"journey_task:216487826555904","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216487826556160","en":"Starward Journey·5","ru":"Звёздный путь·5"}
+{"id":"journey_task:216487826557952","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216487826558208","en":"Equipment Enhancement · 2","ru":"Усиление снаряжения · 2"}
+{"id":"journey_task:216492121523200","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216492121523456","en":"Equipment Enhancement · 2","ru":"Усиление снаряжения · 2"}
+{"id":"journey_task:216492121525248","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216492121525504","en":"Equipment Enhancement · 3","ru":"Усиление снаряжения · 3"}
+{"id":"journey_task:216496416490496","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216496416490752","en":"Equipment Enhancement · 3","ru":"Усиление снаряжения · 3"}
+{"id":"journey_task:216496416492544","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216496416492800","en":"Equipment Enhancement · 4","ru":"Усиление снаряжения · 4"}
+{"id":"journey_task:216500711457792","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216500711458048","en":"Equipment Enhancement · 4","ru":"Усиление снаряжения · 4"}
+{"id":"journey_task:216500711459840","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216500711460096","en":"Full-Body Armament · 1","ru":"Полное вооружение · 1"}
+{"id":"journey_task:216505006425088","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216505006425344","en":"Full-Body Armament · 1","ru":"Полное вооружение · 1"}
+{"id":"journey_task:216505006427136","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216505006427392","en":"Full-Body Armament · 2","ru":"Полное вооружение · 2"}
+{"id":"journey_task:216509301392384","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216509301392640","en":"Full-Body Armament · 2","ru":"Полное вооружение · 2"}
+{"id":"journey_task:216509301394432","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216509301394688","en":"Full-Body Armament · 3","ru":"Полное вооружение · 3"}
+{"id":"journey_task:216513596359680","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216513596359936","en":"Full-Body Armament · 3","ru":"Полное вооружение · 3"}
+{"id":"journey_task:216513596361728","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216513596361984","en":"Equipment Enhancement · 5","ru":"Усиление снаряжения · 5"}
+{"id":"journey_task:216517891326976","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:216517891327232","en":"A Looming Shadow","ru":"Надвигающаяся тень"}
+{"id":"journey_task:216517891329024","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216517891329280","en":"Soulforged Polish · 1","ru":"Закалка души · 1"}
+{"id":"journey_task:216522186294272","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216522186294528","en":"Soulforged Polish · 1","ru":"Закалка души · 1"}
+{"id":"journey_task:216522186296320","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216522186296576","en":"Soulforged Polish · 2","ru":"Закалка души · 2"}
+{"id":"journey_task:216526481261568","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216526481261824","en":"Soulforged Polish · 2","ru":"Закалка души · 2"}
+{"id":"journey_task:216526481263616","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216526481263872","en":"Soulforged Polish · 3","ru":"Закалка души · 3"}
+{"id":"journey_task:216530776228864","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216530776229120","en":"Soulforged Polish · 3","ru":"Закалка души · 3"}
+{"id":"journey_task:216530776230912","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216530776231168","en":"Soulforged Polish · 4","ru":"Закалка души · 4"}
+{"id":"journey_task:216535071196160","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216535071196416","en":"Soulforged Polish · 4","ru":"Закалка души · 4"}
+{"id":"journey_task:216535071198208","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216535071198464","en":"Full-Body Armament · 4","ru":"Полное вооружение · 4"}
+{"id":"journey_task:216539366163456","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216539366163712","en":"Full-Body Armament · 4","ru":"Полное вооружение · 4"}
+{"id":"journey_task:216539366165504","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216539366165760","en":"Full-Body Armament · 5","ru":"Полное вооружение · 5"}
+{"id":"journey_task:216543661130752","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:216543661131008","en":"Full-Body Armament · 5","ru":"Полное вооружение · 5"}
+{"id":"journey_task:216543661132800","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:216543661133056","en":"Full-Body Armament · 6","ru":"Полное вооружение · 6"}
+{"id":"journey_task:257702332730368","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257702332730624","en":"Starlink · Mellowmie","ru":"Звёздная связь · Меллоуми"}
+{"id":"journey_task:257706627697664","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257706627697920","en":"Starlink · Pyonlu","ru":"Звёздная связь · Пионру"}
+{"id":"journey_task:257710922664960","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257710922665216","en":"Kibo Diversity · 1","ru":"Многообразие кибо · 1"}
+{"id":"journey_task:257715217630208","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:257715217630464","en":"Star-Journeying Path: 2","ru":"Звёздный путь: 2"}
+{"id":"journey_task:257715217632256","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257715217632512","en":"Kibo Diversity · 2","ru":"Многообразие кибо · 2"}
+{"id":"journey_task:257719512597504","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:257719512597760","en":"Kibo Diversity · 2","ru":"Многообразие кибо · 2"}
+{"id":"journey_task:257719512599552","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257719512599808","en":"Kibo Diversity · 3","ru":"Многообразие кибо · 3"}
+{"id":"journey_task:257723807564800","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:257723807565056","en":"Kibo Diversity · 3","ru":"Многообразие кибо · 3"}
+{"id":"journey_task:257723807566848","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257723807567104","en":"Kibo Diversity · 4","ru":"Многообразие кибо · 4"}
+{"id":"journey_task:257728102532096","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:257728102532352","en":"25","ru":"25"}
+{"id":"journey_task:257728102534144","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257728102534400","en":"Starlink · Amalthea","ru":"Звёздная связь · Амальтея"}
+{"id":"journey_task:257732397499392","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:257732397499648","en":"25","ru":"25"}
+{"id":"journey_task:257732397501440","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257732397501696","en":"Starlink · Ceresha","ru":"Звёздная связь · Цереша"}
+{"id":"journey_task:257736692468736","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257736692468992","en":"Kibo Companion · 1","ru":"Напарник-кибо · 1"}
+{"id":"journey_task:257740987433984","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:257740987434240","en":"Kibo Companion · 1","ru":"Напарник-кибо · 1"}
+{"id":"journey_task:257740987436032","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257740987436288","en":"Kibo Companion · 2","ru":"Напарник-кибо · 2"}
+{"id":"journey_task:257745282401280","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:257745282401536","en":"Kibo Companion · 2","ru":"Напарник-кибо · 2"}
+{"id":"journey_task:257745282403328","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257745282403584","en":"Kibo Companion · 3","ru":"Напарник-кибо · 3"}
+{"id":"journey_task:257749577368576","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:257749577368832","en":"Kibo Companion · 3","ru":"Напарник-кибо · 3"}
+{"id":"journey_task:257749577370624","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257749577370880","en":"Kibo Companion · 4","ru":"Напарник-кибо · 4"}
+{"id":"journey_task:257753872337920","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:257753872338176","en":"Starlink · Gayak","ru":"Звёздная связь · Гаяк"}
+{"id":"journey_task:258131829459968","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258131829460224","en":"Record of Growth · 1","ru":"Запись роста · 1"}
+{"id":"journey_task:258136124425216","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258136124425472","en":"Star-Journeying Path: 2","ru":"Звёздный путь: 2"}
+{"id":"journey_task:258136124427264","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258136124427520","en":"Raising Kibo · 3","ru":"Воспитание кибо · 3"}
+{"id":"journey_task:258140419392512","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258140419392768","en":"Raising Kibo · 3","ru":"Воспитание кибо · 3"}
+{"id":"journey_task:258140419394560","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258140419394816","en":"Nurturing Bonds · 2","ru":"Взращивание связи · 2"}
+{"id":"journey_task:258144714359808","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258144714360064","en":"Cultivate Bonds: 2","ru":"Крепкие узы: 2"}
+{"id":"journey_task:258144714361856","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258144714362112","en":"Cultivate Bonds: 3","ru":"Крепкие узы: 3"}
+{"id":"journey_task:258149009327104","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258149009327360","en":"Cultivate Bonds: 3","ru":"Крепкие узы: 3"}
+{"id":"journey_task:258149009329152","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258149009329408","en":"Cultivate Bonds: 4","ru":"Крепкие узы: 4"}
+{"id":"journey_task:258153304294400","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258153304294656","en":"Cultivate Bonds: 4","ru":"Крепкие узы: 4"}
+{"id":"journey_task:258153304296448","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258153304296704","en":"Cultivate Bonds: 5","ru":"Крепкие узы: 5"}
+{"id":"journey_task:258157599261696","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258157599261952","en":"Cultivate Bonds: 5","ru":"Крепкие узы: 5"}
+{"id":"journey_task:258157599263744","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258157599264000","en":"Raise Kibo: 4","ru":"Растить кибо: 4"}
+{"id":"journey_task:258161894228992","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258161894229248","en":"Raise Kibo: 4","ru":"Растить кибо: 4"}
+{"id":"journey_task:258161894231040","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258161894231296","en":"Cultivate Bonds: 5","ru":"Крепкие узы: 5"}
+{"id":"journey_task:258166189196288","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258166189196544","en":"Cultivate Bonds: 5","ru":"Крепкие узы: 5"}
+{"id":"journey_task:258166189198336","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258166189198592","en":"Nurture Your Bonds 6","ru":"Укрепляйте узы 6"}
+{"id":"journey_task:258561326187520","en":"Advance the main story","ru":"Продвиньтесь по основной сюжетной линии"}
+{"id":"journey_task:258561326189568","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258561326189824","en":"Train Your Kibo 1","ru":"Тренируйте кибо 1"}
+{"id":"journey_task:258565621154816","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258565621155072","en":"Train Your Kibo 1","ru":"Тренируйте кибо 1"}
+{"id":"journey_task:258565621156864","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258565621157120","en":"Raise Your Source Vein","ru":"Повысьте Исходную жилу"}
+{"id":"journey_task:258569916122112","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258569916122368","en":"Raise Your Source Vein","ru":"Повысьте Исходную жилу"}
+{"id":"journey_task:258569916124160","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258569916124416","en":"Train Your Kibo 2","ru":"Тренируйте кибо 2"}
+{"id":"journey_task:258574211089408","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258574211089664","en":"Train Your Kibo 2","ru":"Тренируйте кибо 2"}
+{"id":"journey_task:258574211091456","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258574211091712","en":"Train Your Kibo 3","ru":"Тренируйте кибо 3"}
+{"id":"journey_task:258578506056704","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258578506056960","en":"Train Your Kibo 3","ru":"Тренируйте кибо 3"}
+{"id":"journey_task:258578506058752","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258578506059008","en":"Train Your Kibo 4","ru":"Тренируйте кибо 4"}
+{"id":"journey_task:258582801024000","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258582801024256","en":"Train Your Kibo 4","ru":"Тренируйте кибо 4"}
+{"id":"journey_task:258582801026048","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258582801026304","en":"Train Your Kibo 5","ru":"Тренируйте кибо 5"}
+{"id":"journey_task:258587095991296","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258587095991552","en":"Train Your Kibo 5","ru":"Тренируйте кибо 5"}
+{"id":"journey_task:258587095993344","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258587095993600","en":"Train Your Kibo 6","ru":"Тренируйте кибо 6"}
+{"id":"journey_task:258591390958592","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258591390958848","en":"Train Your Kibo 6","ru":"Тренируйте кибо 6"}
+{"id":"journey_task:258591390960640","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258591390960896","en":"Train Your Kibo 7","ru":"Тренируйте кибо 7"}
+{"id":"journey_task:258990822919168","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258990822919424","en":"A Kibo Full of Potential","ru":"Кибо с огромным Потенциалом"}
+{"id":"journey_task:258995117884416","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258995117884672","en":"A Kibo Full of Potential","ru":"Кибо с огромным Потенциалом"}
+{"id":"journey_task:258995117886464","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258995117886720","en":"A Kibo with Excellent Aptitude","ru":"Кибо с превосходной Одарённостью"}
+{"id":"journey_task:258999412851712","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:258999412851968","en":"A Kibo with Excellent Aptitude","ru":"Кибо с превосходной Одарённостью"}
+{"id":"journey_task:258999412853760","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:258999412854016","en":"A Kibo with Innate Talent","ru":"Кибо с врождённым талантом"}
+{"id":"journey_task:259003707821056","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:259003707821312","en":"Give a Potential Fruit","ru":"Дайте Плод потенциала"}
+{"id":"journey_task:259420319648768","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:259420319649024","en":"Feed Factor Fruit 1","ru":"Дайте плод фактора 1"}
+{"id":"journey_task:259424614614016","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:259424614614272","en":"Star-Journeying Path: 4","ru":"Звёздный путь: 4"}
+{"id":"journey_task:259424614616064","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:259424614616320","en":"Kibo Factor Mutation 1","ru":"Мутация факторов кибо 1"}
+{"id":"journey_task:259428909581312","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:259428909581568","en":"Kibo Factor Mutation 1","ru":"Мутация факторов кибо 1"}
+{"id":"journey_task:259428909583360","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:259428909583616","en":"Kibo Factor Mutation 2","ru":"Мутация факторов кибо 2"}
+{"id":"journey_task:259433204550656","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:259433204550912","en":"Feed Factor Fruit 2","ru":"Дайте плод фактора 2"}
+{"id":"journey_task:259437499517952","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:259437499518208","en":"Feed Factor Fruit 3","ru":"Дайте плод фактора 3"}
+{"id":"journey_task:259441794485248","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:259441794485504","en":"A Kibo with Settled Factors","ru":"Кибо с устоявшимися факторами"}
+{"id":"journey_task:259446089452544","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:259446089452800","en":"Kibo with High-Quality Factors 1","ru":"Кибо с качественными факторами 1"}
+{"id":"journey_task:259450384417792","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:259450384418048","en":"Kibo with High-Quality Factors 1","ru":"Кибо с качественными факторами 1"}
+{"id":"journey_task:259450384419840","en":"Companion's Notes","ru":"Записки спутника"}
+{"id":"journey_task:259450384420096","en":"Kibo with High-Quality Factors 2","ru":"Кибо с качественными факторами 2"}
+{"id":"journey_task:300652005690368","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300652005690624","en":"Defeat Boss Frogremi","ru":"Победите босса Фрогреми"}
+{"id":"journey_task:300656300657664","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300656300657920","en":"Defeat Boss Gururu","ru":"Победите босса Гуруру"}
+{"id":"journey_task:300660595624960","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300660595625216","en":"Defeat Boss Crimzor","ru":"Победите босса Кримзора"}
+{"id":"journey_task:300664890592256","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300664890592512","en":"Defeat Boss Granzalos","ru":"Победите босса Гранзалоса"}
+{"id":"journey_task:300673480526848","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300673480527104","en":"Defeat Boss Fielock","ru":"Победите босса Филока"}
+{"id":"journey_task:300677775492096","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300677775492352","en":"25","ru":"25"}
+{"id":"journey_task:300677775494144","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300677775494400","en":"Defeat Boss Signa","ru":"Победите босса Сигну"}
+{"id":"journey_task:300682070459392","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300682070459648","en":"25","ru":"25"}
+{"id":"journey_task:300682070461440","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300682070461696","en":"Defeat Boss Nihtol","ru":"Победите босса Нихтоля"}
+{"id":"journey_task:300686365426688","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300686365426944","en":"25","ru":"25"}
+{"id":"journey_task:300686365428736","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300686365428992","en":"Defeat Boss Megalm","ru":"Победите босса Мегальма"}
+{"id":"journey_task:300690660393984","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300690660394240","en":"25","ru":"25"}
+{"id":"journey_task:300690660396032","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300690660396288","en":"Defeat Boss Maeljark","ru":"Победите босса Мэйлджарка"}
+{"id":"journey_task:300694955361280","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300694955361536","en":"25","ru":"25"}
+{"id":"journey_task:300694955363328","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300694955363584","en":"Defeat Boss Gartiger","ru":"Победите босса Гартигера"}
+{"id":"journey_task:300699250328576","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300699250328832","en":"25","ru":"25"}
+{"id":"journey_task:300699250330624","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300699250330880","en":"Defeat Boss Gourmank","ru":"Победите босса Гурманка"}
+{"id":"journey_task:300703545295872","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300703545296128","en":"25","ru":"25"}
+{"id":"journey_task:300703545297920","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300703545298176","en":"Defeat Boss Speakle","ru":"Победите босса Спикла"}
+{"id":"journey_task:300707840263168","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300707840263424","en":"25","ru":"25"}
+{"id":"journey_task:300707840265216","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300707840265472","en":"Defeat Boss Frogremi","ru":"Победите босса Фрогреми"}
+{"id":"journey_task:300712135230464","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:300712135230720","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:300712135232512","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300712135232768","en":"Victory over Giganshaura","ru":"Одержите победу над Гигансёурой"}
+{"id":"journey_task:300716430197760","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
+{"id":"journey_task:300716430198016","en":"Fledgling Wings","ru":"Юные крылья"}
+{"id":"journey_task:300716430199808","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300716430200064","en":"Victory over Vespervamp","ru":"Одержите победу над Сумерокрылом"}
+{"id":"journey_task:300720725165056","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300720725165312","en":"25","ru":"25"}
+{"id":"journey_task:300720725167104","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300720725167360","en":"Victory over Raikoumo","ru":"Одержите победу над Райкоумо"}
+{"id":"journey_task:300725020132352","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300725020132608","en":"25","ru":"25"}
+{"id":"journey_task:300725020134400","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300725020134656","en":"Victory over Flamraga","ru":"Одержите победу над Фламрагой"}
+{"id":"journey_task:300729315099648","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300729315099904","en":"25","ru":"25"}
+{"id":"journey_task:300729315101696","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300729315101952","en":"Victory over Ceresha","ru":"Одержите победу над Церешей"}
+{"id":"journey_task:300733610066944","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:300733610067200","en":"25","ru":"25"}
+{"id":"journey_task:300733610068992","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300733610069248","en":"Victory over Amalthea","ru":"Одержите победу над Амальтеей"}
+{"id":"journey_task:300737905036288","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300737905036544","en":"A Wall to Overcome 1","ru":"Преграда на пути 1"}
+{"id":"journey_task:300742200001536","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:300742200001792","en":"A Wall to Overcome 1","ru":"Преграда на пути 1"}
+{"id":"journey_task:300742200003584","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300742200003840","en":"A Wall to Overcome 2","ru":"Преграда на пути 2"}
+{"id":"journey_task:300746494968832","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:300746494969088","en":"A Wall to Overcome 2","ru":"Преграда на пути 2"}
+{"id":"journey_task:300746494970880","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:300746494971136","en":"A Wall to Overcome 3","ru":"Преграда на пути 3"}
+{"id":"journey_task:301081502417920","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301081502418176","en":"Starward Journey·5","ru":"Звёздный путь·5"}
+{"id":"journey_task:301081502419968","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301081502420224","en":"Explore Sprout Valley 2","ru":"Исследуйте Долину Ростков 2"}
+{"id":"journey_task:301085797385216","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301085797385472","en":"Explore Sprout Valley 2","ru":"Исследуйте Долину Ростков 2"}
+{"id":"journey_task:301085797387264","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301085797387520","en":"Explore Sprout Valley 3","ru":"Исследуйте Долину Ростков 3"}
+{"id":"journey_task:301090092352512","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:301090092352768","en":"25","ru":"25"}
+{"id":"journey_task:301090092354560","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301090092354816","en":"Explore Fleece 1","ru":"Исследуйте Флис 1"}
+{"id":"journey_task:301094387319808","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301094387320064","en":"Explore Fleece 1","ru":"Исследуйте Флис 1"}
+{"id":"journey_task:301094387321856","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301094387322112","en":"Explore Fleece 2","ru":"Исследуйте Флис 2"}
+{"id":"journey_task:301098682287104","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301098682287360","en":"Explore Fleece 2","ru":"Исследуйте Флис 2"}
+{"id":"journey_task:301098682289152","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301098682289408","en":"Explore Fleece 3","ru":"Исследуйте Флис 3"}
+{"id":"journey_task:301102977256448","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301102977256704","en":"The Pioneer Trail 1","ru":"Путь первопроходца 1"}
+{"id":"journey_task:301107272221696","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301107272221952","en":"The Pioneer Trail 1","ru":"Путь первопроходца 1"}
+{"id":"journey_task:301107272223744","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301107272224000","en":"The Pioneer Trail 2","ru":"Путь первопроходца 2"}
+{"id":"journey_task:301111567188992","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301111567189248","en":"The Pioneer Trail 2","ru":"Путь первопроходца 2"}
+{"id":"journey_task:301111567191040","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301111567191296","en":"The Pioneer Trail 3","ru":"Путь первопроходца 3"}
+{"id":"journey_task:301510999149568","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301510999149824","en":"Perfect — Rolling Grago","ru":"Безупречно — Катящийся Граго"}
+{"id":"journey_task:301515294116864","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301515294117120","en":"Perfect — Cabbird Transformation","ru":"Безупречно — Превращение в Капустокрыла"}
+{"id":"journey_task:301519589084160","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301519589084416","en":"Perfect — Duru's Way Home","ru":"Безупречно — Дуру возвращается в гнездо"}
+{"id":"journey_task:301523884051456","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301523884051712","en":"Perfect — Mount Trial","ru":"Безупречно — Испытание скакуна"}
+{"id":"journey_task:301528179018752","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301528179019008","en":"Perfect — Riff's Performance","ru":"Безупречно — Выступление Риффа"}
+{"id":"journey_task:301532473986048","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301532473986304","en":"Perfect — Altar of the Shining Seal","ru":"Безупречно — Алтарь сияющей печати"}
+{"id":"journey_task:301536768953344","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301536768953600","en":"Perfect — Sozanka's Ladder","ru":"Безупречно — Лестница Содзанки"}
+{"id":"journey_task:301541063920640","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301541063920896","en":"Perfect — Aura Eruption","ru":"Безупречно — Нашествие аур"}
+{"id":"journey_task:301545358887936","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301545358888192","en":"Perfect — Kibo Companion","ru":"Безупречно — Напарник-кибо"}
+{"id":"journey_task:301940495879168","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301940495879424","en":"Follow the Kibo 1","ru":"Следуйте за кибо 1"}
+{"id":"journey_task:301944790844416","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301944790844672","en":"Follow the Kibo 1","ru":"Следуйте за кибо 1"}
+{"id":"journey_task:301944790846464","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301944790846720","en":"Follow the Kibo 2","ru":"Следуйте за кибо 2"}
+{"id":"journey_task:301949085811712","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301949085811968","en":"Follow the Kibo 2","ru":"Следуйте за кибо 2"}
+{"id":"journey_task:301949085813760","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301949085814016","en":"Follow the Kibo 3","ru":"Следуйте за кибо 3"}
+{"id":"journey_task:301953380779008","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301953380779264","en":"Follow the Kibo 3","ru":"Следуйте за кибо 3"}
+{"id":"journey_task:301953380781056","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301953380781312","en":"Follow the Kibo 4","ru":"Следуйте за кибо 4"}
+{"id":"journey_task:301966265682944","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301966265683200","en":"Surprises Along the Way 1","ru":"Сюрпризы в пути 1"}
+{"id":"journey_task:301970560648192","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301970560648448","en":"Surprises Along the Way 1","ru":"Сюрпризы в пути 1"}
+{"id":"journey_task:301970560650240","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301970560650496","en":"Surprises Along the Way 2","ru":"Сюрпризы в пути 2"}
+{"id":"journey_task:301974855615488","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301974855615744","en":"Surprises Along the Way 2","ru":"Сюрпризы в пути 2"}
+{"id":"journey_task:301974855617536","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301974855617792","en":"Surprises Along the Way 3","ru":"Сюрпризы в пути 3"}
+{"id":"journey_task:301979150584832","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301979150585088","en":"Hatching Hope 1","ru":"Рождение надежды 1"}
+{"id":"journey_task:301983445550080","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301983445550336","en":"Hatching Hope 1","ru":"Рождение надежды 1"}
+{"id":"journey_task:301983445552128","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301983445552384","en":"Hatching Hope 2","ru":"Рождение надежды 2"}
+{"id":"journey_task:301987740517376","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:301987740517632","en":"Hatching Hope 2","ru":"Рождение надежды 2"}
+{"id":"journey_task:301987740519424","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301987740519680","en":"Hatching Hope 3","ru":"Рождение надежды 3"}
+{"id":"journey_task:301992035486720","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301992035486976","en":"Star Vessel Connections — Sprout Valley","ru":"Сеть звёздных сосудов — Долина Ростков"}
+{"id":"journey_task:301996330451968","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:301996330452224","en":"25","ru":"25"}
+{"id":"journey_task:301996330454016","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:301996330454272","en":"Star Vessel Penetration: Fleece","ru":"Проникновение в Звёздный сосуд: Флис"}
+{"id":"journey_task:302000625421312","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:302000625421568","en":"Sprout Valley Expedition Complete","ru":"Долина Ростков пройдена"}
+{"id":"journey_task:302004920388608","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:302004920388864","en":"Starlaw Collection: Sprout Valley","ru":"Сбор Звёздного закона: Долина Ростков"}
+{"id":"journey_task:302009215353856","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:302009215354112","en":"25","ru":"25"}
+{"id":"journey_task:302009215355904","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:302009215356160","en":"Starlaw Collection: Fleece","ru":"Сбор Звёздного закона: Флис"}
+{"id":"journey_task:302369992606720","en":"Advance the main story","ru":"Продвиньтесь по основной сюжетной линии"}
+{"id":"journey_task:302369992608768","en":"Great Adventurer","ru":"Великий искатель приключений"}
+{"id":"journey_task:302369992609024","en":"Moments Traveled Together","ru":"Мгновения, проведённые вместе"}
+{"id":"journey_task:85899345921024","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
+{"id":"journey_task:85899345921280","en":"1","ru":"1"}
+{"id":"journey_task:85899345923072","en":"Star-Journeying Path: Prologue","ru":"Звёздный путь: Пролог"}
+{"id":"journey_task:85899345923328","en":"Star-Journeying Path: Prologue","ru":"Звёздный путь: Пролог"}
+{"id":"journey_task:85903640888320","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:85903640888576","en":"Star-Journeying Path: Prologue","ru":"Звёздный путь: Пролог"}
+{"id":"journey_task:85903640890368","en":"Star-Journeying Path: 1","ru":"Звёздный путь: 1"}
+{"id":"journey_task:85903640890624","en":"Star-Journeying Path: 1","ru":"Звёздный путь: 1"}
+{"id":"journey_task:86333137617920","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:86333137618176","en":"Star-Journeying Path: 1","ru":"Звёздный путь: 1"}
+{"id":"journey_task:86333137619968","en":"Star-Journeying Path: 2","ru":"Звёздный путь: 2"}
+{"id":"journey_task:86333137620224","en":"Star-Journeying Path: 2","ru":"Звёздный путь: 2"}
+{"id":"journey_task:86762634347520","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:86762634347776","en":"Star-Journeying Path: 2","ru":"Звёздный путь: 2"}
+{"id":"journey_task:86762634349568","en":"Star-Journeying Path: 3","ru":"Звёздный путь: 3"}
+{"id":"journey_task:86762634349824","en":"Star-Journeying Path: 3","ru":"Звёздный путь: 3"}
+{"id":"journey_task:87192131077120","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:87192131077376","en":"Star-Journeying Path: 3","ru":"Звёздный путь: 3"}
+{"id":"journey_task:87192131079168","en":"Star-Journeying Path: 4","ru":"Звёздный путь: 4"}
+{"id":"journey_task:87192131079424","en":"Star-Journeying Path: 4","ru":"Звёздный путь: 4"}
+{"id":"journey_task:87621627806720","en":"Unlocks upon completing the journey quest \"{0}.\"","ru":"Открывается после завершения задания путешествия «{0}»."}
+{"id":"journey_task:87621627806976","en":"Star-Journeying Path: 4","ru":"Звёздный путь: 4"}
+{"id":"journey_task:87621627808768","en":"Star-Journeying Path: 5","ru":"Звёздный путь: 5"}
+{"id":"journey_task:87621627809024","en":"Star-Journeying Path: 5","ru":"Звёздный путь: 5"}

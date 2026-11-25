@@ -1,0 +1,113 @@
+{"id":"startup:alert_title","locale":"jp","text":"警告","locales":{"chs":"提醒","cht":"提醒","en":"Alert","jp":"警告","kr":"경고"}}
+{"id":"startup:assets_importing_failed","locale":"jp","text":"リソースのインポートに失敗しました。\n","locales":{"chs":"资源导入失败","cht":"","en":"","jp":"リソースのインポートに失敗しました。\n","kr":""}}
+{"id":"startup:assets_merging_failed","locale":"jp","text":"リソースの統合に失敗しました。\n","locales":{"chs":"资源合并失败","cht":"","en":"","jp":"リソースの統合に失敗しました。\n","kr":""}}
+{"id":"startup:background_download_failed","locale":"jp","text":"ダウンロードに失敗しました。再試行してください。","locales":{"chs":"下载失败，请重新尝试","cht":"","en":"","jp":"ダウンロードに失敗しました。再試行してください。","kr":""}}
+{"id":"startup:background_download_success","locale":"jp","text":"ダウンロード完了","locales":{"chs":"下载完成","cht":"","en":"","jp":"ダウンロード完了","kr":""}}
+{"id":"startup:background_downloading","locale":"jp","text":"ダウンロード中……","locales":{"chs":"下载中...","cht":"","en":"","jp":"ダウンロード中……","kr":""}}
+{"id":"startup:cancel","locale":"jp","text":"キャンセル","locales":{"chs":"取消","cht":"取消","en":"Cancel","jp":"キャンセル","kr":"취소"}}
+{"id":"startup:checking_update","locale":"jp","text":"更新を確認中……","locales":{"chs":"正在检查更新…","cht":"正在檢查更新…","en":"Checking update…","jp":"更新を確認中……","kr":"업데이트 확인 중…"}}
+{"id":"startup:clear_unused_assets","locale":"jp","text":"リソースをクリーンアップ中","locales":{"chs":"正在清理资源","cht":"","en":"","jp":"リソースをクリーンアップ中","kr":""}}
+{"id":"startup:compare_assets","locale":"jp","text":"ローカルリソースを比較中","locales":{"chs":"本地资源比对中","cht":"","en":"","jp":"ローカルリソースを比較中","kr":""}}
+{"id":"startup:compiling_tip","locale":"jp","text":"コンパイル中","locales":{"chs":"编译中","cht":"","en":"","jp":"コンパイル中","kr":""}}
+{"id":"startup:confirm","locale":"jp","text":"確定","locales":{"chs":"确定","cht":"確定","en":"Confirm","jp":"確定","kr":"확인"}}
+{"id":"startup:connect_failed","locale":"jp","text":"ネットワーク接続に失敗しました。","locales":{"chs":"网络连接失败","cht":"網絡連接失敗","en":"Network connection failed","jp":"ネットワーク接続に失敗しました。","kr":"네트워크 연결에 실패했습니다"}}
+{"id":"startup:download_fail","locale":"jp","text":"一部ファイルのダウンロードに失敗しました。","locales":{"chs":"检测到存在下载失败的文件","cht":"","en":"","jp":"一部ファイルのダウンロードに失敗しました。","kr":""}}
+{"id":"startup:download_info","locale":"jp","text":"{0}のゲームリソースを更新する必要があります。","locales":{"chs":"需要更新{0}的游戏资源","cht":"需要更新{0}的遊戲資源","en":"{0} of game resources need to be downloaded","jp":"{0}のゲームリソースを更新する必要があります。","kr":"{0}의 게임 리소스를 다운로드해야 합니다"}}
+{"id":"startup:download_info_detail","locale":"jp","text":"{0}の基礎リソース+{1}の追加リソース","locales":{"chs":"{0}基础资源+{1}额外资源","cht":"{0}基礎資源+{1}額外資源","en":"{0} of Basic + {1} of Additional","jp":"{0}の基礎リソース+{1}の追加リソース","kr":"{0} 기초  + {1} 추가"}}
+{"id":"startup:download_speed_slow","locale":"jp","text":"ダウンロードに時間がかかっています。ネットワーク接続を確認してください。","locales":{"chs":"下载过慢，请检查网络","cht":"下載過慢，請檢查網絡","en":"Download too slow, please check the network","jp":"ダウンロードに時間がかかっています。ネットワーク接続を確認してください。","kr":"다운로드가 너무 느립니다, 네트워크를 확인해주세요"}}
+{"id":"startup:download_ui_1001","locale":"jp","text":"バックグラウンドダウンロードに対応","locales":{"chs":"支持后台下载","cht":"","en":"","jp":"バックグラウンドダウンロードに対応","kr":""}}
+{"id":"startup:downloading","locale":"jp","text":"更新中","locales":{"chs":"更新中","cht":"更新中","en":"Downloading","jp":"更新中","kr":"다운로드 중"}}
+{"id":"startup:entering_game","locale":"jp","text":"更新が完了しました。ゲームを開始します。","locales":{"chs":"更新完毕，即将进入游戏！","cht":"更新完畢，即將進入遊戲！","en":"Update complete. Entering!","jp":"更新が完了しました。ゲームを開始します。","kr":"업데이트 완료, 진입합니다!"}}
+{"id":"startup:error_-1","locale":"jp","text":"ネットワーク接続にエラーが発生しました。ネットワークに接続して、ゲームを再起動してください。","locales":{"chs":"网络连接异常，请尝试连接网络，并重启游戏！","cht":"網絡連接异常，請嘗試連接網絡，並重啓遊戲！","en":"Network connection error, please try to connect to the network and restart the game!","jp":"ネットワーク接続にエラーが発生しました。ネットワークに接続して、ゲームを再起動してください。","kr":"네트워크 연결 오류, 네트워크에 연결하고 게임을 다시 시작하십시오!"}}
+{"id":"startup:error_1000","locale":"jp","text":"成功","locales":{"chs":"成功","cht":"成功","en":"Success","jp":"成功","kr":"성공"}}
+{"id":"startup:error_1001","locale":"jp","text":"システムエラー","locales":{"chs":"系统错误","cht":"系統錯誤","en":"System error","jp":"システムエラー","kr":"시스템 오류"}}
+{"id":"startup:error_1002","locale":"jp","text":"IPアドレスがブロックされています。","locales":{"chs":"IP被禁止","cht":"IP被禁止","en":"IP is banned","jp":"IPアドレスがブロックされています。","kr":"IP가 금지되었습니다"}}
+{"id":"startup:error_1003","locale":"jp","text":"サーバーはメンテナンス中です。","locales":{"chs":"服务器维护中","cht":"私服器維護中","en":"Server is under maintenance","jp":"サーバーはメンテナンス中です。","kr":"서버가 유지 관리 중입니다"}}
+{"id":"startup:error_1004","locale":"jp","text":"署名エラー","locales":{"chs":"签名错误","cht":"簽名錯誤","en":"Signature error","jp":"署名エラー","kr":"서명 오류"}}
+{"id":"startup:error_1005","locale":"jp","text":"パラメーターエラー","locales":{"chs":"参数错误","cht":"參數錯誤","en":"Parameter error","jp":"パラメーターエラー","kr":"매개 변수 오류"}}
+{"id":"startup:error_server_1","locale":"jp","text":"実行エラーが発生しました。","locales":{"chs":"执行错误","cht":"","en":"","jp":"実行エラーが発生しました。","kr":""}}
+{"id":"startup:error_server_10000","locale":"jp","text":"サーバーが混雑しています。","locales":{"chs":"服务器繁忙","cht":"","en":"","jp":"サーバーが混雑しています。","kr":""}}
+{"id":"startup:error_server_10001","locale":"jp","text":"バージョン情報が存在しません。","locales":{"chs":"版本信息不存在 ","cht":"","en":"","jp":"バージョン情報が存在しません。","kr":""}}
+{"id":"startup:error_server_10002","locale":"jp","text":"チャネル情報が見つかりません。","locales":{"chs":"没有找到渠道信息","cht":"","en":"","jp":"チャネル情報が見つかりません。","kr":""}}
+{"id":"startup:error_server_10003","locale":"jp","text":"ゲームIDが見つかりません。","locales":{"chs":"没有找到游戏ID","cht":"","en":"","jp":"ゲームIDが見つかりません。","kr":""}}
+{"id":"startup:error_server_10004","locale":"jp","text":"サーバーエラーが発生しました。","locales":{"chs":"服务器错误","cht":"","en":"","jp":"サーバーエラーが発生しました。","kr":""}}
+{"id":"startup:error_server_10005","locale":"jp","text":"IPアドレスがブロックされています。","locales":{"chs":"IP被封禁","cht":"","en":"","jp":"IPアドレスがブロックされています。","kr":""}}
+{"id":"startup:error_server_10006","locale":"jp","text":"アカウントが停止されました。","locales":{"chs":"账号被封禁","cht":"","en":"","jp":"アカウントが停止されました。","kr":""}}
+{"id":"startup:error_server_10007","locale":"jp","text":"サーバーが使用できません。","locales":{"chs":"服务器不可用","cht":"","en":"","jp":"サーバーが使用できません。","kr":""}}
+{"id":"startup:error_server_10008","locale":"jp","text":"クライアントのバージョンを更新する必要があります（チャネルバージョンが一致しません）。","locales":{"chs":"您需要更新您的客户端版本(渠道版本不匹配)","cht":"","en":"","jp":"クライアントのバージョンを更新する必要があります（チャネルバージョンが一致しません）。","kr":""}}
+{"id":"startup:error_server_10009","locale":"jp","text":"タイムスタンプの検証にエラーが発生しました。","locales":{"chs":"时间戳校验出错","cht":"","en":"","jp":"タイムスタンプの検証にエラーが発生しました。","kr":""}}
+{"id":"startup:error_server_10010","locale":"jp","text":"CDNのリクエストパラメータに誤りがあります。","locales":{"chs":"Cdn请求参数错误","cht":"","en":"","jp":"CDNのリクエストパラメータに誤りがあります。","kr":""}}
+{"id":"startup:error_server_10012","locale":"jp","text":"クライアントのリクエストパラメータが一致しません。","locales":{"chs":"客户端请求参数不匹配","cht":"","en":"","jp":"クライアントのリクエストパラメータが一致しません。","kr":""}}
+{"id":"startup:error_server_10013","locale":"jp","text":"リクエストされたCDN情報が見つかりませんでした。","locales":{"chs":"未找到请求Cdn信息","cht":"","en":"","jp":"リクエストされたCDN情報が見つかりませんでした。","kr":""}}
+{"id":"startup:error_server_10014","locale":"jp","text":"リクエストされたサービスエリアの情報が見つかりませんでした。","locales":{"chs":"未找到请求通服大区信息","cht":"","en":"","jp":"リクエストされたサービスエリアの情報が見つかりませんでした。","kr":""}}
+{"id":"startup:error_server_10015","locale":"jp","text":"リクエストされたビルドジョブのバージョン情報が見つかりませんでした。","locales":{"chs":"未找到请求构建Job版本信息","cht":"","en":"","jp":"リクエストされたビルドジョブのバージョン情報が見つかりませんでした。","kr":""}}
+{"id":"startup:error_server_10016","locale":"jp","text":"インストールパッケージのバージョン情報が見つかりませんでした。","locales":{"chs":"未找到请求安装包版本信息","cht":"","en":"","jp":"インストールパッケージのバージョン情報が見つかりませんでした。","kr":""}}
+{"id":"startup:error_server_10017","locale":"jp","text":"リクエストされたホットフィックスバージョン情報が見つかりませんでした。","locales":{"chs":"未找到请求热更版本信息","cht":"","en":"","jp":"リクエストされたホットフィックスバージョン情報が見つかりませんでした。","kr":""}}
+{"id":"startup:error_server_150001","locale":"jp","text":"Invalid SessionID","locales":{"chs":"Invalid SessionID","cht":"","en":"","jp":"Invalid SessionID","kr":""}}
+{"id":"startup:error_server_150002","locale":"jp","text":"署名エラー","locales":{"chs":"签名错误","cht":"","en":"","jp":"署名エラー","kr":""}}
+{"id":"startup:error_server_150003","locale":"jp","text":"リクエストデータにエラーがあります（データまたはリクエスト形式が不正です）。","locales":{"chs":"请求数据异常（数据错误，请求数据格式错误）","cht":"","en":"","jp":"リクエストデータにエラーがあります（データまたはリクエスト形式が不正です）。","kr":""}}
+{"id":"startup:error_server_150004","locale":"jp","text":"リクエストデータの処理中にエラーが発生しました（タイムスタンプの不一致など）。","locales":{"chs":"请求数据异常（执行异常，例如时间戳不对）","cht":"","en":"","jp":"リクエストデータの処理中にエラーが発生しました（タイムスタンプの不一致など）。","kr":""}}
+{"id":"startup:error_server_default","locale":"jp","text":"サーバーが混雑しています。","locales":{"chs":"服务器状态繁忙","cht":"","en":"","jp":"サーバーが混雑しています。","kr":""}}
+{"id":"startup:game_name","locale":"jp","text":"アズールプロミリア","locales":{"chs":"蓝色星原：旅谣","cht":"","en":"","jp":"アズールプロミリア","kr":""}}
+{"id":"startup:get_local_list_fail","locale":"jp","text":"ローカルのリソース一覧を取得できませんでした。","locales":{"chs":"获取本地资源清单失败","cht":"","en":"","jp":"ローカルのリソース一覧を取得できませんでした。","kr":""}}
+{"id":"startup:get_local_version_fail","locale":"jp","text":"ローカルのバージョン情報を取得できませんでした。","locales":{"chs":"获取本地版本号失败","cht":"","en":"","jp":"ローカルのバージョン情報を取得できませんでした。","kr":""}}
+{"id":"startup:get_server_list_fail","locale":"jp","text":"最新のリソース一覧を取得できませんでした。","locales":{"chs":"获取最新资源清单失败","cht":"","en":"","jp":"最新のリソース一覧を取得できませんでした。","kr":""}}
+{"id":"startup:get_server_version_fail","locale":"jp","text":"最新のバージョン情報を取得できませんでした。","locales":{"chs":"获取最新版本失败","cht":"","en":"","jp":"最新のバージョン情報を取得できませんでした。","kr":""}}
+{"id":"startup:importing_assets","locale":"jp","text":"リソースをインポート中","locales":{"chs":"资源导入中","cht":"","en":"","jp":"リソースをインポート中","kr":""}}
+{"id":"startup:init_fail","locale":"jp","text":"初期化に失敗しました。","locales":{"chs":"初始化失败","cht":"","en":"","jp":"初期化に失敗しました。","kr":""}}
+{"id":"startup:initializing","locale":"jp","text":"初期化中……","locales":{"chs":"正在初始化…","cht":"正在初始化…","en":"Initializing…","jp":"初期化中……","kr":"초기화 중…"}}
+{"id":"startup:load_loader_dll_fail","locale":"jp","text":"コードの読み込みに失敗しました。","locales":{"chs":"加载代码失败","cht":"","en":"","jp":"コードの読み込みに失敗しました。","kr":""}}
+{"id":"startup:local_assets_checking","locale":"jp","text":"リソース検証中","locales":{"chs":"资源检查中","cht":"","en":"","jp":"リソース検証中","kr":""}}
+{"id":"startup:login_failed","locale":"jp","text":"ログインに失敗しました。","locales":{"chs":"登录失败","cht":"","en":"","jp":"ログインに失敗しました。","kr":""}}
+{"id":"startup:logout_fail","locale":"jp","text":"ログアウトに失敗しました。","locales":{"chs":"登出失败","cht":"","en":"","jp":"ログアウトに失敗しました。","kr":""}}
+{"id":"startup:merging_assets","locale":"jp","text":"リソースを統合中","locales":{"chs":"资源合并中","cht":"","en":"","jp":"リソースを統合中","kr":""}}
+{"id":"startup:network_alert_tips","locale":"jp","text":"Wi-Fiに接続されていません。モバイルデータ通信を使用してダウンロードしますか？","locales":{"chs":"当前为非WIFI环境，是否使用流量下载? ","cht":"目前為非WIFI環境，是否使用流量下載?","en":"This is a non-WIFI environment. Do you want to use traffic to download?","jp":"Wi-Fiに接続されていません。モバイルデータ通信を使用してダウンロードしますか？","kr":"WIFI가 아닌 환경에서 다운로드를 위해 트래픽을 사용하시겠습니까?"}}
+{"id":"startup:only_launcher","locale":"jp","text":"ゲームの起動にはランチャーをご利用ください。","locales":{"chs":"请使用启动器启动游戏","cht":"","en":"","jp":"ゲームの起動にはランチャーをご利用ください。","kr":""}}
+{"id":"startup:open_hotupdate_view_fail","locale":"jp","text":"アップデート画面の読み込みに失敗しました。","locales":{"chs":"热更界面打开失败","cht":"","en":"","jp":"アップデート画面の読み込みに失敗しました。","kr":""}}
+{"id":"startup:open_start_view_fail","locale":"jp","text":"起動画面の読み込みに失敗しました。","locales":{"chs":"启动界面打开失败","cht":"","en":"","jp":"起動画面の読み込みに失敗しました。","kr":""}}
+{"id":"startup:out_of_disk_spac","locale":"jp","text":"ディスクの空き容量不足","locales":{"chs":"当前剩余磁盘大小不足","cht":"","en":"","jp":"ディスクの空き容量不足","kr":""}}
+{"id":"startup:out_of_disk_spac_size","locale":"jp","text":"端末の空き容量が不足しています。ダウンロードを続けるには{0}の空き容量が必要です。","locales":{"chs":"设备内存不足，需要{0}空间才可继续下载。","cht":"","en":"","jp":"端末の空き容量が不足しています。ダウンロードを続けるには{0}の空き容量が必要です。","kr":""}}
+{"id":"startup:package_client_not_latest","locale":"jp","text":"アップデートが見つかりました。アップデートを完了するにはゲームを再起動する必要があります。","locales":{"chs":"检测到游戏更新，需要重启游戏完成更新","cht":"","en":"","jp":"アップデートが見つかりました。アップデートを完了するにはゲームを再起動する必要があります。","kr":""}}
+{"id":"startup:package_need_update","locale":"jp","text":"更新が必要です。最新版のインストールパッケージをダウンロードして、ゲームを開始してください。","locales":{"chs":"需要更新, 请下载最新版本的安装包进入游戏","cht":"","en":"","jp":"更新が必要です。最新版のインストールパッケージをダウンロードして、ゲームを開始してください。","kr":""}}
+{"id":"startup:package_need_update_inner","locale":"jp","text":"内部ネットワークに新しいインストールパッケージがあります。必要に応じて最新版をダウンロードできます。「確定」を押すとゲームを開始します。","locales":{"chs":"内网存在新的安装包, 可选择下载最新安装包, 点击确定可直接进入游戏","cht":"","en":"","jp":"内部ネットワークに新しいインストールパッケージがあります。必要に応じて最新版をダウンロードできます。「確定」を押すとゲームを開始します。","kr":""}}
+{"id":"startup:package_need_update_pc","locale":"jp","text":"クライアントのバージョンアップデートが必要です。ランチャーでアップデートを完了してください。","locales":{"chs":"客户端版本需更新，请前往启动器完成更新","cht":"","en":"","jp":"クライアントのバージョンアップデートが必要です。ランチャーでアップデートを完了してください。","kr":""}}
+{"id":"startup:package_not_upload","locale":"jp","text":"クライアントアップデートはまだリリースされていません。今しばらくお待ちください。","locales":{"chs":"客户端更新暂未发布，请星临者耐心等待","cht":"","en":"","jp":"クライアントアップデートはまだリリースされていません。今しばらくお待ちください。","kr":""}}
+{"id":"startup:performance_check_fail","locale":"jp","text":"注意：現在のデバイスが最低動作環境を満たしていないため、ゲーム中に動作が重くなったり、クラッシュしたりする可能性があります。","locales":{"chs":"提示：检测到当前设备低于最低配置要求，游戏过程中可能会出现卡顿、闪退等情况","cht":"","en":"","jp":"注意：現在のデバイスが最低動作環境を満たしていないため、ゲーム中に動作が重くなったり、クラッシュしたりする可能性があります。","kr":""}}
+{"id":"startup:preload_calculating","locale":"jp","text":"（リソース計算中）","locales":{"chs":"(资源计算中)","cht":"","en":"","jp":"（リソース計算中）","kr":""}}
+{"id":"startup:preload_finish","locale":"jp","text":"事前ダウンロードが完了しました。","locales":{"chs":"预下载已完成","cht":"","en":"","jp":"事前ダウンロードが完了しました。","kr":""}}
+{"id":"startup:preload_notice","locale":"jp","text":"{0}のゲームリソースのダウンロードが必要です。事前ダウンロード中はゲームをプレイできません。","locales":{"chs":"需要下载{0}的游戏资源，预下载期间无法进行游戏","cht":"","en":"","jp":"{0}のゲームリソースのダウンロードが必要です。事前ダウンロード中はゲームをプレイできません。","kr":""}}
+{"id":"startup:quit","locale":"jp","text":"終了","locales":{"chs":"退出","cht":"退出","en":"Quit","jp":"終了","kr":"종료"}}
+{"id":"startup:quit_game_content","locale":"jp","text":"ゲームを終了しますか？","locales":{"chs":"是否确认要退出游戏？","cht":"","en":"","jp":"ゲームを終了しますか？","kr":""}}
+{"id":"startup:quit_game_title","locale":"jp","text":"ゲーム終了","locales":{"chs":"退出游戏","cht":"","en":"","jp":"ゲーム終了","kr":""}}
+{"id":"startup:quit_game_version_not_match","locale":"jp","text":"現在メンテナンス中です。しばらくしてからお試しください。","locales":{"chs":"游戏当前版本处于维护中, 稍后重试.","cht":"","en":"","jp":"現在メンテナンス中です。しばらくしてからお試しください。","kr":""}}
+{"id":"startup:re_login","locale":"jp","text":"再度ログインしてください。","locales":{"chs":"重新登录","cht":"","en":"","jp":"再度ログインしてください。","kr":""}}
+{"id":"startup:requesting_info","locale":"jp","text":"バージョン情報を取得中……","locales":{"chs":"正在获取版本信息...","cht":"正在獲取版本信息...","en":"Requesting info…","jp":"バージョン情報を取得中……","kr":"정보를 가져오는 중..."}}
+{"id":"startup:resource_loading_tips","locale":"jp","text":"読み込み中……","locales":{"chs":"正在加载中...","cht":"正在加載中...","en":"Loading...","jp":"読み込み中……","kr":"로드 중..."}}
+{"id":"startup:resource_verifying_tips","locale":"jp","text":"リソースを確認しています……","locales":{"chs":" 正在校验资源...","cht":"正在校驗資源...","en":"Verifying resources...","jp":"リソースを確認しています……","kr":"리소스 확인 중..."}}
+{"id":"startup:retry","locale":"jp","text":"再試行","locales":{"chs":"重试","cht":"重試","en":"Retry","jp":"再試行","kr":"다시 시도"}}
+{"id":"startup:return_login","locale":"jp","text":"現在メンテナンス中です。ログイン画面に戻ります。","locales":{"chs":"游戏维护中，回到登录界面","cht":"","en":"","jp":"現在メンテナンス中です。ログイン画面に戻ります。","kr":""}}
+{"id":"startup:sdk_init_fail","locale":"jp","text":"SDKの初期化に失敗しました。再初期化しますか？","locales":{"chs":"SDK初始化失败，是否重新初始化","cht":"","en":"","jp":"SDKの初期化に失敗しました。再初期化しますか？","kr":""}}
+{"id":"startup:shader_loading","locale":"jp","text":" ","locales":{"chs":"","cht":"","en":"","jp":" ","kr":""}}
+{"id":"startup:shader_waiting_defult_tips","locale":"jp","text":"シェーダーのコンパイルには時間がかかります。しばらくお待ちください。","locales":{"chs":"正在编译着色器（编译着色器耗时较长，请星临者耐心等待）","cht":"","en":"","jp":"シェーダーのコンパイルには時間がかかります。しばらくお待ちください。","kr":""}}
+{"id":"startup:shader_waiting_ios_tips","locale":"jp","text":"シェーダーのコンパイルには時間がかかります。処理効率を上げるため、アニメーションの再生を一時停止しています。しばらくお待ちください。","locales":{"chs":"编译着色器耗时较长,为提升效率，动画暂停播放，请星临者耐心等待","cht":"","en":"","jp":"シェーダーのコンパイルには時間がかかります。処理効率を上げるため、アニメーションの再生を一時停止しています。しばらくお待ちください。","kr":""}}
+{"id":"startup:start_tip","locale":"jp","text":"旅を始める","locales":{"chs":"开始旅程","cht":"","en":"","jp":"旅を始める","kr":""}}
+{"id":"startup:subpackage_calculating","locale":"jp","text":"計算中……","locales":{"chs":"计算中...","cht":"","en":"","jp":"計算中……","kr":""}}
+{"id":"startup:subpackage_dl_ui_1001","locale":"jp","text":"QUICK","locales":{"chs":"抢先","cht":"","en":"","jp":"QUICK","kr":""}}
+{"id":"startup:subpackage_dl_ui_1002","locale":"jp","text":"FULL","locales":{"chs":"完整","cht":"","en":"","jp":"FULL","kr":""}}
+{"id":"startup:subpackage_dl_ui_1003","locale":"jp","text":"序章のリソース（{0}）のみをダウンロードすると、いち早くゲームを体験できます。\n","locales":{"chs":"仅下载序章资源（{0}），可更早体验游戏","cht":"","en":"","jp":"序章のリソース（{0}）のみをダウンロードすると、いち早くゲームを体験できます。\n","kr":""}}
+{"id":"startup:subpackage_dl_ui_1004","locale":"jp","text":"すべてのリソース（{0}）をダウンロードすると、コンテンツを快適にプレイできます。","locales":{"chs":"下载完整资源（{0}），可顺畅体验完整游戏内容","cht":"","en":"","jp":"すべてのリソース（{0}）をダウンロードすると、コンテンツを快適にプレイできます。","kr":""}}
+{"id":"startup:subpackage_dl_ui_1005","locale":"jp","text":"序章終了後、残りのリソースをダウンロードする必要があります。","locales":{"chs":"序章体验完毕后仍需下载完整资源","cht":"","en":"","jp":"序章終了後、残りのリソースをダウンロードする必要があります。","kr":""}}
+{"id":"startup:subpackage_dl_ui_1006","locale":"jp","text":"ダウンロード","locales":{"chs":"下载","cht":"","en":"","jp":"ダウンロード","kr":""}}
+{"id":"startup:subpackage_dl_ui_1007","locale":"jp","text":"序章が終了しました。残りのリソースをダウンロードすると、続きをプレイできます。","locales":{"chs":"亲爱的星临者，您已完成序章体验，下载剩余完整资源后可体验后续内容","cht":"","en":"","jp":"序章が終了しました。残りのリソースをダウンロードすると、続きをプレイできます。","kr":""}}
+{"id":"startup:subpackage_dl_ui_1008","locale":"jp","text":"残りのリソースをダウンロード（{0}）","locales":{"chs":"下载剩余完整资源（{0}）","cht":"","en":"","jp":"残りのリソースをダウンロード（{0}）","kr":""}}
+{"id":"startup:subpackage_dl_ui_1009","locale":"jp","text":"序章のリソースをダウンロードしました。序章をプレイできるようになりました。","locales":{"chs":"序章资源已下载，可立即体验游戏序章内容","cht":"","en":"","jp":"序章のリソースをダウンロードしました。序章をプレイできるようになりました。","kr":""}}
+{"id":"startup:subpackage_dl_ui_1010","locale":"jp","text":"先行体験","locales":{"chs":"抢先体验","cht":"","en":"","jp":"先行体験","kr":""}}
+{"id":"startup:subpackage_dl_ui_1011","locale":"jp","text":"ダウンロード完了後、すぐにゲームをプレイできます。","locales":{"chs":"下载后可直接进行完整游戏","cht":"","en":"","jp":"ダウンロード完了後、すぐにゲームをプレイできます。","kr":""}}
+{"id":"startup:tip_title","locale":"jp","text":"ヒント","locales":{"chs":"提示","cht":"","en":"","jp":"ヒント","kr":""}}
+{"id":"startup:update_alert_message","locale":"jp","text":"アクセスする前にリソースをダウンロードする必要があります。","locales":{"chs":"需要下载资源后才可以进入","cht":"需要下載資源后才可以進入","en":"You need to download the resource before you can access it","jp":"アクセスする前にリソースをダウンロードする必要があります。","kr":"리소스에 액세스하려면 먼저 리소스를 다운로드해야 합니다"}}
+{"id":"startup:update_alert_toggle_basic_subtitle","locale":"jp","text":"ゲーム実行のための基本リソースのみが含まれ、その他のリソースはゲーム設定からダウンロードできます。","locales":{"chs":"仅包含游戏运行的基础资源，其它资源可在游戏设置中下载","cht":"僅包含遊戲運行的基礎資源，其它資源可在遊戲設定中下載","en":"Only basic resources for game are included. Other resources can be downloaded in game settings.","jp":"ゲーム実行のための基本リソースのみが含まれ、その他のリソースはゲーム設定からダウンロードできます。","kr":"게임 실행을 위한 기본 리소스만 포함, 기타 리소스는 게임 설정에서 다운로드 가능"}}
+{"id":"startup:update_alert_toggle_basic_title","locale":"jp","text":"ベースリソース ({0})","locales":{"chs":"基础资源 ({0})","cht":"基礎資源 ({0})","en":"Basic Resources ({0})","jp":"ベースリソース ({0})","kr":"재단 자료 ({0})"}}
+{"id":"startup:update_alert_toggle_full_subtitle","locale":"jp","text":"すべてのゲームリソースが含まれています。","locales":{"chs":"包含游戏的全部资源","cht":"包含遊戲的全部資源","en":"Includes all the assets of the game","jp":"すべてのゲームリソースが含まれています。","kr":"게임의 모든 자산을 포함합니다."}}
+{"id":"startup:update_alert_toggle_full_title","locale":"jp","text":"完全なリソース ({0})","locales":{"chs":"完整资源 ({0})","cht":"完整資源 ({0})","en":"Full Resources ({0})","jp":"完全なリソース ({0})","kr":"전체 리소스 ({0})"}}
+{"id":"startup:update_complete_restart","locale":"jp","text":"更新データがあります。まもなくゲームを再起動します。","locales":{"chs":"当前存在未下载的更新内容，游戏即将重启","cht":"","en":"","jp":"更新データがあります。まもなくゲームを再起動します。","kr":""}}
+{"id":"startup:update_complete_restart_other","locale":"jp","text":"更新データがあります。ゲームを再起動してください。","locales":{"chs":"当前存在未下载的更新内容，请重启游戏","cht":"","en":"","jp":"更新データがあります。ゲームを再起動してください。","kr":""}}

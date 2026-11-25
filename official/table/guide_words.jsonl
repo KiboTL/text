@@ -1,0 +1,1712 @@
+{"id":"guide_words:12884902912","locale":"jp","text":"<actionkey>MainInput/MainOpenHero</actionkey> <color={highlight}>キャラクター</color>ボタンを押してください"}
+{"id":"guide_words:12884903168","locale":"jp","text":"<color={highlight}>キャラクター</color>ボタンを押してください"}
+{"id":"guide_words:12884903424","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>キャラクター</color>を選択"}
+{"id":"guide_words:12885335679697920","locale":"jp","text":"<actionkey>MainInput/MainMovement</actionkey> キーで、<color={highlight}>移動</color>ができます。"}
+{"id":"guide_words:12885335679698176","locale":"jp","text":"<color={highlight}>バーチャルスティック</color>で<color={highlight}>移動</color>できます。"}
+{"id":"guide_words:12885335679698432","locale":"jp","text":"<actionkey>MainInput/MainMovement</actionkey> キーで、<color={highlight}>移動</color>ができます。"}
+{"id":"guide_words:12886194673157120","locale":"jp","text":"<actionkey>MainInput/MainAttack</actionkey> で<color={highlight}>攻撃</color>できます。"}
+{"id":"guide_words:12886194673157376","locale":"jp","text":"攻撃ボタンで<color={highlight}>攻撃</color>を発動できます"}
+{"id":"guide_words:12886194673157632","locale":"jp","text":"<actionkey>MainInput/MainAttack</actionkey> で<color={highlight}>攻撃</color>できます。"}
+{"id":"guide_words:12886624169886720","locale":"jp","text":"<actionkeyhold>MainInput/MainAttack</actionkeyhold>を長押しすると<color={highlight}>チャージ攻撃</color>を発動できます。"}
+{"id":"guide_words:12886624169886976","locale":"jp","text":"攻撃ボタンを長押しすると<color={highlight}>チャージ攻撃</color>を発動できます"}
+{"id":"guide_words:12886624169887232","locale":"jp","text":"<actionkeyhold>MainInput/MainAttack</actionkeyhold>を長押しすると<color={highlight}>チャージ攻撃</color>を発動できます。"}
+{"id":"guide_words:12887483163345920","locale":"jp","text":"<actionkey>MainInput/MainSkill</actionkey> キーで<color={highlight}>星響スキル</color>を発動できます。"}
+{"id":"guide_words:12887483163346176","locale":"jp","text":"押すと<color={highlight}>星響スキル</color>を発動できます"}
+{"id":"guide_words:12887483163346432","locale":"jp","text":"<actionkey>MainInput/MainSkill</actionkey> キーで<color={highlight}>星響スキル</color>を発動できます。"}
+{"id":"guide_words:12887487458313216","locale":"jp","text":"<actionkey>MainInput/MainSkill</actionkey> で<color={highlight}>星響スキル</color>を発動します。"}
+{"id":"guide_words:12887487458313472","locale":"jp","text":"押すと<color={highlight}>星響スキル</color>を発動できます"}
+{"id":"guide_words:12887487458313728","locale":"jp","text":"<actionkey>MainInput/MainSkill</actionkey> で<color={highlight}>星響スキル</color>を発動します。"}
+{"id":"guide_words:12887912660075520","locale":"jp","text":"<actionkey>MainInput/MainOpenGacha</actionkey> を押して<color={highlight}>観測</color>します。"}
+{"id":"guide_words:12887912660075776","locale":"jp","text":"<color={highlight}>観測</color>を押してください"}
+{"id":"guide_words:12887912660076032","locale":"jp","text":"<actionkey>GamepadUI/PageControllerQuickRoulette_ButtonNorth</actionkey> で<color={highlight}>観測</color>を開けます"}
+{"id":"guide_words:12887916955042816","locale":"jp","text":"<color={highlight}>1回観測</color>を押してください"}
+{"id":"guide_words:12887916955043072","locale":"jp","text":"<color={highlight}>1回観測</color>を押してください"}
+{"id":"guide_words:12887916955043328","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>1回観測</color>します"}
+{"id":"guide_words:12888342156805120","locale":"jp","text":"<actionkey>MainInput/MainSwitchHero2</actionkey> を押して操作するキャラクターを切り替えます。"}
+{"id":"guide_words:12888342156805376","locale":"jp","text":"押して操作するキャラクターを切り替えます。"}
+{"id":"guide_words:12888342156805632","locale":"jp","text":"<actionkey>MainInput/MainSwitchHero2</actionkey> 操作するキャラクターを切り替える"}
+{"id":"guide_words:12888346451772416","locale":"jp","text":"押して<color={highlight}>操作するキャラクター</color>を切り替えます"}
+{"id":"guide_words:12888346451772672","locale":"jp","text":"押して<color={highlight}>操作するキャラクター</color>を切り替えます"}
+{"id":"guide_words:12888346451772928","locale":"jp","text":"<actionkey>MainInput/MainSwitchHero2</actionkey> <color={highlight}>操作キャラクター</color>を切り替える"}
+{"id":"guide_words:12888350746739712","locale":"jp","text":"戦闘でチャージを行い、<color={highlight}>星極スキル</color>を発動できます。"}
+{"id":"guide_words:12888350746739968","locale":"jp","text":"戦闘でチャージを行い、<color={highlight}>星極スキル</color>を発動できます。"}
+{"id":"guide_words:12888350746740224","locale":"jp","text":"戦闘でチャージを行い、<color={highlight}>星極スキル</color>を発動できます。"}
+{"id":"guide_words:12888355041707008","locale":"jp","text":"押して<color={highlight}>星極スキル</color>を発動"}
+{"id":"guide_words:12888355041707264","locale":"jp","text":"押して<color={highlight}>星極スキル</color>を発動"}
+{"id":"guide_words:12888355041707520","locale":"jp","text":"<actionkey>MainInput/MainUltimateSkill</actionkey> で<color={highlight}>星極スキル</color>を発動します。"}
+{"id":"guide_words:12888767358567424","locale":"jp","text":"<actionkey>MainInput/MainSwitchHero1</actionkey> を押して操作するキャラクターを切り替えます。"}
+{"id":"guide_words:12888767358567680","locale":"jp","text":"押して操作するキャラクターを切り替えます。"}
+{"id":"guide_words:12888767358567936","locale":"jp","text":"<actionkey>MainInput/MainSwitchHero1</actionkey> を押して操作するキャラクターを切り替えます。"}
+{"id":"guide_words:12888771653534720","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> で、<color={highlight}>キボスキル</color>を発動できます。"}
+{"id":"guide_words:12888771653534976","locale":"jp","text":"押して<color={highlight}>キボスキル</color>を発動"}
+{"id":"guide_words:12888771653535232","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> で、<color={highlight}>キボスキル</color>を発動できます。"}
+{"id":"guide_words:12888775948502016","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> で<color={highlight}>キボスキル</color>を発動します。"}
+{"id":"guide_words:12888775948502272","locale":"jp","text":"押して<color={highlight}>キボスキル</color>を発動"}
+{"id":"guide_words:12888775948502528","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> で<color={highlight}>キボスキル</color>を発動します。"}
+{"id":"guide_words:12888780243469312","locale":"jp","text":"押して<color={highlight}>キボスキル</color>を発動"}
+{"id":"guide_words:12888780243469568","locale":"jp","text":"押して<color={highlight}>キボスキル</color>を発動"}
+{"id":"guide_words:12888780243469824","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> で<color={highlight}>キボスキル</color>を発動します。"}
+{"id":"guide_words:12888784538436608","locale":"jp","text":"一部のキボスキルで、<color={highlight}>刻印</color>を増やすことができます。"}
+{"id":"guide_words:12888784538436864","locale":"jp","text":"一部のキボスキルで、<color={highlight}>刻印</color>を増やすことができます。"}
+{"id":"guide_words:12888784538437120","locale":"jp","text":"一部のキボスキルで、<color={highlight}>刻印</color>を増やすことができます。"}
+{"id":"guide_words:12889201150264320","locale":"jp","text":"<actionkey>MainInput/MainLockTarget</actionkey> で敵を<color={highlight}>ロックオン</color>できます。"}
+{"id":"guide_words:12889201150264576","locale":"jp","text":"ロックオンを押すと、敵を<color={highlight}>ロックオン</color>できます"}
+{"id":"guide_words:12889201150264832","locale":"jp","text":"<actionkey>MainInput/MainLockTarget</actionkey> で敵を<color={highlight}>ロックオン</color>できます。"}
+{"id":"guide_words:12889205445231616","locale":"jp","text":"<actionkey>MainInput/MainLockTarget</actionkey> を押して、敵を<color={highlight}>ロックオン</color>できます。"}
+{"id":"guide_words:12889205445231872","locale":"jp","text":"ロックオンを押すと、敵を<color={highlight}>ロックオン</color>できます"}
+{"id":"guide_words:12889205445232128","locale":"jp","text":"<actionkey>MainInput/MainLockTarget</actionkey> で敵を<color={highlight}>ロックオン</color>できます。"}
+{"id":"guide_words:12889630646993920","locale":"jp","text":"<color={highlight}>完了</color>したクエストをタップして、報酬を受け取ります"}
+{"id":"guide_words:12889630646994176","locale":"jp","text":"<color={highlight}>完了</color>したクエストをタップして、報酬を受け取ります"}
+{"id":"guide_words:12889630646994432","locale":"jp","text":"<color={highlight}>完了</color>したクエストをタップして、報酬を受け取ります"}
+{"id":"guide_words:12889634941961216","locale":"jp","text":"目録内の<color={highlight}>関連クエストをすべて</color>完了すると、さらに豪華な報酬を受け取れます！"}
+{"id":"guide_words:12889634941961472","locale":"jp","text":"目録内の<color={highlight}>関連クエストをすべて</color>完了すると、さらに豪華な報酬を受け取れます！"}
+{"id":"guide_words:12889634941961728","locale":"jp","text":"目録内の<color={highlight}>関連クエストをすべて</color>完了すると、さらに豪華な報酬を受け取れます！"}
+{"id":"guide_words:12889639236928512","locale":"jp","text":"旅路のクエストからは大量の<color={highlight}>星啓経験値</color>を獲得できます。星臨者さんはこまめにチェックしてくださいね。"}
+{"id":"guide_words:12889639236928768","locale":"jp","text":"旅路のクエストからは大量の<color={highlight}>星啓経験値</color>を獲得できます。星臨者さんはこまめにチェックしてくださいね。"}
+{"id":"guide_words:12889639236929024","locale":"jp","text":"旅路のクエストからは大量の<color={highlight}>星啓経験値</color>を獲得できます。星臨者さんはこまめにチェックしてくださいね。"}
+{"id":"guide_words:12890489640453120","locale":"jp","text":"押すと<color={highlight}>レベルアップ状態</color>に入ります"}
+{"id":"guide_words:12890489640453376","locale":"jp","text":"押すと<color={highlight}>レベルアップ状態</color>に入ります"}
+{"id":"guide_words:12890489640453632","locale":"jp","text":"<actionkey>UI/Submit</actionkey> でレベルアップ状態に入る"}
+{"id":"guide_words:12890493935420416","locale":"jp","text":"押すとレベルアップアイテムを<color={highlight}>素早く選択</color>できます"}
+{"id":"guide_words:12890493935420672","locale":"jp","text":"押すとレベルアップアイテムを<color={highlight}>素早く選択</color>できます"}
+{"id":"guide_words:12890493935420928","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_Option</actionkey> でアイテムを素早く選択"}
+{"id":"guide_words:12890498230387712","locale":"jp","text":"ここを押すと、<color={highlight}>レベルアップ</color>！さっそく試してみるのだ！"}
+{"id":"guide_words:12890498230387968","locale":"jp","text":"ここを押すと、<color={highlight}>レベルアップ</color>！さっそく試してみるのだ！"}
+{"id":"guide_words:12890498230388224","locale":"jp","text":"ここで案内に従って操作すると、<color={highlight}>レベルアップ</color>できますよ。さっそく試してみよう！"}
+{"id":"guide_words:12891348633912320","locale":"jp","text":"<actionkey>MainInput/MainKiboCatchShoot</actionkey> を押してキボと星絆を結ぶ"}
+{"id":"guide_words:12891348633912576","locale":"jp","text":"<color=#3266b4>長押ししてドラッグ</color>し、キボを狙ってから<color=#3266b4>離す</color>と、キボと<color=#3266b4>スターリンク</color>できます。"}
+{"id":"guide_words:12891348633912832","locale":"jp","text":"<actionkey>MainInput/MainKiboCatchShoot</actionkey> でキボとスターリンクする"}
+{"id":"guide_words:12891778130641920","locale":"jp","text":"タイミングを見計らい、<actionkey>MainInput/MainCountermeasures</actionkey> を押し、パリィで<color={highlight}>カウンター</color>を仕掛けることができます。"}
+{"id":"guide_words:12891778130642176","locale":"jp","text":"タイミングを見計らって、パリィで<color={highlight}>カウンター</color>を仕掛けるのだ！"}
+{"id":"guide_words:12891778130642432","locale":"jp","text":"タイミングを見計らい、<actionkey>MainInput/MainCountermeasures</actionkey> を押し、パリィで<color={highlight}>カウンター</color>を仕掛けることができます。"}
+{"id":"guide_words:12891786720576512","locale":"jp","text":"タイミングを見計らって、パリィで<color={highlight}>カウンター</color>を仕掛けるのだ！"}
+{"id":"guide_words:12891786720576768","locale":"jp","text":"タイミングを見計らって、パリィで<color={highlight}>カウンター</color>を仕掛けるのだ！"}
+{"id":"guide_words:12891786720577024","locale":"jp","text":"タイミングを見計らい、<actionkey>MainInput/MainCountermeasures</actionkey> を押し、パリィで<color={highlight}>カウンター</color>を仕掛けることができます。"}
+{"id":"guide_words:12892637124101120","locale":"jp","text":"移動中に<actionkeyhold>MainInput/MainEvade</actionkeyhold>を長押しすると、<color={highlight}>ダッシュ</color>状態を維持できます。"}
+{"id":"guide_words:12892637124101376","locale":"jp","text":"移動中に<color={highlight}>ダッシュ</color>ボタンを長押しすると、<color={highlight}>ダッシュ</color>状態を維持できます。"}
+{"id":"guide_words:12892637124101632","locale":"jp","text":"移動中に<actionkeyhold>MainInput/MainEvade</actionkeyhold>を長押しすると、<color={highlight}>ダッシュ</color>状態を維持できます。"}
+{"id":"guide_words:12893496117560320","locale":"jp","text":"ファイトのまえに、編成のしかたを確認しておくぞ！"}
+{"id":"guide_words:12893496117560576","locale":"jp","text":"ファイトのまえに、編成のしかたを確認しておくぞ！"}
+{"id":"guide_words:12893496117560832","locale":"jp","text":"ファイトのまえに、編成のしかたを確認しておくぞ！"}
+{"id":"guide_words:12893500412527616","locale":"jp","text":"いいか！キボファイトをはじめるには、キボが全部で8匹必要なんだ。"}
+{"id":"guide_words:12893500412527872","locale":"jp","text":"いいか！キボファイトをはじめるには、キボが全部で8匹必要なんだ。"}
+{"id":"guide_words:12893500412528128","locale":"jp","text":"いいか！キボファイトをはじめるには、キボが全部で8匹必要なんだ。"}
+{"id":"guide_words:12893504707494912","locale":"jp","text":"まあ、今回はアタシが特別に貸してやるから、心配いらないぞ！"}
+{"id":"guide_words:12893504707495168","locale":"jp","text":"まあ、今回はアタシが特別に貸してやるから、心配いらないぞ！"}
+{"id":"guide_words:12893504707495424","locale":"jp","text":"まあ、今回はアタシが特別に貸してやるから、心配いらないぞ！"}
+{"id":"guide_words:12893513297429504","locale":"jp","text":"このあと、ここで出撃させたいキボを選べるからな。"}
+{"id":"guide_words:12893513297429760","locale":"jp","text":"このあと、ここで出撃させたいキボを選べるからな。"}
+{"id":"guide_words:12893513297430016","locale":"jp","text":"このあと、ここで出撃させたいキボを選べるからな。"}
+{"id":"guide_words:12893526182331392","locale":"jp","text":"これはファイタースキルだ。うまく使えば、流れをひっくり返せるぞ！"}
+{"id":"guide_words:12893526182331648","locale":"jp","text":"これはファイタースキルだ。うまく使えば、流れをひっくり返せるぞ！"}
+{"id":"guide_words:12893526182331904","locale":"jp","text":"これはファイタースキルだ。うまく使えば、流れをひっくり返せるぞ！"}
+{"id":"guide_words:12893530477298688","locale":"jp","text":"ファイタースキルにはいろんな種類があるけど、今回はこのままでいこう！"}
+{"id":"guide_words:12893530477298944","locale":"jp","text":"ファイタースキルにはいろんな種類があるけど、今回はこのままでいこう！"}
+{"id":"guide_words:12893530477299200","locale":"jp","text":"ファイタースキルにはいろんな種類があるけど、今回はこのままでいこう！"}
+{"id":"guide_words:12893534772265984","locale":"jp","text":"確認ができたら戻ろう。編成は<color={highlight}>自動保存</color>されるからな！"}
+{"id":"guide_words:12893534772266240","locale":"jp","text":"確認ができたら戻ろう。編成は<color={highlight}>自動保存</color>されるからな！"}
+{"id":"guide_words:12893534772266496","locale":"jp","text":"確認ができたら戻ろう。編成は<color={highlight}>自動保存</color>されるからな！"}
+{"id":"guide_words:12893539067233280","locale":"jp","text":"そんじゃ！ファイト開始だ！"}
+{"id":"guide_words:12893539067233536","locale":"jp","text":"そんじゃ！ファイト開始だ！"}
+{"id":"guide_words:12893539067233792","locale":"jp","text":"そんじゃ！ファイト開始だ！"}
+{"id":"guide_words:12893925614289920","locale":"jp","text":"キボの近くで<actionkey>MainInput/MainPetCatch</actionkey> を押すと、星絆状態に入ります。"}
+{"id":"guide_words:12893925614290176","locale":"jp","text":"キボの近くで<color={highlight}>星絆ボタン</color>を押すと、星絆状態に入ります。"}
+{"id":"guide_words:12893925614290432","locale":"jp","text":"キボの近くで<actionkey>MainInput/MainPetCatch</actionkey> を押すと、星絆状態に入ります。"}
+{"id":"guide_words:12896502594667520","locale":"jp","text":"こっちこっち！"}
+{"id":"guide_words:12896502594667776","locale":"jp","text":"こっちこっち！"}
+{"id":"guide_words:12896502594668032","locale":"jp","text":"こっちこっち！<actionkey>GamepadUI/GamepadUI_R1</actionkey> で星祝に切り替えるのだ！"}
+{"id":"guide_words:12896506889634816","locale":"jp","text":"ここで、キャラクターに必要な星祝を確認できるのだ。"}
+{"id":"guide_words:12896506889635072","locale":"jp","text":"ここで、キャラクターに必要な星祝を確認できるのだ。"}
+{"id":"guide_words:12896506889635328","locale":"jp","text":"ここで、キャラクターに必要な星祝を確認できるのだ。"}
+{"id":"guide_words:12896511184602112","locale":"jp","text":"星祝には、それぞれ異なる力が秘められている。"}
+{"id":"guide_words:12896511184602368","locale":"jp","text":"星祝には、それぞれ異なる力が秘められている。"}
+{"id":"guide_words:12896511184602624","locale":"jp","text":"星祝には、それぞれ異なる力が秘められている。"}
+{"id":"guide_words:12896932091397120","locale":"jp","text":"<actionkey>MainInput/MainJump</actionkey> で<color={highlight}>ジャンプ</color>できます。"}
+{"id":"guide_words:12896932091397376","locale":"jp","text":"<actionkey>MainInput/MainJump</actionkey> で<color={highlight}>ジャンプ</color>できます。"}
+{"id":"guide_words:12896932091397632","locale":"jp","text":"<actionkey>MainInput/MainJump</actionkey> で<color={highlight}>ジャンプ</color>できます。"}
+{"id":"guide_words:12896936386364416","locale":"jp","text":"押して<color={highlight}>ジャンプ</color>してください"}
+{"id":"guide_words:12896936386364672","locale":"jp","text":"押して<color={highlight}>ジャンプ</color>してください"}
+{"id":"guide_words:12896936386364928","locale":"jp","text":"<actionkey>MainInput/MainJump</actionkey> で<color={highlight}>ジャンプ</color>する"}
+{"id":"guide_words:12897361588126720","locale":"jp","text":"一部のスキルは<color={highlight}>刻印</color>を消費することで、ダメージを大幅に上昇させます。"}
+{"id":"guide_words:12897361588126976","locale":"jp","text":"一部のスキルは<color={highlight}>刻印</color>を消費することで、ダメージを大幅に上昇させます。"}
+{"id":"guide_words:12897361588127232","locale":"jp","text":"一部のスキルは<color={highlight}>刻印</color>を消費することで、ダメージを大幅に上昇させます。"}
+{"id":"guide_words:12897791084856320","locale":"jp","text":"<actionkeyhold>MainInput/MainMountRoulette</actionkeyhold>を長押ししてマウントホイールを開くことができます。"}
+{"id":"guide_words:12897791084856576","locale":"jp","text":"長押しで<color={highlight}>マウントホイールを開きます。</color>"}
+{"id":"guide_words:12897791084856832","locale":"jp","text":"<actionkey>GamepadUI/PageControllerRouletteSwitcher_Switch</actionkey> で<color={highlight}>マウントホイール</color>に切り替えてください"}
+{"id":"guide_words:12897795379823616","locale":"jp","text":"押して<color={highlight}>マウントホイール</color>を編集する"}
+{"id":"guide_words:12897795379823872","locale":"jp","text":"押して<color={highlight}>マウントホイール</color>を編集する"}
+{"id":"guide_words:12897795379824128","locale":"jp","text":"<actionkey>GamepadUI/PageControllerRouletteSwitcher_Edit</actionkey> で<color={highlight}>マウントホイール</color>を編集"}
+{"id":"guide_words:12897799674790912","locale":"jp","text":"押してキボをマウントホイールに追加する"}
+{"id":"guide_words:12897799674791168","locale":"jp","text":"押してキボをマウントホイールに追加する"}
+{"id":"guide_words:12897799674791424","locale":"jp","text":"<actionkey>UI/Submit</actionkey>押してキボをホイールに追加する"}
+{"id":"guide_words:12897803969758208","locale":"jp","text":"キボをタップして騎乗"}
+{"id":"guide_words:12897803969758464","locale":"jp","text":"キボをタップして騎乗"}
+{"id":"guide_words:12897803969758720","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey>キボを騎乗"}
+{"id":"guide_words:12898220581585920","locale":"jp","text":"「<color={highlight}>キボを確認</color>」をタップ"}
+{"id":"guide_words:12898220581586176","locale":"jp","text":"「<color={highlight}>キボを確認</color>」をタップ"}
+{"id":"guide_words:12898220581586432","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボを確認</color>"}
+{"id":"guide_words:12898224876553216","locale":"jp","text":"<color={highlight}>因子変異</color>ボタンをタップ"}
+{"id":"guide_words:12898224876553472","locale":"jp","text":"<color={highlight}>因子変異</color>ボタンをタップ"}
+{"id":"guide_words:12898224876553728","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_Option</actionkey> で<color={highlight}>因子変異</color>を選択"}
+{"id":"guide_words:12898229171520512","locale":"jp","text":"<color={highlight}>原初の潮を消費</color>するコンテンツをプレイした後、確率で<color={highlight}>チームに編成したキボ</color>に<color={highlight}>因子変異</color>が発生します"}
+{"id":"guide_words:12898229171520768","locale":"jp","text":"<color={highlight}>原初の潮を消費</color>するコンテンツをプレイした後、確率で<color={highlight}>チームに編成したキボ</color>に<color={highlight}>因子変異</color>が発生します"}
+{"id":"guide_words:12898229171521024","locale":"jp","text":"<color={highlight}>原初の潮を消費</color>するコンテンツをプレイした後、確率で<color={highlight}>チームに編成したキボ</color>に<color={highlight}>因子変異</color>が発生します"}
+{"id":"guide_words:12898233466487808","locale":"jp","text":"キボが所持できる<color={highlight}>因子の数には上限があります</color>"}
+{"id":"guide_words:12898233466488064","locale":"jp","text":"キボが所持できる<color={highlight}>因子の数には上限があります</color>"}
+{"id":"guide_words:12898233466488320","locale":"jp","text":"キボが所持できる<color={highlight}>因子の数には上限があります</color>"}
+{"id":"guide_words:12898237761455104","locale":"jp","text":"因子が上限に達していない時に変異が発生すると、そのまま<color={highlight}>因子が1つ追加されます</color>"}
+{"id":"guide_words:12898237761455360","locale":"jp","text":"因子が上限に達していない時に変異が発生すると、そのまま<color={highlight}>因子が1つ追加されます</color>"}
+{"id":"guide_words:12898237761455616","locale":"jp","text":"因子が上限に達していない時に変異が発生すると、そのまま<color={highlight}>因子が1つ追加されます</color>"}
+{"id":"guide_words:12898242056422400","locale":"jp","text":"因子が上限の時に因子変異が発生すると、<color={highlight}>ランダムで1つの因子が変化します</color>"}
+{"id":"guide_words:12898242056422656","locale":"jp","text":"因子が上限の時に因子変異が発生すると、<color={highlight}>ランダムで1つの因子が変化します</color>"}
+{"id":"guide_words:12898242056422912","locale":"jp","text":"因子が上限の時に因子変異が発生すると、<color={highlight}>ランダムで1つの因子が変化します</color>"}
+{"id":"guide_words:12898246351389696","locale":"jp","text":"変異を確定するか変異前の因子を保留するかを選択できます。ただし、選択を完了するまで、このキボに<color={highlight}>因子変異は発生しなくなります</color>"}
+{"id":"guide_words:12898246351389952","locale":"jp","text":"変異を確定するか変異前の因子を保留するかを選択できます。ただし、選択を完了するまで、このキボに<color={highlight}>因子変異は発生しなくなります</color>"}
+{"id":"guide_words:12898246351390208","locale":"jp","text":"変異を確定するか変異前の因子を保留するかを選択できます。ただし、選択を完了するまで、このキボに<color={highlight}>因子変異は発生しなくなります</color>"}
+{"id":"guide_words:12898650078315520","locale":"jp","text":"<color={highlight}>マップレベル</color>ボタンを押してください。"}
+{"id":"guide_words:12898650078315776","locale":"jp","text":"<color={highlight}>マップレベル</color>ボタンを押してください。"}
+{"id":"guide_words:12898650078316032","locale":"jp","text":"<actionkey>GamepadUI/BigMapInput_MapLevel</actionkey> で<color={highlight}>マップレベル</color>を開く"}
+{"id":"guide_words:12898654373282816","locale":"jp","text":"<color={highlight}>難易度選択</color>を押してください"}
+{"id":"guide_words:12898654373283072","locale":"jp","text":"<color={highlight}>難易度選択</color>を押してください"}
+{"id":"guide_words:12898654373283328","locale":"jp","text":"<actionkey>GamepadUI/Common_NextTab</actionkey> で<color={highlight}>難易度を選択</color>"}
+{"id":"guide_words:12898658668250112","locale":"jp","text":"<color={highlight}>この難易度を有効にする</color>を押してください"}
+{"id":"guide_words:12898658668250368","locale":"jp","text":"<color={highlight}>この難易度を有効にする</color>を押してください"}
+{"id":"guide_words:12898658668250624","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>この難易度を有効にする</color>"}
+{"id":"guide_words:12899079575045120","locale":"jp","text":"星臨者が農園を建設すると、農園経験値を獲得できるのだ。"}
+{"id":"guide_words:12899079575045376","locale":"jp","text":"星臨者が農園を建設すると、農園経験値を獲得できるのだ。"}
+{"id":"guide_words:12899079575045632","locale":"jp","text":"星臨者が農園を建設すると、農園経験値を獲得できるのだ。"}
+{"id":"guide_words:12899083870012416","locale":"jp","text":"経験値を十分に獲得すると、農園レベルが上がる。"}
+{"id":"guide_words:12899083870012672","locale":"jp","text":"経験値を十分に獲得すると、農園レベルが上がる。"}
+{"id":"guide_words:12899083870012928","locale":"jp","text":"経験値を十分に獲得すると、農園レベルが上がる。"}
+{"id":"guide_words:12899088164979712","locale":"jp","text":"農園レベルが上がると、農園建設に役立つボーナスが手に入る。"}
+{"id":"guide_words:12899088164979968","locale":"jp","text":"農園レベルが上がると、農園建設に役立つボーナスが手に入る。"}
+{"id":"guide_words:12899088164980224","locale":"jp","text":"農園レベルが上がると、農園建設に役立つボーナスが手に入る。"}
+{"id":"guide_words:12899092459947008","locale":"jp","text":"それに、農園の建設素材も報酬として獲得できちゃうのだ！"}
+{"id":"guide_words:12899092459947264","locale":"jp","text":"それに、農園の建設素材も報酬として獲得できちゃうのだ！"}
+{"id":"guide_words:12899092459947520","locale":"jp","text":"それに、農園の建設素材も報酬として獲得できちゃうのだ！"}
+{"id":"guide_words:12900368065233920","locale":"jp","text":"<color={highlight}>餌やり</color>ボタンを押してください"}
+{"id":"guide_words:12900368065234176","locale":"jp","text":"<color={highlight}>餌やり</color>ボタンを押してください"}
+{"id":"guide_words:12900368065234432","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>餌やり</color>"}
+{"id":"guide_words:12900372360201216","locale":"jp","text":"<color={highlight}>全選択</color>タブを押してください"}
+{"id":"guide_words:12900372360201472","locale":"jp","text":"<color={highlight}>全選択</color>タブを押してください"}
+{"id":"guide_words:12900372360201728","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>源脈</color>タブに切り替え"}
+{"id":"guide_words:12900797561963520","locale":"jp","text":"<color={highlight}>デイリー依頼</color>を押してください"}
+{"id":"guide_words:12900797561963776","locale":"jp","text":"<color={highlight}>デイリー依頼</color>を押してください"}
+{"id":"guide_words:12900797561964032","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>デイリー依頼</color>を開く"}
+{"id":"guide_words:12900801856930816","locale":"jp","text":"<color={highlight}>装備品の獲得</color>タブを押してください"}
+{"id":"guide_words:12900801856931072","locale":"jp","text":"<color={highlight}>装備品の獲得</color>タブを押してください"}
+{"id":"guide_words:12900801856931328","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_L1</actionkey> で<color={highlight}>装備品の獲得</color>に切り替えられます。"}
+{"id":"guide_words:12900806151898112","locale":"jp","text":"<color={highlight}>装備品の獲得</color>依頼を達成すると、キャラクター装備を獲得できます"}
+{"id":"guide_words:12900806151898368","locale":"jp","text":"<color={highlight}>装備品の獲得</color>依頼を達成すると、キャラクター装備を獲得できます"}
+{"id":"guide_words:12900806151898624","locale":"jp","text":"<color={highlight}>装備品の獲得</color>依頼を達成すると、キャラクター装備を獲得できます"}
+{"id":"guide_words:12900810446865408","locale":"jp","text":"どんどんやってみるのだ！"}
+{"id":"guide_words:12900810446865664","locale":"jp","text":"どんどんやってみるのだ！"}
+{"id":"guide_words:12900810446865920","locale":"jp","text":"どんどんやってみるのだ！"}
+{"id":"guide_words:12901656555422720","locale":"jp","text":"<color={highlight}>餌やり</color>ボタンを押してください"}
+{"id":"guide_words:12901656555422976","locale":"jp","text":"<color={highlight}>餌やり</color>ボタンを押してください"}
+{"id":"guide_words:12901656555423232","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>餌やり</color>"}
+{"id":"guide_words:12901660850390016","locale":"jp","text":"<color={highlight}>全選択</color>をタップ"}
+{"id":"guide_words:12901660850390272","locale":"jp","text":"<color={highlight}>全選択</color>をタップ"}
+{"id":"guide_words:12901660850390528","locale":"jp","text":"<color={highlight}>全選択</color>をタップ"}
+{"id":"guide_words:12901665145357312","locale":"jp","text":"ここをタップすると、キボに<color={highlight}>餌やり</color>ができます。さっそく試してみましょう～"}
+{"id":"guide_words:12901665145357568","locale":"jp","text":"ここをタップすると、キボに<color={highlight}>餌やり</color>ができます。さっそく試してみましょう～"}
+{"id":"guide_words:12901665145357824","locale":"jp","text":"ここをタップすると、キボに<color={highlight}>餌やり</color>ができます。さっそく試してみましょう～"}
+{"id":"guide_words:12902086052152320","locale":"jp","text":"冒険中に仲間になったキボたちは、みんなキボ小屋に集まってるのだ！"}
+{"id":"guide_words:12902086052152576","locale":"jp","text":"冒険中に仲間になったキボたちは、みんなキボ小屋に集まってるのだ！"}
+{"id":"guide_words:12902086052152832","locale":"jp","text":"冒険中に仲間になったキボたちは、みんなキボ小屋に集まってるのだ！"}
+{"id":"guide_words:12902090347119616","locale":"jp","text":"1つの小屋には30匹まで住めるぞ。"}
+{"id":"guide_words:12902090347119872","locale":"jp","text":"1つの小屋には30匹まで住めるぞ。"}
+{"id":"guide_words:12902090347120128","locale":"jp","text":"1つの小屋には30匹まで住めるぞ。"}
+{"id":"guide_words:12902094642086912","locale":"jp","text":"キミはいま、20個のキボ小屋を持ってるのだ！"}
+{"id":"guide_words:12902094642087168","locale":"jp","text":"キミはいま、20個のキボ小屋を持ってるのだ！"}
+{"id":"guide_words:12902094642087424","locale":"jp","text":"キミはいま、20個のキボ小屋を持ってるのだ！"}
+{"id":"guide_words:12902098937054208","locale":"jp","text":"小屋は矢印ボタンで切り替えられるぞ！"}
+{"id":"guide_words:12902098937054464","locale":"jp","text":"小屋は矢印ボタンで切り替えられるぞ！"}
+{"id":"guide_words:12902098937054720","locale":"jp","text":"小屋は矢印ボタンで切り替えられるぞ！"}
+{"id":"guide_words:12902103232021504","locale":"jp","text":"ここでキボ小屋をロックできる。ロックすると、この小屋には新しいキボが自動で入らなくなるのだ。"}
+{"id":"guide_words:12902103232021760","locale":"jp","text":"ここでキボ小屋をロックできる。ロックすると、この小屋には新しいキボが自動で入らなくなるのだ。"}
+{"id":"guide_words:12902103232022016","locale":"jp","text":"ここでキボ小屋をロックできる。ロックすると、この小屋には新しいキボが自動で入らなくなるのだ。"}
+{"id":"guide_words:12902107526988800","locale":"jp","text":"キボが入る小屋を自由に決めることができるぞ。"}
+{"id":"guide_words:12902107526989056","locale":"jp","text":"キボが入る小屋を自由に決めることができるぞ。"}
+{"id":"guide_words:12902107526989312","locale":"jp","text":"キボが入る小屋を自由に決めることができるぞ。"}
+{"id":"guide_words:12902111821956096","locale":"jp","text":"ここで選んだキボのレベルも確認できるのだ。"}
+{"id":"guide_words:12902111821956352","locale":"jp","text":"ここで選んだキボのレベルも確認できるのだ。"}
+{"id":"guide_words:12902111821956608","locale":"jp","text":"ここで選んだキボのレベルも確認できるのだ。"}
+{"id":"guide_words:12902116116923392","locale":"jp","text":"ここでキボの元素属性、戦闘での役割、それに特性を確認できるぞ！"}
+{"id":"guide_words:12902116116923648","locale":"jp","text":"ここでキボの元素属性、戦闘での役割、それに特性を確認できるぞ！"}
+{"id":"guide_words:12902116116923904","locale":"jp","text":"ここでキボの元素属性、戦闘での役割、それに特性を確認できるぞ！"}
+{"id":"guide_words:12902120411890688","locale":"jp","text":"戦闘タイプを見れば、キボの役割をすぐに見分けることができる。"}
+{"id":"guide_words:12902120411890944","locale":"jp","text":"戦闘タイプを見れば、キボの役割をすぐに見分けることができる。"}
+{"id":"guide_words:12902120411891200","locale":"jp","text":"戦闘タイプを見れば、キボの役割をすぐに見分けることができる。"}
+{"id":"guide_words:12902124706857984","locale":"jp","text":"ここでキボのステータスと潜在能力評価もわかるのだ。"}
+{"id":"guide_words:12902124706858240","locale":"jp","text":"ここでキボのステータスと潜在能力評価もわかるのだ。"}
+{"id":"guide_words:12902124706858496","locale":"jp","text":"ここでキボのステータスと潜在能力評価もわかるのだ。"}
+{"id":"guide_words:12902129001825280","locale":"jp","text":"潜在能力評価が高いほど、育てる価値が高い。"}
+{"id":"guide_words:12902129001825536","locale":"jp","text":"潜在能力評価が高いほど、育てる価値が高い。"}
+{"id":"guide_words:12902129001825792","locale":"jp","text":"潜在能力評価が高いほど、育てる価値が高い。"}
+{"id":"guide_words:12902133296792576","locale":"jp","text":"キボのスキルはここに表示される。"}
+{"id":"guide_words:12902133296792832","locale":"jp","text":"キボのスキルはここに表示される。"}
+{"id":"guide_words:12902133296793088","locale":"jp","text":"キボのスキルはここに表示される。"}
+{"id":"guide_words:12902137591759872","locale":"jp","text":"押すとそれぞれのスキルの詳細を確認できるのだ。"}
+{"id":"guide_words:12902137591760128","locale":"jp","text":"押すとそれぞれのスキルの詳細を確認できるのだ。"}
+{"id":"guide_words:12902137591760384","locale":"jp","text":"押すとそれぞれのスキルの詳細を確認できるのだ。"}
+{"id":"guide_words:12902141886727168","locale":"jp","text":"ここにはキボが持つ因子が表示されるぞ。"}
+{"id":"guide_words:12902141886727424","locale":"jp","text":"ここにはキボが持つ因子が表示されるぞ。"}
+{"id":"guide_words:12902141886727680","locale":"jp","text":"ここにはキボが持つ因子が表示されるぞ。"}
+{"id":"guide_words:12902146181694464","locale":"jp","text":"各因子はそのキボの持つ特殊な能力を表してるのだ。"}
+{"id":"guide_words:12902146181694720","locale":"jp","text":"各因子はそのキボの持つ特殊な能力を表してるのだ。"}
+{"id":"guide_words:12902146181694976","locale":"jp","text":"各因子はそのキボの持つ特殊な能力を表してるのだ。"}
+{"id":"guide_words:12902150476661760","locale":"jp","text":"因子のランクが高いほど、能力も強くなる！"}
+{"id":"guide_words:12902150476662016","locale":"jp","text":"因子のランクが高いほど、能力も強くなる！"}
+{"id":"guide_words:12902150476662272","locale":"jp","text":"因子のランクが高いほど、能力も強くなる！"}
+{"id":"guide_words:12902154771629056","locale":"jp","text":"キボはそれぞれ固有の先天因子を持ってるぞ。"}
+{"id":"guide_words:12902154771629312","locale":"jp","text":"キボはそれぞれ固有の先天因子を持ってるぞ。"}
+{"id":"guide_words:12902154771629568","locale":"jp","text":"キボはそれぞれ固有の先天因子を持ってるぞ。"}
+{"id":"guide_words:12902159066596352","locale":"jp","text":"いろんなキボと星絆を結んで、自分にぴったりのパートナーを見つけよう！"}
+{"id":"guide_words:12902159066596608","locale":"jp","text":"いろんなキボと星絆を結んで、自分にぴったりのパートナーを見つけよう！"}
+{"id":"guide_words:12902159066596864","locale":"jp","text":"いろんなキボと星絆を結んで、自分にぴったりのパートナーを見つけよう！"}
+{"id":"guide_words:12902163361563648","locale":"jp","text":"<color={highlight}>キボ</color>を選択"}
+{"id":"guide_words:12902163361563904","locale":"jp","text":"<color={highlight}>キボ</color>を選択"}
+{"id":"guide_words:12902163361564160","locale":"jp","text":"<color={highlight}>キボ</color>を選択"}
+{"id":"guide_words:12902167656530944","locale":"jp","text":"キボはそれぞれ資質に違いがあるのだ。<color={highlight}>資質が高い</color>キボは特別なマークを持ってるぞ！"}
+{"id":"guide_words:12902167656531200","locale":"jp","text":"キボはそれぞれ資質に違いがあるのだ。<color={highlight}>資質が高い</color>キボは特別なマークを持ってるぞ！"}
+{"id":"guide_words:12902167656531456","locale":"jp","text":"キボはそれぞれ資質に違いがあるのだ。<color={highlight}>資質が高い</color>キボは特別なマークを持ってるぞ！"}
+{"id":"guide_words:12902945045611520","locale":"jp","text":"ジャンプ中にもう一度<actionkey>MainInput/MainJump</actionkey> を押すと、<color={highlight}>2段ジャンプ</color>できます。"}
+{"id":"guide_words:12902945045611776","locale":"jp","text":"ジャンプ中にもう一度ジャンプボタンを押すと<color={highlight}>二段ジャンプ</color>できます。"}
+{"id":"guide_words:12902945045612032","locale":"jp","text":"ジャンプ中にもう一度<actionkey>MainInput/MainJump</actionkey> を押すと、<color={highlight}>2段ジャンプ</color>できます。"}
+{"id":"guide_words:12903804039070720","locale":"jp","text":"<color={highlight}>特殊なステラカード</color>のレシピをタップ"}
+{"id":"guide_words:12903804039070976","locale":"jp","text":"<color={highlight}>特殊なステラカード</color>のレシピをタップ"}
+{"id":"guide_words:12903804039071232","locale":"jp","text":"<color={highlight}>特殊なステラカード</color>のレシピをタップ"}
+{"id":"guide_words:12903808334038016","locale":"jp","text":"<color={highlight}>MAX</color>ボタンをタップ"}
+{"id":"guide_words:12903808334038272","locale":"jp","text":"<color={highlight}>MAX</color>ボタンをタップ"}
+{"id":"guide_words:12903808334038528","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R2</actionkey> で数量を<color={highlight}>MAX</color>に調整"}
+{"id":"guide_words:12903812629005312","locale":"jp","text":"<color={highlight}>生産開始</color>ボタンをタップ"}
+{"id":"guide_words:12903812629005568","locale":"jp","text":"<color={highlight}>生産開始</color>ボタンをタップ"}
+{"id":"guide_words:12903812629005824","locale":"jp","text":"<color={highlight}>生産開始</color>ボタンをタップ"}
+{"id":"guide_words:12904233535800320","locale":"jp","text":"ステータスはここで確認。みんな唯一無二の能力を持ってるのだ。"}
+{"id":"guide_words:12904233535800576","locale":"jp","text":"ステータスはここで確認。みんな唯一無二の能力を持ってるのだ。"}
+{"id":"guide_words:12904233535800832","locale":"jp","text":"ステータスはここで確認。みんな唯一無二の能力を持ってるのだ。"}
+{"id":"guide_words:12904237830767616","locale":"jp","text":"キボの遺伝子はここ！キボの能力の高さは、遺伝子で決まると言っても過言じゃない！"}
+{"id":"guide_words:12904237830767872","locale":"jp","text":"キボの遺伝子はここ！キボの能力の高さは、遺伝子で決まると言っても過言じゃない！"}
+{"id":"guide_words:12904237830768128","locale":"jp","text":"キボの遺伝子はここ！キボの能力の高さは、遺伝子で決まると言っても過言じゃない！"}
+{"id":"guide_words:12904242125734912","locale":"jp","text":"おっ、キボの戦闘力が見えたぞ！この数字でキボの強さがだいたいわかるのだ。"}
+{"id":"guide_words:12904242125735168","locale":"jp","text":"おっ、キボの戦闘力が見えたぞ！この数字でキボの強さがだいたいわかるのだ。"}
+{"id":"guide_words:12904242125735424","locale":"jp","text":"おっ、キボの戦闘力が見えたぞ！この数字でキボの強さがだいたいわかるのだ。"}
+{"id":"guide_words:12904246420702208","locale":"jp","text":"空白部分を押して、さきに進むのだ！"}
+{"id":"guide_words:12904246420702464","locale":"jp","text":"空白部分を押して、さきに進むのだ！"}
+{"id":"guide_words:12904246420702720","locale":"jp","text":"先へ進みましょう。"}
+{"id":"guide_words:12904663032529920","locale":"jp","text":"<color={highlight}>マウントおやつ袋</color>ボタンを押してください。"}
+{"id":"guide_words:12904663032530176","locale":"jp","text":"<color={highlight}>マウントおやつ袋</color>ボタンを押してください。"}
+{"id":"guide_words:12904663032530432","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_North</actionkey> を押して<color={highlight}>マウントおやつ袋</color>を開く"}
+{"id":"guide_words:12904667327497216","locale":"jp","text":"<color={highlight}>一括追加</color>ボタンを押す"}
+{"id":"guide_words:12904667327497472","locale":"jp","text":"<color={highlight}>一括追加</color>ボタンを押す"}
+{"id":"guide_words:12904667327497728","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>一括追加</color>"}
+{"id":"guide_words:12905522025989120","locale":"jp","text":"星脈ノードを起動すると、マップ上の対応するエリアの<color={highlight}>霧</color>が<color={highlight}>晴れる</color>のだ！"}
+{"id":"guide_words:12905522025989376","locale":"jp","text":"星脈ノードを起動すると、マップ上の対応するエリアの<color={highlight}>霧</color>が<color={highlight}>晴れる</color>のだ！"}
+{"id":"guide_words:12905522025989632","locale":"jp","text":"星脈ノードを起動すると、マップ上の対応するエリアの<color={highlight}>霧</color>が<color={highlight}>晴れる</color>のだ！"}
+{"id":"guide_words:12905526320956416","locale":"jp","text":"迷霧の下にはおもしろいものがたくさん隠されてるぞ。\n冒険を楽しもう！"}
+{"id":"guide_words:12905526320956672","locale":"jp","text":"迷霧の下にはおもしろいものがたくさん隠されてるぞ。\n冒険を楽しもう！"}
+{"id":"guide_words:12905526320956928","locale":"jp","text":"迷霧の下にはおもしろいものがたくさん隠されてるぞ。\n冒険を楽しもう！"}
+{"id":"guide_words:12905530615923712","locale":"jp","text":"ここから、<color={highlight}>キボファイトトレーナー</color>をすぐに探せるのだ！"}
+{"id":"guide_words:12905530615923968","locale":"jp","text":"ここから、<color={highlight}>キボファイトトレーナー</color>をすぐに探せるのだ！"}
+{"id":"guide_words:12905530615924224","locale":"jp","text":"ここから、<color={highlight}>キボファイトトレーナー</color>をすぐに探せるのだ！"}
+{"id":"guide_words:12905534910891008","locale":"jp","text":"ここを押して<color={highlight}>エリア探索度</color>を確認！"}
+{"id":"guide_words:12905534910891264","locale":"jp","text":"<color={highlight}>エリア探索度</color>を押して開く"}
+{"id":"guide_words:12905534910891520","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_DpadDown</actionkey> で<color={highlight}>エリア探索度</color>を開く"}
+{"id":"guide_words:12905539205858304","locale":"jp","text":"各エリアには<color={highlight}>探索度</color>が設定されてる。"}
+{"id":"guide_words:12905539205858560","locale":"jp","text":"各エリアには<color={highlight}>探索度</color>が設定されてる。"}
+{"id":"guide_words:12905539205858816","locale":"jp","text":"各エリアには<color={highlight}>探索度</color>が設定されてる。"}
+{"id":"guide_words:12905543500825600","locale":"jp","text":"探索コンテンツをクリアすると、対応するエリアの探索度が上昇するぞ！"}
+{"id":"guide_words:12905543500825856","locale":"jp","text":"探索コンテンツをクリアすると、対応するエリアの探索度が上昇するぞ！"}
+{"id":"guide_words:12905543500826112","locale":"jp","text":"探索コンテンツをクリアすると、対応するエリアの探索度が上昇するぞ！"}
+{"id":"guide_words:12905547795792896","locale":"jp","text":"ちなみに、探索度を上げる一番簡単な方法は、<color={highlight}>そのエリアのキボとスターリンクをする</color>こと！"}
+{"id":"guide_words:12905547795793152","locale":"jp","text":"ちなみに、探索度を上げる一番簡単な方法は、<color={highlight}>そのエリアのキボとスターリンクをする</color>こと！"}
+{"id":"guide_words:12905547795793408","locale":"jp","text":"ちなみに、探索度を上げる一番簡単な方法は、<color={highlight}>そのエリアのキボとスターリンクをする</color>こと！"}
+{"id":"guide_words:12905552090760192","locale":"jp","text":"押して<color={highlight}>探索度報酬</color>を確認！"}
+{"id":"guide_words:12905552090760448","locale":"jp","text":"押して<color={highlight}>探索度報酬</color>を確認！"}
+{"id":"guide_words:12905552090760704","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>探索度報酬</color>を確認できます。"}
+{"id":"guide_words:12905556385727488","locale":"jp","text":"各エリアの探索を完了させると、<color={highlight}>マップ探索レベル経験値</color>を蓄積できる！"}
+{"id":"guide_words:12905556385727744","locale":"jp","text":"各エリアの探索を完了させると、<color={highlight}>マップ探索レベル経験値</color>を蓄積できる！"}
+{"id":"guide_words:12905556385728000","locale":"jp","text":"各エリアの探索を完了させると、<color={highlight}>マップ探索レベル経験値</color>を蓄積できる！"}
+{"id":"guide_words:12905560680694784","locale":"jp","text":"決まったレベルに達すると、対応するマップレベルの<color={highlight}>探索度報酬</color>を受け取れるのだ！"}
+{"id":"guide_words:12905560680695040","locale":"jp","text":"決まったレベルに達すると、対応するマップレベルの<color={highlight}>探索度報酬</color>を受け取れるのだ！"}
+{"id":"guide_words:12905560680695296","locale":"jp","text":"決まったレベルに達すると、対応するマップレベルの<color={highlight}>探索度報酬</color>を受け取れるのだ！"}
+{"id":"guide_words:12905564975662080","locale":"jp","text":"探索度を上げると、豪華な報酬が得られるだけじゃなく、<color={highlight}>マップの飛行を解放する</color>こともできるぞ！"}
+{"id":"guide_words:12905564975662336","locale":"jp","text":"探索度を上げると、豪華な報酬が得られるだけじゃなく、<color={highlight}>マップの飛行を解放する</color>こともできるぞ！"}
+{"id":"guide_words:12905564975662592","locale":"jp","text":"探索度を上げると、豪華な報酬が得られるだけじゃなく、<color={highlight}>マップの飛行を解放する</color>こともできるぞ！"}
+{"id":"guide_words:12905569270629376","locale":"jp","text":"楽しみなのだ～\nさっそく試してみよう！"}
+{"id":"guide_words:12905569270629632","locale":"jp","text":"楽しみなのだ～\nさっそく試してみよう！"}
+{"id":"guide_words:12905569270629888","locale":"jp","text":"楽しみなのだ～\nさっそく試してみよう！"}
+{"id":"guide_words:12905951522718720","locale":"jp","text":"<actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold>を長押しすると、キボグリッドを呼び出せます。"}
+{"id":"guide_words:12905951522718976","locale":"jp","text":"<color={highlight}>タップ</color>でキボグリッドを呼び出します"}
+{"id":"guide_words:12905951522719232","locale":"jp","text":"<actionkey>MainInput/MainPetSkillRoulette</actionkey> で、キボグリッドを呼び出せます。"}
+{"id":"guide_words:12905955817686016","locale":"jp","text":"<actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold>を長押しするとキボグリッドを表示できます。"}
+{"id":"guide_words:12905955817686272","locale":"jp","text":"<color={highlight}>タップ</color>でキボグリッドを呼び出します"}
+{"id":"guide_words:12905955817686528","locale":"jp","text":"<actionkey>MainInput/MainPetSkillRoulette</actionkey> でキボグリッドを呼び出せます。"}
+{"id":"guide_words:12906381019448320","locale":"jp","text":"<color={highlight}>ポポクッキー</color>のレシピを押す"}
+{"id":"guide_words:12906381019448576","locale":"jp","text":"<color={highlight}>ポポクッキー</color>のレシピを押す"}
+{"id":"guide_words:12906381019448832","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ポポクッキー</color>のレシピを選択"}
+{"id":"guide_words:12906385314415616","locale":"jp","text":"ポポクッキーを作ってみよう〜"}
+{"id":"guide_words:12906385314415872","locale":"jp","text":"ポポクッキーを作ってみよう〜"}
+{"id":"guide_words:12906385314416128","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> でポポクッキーを作ってみましょう！"}
+{"id":"guide_words:12907240012907520","locale":"jp","text":"ボス、特異体、幻域獣は警戒心が高いです。"}
+{"id":"guide_words:12907240012907776","locale":"jp","text":"ボス、特異体、幻域獣は警戒心が高いです。"}
+{"id":"guide_words:12907240012908032","locale":"jp","text":"ボス、特異体、幻域獣は警戒心が高いです。"}
+{"id":"guide_words:12907244307874816","locale":"jp","text":"<color={highlight}>星絆</color>を結ぶには、<color={highlight}>HPを一定量まで減らす</color>必要があります。"}
+{"id":"guide_words:12907244307875072","locale":"jp","text":"<color={highlight}>星絆</color>を結ぶには、<color={highlight}>HPを一定量まで減らす</color>必要があります。"}
+{"id":"guide_words:12907244307875328","locale":"jp","text":"<color={highlight}>星絆</color>を結ぶには、<color={highlight}>HPを一定量まで減らす</color>必要があります。"}
+{"id":"guide_words:12907669509637120","locale":"jp","text":"エリアクエストには、日常的に挑戦できる依頼がいっぱい用意されてるぞ！"}
+{"id":"guide_words:12907669509637376","locale":"jp","text":"エリアクエストには、日常的に挑戦できる依頼がいっぱい用意されてるぞ！"}
+{"id":"guide_words:12907669509637632","locale":"jp","text":"エリアクエストには、日常的に挑戦できる依頼がいっぱい用意されてるぞ！"}
+{"id":"guide_words:12907673804604416","locale":"jp","text":"ここでは、入門訓練で<color={highlight}>戦闘の基本操作</color>を学ぶことができるんだ。"}
+{"id":"guide_words:12907673804604672","locale":"jp","text":"ここでは、入門訓練で<color={highlight}>戦闘の基本操作</color>を学ぶことができるんだ。"}
+{"id":"guide_words:12907673804604928","locale":"jp","text":"ここでは、入門訓練で<color={highlight}>戦闘の基本操作</color>を学ぶことができるんだ。"}
+{"id":"guide_words:12907678099571712","locale":"jp","text":"つぎは<color={highlight}>メインストーリー依頼</color>を開いて、挑戦してみよう。"}
+{"id":"guide_words:12907678099571968","locale":"jp","text":"つぎは<color={highlight}>メインストーリー依頼</color>を開いて、挑戦してみよう。"}
+{"id":"guide_words:12907678099572224","locale":"jp","text":"つぎは<color={highlight}>メインストーリー依頼</color>を開いて、挑戦してみよう。"}
+{"id":"guide_words:12907682394539008","locale":"jp","text":"<color={highlight}>メインストーリー依頼</color>を押してください"}
+{"id":"guide_words:12907682394539264","locale":"jp","text":"<color={highlight}>メインストーリー依頼</color>を押してください"}
+{"id":"guide_words:12907682394539520","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>メインストーリー依頼</color>を選択"}
+{"id":"guide_words:12907686689506304","locale":"jp","text":"<color={highlight}>依頼を開始</color>を押してください"}
+{"id":"guide_words:12907686689506560","locale":"jp","text":"<color={highlight}>依頼を開始</color>を押してください"}
+{"id":"guide_words:12907686689506816","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>依頼を開始</color>"}
+{"id":"guide_words:12907690984473600","locale":"jp","text":"依頼の情報と報酬内容を確認！"}
+{"id":"guide_words:12907690984473856","locale":"jp","text":"依頼の情報と報酬内容を確認！"}
+{"id":"guide_words:12907690984474112","locale":"jp","text":"依頼の情報と報酬内容を確認！"}
+{"id":"guide_words:12907695279440896","locale":"jp","text":"<color={highlight}>依頼を開始</color>を押してください"}
+{"id":"guide_words:12907695279441152","locale":"jp","text":"<color={highlight}>依頼を開始</color>を押してください"}
+{"id":"guide_words:12907695279441408","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>依頼開始</color>"}
+{"id":"guide_words:12908099006366720","locale":"jp","text":"<color={highlight}>モード選択</color>ボタンを押してください"}
+{"id":"guide_words:12908099006366976","locale":"jp","text":"<color={highlight}>モード選択</color>ボタンを押してください"}
+{"id":"guide_words:12908099006367232","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R3_Long</actionkey> 長押しで<color={highlight}>モード選択</color>を開く"}
+{"id":"guide_words:12908103301334016","locale":"jp","text":"マルチモードが解放されたのだ！"}
+{"id":"guide_words:12908103301334272","locale":"jp","text":"マルチモードが解放されたのだ！"}
+{"id":"guide_words:12908103301334528","locale":"jp","text":"マルチモードが解放されたのだ！"}
+{"id":"guide_words:12908107596301312","locale":"jp","text":"<color={highlight}>「シングルモード」</color>では、自分の冒険に没頭しながらプロミリアの旅を進めることができる。"}
+{"id":"guide_words:12908107596301568","locale":"jp","text":"<color={highlight}>「シングルモード」</color>では、自分の冒険に没頭しながらプロミリアの旅を進めることができる。"}
+{"id":"guide_words:12908107596301824","locale":"jp","text":"<color={highlight}>「シングルモード」</color>では、自分の冒険に没頭しながらプロミリアの旅を進めることができる。"}
+{"id":"guide_words:12908111891268608","locale":"jp","text":"<color={highlight}>「マルチモード」</color>を押してみよう！"}
+{"id":"guide_words:12908111891268864","locale":"jp","text":"<color={highlight}>「マルチモード」</color>を押してみよう！"}
+{"id":"guide_words:12908111891269120","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_NavigateRight</actionkey> で<color={highlight}>「マルチモード」</color>を選択してみましょう！"}
+{"id":"guide_words:12908116186235904","locale":"jp","text":"<color={highlight}>「マルチモード」</color>をオンにすると、ほかのプレイヤーと出会えるようになるのだ。プロミリア大陸で仲間を作り、探索と冒険の楽しさを分かち合うことができる！"}
+{"id":"guide_words:12908116186236160","locale":"jp","text":"<color={highlight}>「マルチモード」</color>をオンにすると、ほかのプレイヤーと出会えるようになるのだ。プロミリア大陸で仲間を作り、探索と冒険の楽しさを分かち合うことができる！"}
+{"id":"guide_words:12908116186236416","locale":"jp","text":"<color={highlight}>「マルチモード」</color>をオンにすると、ほかのプレイヤーと出会えるようになるのだ。プロミリア大陸で仲間を作り、探索と冒険の楽しさを分かち合うことができる！"}
+{"id":"guide_words:12908120481203200","locale":"jp","text":"好みのゲームモードを選んで、自分だけの旅をはじめよう！"}
+{"id":"guide_words:12908120481203456","locale":"jp","text":"好みのゲームモードを選んで、自分だけの旅をはじめよう！"}
+{"id":"guide_words:12908120481203712","locale":"jp","text":"好みのゲームモードを選んで、自分だけの旅をはじめよう！"}
+{"id":"guide_words:12908528503096320","locale":"jp","text":"<color={highlight}>共鳴の石台のレシピ</color>を選択"}
+{"id":"guide_words:12908528503096576","locale":"jp","text":"<color={highlight}>共鳴の石台のレシピ</color>を選択"}
+{"id":"guide_words:12908528503096832","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>共鳴の石台のレシピ</color>を選択"}
+{"id":"guide_words:12908532798063616","locale":"jp","text":"<color={highlight}>生産開始</color>を押してください"}
+{"id":"guide_words:12908532798063872","locale":"jp","text":"<color={highlight}>生産開始</color>を押してください"}
+{"id":"guide_words:12908532798064128","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> を使って<color={highlight}>生産開始</color>"}
+{"id":"guide_words:12908537093030912","locale":"jp","text":"<color={highlight}>生産完了</color>までお待ちください。"}
+{"id":"guide_words:12908537093031168","locale":"jp","text":"<color={highlight}>生産完了</color>までお待ちください。"}
+{"id":"guide_words:12908537093031424","locale":"jp","text":"<color={highlight}>生産完了</color>までお待ちください。"}
+{"id":"guide_words:12908541387998208","locale":"jp","text":"<color={highlight}>共鳴の石台</color>を受け取る"}
+{"id":"guide_words:12908541387998464","locale":"jp","text":"<color={highlight}>共鳴の石台</color>を受け取る"}
+{"id":"guide_words:12908541387998720","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>共鳴の石台</color>を受け取る"}
+{"id":"guide_words:12908957999825920","locale":"jp","text":"<color={highlight}>キボ管理</color>ボタンを押す"}
+{"id":"guide_words:12908957999826176","locale":"jp","text":"<color={highlight}>キボ管理</color>ボタンを押す"}
+{"id":"guide_words:12908957999826432","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボ管理</color>を開く"}
+{"id":"guide_words:12908962294793216","locale":"jp","text":"<color={highlight}>伐採の才能</color>を持つキボを派遣しよう"}
+{"id":"guide_words:12908962294793472","locale":"jp","text":"<color={highlight}>伐採の才能</color>を持つキボを派遣しよう"}
+{"id":"guide_words:12908962294793728","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>伐採の才能</color>を持つキボを派遣しよう"}
+{"id":"guide_words:12908966589760512","locale":"jp","text":"<color={highlight}>農園本部</color>ボタンを押してください"}
+{"id":"guide_words:12908966589760768","locale":"jp","text":"<color={highlight}>農園本部</color>ボタンを押してください"}
+{"id":"guide_words:12908966589761024","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>農園本部</color>を開く"}
+{"id":"guide_words:12909816993285120","locale":"jp","text":"<color={highlight}>金麦の種</color>を選択"}
+{"id":"guide_words:12909816993285376","locale":"jp","text":"<color={highlight}>金麦の種</color>を選択"}
+{"id":"guide_words:12909816993285632","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>金麦の種</color>を選択"}
+{"id":"guide_words:12909821288252416","locale":"jp","text":"<color={highlight}>MAX</color>を押してください"}
+{"id":"guide_words:12909821288252672","locale":"jp","text":"<color={highlight}>MAX</color>を押してください"}
+{"id":"guide_words:12909821288252928","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R2</actionkey> で<color={highlight}>MAX</color>にします"}
+{"id":"guide_words:12909825583219712","locale":"jp","text":"<color={highlight}>すべて購入</color>を押してください"}
+{"id":"guide_words:12909825583219968","locale":"jp","text":"<color={highlight}>すべて購入</color>を押してください"}
+{"id":"guide_words:12909825583220224","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>すべて購入</color>"}
+{"id":"guide_words:12910246490014720","locale":"jp","text":"ヘルプには、ゲームプレイ中に確認したチュートリアルが記録されていくのだ。"}
+{"id":"guide_words:12910246490014976","locale":"jp","text":"冒険中に見たチュートリアルは、ヘルプ一覧に記録されていくのだ。"}
+{"id":"guide_words:12910246490015232","locale":"jp","text":"ヘルプには、ゲームプレイ中に確認したチュートリアルが記録されていくのだ。"}
+{"id":"guide_words:12910250784982016","locale":"jp","text":"タブごとに分類されるから、知りたい情報もすぐに見つかるぞ。"}
+{"id":"guide_words:12910250784982272","locale":"jp","text":"タブごとに分類されるから、知りたい情報もすぐに見つかるぞ。"}
+{"id":"guide_words:12910250784982528","locale":"jp","text":"タブごとに分類されるから、知りたい情報もすぐに見つかるぞ。"}
+{"id":"guide_words:12910255079949312","locale":"jp","text":"検索を使えば、ピンポイントに調べることだってできる！"}
+{"id":"guide_words:12910255079949568","locale":"jp","text":"検索を使えば、ピンポイントに調べることだってできる！"}
+{"id":"guide_words:12910255079949824","locale":"jp","text":"検索を使えば、ピンポイントに調べることだってできる！"}
+{"id":"guide_words:12911105483473920","locale":"jp","text":"<color={highlight}>日渡の塵影</color>ボタンを押してください"}
+{"id":"guide_words:12911105483474176","locale":"jp","text":"<color={highlight}>日渡の塵影</color>ボタンを押してください"}
+{"id":"guide_words:12911105483474432","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>天道の余塵</color>を開く"}
+{"id":"guide_words:12916688940958720","locale":"jp","text":"<color={highlight}>工業</color>ボタンを押してください"}
+{"id":"guide_words:12916688940958976","locale":"jp","text":"<color={highlight}>工業</color>ボタンを押してください"}
+{"id":"guide_words:12916688940959232","locale":"jp","text":"<color={highlight}>工業</color>ボタンを押してください"}
+{"id":"guide_words:12917122732655616","locale":"jp","text":"デイリークエスト……達成すると、報酬もらえる。"}
+{"id":"guide_words:12917122732655872","locale":"jp","text":"デイリークエスト……達成すると、報酬もらえる。"}
+{"id":"guide_words:12917122732656128","locale":"jp","text":"デイリークエスト……達成すると、報酬もらえる。"}
+{"id":"guide_words:12917127027622912","locale":"jp","text":"<color={highlight}>週間活躍度</color>を押してください"}
+{"id":"guide_words:12917127027623168","locale":"jp","text":"<color={highlight}>週間活躍度</color>を押してください"}
+{"id":"guide_words:12917127027623424","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>週間活躍度</color>を切り替える"}
+{"id":"guide_words:12917131322590208","locale":"jp","text":"ウィークリークエストは、報酬もっと豪華になる……"}
+{"id":"guide_words:12917131322590464","locale":"jp","text":"ウィークリークエストは、報酬もっと豪華になる……"}
+{"id":"guide_words:12917131322590720","locale":"jp","text":"ウィークリークエストは、報酬もっと豪華になる……"}
+{"id":"guide_words:12917547934417920","locale":"jp","text":"<color={highlight}>アニマ</color>>は、この世界に存在する『情報』が具現化したものなのだ。"}
+{"id":"guide_words:12917547934418176","locale":"jp","text":"<color={highlight}>アニマ</color>>は、この世界に存在する『情報』が具現化したものなのだ。"}
+{"id":"guide_words:12917547934418432","locale":"jp","text":"<color={highlight}>アニマ</color>>は、この世界に存在する『情報』が具現化したものなのだ。"}
+{"id":"guide_words:12917552229385216","locale":"jp","text":"この「情報」は、時間や空間の制約を受けない。"}
+{"id":"guide_words:12917552229385472","locale":"jp","text":"この「情報」は、時間や空間の制約を受けない。"}
+{"id":"guide_words:12917552229385728","locale":"jp","text":"この「情報」は、時間や空間の制約を受けない。"}
+{"id":"guide_words:12917556524352512","locale":"jp","text":"アニマを装備することで、ステータスもアップするぞ！"}
+{"id":"guide_words:12917556524352768","locale":"jp","text":"アニマを装備することで、ステータスもアップするぞ！"}
+{"id":"guide_words:12917556524353024","locale":"jp","text":"アニマを装備することで、ステータスもアップするぞ！"}
+{"id":"guide_words:12917560819319808","locale":"jp","text":"装備者の<color={highlight}>ロール</color>がアニマと一致すると、アニマに付与された<color={highlight}>特殊能力</color>も解放されるのだ！"}
+{"id":"guide_words:12917560819320064","locale":"jp","text":"装備者の<color={highlight}>ロール</color>がアニマと一致すると、アニマに付与された<color={highlight}>特殊能力</color>も解放されるのだ！"}
+{"id":"guide_words:12917560819320320","locale":"jp","text":"装備者の<color={highlight}>ロール</color>がアニマと一致すると、アニマに付与された<color={highlight}>特殊能力</color>も解放されるのだ！"}
+{"id":"guide_words:12917565114287104","locale":"jp","text":"ぴったりのアニマを選んで、装備してみよう。"}
+{"id":"guide_words:12917565114287360","locale":"jp","text":"ぴったりのアニマを選んで、装備してみよう。"}
+{"id":"guide_words:12917565114287616","locale":"jp","text":"ぴったりのアニマを選んで、装備してみよう。"}
+{"id":"guide_words:12917569409254400","locale":"jp","text":"<color={highlight}>アニマ欄</color>を押して開く"}
+{"id":"guide_words:12917569409254656","locale":"jp","text":"<color={highlight}>アニマ欄</color>を押して開く"}
+{"id":"guide_words:12917569409254912","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>アニマ欄</color>を開く"}
+{"id":"guide_words:12917573704221696","locale":"jp","text":"この<color={highlight}>アニマ</color>を選択"}
+{"id":"guide_words:12917573704221952","locale":"jp","text":"この<color={highlight}>アニマ</color>を選択"}
+{"id":"guide_words:12917573704222208","locale":"jp","text":"<actionkey>UI/Submit</actionkey> でこの<color={highlight}>アニマ</color>を選択"}
+{"id":"guide_words:12917577999188992","locale":"jp","text":"<color={highlight}>装備</color>を押してください"}
+{"id":"guide_words:12917577999189248","locale":"jp","text":"<color={highlight}>装備</color>を押してください"}
+{"id":"guide_words:12917577999189504","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>装備</color>"}
+{"id":"guide_words:12917582294156288","locale":"jp","text":"<color={highlight}>強化</color>を押してください"}
+{"id":"guide_words:12917582294156544","locale":"jp","text":"<color={highlight}>強化</color>を押してください"}
+{"id":"guide_words:12917582294156800","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>強化</color>できます。"}
+{"id":"guide_words:12917586589123584","locale":"jp","text":"<color={highlight}>素材追加</color>を押してください"}
+{"id":"guide_words:12917586589123840","locale":"jp","text":"<color={highlight}>素材追加</color>を押してください"}
+{"id":"guide_words:12917586589124096","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>素材を追加</color>"}
+{"id":"guide_words:12917590884090880","locale":"jp","text":"<color={highlight}>素材強化</color>を押してください"}
+{"id":"guide_words:12917590884091136","locale":"jp","text":"<color={highlight}>素材強化</color>を押してください"}
+{"id":"guide_words:12917590884091392","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>素材を強化</color>"}
+{"id":"guide_words:12917595179058176","locale":"jp","text":"<color={highlight}>レベルアップ</color>を押すと、アニマを強化できるぞ！さっそく試してみよう！"}
+{"id":"guide_words:12917595179058432","locale":"jp","text":"<color={highlight}>レベルアップ</color>を押すと、アニマを強化できるぞ！さっそく試してみよう！"}
+{"id":"guide_words:12917595179058688","locale":"jp","text":"ここで指示に従って<color={highlight}>レベルアップ</color>すると、アニマを強化できるよ～さっそく試してみよう！"}
+{"id":"guide_words:12917977431147520","locale":"jp","text":"タップして<color={highlight}>ショートカットバッグ</color>を編集する"}
+{"id":"guide_words:12917977431147776","locale":"jp","text":"タップして<color={highlight}>ショートカットバッグ</color>を編集する"}
+{"id":"guide_words:12917977431148032","locale":"jp","text":"<actionkey>GamepadUI/PageControllerQuickRoulette_DpadUp</actionkey> で<color={highlight}>ショートカットバッグ</color>を編集"}
+{"id":"guide_words:12917981726114816","locale":"jp","text":"アイテムをクイックバッグに入れておけば、必要な時にすぐ使えるようになる！"}
+{"id":"guide_words:12917981726115072","locale":"jp","text":"アイテムをクイックバッグに入れておけば、必要な時にすぐ使えるようになる！"}
+{"id":"guide_words:12917981726115328","locale":"jp","text":"アイテムをクイックバッグに入れておけば、必要な時にすぐ使えるようになる！"}
+{"id":"guide_words:12917986021082112","locale":"jp","text":"さっそく試してみよう！"}
+{"id":"guide_words:12917986021082368","locale":"jp","text":"さっそく試してみよう！"}
+{"id":"guide_words:12917986021082624","locale":"jp","text":"さっそく試してみよう！"}
+{"id":"guide_words:12918406927877120","locale":"jp","text":"<color={highlight}>キャラクター</color>を押してください"}
+{"id":"guide_words:12918406927877376","locale":"jp","text":"<color={highlight}>キャラクター</color>を押してください"}
+{"id":"guide_words:12918406927877632","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キャラクター</color>を選択"}
+{"id":"guide_words:12918411222844416","locale":"jp","text":"<color={highlight}>入居</color>を押してください"}
+{"id":"guide_words:12918411222844672","locale":"jp","text":"<color={highlight}>入居</color>を押してください"}
+{"id":"guide_words:12918411222844928","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>入居</color>"}
+{"id":"guide_words:12918415517811712","locale":"jp","text":"<color={highlight}>訪問</color>を押してください"}
+{"id":"guide_words:12918415517811968","locale":"jp","text":"<color={highlight}>訪問</color>を押してください"}
+{"id":"guide_words:12918415517812224","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>訪問</color>"}
+{"id":"guide_words:12918419812779520","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で入居キャラクターを選択"}
+{"id":"guide_words:12918836424606720","locale":"jp","text":"寮を建設したら、<color={highlight}>家具ショップ</color>で家具を購入して、仲間たちにプレゼントできるぞ！"}
+{"id":"guide_words:12918836424606976","locale":"jp","text":"寮を建設したら、<color={highlight}>家具ショップ</color>で家具を購入して、仲間たちにプレゼントできるぞ！"}
+{"id":"guide_words:12918836424607232","locale":"jp","text":"寮を建設したら、<color={highlight}>家具ショップ</color>で家具を購入して、仲間たちにプレゼントできるぞ！"}
+{"id":"guide_words:12919695418065920","locale":"jp","text":"<color={highlight}>「輝くコイン」</color>は、農園の農産物を売却することで獲得することができますよ。"}
+{"id":"guide_words:12919695418066176","locale":"jp","text":"<color={highlight}>「輝くコイン」</color>は、農園の農産物を売却することで獲得することができますよ。"}
+{"id":"guide_words:12919695418066432","locale":"jp","text":"<color={highlight}>「輝くコイン」</color>は、農園の農産物を売却することで獲得することができますよ。"}
+{"id":"guide_words:12919699713033216","locale":"jp","text":"<color={highlight}>毎日一部の商品が値上がり</color>します。価格を確認して、売却のタイミングを見極めましょう！"}
+{"id":"guide_words:12919699713033472","locale":"jp","text":"<color={highlight}>毎日一部の商品が値上がり</color>します。価格を確認して、売却のタイミングを見極めましょう！"}
+{"id":"guide_words:12919699713033728","locale":"jp","text":"<color={highlight}>毎日一部の商品が値上がり</color>します。価格を確認して、売却のタイミングを見極めましょう！"}
+{"id":"guide_words:12919704008000512","locale":"jp","text":"今回の商品はこちらで用意してあります。売却して<color={highlight}>「輝くコイン」</color>を獲得してみましょう！"}
+{"id":"guide_words:12919704008000768","locale":"jp","text":"今回の商品はこちらで用意してあります。売却して<color={highlight}>「輝くコイン」</color>を獲得してみましょう！"}
+{"id":"guide_words:12919704008001024","locale":"jp","text":"今回の商品はこちらで用意してあります。売却して<color={highlight}>「輝くコイン」</color>を獲得してみましょう！"}
+{"id":"guide_words:12919708302967808","locale":"jp","text":"ちょうどこの商品が<color={highlight}>値上がり</color>していますね。売却して、「輝くコイン」を集めましょう！"}
+{"id":"guide_words:12919708302968064","locale":"jp","text":"ちょうどこの商品が<color={highlight}>値上がり</color>していますね。売却して、「輝くコイン」を集めましょう！"}
+{"id":"guide_words:12919708302968320","locale":"jp","text":"ちょうどこれらの貨物が<color={highlight}>値上がり</color>しています。<actionkey>GamepadUI/GamepadUI_North</actionkey> で急いで売却し、「輝くコイン」をたくさん稼ぎましょう！"}
+{"id":"guide_words:12919712597935104","locale":"jp","text":"<color={highlight}>確認</color>ボタンを押してください"}
+{"id":"guide_words:12919712597935360","locale":"jp","text":"<color={highlight}>確認</color>ボタンを押してください"}
+{"id":"guide_words:12919712597935616","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>確認</color>"}
+{"id":"guide_words:12919716892902400","locale":"jp","text":"つぎは<color={highlight}>オーダーボード</color>を見てみましょう！"}
+{"id":"guide_words:12919716892902656","locale":"jp","text":"つぎは<color={highlight}>オーダーボード</color>を見てみましょう！"}
+{"id":"guide_words:12919716892902912","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> を押して、次は<color={highlight}>オーダーボード</color>を見てみましょう！"}
+{"id":"guide_words:12919721187869696","locale":"jp","text":"<color={highlight}>上昇率順に並べ替え</color>を押してください。"}
+{"id":"guide_words:12919721187869952","locale":"jp","text":"<color={highlight}>上昇率順に並べ替え</color>を押してください。"}
+{"id":"guide_words:12919721187870208","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>値上がり幅順に並べ替え</color>"}
+{"id":"guide_words:12919725482837504","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_L3</actionkey> で値上がり幅の並べ替え方式を選択"}
+{"id":"guide_words:12919729777804800","locale":"jp","text":"<actionkey>UI/Cancel</actionkey> でバッグに戻る"}
+{"id":"guide_words:12920124914795520","locale":"jp","text":"<color={highlight}>危機討伐</color>を押してください"}
+{"id":"guide_words:12920124914795776","locale":"jp","text":"<color={highlight}>危機討伐</color>を押してください"}
+{"id":"guide_words:12920124914796032","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>危機討伐</color>を開く"}
+{"id":"guide_words:12920129209762816","locale":"jp","text":"左側のリストで難易度を調整すると、いろんな難易度の依頼クエストを受けることができるぞ！"}
+{"id":"guide_words:12920129209763072","locale":"jp","text":"左側のリストで難易度を調整すると、いろんな難易度の依頼クエストを受けることができるぞ！"}
+{"id":"guide_words:12920129209763328","locale":"jp","text":"左側のリストで難易度を調整すると、いろんな難易度の依頼クエストを受けることができるぞ！"}
+{"id":"guide_words:12920133504730112","locale":"jp","text":"依頼クエストと緊急委託任務の報酬を受け取るには、それぞれ<color={highlight}>晶鍵石</color>と<color={highlight}>異彩の晶鍵石</color>を消費する必要があるんだ。"}
+{"id":"guide_words:12920133504730368","locale":"jp","text":"依頼クエストと緊急委託任務の報酬を受け取るには、それぞれ<color={highlight}>晶鍵石</color>と<color={highlight}>異彩の晶鍵石</color>を消費する必要があるんだ。"}
+{"id":"guide_words:12920133504730624","locale":"jp","text":"依頼クエストと緊急委託任務の報酬を受け取るには、それぞれ<color={highlight}>晶鍵石</color>と<color={highlight}>異彩の晶鍵石</color>を消費する必要があるんだ。"}
+{"id":"guide_words:12920137799697408","locale":"jp","text":"晶鍵石は<color={highlight}>毎週月曜日に5個自動回復</color>するけど、所持<color={highlight}>上限に達すると自動回復しなくなる</color>。"}
+{"id":"guide_words:12920137799697664","locale":"jp","text":"晶鍵石は<color={highlight}>毎週月曜日に5個自動回復</color>するけど、所持<color={highlight}>上限に達すると自動回復しなくなる</color>。"}
+{"id":"guide_words:12920137799697920","locale":"jp","text":"晶鍵石は<color={highlight}>毎週月曜日に5個自動回復</color>するけど、所持<color={highlight}>上限に達すると自動回復しなくなる</color>。"}
+{"id":"guide_words:12920142094664704","locale":"jp","text":"強敵だから、仲間を誘って挑戦したほうがいいけど……"}
+{"id":"guide_words:12920142094664960","locale":"jp","text":"強敵だから、仲間を誘って挑戦したほうがいいけど……"}
+{"id":"guide_words:12920142094665216","locale":"jp","text":"強敵だから、仲間を誘って挑戦したほうがいいけど……"}
+{"id":"guide_words:12920146389632000","locale":"jp","text":"もちろん、ひとりで挑戦することもできるぞ！"}
+{"id":"guide_words:12920146389632256","locale":"jp","text":"もちろん、ひとりで挑戦することもできるぞ！"}
+{"id":"guide_words:12920146389632512","locale":"jp","text":"もちろん、ひとりで挑戦することもできるぞ！"}
+{"id":"guide_words:12924419882091520","locale":"jp","text":"ここには各エリアから集められたオーダーがあるんです。オーダーされた商品を用意できれば通常より高い報酬をもらえますよ。"}
+{"id":"guide_words:12924419882091776","locale":"jp","text":"ここには各エリアから集められたオーダーがあるんです。オーダーされた商品を用意できれば通常より高い報酬をもらえますよ。"}
+{"id":"guide_words:12924419882092032","locale":"jp","text":"ここには各エリアから集められたオーダーがあるんです。オーダーされた商品を用意できれば通常より高い報酬をもらえますよ。"}
+{"id":"guide_words:12924424177058816","locale":"jp","text":"今回はただで荷物をあげちゃいます。エリアオーダーを1件達成してみましょう！"}
+{"id":"guide_words:12924424177059072","locale":"jp","text":"今回はただで荷物をあげちゃいます。エリアオーダーを1件達成してみましょう！"}
+{"id":"guide_words:12924424177059328","locale":"jp","text":"今回はただで荷物をあげちゃいます。エリアオーダーを1件達成してみましょう！"}
+{"id":"guide_words:12924428472026112","locale":"jp","text":"次は<color={highlight}>出荷箱</color>を見てみましょう！"}
+{"id":"guide_words:12924428472026368","locale":"jp","text":"次は<color={highlight}>出荷箱</color>を見てみましょう！"}
+{"id":"guide_words:12924428472026624","locale":"jp","text":"次は<color={highlight}>出荷箱</color>を見てみましょう！"}
+{"id":"guide_words:12924845083853824","locale":"jp","text":"<actionkey>MainInput/MainOpenNoviceTask</actionkey>で<color={highlight}>星旅の記録</color>を開いてください。"}
+{"id":"guide_words:12924845083854080","locale":"jp","text":"<color={highlight}>星旅の記録</color>ボタンを押してください"}
+{"id":"guide_words:12924845083854336","locale":"jp","text":"<actionkey>GamepadUI/PageControllerQuickRoulette_DpadLeft</actionkey> で<color={highlight}>星旅の記録</color>を開く"}
+{"id":"guide_words:12924849378821120","locale":"jp","text":"星旅の記録には、この世界で生き抜く術が記されてるんだ！"}
+{"id":"guide_words:12924849378821376","locale":"jp","text":"星旅の記録には、この世界で生き抜く術が記されてるんだ！"}
+{"id":"guide_words:12924849378821632","locale":"jp","text":"星旅の記録には、この世界で生き抜く術が記されてるんだ！"}
+{"id":"guide_words:12924853673788416","locale":"jp","text":"星旅の記録クエストをクリアすると、この世界についてもっと深く知ることができる！"}
+{"id":"guide_words:12924853673788672","locale":"jp","text":"星旅の記録クエストをクリアすると、この世界についてもっと深く知ることができる！"}
+{"id":"guide_words:12924853673788928","locale":"jp","text":"星旅の記録クエストをクリアすると、この世界についてもっと深く知ることができる！"}
+{"id":"guide_words:12924857968755712","locale":"jp","text":"ここは<color={highlight}>必修クエスト</color>だぞ。"}
+{"id":"guide_words:12924857968755968","locale":"jp","text":"ここは<color={highlight}>必修クエスト</color>だぞ。"}
+{"id":"guide_words:12924857968756224","locale":"jp","text":"ここは<color={highlight}>必修クエスト</color>だぞ。"}
+{"id":"guide_words:12924862263723008","locale":"jp","text":"必修クエストをクリアしないと、旅録を進めることはできないからな！"}
+{"id":"guide_words:12924862263723264","locale":"jp","text":"必修クエストをクリアしないと、旅録を進めることはできないからな！"}
+{"id":"guide_words:12924862263723520","locale":"jp","text":"必修クエストをクリアしないと、旅録を進めることはできないからな！"}
+{"id":"guide_words:12924866558690304","locale":"jp","text":"で、こっちは<color={highlight}>選択クエスト</color>だ。"}
+{"id":"guide_words:12924866558690560","locale":"jp","text":"で、こっちは<color={highlight}>選択クエスト</color>だ。"}
+{"id":"guide_words:12924866558690816","locale":"jp","text":"で、こっちは<color={highlight}>選択クエスト</color>だ。"}
+{"id":"guide_words:12924870853657600","locale":"jp","text":"選択クエストをクリアしなくても、旅は進められるぞ。\nなにをすべきか迷ったら、覗いてみろ！"}
+{"id":"guide_words:12924870853657856","locale":"jp","text":"選択クエストをクリアしなくても、旅は進められるぞ。\nなにをすべきか迷ったら、覗いてみろ！"}
+{"id":"guide_words:12924870853658112","locale":"jp","text":"選択クエストをクリアしなくても、旅は進められるぞ。\nなにをすべきか迷ったら、覗いてみろ！"}
+{"id":"guide_words:12924875148624896","locale":"jp","text":"どの星旅の記録クエストをクリアしても、<color={highlight}>星旅ポイント</color>は獲得できる！"}
+{"id":"guide_words:12924875148625152","locale":"jp","text":"どの星旅の記録クエストをクリアしても、<color={highlight}>星旅ポイント</color>は獲得できる！"}
+{"id":"guide_words:12924875148625408","locale":"jp","text":"どの星旅の記録クエストをクリアしても、<color={highlight}>星旅ポイント</color>は獲得できる！"}
+{"id":"guide_words:12924879443592192","locale":"jp","text":"星旅ポイントが一定以上になると、豪華な報酬をもらえるぞ！"}
+{"id":"guide_words:12924879443592448","locale":"jp","text":"星旅ポイントが一定以上になると、豪華な報酬をもらえるぞ！"}
+{"id":"guide_words:12924879443592704","locale":"jp","text":"星旅ポイントが一定以上になると、豪華な報酬をもらえるぞ！"}
+{"id":"guide_words:12924883738559488","locale":"jp","text":"どうだ？やる気になってきただろ？"}
+{"id":"guide_words:12924883738559744","locale":"jp","text":"どうだ？やる気になってきただろ？"}
+{"id":"guide_words:12924883738560000","locale":"jp","text":"どうだ？やる気になってきただろ？"}
+{"id":"guide_words:12924888033526784","locale":"jp","text":"つぎは、必須クエストをひとつクリアしてみよう！"}
+{"id":"guide_words:12924888033527040","locale":"jp","text":"つぎは、必須クエストをひとつクリアしてみよう！"}
+{"id":"guide_words:12924888033527296","locale":"jp","text":"つぎは、必須クエストをひとつクリアしてみよう！"}
+{"id":"guide_words:12924892328494080","locale":"jp","text":"<color={highlight}>必修クエスト</color>を押してください"}
+{"id":"guide_words:12924892328494336","locale":"jp","text":"<color={highlight}>必修クエスト</color>を押してください"}
+{"id":"guide_words:12924892328494592","locale":"jp","text":"<color={highlight}>必修クエスト</color>を押してください"}
+{"id":"guide_words:12924896623461376","locale":"jp","text":"<color={highlight}>クエスト追跡</color>を押してください"}
+{"id":"guide_words:12924896623461632","locale":"jp","text":"<color={highlight}>クエスト追跡</color>を押してください"}
+{"id":"guide_words:12924896623461888","locale":"jp","text":"<color={highlight}>クエスト追跡</color>を押してください"}
+{"id":"guide_words:12924900918428672","locale":"jp","text":"<color={highlight}>クエストへ向かう</color>を押してください"}
+{"id":"guide_words:12924900918428928","locale":"jp","text":"<color={highlight}>クエストへ向かう</color>を押してください"}
+{"id":"guide_words:12924900918429184","locale":"jp","text":"<color={highlight}>クエストへ向かう</color>を押してください"}
+{"id":"guide_words:12926137869009920","locale":"jp","text":"<actionkey>MainInput/MainEvade</actionkey> で<color={highlight}>回避</color>できます。"}
+{"id":"guide_words:12926137869010176","locale":"jp","text":"押して<color={highlight}>回避</color>できます。"}
+{"id":"guide_words:12926137869010432","locale":"jp","text":"<actionkey>MainInput/MainEvade</actionkey> で<color={highlight}>回避</color>できます。"}
+{"id":"guide_words:12928714849387520","locale":"jp","text":"押してキボグリッドを<color={highlight}>編集</color>する"}
+{"id":"guide_words:12928714849387776","locale":"jp","text":"押してキボグリッドを<color={highlight}>編集</color>する"}
+{"id":"guide_words:12928714849388032","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> でキボグリッドを<color={highlight}>編集</color>"}
+{"id":"guide_words:12928719144354816","locale":"jp","text":"キボグリッドの<color={highlight}>一括装備</color>を押してください"}
+{"id":"guide_words:12928719144355072","locale":"jp","text":"キボグリッドの<color={highlight}>一括装備</color>を押してください"}
+{"id":"guide_words:12928719144355328","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_North</actionkey> でキボグリッドを<color={highlight}>一括装備</color>"}
+{"id":"guide_words:12928723439322112","locale":"jp","text":"<color={highlight}>閉じる</color>を押してください"}
+{"id":"guide_words:12928723439322368","locale":"jp","text":"<color={highlight}>閉じる</color>を押してください"}
+{"id":"guide_words:12928723439322624","locale":"jp","text":"<actionkey>UI/Cancel</actionkey>で<color={highlight}>閉じる</color>"}
+{"id":"guide_words:12928727734289408","locale":"jp","text":"編成完了後、<color={highlight}>キボを押す</color>と、そのまま謎解きを手伝ってもらえるのだ。"}
+{"id":"guide_words:12928727734289664","locale":"jp","text":"編成完了後、<color={highlight}>キボを押す</color>と、そのまま謎解きを手伝ってもらえるのだ。"}
+{"id":"guide_words:12928727734289920","locale":"jp","text":"編成完了後、<color={highlight}>キボを選択する</color>と、そのまま謎解きに使用できます。"}
+{"id":"guide_words:12928732029256704","locale":"jp","text":"さっそく試してみよう。"}
+{"id":"guide_words:12928732029256960","locale":"jp","text":"さっそく試してみよう。"}
+{"id":"guide_words:12928732029257216","locale":"jp","text":"さっそく試してみよう。"}
+{"id":"guide_words:12929144346117120","locale":"jp","text":"キボを編成すると、体勢ゲージに<color={highlight}>協力攻撃ポイント</color>が表示されます。"}
+{"id":"guide_words:12929144346117376","locale":"jp","text":"キボを編成すると、体勢ゲージに<color={highlight}>協力攻撃ポイント</color>が表示されます。"}
+{"id":"guide_words:12929144346117632","locale":"jp","text":"キボを編成すると、体勢ゲージに<color={highlight}>協力攻撃ポイント</color>が表示されます。"}
+{"id":"guide_words:12929148641084416","locale":"jp","text":"体勢ゲージを協力攻撃ポイントまで削ると、<color={highlight}>キボ合撃</color>が発動し、一気に<color={highlight}>体勢ゲージを大幅に削り</color>ます。"}
+{"id":"guide_words:12929148641084672","locale":"jp","text":"体勢ゲージを協力攻撃ポイントまで削ると、<color={highlight}>キボ合撃</color>が発動し、一気に<color={highlight}>体勢ゲージを大幅に削り</color>ます。"}
+{"id":"guide_words:12929148641084928","locale":"jp","text":"体勢ゲージを協力攻撃ポイントまで削ると、<color={highlight}>キボ合撃</color>が発動し、一気に<color={highlight}>体勢ゲージを大幅に削り</color>ます。"}
+{"id":"guide_words:12929573842846720","locale":"jp","text":"<color={highlight}>ゲーム内時間設定</color>ボタンを押してください"}
+{"id":"guide_words:12929573842846976","locale":"jp","text":"<color={highlight}>ゲーム内時間設定</color>ボタンを押してください"}
+{"id":"guide_words:12929573842847232","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ゲーム内時間設定</color>を開く"}
+{"id":"guide_words:12929578137814016","locale":"jp","text":"ここに<color={highlight}>現在の時間</color>が表示されてるのだ。"}
+{"id":"guide_words:12929578137814272","locale":"jp","text":"ここに<color={highlight}>現在の時間</color>が表示されてるのだ。"}
+{"id":"guide_words:12929578137814528","locale":"jp","text":"ここに<color={highlight}>現在の時間</color>が表示されてるのだ。"}
+{"id":"guide_words:12929582432781312","locale":"jp","text":"押せば、時間をさっと進められるぞ。"}
+{"id":"guide_words:12929582432781568","locale":"jp","text":"押せば、時間をさっと進められるぞ。"}
+{"id":"guide_words:12929582432781824","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> でクイックジャンプ"}
+{"id":"guide_words:12929586727748608","locale":"jp","text":"時間を調整して確定すれば、指定した時刻まで時間が進む！"}
+{"id":"guide_words:12929586727748864","locale":"jp","text":"時間を調整して確定すれば、指定した時刻まで時間が進む！"}
+{"id":"guide_words:12929586727749120","locale":"jp","text":"時間を調整して確定すれば、指定した時刻まで時間が進む！"}
+{"id":"guide_words:12929591022715904","locale":"jp","text":"便利だろう。試してみるといい。"}
+{"id":"guide_words:12929591022716160","locale":"jp","text":"便利だろう。試してみるといい。"}
+{"id":"guide_words:12929591022716416","locale":"jp","text":"便利だろう。試してみるといい。"}
+{"id":"guide_words:12931291829765120","locale":"jp","text":"異脈の星巣には、<color={highlight}>超変異因子</color>を持つ特殊なキボが棲息してるのだ！"}
+{"id":"guide_words:12931291829765376","locale":"jp","text":"異脈の星巣には、<color={highlight}>超変異因子</color>を持つ特殊なキボが棲息してるのだ！"}
+{"id":"guide_words:12931291829765632","locale":"jp","text":"異脈の星巣には、<color={highlight}>超変異因子</color>を持つ特殊なキボが棲息してるのだ！"}
+{"id":"guide_words:12931296124732416","locale":"jp","text":"一般には<color={highlight}>超変異キボ</color>と呼ばれてる。"}
+{"id":"guide_words:12931296124732672","locale":"jp","text":"一般には<color={highlight}>超変異キボ</color>と呼ばれてる。"}
+{"id":"guide_words:12931296124732928","locale":"jp","text":"一般には<color={highlight}>超変異キボ</color>と呼ばれてる。"}
+{"id":"guide_words:12931300419699712","locale":"jp","text":"強敵だから、挑戦するなら仲間を誘ったほうがいいのだ！"}
+{"id":"guide_words:12931300419699968","locale":"jp","text":"強敵だから、挑戦するなら仲間を誘ったほうがいいのだ！"}
+{"id":"guide_words:12931300419700224","locale":"jp","text":"強敵だから、挑戦するなら仲間を誘ったほうがいいのだ！"}
+{"id":"guide_words:12931304714667008","locale":"jp","text":"ここで敵の<color={highlight}>基本情報</color>が確認できるぞ。"}
+{"id":"guide_words:12931304714667264","locale":"jp","text":"ここで敵の<color={highlight}>基本情報</color>が確認できるぞ。"}
+{"id":"guide_words:12931304714667520","locale":"jp","text":"ここで敵の<color={highlight}>基本情報</color>が確認できるぞ。"}
+{"id":"guide_words:12931309009634304","locale":"jp","text":"押して詳細な<color={highlight}>敵情報</color>を確認"}
+{"id":"guide_words:12931309009634560","locale":"jp","text":"押して詳細な<color={highlight}>敵情報</color>を確認"}
+{"id":"guide_words:12931309009634816","locale":"jp","text":"押して詳細な<color={highlight}>敵情報</color>を確認"}
+{"id":"guide_words:12931313304601600","locale":"jp","text":"ここを見れば敵の詳しい情報がわかるのだ！"}
+{"id":"guide_words:12931313304601856","locale":"jp","text":"ここを見れば敵の詳しい情報がわかるのだ！"}
+{"id":"guide_words:12931313304602112","locale":"jp","text":"ここを見れば敵の詳しい情報がわかるのだ！"}
+{"id":"guide_words:12931317599568896","locale":"jp","text":"相手は強敵。挑むまえにしっかり情報を確認するのだ。"}
+{"id":"guide_words:12931317599569152","locale":"jp","text":"相手は強敵。挑むまえにしっかり情報を確認するのだ。"}
+{"id":"guide_words:12931317599569408","locale":"jp","text":"相手は強敵。挑むまえにしっかり情報を確認するのだ。"}
+{"id":"guide_words:12931321894536192","locale":"jp","text":"押して<color={highlight}>報酬プレビュー</color>を確認"}
+{"id":"guide_words:12931321894536448","locale":"jp","text":"押して<color={highlight}>報酬プレビュー</color>を確認"}
+{"id":"guide_words:12931321894536704","locale":"jp","text":"押して<color={highlight}>報酬プレビュー</color>を確認"}
+{"id":"guide_words:12931326189503488","locale":"jp","text":"ここには、いま挑戦中の超変異キボが確率でドロップする超変異因子が記録されてるのだ。"}
+{"id":"guide_words:12931326189503744","locale":"jp","text":"ここには、いま挑戦中の超変異キボが確率でドロップする超変異因子が記録されてるのだ。"}
+{"id":"guide_words:12931326189504000","locale":"jp","text":"ここには、いま挑戦中の超変異キボが確率でドロップする超変異因子が記録されてるのだ。"}
+{"id":"guide_words:12931330484470784","locale":"jp","text":"挑戦前にプレビューで確認できるぞ。"}
+{"id":"guide_words:12931330484471040","locale":"jp","text":"挑戦前にプレビューで確認できるぞ。"}
+{"id":"guide_words:12931330484471296","locale":"jp","text":"挑戦前にプレビューで確認できるぞ。"}
+{"id":"guide_words:12931334779438080","locale":"jp","text":"押して<color={highlight}>挑戦編成</color>を確認する"}
+{"id":"guide_words:12931334779438336","locale":"jp","text":"押して<color={highlight}>挑戦編成</color>を確認する"}
+{"id":"guide_words:12931334779438592","locale":"jp","text":"押して<color={highlight}>挑戦編成</color>を確認する"}
+{"id":"guide_words:12931339074405376","locale":"jp","text":"異脈の星巣をはじめるには、<color={highlight}>8匹のキボ</color>を出撃させる必要があるのだ。"}
+{"id":"guide_words:12931339074405632","locale":"jp","text":"異脈の星巣をはじめるには、<color={highlight}>8匹のキボ</color>を出撃させる必要があるのだ。"}
+{"id":"guide_words:12931339074405888","locale":"jp","text":"異脈の星巣をはじめるには、<color={highlight}>8匹のキボ</color>を出撃させる必要があるのだ。"}
+{"id":"guide_words:12931343369372672","locale":"jp","text":"今回は、ルミィさまが用意したチームを使うといい。"}
+{"id":"guide_words:12931343369372928","locale":"jp","text":"今回は、ルミィさまが用意したチームを使うといい。"}
+{"id":"guide_words:12931343369373184","locale":"jp","text":"今回は、ルミィさまが用意したチームを使うといい。"}
+{"id":"guide_words:12931347664339968","locale":"jp","text":"強敵だから、仲間を誘って挑戦したほうがいいけど……"}
+{"id":"guide_words:12931347664340224","locale":"jp","text":"強敵だから、仲間を誘って挑戦したほうがいいけど……"}
+{"id":"guide_words:12931347664340480","locale":"jp","text":"強敵だから、仲間を誘って挑戦したほうがいいけど……"}
+{"id":"guide_words:12931351959307264","locale":"jp","text":"今回はひとまず、ソロで挑んでみよう！"}
+{"id":"guide_words:12931351959307520","locale":"jp","text":"今回はひとまず、ソロで挑んでみよう！"}
+{"id":"guide_words:12931351959307776","locale":"jp","text":"今回はひとまず、ソロで挑んでみよう！"}
+{"id":"guide_words:12931356254274560","locale":"jp","text":"<color={highlight}>シングル挑戦</color>ボタンを押してください"}
+{"id":"guide_words:12931356254274816","locale":"jp","text":"<color={highlight}>シングル挑戦</color>ボタンを押してください"}
+{"id":"guide_words:12931356254275072","locale":"jp","text":"<color={highlight}>シングル挑戦</color>ボタンを押してください"}
+{"id":"guide_words:12931721326494720","locale":"jp","text":"<color={highlight}>ボス絞り込み</color>ボタンを押してください"}
+{"id":"guide_words:12931721326494976","locale":"jp","text":"<color={highlight}>ボス絞り込み</color>ボタンを押してください"}
+{"id":"guide_words:12931721326495232","locale":"jp","text":"<color={highlight}>ボス絞り込み</color>ボタンを押してください"}
+{"id":"guide_words:12931725621462016","locale":"jp","text":"<color={highlight}>ボス絞り込み</color>機能を使用すると、目的の<color={highlight}>ボスの種類</color>や<color={highlight}>強度レベル</color>をすばやく絞り込める。"}
+{"id":"guide_words:12931725621462272","locale":"jp","text":"<color={highlight}>ボス絞り込み</color>機能を使用すると、目的の<color={highlight}>ボスの種類</color>や<color={highlight}>強度レベル</color>をすばやく絞り込める。"}
+{"id":"guide_words:12931725621462528","locale":"jp","text":"<color={highlight}>ボス絞り込み</color>機能を使用すると、目的の<color={highlight}>ボスの種類</color>や<color={highlight}>強度レベル</color>をすばやく絞り込める。"}
+{"id":"guide_words:12931729916429312","locale":"jp","text":"目当てのステージがない場合は、更新してみるといいぞ。"}
+{"id":"guide_words:12931729916429568","locale":"jp","text":"目当てのステージがない場合は、更新してみるといいぞ。"}
+{"id":"guide_words:12931729916429824","locale":"jp","text":"目当てのステージがない場合は、更新してみるといいぞ。"}
+{"id":"guide_words:12932150823224320","locale":"jp","text":"ここには星臨者さまに必要なお宝がたくさんありますよ！見ていってくださいね～！"}
+{"id":"guide_words:12932150823224576","locale":"jp","text":"ここには星臨者さまに必要なお宝がたくさんありますよ！見ていってくださいね～！"}
+{"id":"guide_words:12932150823224832","locale":"jp","text":"ここには星臨者さんに必要なお宝がいっぱいです。<actionkey>UI/Submit</actionkey> で中を見てみましょう。"}
+{"id":"guide_words:12932155118191616","locale":"jp","text":"押して<color={highlight}>移動</color>してください。"}
+{"id":"guide_words:12932155118191872","locale":"jp","text":"押して<color={highlight}>移動</color>してください。"}
+{"id":"guide_words:12932155118192128","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ジャンプ</color>"}
+{"id":"guide_words:12932159413158912","locale":"jp","text":"ここにあるお宝は、どんぐりお宝探検隊がプロミリア各地を冒険して手に入れたものです。品揃えは豊富ですよ。"}
+{"id":"guide_words:12932159413159168","locale":"jp","text":"ここにあるお宝は、どんぐりお宝探検隊がプロミリア各地を冒険して手に入れたものです。品揃えは豊富ですよ。"}
+{"id":"guide_words:12932159413159424","locale":"jp","text":"ここにあるお宝は、どんぐりお宝探検隊がプロミリア各地を冒険して手に入れたものです。品揃えは豊富ですよ。"}
+{"id":"guide_words:12932163708126208","locale":"jp","text":"私の商品はどれも本物のお宝！とってもお得ですよ。ぜひ、また来てくださいね。"}
+{"id":"guide_words:12932163708126464","locale":"jp","text":"私の商品はどれも本物のお宝！とってもお得ですよ。ぜひ、また来てくださいね。"}
+{"id":"guide_words:12932163708126720","locale":"jp","text":"私の商品はどれも本物のお宝！とってもお得ですよ。ぜひ、また来てくださいね。"}
+{"id":"guide_words:12932168003093504","locale":"jp","text":"今回は無料ですよ！新規のお客さまへのサービスです！"}
+{"id":"guide_words:12932168003093760","locale":"jp","text":"今回は無料ですよ！新規のお客さまへのサービスです！"}
+{"id":"guide_words:12932168003094016","locale":"jp","text":"今回は無料ですよ！新規のお客さまへのサービスです！"}
+{"id":"guide_words:12932172298060800","locale":"jp","text":"今後は「輝くコイン」を使って、いつでもお宝と交換できますからね。"}
+{"id":"guide_words:12932172298061056","locale":"jp","text":"今後は「輝くコイン」を使って、いつでもお宝と交換できますからね。"}
+{"id":"guide_words:12932172298061312","locale":"jp","text":"今後は「輝くコイン」を使って、いつでもお宝と交換できますからね。"}
+{"id":"guide_words:12932580319953920","locale":"jp","text":"<color={highlight}>バーチャルスティック</color>を使って、<color={highlight}>画面を移動</color>できるのだ。"}
+{"id":"guide_words:12932580319954176","locale":"jp","text":"<color={highlight}>バーチャルスティック</color>を使って、<color={highlight}>画面を移動</color>できるのだ。"}
+{"id":"guide_words:12932580319954432","locale":"jp","text":"<color={highlight}>左スティック</color>で画面を移動できます"}
+{"id":"guide_words:12932584614921216","locale":"jp","text":"<color={highlight}>カメラ倍率コントローラー</color>をスライドすると、画面を<color={highlight}>ズームイン・ズームアウト</color>できる。"}
+{"id":"guide_words:12932584614921472","locale":"jp","text":"<color={highlight}>カメラ倍率コントローラー</color>をスライドすると、画面を<color={highlight}>ズームイン・ズームアウト</color>できる。"}
+{"id":"guide_words:12932584614921728","locale":"jp","text":"<color={highlight}>カメラ倍率コントローラー</color>をスライドすると、画面を<color={highlight}>ズームイン・ズームアウト</color>できる。"}
+{"id":"guide_words:12932588909888512","locale":"jp","text":"チャレンジ中は異なる<color={highlight}>視点</color>に切り替えてウミィを探す必要があるのだ。"}
+{"id":"guide_words:12932588909888768","locale":"jp","text":"チャレンジ中は異なる<color={highlight}>視点</color>に切り替えてウミィを探す必要があるのだ。"}
+{"id":"guide_words:12932588909889024","locale":"jp","text":"チャレンジ中は異なる<color={highlight}>視点</color>に切り替えてウミィを探す必要があるのだ。"}
+{"id":"guide_words:12932593204855808","locale":"jp","text":"<color={highlight}>左右の矢印</color>を押すと、<color={highlight}>視点の切り替え</color>ができるぞ。"}
+{"id":"guide_words:12932593204856064","locale":"jp","text":"<color={highlight}>左右の矢印</color>を押すと、<color={highlight}>視点の切り替え</color>ができるぞ。"}
+{"id":"guide_words:12932593204856320","locale":"jp","text":"ここで<color={highlight}>視点の切り替え</color>ができます"}
+{"id":"guide_words:12932597499823104","locale":"jp","text":"<color={highlight}>ウミィを見つけた</color>ら、<color={highlight}>撮影ボタン</color>を押して撮影できる！"}
+{"id":"guide_words:12932597499823360","locale":"jp","text":"<color={highlight}>ウミィを見つけた</color>ら、<color={highlight}>撮影ボタン</color>を押して撮影できる！"}
+{"id":"guide_words:12932597499823616","locale":"jp","text":"<color={highlight}>ウミィを発見</color>したら、撮影が可能です"}
+{"id":"guide_words:12932601794790400","locale":"jp","text":"どうだ！簡単じゃないか？"}
+{"id":"guide_words:12932601794790656","locale":"jp","text":"どうだ！簡単じゃないか？"}
+{"id":"guide_words:12932601794790912","locale":"jp","text":"どうだ！簡単じゃないか？"}
+{"id":"guide_words:12932606089757696","locale":"jp","text":"それじゃあ、さっそく試してみるのだ～"}
+{"id":"guide_words:12932606089757952","locale":"jp","text":"それじゃあ、さっそく試してみるのだ～"}
+{"id":"guide_words:12932606089758208","locale":"jp","text":"それじゃあ、さっそく試してみるのだ～"}
+{"id":"guide_words:12933009816683520","locale":"jp","text":"<color={highlight}>普通のステラカード</color>のレシピを押してください。"}
+{"id":"guide_words:12933009816683776","locale":"jp","text":"<color={highlight}>普通のステラカード</color>のレシピを押してください。"}
+{"id":"guide_words:12933009816684032","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ステラカード</color>のレシピを選択"}
+{"id":"guide_words:12933014111650816","locale":"jp","text":"<color={highlight}>MAX</color>ボタンをタップ"}
+{"id":"guide_words:12933014111651072","locale":"jp","text":"<color={highlight}>MAX</color>ボタンをタップ"}
+{"id":"guide_words:12933014111651328","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R2</actionkey> で数量を<color={highlight}>MAX</color>にする"}
+{"id":"guide_words:12933018406618112","locale":"jp","text":"<color={highlight}>生産開始</color>ボタンをタップ"}
+{"id":"guide_words:12933018406618368","locale":"jp","text":"<color={highlight}>生産開始</color>ボタンをタップ"}
+{"id":"guide_words:12933018406618624","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> を使って<color={highlight}>生産開始</color>"}
+{"id":"guide_words:12933022701585408","locale":"jp","text":"<color={highlight}>ステラカード</color>の製作完了までお待ちください。"}
+{"id":"guide_words:12933022701585664","locale":"jp","text":"<color=#91fff9>ステラカード</color>の製作完了までお待ちください。"}
+{"id":"guide_words:12933022701585920","locale":"jp","text":"<color=#91fff9>ステラカード</color>の製作完了までお待ちください。"}
+{"id":"guide_words:12933026996553216","locale":"jp","text":"<actionkey>GamepadUI/PageControllerQuickRoulette_DpadRight</actionkey> で<color={highlight}>クイック生産</color>を選択"}
+{"id":"guide_words:12934727803601920","locale":"jp","text":"二段ジャンプ後、再度ジャンプをタップすると<color={highlight}>キャベッコ</color>で<color={highlight}>飛行</color>できます"}
+{"id":"guide_words:12934727803602176","locale":"jp","text":"二段ジャンプ後、再度ジャンプをタップすると<color={highlight}>キャベッコ</color>で<color={highlight}>飛行</color>できます"}
+{"id":"guide_words:12934727803602432","locale":"jp","text":"二段ジャンプ後、再度ジャンプをタップすると<color={highlight}>キャベッコ</color>で<color={highlight}>飛行</color>できます"}
+{"id":"guide_words:12934732098569216","locale":"jp","text":"さっそく試してみよう！"}
+{"id":"guide_words:12934732098569472","locale":"jp","text":"さっそく試してみよう！"}
+{"id":"guide_words:12934732098569728","locale":"jp","text":"さっそく試してみよう！"}
+{"id":"guide_words:12934736393536512","locale":"jp","text":"<actionkey>MainInput/MainJump</actionkey> で<color={highlight}>二段ジャンプ</color>"}
+{"id":"guide_words:12934736393536768","locale":"jp","text":"ジャンプボタンをタップして<color={highlight}>二段ジャンプ</color>"}
+{"id":"guide_words:12934736393537024","locale":"jp","text":"<actionkey>MainInput/MainJump</actionkey> で<color={highlight}>二段ジャンプ</color>"}
+{"id":"guide_words:12934740688503808","locale":"jp","text":"もう一度<actionkey>MainInput/MainJump</actionkey> を押すと、キャベッコで<color={highlight}>飛行</color>できます。"}
+{"id":"guide_words:12934740688504064","locale":"jp","text":"もう一度ジャンプボタンを押すと、キャベッコで<color={highlight}>飛行</color>できます。"}
+{"id":"guide_words:12934740688504320","locale":"jp","text":"もう一度<actionkey>MainInput/MainJump</actionkey> を押すと、キャベッコで<color={highlight}>飛行</color>できます。"}
+{"id":"guide_words:12934744983471104","locale":"jp","text":"キャベッコで飛行中、<actionkeyhold>MainInput/MainFlyUp</actionkeyhold>を長押しすると<color={highlight}>飛行高度</color>を上げることができます。"}
+{"id":"guide_words:12934744983471360","locale":"jp","text":"キャベッコで飛行中、長押しすると<color={highlight}>飛行高度</color>を上げることができます。"}
+{"id":"guide_words:12934744983471616","locale":"jp","text":"キャベッコで飛行中、<actionkeyhold>MainInput/MainFlyUp</actionkeyhold>を長押しすると<color={highlight}>飛行高度</color>を上げることができます。"}
+{"id":"guide_words:12943747234923520","locale":"jp","text":"<color={highlight}>一括投入</color>ボタンを押す"}
+{"id":"guide_words:12943747234923776","locale":"jp","text":"<color={highlight}>一括投入</color>ボタンを押す"}
+{"id":"guide_words:12943747234924032","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>一括投入</color>"}
+{"id":"guide_words:12944176731653120","locale":"jp","text":"最後の試練に向けて、小玉さんの修行計画がはじまるよ！"}
+{"id":"guide_words:12944176731653376","locale":"jp","text":"最後の試練に向けて、小玉さんの修行計画がはじまるよ！"}
+{"id":"guide_words:12944176731653632","locale":"jp","text":"最後の試練に向けて、小玉さんの修行計画がはじまるよ！"}
+{"id":"guide_words:12944181026620416","locale":"jp","text":"戦略を立て、時間と資源を適切に配分し、小玉さんの各ステータスを高めて試練の日の戦闘に備えよう！"}
+{"id":"guide_words:12944181026620672","locale":"jp","text":"戦略を立て、時間と資源を適切に配分し、小玉さんの各ステータスを高めて試練の日の戦闘に備えよう！"}
+{"id":"guide_words:12944181026620928","locale":"jp","text":"戦略を立て、時間と資源を適切に配分し、小玉さんの各ステータスを高めて試練の日の戦闘に備えよう！"}
+{"id":"guide_words:12944185321587712","locale":"jp","text":"ここでは、小玉さんの現在の<color={highlight}>「修行段階」</color>、<color={highlight}>「修習ステータス」</color>、発動中の<color={highlight}>「奇縁」</color>を確認できるよ。"}
+{"id":"guide_words:12944185321587968","locale":"jp","text":"ここでは、小玉さんの現在の<color={highlight}>「修行段階」</color>、<color={highlight}>「修習ステータス」</color>、発動中の<color={highlight}>「奇縁」</color>を確認できるよ。"}
+{"id":"guide_words:12944185321588224","locale":"jp","text":"ここでは、小玉さんの現在の<color={highlight}>「修行段階」</color>、<color={highlight}>「修習ステータス」</color>、発動中の<color={highlight}>「奇縁」</color>を確認できるよ。"}
+{"id":"guide_words:12944189616555008","locale":"jp","text":"「修行」で小玉さんの各ステータスと<color={highlight}>「修行段階」</color>を高められる。"}
+{"id":"guide_words:12944189616555264","locale":"jp","text":"「修行」で小玉さんの各ステータスと<color={highlight}>「修行段階」</color>を高められる。"}
+{"id":"guide_words:12944189616555520","locale":"jp","text":"「修行」で小玉さんの各ステータスと<color={highlight}>「修行段階」</color>を高められる。"}
+{"id":"guide_words:12944193911522304","locale":"jp","text":"時間は限られてるし、さっそく小玉さんに今日の修行をはじめてもらおう！"}
+{"id":"guide_words:12944193911522560","locale":"jp","text":"時間は限られてるし、さっそく小玉さんに今日の修行をはじめてもらおう！"}
+{"id":"guide_words:12944193911522816","locale":"jp","text":"時間は限られてるし、さっそく小玉さんに今日の修行をはじめてもらおう！"}
+{"id":"guide_words:12944198206489600","locale":"jp","text":"<color={highlight}>修行</color>ボタンを押してください。"}
+{"id":"guide_words:12944198206489856","locale":"jp","text":"<color={highlight}>修行</color>ボタンを押してください。"}
+{"id":"guide_words:12944198206490112","locale":"jp","text":"<color={highlight}>修行</color>ボタンを押してください。"}
+{"id":"guide_words:12944606228382720","locale":"jp","text":"ここでは、今回の<color={highlight}>修習方針</color>を選択できます。"}
+{"id":"guide_words:12944606228382976","locale":"jp","text":"ここでは、今回の<color={highlight}>修習方針</color>を選択できます。"}
+{"id":"guide_words:12944606228383232","locale":"jp","text":"ここでは、今回の<color={highlight}>修習方針</color>を選択できます。"}
+{"id":"guide_words:12944610523350016","locale":"jp","text":"修習方針ごとに、対応する修習ステータスが<color={highlight}>上昇</color>します。"}
+{"id":"guide_words:12944610523350272","locale":"jp","text":"修習方針ごとに、対応する修習ステータスが<color={highlight}>上昇</color>します。"}
+{"id":"guide_words:12944610523350528","locale":"jp","text":"修習方針ごとに、対応する修習ステータスが<color={highlight}>上昇</color>します。"}
+{"id":"guide_words:12944614818317312","locale":"jp","text":"修習方針を選択すると、画面右側で今回の修行により上昇する予定のステータスと、修習効果全体のボーナス倍率を確認できます。"}
+{"id":"guide_words:12944614818317568","locale":"jp","text":"修習方針を選択すると、画面右側で今回の修行により上昇する予定のステータスと、修習効果全体のボーナス倍率を確認できます。"}
+{"id":"guide_words:12944614818317824","locale":"jp","text":"修習方針を選択すると、画面右側で今回の修行により上昇する予定のステータスと、修習効果全体のボーナス倍率を確認できます。"}
+{"id":"guide_words:12944619113284608","locale":"jp","text":"修行中は、小玉さんと縁を結んだキャラクターやキボも小玉様に手を差し伸べて、修行を助けてくれるよ。"}
+{"id":"guide_words:12944619113284864","locale":"jp","text":"修行中は、小玉さんと縁を結んだキャラクターやキボも小玉様に手を差し伸べて、修行を助けてくれるよ。"}
+{"id":"guide_words:12944619113285120","locale":"jp","text":"修行中は、小玉さんと縁を結んだキャラクターやキボも小玉様に手を差し伸べて、修行を助けてくれるよ。"}
+{"id":"guide_words:12944623408251904","locale":"jp","text":"遊歴でたくさんのキャラクターやキボと出会い、縁を結んで、小玉さんの修行が順調になるように力を貸してもらおう！"}
+{"id":"guide_words:12944623408252160","locale":"jp","text":"遊歴でたくさんのキャラクターやキボと出会い、縁を結んで、小玉さんの修行が順調になるように力を貸してもらおう！"}
+{"id":"guide_words:12944623408252416","locale":"jp","text":"遊歴でたくさんのキャラクターやキボと出会い、縁を結んで、小玉さんの修行が順調になるように力を貸してもらおう！"}
+{"id":"guide_words:12944627703219200","locale":"jp","text":"法力は塗山一族の修行の基礎。法力を修習すると小玉さんの総合戦闘力が上昇するから、序盤の修行に適してるよ。"}
+{"id":"guide_words:12944627703219456","locale":"jp","text":"法力は塗山一族の修行の基礎。法力を修習すると小玉さんの総合戦闘力が上昇するから、序盤の修行に適してるよ。"}
+{"id":"guide_words:12944627703219712","locale":"jp","text":"法力は塗山一族の修行の基礎。法力を修習すると小玉さんの総合戦闘力が上昇するから、序盤の修行に適してるよ。"}
+{"id":"guide_words:12944631998186496","locale":"jp","text":"初めての修行は<color={highlight}>法力</color>から始めましょう！"}
+{"id":"guide_words:12944631998186752","locale":"jp","text":"初めての修行は<color={highlight}>法力</color>から始めましょう！"}
+{"id":"guide_words:12944631998187008","locale":"jp","text":"初めての修行は<color={highlight}>法力</color>から始めましょう！"}
+{"id":"guide_words:12944636293153792","locale":"jp","text":"<color={highlight}>法力の修行</color>を押してください。"}
+{"id":"guide_words:12944636293154048","locale":"jp","text":"<color={highlight}>法力の修行</color>を押してください。"}
+{"id":"guide_words:12944636293154304","locale":"jp","text":"<color={highlight}>法力の修行</color>を押してください。"}
+{"id":"guide_words:12944640588121088","locale":"jp","text":"<color={highlight}>修行や休息</color>を行うと、右上の<color={highlight}>行動回数</color>を消費するから、状況に応じて適切に計画を立てるにゃ！"}
+{"id":"guide_words:12944640588121344","locale":"jp","text":"<color={highlight}>修行や休息</color>を行うと、右上の<color={highlight}>行動回数</color>を消費するから、状況に応じて適切に計画を立てるにゃ！"}
+{"id":"guide_words:12944640588121600","locale":"jp","text":"<color={highlight}>修行や休息</color>を行うと、右上の<color={highlight}>行動回数</color>を消費するから、状況に応じて適切に計画を立てるにゃ！"}
+{"id":"guide_words:12945035725112320","locale":"jp","text":"浮世を遊歴し、よい縁を結ぶことも、塗山一族の修行試練において重要な一環です。"}
+{"id":"guide_words:12945035725112576","locale":"jp","text":"浮世を遊歴し、よい縁を結ぶことも、塗山一族の修行試練において重要な一環です。"}
+{"id":"guide_words:12945035725112832","locale":"jp","text":"浮世を遊歴し、よい縁を結ぶことも、塗山一族の修行試練において重要な一環です。"}
+{"id":"guide_words:12945040020079616","locale":"jp","text":"毎日の修行が終わると、フリスを遊歴し、さまざまな<color={highlight}>「奇遇」</color>に出会えます。"}
+{"id":"guide_words:12945040020079872","locale":"jp","text":"毎日の修行が終わると、フリスを遊歴し、さまざまな<color={highlight}>「奇遇」</color>に出会えます。"}
+{"id":"guide_words:12945040020080128","locale":"jp","text":"毎日の修行が終わると、フリスを遊歴し、さまざまな<color={highlight}>「奇遇」</color>に出会えます。"}
+{"id":"guide_words:12945044315046912","locale":"jp","text":"小玉さんの<color={highlight}>法力</color>を高められるかもしれない<color={highlight}>「奇遇」</color>が目の前にあるね。"}
+{"id":"guide_words:12945044315047168","locale":"jp","text":"小玉さんの<color={highlight}>法力</color>を高められるかもしれない<color={highlight}>「奇遇」</color>が目の前にあるね。"}
+{"id":"guide_words:12945044315047424","locale":"jp","text":"小玉さんの<color={highlight}>法力</color>を高められるかもしれない<color={highlight}>「奇遇」</color>が目の前にあるね。"}
+{"id":"guide_words:12945048610014208","locale":"jp","text":"ボタンを押して<color={highlight}>「奇遇」に入って</color>みましょう！"}
+{"id":"guide_words:12945048610014464","locale":"jp","text":"ボタンを押して<color={highlight}>「奇遇」に入って</color>みましょう！"}
+{"id":"guide_words:12945048610014720","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>「巡り合わせ」</color>に入ってみましょう！"}
+{"id":"guide_words:12945052904981504","locale":"jp","text":"ボタンを押し、<color={highlight}>「行動力」</color>を消費して奇遇を開始しましょう！"}
+{"id":"guide_words:12945052904981760","locale":"jp","text":"ボタンを押し、<color={highlight}>「行動力」</color>を消費して奇遇を開始しましょう！"}
+{"id":"guide_words:12945052904982016","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で、<color={highlight}>「行動力」</color>を消費して巡り合わせを開始しましょう！"}
+{"id":"guide_words:12945057199948800","locale":"jp","text":"一部の奇遇イベントには、特定のステータス判定を含む<color={highlight}>判定選択肢</color>があります。"}
+{"id":"guide_words:12945057199949056","locale":"jp","text":"一部の奇遇イベントには、特定のステータス判定を含む<color={highlight}>判定選択肢</color>があります。"}
+{"id":"guide_words:12945057199949312","locale":"jp","text":"一部の奇遇イベントには、特定のステータス判定を含む<color={highlight}>判定選択肢</color>があります。"}
+{"id":"guide_words:12945061494916096","locale":"jp","text":"判定の成否には、小玉さんの現在の修行ステータスが関係するんだ。"}
+{"id":"guide_words:12945061494916352","locale":"jp","text":"判定の成否には、小玉さんの現在の修行ステータスが関係するんだ。"}
+{"id":"guide_words:12945061494916608","locale":"jp","text":"判定の成否には、小玉さんの現在の修行ステータスが関係するんだ。"}
+{"id":"guide_words:12945065789883392","locale":"jp","text":"法力の修行をしたいまの小玉さんなら、目の前の状況にも簡単に対処できる。判定選択肢を押してモフリーネを救おう！"}
+{"id":"guide_words:12945065789883648","locale":"jp","text":"法力の修行をしたいまの小玉さんなら、目の前の状況にも簡単に対処できる。判定選択肢を押してモフリーネを救おう！"}
+{"id":"guide_words:12945065789883904","locale":"jp","text":"法力の修行をしたいまの小玉さんなら、目の前の状況にも簡単に対処できる。判定選択肢を押してモフリーネを救おう！"}
+{"id":"guide_words:12945070084850688","locale":"jp","text":"<color={highlight}>確認</color>を押してください。"}
+{"id":"guide_words:12945070084850944","locale":"jp","text":"<color={highlight}>確認</color>を押してください。"}
+{"id":"guide_words:12945070084851200","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>確認</color>"}
+{"id":"guide_words:12945074379817984","locale":"jp","text":"遊歴中の奇遇イベントでは、新しい仲間と出会い、修行ステータスを高め、さまざまな「奇縁」を獲得できます。"}
+{"id":"guide_words:12945074379818240","locale":"jp","text":"遊歴中の奇遇イベントでは、新しい仲間と出会い、修行ステータスを高め、さまざまな「奇縁」を獲得できます。"}
+{"id":"guide_words:12945074379818496","locale":"jp","text":"遊歴中の奇遇イベントでは、新しい仲間と出会い、修行ステータスを高め、さまざまな「奇縁」を獲得できます。"}
+{"id":"guide_words:12945078674785280","locale":"jp","text":"戦略を活用して小玉さんの各ステータスを高め、試験に合格できるよう手助けしよう！"}
+{"id":"guide_words:12945078674785536","locale":"jp","text":"戦略を活用して小玉さんの各ステータスを高め、試験に合格できるよう手助けしよう！"}
+{"id":"guide_words:12945078674785792","locale":"jp","text":"戦略を活用して小玉さんの各ステータスを高め、試験に合格できるよう手助けしよう！"}
+{"id":"guide_words:12945465221841920","locale":"jp","text":"小玉さんが難問にぶつかったみたいだね。メイプルが小玉さんと冒険者さんを助けるにゃ！"}
+{"id":"guide_words:12945465221842176","locale":"jp","text":"小玉さんが難問にぶつかったみたいだね。メイプルが小玉さんと冒険者さんを助けるにゃ！"}
+{"id":"guide_words:12945465221842432","locale":"jp","text":"小玉さんが難問にぶつかったみたいだね。メイプルが小玉さんと冒険者さんを助けるにゃ！"}
+{"id":"guide_words:12945469516809216","locale":"jp","text":"<color={highlight}>縁起</color>を押して、小玉の修行の旅を始めましょう！"}
+{"id":"guide_words:12945469516809472","locale":"jp","text":"<color={highlight}>縁起</color>を押して、小玉の修行の旅を始めましょう！"}
+{"id":"guide_words:12945469516809728","locale":"jp","text":"<color={highlight}>縁起</color>を押して、小玉の修行の旅を始めましょう！"}
+{"id":"guide_words:12945473811776512","locale":"jp","text":"異なる集中方針を選ぶと、さまざまな修行効果や物語を体験できます。"}
+{"id":"guide_words:12945473811776768","locale":"jp","text":"異なる集中方針を選ぶと、さまざまな修行効果や物語を体験できます。"}
+{"id":"guide_words:12945473811777024","locale":"jp","text":"異なる集中方針を選ぶと、さまざまな修行効果や物語を体験できます。"}
+{"id":"guide_words:12945478106743808","locale":"jp","text":"最初の旅は<color={highlight}>「身を挺して世に入る」</color>から始めましょう！"}
+{"id":"guide_words:12945478106744064","locale":"jp","text":"最初の旅は<color={highlight}>「身を挺して世に入る」</color>から始めましょう！"}
+{"id":"guide_words:12945478106744320","locale":"jp","text":"最初の旅は<color={highlight}>「身を挺して世に入る」</color>から始めましょう！"}
+{"id":"guide_words:12945482401711104","locale":"jp","text":"<color={highlight}>確認</color>を押して修行を始めましょう！"}
+{"id":"guide_words:12945482401711360","locale":"jp","text":"<color={highlight}>確認</color>を押して修行を始めましょう！"}
+{"id":"guide_words:12945482401711616","locale":"jp","text":"<color={highlight}>確認</color>を押して修行を始めましょう！"}
+{"id":"guide_words:12945894718571520","locale":"jp","text":"修行すると<color={highlight}>スタミナ</color>を消費します。画面上部のスタミナゲージで現在のスタミナと気分を確認できます。"}
+{"id":"guide_words:12945894718571776","locale":"jp","text":"修行すると<color={highlight}>スタミナ</color>を消費します。画面上部のスタミナゲージで現在のスタミナと気分を確認できます。"}
+{"id":"guide_words:12945894718572032","locale":"jp","text":"修行すると<color={highlight}>スタミナ</color>を消費します。画面上部のスタミナゲージで現在のスタミナと気分を確認できます。"}
+{"id":"guide_words:12945899013538816","locale":"jp","text":"スタミナが低い場合、修行で「あまり効果がない」が発生する確率が上昇します。"}
+{"id":"guide_words:12945899013539072","locale":"jp","text":"スタミナが低い場合、修行で「あまり効果がない」が発生する確率が上昇します。"}
+{"id":"guide_words:12945899013539328","locale":"jp","text":"スタミナが低い場合、修行で「あまり効果がない」が発生する確率が上昇します。"}
+{"id":"guide_words:12945903308506112","locale":"jp","text":"そんな時は、小玉さんにしっかり<color={highlight}>休息</color>してもらうにゃ！"}
+{"id":"guide_words:12945903308506368","locale":"jp","text":"そんな時は、小玉さんにしっかり<color={highlight}>休息</color>してもらうにゃ！"}
+{"id":"guide_words:12945903308506624","locale":"jp","text":"そんな時は、小玉さんにしっかり<color={highlight}>休息</color>してもらうにゃ！"}
+{"id":"guide_words:12945907603473408","locale":"jp","text":"<color={highlight}>戻る</color>を押してください。"}
+{"id":"guide_words:12945907603473664","locale":"jp","text":"<color={highlight}>戻る</color>を押してください。"}
+{"id":"guide_words:12945907603473920","locale":"jp","text":"<actionkey>UI/Cancel</actionkey> で<color={highlight}>戻る</color>"}
+{"id":"guide_words:12945911898440704","locale":"jp","text":"<color={highlight}>「休息」</color>ボタンを押し、小玉様を休ませてスタミナを回復しましょう！"}
+{"id":"guide_words:12945911898440960","locale":"jp","text":"<color={highlight}>「休息」</color>ボタンを押し、小玉様を休ませてスタミナを回復しましょう！"}
+{"id":"guide_words:12945911898441216","locale":"jp","text":"<color={highlight}>「休息」</color>ボタンを押し、小玉様を休ませてスタミナを回復しましょう！"}
+{"id":"guide_words:12946324215301120","locale":"jp","text":"いつの間にか、試練の日がきてたにゃ！"}
+{"id":"guide_words:12946324215301376","locale":"jp","text":"いつの間にか、試練の日がきてたにゃ！"}
+{"id":"guide_words:12946324215301632","locale":"jp","text":"いつの間にか、試練の日がきてたにゃ！"}
+{"id":"guide_words:12946328510268416","locale":"jp","text":"小玉さんは今日、縁結びの試験という大きな挑戦に臨むんだよ！"}
+{"id":"guide_words:12946328510268672","locale":"jp","text":"小玉さんは今日、縁結びの試験という大きな挑戦に臨むんだよ！"}
+{"id":"guide_words:12946328510268928","locale":"jp","text":"小玉さんは今日、縁結びの試験という大きな挑戦に臨むんだよ！"}
+{"id":"guide_words:12946332805235712","locale":"jp","text":"まずはここを押して、小玉さんがこれまでに習得した新しい能力を確認しよう！"}
+{"id":"guide_words:12946332805235968","locale":"jp","text":"まずはここを押して、小玉さんがこれまでに習得した新しい能力を確認しよう！"}
+{"id":"guide_words:12946332805236224","locale":"jp","text":"まずはここを押して、小玉さんがこれまでに習得した新しい能力を確認しよう！"}
+{"id":"guide_words:12946337100203008","locale":"jp","text":"修行ステータスが上がるにつれて、小玉さんは新しい能力を次々と習得するの。ここで詳細を確認できるにゃ！"}
+{"id":"guide_words:12946337100203264","locale":"jp","text":"修行ステータスが上がるにつれて、小玉さんは新しい能力を次々と習得するの。ここで詳細を確認できるにゃ！"}
+{"id":"guide_words:12946337100203520","locale":"jp","text":"修行ステータスが上がるにつれて、小玉さんは新しい能力を次々と習得するの。ここで詳細を確認できるにゃ！"}
+{"id":"guide_words:12946341395170304","locale":"jp","text":"準備は整いました。勇気を出して試練の日に挑みましょう！"}
+{"id":"guide_words:12946341395170560","locale":"jp","text":"準備は整いました。勇気を出して試練の日に挑みましょう！"}
+{"id":"guide_words:12946341395170816","locale":"jp","text":"準備は整いました。勇気を出して試練の日に挑みましょう！"}
+{"id":"guide_words:12946753712030720","locale":"jp","text":"<color={highlight}>異なるステータス条件</color>を満たすと、<color={highlight}>異なるエンディング</color>が解放されます。"}
+{"id":"guide_words:12946753712030976","locale":"jp","text":"<color={highlight}>異なるステータス条件</color>を満たすと、<color={highlight}>異なるエンディング</color>が解放されます。"}
+{"id":"guide_words:12946753712031232","locale":"jp","text":"<color={highlight}>異なるステータス条件</color>を満たすと、<color={highlight}>異なるエンディング</color>が解放されます。"}
+{"id":"guide_words:12946758006998016","locale":"jp","text":"今回は、小玉さんの<color={highlight}>『敵の退治」</color>エンディングを確認しよう！"}
+{"id":"guide_words:12946758006998272","locale":"jp","text":"今回は、小玉さんの<color={highlight}>『敵の退治」</color>エンディングを確認しよう！"}
+{"id":"guide_words:12946758006998528","locale":"jp","text":"今回は、小玉さんの<color={highlight}>『敵の退治」</color>エンディングを確認しよう！"}
+{"id":"guide_words:12946762301965312","locale":"jp","text":"<color={highlight}>エンディングを見る</color>を押してください。"}
+{"id":"guide_words:12946762301965568","locale":"jp","text":"<color={highlight}>エンディングを見る</color>を押してください。"}
+{"id":"guide_words:12946762301965824","locale":"jp","text":"<color={highlight}>エンディングを見る</color>を押してください。"}
+{"id":"guide_words:12947183208760320","locale":"jp","text":"修行中にたくさんの新しい仲間と出会えたね！"}
+{"id":"guide_words:12947183208760576","locale":"jp","text":"修行中にたくさんの新しい仲間と出会えたね！"}
+{"id":"guide_words:12947183208760832","locale":"jp","text":"修行中にたくさんの新しい仲間と出会えたね！"}
+{"id":"guide_words:12947187503727616","locale":"jp","text":"ここを押して、小玉様がみんなと結んだ縁を確認しましょう！"}
+{"id":"guide_words:12947187503727872","locale":"jp","text":"ここを押して、小玉様がみんなと結んだ縁を確認しましょう！"}
+{"id":"guide_words:12947187503728128","locale":"jp","text":"ここを押して、小玉様がみんなと結んだ縁を確認しましょう！"}
+{"id":"guide_words:12947191798694912","locale":"jp","text":"<color={highlight}>締縁結</color>を使用すると、小玉さんと他の仲間の<color={highlight}>初期好感度</color>を上げられます"}
+{"id":"guide_words:12947191798695168","locale":"jp","text":"<color={highlight}>締縁結</color>を使用すると、小玉さんと他の仲間の<color={highlight}>初期好感度</color>を上げられます"}
+{"id":"guide_words:12947191798695424","locale":"jp","text":"<color={highlight}>締縁結</color>を使用すると、小玉さんと他の仲間の<color={highlight}>初期好感度</color>を上げられます"}
+{"id":"guide_words:12947196093662208","locale":"jp","text":"なんどもプレイして、小玉さんにもっとたくさんの仲間と縁を結んでもらおう！"}
+{"id":"guide_words:12947196093662464","locale":"jp","text":"なんどもプレイして、小玉さんにもっとたくさんの仲間と縁を結んでもらおう！"}
+{"id":"guide_words:12947196093662720","locale":"jp","text":"なんどもプレイして、小玉さんにもっとたくさんの仲間と縁を結んでもらおう！"}
+{"id":"guide_words:12947612705489920","locale":"jp","text":"栄光を象徴する<color={highlight}>「試練」</color>も解放されました。"}
+{"id":"guide_words:12947612705490176","locale":"jp","text":"栄光を象徴する<color={highlight}>「試練」</color>も解放されました。"}
+{"id":"guide_words:12947612705490432","locale":"jp","text":"栄光を象徴する<color={highlight}>「試練」</color>も解放されました。"}
+{"id":"guide_words:12947617000457216","locale":"jp","text":"達成済みエンディングのステータスを使って、より高難易度の試練に挑戦してみるにゃ！"}
+{"id":"guide_words:12947617000457472","locale":"jp","text":"達成済みエンディングのステータスを使って、より高難易度の試練に挑戦してみるにゃ！"}
+{"id":"guide_words:12947617000457728","locale":"jp","text":"達成済みエンディングのステータスを使って、より高難易度の試練に挑戦してみるにゃ！"}
+{"id":"guide_words:12947621295424512","locale":"jp","text":"<color={highlight}>試練</color>を押してください。"}
+{"id":"guide_words:12947621295424768","locale":"jp","text":"<color={highlight}>試練</color>を押してください。"}
+{"id":"guide_words:12947621295425024","locale":"jp","text":"<color={highlight}>試練</color>を押してください。"}
+{"id":"guide_words:12947625590391808","locale":"jp","text":"「試練」では、達成済みエンディングのデータを使って、より強い敵に挑戦できます。"}
+{"id":"guide_words:12947625590392064","locale":"jp","text":"「試練」では、達成済みエンディングのデータを使って、より強い敵に挑戦できます。"}
+{"id":"guide_words:12947625590392320","locale":"jp","text":"「試練」では、達成済みエンディングのデータを使って、より強い敵に挑戦できます。"}
+{"id":"guide_words:12947629885359104","locale":"jp","text":"<color={highlight}>エンディングを使用</color>を押してください。"}
+{"id":"guide_words:12947629885359360","locale":"jp","text":"<color={highlight}>エンディングを使用</color>を押してください。"}
+{"id":"guide_words:12947629885359616","locale":"jp","text":"<color={highlight}>エンディングを使用</color>を押してください。"}
+{"id":"guide_words:12947634180326400","locale":"jp","text":"最終的な試験ポイントはランキングに記録されるよ。最終順位も忘れずに確認してね！"}
+{"id":"guide_words:12947634180326656","locale":"jp","text":"最終的な試験ポイントはランキングに記録されるよ。最終順位も忘れずに確認してね！"}
+{"id":"guide_words:12947634180326912","locale":"jp","text":"最終的な試験ポイントはランキングに記録されるよ。最終順位も忘れずに確認してね！"}
+{"id":"guide_words:12948042202219520","locale":"jp","text":"今回は、<color={highlight}>「勇をもって敵を退ける」</color>を選択しましょう！"}
+{"id":"guide_words:12948042202219776","locale":"jp","text":"今回は、<color={highlight}>「勇をもって敵を退ける」</color>を選択しましょう！"}
+{"id":"guide_words:12948042202220032","locale":"jp","text":"今回は、<color={highlight}>「勇をもって敵を退ける」</color>を選択しましょう！"}
+{"id":"guide_words:12948046497186816","locale":"jp","text":"小玉さんと縁を結んだ仲間が増えたよ！"}
+{"id":"guide_words:12948046497187072","locale":"jp","text":"小玉さんと縁を結んだ仲間が増えたよ！"}
+{"id":"guide_words:12948046497187328","locale":"jp","text":"小玉さんと縁を結んだ仲間が増えたよ！"}
+{"id":"guide_words:12948050792154112","locale":"jp","text":"出発前に、忘れずに仲間を招待して手伝ってもらうにゃ！"}
+{"id":"guide_words:12948050792154368","locale":"jp","text":"出発前に、忘れずに仲間を招待して手伝ってもらうにゃ！"}
+{"id":"guide_words:12948050792154624","locale":"jp","text":"出発前に、忘れずに仲間を招待して手伝ってもらうにゃ！"}
+{"id":"guide_words:12948471698949120","locale":"jp","text":"見て。小玉さんと縁を結んだ仲間が助けに来てくれたにゃ！"}
+{"id":"guide_words:12948471698949376","locale":"jp","text":"見て。小玉さんと縁を結んだ仲間が助けに来てくれたにゃ！"}
+{"id":"guide_words:12948471698949632","locale":"jp","text":"見て。小玉さんと縁を結んだ仲間が助けに来てくれたにゃ！"}
+{"id":"guide_words:12948475993916416","locale":"jp","text":"サポートキャラクターの<color={highlight}>好感度レベルが1以上</color>の時、確率で該当キャラクターの<color={highlight}>修習サポート</color>が発生します"}
+{"id":"guide_words:12948475993916672","locale":"jp","text":"サポートキャラクターの<color={highlight}>好感度レベルが1以上</color>の時、確率で該当キャラクターの<color={highlight}>修習サポート</color>が発生します"}
+{"id":"guide_words:12948475993916928","locale":"jp","text":"サポートキャラクターの<color={highlight}>好感度レベルが1以上</color>の時、確率で該当キャラクターの<color={highlight}>修習サポート</color>が発生します"}
+{"id":"guide_words:12948480288883712","locale":"jp","text":"修行サポートは、今回の<color={highlight}>修習効果</color>を<color={highlight}>大幅に上昇</color>させます。"}
+{"id":"guide_words:12948480288883968","locale":"jp","text":"修行サポートは、今回の<color={highlight}>修習効果</color>を<color={highlight}>大幅に上昇</color>させます。"}
+{"id":"guide_words:12948480288884224","locale":"jp","text":"修行サポートは、今回の<color={highlight}>修習効果</color>を<color={highlight}>大幅に上昇</color>させます。"}
+{"id":"guide_words:12948484583851008","locale":"jp","text":"仲間の協力で、小玉さんがどんな修行成果を得たか見てみよう！"}
+{"id":"guide_words:12948484583851264","locale":"jp","text":"仲間の協力で、小玉さんがどんな修行成果を得たか見てみよう！"}
+{"id":"guide_words:12948484583851520","locale":"jp","text":"仲間の協力で、小玉さんがどんな修行成果を得たか見てみよう！"}
+{"id":"guide_words:12950619182597120","locale":"jp","text":"星臨者！『天道の余塵』が開放されたのだ！さっそく見てみよう！"}
+{"id":"guide_words:12950619182597376","locale":"jp","text":"星臨者！『天道の余塵』が開放されたのだ！さっそく見てみよう！"}
+{"id":"guide_words:12950619182597632","locale":"jp","text":"星臨者！『天道の余塵』が開放されたのだ！さっそく見てみよう！"}
+{"id":"guide_words:12950623477564416","locale":"jp","text":"『天道の余塵』では、再現されたかつての強敵を迎え撃つことになるのだ。"}
+{"id":"guide_words:12950623477564672","locale":"jp","text":"『天道の余塵』では、再現されたかつての強敵を迎え撃つことになるのだ。"}
+{"id":"guide_words:12950623477564928","locale":"jp","text":"『天道の余塵』では、再現されたかつての強敵を迎え撃つことになるのだ。"}
+{"id":"guide_words:12950627772531712","locale":"jp","text":"いまいるステージをクリアすると報酬を獲得できて、より難易度の高いステージが解放される。"}
+{"id":"guide_words:12950627772531968","locale":"jp","text":"いまいるステージをクリアすると報酬を獲得できて、より難易度の高いステージが解放される。"}
+{"id":"guide_words:12950627772532224","locale":"jp","text":"いまいるステージをクリアすると報酬を獲得できて、より難易度の高いステージが解放される。"}
+{"id":"guide_words:12950632067499008","locale":"jp","text":"まずは『創流の円環』をクリアしよう！"}
+{"id":"guide_words:12950632067499264","locale":"jp","text":"まずは『創流の円環』をクリアしよう！"}
+{"id":"guide_words:12950632067499520","locale":"jp","text":"まずは『創流の円環』をクリアしよう！"}
+{"id":"guide_words:12950636362466304","locale":"jp","text":"『創流の円環』をクリアすると、より難易度の高い『悠久の円環』が解放されるぞ。"}
+{"id":"guide_words:12950636362466560","locale":"jp","text":"『創流の円環』をクリアすると、より難易度の高い『悠久の円環』が解放されるぞ。"}
+{"id":"guide_words:12950636362466816","locale":"jp","text":"『創流の円環』をクリアすると、より難易度の高い『悠久の円環』が解放されるぞ。"}
+{"id":"guide_words:12950640657433600","locale":"jp","text":"『悠久の円環』のすべてのステージをクリアすると、さらに『潮汐の円環』も解放される。"}
+{"id":"guide_words:12950640657433856","locale":"jp","text":"『悠久の円環』のすべてのステージをクリアすると、さらに『潮汐の円環』も解放される。"}
+{"id":"guide_words:12950640657434112","locale":"jp","text":"『悠久の円環』のすべてのステージをクリアすると、さらに『潮汐の円環』も解放される。"}
+{"id":"guide_words:12950644952400896","locale":"jp","text":"『潮汐の円環』は常時解放されていて、一定周期でステージと報酬が入れ替わるのだ！"}
+{"id":"guide_words:12950644952401152","locale":"jp","text":"『潮汐の円環』は常時解放されていて、一定周期でステージと報酬が入れ替わるのだ！"}
+{"id":"guide_words:12950644952401408","locale":"jp","text":"『潮汐の円環』は常時解放されていて、一定周期でステージと報酬が入れ替わるのだ！"}
+{"id":"guide_words:12950649247368192","locale":"jp","text":"周期ごとに、ステージの環境も変化する。"}
+{"id":"guide_words:12950649247368448","locale":"jp","text":"周期ごとに、ステージの環境も変化する。"}
+{"id":"guide_words:12950649247368704","locale":"jp","text":"周期ごとに、ステージの環境も変化する。"}
+{"id":"guide_words:12950653542335488","locale":"jp","text":"挑戦する準備はできたか？"}
+{"id":"guide_words:12950653542335744","locale":"jp","text":"挑戦する準備はできたか？"}
+{"id":"guide_words:12950653542336000","locale":"jp","text":"挑戦する準備はできたか？"}
+{"id":"guide_words:12950657837302784","locale":"jp","text":"よし、『創流の円環』に入って、最初の挑戦をはじめよう！"}
+{"id":"guide_words:12950657837303040","locale":"jp","text":"よし、『創流の円環』に入って、最初の挑戦をはじめよう！"}
+{"id":"guide_words:12950657837303296","locale":"jp","text":"よし、『創流の円環』に入って、最初の挑戦をはじめよう！"}
+{"id":"guide_words:12951048679326720","locale":"jp","text":"『御霊の戦歌』には、段階的に難易度が上がるステージがあるのだ。"}
+{"id":"guide_words:12951048679326976","locale":"jp","text":"『御霊の戦歌』には、段階的に難易度が上がるステージがあるのだ。"}
+{"id":"guide_words:12951048679327232","locale":"jp","text":"『御霊の戦歌』には、段階的に難易度が上がるステージがあるのだ。"}
+{"id":"guide_words:12951052974294016","locale":"jp","text":"ステージに挑戦すると<color={highlight}>流光の欠片</color>と<color={highlight}>育成素材</color>を獲得できる。難易度が高くなるほど報酬も豪華になるぞ。"}
+{"id":"guide_words:12951052974294272","locale":"jp","text":"ステージに挑戦すると<color={highlight}>流光の欠片</color>と<color={highlight}>育成素材</color>を獲得できる。難易度が高くなるほど報酬も豪華になるぞ。"}
+{"id":"guide_words:12951052974294528","locale":"jp","text":"ステージに挑戦すると<color={highlight}>流光の欠片</color>と<color={highlight}>育成素材</color>を獲得できる。難易度が高くなるほど報酬も豪華になるぞ。"}
+{"id":"guide_words:12951057269261312","locale":"jp","text":"流光の欠片を消費して、<color={highlight}>星灯り交換所</color>で<color={highlight}>報酬と交換</color>できるのだ。"}
+{"id":"guide_words:12951057269261568","locale":"jp","text":"流光の欠片を消費して、<color={highlight}>星灯り交換所</color>で<color={highlight}>報酬と交換</color>できるのだ。"}
+{"id":"guide_words:12951057269261824","locale":"jp","text":"流光の欠片を消費して、<color={highlight}>星灯り交換所</color>で<color={highlight}>報酬と交換</color>できるのだ。"}
+{"id":"guide_words:12951061564228608","locale":"jp","text":"毎日、<color={highlight}>最初の6回までステージ報酬を受け取る</color>と、<color={highlight}>追加の</color>流光の欠片を獲得できる。"}
+{"id":"guide_words:12951061564228864","locale":"jp","text":"毎日、<color={highlight}>最初の6回までステージ報酬を受け取る</color>と、<color={highlight}>追加の</color>流光の欠片を獲得できる。"}
+{"id":"guide_words:12951061564229120","locale":"jp","text":"毎日、<color={highlight}>最初の6回までステージ報酬を受け取る</color>と、<color={highlight}>追加の</color>流光の欠片を獲得できる。"}
+{"id":"guide_words:12951065859195904","locale":"jp","text":"追加報酬を獲得できる回数は、ステージごとに毎日個別で計算されてるのだ。"}
+{"id":"guide_words:12951065859196160","locale":"jp","text":"追加報酬を獲得できる回数は、ステージごとに毎日個別で計算されてるのだ。"}
+{"id":"guide_words:12951065859196416","locale":"jp","text":"追加報酬を獲得できる回数は、ステージごとに毎日個別で計算されてるのだ。"}
+{"id":"guide_words:12951070154163200","locale":"jp","text":"導きの道のクエストを完了することでも、追加の流光の欠片を獲得できるぞ。"}
+{"id":"guide_words:12951070154163456","locale":"jp","text":"導きの道のクエストを完了することでも、追加の流光の欠片を獲得できるぞ。"}
+{"id":"guide_words:12951070154163712","locale":"jp","text":"導きの道のクエストを完了することでも、追加の流光の欠片を獲得できるぞ。"}
+{"id":"guide_words:12951907672785920","locale":"jp","text":"押して<color={highlight}>採集プラン</color>を切り替えます。"}
+{"id":"guide_words:12951907672786176","locale":"jp","text":"押して<color={highlight}>採集プラン</color>を切り替えます。"}
+{"id":"guide_words:12951907672786432","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_L3</actionkey> で<color={highlight}>採集プラン</color>を切り替えられます。"}
+{"id":"guide_words:12952766666245120","locale":"jp","text":"<color={highlight}>マウント</color>を獲得したのだ。さっそく試してみよう！"}
+{"id":"guide_words:12952766666245376","locale":"jp","text":"<color={highlight}>マウント</color>を獲得したのだ。さっそく試してみよう！"}
+{"id":"guide_words:12952766666245632","locale":"jp","text":"<color={highlight}>マウント</color>を獲得したのだ。さっそく試してみよう！"}
+{"id":"guide_words:12953196162974720","locale":"jp","text":"星臨者！ここでは現在のマップにいるすべてのキボファイトの<color={highlight}>ファイター</color>を見つけられるぞ。"}
+{"id":"guide_words:12953196162974976","locale":"jp","text":"星臨者！ここでは現在のマップにいるすべてのキボファイトの<color={highlight}>ファイター</color>を見つけられるぞ。"}
+{"id":"guide_words:12953196162975232","locale":"jp","text":"星臨者！ここでは現在のマップにいるすべてのキボファイトの<color={highlight}>ファイター</color>を見つけられるぞ。"}
+{"id":"guide_words:12953200457942016","locale":"jp","text":"このファイターを<color={highlight}>選択</color>してみよう。"}
+{"id":"guide_words:12953200457942272","locale":"jp","text":"このファイターを<color={highlight}>選択</color>してみよう。"}
+{"id":"guide_words:12953200457942528","locale":"jp","text":"<actionkey>UI/Submit</actionkey> を押して、このファイターを<color={highlight}>選択</color>してください"}
+{"id":"guide_words:12953204752909312","locale":"jp","text":"ここではファイターの<color={highlight}>基本情報</color>と<color={highlight}>ファイターレベル</color>が確認できる。"}
+{"id":"guide_words:12953204752909568","locale":"jp","text":"ここではファイターの<color={highlight}>基本情報</color>と<color={highlight}>ファイターレベル</color>が確認できる。"}
+{"id":"guide_words:12953204752909824","locale":"jp","text":"ここではファイターの<color={highlight}>基本情報</color>と<color={highlight}>ファイターレベル</color>が確認できる。"}
+{"id":"guide_words:12953209047876608","locale":"jp","text":"<color={highlight}>推奨属性</color>のキボを使うと、楽に勝負を進められるはずだぞ。"}
+{"id":"guide_words:12953209047876864","locale":"jp","text":"<color={highlight}>推奨属性</color>のキボを使うと、楽に勝負を進められるはずだぞ。"}
+{"id":"guide_words:12953209047877120","locale":"jp","text":"<color={highlight}>推奨属性</color>のキボを使うと、楽に勝負を進められるはずだぞ。"}
+{"id":"guide_words:12953213342843904","locale":"jp","text":"ファイターに勝利すると報酬も獲得できるのだ。"}
+{"id":"guide_words:12953213342844160","locale":"jp","text":"ファイターに勝利すると報酬も獲得できるのだ。"}
+{"id":"guide_words:12953213342844416","locale":"jp","text":"ファイターに勝利すると報酬も獲得できるのだ。"}
+{"id":"guide_words:12953217637811200","locale":"jp","text":"一部のキボファイトはまだ解放されてない。まずエリアレベルを上げる必要がある。"}
+{"id":"guide_words:12953217637811456","locale":"jp","text":"一部のキボファイトはまだ解放されてない。まずエリアレベルを上げる必要がある。"}
+{"id":"guide_words:12953217637811712","locale":"jp","text":"一部のキボファイトはまだ解放されてない。まずエリアレベルを上げる必要がある。"}
+{"id":"guide_words:12953221932778496","locale":"jp","text":"ここを押すと、いまいる場所の<color={highlight}>エリアレベル</color>を確認できる。"}
+{"id":"guide_words:12953221932778752","locale":"jp","text":"ここを押すと、いまいる場所の<color={highlight}>エリアレベル</color>を確認できる。"}
+{"id":"guide_words:12953221932779008","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_Option</actionkey> で、現在のエリアの<color={highlight}>エリアレベル</color>を確認できます。"}
+{"id":"guide_words:12953226227745792","locale":"jp","text":"ファイターに勝利すると<color={highlight}>エリアレベル経験値</color>を獲得できるのだ！"}
+{"id":"guide_words:12953226227746048","locale":"jp","text":"ファイターに勝利すると<color={highlight}>エリアレベル経験値</color>を獲得できるのだ！"}
+{"id":"guide_words:12953226227746304","locale":"jp","text":"ファイターに勝利すると<color={highlight}>エリアレベル経験値</color>を獲得できるのだ！"}
+{"id":"guide_words:12953230522713088","locale":"jp","text":"エリアレベルを上げると<color={highlight}>レベル報酬</color>を獲得できる。"}
+{"id":"guide_words:12953230522713344","locale":"jp","text":"エリアレベルを上げると<color={highlight}>レベル報酬</color>を獲得できる。"}
+{"id":"guide_words:12953230522713600","locale":"jp","text":"エリアレベルを上げると<color={highlight}>レベル報酬</color>を獲得できる。"}
+{"id":"guide_words:12953234817680384","locale":"jp","text":"ここではマップをすぐに切り替えて、別のマップのファイターを探せるのだ。"}
+{"id":"guide_words:12953234817680640","locale":"jp","text":"ここではマップをすぐに切り替えて、別のマップのファイターを探せるのだ。"}
+{"id":"guide_words:12953234817680896","locale":"jp","text":"ここではマップをすぐに切り替えて、別のマップのファイターを探せるのだ。"}
+{"id":"guide_words:12953239112647680","locale":"jp","text":"今後はほかのプレイヤーと対戦するモードも解放される予定だぞ。"}
+{"id":"guide_words:12953239112647936","locale":"jp","text":"今後はほかのプレイヤーと対戦するモードも解放される予定だぞ。"}
+{"id":"guide_words:12953239112648192","locale":"jp","text":"今後はほかのプレイヤーと対戦するモードも解放される予定だぞ。"}
+{"id":"guide_words:12953243407614976","locale":"jp","text":"このファイターの<color={highlight}>選択を解除</color>。"}
+{"id":"guide_words:12953243407615232","locale":"jp","text":"このファイターの<color={highlight}>選択を解除</color>。"}
+{"id":"guide_words:12953243407615488","locale":"jp","text":"<actionkey>UI/Cancel</actionkey> でこのファイターの<color={highlight}>選択を解除</color>してください。"}
+{"id":"guide_words:12954055156433920","locale":"jp","text":"はじめてクリアした時は、初回クリア報酬を受け取ることができる。"}
+{"id":"guide_words:12954055156434176","locale":"jp","text":"はじめてクリアした時は、初回クリア報酬を受け取ることができる。"}
+{"id":"guide_words:12954055156434432","locale":"jp","text":"はじめてクリアした時は、初回クリア報酬を受け取ることができる。"}
+{"id":"guide_words:12954059451401216","locale":"jp","text":"クリア時に達成したチャレンジ目標に応じた数の星を獲得できるぞ。"}
+{"id":"guide_words:12954059451401472","locale":"jp","text":"クリア時に達成したチャレンジ目標に応じた数の星を獲得できるぞ。"}
+{"id":"guide_words:12954059451401728","locale":"jp","text":"クリア時に達成したチャレンジ目標に応じた数の星を獲得できるぞ。"}
+{"id":"guide_words:12954063746368512","locale":"jp","text":"星の数が一定に達すると、追加報酬ももらえちゃうのだ！"}
+{"id":"guide_words:12954063746368768","locale":"jp","text":"星の数が一定に達すると、追加報酬ももらえちゃうのだ！"}
+{"id":"guide_words:12954063746369024","locale":"jp","text":"星の数が一定に達すると、追加報酬ももらえちゃうのだ！"}
+{"id":"guide_words:12954068041335808","locale":"jp","text":"クリアすると晦冥の星砂を獲得して、ショップで報酬と交換できる！"}
+{"id":"guide_words:12954068041336064","locale":"jp","text":"クリアすると晦冥の星砂を獲得して、ショップで報酬と交換できる！"}
+{"id":"guide_words:12954068041336320","locale":"jp","text":"クリアすると晦冥の星砂を獲得して、ショップで報酬と交換できる！"}
+{"id":"guide_words:12955773143352320","locale":"jp","text":"<actionkey>MainInput/MainOpenActivity</actionkey> <color={highlight}>イベント</color>ボタンを押してください"}
+{"id":"guide_words:12955773143352576","locale":"jp","text":"<color={highlight}>イベント</color>ボタンを押してください"}
+{"id":"guide_words:12955773143352832","locale":"jp","text":"<actionkey>GamepadUI/PageControllerQuickRoulette_DpadUp</actionkey> で<color={highlight}>イベント</color>を開く"}
+{"id":"guide_words:12960497607377920","locale":"jp","text":"<color={highlight}>キボの絆</color>ボタンを押してください"}
+{"id":"guide_words:12960497607378176","locale":"jp","text":"<color={highlight}>キボの絆</color>ボタンを押してください"}
+{"id":"guide_words:12960497607378432","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボの絆</color>を開く"}
+{"id":"guide_words:12960927104107520","locale":"jp","text":"ここを押すと、すぐに私と取引することもできますよ！"}
+{"id":"guide_words:12960927104107776","locale":"jp","text":"ここを押すと、すぐに私と取引することもできますよ！"}
+{"id":"guide_words:12960927104108032","locale":"jp","text":"ここを押すと、すぐに私と取引することもできますよ！"}
+{"id":"guide_words:12961786097566720","locale":"jp","text":"<color={highlight}>スカイホークに騎乗</color>をタップ"}
+{"id":"guide_words:12961786097566976","locale":"jp","text":"<color={highlight}>スカイホークに騎乗</color>をタップ"}
+{"id":"guide_words:12961786097567232","locale":"jp","text":"<color={highlight}>スカイホークに騎乗</color>をタップ"}
+{"id":"guide_words:12968228548511232","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>観測</color>を選択"}
+{"id":"guide_words:129712307307520","locale":"jp","text":"<color={highlight}>ESC</color>を押して畑仕事モードを終了"}
+{"id":"guide_words:129712307307776","locale":"jp","text":"<color={highlight}>ESC</color>を押して畑仕事モードを終了"}
+{"id":"guide_words:129712307308032","locale":"jp","text":"<actionkey>UI/Cancel</actionkey> で畑仕事モードを<color={highlight}>終了</color>"}
+{"id":"guide_words:129716602274816","locale":"jp","text":"<color={highlight}>終了</color>を押して畑仕事モードを終了"}
+{"id":"guide_words:129716602275072","locale":"jp","text":"<color={highlight}>終了</color>を押して畑仕事モードを終了"}
+{"id":"guide_words:129716602275328","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_Option</actionkey> で畑仕事モードを<color={highlight}>終了</color>"}
+{"id":"guide_words:133143987200","locale":"jp","text":"<color={highlight}>装備</color>タブを押してください"}
+{"id":"guide_words:133143987456","locale":"jp","text":"<color={highlight}>装備</color>タブを押してください"}
+{"id":"guide_words:133143987712","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>装備</color>タブを切り替えてください"}
+{"id":"guide_words:137438954496","locale":"jp","text":"<color={highlight}>星祝</color>タブを押してください"}
+{"id":"guide_words:137438954752","locale":"jp","text":"<color={highlight}>星祝</color>タブを押してください"}
+{"id":"guide_words:137438955008","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>星祝</color>タブを切り替えてください"}
+{"id":"guide_words:163208758272","locale":"jp","text":"<color={highlight}>戻る</color>ボタンを押してください"}
+{"id":"guide_words:163208758528","locale":"jp","text":"<color={highlight}>戻る</color>ボタンを押してください"}
+{"id":"guide_words:163208758784","locale":"jp","text":"<actionkey>UI/Cancel</actionkey> で<color={highlight}>戻る</color>"}
+{"id":"guide_words:167503725568","locale":"jp","text":"<color={highlight}>終了</color>ボタンを押してください"}
+{"id":"guide_words:167503725824","locale":"jp","text":"<color={highlight}>終了</color>ボタンを押してください"}
+{"id":"guide_words:167503726080","locale":"jp","text":"<actionkey>UI/Cancel</actionkey> で<color={highlight}>終了</color>"}
+{"id":"guide_words:17179870208","locale":"jp","text":"<actionkey>MainInput/MainOpenPet</actionkey> <color={highlight}>キボ</color>ボタンを押してください"}
+{"id":"guide_words:17179870464","locale":"jp","text":"<color={highlight}>キボ</color>ボタンを押してください"}
+{"id":"guide_words:17179870720","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>キボ</color>を選択"}
+{"id":"guide_words:184683594752","locale":"jp","text":"<color={highlight}>閉じる</color>ボタンを押してください"}
+{"id":"guide_words:184683595008","locale":"jp","text":"<color={highlight}>閉じる</color>ボタンを押してください"}
+{"id":"guide_words:184683595264","locale":"jp","text":"<actionkey>UI/Cancel</actionkey>で<color={highlight}>閉じる</color>"}
+{"id":"guide_words:188978562048","locale":"jp","text":"<color={highlight}>確認</color>ボタンを押してください"}
+{"id":"guide_words:188978562304","locale":"jp","text":"<color={highlight}>確認</color>ボタンを押してください"}
+{"id":"guide_words:188978562560","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>確認</color>"}
+{"id":"guide_words:197568496640","locale":"jp","text":"<color={highlight}>キャンセル</color>ボタンを押してください"}
+{"id":"guide_words:197568496896","locale":"jp","text":"<color={highlight}>キャンセル</color>ボタンを押してください"}
+{"id":"guide_words:197568497152","locale":"jp","text":"<color={highlight}>キャンセル</color>ボタンを押してください"}
+{"id":"guide_words:21474837504","locale":"jp","text":"<actionkey>MainInput/MainOpenActivity</actionkey> <color={highlight}>イベント</color>ボタンを押してください"}
+{"id":"guide_words:21474837760","locale":"jp","text":"<color={highlight}>イベント</color>ボタンを押してください"}
+{"id":"guide_words:21474838016","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>イベント</color>を選択"}
+{"id":"guide_words:21475270271697920","locale":"jp","text":"大会で一位になるために、千代さんはもっと修行を重ねて、『朧影』の力を解放する必要があるんだにゃ！"}
+{"id":"guide_words:21475270271698176","locale":"jp","text":"大会で一位になるために、千代さんはもっと修行を重ねて、『朧影』の力を解放する必要があるんだにゃ！"}
+{"id":"guide_words:21475270271698432","locale":"jp","text":"大会で一位になるために、千代さんはもっと修行を重ねて、『朧影』の力を解放する必要があるんだにゃ！"}
+{"id":"guide_words:21475274566665216","locale":"jp","text":"戦略を立て、資源を適切に配分し、千代さんの各ステータスを高めて出征日の戦闘に備えるにゃ！"}
+{"id":"guide_words:21475274566665472","locale":"jp","text":"戦略を立て、資源を適切に配分し、千代さんの各ステータスを高めて出征日の戦闘に備えるにゃ！"}
+{"id":"guide_words:21475274566665728","locale":"jp","text":"戦略を立て、資源を適切に配分し、千代さんの各ステータスを高めて出征日の戦闘に備えるにゃ！"}
+{"id":"guide_words:21475278861632512","locale":"jp","text":"ここでは、千代さんのいまの<color={highlight}>『ハンターレベル』</color>、<color={highlight}>『修行ステータス』</color>、発動中の<color={highlight}>『機縁』</color>を確認できる！"}
+{"id":"guide_words:21475278861632768","locale":"jp","text":"ここでは、千代さんのいまの<color={highlight}>『ハンターレベル』</color>、<color={highlight}>『修行ステータス』</color>、発動中の<color={highlight}>『機縁』</color>を確認できる！"}
+{"id":"guide_words:21475278861633024","locale":"jp","text":"ここでは、千代さんのいまの<color={highlight}>『ハンターレベル』</color>、<color={highlight}>『修行ステータス』</color>、発動中の<color={highlight}>『機縁』</color>を確認できる！"}
+{"id":"guide_words:21475283156599808","locale":"jp","text":"ここには千代さんのいまの<color={highlight}>所持金</color>と<color={highlight}>借金</color>が表示されるにゃ。でも、焦らないでね。まずはこのユニで力をつけよう！"}
+{"id":"guide_words:21475283156600064","locale":"jp","text":"ここには千代さんのいまの<color={highlight}>所持金</color>と<color={highlight}>借金</color>が表示されるにゃ。でも、焦らないでね。まずはこのユニで力をつけよう！"}
+{"id":"guide_words:21475283156600320","locale":"jp","text":"ここには千代さんのいまの<color={highlight}>所持金</color>と<color={highlight}>借金</color>が表示されるにゃ。でも、焦らないでね。まずはこのユニで力をつけよう！"}
+{"id":"guide_words:21475287451567104","locale":"jp","text":"大会で優勝して賞金を手に入れれば、千代さんならきっと借金を返せるにゃ！"}
+{"id":"guide_words:21475287451567360","locale":"jp","text":"大会で優勝して賞金を手に入れれば、千代さんならきっと借金を返せるにゃ！"}
+{"id":"guide_words:21475287451567616","locale":"jp","text":"大会で優勝して賞金を手に入れれば、千代さんならきっと借金を返せるにゃ！"}
+{"id":"guide_words:21475291746534400","locale":"jp","text":"『修行』で千代さんの各ステータスを伸ばすと、<color={highlight}>『ハンターレベル』</color>も上がるよ！"}
+{"id":"guide_words:21475291746534656","locale":"jp","text":"『修行』で千代さんの各ステータスを伸ばすと、<color={highlight}>『ハンターレベル』</color>も上がるよ！"}
+{"id":"guide_words:21475291746534912","locale":"jp","text":"『修行』で千代さんの各ステータスを伸ばすと、<color={highlight}>『ハンターレベル』</color>も上がるよ！"}
+{"id":"guide_words:21475296041501696","locale":"jp","text":"千代さんは準備ができたみたい。さっそく今日の<color={highlight}>修行</color>をはじめよう！"}
+{"id":"guide_words:21475296041501952","locale":"jp","text":"千代さんは準備ができたみたい。さっそく今日の<color={highlight}>修行</color>をはじめよう！"}
+{"id":"guide_words:21475296041502208","locale":"jp","text":"千代さんは準備ができたみたい。さっそく今日の<color={highlight}>修行</color>をはじめよう！"}
+{"id":"guide_words:21475300336468992","locale":"jp","text":"<color={highlight}>修行</color>ボタンを押してください。"}
+{"id":"guide_words:21475300336469248","locale":"jp","text":"<color={highlight}>修行</color>ボタンを押してください。"}
+{"id":"guide_words:21475300336469504","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>修行</color>ボタンを選択"}
+{"id":"guide_words:21475699768427520","locale":"jp","text":"ここでは、今回の<color={highlight}>修行方針</color>を選択できるよ。"}
+{"id":"guide_words:21475699768427776","locale":"jp","text":"ここでは、今回の<color={highlight}>修行方針</color>を選択できるよ。"}
+{"id":"guide_words:21475699768428032","locale":"jp","text":"ここでは、今回の<color={highlight}>修行方針</color>を選択できるよ。"}
+{"id":"guide_words:21475704063394816","locale":"jp","text":"修行方針ごとに、対応するステータスが<color={highlight}>上昇</color>するんだ。"}
+{"id":"guide_words:21475704063395072","locale":"jp","text":"修行方針ごとに、対応するステータスが<color={highlight}>上昇</color>するんだ。"}
+{"id":"guide_words:21475704063395328","locale":"jp","text":"修行方針ごとに、対応するステータスが<color={highlight}>上昇</color>するんだ。"}
+{"id":"guide_words:21475708358362112","locale":"jp","text":"修行方針を選択すると、画面右側で今回の修行により上昇する予定のステータスと、総修行効果のボーナス倍率を確認できるからね。"}
+{"id":"guide_words:21475708358362368","locale":"jp","text":"修行方針を選択すると、画面右側で今回の修行により上昇する予定のステータスと、総修行効果のボーナス倍率を確認できるからね。"}
+{"id":"guide_words:21475708358362624","locale":"jp","text":"修行方針を選択すると、画面右側で今回の修行により上昇する予定のステータスと、総修行効果のボーナス倍率を確認できるからね。"}
+{"id":"guide_words:21475712653329408","locale":"jp","text":"修行中は、千代さんと知り合ったよき友やキボも加勢して、修行を助けてくれるよ。"}
+{"id":"guide_words:21475712653329664","locale":"jp","text":"修行中は、千代さんと知り合ったよき友やキボも加勢して、修行を助けてくれるよ。"}
+{"id":"guide_words:21475712653329920","locale":"jp","text":"修行中は、千代さんと知り合ったよき友やキボも加勢して、修行を助けてくれるよ。"}
+{"id":"guide_words:21475716948296704","locale":"jp","text":"今後の<color={highlight}>『遊歴』</color>と<color={highlight}>『よき友』</color>では、もっとたくさんのよき友やキボと巡り会って、親交を深められるにゃ！"}
+{"id":"guide_words:21475716948296960","locale":"jp","text":"今後の<color={highlight}>『遊歴』</color>と<color={highlight}>『よき友』</color>では、もっとたくさんのよき友やキボと巡り会って、親交を深められるにゃ！"}
+{"id":"guide_words:21475716948297216","locale":"jp","text":"今後の<color={highlight}>『遊歴』</color>と<color={highlight}>『よき友』</color>では、もっとたくさんのよき友やキボと巡り会って、親交を深められるにゃ！"}
+{"id":"guide_words:21475721243264000","locale":"jp","text":"『朧影』の力を使いこなすには、まず<color={highlight}>『心眼』</color>を磨くのがおすすめにゃ！"}
+{"id":"guide_words:21475721243264256","locale":"jp","text":"『朧影』の力を使いこなすには、まず<color={highlight}>『心眼』</color>を磨くのがおすすめにゃ！"}
+{"id":"guide_words:21475721243264512","locale":"jp","text":"『朧影』の力を使いこなすには、まず<color={highlight}>『心眼』</color>を磨くのがおすすめにゃ！"}
+{"id":"guide_words:21475725538231296","locale":"jp","text":"最初の修行は<color={highlight}>『心眼』</color>からはじめよう！"}
+{"id":"guide_words:21475725538231552","locale":"jp","text":"最初の修行は<color={highlight}>『心眼』</color>からはじめよう！"}
+{"id":"guide_words:21475725538231808","locale":"jp","text":"最初の修行は<color={highlight}>『心眼』</color>からはじめよう！"}
+{"id":"guide_words:21475729833198592","locale":"jp","text":"<color={highlight}>「心眼」を修行</color>を押してください。"}
+{"id":"guide_words:21475729833198848","locale":"jp","text":"<color={highlight}>「心眼」を修行</color>を押してください。"}
+{"id":"guide_words:21475729833199104","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>修習「心眼」を選択</color>"}
+{"id":"guide_words:21475734128165888","locale":"jp","text":"<color={highlight}>修行</color>と<color={highlight}>大道芸</color>は、右上の<color={highlight}>『行動回数』</color>を消費するの。状況に応じて適切に計画を立てるにゃ！"}
+{"id":"guide_words:21475734128166144","locale":"jp","text":"<color={highlight}>修行</color>と<color={highlight}>大道芸</color>は、右上の<color={highlight}>『行動回数』</color>を消費するの。状況に応じて適切に計画を立てるにゃ！"}
+{"id":"guide_words:21475734128166400","locale":"jp","text":"<color={highlight}>修行</color>と<color={highlight}>大道芸</color>は、右上の<color={highlight}>『行動回数』</color>を消費するの。状況に応じて適切に計画を立てるにゃ！"}
+{"id":"guide_words:21476129265157120","locale":"jp","text":"修行が終わったら、フリス各地を遊歴して、大会の狩猟クエストをクリアすることも重要だよ。"}
+{"id":"guide_words:21476129265157376","locale":"jp","text":"修行が終わったら、フリス各地を遊歴して、大会の狩猟クエストをクリアすることも重要だよ。"}
+{"id":"guide_words:21476129265157632","locale":"jp","text":"修行が終わったら、フリス各地を遊歴して、大会の狩猟クエストをクリアすることも重要だよ。"}
+{"id":"guide_words:21476133560124416","locale":"jp","text":"狩猟クエストのほかに、遊歴中にはユニを稼げる絶好のチャンスもたっくさんあるにゃ！"}
+{"id":"guide_words:21476133560124672","locale":"jp","text":"狩猟クエストのほかに、遊歴中にはユニを稼げる絶好のチャンスもたっくさんあるにゃ！"}
+{"id":"guide_words:21476133560124928","locale":"jp","text":"狩猟クエストのほかに、遊歴中にはユニを稼げる絶好のチャンスもたっくさんあるにゃ！"}
+{"id":"guide_words:21476137855091712","locale":"jp","text":"『薄金鬼』が焦った様子で歩きまわってるね。きっと千代さんに大切なことを知らせたいんじゃないかな！"}
+{"id":"guide_words:21476137855091968","locale":"jp","text":"『薄金鬼』が焦った様子で歩きまわってるね。きっと千代さんに大切なことを知らせたいんじゃないかな！"}
+{"id":"guide_words:21476137855092224","locale":"jp","text":"『薄金鬼』が焦った様子で歩きまわってるね。きっと千代さんに大切なことを知らせたいんじゃないかな！"}
+{"id":"guide_words:21476142150059008","locale":"jp","text":"ボタンを押して<color={highlight}>「奇遇」に入って</color>みましょう！"}
+{"id":"guide_words:21476142150059264","locale":"jp","text":"ボタンを押して<color={highlight}>「奇遇」に入って</color>みましょう！"}
+{"id":"guide_words:21476142150059520","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>「巡り合わせ」</color>に入ってみましょう！"}
+{"id":"guide_words:21476146445026304","locale":"jp","text":"ボタンを押し、<color={highlight}>「行動力」</color>を消費して奇遇を開始しましょう！"}
+{"id":"guide_words:21476146445026560","locale":"jp","text":"ボタンを押し、<color={highlight}>「行動力」</color>を消費して奇遇を開始しましょう！"}
+{"id":"guide_words:21476146445026816","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で、<color={highlight}>「行動力」</color>を消費して巡り合わせを開始しましょう！"}
+{"id":"guide_words:21476150739993600","locale":"jp","text":"一部の奇遇イベントには、特定のステータス判定を含む<color={highlight}>判定選択肢</color>があります。"}
+{"id":"guide_words:21476150739993856","locale":"jp","text":"一部の奇遇イベントには、特定のステータス判定を含む<color={highlight}>判定選択肢</color>があります。"}
+{"id":"guide_words:21476150739994112","locale":"jp","text":"一部の奇遇イベントには、特定のステータス判定を含む<color={highlight}>判定選択肢</color>があります。"}
+{"id":"guide_words:21476155034960896","locale":"jp","text":"判定の成否には、千代さんの現在のステータスが関係してるの。"}
+{"id":"guide_words:21476155034961152","locale":"jp","text":"判定の成否には、千代さんの現在のステータスが関係してるの。"}
+{"id":"guide_words:21476155034961408","locale":"jp","text":"判定の成否には、千代さんの現在のステータスが関係してるの。"}
+{"id":"guide_words:21476159329928192","locale":"jp","text":"心眼の修行をした千代さんなら、目のまえの状況にも簡単に対処できるにゃ。判定選択肢を押して試練に挑んでみよう！"}
+{"id":"guide_words:21476159329928448","locale":"jp","text":"心眼の修行をした千代さんなら、目のまえの状況にも簡単に対処できるにゃ。判定選択肢を押して試練に挑んでみよう！"}
+{"id":"guide_words:21476159329928704","locale":"jp","text":"心眼の修行を経て、千代さんは目の前の状況にも余裕で対処できるようになったニャ。<actionkey>UI/Submit</actionkey> で選択肢の判定を行い、試練に挑みましょう～"}
+{"id":"guide_words:21476163624895488","locale":"jp","text":"<color={highlight}>確認</color>を押してください。"}
+{"id":"guide_words:21476163624895744","locale":"jp","text":"<color={highlight}>確認</color>を押してください。"}
+{"id":"guide_words:21476163624896000","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>確認</color>"}
+{"id":"guide_words:21476167919862784","locale":"jp","text":"さっきイベントで資金を獲得できたね。つぎは一緒にショップを見てまわろう！"}
+{"id":"guide_words:21476167919863040","locale":"jp","text":"さっきイベントで資金を獲得できたね。つぎは一緒にショップを見てまわろう！"}
+{"id":"guide_words:21476167919863296","locale":"jp","text":"さっきイベントで資金を獲得できたね。つぎは一緒にショップを見てまわろう！"}
+{"id":"guide_words:21476172214830080","locale":"jp","text":"<color={highlight}>買い物の道</color>ボタンを押してください"}
+{"id":"guide_words:21476172214830336","locale":"jp","text":"<color={highlight}>買い物の道</color>ボタンを押してください"}
+{"id":"guide_words:21476172214830592","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>買いものの極意</color>を開く"}
+{"id":"guide_words:21476176509797376","locale":"jp","text":"メイメイハウスでさっぱりした<color={highlight}>「クールパンナコッタ」</color>をひとつ食べると、集中をさっと高めることができるにゃ！"}
+{"id":"guide_words:21476176509797632","locale":"jp","text":"メイメイハウスでさっぱりした<color={highlight}>「クールパンナコッタ」</color>をひとつ食べると、集中をさっと高めることができるにゃ！"}
+{"id":"guide_words:21476176509797888","locale":"jp","text":"メイメイハウスでさっぱりした<color={highlight}>「クールパンナコッタ」</color>をひとつ食べると、集中をさっと高めることができるにゃ！"}
+{"id":"guide_words:21476180804764672","locale":"jp","text":"<color={highlight}>購入</color>を押して、おいしいお菓子を堪能しよう～"}
+{"id":"guide_words:21476180804764928","locale":"jp","text":"<color={highlight}>購入</color>を押して、おいしいお菓子を堪能しよう～"}
+{"id":"guide_words:21476180804765184","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>購入</color>して、このおいしさを味わいましょう～"}
+{"id":"guide_words:21476185099731968","locale":"jp","text":"旅先のイベントで資金を稼ぎ、ショップで商品を買えば、千代さんはもっと強くなれるよ！"}
+{"id":"guide_words:21476185099732224","locale":"jp","text":"旅先のイベントで資金を稼ぎ、ショップで商品を買えば、千代さんはもっと強くなれるよ！"}
+{"id":"guide_words:21476185099732480","locale":"jp","text":"旅先のイベントで資金を稼ぎ、ショップで商品を買えば、千代さんはもっと強くなれるよ！"}
+{"id":"guide_words:21476189394699264","locale":"jp","text":"旅先での選択や資金の使い道は、よーく考えるにゃ！"}
+{"id":"guide_words:21476189394699520","locale":"jp","text":"旅先での選択や資金の使い道は、よーく考えるにゃ！"}
+{"id":"guide_words:21476189394699776","locale":"jp","text":"旅先での選択や資金の使い道は、よーく考えるにゃ！"}
+{"id":"guide_words:21476558761886720","locale":"jp","text":"ハンター大会で結果を出すには、厳しい修行と訓練が欠かせないにゃ……"}
+{"id":"guide_words:21476558761886976","locale":"jp","text":"ハンター大会で結果を出すには、厳しい修行と訓練が欠かせないにゃ……"}
+{"id":"guide_words:21476558761887232","locale":"jp","text":"ハンター大会で結果を出すには、厳しい修行と訓練が欠かせないにゃ……"}
+{"id":"guide_words:21476563056854016","locale":"jp","text":"大会主催者のひとりとして、このメイプルがお手伝いするよ～"}
+{"id":"guide_words:21476563056854272","locale":"jp","text":"大会主催者のひとりとして、このメイプルがお手伝いするよ～"}
+{"id":"guide_words:21476563056854528","locale":"jp","text":"大会主催者のひとりとして、このメイプルがお手伝いするよ～"}
+{"id":"guide_words:21476567351821312","locale":"jp","text":"<color={highlight}>出発</color>を押して、千代さんの修行の旅をはじめよう！"}
+{"id":"guide_words:21476567351821568","locale":"jp","text":"<color={highlight}>出発</color>を押して、千代さんの修行の旅をはじめよう！"}
+{"id":"guide_words:21476567351821824","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>旅立ち</color>を開き、千代さんの修行の旅を始めるニャ～"}
+{"id":"guide_words:21476571646788608","locale":"jp","text":"異なる修行方針を選ぶと、いろんな修行効果や物語を体験できるよ。"}
+{"id":"guide_words:21476571646788864","locale":"jp","text":"異なる集中方針を選ぶと、さまざまな修行効果や物語を体験できます。"}
+{"id":"guide_words:21476571646789120","locale":"jp","text":"異なる集中方針を選ぶと、さまざまな修行効果や物語を体験できます。"}
+{"id":"guide_words:21476575941755904","locale":"jp","text":"最初の旅は<color={highlight}>『基本の構え』</color>からはじめよう！"}
+{"id":"guide_words:21476575941756160","locale":"jp","text":"最初の旅は<color={highlight}>『基本の構え』</color>からはじめよう！"}
+{"id":"guide_words:21476575941756416","locale":"jp","text":"はじめての旅立ちは<color={highlight}>「基本の構え」</color>から始めましょう！<actionkey>UI/Submit</actionkey> で選択するニャ～"}
+{"id":"guide_words:21476580236723200","locale":"jp","text":"<color={highlight}>確認</color>を押して修行を始めましょう！"}
+{"id":"guide_words:21476580236723456","locale":"jp","text":"<color={highlight}>確認</color>を押して修行を始めましょう！"}
+{"id":"guide_words:21476580236723712","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>確認</color>して修行を始めましょう！"}
+{"id":"guide_words:21476988258616320","locale":"jp","text":"修行すると<color={highlight}>集中</color>と<color={highlight}>資金</color>が消費される。画面上部で現在の集中値、資金、気分を確認できる。"}
+{"id":"guide_words:21476988258616576","locale":"jp","text":"修行すると<color={highlight}>集中</color>と<color={highlight}>資金</color>が消費される。画面上部で現在の集中値、資金、気分を確認できる。"}
+{"id":"guide_words:21476988258616832","locale":"jp","text":"修行すると<color={highlight}>集中</color>と<color={highlight}>資金</color>が消費される。画面上部で現在の集中値、資金、気分を確認できる。"}
+{"id":"guide_words:21476992553583616","locale":"jp","text":"千代さんが<color={highlight}>『朧影』</color>で修行すると、うっかり訓練施設を壊して、追加の出費が発生することがある……"}
+{"id":"guide_words:21476992553583872","locale":"jp","text":"千代さんが<color={highlight}>『朧影』</color>で修行すると、うっかり訓練施設を壊して、追加の出費が発生することがある……"}
+{"id":"guide_words:21476992553584128","locale":"jp","text":"千代さんが<color={highlight}>『朧影』</color>で修行すると、うっかり訓練施設を壊して、追加の出費が発生することがある……"}
+{"id":"guide_words:21476996848550912","locale":"jp","text":"だから、『資金』が足りないと<color={highlight}>修行できない</color>にゃ……"}
+{"id":"guide_words:21476996848551168","locale":"jp","text":"だから、『資金』が足りないと<color={highlight}>修行できない</color>にゃ……"}
+{"id":"guide_words:21476996848551424","locale":"jp","text":"だから、『資金』が足りないと<color={highlight}>修行できない</color>にゃ……"}
+{"id":"guide_words:21477001143518208","locale":"jp","text":"集中値が低い場合、修行で<color={highlight}>『暗中模索』</color>が発生する確率が上昇しちゃうの！"}
+{"id":"guide_words:21477001143518464","locale":"jp","text":"集中値が低い場合、修行で<color={highlight}>『暗中模索』</color>が発生する確率が上昇しちゃうの！"}
+{"id":"guide_words:21477001143518720","locale":"jp","text":"集中値が低い場合、修行で<color={highlight}>『暗中模索』</color>が発生する確率が上昇しちゃうの！"}
+{"id":"guide_words:21477005438485504","locale":"jp","text":"そんな時は<color={highlight}>『大道芸』</color>で気分転換するといいにゃ～"}
+{"id":"guide_words:21477005438485760","locale":"jp","text":"そんな時は<color={highlight}>『大道芸』</color>で気分転換するといいにゃ～"}
+{"id":"guide_words:21477005438486016","locale":"jp","text":"そんな時は<color={highlight}>『大道芸』</color>で気分転換するといいにゃ～"}
+{"id":"guide_words:21477009733452800","locale":"jp","text":"<color={highlight}>戻る</color>を押してください。"}
+{"id":"guide_words:21477009733453056","locale":"jp","text":"<color={highlight}>戻る</color>を押してください。"}
+{"id":"guide_words:21477009733453312","locale":"jp","text":"<actionkey>UI/Cancel</actionkey> で<color={highlight}>戻る</color>"}
+{"id":"guide_words:21477014028420096","locale":"jp","text":"『大道芸』では<color={highlight}>資金を稼ぐ</color>ことができるの。気分転換をして<color={highlight}>疲労を和らげる</color>こともできちゃうよ！"}
+{"id":"guide_words:21477014028420352","locale":"jp","text":"『大道芸』では<color={highlight}>資金を稼ぐ</color>ことができるの。気分転換をして<color={highlight}>疲労を和らげる</color>こともできちゃうよ！"}
+{"id":"guide_words:21477014028420608","locale":"jp","text":"『大道芸』では<color={highlight}>資金を稼ぐ</color>ことができるの。気分転換をして<color={highlight}>疲労を和らげる</color>こともできちゃうよ！"}
+{"id":"guide_words:21477018323387392","locale":"jp","text":"立ち止まるのと怠けるるのは違うの。つぎに力を発揮するためなんだにゃ！"}
+{"id":"guide_words:21477018323387648","locale":"jp","text":"立ち止まるのと怠けるるのは違うの。つぎに力を発揮するためなんだにゃ！"}
+{"id":"guide_words:21477018323387904","locale":"jp","text":"立ち止まるのと怠けるるのは違うの。つぎに力を発揮するためなんだにゃ！"}
+{"id":"guide_words:21477022618354688","locale":"jp","text":"<color={highlight}>大道芸</color>を押してください"}
+{"id":"guide_words:21477022618354944","locale":"jp","text":"<color={highlight}>大道芸</color>を押してください"}
+{"id":"guide_words:21477022618355200","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>大道芸</color>を選択"}
+{"id":"guide_words:21477417755345920","locale":"jp","text":"もう<color={highlight}>出征日</color>がやって来ちゃったね！"}
+{"id":"guide_words:21477417755346176","locale":"jp","text":"もう<color={highlight}>出征日</color>がやって来ちゃったね！"}
+{"id":"guide_words:21477417755346432","locale":"jp","text":"もう<color={highlight}>出征日</color>がやって来ちゃったね！"}
+{"id":"guide_words:21477422050313216","locale":"jp","text":"今日は千代さんが腕前を披露し、『凶獣』を狩る日！"}
+{"id":"guide_words:21477422050313472","locale":"jp","text":"今日は千代さんが腕前を披露し、『凶獣』を狩る日！"}
+{"id":"guide_words:21477422050313728","locale":"jp","text":"今日は千代さんが腕前を披露し、『凶獣』を狩る日！"}
+{"id":"guide_words:21477426345280512","locale":"jp","text":"まずはここを押して、千代さんがこれまでに習得した新しい剣技を確認しよう！"}
+{"id":"guide_words:21477426345280768","locale":"jp","text":"まずはここを押して、千代さんがこれまでに習得した新しい剣技を確認しよう！"}
+{"id":"guide_words:21477426345281024","locale":"jp","text":"まずは<actionkey>GamepadUI/GamepadUI_West</actionkey> で、千代さんがこの間にどんな新しい剣技を習得したか見てみましょう！"}
+{"id":"guide_words:21477430640247808","locale":"jp","text":"修行を続けると、千代さんは<color={highlight}>新しい剣技を次々と習得</color>する。ここで詳細を確認できるにゃ。"}
+{"id":"guide_words:21477430640248064","locale":"jp","text":"修行を続けると、千代さんは<color={highlight}>新しい剣技を次々と習得</color>する。ここで詳細を確認できるにゃ。"}
+{"id":"guide_words:21477430640248320","locale":"jp","text":"修行を続けると、千代さんは<color={highlight}>新しい剣技を次々と習得</color>する。ここで詳細を確認できるにゃ。"}
+{"id":"guide_words:21477434935215104","locale":"jp","text":"準備は整った。勇気を出して、この出征に臨もう！"}
+{"id":"guide_words:21477434935215360","locale":"jp","text":"準備は整った。勇気を出して、この出征に臨もう！"}
+{"id":"guide_words:21477434935215616","locale":"jp","text":"準備万端。勇気を出して、この出征に挑みましょう！<actionkey>UI/Submit</actionkey> で出征"}
+{"id":"guide_words:21477847252075520","locale":"jp","text":"<color={highlight}>異なるステータス条件</color>を満たすと、<color={highlight}>異なるエンディング</color>が解放されます。"}
+{"id":"guide_words:21477847252075776","locale":"jp","text":"<color={highlight}>異なるステータス条件</color>を満たすと、<color={highlight}>異なるエンディング</color>が解放されます。"}
+{"id":"guide_words:21477847252076032","locale":"jp","text":"<color={highlight}>異なるステータス条件</color>を満たすと、<color={highlight}>異なるエンディング</color>が解放されます。"}
+{"id":"guide_words:21477851547042816","locale":"jp","text":"今回は、まずここを押して<color={highlight}>『抜刀』</color>エンディングを確認しよう。"}
+{"id":"guide_words:21477851547043072","locale":"jp","text":"今回は、まずここを押して<color={highlight}>『抜刀』</color>エンディングを確認しよう。"}
+{"id":"guide_words:21477851547043328","locale":"jp","text":"今回は、まずここを押して<color={highlight}>『抜刀』</color>エンディングを確認しよう。"}
+{"id":"guide_words:21477855842010112","locale":"jp","text":"<color={highlight}>エンディングを見る</color>を押してください。"}
+{"id":"guide_words:21477855842010368","locale":"jp","text":"<color={highlight}>エンディングを見る</color>を押してください。"}
+{"id":"guide_words:21477855842010624","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>エンディングに入る</color>"}
+{"id":"guide_words:21478276748805120","locale":"jp","text":"ハンター大会への参加を通じて、千代さんはたくさんのよき友と巡り会った。"}
+{"id":"guide_words:21478276748805376","locale":"jp","text":"ハンター大会への参加を通じて、千代さんはたくさんのよき友と巡り会った。"}
+{"id":"guide_words:21478276748805632","locale":"jp","text":"ハンター大会への参加を通じて、千代さんはたくさんのよき友と巡り会った。"}
+{"id":"guide_words:21478281043772416","locale":"jp","text":"<color={highlight}>良き友</color>ボタンを押してください。"}
+{"id":"guide_words:21478281043772672","locale":"jp","text":"<color={highlight}>良き友</color>ボタンを押してください。"}
+{"id":"guide_words:21478281043772928","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>良き友</color>ボタンを選択"}
+{"id":"guide_words:21478285338739712","locale":"jp","text":"<color={highlight}>『狩猟ポイント』</color>で、よき友たちに教えを請うことができるよ。"}
+{"id":"guide_words:21478285338739968","locale":"jp","text":"<color={highlight}>『狩猟ポイント』</color>で、よき友たちに教えを請うことができるよ。"}
+{"id":"guide_words:21478285338740224","locale":"jp","text":"<color={highlight}>『狩猟ポイント』</color>で、よき友たちに教えを請うことができるよ。"}
+{"id":"guide_words:21478289633707008","locale":"jp","text":"初期ステータスのアップ、良き友の初期好感度の増加、新たなサポートの良き友の解放"}
+{"id":"guide_words:21478289633707264","locale":"jp","text":"初期ステータスのアップ、良き友の初期好感度の増加、新たなサポートの良き友の解放"}
+{"id":"guide_words:21478289633707520","locale":"jp","text":"初期ステータスのアップ、良き友の初期好感度の増加、新たなサポートの良き友の解放"}
+{"id":"guide_words:21478293928674304","locale":"jp","text":"なんどもプレイして、もっとたくさんの『狩猟ポイント』を獲得しよう！"}
+{"id":"guide_words:21478293928674560","locale":"jp","text":"なんどもプレイして、もっとたくさんの『狩猟ポイント』を獲得しよう！"}
+{"id":"guide_words:21478293928674816","locale":"jp","text":"なんどもプレイして、もっとたくさんの『狩猟ポイント』を獲得しよう！"}
+{"id":"guide_words:21478706245534720","locale":"jp","text":"栄光を象徴する<color={highlight}>「試練」</color>も解放されました。"}
+{"id":"guide_words:21478706245534976","locale":"jp","text":"栄光を象徴する<color={highlight}>「試練」</color>も解放されました。"}
+{"id":"guide_words:21478706245535232","locale":"jp","text":"栄光を象徴する<color={highlight}>「試練」</color>も解放されました。"}
+{"id":"guide_words:21478710540502016","locale":"jp","text":"達成済みエンディングのステータスを使って、より高難易度の試練に挑戦してみるにゃ！"}
+{"id":"guide_words:21478710540502272","locale":"jp","text":"達成済みエンディングのステータスを使って、より高難易度の試練に挑戦してみるにゃ！"}
+{"id":"guide_words:21478710540502528","locale":"jp","text":"達成済みエンディングのステータスを使って、より高難易度の試練に挑戦してみるにゃ！"}
+{"id":"guide_words:21478714835469312","locale":"jp","text":"<color={highlight}>試練</color>を押してください。"}
+{"id":"guide_words:21478714835469568","locale":"jp","text":"<color={highlight}>試練</color>を押してください。"}
+{"id":"guide_words:21478714835469824","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>試練</color>を選択"}
+{"id":"guide_words:21478719130436608","locale":"jp","text":"『試練』では、達成済みエンディングのステータスを使って、より強い獲物を狩れるんだにゃ！"}
+{"id":"guide_words:21478719130436864","locale":"jp","text":"『試練』では、達成済みエンディングのステータスを使って、より強い獲物を狩れるんだにゃ！"}
+{"id":"guide_words:21478719130437120","locale":"jp","text":"『試練』では、達成済みエンディングのステータスを使って、より強い獲物を狩れるんだにゃ！"}
+{"id":"guide_words:21478723425403904","locale":"jp","text":"<color={highlight}>エンディングを使用</color>を押してください。"}
+{"id":"guide_words:21478723425404160","locale":"jp","text":"<color={highlight}>エンディングを使用</color>を押してください。"}
+{"id":"guide_words:21478723425404416","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>エンディングを使用</color>を選択"}
+{"id":"guide_words:21478727720371200","locale":"jp","text":"最終的な出征ポイントは冒険者ギルドのランキングに記録されるよ。試練の最終順位も忘れずに確認してね！"}
+{"id":"guide_words:21478727720371456","locale":"jp","text":"最終的な出征ポイントは冒険者ギルドのランキングに記録されるよ。試練の最終順位も忘れずに確認してね！"}
+{"id":"guide_words:21478727720371712","locale":"jp","text":"最終的な出征ポイントは冒険者ギルドのランキングに記録されるよ。試練の最終順位も忘れずに確認してね！"}
+{"id":"guide_words:21479135742264320","locale":"jp","text":"今回は、<color={highlight}>『居合』</color>を選択してみよう！"}
+{"id":"guide_words:21479135742264576","locale":"jp","text":"今回は、<color={highlight}>『居合』</color>を選択してみよう！"}
+{"id":"guide_words:21479135742264832","locale":"jp","text":"今回は、<color={highlight}>『居合』</color>を選択してみよう！"}
+{"id":"guide_words:21479140037231616","locale":"jp","text":"千代さんが巡り会ったよき友が増えたよ。"}
+{"id":"guide_words:21479140037231872","locale":"jp","text":"千代さんが巡り会ったよき友が増えたよ。"}
+{"id":"guide_words:21479140037232128","locale":"jp","text":"千代さんが巡り会ったよき友が増えたよ。"}
+{"id":"guide_words:21479144332198912","locale":"jp","text":"出発前に、忘れずによき友を冒険へ誘うにゃ！"}
+{"id":"guide_words:21479144332199168","locale":"jp","text":"出発前に、忘れずによき友を冒険へ誘うにゃ！"}
+{"id":"guide_words:21479144332199424","locale":"jp","text":"出発前に、忘れずによき友を冒険へ誘うにゃ！"}
+{"id":"guide_words:21479565238993920","locale":"jp","text":"見て。千代さんと知り合ったよき友が助けに来てくれたにゃ！"}
+{"id":"guide_words:21479565238994176","locale":"jp","text":"見て。千代さんと知り合ったよき友が助けに来てくれたにゃ！"}
+{"id":"guide_words:21479565238994432","locale":"jp","text":"見て。千代さんと知り合ったよき友が助けに来てくれたにゃ！"}
+{"id":"guide_words:21479569533961216","locale":"jp","text":"良き友の<color={highlight}>好感度レベルが1以上</color>の時、確率で該当キャラクターの<color={highlight}>好感度サポート</color>が発生します"}
+{"id":"guide_words:21479569533961472","locale":"jp","text":"良き友の<color={highlight}>好感度レベルが1以上</color>の時、確率で該当キャラクターの<color={highlight}>好感度サポート</color>が発生します"}
+{"id":"guide_words:21479569533961728","locale":"jp","text":"良き友の<color={highlight}>好感度レベルが1以上</color>の時、確率で該当キャラクターの<color={highlight}>好感度サポート</color>が発生します"}
+{"id":"guide_words:21479573828928512","locale":"jp","text":"好感度サポートは、今回の修習の<color={highlight}>修行効果</color>を<color={highlight}>大幅にアップ</color>させます"}
+{"id":"guide_words:21479573828928768","locale":"jp","text":"好感度サポートは、今回の修習の<color={highlight}>修行効果</color>を<color={highlight}>大幅にアップ</color>させます"}
+{"id":"guide_words:21479573828929024","locale":"jp","text":"好感度サポートは、今回の修習の<color={highlight}>修行効果</color>を<color={highlight}>大幅にアップ</color>させます"}
+{"id":"guide_words:21479578123895808","locale":"jp","text":"よき友の助けで千代さんがどんな修行の成果を得られるか、見に行こう！"}
+{"id":"guide_words:21479578123896064","locale":"jp","text":"よき友の助けで千代さんがどんな修行の成果を得られるか、見に行こう！"}
+{"id":"guide_words:21479578123896320","locale":"jp","text":"よき友の助けで千代さんがどんな修行の成果を得られるか、見に行こう！"}
+{"id":"guide_words:21479994735723520","locale":"jp","text":"冒険ギルドから新しい狩猟クエストが発行されたよ。確認しに行こう！"}
+{"id":"guide_words:21479994735723776","locale":"jp","text":"冒険ギルドから新しい狩猟クエストが発行されたよ。確認しに行こう！"}
+{"id":"guide_words:21479994735724032","locale":"jp","text":"冒険者ギルドが新しい狩猟クエストを発行しました。<actionkey>UI/Submit</actionkey> で確認しに行きましょう！"}
+{"id":"guide_words:21479999030690816","locale":"jp","text":"迷跡の森の奥深くには封印された秘宝が隠されていて、強力なキボたちに守られてるの。"}
+{"id":"guide_words:21479999030691072","locale":"jp","text":"迷跡の森の奥深くには封印された秘宝が隠されていて、強力なキボたちに守られてるの。"}
+{"id":"guide_words:21479999030691328","locale":"jp","text":"迷跡の森の奥深くには封印された秘宝が隠されていて、強力なキボたちに守られてるの。"}
+{"id":"guide_words:21480003325658112","locale":"jp","text":"そんなキボを狩猟することが、ギルドから出された新しいクエストだよ。"}
+{"id":"guide_words:21480003325658368","locale":"jp","text":"そんなキボを狩猟することが、ギルドから出された新しいクエストだよ。"}
+{"id":"guide_words:21480003325658624","locale":"jp","text":"そんなキボを狩猟することが、ギルドから出された新しいクエストだよ。"}
+{"id":"guide_words:21480007620625408","locale":"jp","text":"<color={highlight}>クエスト確認</color>を押してください"}
+{"id":"guide_words:21480007620625664","locale":"jp","text":"<color={highlight}>クエスト確認</color>を押してください"}
+{"id":"guide_words:21480007620625920","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>クエストを確認</color>"}
+{"id":"guide_words:21480011915592704","locale":"jp","text":"ただし、迷跡の森は危険だから、入って狩猟するには救助サービス付きの高級狩猟許可証を購入する必要があるの。"}
+{"id":"guide_words:21480011915592960","locale":"jp","text":"ただし、迷跡の森は危険だから、入って狩猟するには救助サービス付きの高級狩猟許可証を購入する必要があるの。"}
+{"id":"guide_words:21480011915593216","locale":"jp","text":"ただし、迷跡の森は危険だから、入って狩猟するには救助サービス付きの高級狩猟許可証を購入する必要があるの。"}
+{"id":"guide_words:21480016210560000","locale":"jp","text":"この許可証を侮っちゃだめだにゃ。危険な時にすっごく役立つんだから！"}
+{"id":"guide_words:21480016210560256","locale":"jp","text":"この許可証を侮っちゃだめだにゃ。危険な時にすっごく役立つんだから！"}
+{"id":"guide_words:21480016210560512","locale":"jp","text":"この許可証を侮っちゃだめだにゃ。危険な時にすっごく役立つんだから！"}
+{"id":"guide_words:21480020505527296","locale":"jp","text":"<color={highlight}>購入</color>を押してください"}
+{"id":"guide_words:21480020505527552","locale":"jp","text":"<color={highlight}>購入</color>を押してください"}
+{"id":"guide_words:21480020505527808","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>購入</color>"}
+{"id":"guide_words:21480024800494592","locale":"jp","text":"宝の地図はこの場所を示してるね。ボタンを押して、『行動力』を消費して狩りに向かおう！"}
+{"id":"guide_words:21480024800494848","locale":"jp","text":"宝の地図はこの場所を示してるね。ボタンを押して、『行動力』を消費して狩りに向かおう！"}
+{"id":"guide_words:21480024800495104","locale":"jp","text":"宝の地図がこの地点を示しています。「行動力」を消費して狩猟に向かいましょう！"}
+{"id":"guide_words:21480029095461888","locale":"jp","text":"宝の地図にある宝物を見つけたら、まとまったユニと交換できるよ！"}
+{"id":"guide_words:21480029095462144","locale":"jp","text":"宝の地図にある宝物を見つけたら、まとまったユニと交換できるよ！"}
+{"id":"guide_words:21480029095462400","locale":"jp","text":"宝の地図にある宝物を見つけたら、まとまったユニと交換できるよ！"}
+{"id":"guide_words:21480424232453120","locale":"jp","text":"ショップに<color={highlight}>新商品</color>が入荷したよ。千代さんの初出征での勝利を祝って、見に行こう！"}
+{"id":"guide_words:21480424232453376","locale":"jp","text":"ショップに<color={highlight}>新商品</color>が入荷したよ。千代さんの初出征での勝利を祝って、見に行こう！"}
+{"id":"guide_words:21480424232453632","locale":"jp","text":"ショップに<color={highlight}>新商品</color>が入荷したよ。千代さんの初出征での勝利を祝って、見に行こう！"}
+{"id":"guide_words:21480428527420416","locale":"jp","text":"ここを押して、<color={highlight}>『カラフルパレード団』</color>に入って！"}
+{"id":"guide_words:21480428527420672","locale":"jp","text":"ここを押して、<color={highlight}>『カラフルパレード団』</color>に入って！"}
+{"id":"guide_words:21480428527420928","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で、<color={highlight}>「カラフルパレード団」</color>に入ります"}
+{"id":"guide_words:21480432822387712","locale":"jp","text":"『カラフルパレード団』では<color={highlight}>絵彩</color>、<color={highlight}>護符</color>、<color={highlight}>素晴らしい物語</color>を販売してるの。"}
+{"id":"guide_words:21480432822387968","locale":"jp","text":"『カラフルパレード団』では<color={highlight}>絵彩</color>、<color={highlight}>護符</color>、<color={highlight}>素晴らしい物語</color>を販売してるの。"}
+{"id":"guide_words:21480432822388224","locale":"jp","text":"『カラフルパレード団』では<color={highlight}>絵彩</color>、<color={highlight}>護符</color>、<color={highlight}>素晴らしい物語</color>を販売してるの。"}
+{"id":"guide_words:21480437117355008","locale":"jp","text":"ここの商品は<color={highlight}>能力を高めたり</color>、千代さんに<color={highlight}>一時的な幸運</color>をもたらしたりしてくれるんだ！"}
+{"id":"guide_words:21480437117355264","locale":"jp","text":"ここの商品は<color={highlight}>能力を高めたり</color>、千代さんに<color={highlight}>一時的な幸運</color>をもたらしたりしてくれるんだ！"}
+{"id":"guide_words:21480437117355520","locale":"jp","text":"ここの商品は<color={highlight}>能力を高めたり</color>、千代さんに<color={highlight}>一時的な幸運</color>をもたらしたりしてくれるんだ！"}
+{"id":"guide_words:21480441412322304","locale":"jp","text":"<color={highlight}>『フリスのマルシェ』</color>の露店には、いろいろな<color={highlight}>修行効果とステータスを上昇させる商品</color>が隠されてるの。"}
+{"id":"guide_words:21480441412322560","locale":"jp","text":"<color={highlight}>『フリスのマルシェ』</color>の露店には、いろいろな<color={highlight}>修行効果とステータスを上昇させる商品</color>が隠されてるの。"}
+{"id":"guide_words:21480441412322816","locale":"jp","text":"<color={highlight}>『フリスのマルシェ』</color>の露店には、いろいろな<color={highlight}>修行効果とステータスを上昇させる商品</color>が隠されてるの。"}
+{"id":"guide_words:21480445707289600","locale":"jp","text":"修行で使う刀掛けを強化すると、千代さんの心眼修行の効果が高まるよ！"}
+{"id":"guide_words:21480445707289856","locale":"jp","text":"修行で使う刀掛けを強化すると、千代さんの心眼修行の効果が高まるよ！"}
+{"id":"guide_words:21480445707290112","locale":"jp","text":"修行で使う刀掛けを強化すると、千代さんの心眼修行の効果が高まるよ！"}
+{"id":"guide_words:21480450002256896","locale":"jp","text":"星臨者の保証があれば、『フリスのマルシェ』で商品を購入するとき、さきに少額の手付金を支払うことができる。"}
+{"id":"guide_words:21480450002257152","locale":"jp","text":"星臨者の保証があれば、『フリスのマルシェ』で商品を購入するとき、さきに少額の手付金を支払うことができる。"}
+{"id":"guide_words:21480450002257408","locale":"jp","text":"星臨者の保証があれば、『フリスのマルシェ』で商品を購入するとき、さきに少額の手付金を支払うことができる。"}
+{"id":"guide_words:21480454297224192","locale":"jp","text":"残りはつぎの出征後に払えばいいにゃ！"}
+{"id":"guide_words:21480454297224448","locale":"jp","text":"残りはつぎの出征後に払えばいいにゃ！"}
+{"id":"guide_words:21480454297224704","locale":"jp","text":"残りはつぎの出征後に払えばいいにゃ！"}
+{"id":"guide_words:21480458592191488","locale":"jp","text":"こんなお得な機会は逃せないよ。千代さん、安心して買ってね！"}
+{"id":"guide_words:21480458592191744","locale":"jp","text":"こんなお得な機会は逃せないよ。千代さん、安心して買ってね！"}
+{"id":"guide_words:21480458592192000","locale":"jp","text":"こんなお得な機会は逃せないよ。千代さん、安心して買ってね！"}
+{"id":"guide_words:21480853729182720","locale":"jp","text":"新たなスタートで、千代さんは<color={highlight}>新しい剣技</color>を解放したよ！"}
+{"id":"guide_words:21480853729182976","locale":"jp","text":"新たなスタートで、千代さんは<color={highlight}>新しい剣技</color>を解放したよ！"}
+{"id":"guide_words:21480853729183232","locale":"jp","text":"新たなスタートで、千代さんは<color={highlight}>新しい剣技</color>を解放したよ！"}
+{"id":"guide_words:21480858024150016","locale":"jp","text":"これらの剣技は<color={highlight}>『居合』</color>スタートのときだけ解放されるの。"}
+{"id":"guide_words:21480858024150272","locale":"jp","text":"これらの剣技は<color={highlight}>『居合』</color>スタートのときだけ解放されるの。"}
+{"id":"guide_words:21480858024150528","locale":"jp","text":"これらの剣技は<color={highlight}>『居合』</color>スタートのときだけ解放されるの。"}
+{"id":"guide_words:21480862319117312","locale":"jp","text":"うまく活用して、千代さんを大会最強の参加者に育てよう！"}
+{"id":"guide_words:21480862319117568","locale":"jp","text":"うまく活用して、千代さんを大会最強の参加者に育てよう！"}
+{"id":"guide_words:21480862319117824","locale":"jp","text":"うまく活用して、千代さんを大会最強の参加者に育てよう！"}
+{"id":"guide_words:21481283225912320","locale":"jp","text":"千代さん、<color={highlight}>『万物を剣とする』</color>エンディング達成おめでとう！でも、『凶獣ハンター大会』はまだ終わりじゃないにゃ～"}
+{"id":"guide_words:21481283225912576","locale":"jp","text":"千代さん、<color={highlight}>『万物を剣とする』</color>エンディング達成おめでとう！でも、『凶獣ハンター大会』はまだ終わりじゃないにゃ～"}
+{"id":"guide_words:21481283225912832","locale":"jp","text":"千代さん、<color={highlight}>『万物を剣とする』</color>エンディング達成おめでとう！でも、『凶獣ハンター大会』はまだ終わりじゃないにゃ～"}
+{"id":"guide_words:21481287520879616","locale":"jp","text":"<color={highlight}>『居合』</color>、<color={highlight}>『制敵』</color>、<color={highlight}>『返し刀』</color>、<color={highlight}>『心眼』</color>は最初から<color={highlight}>ハードモード</color>が解放されてる。"}
+{"id":"guide_words:21481287520879872","locale":"jp","text":"<color={highlight}>『居合』</color>、<color={highlight}>『制敵』</color>、<color={highlight}>『返し刀』</color>、<color={highlight}>『心眼』</color>は最初から<color={highlight}>ハードモード</color>が解放されてる。"}
+{"id":"guide_words:21481287520880128","locale":"jp","text":"<color={highlight}>『居合』</color>、<color={highlight}>『制敵』</color>、<color={highlight}>『返し刀』</color>、<color={highlight}>『心眼』</color>は最初から<color={highlight}>ハードモード</color>が解放されてる。"}
+{"id":"guide_words:21481291815846912","locale":"jp","text":"千代さんは<color={highlight}>初期資金が増え</color>、<color={highlight}></color>より難しい出征に挑むことになるよ！"}
+{"id":"guide_words:21481291815847168","locale":"jp","text":"千代さんは<color={highlight}>初期資金が増え</color>、<color={highlight}></color>より難しい出征に挑むことになるよ！"}
+{"id":"guide_words:21481291815847424","locale":"jp","text":"千代さんは<color={highlight}>初期資金が増え</color>、<color={highlight}></color>より難しい出征に挑むことになるよ！"}
+{"id":"guide_words:21481296110814208","locale":"jp","text":"準備を整えて、より高難易度の挑戦に立ち向かってみてね～"}
+{"id":"guide_words:21481296110814464","locale":"jp","text":"準備を整えて、より高難易度の挑戦に立ち向かってみてね～"}
+{"id":"guide_words:21481296110814720","locale":"jp","text":"準備を整えて、より高難易度の挑戦に立ち向かってみてね～"}
+{"id":"guide_words:227633267712","locale":"jp","text":"<color={highlight}>メニュー</color>を押して開く"}
+{"id":"guide_words:227633267968","locale":"jp","text":"<color={highlight}>メニュー</color>を押して開く"}
+{"id":"guide_words:227633268224","locale":"jp","text":"<color={highlight}>メニュー</color>を押して開く"}
+{"id":"guide_words:236223202304","locale":"jp","text":"<actionkey>MainInput/MainOpenMap</actionkey> <color={highlight}>マップ</color>を押して開く"}
+{"id":"guide_words:236223202560","locale":"jp","text":"<color={highlight}>マップ</color>を押して開く"}
+{"id":"guide_words:236223202816","locale":"jp","text":"<actionkey>MainInput/MainOpenMap</actionkey> で<color={highlight}>マップ</color>を開く"}
+{"id":"guide_words:240518169600","locale":"jp","text":"<color={highlight}>星協集会</color>タブを押してください"}
+{"id":"guide_words:240518169856","locale":"jp","text":"<color={highlight}>星協集会</color>タブを押してください"}
+{"id":"guide_words:240518170112","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>星協集会</color>タブに切り替えてください"}
+{"id":"guide_words:244813137408","locale":"jp","text":"<actionkey>GamepadUI/MainInput_ControllerQuickRoulette</actionkey> を長押しして、ホイールを開く"}
+{"id":"guide_words:25769804800","locale":"jp","text":"<actionkey>MainInput/MainOpenEntrustTask</actionkey> <color={highlight}>依頼</color>ボタンを押してください"}
+{"id":"guide_words:25769805056","locale":"jp","text":"<color={highlight}>依頼</color>ボタンを押してください"}
+{"id":"guide_words:25769805312","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>依頼</color>を選択"}
+{"id":"guide_words:30064772096","locale":"jp","text":"<actionkey>MainInput/MainOpenGacha</actionkey> <color={highlight}>観測</color>ボタンを押してください"}
+{"id":"guide_words:30064772352","locale":"jp","text":"<color={highlight}>観測</color>ボタンを押してください"}
+{"id":"guide_words:30064772608","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>観測</color>を選択"}
+{"id":"guide_words:34359739392","locale":"jp","text":"<actionkey>MainInput/MainOpenBattlePass</actionkey> <color={highlight}>漫遊記</color>ボタンを押してください"}
+{"id":"guide_words:34359739648","locale":"jp","text":"<color={highlight}>漫遊記</color>ボタンを押してください"}
+{"id":"guide_words:34359739904","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>漫遊記</color>を選択"}
+{"id":"guide_words:38654706688","locale":"jp","text":"<actionkey>MainInput/MainOpenGameAct</actionkey> <color={highlight}>イベント</color>ボタンを押してください"}
+{"id":"guide_words:38654706944","locale":"jp","text":"<color={highlight}>イベント</color>ボタンを押してください"}
+{"id":"guide_words:38654707200","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>イベント</color>を選択"}
+{"id":"guide_words:42949673984","locale":"jp","text":"<color={highlight}>バッグ</color>ボタンを押してください"}
+{"id":"guide_words:42949674240","locale":"jp","text":"<color={highlight}>バッグ</color>ボタンを押してください"}
+{"id":"guide_words:42949674496","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>バッグ</color>を開く"}
+{"id":"guide_words:4294968320","locale":"jp","text":"<actionkey>MainInput/MainBack</actionkey> <color={highlight}>メインメニュー</color>ボタンを押す"}
+{"id":"guide_words:4294968576","locale":"jp","text":"<color={highlight}>メインメニュー</color>ボタンを押してください"}
+{"id":"guide_words:4294968832","locale":"jp","text":"<actionkey>MainInput/MainBack</actionkey> で<color={highlight}>メインメニュー</color>を開く"}
+{"id":"guide_words:430368607962112","locale":"jp","text":"押して編成する"}
+{"id":"guide_words:430368607962368","locale":"jp","text":"押して編成する"}
+{"id":"guide_words:430368607962624","locale":"jp","text":"<actionkey>UI/Submit</actionkey>で編成する"}
+{"id":"guide_words:430372902929920","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_DpadRight</actionkey> を押して第1編成に切り替える"}
+{"id":"guide_words:430377197897216","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_DpadRight</actionkey> を押して第2編成に切り替える"}
+{"id":"guide_words:430385787831296","locale":"jp","text":"テララを選択"}
+{"id":"guide_words:430385787831552","locale":"jp","text":"テララを選択"}
+{"id":"guide_words:430385787831808","locale":"jp","text":"<actionkey>UI/Submit</actionkey>でテララを選択"}
+{"id":"guide_words:430789514757120","locale":"jp","text":"スターリンク中はここから<color={highlight}>スターリンクの成功率</color>を確認できるのだ！"}
+{"id":"guide_words:430789514757376","locale":"jp","text":"スターリンク中はここから<color={highlight}>スターリンクの成功率</color>を確認できるのだ！"}
+{"id":"guide_words:430789514757632","locale":"jp","text":"スターリンク中はここから<color={highlight}>スターリンクの成功率</color>を確認できるのだ！"}
+{"id":"guide_words:430793809724416","locale":"jp","text":"<color={highlight}>スターリンク成功率</color>詳細パネルを開く"}
+{"id":"guide_words:430793809724672","locale":"jp","text":"<color={highlight}>スターリンク成功率</color>詳細パネルを開く"}
+{"id":"guide_words:430793809724928","locale":"jp","text":"<color={highlight}>スターリンク成功率</color>詳細パネルを開く"}
+{"id":"guide_words:430798104691712","locale":"jp","text":"<color={highlight}>詳細を確認</color>を押してください"}
+{"id":"guide_words:430798104691968","locale":"jp","text":"<color={highlight}>詳細を確認</color>を押してください"}
+{"id":"guide_words:430798104692224","locale":"jp","text":"<color={highlight}>詳細を確認</color>を押してください"}
+{"id":"guide_words:430802399659008","locale":"jp","text":"スターリンク成功率は、いろんな要素で決まるぞ。"}
+{"id":"guide_words:430802399659264","locale":"jp","text":"スターリンク成功率は、いろんな要素で決まるぞ。"}
+{"id":"guide_words:430802399659520","locale":"jp","text":"スターリンク成功率は、いろんな要素で決まるぞ。"}
+{"id":"guide_words:430806694626304","locale":"jp","text":"<color={highlight}>ステラカードのレアリティ</color>、<color={highlight}>ターゲットのキボのHP</color>、<color={highlight}>いまの星識レベル</color>とか。"}
+{"id":"guide_words:430806694626560","locale":"jp","text":"<color={highlight}>ステラカードのレアリティ</color>、<color={highlight}>ターゲットのキボのHP</color>、<color={highlight}>いまの星識レベル</color>とか。"}
+{"id":"guide_words:430806694626816","locale":"jp","text":"<color={highlight}>ステラカードのレアリティ</color>、<color={highlight}>ターゲットのキボのHP</color>、<color={highlight}>いまの星識レベル</color>とか。"}
+{"id":"guide_words:430810989593600","locale":"jp","text":"星識レベルが低すぎると、<color={highlight}>スターリンクしたキボのレベルが一時的に低下しちゃう</color>こともある！"}
+{"id":"guide_words:430810989593856","locale":"jp","text":"星識レベルが低すぎると、<color={highlight}>スターリンクしたキボのレベルが一時的に低下しちゃう</color>こともある！"}
+{"id":"guide_words:430810989594112","locale":"jp","text":"星識レベルが低すぎると、<color={highlight}>スターリンクしたキボのレベルが一時的に低下しちゃう</color>こともある！"}
+{"id":"guide_words:430815284560896","locale":"jp","text":"でも、心配はいらないのだ！"}
+{"id":"guide_words:430815284561152","locale":"jp","text":"でも、心配はいらないのだ！"}
+{"id":"guide_words:430815284561408","locale":"jp","text":"でも、心配はいらないのだ！"}
+{"id":"guide_words:430819579528192","locale":"jp","text":"<color={highlight}>星識レベルの条件を満たせば</color>、一時的に下がったキボのレベルも<color={highlight}>本来のレベルまで戻る</color>からな。"}
+{"id":"guide_words:430819579528448","locale":"jp","text":"<color={highlight}>星識レベルの条件を満たせば</color>、一時的に下がったキボのレベルも<color={highlight}>本来のレベルまで戻る</color>からな。"}
+{"id":"guide_words:430819579528704","locale":"jp","text":"<color={highlight}>星識レベルの条件を満たせば</color>、一時的に下がったキボのレベルも<color={highlight}>本来のレベルまで戻る</color>からな。"}
+{"id":"guide_words:430823874495488","locale":"jp","text":"よーし、それじゃ自由にスターリンクしてみるのだ！"}
+{"id":"guide_words:430823874495744","locale":"jp","text":"よーし、それじゃ自由にスターリンクしてみるのだ！"}
+{"id":"guide_words:430823874496000","locale":"jp","text":"よーし、それじゃ自由にスターリンクしてみるのだ！"}
+{"id":"guide_words:432936998405120","locale":"jp","text":"共鳴の石台のレシピが解放されたのだ！"}
+{"id":"guide_words:432936998405376","locale":"jp","text":"共鳴の石台のレシピが解放されたのだ！"}
+{"id":"guide_words:432936998405632","locale":"jp","text":"共鳴の石台のレシピが解放されたのだ！"}
+{"id":"guide_words:432941293372416","locale":"jp","text":"<color={highlight}>共鳴の石台のレシピ</color>を押してください"}
+{"id":"guide_words:432941293372672","locale":"jp","text":"<color={highlight}>共鳴の石台のレシピ</color>を押してください"}
+{"id":"guide_words:432941293372928","locale":"jp","text":"<color={highlight}>共鳴の石台のレシピ</color>を押してください"}
+{"id":"guide_words:432945588339712","locale":"jp","text":"共鳴の石台を使えば、<color={highlight}>もっとレアリティが高いステラカードを作る</color>ことができるのだ！"}
+{"id":"guide_words:432945588339968","locale":"jp","text":"共鳴の石台を使えば、<color={highlight}>もっとレアリティが高いステラカードを作る</color>ことができるのだ！"}
+{"id":"guide_words:432945588340224","locale":"jp","text":"共鳴の石台を使えば、<color={highlight}>もっとレアリティが高いステラカードを作る</color>ことができるのだ！"}
+{"id":"guide_words:432949883307008","locale":"jp","text":"さっそく作ってみよう！"}
+{"id":"guide_words:432949883307264","locale":"jp","text":"さっそく作ってみよう！"}
+{"id":"guide_words:432949883307520","locale":"jp","text":"さっそく作ってみよう！"}
+{"id":"guide_words:435513978782720","locale":"jp","text":"建設可能エリア内で<actionkey>MainInput/MainSkill</actionkey> を押すと畑仕事モードに入ります。"}
+{"id":"guide_words:435513978782976","locale":"jp","text":"建設可能エリア内で<color={highlight}>Eキー</color>を押すと畑仕事モードに入ります。"}
+{"id":"guide_words:435513978783232","locale":"jp","text":"建設可能エリア内で<actionkey>MainInput/MainSkill</actionkey> を押すと畑仕事モードに入ります。"}
+{"id":"guide_words:435518273750016","locale":"jp","text":"押して<color={highlight}>畑仕事モード</color>に切り替える"}
+{"id":"guide_words:435518273750272","locale":"jp","text":"押して<color={highlight}>畑仕事モード</color>に切り替える"}
+{"id":"guide_words:435518273750528","locale":"jp","text":"建設可能エリア内で<actionkey>MainInput/MainSkill</actionkey> を押すと畑仕事モードに入ります。"}
+{"id":"guide_words:435522568717312","locale":"jp","text":"空き地で<actionkey>MainInput/HomeEditorPlace</actionkey> を押して農地を開墾する"}
+{"id":"guide_words:435522568717568","locale":"jp","text":"空き地で<color={highlight}>Fキー</color>または<color={highlight}>マウスの左ボタン</color>を押して農地を開墾"}
+{"id":"guide_words:435522568717824","locale":"jp","text":"空き地で<actionkey>MainInput/HomeEditorPlace</actionkey> で<color={highlight}>農地を開墾</color>"}
+{"id":"guide_words:435526863684608","locale":"jp","text":"<color={highlight}>農地開墾</color>を押してください"}
+{"id":"guide_words:435526863684864","locale":"jp","text":"<color={highlight}>農地開墾</color>を押してください"}
+{"id":"guide_words:435526863685120","locale":"jp","text":"空き地で<actionkey>MainInput/HomeEditorPlace</actionkey> で<color={highlight}>農地を開墾</color>"}
+{"id":"guide_words:438090959160320","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> でキボを使い、<color={highlight}>謎の仕掛け</color>を解き明かします。"}
+{"id":"guide_words:438090959160576","locale":"jp","text":"対応する属性のキボを使うと、謎の仕掛けを解き明かせる"}
+{"id":"guide_words:438090959160832","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> でキボを使い、<color={highlight}>謎の仕掛け</color>を解く"}
+{"id":"guide_words:438103844062208","locale":"jp","text":"キボを使って<color={highlight}>謎の仕掛けを解き明かす"}
+{"id":"guide_words:438103844062464","locale":"jp","text":"キボを使って<color={highlight}>謎の仕掛けを解き明かす"}
+{"id":"guide_words:438103844062720","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> でキボを使い、<color={highlight}>謎の仕掛け</color>を解き明かします。"}
+{"id":"guide_words:438949952619520","locale":"jp","text":"<actionkey>MainInput/MainScanning</actionkey> を押して<color={highlight}>集中</color>すると、採集物をすぐに見つけられます。"}
+{"id":"guide_words:438949952619776","locale":"jp","text":"<color={highlight}>集中</color>を使用すると、採集物をすぐに見つけられます。"}
+{"id":"guide_words:438949952620032","locale":"jp","text":"<actionkey>MainInput/MainScanning</actionkey> で<color={highlight}>集中</color>すると、採集物をすぐに見つけられます。"}
+{"id":"guide_words:438954247586816","locale":"jp","text":"<actionkey>MainInput/MainScanning</actionkey> で<color={highlight}>集中</color>すると、採集物をすぐに見つけられます。"}
+{"id":"guide_words:438954247587072","locale":"jp","text":"<color={highlight}>集中</color>を使用すると、採集物をすぐに見つけられます。"}
+{"id":"guide_words:438954247587328","locale":"jp","text":"<actionkey>MainInput/MainScanning</actionkey> で<color={highlight}>集中</color>すると、採集物をすぐに見つけられます。"}
+{"id":"guide_words:440238442808320","locale":"jp","text":"<color={highlight}>一括装備</color>を押してください"}
+{"id":"guide_words:440238442808576","locale":"jp","text":"<color={highlight}>一括装備</color>を押してください"}
+{"id":"guide_words:440238442808832","locale":"jp","text":"<color={highlight}>一括装備</color>を押してください"}
+{"id":"guide_words:440667939537920","locale":"jp","text":"<color={highlight}>バッグ</color>を押してください"}
+{"id":"guide_words:440667939538176","locale":"jp","text":"<color={highlight}>バッグ</color>を押してください"}
+{"id":"guide_words:440667939538432","locale":"jp","text":"<color={highlight}>バッグ</color>を押してください"}
+{"id":"guide_words:440672234505216","locale":"jp","text":"<color={highlight}>料理</color>を押してください"}
+{"id":"guide_words:440672234505472","locale":"jp","text":"<color={highlight}>料理</color>を押してください"}
+{"id":"guide_words:440672234505728","locale":"jp","text":"<color={highlight}>料理</color>を押してください"}
+{"id":"guide_words:440676529472512","locale":"jp","text":"<color={highlight}>食べる</color>を押してください"}
+{"id":"guide_words:440676529472768","locale":"jp","text":"<color={highlight}>食べる</color>を押してください"}
+{"id":"guide_words:440676529473024","locale":"jp","text":"<color={highlight}>食べる</color>を押してください"}
+{"id":"guide_words:440680824439808","locale":"jp","text":"<color={highlight}>使用確認</color>を押してください"}
+{"id":"guide_words:440680824440064","locale":"jp","text":"<color={highlight}>使用確認</color>を押してください"}
+{"id":"guide_words:440680824440320","locale":"jp","text":"<color={highlight}>使用確認</color>を押してください"}
+{"id":"guide_words:444103913374720","locale":"jp","text":"<actionkey>MainInput/MainPetBreakSkill</actionkey> で<color={highlight}>協力攻撃</color>を行います。"}
+{"id":"guide_words:444103913374976","locale":"jp","text":"押して<color={highlight}>協力攻撃</color>を発動してください"}
+{"id":"guide_words:444103913375232","locale":"jp","text":"<actionkey>MainInput/MainPetBreakSkill</actionkey> で<color={highlight}>協力攻撃</color>を行います。"}
+{"id":"guide_words:444537705071616","locale":"jp","text":"戦闘でチャージを行い、<actionkey>MainInput/MainUltimateSkill</actionkey> で<color={highlight}>星極スキル</color>を発動できます。"}
+{"id":"guide_words:444537705071872","locale":"jp","text":"戦闘でチャージを行い、Rキーで<color={highlight}>星極スキル</color>を発動できます。"}
+{"id":"guide_words:444537705072128","locale":"jp","text":"戦闘でチャージを行い、<actionkey>MainInput/MainUltimateSkill</actionkey> で<color={highlight}>星極スキル</color>を発動できます。"}
+{"id":"guide_words:444546295006208","locale":"jp","text":"チャージが満タンになったら、<actionkey>MainInput/MainUltimateSkill</actionkey> を押して<color={highlight}>星極スキル</color>を発動できます。"}
+{"id":"guide_words:444546295006464","locale":"jp","text":"チャージが満タンになったら、<actionkey>MainInput/MainUltimateSkill</actionkey> を押して<color={highlight}>星極スキル</color>を発動できます。"}
+{"id":"guide_words:444546295006720","locale":"jp","text":"チャージが満タンになったら、<actionkey>MainInput/MainUltimateSkill</actionkey> を押して<color={highlight}>星極スキル</color>を発動できます。"}
+{"id":"guide_words:47244641280","locale":"jp","text":"<color={highlight}>農園本部</color>ボタンを押してください"}
+{"id":"guide_words:47244641536","locale":"jp","text":"<color={highlight}>農園本部</color>ボタンを押してください"}
+{"id":"guide_words:47244641792","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>農園本部</color>を開く"}
+{"id":"guide_words:51539608576","locale":"jp","text":"<color={highlight}>心得</color>ボタンを押してください。"}
+{"id":"guide_words:51539608832","locale":"jp","text":"<color={highlight}>心得</color>ボタンを押してください。"}
+{"id":"guide_words:51539609088","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>心得</color>を開く"}
+{"id":"guide_words:55834575872","locale":"jp","text":"<color={highlight}>ヘルプ</color>ボタンを押してください"}
+{"id":"guide_words:55834576128","locale":"jp","text":"<color={highlight}>ヘルプ</color>ボタンを押してください"}
+{"id":"guide_words:55834576384","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ヘルプ</color>を開く"}
+{"id":"guide_words:60129543168","locale":"jp","text":"<color={highlight}>キボ図鑑</color>ボタンを押してください"}
+{"id":"guide_words:60129543424","locale":"jp","text":"<color={highlight}>キボ図鑑</color>ボタンを押してください"}
+{"id":"guide_words:60129543680","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボ図鑑</color>を開く"}
+{"id":"guide_words:64424510464","locale":"jp","text":"<color={highlight}>星源の庭</color>ボタンを押してください。"}
+{"id":"guide_words:64424510720","locale":"jp","text":"<color={highlight}>星源の庭</color>ボタンを押してください。"}
+{"id":"guide_words:64424510976","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>星源の庭</color>を開く"}
+{"id":"guide_words:68719477760","locale":"jp","text":"<color={highlight}>クエスト</color>ボタンを押してください"}
+{"id":"guide_words:68719478016","locale":"jp","text":"<color={highlight}>クエスト</color>ボタンを押してください"}
+{"id":"guide_words:68719478272","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>クエスト</color>を開く"}
+{"id":"guide_words:73014445056","locale":"jp","text":"<color={highlight}>実績</color>ボタンを押してください"}
+{"id":"guide_words:73014445312","locale":"jp","text":"<color={highlight}>実績</color>ボタンを押してください"}
+{"id":"guide_words:73014445568","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>実績</color>を開く"}
+{"id":"guide_words:8589935616","locale":"jp","text":"<actionkey>MainInput/MainOpenTeam</actionkey> <color={highlight}>チーム編成</color>ボタンを押す"}
+{"id":"guide_words:8589935872","locale":"jp","text":"<color={highlight}>チーム編成</color>ボタンを押してください"}
+{"id":"guide_words:8589936128","locale":"jp","text":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>チーム編成</color>を選択"}
+{"id":"guide_words:8590368383697920","locale":"jp","text":"星臨者、ファイト開始だ！"}
+{"id":"guide_words:8590368383698176","locale":"jp","text":"星臨者、ファイト開始だ！"}
+{"id":"guide_words:8590368383698432","locale":"jp","text":"星臨者、ファイト開始だ！"}
+{"id":"guide_words:8590372678665216","locale":"jp","text":"まずはキボカードについて知らないとな。"}
+{"id":"guide_words:8590372678665472","locale":"jp","text":"まずはキボカードについて知らないとな。"}
+{"id":"guide_words:8590372678665728","locale":"jp","text":"まずはキボカードについて知らないとな。"}
+{"id":"guide_words:8590376973632512","locale":"jp","text":"キボファイトで発揮する能力はキボによって違うんだ。"}
+{"id":"guide_words:8590376973632768","locale":"jp","text":"キボファイトで発揮する能力はキボによって違うんだ。"}
+{"id":"guide_words:8590376973633024","locale":"jp","text":"キボファイトで発揮する能力はキボによって違うんだ。"}
+{"id":"guide_words:8590381268599808","locale":"jp","text":"それぞれの能力は<color={highlight}>ファイトタグ</color>で区別できるぞ！"}
+{"id":"guide_words:8590381268600064","locale":"jp","text":"それぞれの能力は<color={highlight}>ファイトタグ</color>で区別できるぞ！"}
+{"id":"guide_words:8590381268600320","locale":"jp","text":"それぞれの能力は<color={highlight}>ファイトタグ</color>で区別できるぞ！"}
+{"id":"guide_words:8590385563567104","locale":"jp","text":"異なるタグのキボをうまく組み合わせることで、キボファイトの勝率を上げることができる。"}
+{"id":"guide_words:8590385563567360","locale":"jp","text":"異なるタグのキボをうまく組み合わせることで、キボファイトの勝率を上げることができる。"}
+{"id":"guide_words:8590385563567616","locale":"jp","text":"異なるタグのキボをうまく組み合わせることで、キボファイトの勝率を上げることができる。"}
+{"id":"guide_words:8590389858534400","locale":"jp","text":"持ってるカードから最初のキボを選んで出撃させてみろ！"}
+{"id":"guide_words:8590389858534656","locale":"jp","text":"持ってるカードから最初のキボを選んで出撃させてみろ！"}
+{"id":"guide_words:8590389858534912","locale":"jp","text":"持ってるカードから最初のキボを選んで出撃させてみろ！"}
+{"id":"guide_words:8590394153501696","locale":"jp","text":"<color={highlight}>先発キボを選択</color>を押してください"}
+{"id":"guide_words:8590394153501952","locale":"jp","text":"<color={highlight}>先発キボを選択</color>を押してください"}
+{"id":"guide_words:8590394153502208","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>先発キボを選択</color>"}
+{"id":"guide_words:8591227377157120","locale":"jp","text":"ファイトの勝敗は、<color={highlight}>ファイトポイント</color>で決まるんだ。"}
+{"id":"guide_words:8591227377157376","locale":"jp","text":"ファイトの勝敗は、<color={highlight}>ファイトポイント</color>で決まるんだ。"}
+{"id":"guide_words:8591227377157632","locale":"jp","text":"ファイトの勝敗は、<color={highlight}>ファイトポイント</color>で決まるんだ。"}
+{"id":"guide_words:8591231672124416","locale":"jp","text":"キボが<color={highlight}>戦闘不能になる</color>と、ファイトポイントが引かれていく……"}
+{"id":"guide_words:8591231672124672","locale":"jp","text":"キボが<color={highlight}>戦闘不能になる</color>と、ファイトポイントが引かれていく……"}
+{"id":"guide_words:8591231672124928","locale":"jp","text":"キボが<color={highlight}>戦闘不能になる</color>と、ファイトポイントが引かれていく……"}
+{"id":"guide_words:8591235967091712","locale":"jp","text":"<color={highlight}>片方の陣営のキボだけがフィールドにいる場合</color>、時間の経過とともにすこしずつファイトポイントが減少していくぞ。"}
+{"id":"guide_words:8591235967091968","locale":"jp","text":"<color={highlight}>片方の陣営のキボだけがフィールドにいる場合</color>、時間の経過とともにすこしずつファイトポイントが減少していくぞ。"}
+{"id":"guide_words:8591235967092224","locale":"jp","text":"<color={highlight}>片方の陣営のキボだけがフィールドにいる場合</color>、時間の経過とともにすこしずつファイトポイントが減少していくぞ。"}
+{"id":"guide_words:8591240262059008","locale":"jp","text":"<color={highlight}>ファイトポイントが0になった</color>陣営は、<color={highlight}>ファイト失敗</color>になるからな！"}
+{"id":"guide_words:8591240262059264","locale":"jp","text":"<color={highlight}>ファイトポイントが0になった</color>陣営は、<color={highlight}>ファイト失敗</color>になるからな！"}
+{"id":"guide_words:8591240262059520","locale":"jp","text":"<color={highlight}>ファイトポイントが0になった</color>陣営は、<color={highlight}>ファイト失敗</color>になるからな！"}
+{"id":"guide_words:8591244557026304","locale":"jp","text":"それから、キボファイトには時間制限もあるんだ。"}
+{"id":"guide_words:8591244557026560","locale":"jp","text":"それから、キボファイトには時間制限もあるんだ。"}
+{"id":"guide_words:8591244557026816","locale":"jp","text":"それから、キボファイトには時間制限もあるんだ。"}
+{"id":"guide_words:8591248851993600","locale":"jp","text":"カウントダウン終了時、<color={highlight}>ファイトポイントが多いほう</color>が<color={highlight}>勝ち</color>！"}
+{"id":"guide_words:8591248851993856","locale":"jp","text":"カウントダウン終了時、<color={highlight}>ファイトポイントが多いほう</color>が<color={highlight}>勝ち</color>！"}
+{"id":"guide_words:8591248851994112","locale":"jp","text":"カウントダウン終了時、<color={highlight}>ファイトポイントが多いほう</color>が<color={highlight}>勝ち</color>！"}
+{"id":"guide_words:8591656873886720","locale":"jp","text":"こっちが出すのは<color={highlight}>氷属性のウル</color>だ。ウルはすっごく強いからな！"}
+{"id":"guide_words:8591656873886976","locale":"jp","text":"こっちが出すのは<color={highlight}>氷属性のウル</color>だ。ウルはすっごく強いからな！"}
+{"id":"guide_words:8591656873887232","locale":"jp","text":"こっちが出すのは<color={highlight}>氷属性のウル</color>だ。ウルはすっごく強いからな！"}
+{"id":"guide_words:8591661168854016","locale":"jp","text":"だけど、弱点もある。"}
+{"id":"guide_words:8591661168854272","locale":"jp","text":"だけど、弱点もある。"}
+{"id":"guide_words:8591661168854528","locale":"jp","text":"だけど、弱点もある。"}
+{"id":"guide_words:8591665463821312","locale":"jp","text":"有利に進めたいなら、<color={highlight}>風属性のハーチャ</color>を出撃させてみろ！"}
+{"id":"guide_words:8591665463821568","locale":"jp","text":"有利に進めたいなら、<color={highlight}>風属性のハーチャ</color>を出撃させてみろ！"}
+{"id":"guide_words:8591665463821824","locale":"jp","text":"有利に進めたいなら、<color={highlight}>風属性のハーチャ</color>を出撃させてみろ！"}
+{"id":"guide_words:8591669758788608","locale":"jp","text":"<color=#91fff9>キボをドラッグ</color>して配置エリアに置いて"}
+{"id":"guide_words:8591669758788864","locale":"jp","text":"<color=#91fff9>キボをドラッグ</color>して配置エリアに置いて"}
+{"id":"guide_words:8591669758789120","locale":"jp","text":"<actionkey>LS</actionkey> で<color={highlight}>キボカード</color>を召喚可能エリアに移動させ、<actionkey>UI/Submit</actionkey> でキボを召喚してください"}
+{"id":"guide_words:8591674053756416","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_DpadRight</actionkey> で<color={highlight}>キボカード</color>を選択してください"}
+{"id":"guide_words:8591678348723712","locale":"jp","text":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボカード</color>の召喚を確定させてください"}
+{"id":"guide_words:8592515867345920","locale":"jp","text":"<color={highlight}>視点切り替え</color>を押すんだ"}
+{"id":"guide_words:8592515867346176","locale":"jp","text":"<color={highlight}>視点切り替え</color>を押すんだ"}
+{"id":"guide_words:8592515867346432","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_R3</actionkey> で<color={highlight}>視点変更</color>できます"}
+{"id":"guide_words:8592945364075520","locale":"jp","text":"どーだ？カンタンだろ？"}
+{"id":"guide_words:8592945364075776","locale":"jp","text":"どーだ？カンタンだろ？"}
+{"id":"guide_words:8592945364076032","locale":"jp","text":"どーだ？カンタンだろ？"}
+{"id":"guide_words:8592949659042816","locale":"jp","text":"ほら、<color={highlight}>つぎキボ</color>も配置してみろ！"}
+{"id":"guide_words:8592949659043072","locale":"jp","text":"ほら、<color={highlight}>つぎキボ</color>も配置してみろ！"}
+{"id":"guide_words:8592949659043328","locale":"jp","text":"ほら、<color={highlight}>つぎキボ</color>も配置してみろ！"}
+{"id":"guide_words:8593374860805120","locale":"jp","text":"同時にフィールドに出せるキボの数には数の限りがある。"}
+{"id":"guide_words:8593374860805376","locale":"jp","text":"同時にフィールドに出せるキボの数には数の限りがある。"}
+{"id":"guide_words:8593374860805632","locale":"jp","text":"同時にフィールドに出せるキボの数には数の限りがある。"}
+{"id":"guide_words:8593379155772416","locale":"jp","text":"フィールドのキボが上限に達した場合、呼び出すにはカードのなかから一体を選んで入れ替える必要があるんだ。"}
+{"id":"guide_words:8593379155772672","locale":"jp","text":"フィールドのキボが上限に達した場合、呼び出すにはカードのなかから一体を選んで入れ替える必要があるんだ。"}
+{"id":"guide_words:8593379155772928","locale":"jp","text":"フィールドのキボが上限に達した場合、呼び出すにはカードのなかから一体を選んで入れ替える必要があるんだ。"}
+{"id":"guide_words:8593383450739712","locale":"jp","text":"試してみろ！"}
+{"id":"guide_words:8593383450739968","locale":"jp","text":"試してみろ！"}
+{"id":"guide_words:8593383450740224","locale":"jp","text":"試してみろ！"}
+{"id":"guide_words:8593387745707008","locale":"jp","text":"<color={highlight}>キボ入れ替え</color>を押すんだ"}
+{"id":"guide_words:8593387745707264","locale":"jp","text":"<color={highlight}>キボ入れ替え</color>を押すんだ"}
+{"id":"guide_words:8593387745707520","locale":"jp","text":"<color={highlight}>キボ入れ替え</color>を押してください"}
+{"id":"guide_words:8593392040674304","locale":"jp","text":"もうバッチリみたいだな。"}
+{"id":"guide_words:8593392040674560","locale":"jp","text":"もうバッチリみたいだな。"}
+{"id":"guide_words:8593392040674816","locale":"jp","text":"もうバッチリみたいだな。"}
+{"id":"guide_words:8593396335641600","locale":"jp","text":"こっからさきは自由にやってみろ！"}
+{"id":"guide_words:8593396335641856","locale":"jp","text":"こっからさきは自由にやってみろ！"}
+{"id":"guide_words:8593396335642112","locale":"jp","text":"こっからさきは自由にやってみろ！"}
+{"id":"guide_words:8593804357534720","locale":"jp","text":"キボはそれぞれ異なる<color={highlight}>ファイトタグ</color>を持ってて、得意とする能力も違うんだ。"}
+{"id":"guide_words:8593804357534976","locale":"jp","text":"キボはそれぞれ異なる<color={highlight}>ファイトタグ</color>を持ってて、得意とする能力も違うんだ。"}
+{"id":"guide_words:8593804357535232","locale":"jp","text":"キボはそれぞれ異なる<color={highlight}>ファイトタグ</color>を持ってて、得意とする能力も違うんだ。"}
+{"id":"guide_words:8593808652502016","locale":"jp","text":"キボファイトの時は、できるだけキボの長所を活かすようにするといいぞ。"}
+{"id":"guide_words:8593808652502272","locale":"jp","text":"キボファイトの時は、できるだけキボの長所を活かすようにするといいぞ。"}
+{"id":"guide_words:8593808652502528","locale":"jp","text":"キボファイトの時は、できるだけキボの長所を活かすようにするといいぞ。"}
+{"id":"guide_words:8593812947469312","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8593812947469568","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8593812947469824","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8594233854264320","locale":"jp","text":"防御するキボを配置したら、つぎは<color={highlight}>火力</color>を担当するキボを配置するんだ。"}
+{"id":"guide_words:8594233854264576","locale":"jp","text":"<color={highlight}>防御</color>のキボを配置したら、次は<color={highlight}>火力</color>を担当するキボを配置しましょう。"}
+{"id":"guide_words:8594233854264832","locale":"jp","text":"<color={highlight}>防御</color>のキボを配置したら、次は<color={highlight}>火力</color>を担当するキボを配置しましょう。"}
+{"id":"guide_words:8594238149231616","locale":"jp","text":"じゃあ、<color={highlight}>遠距離タグ</color>を持つ<color={highlight}>クローネック</color>を配置してみよう。"}
+{"id":"guide_words:8594238149231872","locale":"jp","text":"じゃあ、<color={highlight}>遠距離タグ</color>を持つ<color={highlight}>クローネック</color>を配置してみよう。"}
+{"id":"guide_words:8594238149232128","locale":"jp","text":"じゃあ、<color={highlight}>遠距離タグ</color>を持つ<color={highlight}>クローネック</color>を配置してみよう。"}
+{"id":"guide_words:8594663350993920","locale":"jp","text":"防御型と火力型のキボが揃えば、自然と<color={highlight}>回復</color>担当のキボも必要になる！"}
+{"id":"guide_words:8594663350994176","locale":"jp","text":"防御型と火力型のキボが揃えば、自然と<color={highlight}>回復</color>担当のキボも必要になる！"}
+{"id":"guide_words:8594663350994432","locale":"jp","text":"防御型と火力型のキボが揃えば、自然と<color={highlight}>回復</color>担当のキボも必要になる！"}
+{"id":"guide_words:8594667645961216","locale":"jp","text":"<color={highlight}>回復タグ</color>を持つクロディーメを配置しよう！"}
+{"id":"guide_words:8594667645961472","locale":"jp","text":"<color={highlight}>回復タグ</color>を持つクロディーメを配置しよう！"}
+{"id":"guide_words:8594667645961728","locale":"jp","text":"<color={highlight}>回復タグ</color>を持つクロディーメを配置しよう！"}
+{"id":"guide_words:8594671940928512","locale":"jp","text":"これで、防御、攻撃、回復の鉄板トリオの完成だ！"}
+{"id":"guide_words:8594671940928768","locale":"jp","text":"これで、防御、攻撃、回復の鉄板トリオの完成だ！"}
+{"id":"guide_words:8594671940929024","locale":"jp","text":"これで、防御、攻撃、回復の鉄板トリオの完成だ！"}
+{"id":"guide_words:8595092847723520","locale":"jp","text":"回復タイプのキボはスキルを使用することで、ダメージを受けたキボのHPを回復できる。"}
+{"id":"guide_words:8595092847723776","locale":"jp","text":"回復タイプのキボはスキルを使用することで、ダメージを受けたキボのHPを回復できる。"}
+{"id":"guide_words:8595092847724032","locale":"jp","text":"回復タイプのキボはスキルを使用することで、ダメージを受けたキボのHPを回復できる。"}
+{"id":"guide_words:8595522344453120","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8595522344453376","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8595522344453632","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8595951841182720","locale":"jp","text":"相手の出撃してる2体のキボはどちらも<color={highlight}>風属性</color>だ。"}
+{"id":"guide_words:8595951841182976","locale":"jp","text":"相手の出撃してる2体のキボはどちらも<color={highlight}>風属性</color>だ。"}
+{"id":"guide_words:8595951841183232","locale":"jp","text":"相手の出撃してる2体のキボはどちらも<color={highlight}>風属性</color>だ。"}
+{"id":"guide_words:8595956136150016","locale":"jp","text":"風属性に有利な<color={highlight}>木属性</color>のキボ、クローネックとフォーリーを配置しよう！"}
+{"id":"guide_words:8595956136150272","locale":"jp","text":"風属性に有利な<color={highlight}>木属性</color>のキボ、クローネックとフォーリーを配置しよう！"}
+{"id":"guide_words:8595956136150528","locale":"jp","text":"風属性に有利な<color={highlight}>木属性</color>のキボ、クローネックとフォーリーを配置しよう！"}
+{"id":"guide_words:8595960431117312","locale":"jp","text":"<color={highlight}>属性で有利</color>な場合、キボの与えるダメージが大幅にアップするぞ！"}
+{"id":"guide_words:8595960431117568","locale":"jp","text":"<color={highlight}>属性で有利</color>な場合、キボの与えるダメージが大幅にアップするぞ！"}
+{"id":"guide_words:8595960431117824","locale":"jp","text":"<color={highlight}>属性で有利</color>な場合、キボの与えるダメージが大幅にアップするぞ！"}
+{"id":"guide_words:8596381337912320","locale":"jp","text":"相手がこっちのマグマロスにとって<color={highlight}>不利</color>なマスティーバを出撃させたな！"}
+{"id":"guide_words:8596381337912576","locale":"jp","text":"相手がこっちのマグマロスにとって<color={highlight}>不利</color>なマスティーバを出撃させたな！"}
+{"id":"guide_words:8596381337912832","locale":"jp","text":"相手がこっちのマグマロスにとって<color={highlight}>不利</color>なマスティーバを出撃させたな！"}
+{"id":"guide_words:8596385632879616","locale":"jp","text":"<color={highlight}>入れ替え</color>を使って、マグマロスをカメレウスに入れ替えよう！"}
+{"id":"guide_words:8596385632879872","locale":"jp","text":"<color={highlight}>入れ替え</color>を使って、マグマロスをカメレウスに入れ替えよう！"}
+{"id":"guide_words:8596385632880128","locale":"jp","text":"<color={highlight}>入れ替え</color>を使って、マグマロスをカメレウスに入れ替えよう！"}
+{"id":"guide_words:8596389927846912","locale":"jp","text":"木属性のカメレウスは水属性のマスティーバに対して有利だから、受けるダメージが大きく減るんだ。"}
+{"id":"guide_words:8596389927847168","locale":"jp","text":"木属性のカメレウスは水属性のマスティーバに対して有利だから、受けるダメージが大きく減るんだ。"}
+{"id":"guide_words:8596389927847424","locale":"jp","text":"木属性のカメレウスは水属性のマスティーバに対して有利だから、受けるダメージが大きく減るんだ。"}
+{"id":"guide_words:8596810834641920","locale":"jp","text":"敵のラフィーロックは味方のクローネックに対して<color={highlight}>有利</color>"}
+{"id":"guide_words:8596810834642176","locale":"jp","text":"敵のラフィーロックは味方のクローネックに対して<color={highlight}>有利</color>"}
+{"id":"guide_words:8596810834642432","locale":"jp","text":"敵のラフィーロックは味方のクローネックに対して<color={highlight}>有利</color>"}
+{"id":"guide_words:8596815129609216","locale":"jp","text":"<color={highlight}>入れ替え</color>を使って、クローネックをメテオールに入れ替えよう"}
+{"id":"guide_words:8596815129609472","locale":"jp","text":"<color={highlight}>入れ替え</color>を使って、クローネックをメテオールに入れ替えよう"}
+{"id":"guide_words:8596815129609728","locale":"jp","text":"<color={highlight}>入れ替え</color>を使って、クローネックをメテオールに入れ替えよう"}
+{"id":"guide_words:8596819424576512","locale":"jp","text":"水属性のメテオールは火属性のフィーロックに対して有利だから、より大きなダメージを与えることができる。"}
+{"id":"guide_words:8596819424576768","locale":"jp","text":"水属性のメテオールは火属性のフィーロックに対して有利だから、より大きなダメージを与えることができる。"}
+{"id":"guide_words:8596819424577024","locale":"jp","text":"水属性のメテオールは火属性のフィーロックに対して有利だから、より大きなダメージを与えることができる。"}
+{"id":"guide_words:8596823719544320","locale":"jp","text":"<actionkey>GamepadUI/GamepadUI_DpadRight</actionkey>で<color={highlight}>二枚目のキボカード</color>を選んでください"}
+{"id":"guide_words:8597240331371520","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8597240331371776","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8597240331372032","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8597669828101120","locale":"jp","text":"一部のキボは待機中に<color={highlight}>エネルギーを回復</color>できるんだ！"}
+{"id":"guide_words:8597669828101376","locale":"jp","text":"一部のキボは待機中に<color={highlight}>エネルギーを回復</color>できるんだ！"}
+{"id":"guide_words:8597669828101632","locale":"jp","text":"一部のキボは待機中に<color={highlight}>エネルギーを回復</color>できるんだ！"}
+{"id":"guide_words:8597674123068416","locale":"jp","text":"エネルギーが最大のキボを呼び出すと、<color={highlight}>登場スキル</color>が発動するぞ！"}
+{"id":"guide_words:8597674123068672","locale":"jp","text":"エネルギーが最大のキボを呼び出すと、<color={highlight}>登場スキル</color>が発動するぞ！"}
+{"id":"guide_words:8597674123068928","locale":"jp","text":"エネルギーが最大のキボを呼び出すと、<color={highlight}>登場スキル</color>が発動するぞ！"}
+{"id":"guide_words:8597678418035712","locale":"jp","text":"エネルギーが最大のキボを連続でフィールドに出すことで、すっごい力を発揮できるんだ。"}
+{"id":"guide_words:8597678418035968","locale":"jp","text":"エネルギーが最大のキボを連続でフィールドに出すことで、すっごい力を発揮できるんだ。"}
+{"id":"guide_words:8597678418036224","locale":"jp","text":"エネルギーが最大のキボを連続でフィールドに出すことで、すっごい力を発揮できるんだ。"}
+{"id":"guide_words:8598099324830720","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>シーロック</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8598099324830976","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>シーロック</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8598099324831232","locale":"jp","text":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>シーロック</color>を最前線に配置して、ダメージを吸収させよう。"}
+{"id":"guide_words:8598528821560320","locale":"jp","text":"<color={highlight}>火属性の天候</color>は相手の<color={highlight}>火属性のキボ</color>に強力なバフ効果を与えるんだ。"}
+{"id":"guide_words:8598528821560576","locale":"jp","text":"<color={highlight}>火属性の天候</color>は相手の<color={highlight}>火属性のキボ</color>に強力なバフ効果を与えるんだ。"}
+{"id":"guide_words:8598528821560832","locale":"jp","text":"<color={highlight}>火属性の天候</color>は相手の<color={highlight}>火属性のキボ</color>に強力なバフ効果を与えるんだ。"}
+{"id":"guide_words:8598533116527616","locale":"jp","text":"<color={highlight}>タイダレスト</color>を出撃させて、<color={highlight}>天候を水属性に変える</color>ことで、水属性のキボにバフを付与できる！"}
+{"id":"guide_words:8598533116527872","locale":"jp","text":"<color={highlight}>タイダレスト</color>を出撃させて、<color={highlight}>天候を水属性に変える</color>ことで、水属性のキボにバフを付与できる！"}
+{"id":"guide_words:8598533116528128","locale":"jp","text":"<color={highlight}>タイダレスト</color>を出撃させて、<color={highlight}>天候を水属性に変える</color>ことで、水属性のキボにバフを付与できる！"}
+{"id":"guide_words:8598958318289920","locale":"jp","text":"つぎは<color={highlight}>水属性のキボ、マスティーバ</color>を出撃させて、天候の追加バフ効果を獲得しよう。"}
+{"id":"guide_words:8598958318290176","locale":"jp","text":"つぎは<color={highlight}>水属性のキボ、マスティーバ</color>を出撃させて、天候の追加バフ効果を獲得しよう。"}
+{"id":"guide_words:8598958318290432","locale":"jp","text":"つぎは<color={highlight}>水属性のキボ、マスティーバ</color>を出撃させて、天候の追加バフ効果を獲得しよう。"}
+{"id":"guide_words:8637613023953920","locale":"jp","text":"刻印は一部のスキルで<color={highlight}>消費</color>され、対応するスキルを強化することもできるのだ。"}
+{"id":"guide_words:8637613023954176","locale":"jp","text":"刻印は一部のスキルで<color={highlight}>消費</color>され、対応するスキルを強化することもできるのだ。"}
+{"id":"guide_words:8637613023954432","locale":"jp","text":"刻印は一部のスキルで<color={highlight}>消費</color>され、対応するスキルを強化することもできるのだ。"}
+{"id":"guide_words:8637617318921216","locale":"jp","text":"まずはミィティに<color={highlight}>星響スキル</color>か<color={highlight}>星極スキル</color>を発動させて、敵に<color={highlight}>刻印</color>を付与しよう。"}
+{"id":"guide_words:8637617318921472","locale":"jp","text":"まずはミィティに<color={highlight}>星響スキル</color>か<color={highlight}>星極スキル</color>を発動させて、敵に<color={highlight}>刻印</color>を付与しよう。"}
+{"id":"guide_words:8637617318921728","locale":"jp","text":"まずはミィティに<color={highlight}>星響スキル</color>か<color={highlight}>星極スキル</color>を発動させて、敵に<color={highlight}>刻印</color>を付与しよう。"}
+{"id":"guide_words:8638042520683520","locale":"jp","text":"ポンポンの<color={highlight}>星響スキル</color>と<color={highlight}>星極スキル</color>は、どっちも雷属性の刻印を消費して<color={highlight}>EX爆発</color>を発動することができるぞ。"}
+{"id":"guide_words:8638042520683776","locale":"jp","text":"ポンポンの<color={highlight}>星響スキル</color>と<color={highlight}>星極スキル</color>は、どっちも雷属性の刻印を消費して<color={highlight}>EX爆発</color>を発動することができるぞ。"}
+{"id":"guide_words:8638042520684032","locale":"jp","text":"ポンポンの<color={highlight}>星響スキル</color>と<color={highlight}>星極スキル</color>は、どっちも雷属性の刻印を消費して<color={highlight}>EX爆発</color>を発動することができるぞ。"}
+{"id":"guide_words:8638046815650816","locale":"jp","text":"つぎはポンポンに<color={highlight}>星響スキル</color>か<color={highlight}>星極スキル</color>を発動させてみるのだ！"}
+{"id":"guide_words:8638046815651072","locale":"jp","text":"つぎはポンポンに<color={highlight}>星響スキル</color>か<color={highlight}>星極スキル</color>を発動させてみるのだ！"}
+{"id":"guide_words:8638046815651328","locale":"jp","text":"つぎはポンポンに<color={highlight}>星響スキル</color>か<color={highlight}>星極スキル</color>を発動させてみるのだ！"}

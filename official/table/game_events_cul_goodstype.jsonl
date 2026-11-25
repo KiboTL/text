@@ -1,0 +1,9 @@
+{"id":"game_events_cul_goodstype:12884902144","locale":"jp","text":"料理"}
+{"id":"game_events_cul_goodstype:12884903424","locale":"jp","text":"1日あたりの料理の購入上限に達しています。"}
+{"id":"game_events_cul_goodstype:12884903936","locale":"jp","text":"本日の料理の購入制限：{0}/{1}回"}
+{"id":"game_events_cul_goodstype:17179869440","locale":"jp","text":"スイーツ"}
+{"id":"game_events_cul_goodstype:17179870720","locale":"jp","text":"1日あたりのスイーツの購入上限に達しています。"}
+{"id":"game_events_cul_goodstype:17179871232","locale":"jp","text":"本日のスイーツの購入制限：{0}/{1}回"}
+{"id":"game_events_cul_goodstype:25769804032","locale":"jp","text":"ポーション"}
+{"id":"game_events_cul_goodstype:8589934848","locale":"jp","text":"狩猟パス"}
+{"id":"game_events_cul_goodstype:8589936384","locale":"jp","text":"現在の狩猟パスの狩猟を完了させよう。"}

@@ -1,0 +1,10 @@
+{"id":"shared:serverlist:1001:0:Desc","en":"Alpha Server","ru":"Альфа-сервер"}
+{"id":"shared:serverlist:1002:1:Desc","en":"Alpha Backup Server","ru":"Резервный альфа-сервер"}
+{"id":"shared:serverlist:1003:2:Desc","en":"Master Server","ru":"Мастер-сервер"}
+{"id":"shared:serverlist:1004:3:Desc","en":"QA Server","ru":"QA-сервер"}
+{"id":"shared:serverlist:2002:4:Desc","en":"Chancellor Server (Development)","ru":"Сервер Канцлера (разработка)"}
+{"id":"shared:serverlist:4004:5:Desc","en":"Beta Server","ru":"Бета-сервер"}
+{"id":"shared:serverlist:6006:10:Desc","en":"Anlan","ru":"Аньлань"}
+{"id":"shared:serverlist:7007:11:Desc","en":"Tang Peng","ru":"Тан Пэн"}
+{"id":"shared:serverlist:8008:12:Desc","en":"Jiaxin","ru":"Цзясинь"}
+{"id":"shared:serverlist:9009:13:Desc","en":"Individual Server","ru":"Индивидуальный сервер"}

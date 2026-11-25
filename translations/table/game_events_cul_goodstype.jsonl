@@ -1,0 +1,9 @@
+{"id":"game_events_cul_goodstype:12884902144","en":"Cooking","ru":"Блюда"}
+{"id":"game_events_cul_goodstype:12884903424","en":"You have reached the daily purchase limit for cooking.1","ru":"Достигнут дневной лимит покупки блюд.1"}
+{"id":"game_events_cul_goodstype:12884903936","en":"Daily cooking purchase limit: {0}/{1}","ru":"Дневной лимит покупки блюд: {0}/{1}"}
+{"id":"game_events_cul_goodstype:17179869440","en":"Sweets","ru":"Сладости"}
+{"id":"game_events_cul_goodstype:17179870720","en":"You have reached the daily purchase limit for sweets.1","ru":"Достигнут дневной лимит покупки сладостей.1"}
+{"id":"game_events_cul_goodstype:17179871232","en":"Daily sweets purchase limit: {0}/{1}","ru":"Дневной лимит покупки сладостей: {0}/{1}"}
+{"id":"game_events_cul_goodstype:25769804032","en":"Potion","ru":"Зелье"}
+{"id":"game_events_cul_goodstype:8589934848","en":"Hunting Pass","ru":"Охотничий пропуск"}
+{"id":"game_events_cul_goodstype:8589936384","en":"Complete the hunt on your current Hunting Pass.","ru":"Завершите охоту по текущему Охотничьему пропуску."}

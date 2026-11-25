@@ -1,0 +1,72 @@
+{"id":"common_item_type:1288490189568","en":"Wood","ru":"Древесина"}
+{"id":"common_item_type:1292785156864","en":"Stone","ru":"Камень"}
+{"id":"common_item_type:1297080124160","en":"Material","ru":"Материал"}
+{"id":"common_item_type:1301375091456","en":"Ore","ru":"Руда"}
+{"id":"common_item_type:1309965026048","en":"Crop","ru":"Урожай"}
+{"id":"common_item_type:1314259993344","en":"Fruit","ru":"Фрукты"}
+{"id":"common_item_type:1318554960640","en":"Herb","ru":"Лекарственные травы"}
+{"id":"common_item_type:1322849927936","en":"Meat, Eggs & Dairy","ru":"Мясо, яйца и молочные продукты"}
+{"id":"common_item_type:1327144895232","en":"Fish","ru":"Рыба"}
+{"id":"common_item_type:1331439862528","en":"Seeds","ru":"Семена"}
+{"id":"common_item_type:1335734829824","en":"Material: Fine Particles","ru":"Материал: мелкие частицы"}
+{"id":"common_item_type:1340029797120","en":"Stella Card Material","ru":"Материал карты звёзд"}
+{"id":"common_item_type:1344324764416","en":"Leather & Cloth","ru":"Кожа и ткань"}
+{"id":"common_item_type:1348619731712","en":"Flowers","ru":"Цветы"}
+{"id":"common_item_type:1352914699008","en":"Crafts","ru":"Изделия"}
+{"id":"common_item_type:1357209666304","en":"Currently Unused","ru":"Сейчас не используется"}
+{"id":"common_item_type:1361504633600","en":"Cooking Ingredient","ru":"Полуфабрикат для готовки"}
+{"id":"common_item_type:1503238554368","en":"Industrial Ingredient","ru":"Промышленный полуфабрикат"}
+{"id":"common_item_type:1507533521664","en":"Brick","ru":"Кирпич"}
+{"id":"common_item_type:1516123456256","en":"Ingot","ru":"Слиток"}
+{"id":"common_item_type:1520418423552","en":"Currently Unused","ru":"Сейчас не используется"}
+{"id":"common_item_type:1524713390848","en":"Dish","ru":"Блюдо"}
+{"id":"common_item_type:1537598292736","en":"Golden Crop","ru":"Золотой урожай"}
+{"id":"common_item_type:1546188227328","en":"Cooking Material","ru":"Кулинарный материал"}
+{"id":"common_item_type:1717986919168","en":"Character EXP Material","ru":"Материал опыта персонажа"}
+{"id":"common_item_type:1726576853760","en":"Kibo EXP Fruit","ru":"Плод опыта кибо"}
+{"id":"common_item_type:1730871821056","en":"Spirit Particle EXP Material","ru":"Материал опыта духовных частиц"}
+{"id":"common_item_type:1735166788352","en":"Material","ru":"Материал"}
+{"id":"common_item_type:1743756722944","en":"Farm Pet Related","ru":"Связано с питомцами фермы"}
+{"id":"common_item_type:1748051690240","en":"Farm Pet Related","ru":"Связано с питомцами фермы"}
+{"id":"common_item_type:1752346657536","en":"Farm Pet Related","ru":"Связано с питомцами фермы"}
+{"id":"common_item_type:1760936592128","en":"Stella Card","ru":"Карта звёзд"}
+{"id":"common_item_type:1765231559424","en":"Potential Training Material","ru":"Материал тренировки потенциала"}
+{"id":"common_item_type:1803886265088","en":"Fishing Rod","ru":"Удочка"}
+{"id":"common_item_type:1808181232384","en":"Fishing Bait","ru":"Рыболовная приманка"}
+{"id":"common_item_type:1821066134272","en":"Star Gift","ru":"Звёздный дар"}
+{"id":"common_item_type:1846835938048","en":"Removal Charm","ru":"Талисман удаления"}
+{"id":"common_item_type:1851130905344","en":"Exchange Charm","ru":"Талисман обмена"}
+{"id":"common_item_type:1889785611008","en":"Character Tuning Item","ru":"Предмет настройки персонажа"}
+{"id":"common_item_type:1894080578304","en":"Special Acquisition: Growth Material for 3 Starting Kibos","ru":"Особое получение: материал роста для 3 стартовых кибо"}
+{"id":"common_item_type:2143188681472","en":"Kibo Growth Item","ru":"Предмет развития кибо"}
+{"id":"common_item_type:214748365568","en":"For Equipment Display","ru":"Для отображения снаряжения"}
+{"id":"common_item_type:21474837248","en":"Random Gift Pack","ru":"Случайный подарочный набор"}
+{"id":"common_item_type:2151778616064","en":"Gacha Ticket","ru":"Билет гачи"}
+{"id":"common_item_type:2156073583360","en":"Green & Yellow Ticket","ru":"Зелёный и жёлтый билеты"}
+{"id":"common_item_type:2233382994688","en":"Insight Item","ru":"Предмет познаний"}
+{"id":"common_item_type:2538325672704","en":"Set Shared Material","ru":"Общий материал набора"}
+{"id":"common_item_type:2542620640000","en":"Set-Exclusive Material","ru":"Эксклюзивный материал набора"}
+{"id":"common_item_type:2546915607296","en":"Specified Material","ru":"Указанный материал"}
+{"id":"common_item_type:2576980378368","en":"Character Ascension｜Anima Ascension｜Skill Level-Up","ru":"Возвышение персонажа｜Возвышение анимы｜Повышение уровня навыка"}
+{"id":"common_item_type:25769804544","en":"Selectable Gift Pack","ru":"Выбираемый подарочный набор"}
+{"id":"common_item_type:2581275345664","en":"Character Ascension｜Anima Ascension｜Skill Level-Up","ru":"Возвышение персонажа｜Возвышение анимы｜Повышение уровня навыка"}
+{"id":"common_item_type:2585570312960","en":"Character Ascension Material","ru":"Материал возвышения персонажа"}
+{"id":"common_item_type:2589865280256","en":"Skill Level-Up Material","ru":"Материал повышения уровня навыка"}
+{"id":"common_item_type:2594160247552","en":"Anima Ascension Material","ru":"Материал возвышения анимы"}
+{"id":"common_item_type:2598455214848","en":"Character Ascension Material","ru":"Материал возвышения персонажа"}
+{"id":"common_item_type:2602750182144","en":"Skill Level-Up Material2","ru":"Материал повышения уровня навыка2"}
+{"id":"common_item_type:2607045149440","en":"Star Blessing Rank-Up Material","ru":"Материал повышения ранга звёздного благословения"}
+{"id":"common_item_type:30064771840","en":"Fixed Gift Pack","ru":"Фиксированный подарочный набор"}
+{"id":"common_item_type:3010772075264","en":"Medicine","ru":"Лекарство"}
+{"id":"common_item_type:3036541879040","en":"Retired Cooking Recipe","ru":"Устаревший рецепт блюда"}
+{"id":"common_item_type:3865470567168","en":"Other","ru":"Прочее"}
+{"id":"common_item_type:3908420240128","en":"Activity","ru":"Активность"}
+{"id":"common_item_type:3912715207424","en":"Journey Points","ru":"Очки пути"}
+{"id":"common_item_type:4209067950848","en":"Anima Shared Star-Up Material","ru":"Общий материал повышения звёзд анимы"}
+{"id":"common_item_type:429496730368","en":"Stamina Recovery Potion","ru":"Зелье восстановления выносливости"}
+{"id":"common_item_type:42949673728","en":"Star-Up Material","ru":"Материал для повышения звёзд"}
+{"id":"common_item_type:4295401087697664","en":"Dungeon Entry Ticket","ru":"Билет в подземелье"}
+{"id":"common_item_type:4724464026368","en":"Equipment Crafting Material","ru":"Материал для создания снаряжения"}
+{"id":"common_item_type:5158255723264","en":"Monthly Pass Exchange Item (Exclusive)","ru":"Предмет обмена месячного пропуска (эксклюзивный)"}
+{"id":"common_item_type:5162550690560","en":"Advanced Pass Exchange Item (Exclusive)","ru":"Предмет обмена продвинутого пропуска (эксклюзивный)"}
+{"id":"common_item_type:5166845657856","en":"Deluxe Pass Exchange Item (Exclusive)","ru":"Предмет обмена роскошного пропуска (эксклюзивный)"}

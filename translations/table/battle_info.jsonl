@@ -1,0 +1,202 @@
+{"id":"battle_info:1000727380992","en":"Elemental Disadvantage DMG Multiplier","ru":"Множитель урона при невыгодной стихии"}
+{"id":"battle_info:1005022348288","en":"DMG Taken During Break Amplification (Non-EX)","ru":"Усиление получаемого урона во время прорыва (кроме EX)"}
+{"id":"battle_info:103079216128","en":"Incoming Healing Bonus","ru":"Бонус получаемого лечения"}
+{"id":"battle_info:107374183424","en":"-","ru":"-"}
+{"id":"battle_info:111669150720","en":"-","ru":"-"}
+{"id":"battle_info:115964118016","en":"-","ru":"-"}
+{"id":"battle_info:120259085312","en":"-","ru":"-"}
+{"id":"battle_info:124554052608","en":"DEF Penetration %","ru":"Пробитие защиты %"}
+{"id":"battle_info:128849019904","en":"-","ru":"-"}
+{"id":"battle_info:12884902912","en":"DEF","ru":"Защита"}
+{"id":"battle_info:1292785157120","en":"Normal Attack Interval","ru":"Интервал обычных атак"}
+{"id":"battle_info:1297080124416","en":"Kibo Revival Time","ru":"Время возрождения кибо"}
+{"id":"battle_info:1301375091712","en":"Kibo Puzzle Element","ru":"Стихия головоломки кибо"}
+{"id":"battle_info:1305670059008","en":"Cost","ru":"Стоимость"}
+{"id":"battle_info:1309965026304","en":"Max Cost","ru":"Макс. стоимость"}
+{"id":"battle_info:1314259993600","en":"Cost Growth Time (ms)","ru":"Время роста стоимости (мс)"}
+{"id":"battle_info:1318554960896","en":"Stage Starting Cost","ru":"Начальная стоимость этапа"}
+{"id":"battle_info:133143987200","en":"Lifesteal","ru":"Похищение жизни"}
+{"id":"battle_info:137438954496","en":"Reflect","ru":"Отражение"}
+{"id":"battle_info:141733921792","en":"Cooldown Reduction","ru":"Сокращение перезарядки"}
+{"id":"battle_info:146028889088","en":"Weight","ru":"Вес"}
+{"id":"battle_info:150323856384","en":"Movement Speed","ru":"Скорость передвижения"}
+{"id":"battle_info:154618823680","en":"Dash Speed Modifier","ru":"Модификатор скорости рывка"}
+{"id":"battle_info:158913790976","en":"Walking Speed","ru":"Скорость ходьбы"}
+{"id":"battle_info:163208758272","en":"Engage Speed","ru":"Скорость вступления в бой"}
+{"id":"battle_info:167503725568","en":"Mount Jump Height","ru":"Высота прыжка скакуна"}
+{"id":"battle_info:171798692864","en":"Mount Jump Distance","ru":"Дальность прыжка скакуна"}
+{"id":"battle_info:17179870208","en":"-","ru":"-"}
+{"id":"battle_info:1722281886720","en":"Counter Value Gain Duration","ru":"Длительность накопления значения контратаки"}
+{"id":"battle_info:1726576854016","en":"Counter Value Retention Time","ru":"Время удержания значения контратаки"}
+{"id":"battle_info:1730871821312","en":"Counter Value Decay Speed","ru":"Скорость снижения значения контратаки"}
+{"id":"battle_info:1735166788608","en":"Counter Activation Threshold Change %","ru":"Изменение порога активации контратаки, %"}
+{"id":"battle_info:176093660160","en":"In-Combat Walking Speed","ru":"Скорость ходьбы в бою"}
+{"id":"battle_info:180388627456","en":"Out-of-Combat Sprint Speed","ru":"Скорость бега вне боя"}
+{"id":"battle_info:184683594752","en":"Mount Jump Available","ru":"Доступен прыжок скакуна"}
+{"id":"battle_info:188978562048","en":"Mount Dash Available","ru":"Доступен рывок скакуна"}
+{"id":"battle_info:193273529344","en":"Movement Speed Modifier Stat","ru":"Стат модификатора скорости"}
+{"id":"battle_info:197568496640","en":"Mount Ground Speed %","ru":"Скорость скакуна на земле %"}
+{"id":"battle_info:201863463936","en":"Mount Flight Speed %","ru":"Скорость скакуна в полёте %"}
+{"id":"battle_info:206158431232","en":"Mount Swim Speed %","ru":"Скорость скакуна вплавь %"}
+{"id":"battle_info:210453398528","en":"Mount Dive Speed %","ru":"Скорость скакуна под водой %"}
+{"id":"battle_info:21474837504","en":"HP","ru":"ОЗ"}
+{"id":"battle_info:2151778616320","en":"Execute","ru":"Исполнение"}
+{"id":"battle_info:2156073583616","en":"Insight","ru":"Прозрение"}
+{"id":"battle_info:2160368550912","en":"Perception","ru":"Восприятие"}
+{"id":"battle_info:2164663518208","en":"Disturbance Rate Gain Modifier","ru":"Модификатор прироста уровня возмущения"}
+{"id":"battle_info:2168958485504","en":"Voidgold Gain Rate","ru":"Скорость получения пустозолота"}
+{"id":"battle_info:2173253452800","en":"Item Purchase Discount","ru":"Скидка на покупку предметов"}
+{"id":"battle_info:2177548420096","en":"Selection Count","ru":"Число выборов"}
+{"id":"battle_info:2181843387392","en":"Reroll Count","ru":"Число перебросов"}
+{"id":"battle_info:2186138354688","en":"Infostream Gain Modifier","ru":"Модификатор прироста инфопотока"}
+{"id":"battle_info:2190433321984","en":"Voidgold Amount","ru":"Количество пустозолота"}
+{"id":"battle_info:219043333120","en":"Non-elemental DMG Bonus","ru":"Усиление урона без элемента"}
+{"id":"battle_info:2194728289280","en":"Infostream Amount","ru":"Количество инфопотока"}
+{"id":"battle_info:2199023256576","en":"Disturbance Rate Amount","ru":"Величина уровня возмущения"}
+{"id":"battle_info:2203318223872","en":"Evade Counter DMG","ru":"Урон контратаки после уклонения"}
+{"id":"battle_info:2207613191168","en":"Kibo Special Skill Cooldown Reduction","ru":"Сокращение перезарядки особого навыка кибо"}
+{"id":"battle_info:2211908158464","en":"Kibo ATK","ru":"Сила атаки кибо"}
+{"id":"battle_info:2216203125760","en":"Kibo Max HP","ru":"Макс. ОЗ кибо"}
+{"id":"battle_info:2220498093056","en":"Kibo Crit Rate","ru":"Крит. шанс кибо"}
+{"id":"battle_info:2224793060352","en":"Kibo Crit DMG","ru":"Крит. урон кибо"}
+{"id":"battle_info:223338300416","en":"Fire DMG Bonus","ru":"Усиление огненного урона"}
+{"id":"battle_info:227633267712","en":"Wind DMG Bonus","ru":"Усиление ветряного урона"}
+{"id":"battle_info:231928235008","en":"Earth DMG Bonus","ru":"Усиление земного урона"}
+{"id":"battle_info:236223202304","en":"Nature DMG Bonus","ru":"Усиление урона природы"}
+{"id":"battle_info:240518169600","en":"Ice DMG Bonus","ru":"Усиление ледяного урона"}
+{"id":"battle_info:244813136896","en":"Water DMG Bonus","ru":"Усиление водного урона"}
+{"id":"battle_info:249108104192","en":"Thunder DMG Bonus","ru":"Усиление громового урона"}
+{"id":"battle_info:253403071488","en":"Light DMG Bonus","ru":"Усиление светлого урона"}
+{"id":"battle_info:257698038784","en":"Dark DMG Bonus","ru":"Усиление тёмного урона"}
+{"id":"battle_info:25769804800","en":"Max Energy","ru":"Предел энергии"}
+{"id":"battle_info:2581275345920","en":"Mount Satiety Consumption (Ground)","ru":"Расход сытости скакуна (земля)"}
+{"id":"battle_info:2585570313216","en":"Mount Satiety Consumption (Flight)","ru":"Расход сытости скакуна (полёт)"}
+{"id":"battle_info:2589865280512","en":"Mount Satiety Consumption (Swimming)","ru":"Расход сытости скакуна (плавание)"}
+{"id":"battle_info:2594160247808","en":"Mount Satiety Consumption (Diving)","ru":"Расход сытости скакуна (погружение)"}
+{"id":"battle_info:2598455215104","en":"Mount Satiety Consumption (Gliding)","ru":"Расход сытости скакуна (планирование)"}
+{"id":"battle_info:261993006080","en":"Non-elemental DMG Reduction","ru":"Снижение урона без элемента"}
+{"id":"battle_info:266287973376","en":"Fire DMG Reduction","ru":"Снижение огненного урона"}
+{"id":"battle_info:270582940672","en":"Wind DMG Reduction","ru":"Снижение ветряного урона"}
+{"id":"battle_info:274877907968","en":"Earth DMG Reduction","ru":"Снижение земного урона"}
+{"id":"battle_info:279172875264","en":"Nature DMG Reduction","ru":"Снижение урона природы"}
+{"id":"battle_info:283467842560","en":"Ice DMG Reduction","ru":"Снижение ледяного урона"}
+{"id":"battle_info:287762809856","en":"Water DMG Reduction","ru":"Снижение водного урона"}
+{"id":"battle_info:292057777152","en":"Thunder DMG Reduction","ru":"Снижение громового урона"}
+{"id":"battle_info:296352744448","en":"Light DMG Reduction","ru":"Снижение светлого урона"}
+{"id":"battle_info:300647711744","en":"Dark DMG Reduction","ru":"Снижение тёмного урона"}
+{"id":"battle_info:30064772096","en":"Crit Rate","ru":"Крит. шанс"}
+{"id":"battle_info:34359739392","en":"Crit DMG","ru":"Крит. урон"}
+{"id":"battle_info:4282082395136","en":"Shiny","ru":"Сияющий"}
+{"id":"battle_info:4286377362432","en":"Knockback Level","ru":"Уровень отбрасывания"}
+{"id":"battle_info:4290672329728","en":"Impact Resistance","ru":"Сопротивление удару"}
+{"id":"battle_info:4294968320","en":"ATK","ru":"Атака"}
+{"id":"battle_info:4299262264320","en":"Attack","ru":"Атака"}
+{"id":"battle_info:4303557231616","en":"-","ru":"-"}
+{"id":"battle_info:4307852198912","en":"Defense","ru":"Защита"}
+{"id":"battle_info:4312147166208","en":"-","ru":"-"}
+{"id":"battle_info:4316442133504","en":"HP","ru":"ОЗ"}
+{"id":"battle_info:4320737100800","en":"Weight","ru":"Вес"}
+{"id":"battle_info:4325032068096","en":"Movement Speed","ru":"Скорость передвижения"}
+{"id":"battle_info:433791697920","en":"Crit DMG Reduction","ru":"Снижение крит. урона"}
+{"id":"battle_info:438086665216","en":"Crit Rate Down","ru":"Снижение крит. шанса"}
+{"id":"battle_info:442381632512","en":"Turn Speed","ru":"Скорость поворота"}
+{"id":"battle_info:446676599808","en":"-","ru":"-"}
+{"id":"battle_info:450971567104","en":"Energy Recovery Bonus","ru":"Бонус восстановления энергии"}
+{"id":"battle_info:455266534400","en":"-","ru":"-"}
+{"id":"battle_info:459561501696","en":"Flat Physical DEF Penetration","ru":"Фикс. пробитие физ. защиты"}
+{"id":"battle_info:463856468992","en":"Flat Magic DEF Penetration","ru":"Фикс. пробитие маг. защиты"}
+{"id":"battle_info:468151436288","en":"HP Regen per Second","ru":"Восстановление ОЗ в секунду"}
+{"id":"battle_info:472446403584","en":"Energy Regen per Second","ru":"Восстановление энергии в секунду"}
+{"id":"battle_info:476741370880","en":"Shield Value","ru":"Значение щита"}
+{"id":"battle_info:481036338176","en":"Hate Value","ru":"Значение угрозы"}
+{"id":"battle_info:485331305472","en":"Base Interrupt Priority","ru":"Базовый приоритет прерывания"}
+{"id":"battle_info:489626272768","en":"Attack Token","ru":"Метка атаки"}
+{"id":"battle_info:493921240064","en":"Cooldown Reduction","ru":"Сокращение перезарядки"}
+{"id":"battle_info:498216207360","en":"-","ru":"-"}
+{"id":"battle_info:502511174656","en":"-","ru":"-"}
+{"id":"battle_info:506806141952","en":"Starecho Skill Cooldown Reduction","ru":"Сокращение перезарядки навыка звёздного эха"}
+{"id":"battle_info:511101109248","en":"-","ru":"-"}
+{"id":"battle_info:515396076544","en":"-","ru":"-"}
+{"id":"battle_info:519691043840","en":"Counter Activation Threshold","ru":"Порог активации контратаки"}
+{"id":"battle_info:523986011136","en":"Shield Grant Amplification","ru":"Усиление наложения щита"}
+{"id":"battle_info:5278514807808","en":"EX Intensity","ru":"интенсивность EX"}
+{"id":"battle_info:528280978432","en":"Shield Received Amplification","ru":"Усиление получаемого щита"}
+{"id":"battle_info:532575945728","en":"Shield Effect Increase","ru":"Повышение эффекта щита"}
+{"id":"battle_info:536870913024","en":"Normal Attack DMG Amplification","ru":"Усиление урона обычной атаки"}
+{"id":"battle_info:541165880320","en":"Normal Attack DMG Received Amplification","ru":"Усиление получаемого урона обычной атаки"}
+{"id":"battle_info:545460847616","en":"Charged Attack DMG Amplification","ru":"Усиление урона заряженной атаки"}
+{"id":"battle_info:549755814912","en":"Charged Attack DMG Received Amplification","ru":"Усиление получаемого урона заряженной атаки"}
+{"id":"battle_info:554050782208","en":"Starecho Skill DMG Amplification","ru":"Усиление урона навыка звёздного эха"}
+{"id":"battle_info:558345749504","en":"Skill DMG Received Amplification","ru":"Усиление получаемого урона навыков"}
+{"id":"battle_info:562640716800","en":"Plunging Attack DMG Amplification","ru":"Усиление урона атаки в падении"}
+{"id":"battle_info:566935684096","en":"Plunging Attack DMG Received Amplification","ru":"Усиление получаемого урона атаки в падении"}
+{"id":"battle_info:571230651392","en":"Starpolar Skill DMG Amplification","ru":"Усиление урона звёзднополярного навыка"}
+{"id":"battle_info:575525618688","en":"Starpolar Skill DMG Received Amplification","ru":"Усиление получаемого урона звёзднополярного навыка"}
+{"id":"battle_info:579820585984","en":"Rapid Energy","ru":"Быстрая энергия"}
+{"id":"battle_info:584115553280","en":"Rapid Energy Cap","ru":"Предел быстрой энергии"}
+{"id":"battle_info:588410520576","en":"Rapid Energy Recovery Rate","ru":"Скорость восстановления быстрой энергии"}
+{"id":"battle_info:592705487872","en":"-","ru":"-"}
+{"id":"battle_info:597000455168","en":"-","ru":"-"}
+{"id":"battle_info:601295422464","en":"-","ru":"-"}
+{"id":"battle_info:605590389760","en":"-","ru":"-"}
+{"id":"battle_info:609885357056","en":"-","ru":"-"}
+{"id":"battle_info:614180324352","en":"-","ru":"-"}
+{"id":"battle_info:618475291648","en":"-","ru":"-"}
+{"id":"battle_info:622770258944","en":"-","ru":"-"}
+{"id":"battle_info:627065226240","en":"-","ru":"-"}
+{"id":"battle_info:631360193536","en":"-","ru":"-"}
+{"id":"battle_info:635655160832","en":"-","ru":"-"}
+{"id":"battle_info:639950128128","en":"-","ru":"-"}
+{"id":"battle_info:644245095424","en":"-","ru":"-"}
+{"id":"battle_info:648540062720","en":"-","ru":"-"}
+{"id":"battle_info:652835030016","en":"-","ru":"-"}
+{"id":"battle_info:657129997312","en":"-","ru":"-"}
+{"id":"battle_info:661424964608","en":"-","ru":"-"}
+{"id":"battle_info:665719931904","en":"-","ru":"-"}
+{"id":"battle_info:670014899200","en":"-","ru":"-"}
+{"id":"battle_info:674309866496","en":"-","ru":"-"}
+{"id":"battle_info:678604833792","en":"-","ru":"-"}
+{"id":"battle_info:8589935616","en":"-","ru":"-"}
+{"id":"battle_info:8594229560320","en":"Attack","ru":"Атака"}
+{"id":"battle_info:8598524527616","en":"-","ru":"-"}
+{"id":"battle_info:8602819494912","en":"Defense","ru":"Защита"}
+{"id":"battle_info:8607114462208","en":"-","ru":"-"}
+{"id":"battle_info:8611409429504","en":"HP","ru":"ОЗ"}
+{"id":"battle_info:8615704396800","en":"Weight","ru":"Вес"}
+{"id":"battle_info:8619999364096","en":"Movement Speed","ru":"Скорость передвижения"}
+{"id":"battle_info:863288427520","en":"Break Value Cap","ru":"Предел значения прорыва"}
+{"id":"battle_info:867583394816","en":"Break DMG Multiplier","ru":"Множитель урона прорыва"}
+{"id":"battle_info:871878362112","en":"-","ru":"-"}
+{"id":"battle_info:876173329408","en":"Break DMG Multiplier: Recovery","ru":"Множитель урона прорыва: восстановление"}
+{"id":"battle_info:880468296704","en":"Break DMG Multiplier: Non-elemental","ru":"Множитель урона прорыва: без элемента"}
+{"id":"battle_info:884763264000","en":"Break DMG Multiplier: Fire","ru":"Множитель урона прорыва: огонь"}
+{"id":"battle_info:889058231296","en":"Break DMG Multiplier: Wind","ru":"Множитель урона прорыва: ветер"}
+{"id":"battle_info:893353198592","en":"Break DMG Multiplier: Earth","ru":"Множитель урона прорыва: земля"}
+{"id":"battle_info:897648165888","en":"Break DMG Multiplier: Nature","ru":"Множитель урона прорыва: Природа"}
+{"id":"battle_info:901943133184","en":"Break DMG Multiplier: Ice","ru":"Множитель урона прорыва: лёд"}
+{"id":"battle_info:90194314240","en":"DMG Bonus","ru":"Усиление урона"}
+{"id":"battle_info:906238100480","en":"Break DMG Multiplier: Water","ru":"Множитель урона прорыва: вода"}
+{"id":"battle_info:910533067776","en":"Break DMG Multiplier: Lightning","ru":"Множитель урона прорыва: молния"}
+{"id":"battle_info:914828035072","en":"Break DMG Multiplier: Light","ru":"Множитель урона прорыва: свет"}
+{"id":"battle_info:919123002368","en":"Break DMG Multiplier: Dark","ru":"Множитель урона прорыва: тьма"}
+{"id":"battle_info:923417969664","en":"Break DMG: Min","ru":"Урон прорыва: мин."}
+{"id":"battle_info:927712936960","en":"Break DMG: Max","ru":"Урон прорыва: макс."}
+{"id":"battle_info:932007904256","en":"Break Recovery Delay","ru":"Задержка восстановления прорыва"}
+{"id":"battle_info:936302871552","en":"Break Recovery Speed","ru":"Скорость восстановления прорыва"}
+{"id":"battle_info:940597838848","en":"Break Duration","ru":"Длительность прорыва"}
+{"id":"battle_info:944892806144","en":"Break End Duration","ru":"Длительность завершения прорыва"}
+{"id":"battle_info:94489281536","en":"DMG Reduction","ru":"Снижение урона"}
+{"id":"battle_info:949187773440","en":"Break DMG Taken Amplification","ru":"Усиление получаемого урона во время прорыва"}
+{"id":"battle_info:953482740736","en":"Break Efficiency","ru":"Эффективность прорыва"}
+{"id":"battle_info:9573482103808","en":"EX Intensity","ru":"интенсивность EX"}
+{"id":"battle_info:957777708032","en":"Break Defeat Rate (per 10,000)","ru":"Частота поражения прорывом (на 10 000)"}
+{"id":"battle_info:962072675328","en":"Break Durability","ru":"Прочность прорыва"}
+{"id":"battle_info:966367642624","en":"Total Evade","ru":"Суммарное уклонение"}
+{"id":"battle_info:970662609920","en":"Energy Auto-Recovery (Background)","ru":"Автовосстановление энергии (в фоне)"}
+{"id":"battle_info:974957577216","en":"Energy Auto-Recovery Amplification","ru":"Усиление автовосстановления энергии"}
+{"id":"battle_info:979252544512","en":"Energy Recovery on Attack Amplification","ru":"Усиление восстановления энергии при атаке"}
+{"id":"battle_info:983547511808","en":"EX Intensity","ru":"интенсивность EX"}
+{"id":"battle_info:987842479104","en":"Break Value","ru":"Значение прорыва"}
+{"id":"battle_info:98784248832","en":"Healing Bonus","ru":"Бонус лечения"}
+{"id":"battle_info:992137446400","en":"EX CRIT Rate","ru":"шанс крита EX"}
+{"id":"battle_info:996432413696","en":"Elemental Advantage DMG Multiplier","ru":"Множитель урона при преимуществе стихии"}

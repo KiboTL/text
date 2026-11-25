@@ -1,0 +1,113 @@
+{"id":"startup:alert_title","en":"Alert","ru":"Внимание"}
+{"id":"startup:assets_importing_failed","en":"Failed to import resources. \n","ru":"Не удалось импортировать ресурсы. \n"}
+{"id":"startup:assets_merging_failed","en":"Failed to integrate resources. \n","ru":"Не удалось выполнить интеграцию ресурсов. \n"}
+{"id":"startup:background_download_failed","en":"Download failed. Please try again.","ru":"Не удалось выполнить загрузку. Повторите попытку."}
+{"id":"startup:background_download_success","en":"Download complete","ru":"Загрузка завершена"}
+{"id":"startup:background_downloading","en":"Downloading…","ru":"Загрузка…"}
+{"id":"startup:cancel","en":"Cancel","ru":"Отмена"}
+{"id":"startup:checking_update","en":"Checking update…","ru":"Проверка обновлений…"}
+{"id":"startup:clear_unused_assets","en":"Cleaning up resources","ru":"Очистка ресурсов"}
+{"id":"startup:compare_assets","en":"Comparing local resources","ru":"Сравнение локальных ресурсов"}
+{"id":"startup:compiling_tip","en":"Compiling","ru":"Компиляция"}
+{"id":"startup:confirm","en":"Confirm","ru":"Подтвердить"}
+{"id":"startup:connect_failed","en":"Network connection failed","ru":"Не удалось подключиться к сети."}
+{"id":"startup:download_fail","en":"Failed to download some files.","ru":"Не удалось загрузить некоторые файлы."}
+{"id":"startup:download_info","en":"{0} of game resources need to be downloaded","ru":"Требуется обновить игровые ресурсы ({0})."}
+{"id":"startup:download_info_detail","en":"{0} of Basic + {1} of Additional","ru":"{0} основных ресурсов + {1} дополнительных ресурсов"}
+{"id":"startup:download_speed_slow","en":"Download too slow, please check the network","ru":"Загрузка идёт слишком медленно. Проверьте сетевое подключение."}
+{"id":"startup:download_ui_1001","en":"Supports background downloads","ru":"Поддерживается фоновая загрузка"}
+{"id":"startup:downloading","en":"Downloading","ru":"Загрузка"}
+{"id":"startup:entering_game","en":"Update complete. Entering!","ru":"Обновление завершено. Вход в игру!"}
+{"id":"startup:error_-1","en":"Network connection error, please try to connect to the network and restart the game!","ru":"Ошибка подключения к сети. Проверьте соединение и перезапустите игру!"}
+{"id":"startup:error_1000","en":"Success","ru":"Успешно"}
+{"id":"startup:error_1001","en":"System error","ru":"Системная ошибка"}
+{"id":"startup:error_1002","en":"IP is banned","ru":"IP-адрес заблокирован."}
+{"id":"startup:error_1003","en":"Server is under maintenance","ru":"Сервер на техническом обслуживании."}
+{"id":"startup:error_1004","en":"Signature error","ru":"Ошибка подписи"}
+{"id":"startup:error_1005","en":"Parameter error","ru":"Ошибка параметров"}
+{"id":"startup:error_server_1","en":"A runtime error occurred.","ru":"Произошла ошибка выполнения."}
+{"id":"startup:error_server_10000","en":"The server is busy.","ru":"Сервер перегружен."}
+{"id":"startup:error_server_10001","en":"Version information does not exist.","ru":"Информация о версии отсутствует."}
+{"id":"startup:error_server_10002","en":"Channel information not found.","ru":"Информация о канале не найдена."}
+{"id":"startup:error_server_10003","en":"Game ID not found.","ru":"Идентификатор игры не найден."}
+{"id":"startup:error_server_10004","en":"A server error occurred.","ru":"Произошла ошибка сервера."}
+{"id":"startup:error_server_10005","en":"IP is banned","ru":"IP-адрес заблокирован."}
+{"id":"startup:error_server_10006","en":"The account has been suspended.","ru":"Учётная запись заблокирована."}
+{"id":"startup:error_server_10007","en":"The server is unavailable.","ru":"Сервер недоступен."}
+{"id":"startup:error_server_10008","en":"The client version needs to be updated (channel version mismatch).","ru":"Необходимо обновить версию клиента (несовпадение версии канала)."}
+{"id":"startup:error_server_10009","en":"An error occurred while validating the timestamp.","ru":"Ошибка проверки временной метки."}
+{"id":"startup:error_server_10010","en":"Invalid CDN request parameters.","ru":"Неверные параметры запроса CDN."}
+{"id":"startup:error_server_10012","en":"The client request parameters do not match.","ru":"Параметры запроса клиента не совпадают."}
+{"id":"startup:error_server_10013","en":"The requested CDN information was not found.","ru":"Запрошенная информация CDN не найдена."}
+{"id":"startup:error_server_10014","en":"The requested service area information was not found.","ru":"Запрошенная информация о сервисной зоне не найдена."}
+{"id":"startup:error_server_10015","en":"The requested build job version information was not found.","ru":"Запрошенная информация о версии сборки не найдена."}
+{"id":"startup:error_server_10016","en":"Installation package version information was not found.","ru":"Информация о версии установочного пакета не найдена."}
+{"id":"startup:error_server_10017","en":"The requested hotfix version information was not found.","ru":"Запрошенная информация о версии исправления не найдена."}
+{"id":"startup:error_server_150001","en":"Invalid SessionID","ru":"Invalid SessionID"}
+{"id":"startup:error_server_150002","en":"Signature error","ru":"Ошибка подписи"}
+{"id":"startup:error_server_150003","en":"There is an error in the request data (invalid data or request format).","ru":"Ошибка в данных запроса (неверные данные или формат запроса)."}
+{"id":"startup:error_server_150004","en":"An error occurred while processing the request data (such as a timestamp mismatch).","ru":"Ошибка при обработке данных запроса (например, несовпадение временной метки)."}
+{"id":"startup:error_server_default","en":"The server is busy.","ru":"Сервер перегружен."}
+{"id":"startup:game_name","en":"Azure Promilia","ru":"Азур Промилия"}
+{"id":"startup:get_local_list_fail","en":"Failed to retrieve the local resource list.","ru":"Не удалось получить локальный список ресурсов."}
+{"id":"startup:get_local_version_fail","en":"Failed to retrieve local version info.","ru":"Не удалось получить информацию о локальной версии."}
+{"id":"startup:get_server_list_fail","en":"Failed to retrieve the latest resource list.","ru":"Не удалось получить актуальный список ресурсов."}
+{"id":"startup:get_server_version_fail","en":"Failed to retrieve the latest version info.","ru":"Не удалось получить информацию о последней версии."}
+{"id":"startup:importing_assets","en":"Importing resources","ru":"Импорт ресурсов"}
+{"id":"startup:init_fail","en":"Initialization failed.","ru":"Ошибка инициализации."}
+{"id":"startup:initializing","en":"Initializing…","ru":"Инициализация…"}
+{"id":"startup:load_loader_dll_fail","en":"Failed to load the code.","ru":"Не удалось загрузить код."}
+{"id":"startup:local_assets_checking","en":"Verifying resources","ru":"Проверка ресурсов"}
+{"id":"startup:login_failed","en":"Login failed.","ru":"Не удалось войти."}
+{"id":"startup:logout_fail","en":"Failed to log out.","ru":"Не удалось выйти из системы."}
+{"id":"startup:merging_assets","en":"Integrating resources","ru":"Интеграция ресурсов"}
+{"id":"startup:network_alert_tips","en":"This is a non-WIFI environment. Do you want to use traffic to download?","ru":"Подключение к Wi-Fi отсутствует. Загрузить с использованием мобильного трафика?"}
+{"id":"startup:only_launcher","en":"Please use the launcher to start the game.","ru":"Для запуска игры используйте лаунчер."}
+{"id":"startup:open_hotupdate_view_fail","en":"Failed to load the update screen.","ru":"Не удалось загрузить экран обновления."}
+{"id":"startup:open_start_view_fail","en":"Failed to load the startup screen.","ru":"Не удалось загрузить стартовый экран."}
+{"id":"startup:out_of_disk_spac","en":"Insufficient disk space","ru":"Недостаточно места на диске"}
+{"id":"startup:out_of_disk_spac_size","en":"Not enough storage on your device. {0} of free space is required to continue downloading.","ru":"На устройстве недостаточно свободного места. Для продолжения загрузки требуется {0}."}
+{"id":"startup:package_client_not_latest","en":"An update was found. You need to restart the game to complete the update.","ru":"Найдено обновление. Для завершения обновления необходимо перезапустить игру."}
+{"id":"startup:package_need_update","en":"An update is required. Please download the latest installation package and start the game.","ru":"Требуется обновление. Загрузите последний установочный пакет и запустите игру."}
+{"id":"startup:package_need_update_inner","en":"A new installation package is available on the internal network. You can download the latest version if needed. Press \"Confirm\" to start the game.","ru":"Во внутренней сети доступен новый установочный пакет. При необходимости можно загрузить последнюю версию. Нажмите «Подтвердить», чтобы начать игру."}
+{"id":"startup:package_need_update_pc","en":"The client version needs to be updated. Please complete the update via the launcher.","ru":"Необходимо обновить версию клиента. Завершите обновление через лаунчер."}
+{"id":"startup:package_not_upload","en":"The client update has not been released yet. Please wait a while.","ru":"Обновление клиента ещё не выпущено. Пожалуйста, подождите."}
+{"id":"startup:performance_check_fail","en":"Note: Your current device does not meet the minimum requirements. The game may lag or crash during play.","ru":"Внимание: текущее устройство не соответствует минимальным требованиям. Во время игры возможны замедления и сбои."}
+{"id":"startup:preload_calculating","en":"(Calculating resources)","ru":"(Расчёт ресурсов)"}
+{"id":"startup:preload_finish","en":"Predownload complete.","ru":"Предзагрузка завершена."}
+{"id":"startup:preload_notice","en":"You need to download the game resources for {0}. You cannot play the game during predownload.","ru":"Необходимо загрузить игровые ресурсы для {0}. Во время предзагрузки игра недоступна."}
+{"id":"startup:quit","en":"Quit","ru":"Выйти"}
+{"id":"startup:quit_game_content","en":"Are you sure you want to exit the game?","ru":"Выйти из игры?"}
+{"id":"startup:quit_game_title","en":"Exit Game","ru":"Выход из игры"}
+{"id":"startup:quit_game_version_not_match","en":"The game is currently under maintenance. Please try again later.","ru":"Игра находится на техническом обслуживании. Попробуйте позже."}
+{"id":"startup:re_login","en":"Please log in again.","ru":"Пожалуйста, войдите снова."}
+{"id":"startup:requesting_info","en":"Requesting info…","ru":"Получение сведений…"}
+{"id":"startup:resource_loading_tips","en":"Loading...","ru":"Загрузка..."}
+{"id":"startup:resource_verifying_tips","en":"Verifying resources...","ru":"Проверка ресурсов..."}
+{"id":"startup:retry","en":"Retry","ru":"Повторить"}
+{"id":"startup:return_login","en":"The game is currently under maintenance. Returning to the login screen.","ru":"Сейчас проводятся технические работы. Возврат к экрану входа."}
+{"id":"startup:sdk_init_fail","en":"SDK initialization failed. Reinitialize?","ru":"Ошибка инициализации SDK. Повторить инициализацию?"}
+{"id":"startup:shader_loading","en":" ","ru":" "}
+{"id":"startup:shader_waiting_defult_tips","en":"Compiling shaders takes some time. Please wait a moment.","ru":"Компиляция шейдеров занимает время. Пожалуйста, подождите."}
+{"id":"startup:shader_waiting_ios_tips","en":"Compiling shaders takes some time. To improve processing efficiency, animation playback is paused. Please wait a moment.","ru":"Компиляция шейдеров занимает время. Для повышения эффективности воспроизведение анимации приостановлено. Пожалуйста, подождите."}
+{"id":"startup:start_tip","en":"Begin Your Journey","ru":"Начать путешествие"}
+{"id":"startup:subpackage_calculating","en":"Calculating…","ru":"Расчёт…"}
+{"id":"startup:subpackage_dl_ui_1001","en":"QUICK","ru":"БЫСТРО"}
+{"id":"startup:subpackage_dl_ui_1002","en":"FULL","ru":"ПОЛНОСТЬЮ"}
+{"id":"startup:subpackage_dl_ui_1003","en":"Download only the prologue resources ({0}) to start playing right away.\n","ru":"Загрузите только ресурсы пролога ({0}), чтобы начать играть как можно скорее.\n"}
+{"id":"startup:subpackage_dl_ui_1004","en":"Download all resources ({0}) for a smooth gameplay experience.","ru":"Загрузите все ресурсы ({0}), чтобы играть без затруднений."}
+{"id":"startup:subpackage_dl_ui_1005","en":"After the prologue ends, you must download the remaining resources.","ru":"После завершения пролога потребуется загрузить оставшиеся ресурсы."}
+{"id":"startup:subpackage_dl_ui_1006","en":"Download","ru":"Загрузить"}
+{"id":"startup:subpackage_dl_ui_1007","en":"The prologue has ended. Download the remaining resources to continue playing.","ru":"Пролог завершён. Загрузите оставшиеся ресурсы, чтобы продолжить игру."}
+{"id":"startup:subpackage_dl_ui_1008","en":"Download remaining resources ({0})","ru":"Загрузить оставшиеся ресурсы ({0})"}
+{"id":"startup:subpackage_dl_ui_1009","en":"Prologue resources downloaded. You can now play the prologue.","ru":"Ресурсы пролога загружены. Теперь можно играть в пролог."}
+{"id":"startup:subpackage_dl_ui_1010","en":"Early Access","ru":"Ранний доступ"}
+{"id":"startup:subpackage_dl_ui_1011","en":"Once the download is complete, you can start playing right away.","ru":"После завершения загрузки можно сразу начать играть."}
+{"id":"startup:tip_title","en":"Tips","ru":"Подсказка"}
+{"id":"startup:update_alert_message","en":"You need to download the resource before you can access it","ru":"Перед доступом необходимо загрузить ресурсы."}
+{"id":"startup:update_alert_toggle_basic_subtitle","en":"Only basic resources for game are included. Other resources can be downloaded in game settings.","ru":"Включает только базовые ресурсы для запуска игры. Остальные ресурсы можно загрузить в настройках игры."}
+{"id":"startup:update_alert_toggle_basic_title","en":"Basic Resources ({0})","ru":"Основные ресурсы ({0})"}
+{"id":"startup:update_alert_toggle_full_subtitle","en":"Includes all the assets of the game","ru":"Включает все ресурсы игры."}
+{"id":"startup:update_alert_toggle_full_title","en":"Full Resources ({0})","ru":"Все ресурсы ({0})"}
+{"id":"startup:update_complete_restart","en":"An update is available. The game will restart shortly.","ru":"Доступно обновление. Игра скоро перезапустится."}
+{"id":"startup:update_complete_restart_other","en":"An update is available. Please restart the game.","ru":"Доступно обновление. Перезапустите игру."}

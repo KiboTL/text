@@ -1,0 +1,912 @@
+{"id":"achievement:12927855855928064","en":"Sprout Valley Warp Theory","ru":"Теория варпа Долины Ростков"}
+{"id":"achievement:12927855855928320","en":"Unlock all Starvein Nodes in Sprout Valley","ru":"Разблокировать все узлы звёздного потока в Долине Ростков"}
+{"id":"achievement:12927860150895360","en":"Fleece Warp Theory","ru":"Теория варпа Флиса"}
+{"id":"achievement:12927860150895616","en":"Unlock all Starvein Nodes in Fleece","ru":"Разблокировать все узлы звёздного потока во Флисе"}
+{"id":"achievement:12927864445862656","en":"Star Journey: Sprout Valley","ru":"Звёздное путешествие: Долина Ростков"}
+{"id":"achievement:12927864445862912","en":"Raise Sprout Valley's exploration level to 10","ru":"Поднять уровень исследования Долины Ростков до 10"}
+{"id":"achievement:12927868740829952","en":"Starlight Traveler: City-State of Fleece","ru":"Звёздный странник: город-государство Флис"}
+{"id":"achievement:12927868740830208","en":"Raise Fleece's exploration level to 10","ru":"Повысьте уровень исследования Флиса до 10"}
+{"id":"achievement:12927873035797248","en":"Sprout Valley Challenger","ru":"Претендент Долины Ростков"}
+{"id":"achievement:12927873035797504","en":"Defeat all bosses and Aberrant Kibo that appear in Sprout Valley","ru":"Победите всех боссов и аберрантов-кибо, появляющихся в Долине Ростков"}
+{"id":"achievement:12927877330764544","en":"Fleece Challenger","ru":"Претендент Флиса"}
+{"id":"achievement:12927877330764800","en":"Defeat all bosses and Aberrant Kibo that appear in Fleece","ru":"Победите всех боссов и аберрантов-кибо, появляющихся во Флисе"}
+{"id":"achievement:12927881625731840","en":"Starlaw Resonance: Sprout Valley","ru":"Резонанс Звёздного закона: Долина Ростков"}
+{"id":"achievement:12927881625732096","en":"Reach Starlaw collection level 5 in Sprout Valley","ru":"Достигните 5 уровня сбора Звёздного закона в Долине Ростков"}
+{"id":"achievement:12927885920699136","en":"Starlaw Resonance: Fleece","ru":"Резонанс Звёздного закона: Флис"}
+{"id":"achievement:12927885920699392","en":"Reach Starlaw collection level 5 in Fleece","ru":"Достигните 5 уровня сбора Звёздного закона во Флисе"}
+{"id":"achievement:12927890215666432","en":"Toward a New City","ru":"К новому городу"}
+{"id":"achievement:12927890215666688","en":"Enter Fleece","ru":"Войдите во Флис"}
+{"id":"achievement:12927894510633728","en":"Sprout Valley Kibo Master 1","ru":"Мастер кибо Долины Ростков 1"}
+{"id":"achievement:12927894510633984","en":"Starlink with every kind of Kibo in the Howling Plains area","ru":"Установите Звёздную связь со всеми видами кибо в области Воющих равнин"}
+{"id":"achievement:12927898805601024","en":"Sprout Valley Kibo Master 2","ru":"Мастер кибо Долины Ростков 2"}
+{"id":"achievement:12927898805601280","en":"Starlink with every kind of Kibo in the Windward Forest area","ru":"Установите Звёздную связь со всеми видами кибо в области Леса Ветров"}
+{"id":"achievement:12927903100568320","en":"Sprout Valley Kibo Master 3","ru":"Мастер кибо Долины Ростков 3"}
+{"id":"achievement:12927903100568576","en":"Starlink with every kind of Kibo in the Mistveil Forest area","ru":"Установите Звёздную связь со всеми видами кибо в области Туманного леса"}
+{"id":"achievement:12927907395535616","en":"Sprout Valley Kibo Master 4","ru":"Мастер кибо Долины Ростков 4"}
+{"id":"achievement:12927907395535872","en":"Starlink with every kind of Kibo in the Hawk Range area","ru":"Установите Звёздную связь со всеми видами кибо в области Ястребиного хребта"}
+{"id":"achievement:12927911690502912","en":"Sprout Valley Kibo Master 5","ru":"Мастер кибо Долины Ростков 5"}
+{"id":"achievement:12927911690503168","en":"Starlink with every kind of Kibo in the Shadowblight Cliff area","ru":"Установите Звёздную связь со всеми видами кибо в области Утёса Теневой скверны"}
+{"id":"achievement:12927915985470208","en":"True Kibo Master of Sprout Valley","ru":"Истинный мастер кибо Долины Ростков"}
+{"id":"achievement:12927915985470464","en":"Starlink with every kind of Kibo in the Sprout Valley area","ru":"Установите Звёздную связь со всеми видами кибо в области Долины Ростков"}
+{"id":"achievement:12927920280437504","en":"Fleece Kibo Master 1","ru":"Мастер кибо Флиса 1"}
+{"id":"achievement:12927920280437760","en":"Starlink with every kind of Kibo in the Harvest Valley area","ru":"Установите Звёздную связь со всеми видами кибо в области Долины Урожая"}
+{"id":"achievement:12927924575404800","en":"Fleece Kibo Master 2","ru":"Мастер кибо Флиса 2"}
+{"id":"achievement:12927924575405056","en":"Starlink with every kind of Kibo in the Melt Lake area","ru":"Установите Звёздную связь со всеми видами кибо в области Озера Мелт-Лейк"}
+{"id":"achievement:12927928870372096","en":"Fleece Kibo Master 3","ru":"Мастер кибо Флиса 3"}
+{"id":"achievement:12927928870372352","en":"Starlink with every kind of Kibo in the Mistveil Forest area","ru":"Установите Звёздную связь со всеми видами кибо в области Туманного леса"}
+{"id":"achievement:12927933165339392","en":"Fleece Kibo Master 4","ru":"Мастер кибо Флиса 4"}
+{"id":"achievement:12927933165339648","en":"Starlink with every kind of Kibo in the Scars of War area","ru":"Установите Звёздную связь со всеми видами кибо в области Шрамов войны"}
+{"id":"achievement:12927937460306688","en":"True Kibo Master of Fleece","ru":"Истинный мастер кибо Флиса"}
+{"id":"achievement:12927937460306944","en":"Starlink with every kind of Kibo in Fleece","ru":"Установите Звёздную связь со всеми видами кибо во Флисе"}
+{"id":"achievement:12970809823855360","en":"Aspiring Transform Kibo Master","ru":"На пути к званию мастера превращения кибо"}
+{"id":"achievement:12970809823855616","en":"Complete 3 kinds of Kibo Transform Trials","ru":"Пройдите 3 видов Испытаний превращения кибо"}
+{"id":"achievement:12970814118822656","en":"Sozanka's Wonder","ru":"Изумление Содзанки"}
+{"id":"achievement:12970814118822912","en":"Reach 3★ on any Sozanka's Ladder","ru":"Достигните 3★ на любой Лестнице Содзанки"}
+{"id":"achievement:12970818413789952","en":"Earth Aura Finisher","ru":"Завершающий Земную ауру"}
+{"id":"achievement:12970818413790208","en":"Earn 3★ at any Springing Aura","ru":"Получите 3★ на любой бьющей Ауре"}
+{"id":"achievement:12970822708757248","en":"Wild Drive","ru":"Дикий галоп"}
+{"id":"achievement:12970822708757504","en":"Earn 3★ in any Mount Trial","ru":"Получите 3★ в любом Испытании скакуна"}
+{"id":"achievement:12970827003724544","en":"Which Came First, the Egg or the Kibo?","ru":"Что было раньше: яйцо или кибо?"}
+{"id":"achievement:12970827003724800","en":"Obtain a Kibo Egg in the field","ru":"Получите Яйцо кибо в открытом мире"}
+{"id":"achievement:12970831298691840","en":"While There's Life, There's a Way Out of the Shell","ru":"Пока есть жизнь, из скорлупы всегда есть выход"}
+{"id":"achievement:12970831298692096","en":"Obtain 10 Kibo Eggs in the field","ru":"Получите 10 Яиц кибо в открытом мире"}
+{"id":"achievement:12970835593659136","en":"Time to Hatch","ru":"Пора вылупляться"}
+{"id":"achievement:12970835593659392","en":"Obtain 100 Kibo Eggs in the field","ru":"Получите 100 Яиц кибо в открытом мире"}
+{"id":"achievement:12970844183593728","en":"Beginner Level","ru":"Уровень новичка"}
+{"id":"achievement:12970844183593984","en":"Complete Kibo Puzzles 20 times","ru":"Пройдите Головоломки кибо 20 раз"}
+{"id":"achievement:12970848478561024","en":"Puzzle Expert","ru":"Знаток головоломок"}
+{"id":"achievement:12970848478561280","en":"Complete Kibo Puzzles 50 times","ru":"Пройдите Головоломки кибо 50 раз"}
+{"id":"achievement:12970852773528320","en":"The Pinnacle of Patience","ru":"Предел терпения"}
+{"id":"achievement:12970852773528576","en":"Complete Kibo Puzzles 100 times","ru":"Пройдите Головоломки кибо 100 раз"}
+{"id":"achievement:12970857068495616","en":"Ambush!","ru":"Засада!"}
+{"id":"achievement:12970857068495872","en":"Starlink with a Mimic","ru":"Установите Звёздную связь с мимиком"}
+{"id":"achievement:12970861363462912","en":"Nature's Bounty","ru":"Дары природы"}
+{"id":"achievement:12970861363463168","en":"Open random treasure chests in the field 20 times","ru":"Откройте случайные сундуки с сокровищами в открытом мире 20 раз"}
+{"id":"achievement:12970865658430208","en":"Nature Is Generous","ru":"Природа щедра"}
+{"id":"achievement:12970865658430464","en":"Open random treasure chests in the field 50 times","ru":"Откройте случайные сундуки с сокровищами в открытом мире 50 раз"}
+{"id":"achievement:12970869953397504","en":"Never Let One Slip By","ru":"Не упустите ни одного"}
+{"id":"achievement:12970869953397760","en":"Open random treasure chests in the field 100 times","ru":"Откройте случайные сундуки с сокровищами в открытом мире 100 раз"}
+{"id":"achievement:12970874248364800","en":"Sprout Valley Rider","ru":"Наездник Долины Ростков"}
+{"id":"achievement:12970874248365056","en":"Complete all Mount Trials in the Sprout Valley area","ru":"Пройдите все Испытания скакуна в области Долины Ростков"}
+{"id":"achievement:12970878543332096","en":"Sprout Valley Pro Pitcher","ru":"Профессиональный метатель Долины Ростков"}
+{"id":"achievement:12970878543332352","en":"Complete all Rolling Grago challenges in the Sprout Valley area","ru":"Пройдите все испытания «Катится Граго» в области Долины Ростков"}
+{"id":"achievement:12970882838299392","en":"Sprout Valley Cabbird Guardian","ru":"Защитник капустокрылов Долины Ростков"}
+{"id":"achievement:12970882838299648","en":"Complete all \"Transform into a Cabbird\" challenges in the Sprout Valley area","ru":"Пройдите все испытания «Превращение в капустокрыла» в области Долины Ростков"}
+{"id":"achievement:12970887133266688","en":"Sprout Valley Duru Manager","ru":"Управляющий Дуру Долины Ростков"}
+{"id":"achievement:12970887133266944","en":"Complete all \"Duru Returning Home\" challenges in the Sprout Valley area","ru":"Пройдите все испытания «Дуру возвращается в гнездо» в области Долины Ростков"}
+{"id":"achievement:12970891428233984","en":"Sprout Valley Dragon King Era Relic","ru":"Наследие Эпохи драконьих королей Долины Ростков"}
+{"id":"achievement:12970891428234240","en":"Complete all Altars of the Shining Seal in the Sprout Valley area","ru":"Пройдите все алтари сияющей печати в области Долины Ростков"}
+{"id":"achievement:12970895723201280","en":"Sprout Valley Rhythm Master","ru":"Мастер ритма Долины Ростков"}
+{"id":"achievement:12970895723201536","en":"Complete all Riff's Performances in the Sprout Valley area","ru":"Пройдите все Исполнения Риффа в области Долины Ростков"}
+{"id":"achievement:12970900018168576","en":"Sprout Valley Master Builder","ru":"Мастер строительства Долины Ростков"}
+{"id":"achievement:12970900018168832","en":"Complete all Sozanka's Ladders in the Sprout Valley area","ru":"Пройдите все Лестницы Содзанки в области Долины Ростков"}
+{"id":"achievement:12970904313135872","en":"Sprout Valley Cavern Lord","ru":"Владыка пещер Долины Ростков"}
+{"id":"achievement:12970904313136128","en":"Complete all Springing Auras in the Sprout Valley area","ru":"Пройдите все бьющие Ауры в области Долины Ростков"}
+{"id":"achievement:12970912903070464","en":"Fleece Rider","ru":"Наездник Флиса"}
+{"id":"achievement:12970912903070720","en":"Complete all Mount Trials in the Fleece area","ru":"Пройдите все Испытания скакуна в области Флиса"}
+{"id":"achievement:12970917198037760","en":"Fleece Pro Pitcher","ru":"Профессиональный метатель Флиса"}
+{"id":"achievement:12970917198038016","en":"Complete all Rolling Grago challenges in the Fleece area","ru":"Пройдите все испытания «Катится Граго» в области Флиса"}
+{"id":"achievement:12970921493005056","en":"Fleece Cabbird Guardian","ru":"Защитник капустокрылов Флиса"}
+{"id":"achievement:12970921493005312","en":"Complete all \"Transform into a Cabbird\" challenges in the Fleece area","ru":"Пройдите все испытания «Превращение в капустокрыла» в области Флиса"}
+{"id":"achievement:12970925787972352","en":"Fleece Duru Manager","ru":"Управляющий Дуру Флиса"}
+{"id":"achievement:12970925787972608","en":"Complete all \"Duru Returning Home\" challenges in the Fleece area","ru":"Пройдите все испытания «Дуру возвращается в гнездо» в области Флиса"}
+{"id":"achievement:12970930082939648","en":"Fleece Rhythm Master","ru":"Мастер ритма Флиса"}
+{"id":"achievement:12970930082939904","en":"Complete all Riff's Performances in the Fleece area","ru":"Пройдите все Исполнения Риффа в области Флиса"}
+{"id":"achievement:12970934377906944","en":"Fleece Cavern Lord","ru":"Владыка пещер Флиса"}
+{"id":"achievement:12970934377907200","en":"Complete all Springing Auras in the Fleece area","ru":"Пройдите все бьющие Ауры в области Флиса"}
+{"id":"achievement:12970938672874240","en":"Fleece Combo War God","ru":"Бог войны комбо Флиса"}
+{"id":"achievement:12970938672874496","en":"Complete all Kibo Companion challenges in the Fleece area","ru":"Пройдите все испытания «Напарник-кибо» в области Флиса"}
+{"id":"achievement:12970942967841536","en":"“Shaman's Notes”","ru":"«Записки шамана»"}
+{"id":"achievement:12970942967841792","en":"Collect all “Shaman's Notes” readings","ru":"Собрать все книги из серии «Записки шамана»"}
+{"id":"achievement:12970947262808832","en":"“Tales of the Magic Hoe”","ru":"«Сказки о волшебной мотыге»"}
+{"id":"achievement:12970947262809088","en":"Collect all “Tales of the Magic Hoe” readings","ru":"Собрать все книги из серии «Сказки о волшебной мотыге»"}
+{"id":"achievement:12970951557776128","en":"Collected Folios","ru":"Собрание фолиантов"}
+{"id":"achievement:12970951557776384","en":"Collect 20 types of Readings","ru":"Собрать 20 видов чтива"}
+{"id":"achievement:12970955852743424","en":"Gleanings of the Written Word","ru":"Письменные находки"}
+{"id":"achievement:12970955852743680","en":"Collect 50 types of Readings","ru":"Собрать 50 видов чтива"}
+{"id":"achievement:12970964442678016","en":"Elemental Adept","ru":"Повелитель элементов"}
+{"id":"achievement:12970964442678272","en":"Complete the Kibo Puzzle for 9 different Elements 1 times each","ru":"Пройти головоломку кибо для 9 элементов по 1 раза"}
+{"id":"achievement:17222823151928064","en":"Stellar Wisdom: 1","ru":"Звёздная мудрость: 1"}
+{"id":"achievement:17222823151928320","en":"Reach Star Knowledge Level 20","ru":"Достичь уровня звёздных знаний 20"}
+{"id":"achievement:17222827446895360","en":"Stellar Wisdom: 2","ru":"Звёздная мудрость: 2"}
+{"id":"achievement:17222827446895616","en":"Reach Star Knowledge Level 40","ru":"Достичь уровня звёздных знаний 40"}
+{"id":"achievement:17222831741862656","en":"Stellar Wisdom: 3","ru":"Звёздная мудрость: 3"}
+{"id":"achievement:17222831741862912","en":"Reach Star Knowledge Level 50","ru":"Достичь уровня звёздных знаний 50"}
+{"id":"achievement:17222836036829952","en":"Stellar Wisdom: 4","ru":"Звёздная мудрость: 4"}
+{"id":"achievement:17222836036830208","en":"Reach Star Knowledge Level 60","ru":"Достичь уровня звёздных знаний 60"}
+{"id":"achievement:17222840331797248","en":"Stellar Wisdom: 5","ru":"Звёздная мудрость: 5"}
+{"id":"achievement:17222840331797504","en":"Reach Star Knowledge Level 70","ru":"Достичь уровня звёздных знаний 70"}
+{"id":"achievement:17222844626764544","en":"Stellar Wisdom: 6","ru":"Звёздная мудрость: 6"}
+{"id":"achievement:17222844626764800","en":"Reach Star Knowledge Level 80","ru":"Достичь уровня звёздных знаний 80"}
+{"id":"achievement:17222848921731840","en":"Hear the Strings of the Starry Choir","ru":"Внять струнам звёздного хора"}
+{"id":"achievement:17222848921732096","en":"Obtain 5 characters","ru":"Получить 5 персонажей"}
+{"id":"achievement:17222853216699136","en":"Survey the Strings of the Sea of Mind","ru":"Созерцать струны моря разума"}
+{"id":"achievement:17222853216699392","en":"Obtain 10 characters","ru":"Получить 10 персонажей"}
+{"id":"achievement:17222857511666432","en":"Song of the Wandering Star","ru":"Песнь странствующей звезды"}
+{"id":"achievement:17222857511666688","en":"Obtain 20 characters","ru":"Получить 20 персонажей"}
+{"id":"achievement:17222861806633728","en":"Only You See Me","ru":"Видишь только ты"}
+{"id":"achievement:17222861806633984","en":"Raise the affinity of 1 characters to 10","ru":"Повысить уровень расположения 1 персонажей до 10"}
+{"id":"achievement:17222866101601024","en":"Only You All See Me","ru":"Видите только вы"}
+{"id":"achievement:17222866101601280","en":"Raise the affinity of 5 characters to 10","ru":"Повысить уровень расположения 5 персонажей до 10"}
+{"id":"achievement:17222870396568320","en":"Eyes Fixed on You All","ru":"Взгляда не отвести"}
+{"id":"achievement:17222870396568576","en":"Raise the affinity of 10 characters to 10","ru":"Повысить уровень расположения 10 персонажей до 10"}
+{"id":"achievement:17222874691535616","en":"First to Ascend","ru":"Первый в вознесении"}
+{"id":"achievement:17222874691535872","en":"Raise the Star Blessing of 1 characters to Ascension Degree XII","ru":"Повысить звёздное благословение 1 персонажей до степени вознесения XII"}
+{"id":"achievement:17222878986502912","en":"Fifth to Ascend","ru":"Пятый в вознесении"}
+{"id":"achievement:17222878986503168","en":"Raise the Star Blessing of 5 characters to Ascension Degree XII","ru":"Повысить звёздное благословение 5 персонажей до степени вознесения XII"}
+{"id":"achievement:17222883281470208","en":"Tenth to Ascend","ru":"Десятый в вознесении"}
+{"id":"achievement:17222883281470464","en":"Raise the Star Blessing of 10 characters to Ascension Degree XII","ru":"Повысить звёздное благословение 10 персонажей до степени вознесения XII"}
+{"id":"achievement:17222887576437504","en":"Congratulations on Level 100!","ru":"Поздравляем с уровнем 100!"}
+{"id":"achievement:17222887576437760","en":"Raise 1 characters to Level 100","ru":"Повысить уровень 1 персонажей до 100"}
+{"id":"achievement:17222891871404800","en":"Training Expert","ru":"Мастер тренировок"}
+{"id":"achievement:17222891871405056","en":"Raise 5 characters to Level 100","ru":"Повысить уровень 5 персонажей до 100"}
+{"id":"achievement:17222896166372096","en":"Master of Growth","ru":"Мастер развития"}
+{"id":"achievement:17222896166372352","en":"Raise 10 characters to Level 100","ru":"Повысить уровень 10 персонажей до 100"}
+{"id":"achievement:17222900461339392","en":"Too Dazzling","ru":"Ослепительно"}
+{"id":"achievement:17222900461339648","en":"Obtain gold-rarity equipment","ru":"Получить снаряжение золотой редкости"}
+{"id":"achievement:17222904756306688","en":"A Fine Saddle for a Fine Steed","ru":"Доброму коню — доброе седло"}
+{"id":"achievement:17222904756306944","en":"Enhance gold-rarity equipment to +15","ru":"Усилить снаряжение золотой редкости до +15"}
+{"id":"achievement:17222909051273984","en":"Heirloom Treasure","ru":"Наследное сокровище"}
+{"id":"achievement:17222909051274240","en":"Raise gold-rarity equipment to 6★","ru":"Поднять снаряжение золотой редкости до 6★"}
+{"id":"achievement:17222913346241280","en":"Properly Dressed","ru":"Как следует одет"}
+{"id":"achievement:17222913346241536","en":"Equip a character with purple-rarity equipment in every slot","ru":"Экипировать персонажа снаряжением фиолетовой редкости во все ячейки"}
+{"id":"achievement:17222917641208576","en":"Family Heirlooms","ru":"Семейные ценности"}
+{"id":"achievement:17222917641208832","en":"Equip a character with gold-rarity equipment in every slot","ru":"Экипировать персонажа снаряжением золотой редкости во все ячейки"}
+{"id":"achievement:17222921936175872","en":"Drop After Drop","ru":"Один дроп за другим"}
+{"id":"achievement:17222921936176128","en":"Enhance all of a character's equipment to +15","ru":"Усилить всё снаряжение персонажа до +15"}
+{"id":"achievement:17222926231143168","en":"All Sparkling","ru":"Всё сияет"}
+{"id":"achievement:17222926231143424","en":"Raise all of a character's equipment to 6★","ru":"Поднять всё снаряжение персонажа до 6★"}
+{"id":"achievement:17222930526110464","en":"I Can't Choose!","ru":"Не могу выбрать!"}
+{"id":"achievement:17222930526110720","en":"Change gender more than 10 times across 1 appearance changes","ru":"Сменить пол более 10 раз за 1 изменений внешности"}
+{"id":"achievement:17222934821077760","en":"Eyes That Stand Apart","ru":"Особый взгляд"}
+{"id":"achievement:17222934821078016","en":"Set different colors for the left and right eyes and save the appearance","ru":"Задать разные цвета левого и правого глаза и сохранить внешность"}
+{"id":"achievement:17265772824888064","en":"Really?","ru":"Серьёзно?"}
+{"id":"achievement:17265772824888320","en":"Succeed at a Starlink with a success rate below 5%","ru":"Успешно выполнить звёздную связь с шансом ниже 5%"}
+{"id":"achievement:17265777119855360","en":"A Stroke of Fortune","ru":"Небесный дар"}
+{"id":"achievement:17265777119855616","en":"Succeed at a Starlink 10 times with a success rate below 5%","ru":"Успешно выполнить звёздную связь 10 раз с шансом ниже 5%"}
+{"id":"achievement:17265781414822656","en":"Isn't That Odd?","ru":"Не странно ли?"}
+{"id":"achievement:17265781414822912","en":"Fail a Starlink with a success rate above 90%","ru":"Провалить звёздную связь с шансом выше 90%"}
+{"id":"achievement:17265785709789952","en":"It's Aiming at Me!?","ru":"Оно целится в меня?!"}
+{"id":"achievement:17265785709790208","en":"Fail a Starlink 10 times with a success rate above 90%","ru":"Провалить звёздную связь 10 раз с шансом выше 90%"}
+{"id":"achievement:17265790004757248","en":"Let's Grow Together","ru":"Давай расти вместе"}
+{"id":"achievement:17265790004757504","en":"Evolve a Bilibird, Momo, or Lifo into its Growth Period","ru":"Эволюционировать билибёрда, Момо или Лифо до периода роста"}
+{"id":"achievement:17265794299724544","en":"Let's Grow Together","ru":"Расти вместе"}
+{"id":"achievement:17265794299724800","en":"Evolve a Weaver, Flaimo, or Fratel into its Adult Form","ru":"Эволюционировать Уивера, Флаймо или Фрателя до взрослой формы"}
+{"id":"achievement:17265798594691840","en":"Super Delicious","ru":"Очень вкусно"}
+{"id":"achievement:17265798594692096","en":"Eat 10 ordinary Friendship Dumplings","ru":"Съесть 10 обычных дружелюбных клёцек"}
+{"id":"achievement:17265802889659136","en":"Kibo Collector","ru":"Коллекционер кибо"}
+{"id":"achievement:17265802889659392","en":"Starlink with 100 types of Kibo","ru":"Установить звёздную связь с 100 видами кибо"}
+{"id":"achievement:17265807184626432","en":"Fanatical Kibo Collector!","ru":"Фанатичный коллекционер кибо!"}
+{"id":"achievement:17265807184626688","en":"Starlink with 200 types of Kibo","ru":"Установить звёздную связь с 200 видами кибо"}
+{"id":"achievement:17265811479593728","en":"Treasure Through Starlink","ru":"Сокровище через звёздную связь"}
+{"id":"achievement:17265811479593984","en":"Starlink with a Kibo with the Natural Gift aptitude","ru":"Установить звёздную связь с кибо с одарённостью «Прирождённый талант»"}
+{"id":"achievement:17265815774561024","en":"Fine Timber Like a Forest","ru":"Добротной древесины — как леса"}
+{"id":"achievement:17265815774561280","en":"Starlink with 10 Kibo with the Natural Gift aptitude","ru":"Установить звёздную связь с 10 кибо с одарённостью «Прирождённый талант»"}
+{"id":"achievement:17265820069528320","en":"Exquisite as Clouds","ru":"Изящны, как облака"}
+{"id":"achievement:17265820069528576","en":"Starlink with 50 Kibo with the Natural Gift aptitude","ru":"Установить звёздную связь с 50 кибо с одарённостью «Прирождённый талант»"}
+{"id":"achievement:17265824364495616","en":"Gathering of the Strong","ru":"Собрание сильнейших"}
+{"id":"achievement:17265824364495872","en":"Place 3 Kibo with the Natural Gift aptitude in your party","ru":"Взять в отряд 3 кибо с одарённостью «Прирождённый талант»"}
+{"id":"achievement:17265828659462912","en":"Rare","ru":"Редкость"}
+{"id":"achievement:17265828659463168","en":"Starlink with a Shiny Kibo","ru":"Установить звёздную связь с сияющим кибо"}
+{"id":"achievement:17265832954430208","en":"Super Rare","ru":"Суперредкий"}
+{"id":"achievement:17265832954430464","en":"Starlink with 10 Shiny Kibo","ru":"Звёздная связь с сияющими кибо: 10"}
+{"id":"achievement:17265837249397504","en":"Super Super Super Rare","ru":"Супер-супер-суперредкий"}
+{"id":"achievement:17265837249397760","en":"Starlink with 50 Shiny Kibo","ru":"Звёздная связь с сияющими кибо: 50"}
+{"id":"achievement:17265841544364800","en":"Auspicious Start","ru":"Хорошее предзнаменование"}
+{"id":"achievement:17265841544365056","en":"Starlink with a Starshine Kibo","ru":"Звёздная связь с кибо звёздного сияния"}
+{"id":"achievement:17265845839332096","en":"All's Well That Ends Well","ru":"Всё хорошо, что хорошо кончается"}
+{"id":"achievement:17265845839332352","en":"Starlink with 10 Starshine Kibo","ru":"Звёздная связь с кибо звёздного сияния: 10"}
+{"id":"achievement:17265850134299392","en":"Brilliance of the Starry Swarm","ru":"Сияние звёздного сонма"}
+{"id":"achievement:17265850134299648","en":"Starlink with 50 Starshine Kibo","ru":"Звёздная связь с кибо звёздного сияния: 50"}
+{"id":"achievement:17265854429266688","en":"Sparkle","ru":"Блеск"}
+{"id":"achievement:17265854429266944","en":"Starlink with a Shining Kibo","ru":"Звёздная связь с сияющим кибо"}
+{"id":"achievement:17265858724233984","en":"Better Keep Your Eyes Shut","ru":"Лучше закрыть глаза"}
+{"id":"achievement:17265858724234240","en":"Starlink with 10 Shining Kibo","ru":"Звёздная связь с сияющими кибо: 10"}
+{"id":"achievement:17265863019201280","en":"Now This Is Rare","ru":"Вот это редкость"}
+{"id":"achievement:17265863019201536","en":"Starlink with a Shining Shiny Kibo","ru":"Звёздная связь с сияющим сияющим кибо"}
+{"id":"achievement:17265867314168576","en":"This Is Even Rarer","ru":"Это ещё большая редкость"}
+{"id":"achievement:17265867314168832","en":"Starlink with a Shining Starshine Kibo","ru":"Звёздная связь с сияющим кибо звёздного сияния"}
+{"id":"achievement:17265871609135872","en":"Gazing at a Nebula Through the Mist","ru":"Созерцание туманности сквозь туман"}
+{"id":"achievement:17265871609136128","en":"Starlink with a Nebulion","ru":"Звёздная связь с Небулионом"}
+{"id":"achievement:17265875904103168","en":"The Pink Little One Descends","ru":"Розовое дитя спустилось с небес"}
+{"id":"achievement:17265875904103424","en":"Starlink with a Downybrinny","ru":"Звёздная связь с Пухобринни"}
+{"id":"achievement:17265884494037760","en":"You Like It? I Get It","ru":"Нравится? Понимаю"}
+{"id":"achievement:17265884494038016","en":"Starlink with 50 Kibo of the Same Species","ru":"Звёздная связь с кибо одного вида: 50"}
+{"id":"achievement:17265888789005056","en":"...You Really Like Them That Much?","ru":"...Тебе правда так нравится?"}
+{"id":"achievement:17265888789005312","en":"Starlink with 100 Kibo of the Same Species","ru":"Звёздная связь с кибо одного вида: 100"}
+{"id":"achievement:17265893083972352","en":"Planning to Open a Breeding Farm?","ru":"Собираешься открыть ферму?"}
+{"id":"achievement:17265893083972608","en":"Starlink with 200 Kibo of the Same Species","ru":"Звёздная связь с кибо одного вида: 200"}
+{"id":"achievement:17265897378939648","en":"Wow, That's a Good Omen!","ru":"Ух ты, какая удача!"}
+{"id":"achievement:17265897378939904","en":"Own 1 Kibo with 8 Purple Factors","ru":"Владеть кибо с пурпурными факторами (8): 1"}
+{"id":"achievement:17265901673906944","en":"Shocking Golden Legend!","ru":"Потрясающая золотая легенда!"}
+{"id":"achievement:17265901673907200","en":"Own 1 Kibo with 8 Golden Factors","ru":"Владеть кибо с золотыми факторами (8): 1"}
+{"id":"achievement:17265905968874240","en":"Hope Is with You","ru":"Надежда с тобой"}
+{"id":"achievement:17265905968874496","en":"Raise 1 Kibo's Affection to Level 10","ru":"Поднять уровень привязанности кибо (1) до 10"}
+{"id":"achievement:17265910263841536","en":"You've Grown Up Well","ru":"Ты отлично вырос"}
+{"id":"achievement:17265910263841792","en":"Raise the Source Vein of 1 Kibo to its highest stage","ru":"Поднять Исходную жилу 1 кибо до высшего уровня"}
+{"id":"achievement:17265914558808832","en":"Training Master","ru":"Мастер дрессировки"}
+{"id":"achievement:17265914558809088","en":"Raise 10 Kibo's Source Veins to Their Highest Stage","ru":"Довести Исходные жилы кибо (10) до высшей ступени"}
+{"id":"achievement:17265918853776128","en":"True Training Master","ru":"Истинный мастер дрессировки"}
+{"id":"achievement:17265918853776384","en":"Raise 100 Kibo's Source Veins to Their Highest Stage","ru":"Довести Исходные жилы кибо (100) до высшей ступени"}
+{"id":"achievement:17265923148743424","en":"This Is the Foundation","ru":"Вот это основа"}
+{"id":"achievement:17265923148743680","en":"Starlink with 30 Cabbeco or Cabbird","ru":"Звёздная связь с каббеко или капустокрылами: 30"}
+{"id":"achievement:17265927443710720","en":"Ugly-Cute","ru":"Мило и жутко одновременно"}
+{"id":"achievement:17265927443710976","en":"Starlink with 30 Bluda or Blue Signa","ru":"Звёздная связь с блуда или синими сигнами: 30"}
+{"id":"achievement:17265931738678016","en":"A Warning from the Protection Treaty","ru":"Предупреждение от Договора о защите"}
+{"id":"achievement:17265931738678272","en":"Accidentally Defeat 1 Shiny Kibo","ru":"Случайно победить сияющих кибо: 1"}
+{"id":"achievement:17265936033645312","en":"A Stern Warning from the Protection Treaty","ru":"Строгое предупреждение от Договора о защите"}
+{"id":"achievement:17265936033645568","en":"Accidentally Defeat 1 Starshine Kibo","ru":"Случайно победить кибо звёздного сияния: 1"}
+{"id":"achievement:17265940328612608","en":"A Severe Warning from the Protection Treaty","ru":"Суровое предупреждение от Договора о защите"}
+{"id":"achievement:17265940328612864","en":"Accidentally Defeat 1 Shining Kibo","ru":"Случайно победить сияющих кибо: 1"}
+{"id":"achievement:17265944623579904","en":"Accidental? Or on Purpose?","ru":"Случайно? Или нарочно?"}
+{"id":"achievement:17265944623580160","en":"Accidentally Defeat 1 Shining Shiny Kibo","ru":"Случайно победить сияющих сияющих кибо: 1"}
+{"id":"achievement:17265948918547200","en":"On Purpose? Or Accidental?","ru":"Нарочно? Или случайно?"}
+{"id":"achievement:17265948918547456","en":"Accidentally Defeat 1 Shining Starshine Kibo","ru":"Случайно победить сияющих кибо звёздного сияния: 1"}
+{"id":"achievement:17265953213514496","en":"Meet Them Head-On! All Forces, Follow Me!","ru":"Встречаем их! Все силы, за мной!"}
+{"id":"achievement:17265953213514752","en":"Deploy 100 Different Kibo Types in Total and Enter Battle","ru":"Собрать 100 разных видов кибо и вступить в бой"}
+{"id":"achievement:17265957508481792","en":"Unleash Your Potential","ru":"Полное раскрытие потенциала"}
+{"id":"achievement:17265957508482048","en":"Train a Kibo's Potential","ru":"Провести тренировку потенциала кибо"}
+{"id":"achievement:17265961803449088","en":"Where'd You Get That?","ru":"Где ты это взял?"}
+{"id":"achievement:17265961803449344","en":"Include 3 Types of Different Starter Kibo in Your Sortie","ru":"Включить 3 разных видов стартовых кибо в отряд"}
+{"id":"achievement:17265966098416384","en":"Base Form Is Strongest","ru":"Начальная форма — самая сильная"}
+{"id":"achievement:17265966098416640","en":"Level 1 Kibo to Level 100 Without Evolving","ru":"Поднять уровень кибо (1) до 100, не эволюционируя"}
+{"id":"achievement:17265970393383680","en":"There Must Be Some Factor...","ru":"Должен быть какой-то фактор..."}
+{"id":"achievement:17265970393383936","en":"Reach 50 Factor Mutations on Any Kibo","ru":"Достичь 50 мутаций факторов у любого кибо"}
+{"id":"achievement:17265974688350976","en":"No Matter How Many, You're the One I Pet","ru":"Сколько бы их ни было, глажу только тебя"}
+{"id":"achievement:17265974688351232","en":"Pet the Same Kibo 10 Times in a Row","ru":"Погладить одного кибо 10 раз подряд"}
+{"id":"achievement:17265978983318272","en":"Gimme Something to Eat!","ru":"Дай мне чего-нибудь поесть!"}
+{"id":"achievement:17265978983318528","en":"Ride a Hungry Kibo for 10 Seconds or More","ru":"Прокатиться на голодном кибо 10 секунд или дольше"}
+{"id":"achievement:17265983278285568","en":"Shooting Mosquitoes with a Cannon","ru":"Стрелять по комарам из пушки"}
+{"id":"achievement:17265983278285824","en":"Use a Flowing Light Stella Card to Starlink with a Cabbird","ru":"Использовать Карту звёзд «Текущий свет» для Звёздной связи с капустокрылом"}
+{"id":"achievement:17308722497848064","en":"7 Days Without a Break","ru":"7 дней без перерыва"}
+{"id":"achievement:17308722497848320","en":"Log in for 7 Consecutive Days","ru":"Входить в игру 7 дней подряд"}
+{"id":"achievement:17308726792815360","en":"30 Days Without a Break","ru":"30 дней без перерыва"}
+{"id":"achievement:17308726792815616","en":"Log in for 30 Consecutive Days","ru":"Входить в игру 30 дней подряд"}
+{"id":"achievement:17308731087782656","en":"365 Days Without a Break","ru":"365 дней без перерыва"}
+{"id":"achievement:17308731087782912","en":"Log in for 365 Consecutive Days","ru":"Входить в игру 365 дней подряд"}
+{"id":"achievement:17308735382749952","en":"We'll Meet Again Someday","ru":"Когда-нибудь мы снова встретимся"}
+{"id":"achievement:17308735382750208","en":"Log in for 7 Total Days","ru":"Входить в игру в сумме 7 дней"}
+{"id":"achievement:17308739677717248","en":"Traces of Time","ru":"Следы времени"}
+{"id":"achievement:17308739677717504","en":"Log in for 30 Total Days","ru":"Входить в игру в сумме 30 дней"}
+{"id":"achievement:17308743972684544","en":"365 Encounters","ru":"365 встреч"}
+{"id":"achievement:17308743972684800","en":"Log in for 365 Total Days","ru":"Входить в игру в сумме 365 дней"}
+{"id":"achievement:17308748267651840","en":"The Day a Star Was Born","ru":"День, когда родилась звезда"}
+{"id":"achievement:17308748267652096","en":"Receive a Birthday Message","ru":"Получить письмо с днём рождения"}
+{"id":"achievement:17308752562619136","en":"Hello","ru":"Привет"}
+{"id":"achievement:17308752562619392","en":"Enter Multiplayer Mode","ru":"Войти в Многопользовательский режим"}
+{"id":"achievement:17308756857586432","en":"Everyone, Attention!","ru":"Всем внимание!"}
+{"id":"achievement:17308756857586688","en":"Speak in the World Channel","ru":"Написать в мировой канал"}
+{"id":"achievement:17308761152553728","en":"With Confidence!","ru":"Уверенно!"}
+{"id":"achievement:17308761152553984","en":"Send the Social Wheel 100 Times in Multiplayer","ru":"Отправить социальное колесо 100 раз в многопользовательском режиме"}
+{"id":"achievement:17308765447521024","en":"Let's Play Together!","ru":"Давай играть вместе!"}
+{"id":"achievement:17308765447521280","en":"Add a Friend","ru":"Добавить друга"}
+{"id":"achievement:17308769742488320","en":"Let's All Play Together!","ru":"Играем вместе!"}
+{"id":"achievement:17308769742488576","en":"Add 10 friends","ru":"Добавить 10 друзей"}
+{"id":"achievement:17308774037455616","en":"Oh, I Love Azure Promilia","ru":"О, я люблю Азур Промилию"}
+{"id":"achievement:17308774037455872","en":"Change your chat bubble","ru":"Изменить облачко чата"}
+{"id":"achievement:17308778332422912","en":"Can't See Without a Picture","ru":"Без картинки не видно"}
+{"id":"achievement:17308778332423168","en":"Send a sticker","ru":"Отправить стикер"}
+{"id":"achievement:17308782627390208","en":"Oh, the Azure Promilia Show","ru":"О, шоу Азур Промилии"}
+{"id":"achievement:17308782627390464","en":"Change your chat background","ru":"Изменить фон чата"}
+{"id":"achievement:17308786922357504","en":"You've Nailed the Essence","ru":"Ты схватил самую суть"}
+{"id":"achievement:17308786922357760","en":"Send Cabbird stickers to 5 friends","ru":"Отправить стикеры капустокрыла 5 друзьям"}
+{"id":"achievement:17308791217324800","en":"Watching to the End?","ru":"Досмотреть до конца?"}
+{"id":"achievement:17308791217325056","en":"Send 1 extra-long messages to friends","ru":"Отправить друзьям 1 сверхдлинных сообщений"}
+{"id":"achievement:17308795512292096","en":"180 Encounters","ru":"180 встреч"}
+{"id":"achievement:17308795512292352","en":"Log in for 180 days","ru":"Входить в игру 180 дней"}
+{"id":"achievement:17351676465775360","en":"A Hundred Sights of the Mortal World","ru":"Сто картин бренного мира"}
+{"id":"achievement:17351676465775616","en":"Unlock all endings in the \"Blossom-Bound Vows\" event","ru":"Открыть все концовки в событии «Обеты, связанные цветами»"}
+{"id":"achievement:17351680760742656","en":"Hard Work Bears Fruit, Sweets Bring Ruin","ru":"Труд приносит плоды, а сладости — погибель"}
+{"id":"achievement:17351680760742912","en":"Reach an SS rank in any attribute in the \"Blossom-Bound Vows\" event","ru":"Достичь ранга SS в любом атрибуте в событии «Обеты, связанные цветами»"}
+{"id":"achievement:17351685055709952","en":"Immortal Fox of Playful Fate","ru":"Бессмертная лиса игривой судьбы"}
+{"id":"achievement:17351685055710208","en":"Place in the top 10% of the \"Trial\" score ranking in the \"Blossom-Bound Vows\" event","ru":"Войти в топ-10% рейтинга «Испытания» в событии «Обеты, связанные цветами»"}
+{"id":"achievement:17351689350677248","en":"A Cart Full of Bread","ru":"Целая телега хлеба"}
+{"id":"achievement:17351689350677504","en":"Unlock 15 training companions within 1 endings in the \"Blossom-Bound Vows\" event","ru":"Открыть 15 напарников по обучению в 1 концовках события «Обеты, связанные цветами»"}
+{"id":"achievement:17351693645644544","en":"Legal Shining Kibo","ru":"Законный сияющий кибо"}
+{"id":"achievement:17351693645644800","en":"Unlock 1 companion Shining Kibos in the \"Blossom-Bound Vows\" event","ru":"Открыть 1 сияющих кибо-напарников в событии «Обеты, связанные цветами»"}
+{"id":"achievement:21517790447928064","en":"So This Is the Raga's Overlord","ru":"Вот он, владыка рага"}
+{"id":"achievement:21517790447928320","en":"Defeat Kinglaraga in the field","ru":"Победить Кинглага на поле"}
+{"id":"achievement:21517794742895360","en":"You Are Not the Raga's Overlord","ru":"Ты не владыка рага"}
+{"id":"achievement:21517794742895616","en":"Defeat Kinglaraga on map difficulty III","ru":"Победить Кинглага на сложности карты III"}
+{"id":"achievement:21517799037862656","en":"I Am the King of the Raga Species","ru":"Я — царь рода рага"}
+{"id":"achievement:21517799037862912","en":"Defeat Kinglaraga on map difficulty V","ru":"Победить Кинглага на сложности карты V"}
+{"id":"achievement:21517803332829952","en":"A Duel? We Had the Upper Hand","ru":"Дуэль? Это мы оказались сильнее"}
+{"id":"achievement:21517803332830208","en":"Defeat Giganshaura in the field","ru":"Победить Гигансёуру на поле"}
+{"id":"achievement:21517807627797248","en":"A Fight? We Were One Step Ahead","ru":"Бой? Мы были на шаг впереди"}
+{"id":"achievement:21517807627797504","en":"Defeat Giganshaura on map difficulty III","ru":"Победить Гигансёуру на сложности карты III"}
+{"id":"achievement:21517811922764544","en":"A Fight? We Were Two Steps Ahead","ru":"Бой? Мы были на два шага впереди"}
+{"id":"achievement:21517811922764800","en":"Defeat Giganshaura on map difficulty V","ru":"Победить Гигансёуру на сложности карты V"}
+{"id":"achievement:21517816217731840","en":"Where'd This Fluttery Moth Come From?","ru":"Откуда эта порхающая моль?"}
+{"id":"achievement:21517816217732096","en":"Defeat Phantomfly in the field","ru":"Победить Призракрыла на поле"}
+{"id":"achievement:21517820512699136","en":"Where'd This Giant Fluttery Moth Come From?","ru":"Откуда эта гигантская порхающая моль?"}
+{"id":"achievement:21517820512699392","en":"Defeat Phantomfly on map difficulty III","ru":"Победить Призракрыла на сложности карты III"}
+{"id":"achievement:21517824807666432","en":"Where'd This Colossal Fluttery Moth Come From!","ru":"Откуда эта колоссальная порхающая моль!"}
+{"id":"achievement:21517824807666688","en":"Defeat Phantomfly on map difficulty V","ru":"Победить Призракрыла на сложности карты V"}
+{"id":"achievement:21517829102633728","en":"Who's the Challenger Here!","ru":"Кто здесь претендент!"}
+{"id":"achievement:21517829102633984","en":"Defeat Vespervamp in the field","ru":"Победить Сумерокрыла на поле"}
+{"id":"achievement:21517833397601024","en":"Who's the True Grand Challenger!","ru":"Кто истинный великий претендент!"}
+{"id":"achievement:21517833397601280","en":"Defeat Vespervamp on map difficulty III","ru":"Победить Сумерокрыла на сложности карты III"}
+{"id":"achievement:21517837692568320","en":"Who's the True Ultra Challenger!","ru":"Кто истинный сверхпретендент!"}
+{"id":"achievement:21517837692568576","en":"Defeat Vespervamp on map difficulty V","ru":"Победить Сумерокрыла на сложности карты V"}
+{"id":"achievement:21517841987535616","en":"Fierce Bird (Emotionally Stable)","ru":"Свирепая птица (эмоционально стабильна)"}
+{"id":"achievement:21517841987535872","en":"Defeat Spitehorn in the field","ru":"Победить Спайтхорна на поле"}
+{"id":"achievement:21517846282502912","en":"Giant Fierce Bird (Emotionally Stable)","ru":"Гигантская свирепая птица (эмоционально стабильна)"}
+{"id":"achievement:21517846282503168","en":"Defeat Spitehorn on map difficulty III","ru":"Победить Спайтхорна на сложности карты III"}
+{"id":"achievement:21517850577470208","en":"Colossal Fierce Bird (Emotionally Stable)","ru":"Колоссальная свирепая птица (эмоционально стабильна)"}
+{"id":"achievement:21517850577470464","en":"Defeat Spitehorn on map difficulty V","ru":"Победить Спайтхорна на сложности карты V"}
+{"id":"achievement:21517854872437504","en":"Does Golden Wheat Fall Like Rain Too?","ru":"Неужели и золотая пшеница падает, как дождь?"}
+{"id":"achievement:21517854872437760","en":"Defeat Ceresha in the field","ru":"Победить Церешу на поле"}
+{"id":"achievement:21517859167404800","en":"Golden Bellflowers Sway and Chime in the Wind","ru":"Золотые колокольчики качаются и звенят на ветру"}
+{"id":"achievement:21517859167405056","en":"Defeat Ceresha on map difficulty III","ru":"Победить Церешу на сложности карты III"}
+{"id":"achievement:21517863462372096","en":"Abundant Ears of Grain Ripple in Gold","ru":"Тучные колосья золотой рябью колышутся"}
+{"id":"achievement:21517863462372352","en":"Defeat Ceresha on map difficulty V","ru":"Победить Церешу на сложности карты V"}
+{"id":"achievement:21517867757339392","en":"Raging Thunder Burns Like Fire, Melts Ice","ru":"Ярый гром горит, как огонь, и плавит лёд"}
+{"id":"achievement:21517867757339648","en":"Defeat Raikoumo in the field","ru":"Победить Райкоумо на поле"}
+{"id":"achievement:21517872052306688","en":"Thunder Splits the Sky, Its Voice Summons Startling Waves","ru":"Гром раскалывает небо, его голос зовёт грозные волны"}
+{"id":"achievement:21517872052306944","en":"Defeat Raikoumo on map difficulty III","ru":"Победить Райкоумо на сложности карты III"}
+{"id":"achievement:21517876347273984","en":"Even Thunder Is Silenced Before My Blade","ru":"Перед моим клинком умолкает и гром"}
+{"id":"achievement:21517876347274240","en":"Defeat Raikoumo on map difficulty V","ru":"Победить Райкоумо на сложности карты V"}
+{"id":"achievement:21517880642241280","en":"Flowed Away Like Water","ru":"Утекло, как вода"}
+{"id":"achievement:21517880642241536","en":"Defeat Amalthea in the field","ru":"Победить Амальтею на поле"}
+{"id":"achievement:21517884937208576","en":"Flowed Away Like a River","ru":"Утекло, как река"}
+{"id":"achievement:21517884937208832","en":"Defeat Amalthea on map difficulty III","ru":"Победить Амальтею на сложности карты III"}
+{"id":"achievement:21517889232175872","en":"Flowed Away Like a Great River","ru":"Утекло, как великая река"}
+{"id":"achievement:21517889232176128","en":"Defeat Amalthea on map difficulty V","ru":"Победить Амальтею на сложности карты V"}
+{"id":"achievement:21517893527143168","en":"No Reckless Charging!","ru":"Никаких безрассудных атак!"}
+{"id":"achievement:21517893527143424","en":"Defeat Flamraga in the field","ru":"Победить Фламрагу на поле"}
+{"id":"achievement:21517897822110464","en":"Absolutely No Reckless Charging!","ru":"Абсолютно никаких безрассудных атак!"}
+{"id":"achievement:21517897822110720","en":"Defeat Flamraga on map difficulty III","ru":"Победить Фламрагу на сложности карты III"}
+{"id":"achievement:21517902117077760","en":"Full Force Ban on Reckless Charging!","ru":"Полный запрет безрассудных атак!"}
+{"id":"achievement:21517902117078016","en":"Defeat Flamraga on map difficulty V","ru":"Победить Фламрагу на сложности карты V"}
+{"id":"achievement:21517906412045056","en":"Divine Feat: Kinglaraga","ru":"Божественный подвиг: Кинглага"}
+{"id":"achievement:21517906412045312","en":"Defeat Kinglaraga in the field without taking damage","ru":"Победить Кинглага на поле, не получив урона"}
+{"id":"achievement:21517910707012352","en":"Divine Feat: Giganshaura","ru":"Божественный подвиг: Гигансёура"}
+{"id":"achievement:21517910707012608","en":"Defeat Giganshaura in the field without taking damage","ru":"Победить Гигансёуру на поле, не получив урона"}
+{"id":"achievement:21517915001979648","en":"Divine Feat: Phantomfly","ru":"Божественный подвиг: Призракрыл"}
+{"id":"achievement:21517915001979904","en":"Defeat Phantomfly in the field without taking damage","ru":"Победить Призракрыла на поле, не получив урона"}
+{"id":"achievement:21517919296946944","en":"Divine Feat: Vespervamp","ru":"Божественный подвиг: Сумерокрыл"}
+{"id":"achievement:21517919296947200","en":"Defeat Vespervamp in the field without taking damage","ru":"Победить Сумерокрыла на поле, не получив урона"}
+{"id":"achievement:21517923591914240","en":"Divine Feat: Spitehorn","ru":"Божественный подвиг: Спайтхорн"}
+{"id":"achievement:21517923591914496","en":"Defeat Spitehorn in the field without taking damage","ru":"Победить Спайтхорна на поле, не получив урона"}
+{"id":"achievement:21517927886881536","en":"Divine Feat: Ceresha","ru":"Божественный подвиг: Цереша"}
+{"id":"achievement:21517927886881792","en":"Defeat Ceresha in the field without taking damage","ru":"Победить Церешу на поле, не получив урона"}
+{"id":"achievement:21517932181848832","en":"Divine Feat: Raikoumo","ru":"Божественный подвиг: Райкоумо"}
+{"id":"achievement:21517932181849088","en":"Defeat Raikoumo in the field without taking damage","ru":"Победить Райкоумо на поле, не получив урона"}
+{"id":"achievement:21517936476816128","en":"Divine Skill: Amalthea","ru":"Божественный навык: Амальтея"}
+{"id":"achievement:21517936476816384","en":"Defeat Amalthea in the field without taking damage","ru":"Победите Амальтею в открытом мире, не получив урона"}
+{"id":"achievement:21517940771783424","en":"Divine Skill: Flamraga","ru":"Божественный навык: Фламрага"}
+{"id":"achievement:21517940771783680","en":"Defeat Flamraga in the field without taking damage","ru":"Победите Фламрагу в открытом мире, не получив урона"}
+{"id":"achievement:21560748710822656","en":"Elemental Devotion","ru":"Приверженность стихии"}
+{"id":"achievement:21560748710822912","en":"Set 8 Kibo of the same element and finish 1 Kibo Fight matches","ru":"Составьте команду из кибо одного элемента (8 шт.) и завершите 1 матч(а) «Боя кибо»"}
+{"id":"achievement:21560753005789952","en":"Overwhelming Variety","ru":"Впечатляющее разнообразие"}
+{"id":"achievement:21560753005790208","en":"Set 8 Kibo of all different elements and finish 1 Kibo Fight matches","ru":"Составьте команду из кибо всех разных элементов (8 шт.) и завершите 1 матч(а) «Боя кибо»"}
+{"id":"achievement:21560757300757248","en":"Territory Activated!","ru":"Активация области!"}
+{"id":"achievement:21560757300757504","en":"Trigger weather yourself 1 times in Kibo Fight","ru":"Самостоятельно вызовите погоду 1 раз в «Бою кибо»"}
+{"id":"achievement:21560761595724544","en":"Luck Was on Our Side","ru":"Удача была на нашей стороне"}
+{"id":"achievement:21560761595724800","en":"In Kibo Fight, choose a Kibo with an advantageous matchup as your lead","ru":"В «Бою кибо» выберите кибо с преимуществом в типе в качестве первого бойца"}
+{"id":"achievement:21560765890691840","en":"Just a Fluke","ru":"Просто случайность"}
+{"id":"achievement:21560765890692096","en":"In Kibo Fight, choose a Kibo with a disadvantageous matchup as your lead","ru":"В «Бою кибо» выберите кибо с невыгодным типом в качестве первого бойца"}
+{"id":"achievement:21560770185659136","en":"Easy Win, Big Victory!","ru":"Лёгкая победа, триумф!"}
+{"id":"achievement:21560770185659392","en":"Win a Kibo Fight without any allied Kibo being defeated.","ru":"Победите в бою кибо, не потеряв ни одного союзного кибо."}
+{"id":"achievement:21560774480626432","en":"A Toast to a Desperate Victory","ru":"Тост за отчаянную победу"}
+{"id":"achievement:21560774480626688","en":"In Kibo Fight, win with only 1 Kibo able to battle remaining","ru":"В «Бою кибо» победите, когда в строю останется лишь 1 боеспособный кибо"}
+{"id":"achievement:21560778775593728","en":"I... still had it in me...","ru":"Я... ещё мог..."}
+{"id":"achievement:21560778775593984","en":"In Kibo Fight, lose while you still have Kibo able to battle","ru":"В «Бою кибо» проиграйте, когда у вас ещё остались боеспособные кибо"}
+{"id":"achievement:21560783070561024","en":"The Beginning of a Champion","ru":"Начало пути сильнейшего"}
+{"id":"achievement:21560783070561280","en":"Reach the Expert V rank in Kibo Fight: Star Crown Cup","ru":"Достигните ранга «Эксперт V» в «Бою кибо: Кубок Звёздной короны»"}
+{"id":"achievement:21560787365528320","en":"I'm Just a Little Good at It","ru":"Я просто немного хорош в этом"}
+{"id":"achievement:21560787365528576","en":"Reach the Master V rank in Kibo Fight: Star Crown Cup","ru":"Достигните ранга «Мастер V» в «Бою кибо: Кубок Звёздной короны»"}
+{"id":"achievement:21560791660495616","en":"Now This Is a True Master","ru":"Вот это настоящий мастер"}
+{"id":"achievement:21560791660495872","en":"Reach the Legend rank in Kibo Fight: Star Crown Cup","ru":"Достигните ранга «Легенда» в «Бою кибо: Кубок Звёздной короны»"}
+{"id":"achievement:21560795955462912","en":"Gotta Watch Those Costs!","ru":"Следи за затратами!"}
+{"id":"achievement:21560795955463168","en":"Set 8 Kibo that each use all 1 of their Oddport Points and finish 1 Kibo Fight matches","ru":"Составьте команду из кибо (8 шт.), каждый из которых расходует все 1 очков странного снаряжения, и завершите 1 матч(а) «Боя кибо»"}
+{"id":"achievement:21560800250430208","en":"Nothing Here Has Any Bite","ru":"Здесь нет ничего стоящего"}
+{"id":"achievement:21560800250430464","en":"In Kibo Fight, defeat 8 enemy Kibos with the same Kibo 1 times","ru":"В бою кибо победите 8 вражеских кибо одним и тем же кибо 1 раз"}
+{"id":"achievement:21560804545397504","en":"One Man Holds the Pass, Ten Thousand Cannot Break Through!","ru":"Один стоит — и десять тысяч не пройдут!"}
+{"id":"achievement:21560804545397760","en":"In Kibo Fight, keep your lead Kibo on the field until the match ends","ru":"В бою кибо оставьте первого кибо на поле до конца поединка"}
+{"id":"achievement:21560808840364800","en":"next?","ru":"next?"}
+{"id":"achievement:21560808840365056","en":"In Kibo Fight, defeat 3 enemy Kibos in a row within 3 seconds","ru":"В бою кибо победите 3 вражеских кибо подряд за 3 секунд"}
+{"id":"achievement:21560813135332096","en":"No Need to Get Serious","ru":"Даже напрягаться не пришлось"}
+{"id":"achievement:21560813135332352","en":"Win a Kibo Fight with 3 or fewer summoned Kibos","ru":"Победите в бою кибо, имея не более 3 призванных кибо"}
+{"id":"achievement:21560817430299392","en":"Team Effort!","ru":"Это общая заслуга!"}
+{"id":"achievement:21560817430299648","en":"Win a Kibo Fight with all allied Kibos alive and everyone's HP at 10% or below","ru":"Победите в бою кибо, когда все союзные кибо живы и у каждого HP не выше 10%"}
+{"id":"achievement:21560821725266688","en":"What a Combination","ru":"Вот это комбинация"}
+{"id":"achievement:21560821725266944","en":"Win 10 Kibo Fights in any mode","ru":"Победите в боях кибо в любом режиме 10 раз"}
+{"id":"achievement:21560826020233984","en":"Into the Thick of It","ru":"Уже в самом разгаре"}
+{"id":"achievement:21560826020234240","en":"Win 50 Kibo Fights in any mode","ru":"Победите в боях кибо в любом режиме 50 раз"}
+{"id":"achievement:21560830315201280","en":"Winners Keep Winning!","ru":"Победители всегда побеждают!"}
+{"id":"achievement:21560830315201536","en":"Win 100 Kibo Fights in any mode","ru":"Победите в боях кибо в любом режиме 100 раз"}
+{"id":"achievement:21560834610168576","en":"Strongest of the Howling Plains","ru":"Сильнейший на Воющих равнинах"}
+{"id":"achievement:21560834610168832","en":"Clear the quest \"Showdown of the Strong in Sprout Valley: One\"","ru":"Завершите задание «Схватка сильнейших в Долине Ростков: один»"}
+{"id":"achievement:21560838905135872","en":"Kibo Master of Charlulu Village","ru":"Мастер кибо деревни Шарлулу"}
+{"id":"achievement:21560838905136128","en":"Clear the quest \"Showdown of the Strong in Sprout Valley: Two\"","ru":"Завершите задание «Схватка сильнейших в Долине Ростков: два»"}
+{"id":"achievement:21560843200103168","en":"Fledgling Hawk of Windrock","ru":"Птенец Ветроскального приюта"}
+{"id":"achievement:21560843200103424","en":"Clear the quest \"Showdown of the Strong in Sprout Valley: Three\"","ru":"Завершите задание «Схватка сильнейших в Долине Ростков: три»"}
+{"id":"achievement:21560847495070464","en":"Undefeated Legend of Charlulu Village","ru":"Легенда о непобедимости деревни Шарлулу"}
+{"id":"achievement:21560847495070720","en":"Clear the quest \"Showdown of the Strong in Sprout Valley: Four\"","ru":"Завершите задание «Схватка сильнейших в Долине Ростков: четыре»"}
+{"id":"achievement:21560851790037760","en":"Sprout Valley Conqueror!","ru":"Покоритель Долины Ростков!"}
+{"id":"achievement:21560851790038016","en":"Clear the quest \"Showdown of the Strong in Sprout Valley: Five\"","ru":"Завершите задание «Схватка сильнейших в Долине Ростков: пять»"}
+{"id":"achievement:21560856085005056","en":"Rising Star of Fleece","ru":"Восходящая звезда Флиса"}
+{"id":"achievement:21560856085005312","en":"Clear the quest \"Showdown of the Strong in Fleece: One\"","ru":"Завершите задание «Схватка сильнейших во Флисе: один»"}
+{"id":"achievement:21560860379972352","en":"Dark Horse Who Beat Pegasus","ru":"Тёмная лошадка, победившая Пегаса"}
+{"id":"achievement:21560860379972608","en":"Clear the quest \"Showdown of the Strong in Fleece: Two\"","ru":"Завершите задание «Схватка сильнейших во Флисе: два»"}
+{"id":"achievement:21560864674939648","en":"Kibo Fight Maniac of Fleece","ru":"Фанатик кибо-боёв из Флиса"}
+{"id":"achievement:21560864674939904","en":"Clear the quest \"Showdown of the Strong in Fleece: Three\"","ru":"Завершите задание «Схватка сильнейших во Флисе: три»"}
+{"id":"achievement:21560868969906944","en":"Fleece Kibo Fight Ambassador","ru":"Посол кибо-боёв Флиса"}
+{"id":"achievement:21560868969907200","en":"Clear the quest \"Showdown of the Strong in Fleece: Four\"","ru":"Завершите задание «Схватка сильнейших во Флисе: четыре»"}
+{"id":"achievement:21560873264874240","en":"Fleece Kibo Fight Idol","ru":"Идол кибо-боёв Флиса"}
+{"id":"achievement:21560873264874496","en":"Clear the quest \"Showdown of the Strong at the Kibo Fight Center\"","ru":"Завершите задание «Схватка сильнейших в Центре кибо-боёв»"}
+{"id":"achievement:21603689793848064","en":"Think Anyone Else Could Do It?","ru":"А другие смогут?"}
+{"id":"achievement:21603689793848320","en":"Trigger a Kibo's special skill 3 times within 5 seconds","ru":"Активируйте особый навык кибо 3 раз за 5 секунд"}
+{"id":"achievement:21603694088815360","en":"I can't go on, Starborn...","ru":"Звездорождённый, я больше не могу..."}
+{"id":"achievement:21603694088815616","en":"Your companion Kibo falls in battle","ru":"Спутник кибо падает без сил в бою"}
+{"id":"achievement:21603698383782656","en":"Skill Is Everything","ru":"Мастерство решает всё"}
+{"id":"achievement:21603698383782912","en":"Deal more than 9999 damage in 1 attacks","ru":"Нанести более 9999 урона за 1 атак"}
+{"id":"achievement:21603702678749952","en":"Bring It On, Brother...","ru":"Давай, брат..."}
+{"id":"achievement:21603702678750208","en":"Deal more than 99999 damage in 1 attacks","ru":"Нанести более 99999 урона за 1 атак"}
+{"id":"achievement:21603706973717248","en":"Power Is the Mark of a King","ru":"Сила — знак короля"}
+{"id":"achievement:21603706973717504","en":"Deal a total of 9,999,999 damage","ru":"Нанести суммарно 9,999,999 урона"}
+{"id":"achievement:21603711268684544","en":"Evade All the Pain!","ru":"Вся боль — в уклонение!"}
+{"id":"achievement:21603711268684800","en":"Trigger Perfect Dodge 100 times","ru":"Активировать идеальный уклон 100 раз"}
+{"id":"achievement:21603715563651840","en":"Touch Me First, Then Talk","ru":"Сначала дотронься, потом говори"}
+{"id":"achievement:21603715563652096","en":"Trigger Perfect Dodge 1000 times","ru":"Активировать идеальный уклон 1000 раз"}
+{"id":"achievement:21603719858619136","en":"That's What They Call a 'Divine Dodge'","ru":"Вот это и есть «божественное уклонение»"}
+{"id":"achievement:21603719858619392","en":"Trigger Perfect Dodge 10000 times","ru":"Активировать идеальный уклон 10000 раз"}
+{"id":"achievement:21603724153586432","en":"Hmph, Is That All You've Got?","ru":"Хм, и это всё, на что ты способен?"}
+{"id":"achievement:21603724153586688","en":"Trigger Perfect Guard or Perfect Parry 100 times","ru":"Активировать идеальную защиту или идеальное парирование 100 раз"}
+{"id":"achievement:21603728448553728","en":"Not a Scratch","ru":"Ни единой царапины"}
+{"id":"achievement:21603728448553984","en":"Trigger Perfect Guard or Perfect Parry 1000 times","ru":"Активировать идеальную защиту или идеальное парирование 1000 раз"}
+{"id":"achievement:21603732743521024","en":"This Is Real Skill","ru":"Вот это — настоящий навык"}
+{"id":"achievement:21603732743521280","en":"Trigger Perfect Guard or Perfect Parry 10000 times","ru":"Активировать идеальную защиту или идеальное парирование 10000 раз"}
+{"id":"achievement:21603737038488320","en":"Resonant Star","ru":"Резонирующая звезда"}
+{"id":"achievement:21603737038488576","en":"Use Starecho Skills 100 times","ru":"Использовать навык звёздного эха 100 раз"}
+{"id":"achievement:21603741333455616","en":"This Is Teamwork","ru":"Вот это — командная работа"}
+{"id":"achievement:21603741333455872","en":"Use Starecho Skills 1000 times","ru":"Использовать навык звёздного эха 1000 раз"}
+{"id":"achievement:21603745628422912","en":"You Are Not Alone","ru":"Ты не один"}
+{"id":"achievement:21603745628423168","en":"Use Starecho Skills 10000 times","ru":"Использовать навык звёздного эха 10000 раз"}
+{"id":"achievement:21603749923390208","en":"The Starpolar Skill Is a Normal Attack","ru":"Звёзднополярный навык — это обычная атака"}
+{"id":"achievement:21603749923390464","en":"Use Starpolar Skill 100 times","ru":"Используйте звёзднополярный навык 100 раз"}
+{"id":"achievement:21603754218357504","en":"Can't Stop Anymore","ru":"Больше не остановиться"}
+{"id":"achievement:21603754218357760","en":"Use Starpolar Skill 1000 times","ru":"Используйте звёзднополярный навык 1000 раз"}
+{"id":"achievement:21603758513324800","en":"Even the Starpolar Skill Deserves a Rest","ru":"Звёзднополярный навык тоже заслужил отдых"}
+{"id":"achievement:21603758513325056","en":"Use Starpolar Skill 10000 times","ru":"Используйте звёзднополярный навык 10000 раз"}
+{"id":"achievement:21603762808292096","en":"Unshakable Alliance","ru":"Нерушимый союз"}
+{"id":"achievement:21603762808292352","en":"Use Starflash Skill 100 times","ru":"Используйте навык звёздной вспышки 100 раз"}
+{"id":"achievement:21603767103259392","en":"Perfect Synchrony","ru":"Идеальный тандем"}
+{"id":"achievement:21603767103259648","en":"Use Starflash Skill 1000 times","ru":"Используйте навык звёздной вспышки 1000 раз"}
+{"id":"achievement:21603771398226688","en":"Together, Nothing Can Stop Us","ru":"Вместе мы справимся"}
+{"id":"achievement:21603771398226944","en":"Use Starflash Skill 10000 times","ru":"Используйте навык звёздной вспышки 10000 раз"}
+{"id":"achievement:21603775693193984","en":"Family Treasure Sword","ru":"Фамильный клинок"}
+{"id":"achievement:21603775693194240","en":"Use Kibo's special skill 100 times","ru":"Используйте особый навык кибо 100 раз"}
+{"id":"achievement:21603779988161280","en":"Height of Mastery","ru":"Вершина мастерства"}
+{"id":"achievement:21603779988161536","en":"Use Kibo's special skill 1000 times","ru":"Используйте особый навык кибо 1000 раз"}
+{"id":"achievement:21603784283128576","en":"From Novice to Master","ru":"От новичка до мастера"}
+{"id":"achievement:21603784283128832","en":"Use Kibo's special skill 10000 times","ru":"Используйте особый навык кибо 10000 раз"}
+{"id":"achievement:21603788578095872","en":"Sleep on It!","ru":"Баю-бай!"}
+{"id":"achievement:21603788578096128","en":"Inflict Break on enemies 50 times","ru":"Нанесите прорыв врагам 50 раз"}
+{"id":"achievement:21603792873063168","en":"Everyone, Hit the Floor!","ru":"Всем на пол!"}
+{"id":"achievement:21603792873063424","en":"Inflict Break on enemies 500 times","ru":"Нанесите прорыв врагам 500 раз"}
+{"id":"achievement:21603797168030464","en":"Take It Up with My Starpolar Skill","ru":"Жалуйтесь звёзднополярному навыку"}
+{"id":"achievement:21603797168030720","en":"Defeat enemies with Starpolar Skill 10 times","ru":"Победите врагов звёзднополярным навыком 10 раз"}
+{"id":"achievement:21603801462997760","en":"Professional Finisher","ru":"Профессиональное добивание"}
+{"id":"achievement:21603801462998016","en":"Defeat enemies with Starpolar Skill 100 times","ru":"Победите врагов звёзднополярным навыком 100 раз"}
+{"id":"achievement:21603805757965056","en":"A True Starborn Never Looks Back at Their Starpolar Skill","ru":"Настоящий Звездорождённый не оглядывается на звёзднополярный навык"}
+{"id":"achievement:21603805757965312","en":"Defeat enemies with Starpolar Skill 1000 times","ru":"Победите врагов звёзднополярным навыком 1000 раз"}
+{"id":"achievement:21603810052932352","en":"The Invincible Starborn Has Fallen...","ru":"Неуязвимый Звездорождённый пал..."}
+{"id":"achievement:21603810052932608","en":"Lose to a Boss","ru":"Потерпите поражение от босса"}
+{"id":"achievement:21603814347899648","en":"Fire Blaze Blaze!","ru":"Огонь полыхает!"}
+{"id":"achievement:21603814347899904","en":"Deal Fire Attribute EX Damage 1000 times","ru":"Нанесите огненный урон EX 1000 раз"}
+{"id":"achievement:21603818642866944","en":"Water Flow Flow!","ru":"Вода струится!"}
+{"id":"achievement:21603818642867200","en":"Deal Water Element EX Damage 1000 times","ru":"Нанесите водный урон EX 1000 раз"}
+{"id":"achievement:21603822937834240","en":"Ice Freezes Three Feet Deep, Not in a Day's Cold","ru":"Лёд в три чи не за день морозом скован"}
+{"id":"achievement:21603822937834496","en":"Deal Ice Attribute EX Damage 1000 times","ru":"Нанесите ледяной урон EX 1000 раз"}
+{"id":"achievement:21603827232801536","en":"Stand Against the Gale!","ru":"Встретьте шквал лицом к лицу!"}
+{"id":"achievement:21603827232801792","en":"Deal Wind Attribute EX Damage 1000 times","ru":"Нанесите ветряной урон EX 1000 раз"}
+{"id":"achievement:21603831527768832","en":"Wood Grove Forest!","ru":"Лес да чаща!"}
+{"id":"achievement:21603831527769088","en":"Deal Nature Attribute EX Damage 1000 times","ru":"Нанесите урон природы EX 1000 раз"}
+{"id":"achievement:21603835822736128","en":"Earth Soil Mound!","ru":"Земля да курган!"}
+{"id":"achievement:21603835822736384","en":"Deal Earth Attribute EX Damage 1000 times","ru":"Нанесите земной урон EX 1000 раз"}
+{"id":"achievement:21603840117703424","en":"I Am the Rolling Thunder!","ru":"Я — раскат грома!"}
+{"id":"achievement:21603840117703680","en":"Deal Thunder EX Damage 1000 times","ru":"Нанесите громовый урон EX 1000 раз"}
+{"id":"achievement:21603844412670720","en":"Let There Be Light...!","ru":"Да будет свет...!"}
+{"id":"achievement:21603844412670976","en":"Deal Light Element EX Damage 1000 times","ru":"Нанесите светлый урон EX 1000 раз"}
+{"id":"achievement:21603848707638016","en":"I Have Gazed into the Abyss","ru":"Я уже вгляделся в бездну"}
+{"id":"achievement:21603848707638272","en":"Deal Dark element EX Damage 1000 times","ru":"Нанесите тёмный урон EX 1000 раз"}
+{"id":"achievement:21603853002605312","en":"When You Witness the Limit","ru":"Когда вы узрите предел"}
+{"id":"achievement:21603853002605568","en":"Deal EX Damage of any attribute 5000 times","ru":"Нанесите урон EX любого атрибута 5000 раз"}
+{"id":"achievement:21603857297572608","en":"If Not Now, When?","ru":"Если не сейчас, то когда?"}
+{"id":"achievement:21603857297572864","en":"Defeat a Boss in Break state 100 times","ru":"Победите босса в состоянии прорыва 100 раз"}
+{"id":"achievement:21603861592539904","en":"Down? Then It's Over","ru":"Упал? Значит, конец"}
+{"id":"achievement:21603861592540160","en":"Defeat a Boss in Break state 500 times","ru":"Победите босса в состоянии прорыва 500 раз"}
+{"id":"achievement:21603865887507200","en":"Let's End This","ru":"Покончим с этим"}
+{"id":"achievement:21603865887507456","en":"Defeat a Boss in Break state 1000 times","ru":"Победите босса в состоянии прорыва 1000 раз"}
+{"id":"achievement:21603870182474496","en":"Combo Master","ru":"Мастер комбо"}
+{"id":"achievement:21603870182474752","en":"Reach a Combo count of 100","ru":"Достигните комбо в 100"}
+{"id":"achievement:21603874477441792","en":"God of Combos","ru":"Бог комбо"}
+{"id":"achievement:21603874477442048","en":"Reach a Combo count of 500","ru":"Достигните комбо в 500"}
+{"id":"achievement:21603878772409088","en":"Super Awesome!","ru":"Суперкруто!"}
+{"id":"achievement:21603878772409344","en":"Reach a Combo count of 1000","ru":"Достигните комбо в 1000"}
+{"id":"achievement:21603883067376384","en":"In One Breath","ru":"Одним духом"}
+{"id":"achievement:21603883067376640","en":"Deal over 50000 damage while a combo is active","ru":"Нанесите более 50000 урона, не прерывая комбо"}
+{"id":"achievement:21603887362343680","en":"Flowing Like Clouds and Water","ru":"Плавно, как облака и вода"}
+{"id":"achievement:21603887362343936","en":"Deal over 200000 damage while a combo is active","ru":"Нанесите более 200000 урона, не прерывая комбо"}
+{"id":"achievement:21603891657310976","en":"Unstoppable Momentum!","ru":"Неудержимый натиск!"}
+{"id":"achievement:21603891657311232","en":"Deal over 500000 damage while a combo is active","ru":"Нанесите более 500000 урона, не прерывая комбо"}
+{"id":"achievement:21603895952278272","en":"So Close...","ru":"Так близко..."}
+{"id":"achievement:21603895952278528","en":"When a Boss's HP falls to 10% or below, it enters Rampage","ru":"Когда HP босса опускается до 10% или ниже, он впадает в бешенство"}
+{"id":"achievement:21603900247245568","en":"Divine Power","ru":"Божественная сила"}
+{"id":"achievement:21603900247245824","en":"As the Starborn, copy Sigils of 9 different attributes","ru":"Играя за Звездорождённого, скопируйте печати 9 разных атрибутов"}
+{"id":"achievement:21603904542212864","en":"The Sword Dances Like Violet Lightning","ru":"Меч танцует, как лиловый гром"}
+{"id":"achievement:21603904542213120","en":"As Morwyn, consume 8 Thunder Sigils within 15 seconds","ru":"Играя за Морвин, израсходуйте 8 громовых печатей за 15 секунд"}
+{"id":"achievement:21603908837180160","en":"Food Is Power","ru":"Еда — это сила"}
+{"id":"achievement:21603908837180416","en":"As Shalle, trigger Charged Attack 1000 times","ru":"Играя за Шалль, примените заряженную атаку 1000 раз"}
+{"id":"achievement:21603913132147456","en":"Full Swing","ru":"На полный размах"}
+{"id":"achievement:21603913132147712","en":"As Nono, break enemy stances with a charged Charged Attack 300 times","ru":"Играя за Ноно, прорвите стойку врагов заряженной атакой 300 раз"}
+{"id":"achievement:21603917427114752","en":"A Hunter's Soul Is Immortal","ru":"Душа охотника бессмертна"}
+{"id":"achievement:21603917427115008","en":"As Terara, recover 200,000 HP with a Derived Charged Attack","ru":"Играя за Терару, восстановите 200,000 HP производной заряженной атакой"}
+{"id":"achievement:21603921722082048","en":"Whirlwind Frenzy","ru":"Вихревое неистовство"}
+{"id":"achievement:21603921722082304","en":"As Symphoria, deal 500,000 damage through Lumi","ru":"Играя за Симфорию, нанесите 500,000 урона с помощью Луми"}
+{"id":"achievement:21603926017049344","en":"Together with Aura","ru":"Вместе с аурой"}
+{"id":"achievement:21603926017049600","en":"As Luruka, deal 500,000 damage with summons","ru":"Играя за Луруку, нанесите 500,000 урона призывами"}
+{"id":"achievement:21603930312016640","en":"Scattered Blooms of Flying Flame and Silver Fire","ru":"Разлетающиеся цветы летящего пламени и серебристого огня"}
+{"id":"achievement:21603930312016896","en":"As Han Youyou, hit enemies affected by Flamefire with a Charged Attack 500 times","ru":"Играя за Хань Юю, попадите заряженной атакой по врагам с эффектом «пламенный огонь» 500 раз"}
+{"id":"achievement:21603934606983936","en":"To the Ends of the Earth, Always...","ru":"До края земли, всегда..."}
+{"id":"achievement:21603934606984192","en":"As Faridah, trigger Pursuit 500 times","ru":"Играя за Фариду, примените преследование 500 раз"}
+{"id":"achievement:21603938901951232","en":"Indomitable","ru":"Несгибаемая"}
+{"id":"achievement:21603938901951488","en":"As Lily, trigger Auto Guard with the Will effect 200 times","ru":"Играя за Лили, активируйте автозащиту эффектом «Воля» 200 раз"}
+{"id":"achievement:21603943196918528","en":"Justice Kick Combo!","ru":"Карающий удар! Серия пинков"}
+{"id":"achievement:21603943196918784","en":"As Pengpeng, hit targets with Rapid Kick 5000 times","ru":"Играя за Пэнпэн, попадите по цели «быстрыми пинками» 5000 раз"}
+{"id":"achievement:21603947491885824","en":"Swift Arrow, Lightning Bolt","ru":"Быстрая стрела, громовой разряд"}
+{"id":"achievement:21603947491886080","en":"Generate 500 Thunder Orbs with Mitty.","ru":"Создайте 500 громовых сфер с помощью Митти."}
+{"id":"achievement:21603951786853120","en":"Starving Dragon's Breath ×300","ru":"Дыхание голодного дракона ×300"}
+{"id":"achievement:21603951786853376","en":"Activate Dragon Breath with Abby and Break enemy stance 300 times.","ru":"С помощью Эбби примените драконье дыхание и нарушьте стойку противников 300 раз."}
+{"id":"achievement:21603956081820416","en":"Butterfly Song, Swift Leaf","ru":"Песня бабочки, стремительный лист"}
+{"id":"achievement:21603956081820672","en":"Collect summoned Butterfly Seeds and Spiritwood Seeds 1000 times with Metsa.","ru":"С помощью Метсы подберите призванные семена бабочки и семена духодрева 1000 раз."}
+{"id":"achievement:21603960376787712","en":"Bonds Are Wondrous","ru":"Узы — это чудо"}
+{"id":"achievement:21603960376787968","en":"Gain the Bondweaving effect 300 times with Tushan Xiaoyu.","ru":"С помощью Тушань Сяоюй получите эффект «Плетение уз» 300 раз."}
+{"id":"achievement:21603964671755008","en":"Hellfire Burns All, Judgment of a Thousand Sins","ru":"Адское пламя сжигает всё, карая тысячу грехов"}
+{"id":"achievement:21603964671755264","en":"Fire 1000 rounds of ammunition with Ruby.","ru":"С помощью Руби выпустите 1000 боеприпасов."}
+{"id":"achievement:21603968966722304","en":"Greataxe and Its Charged Attack","ru":"Секира и её заряженная атака"}
+{"id":"achievement:21603968966722560","en":"Activate Charged Attack Form 3 300 times with Cathbelle.","ru":"С помощью Кэтбелль примените заряженную атаку формы 3 300 раз."}
+{"id":"achievement:21603973261689600","en":"True Guardian God","ru":"Истинный бог-защитник"}
+{"id":"achievement:21603973261689856","en":"Restore 500,000 HP for the whole team with Anais.","ru":"С помощью Анаис восстановите 500,000 HP всей команде."}
+{"id":"achievement:21603977556656896","en":"Cleave Yin and Yang with Might","ru":"Разрубить инь и ян силой"}
+{"id":"achievement:21603977556657152","en":"Activate a Charged Attack charged during Yin-Yang Unity 100 times with Peipei.","ru":"С помощью Пэйпэй примените заряженную атаку, накопленную во время единства инь-ян, 100 раз."}
+{"id":"achievement:21603981851624192","en":"Meow!","ru":"Мяу!"}
+{"id":"achievement:21603981851624448","en":"Activate the 2-hit attack of Sparkle Whirlwind 300 times with Maple.","ru":"С помощью Мейпл примените удар 2 ступени «Блеска вихря» 300 раз."}
+{"id":"achievement:21603986146591488","en":"The Corpse Is Working","ru":"Труп работает"}
+{"id":"achievement:21603986146591744","en":"Deal 500,000 damage through summons with Lan Xiangzi.","ru":"С помощью Лань Сянцзы нанесите 500,000 урона с помощью призванных существ."}
+{"id":"achievement:21603990441558784","en":"After the Fierce Battle","ru":"После жестокой битвы"}
+{"id":"achievement:21603990441559040","en":"Defeat any Aberrant Kibo with only 1 combat-capable character remaining and that character's HP below 10%.","ru":"Победите любого аберранта кибо, когда в бою способен сражаться только 1 персонаж и его HP ниже 10%."}
+{"id":"achievement:21689589139768064","en":"Clear!","ru":"Зачистка!"}
+{"id":"achievement:21689589139768320","en":"Clear Traces of the Heavenly Dao: Tidal Ring VII.","ru":"Пройдите «Следы небесного пути: Кольцо приливов VII»."}
+{"id":"achievement:21689593434735360","en":"Not Just a Clear!","ru":"Не просто пройти!"}
+{"id":"achievement:21689593434735616","en":"Earn 3★ in Traces of the Heavenly Dao: Tidal Ring VII.","ru":"Получите 3★ в «Следах небесного пути: Кольце приливов VII»."}
+{"id":"achievement:21689597729702656","en":"Victory at the Limit","ru":"Победа на пределе"}
+{"id":"achievement:21689597729702912","en":"Complete any Crisis Subjugation at difficulty IV 10 times without any of 1 characters being incapacitated.","ru":"Пройдите любое «Подавление кризиса» сложности IV 10 раз, не допустив потери боеспособности ни одним из 1 персонажей."}
+{"id":"achievement:21689602024669952","en":"One Is Enough","ru":"Одного достаточно"}
+{"id":"achievement:21689602024670208","en":"Clear any Crisis Subjugation at difficulty IV within 200 seconds in Single Mode.","ru":"Пройдите любое «Подавление кризиса» сложности IV за 200 секунд в одиночном режиме."}
+{"id":"achievement:21689606319637248","en":"Together We Stand","ru":"Вместе мы сила"}
+{"id":"achievement:21689606319637504","en":"Clear any Crisis Subjugation at difficulty IV within 180 seconds in Multiplayer Mode.","ru":"Пройдите любое «Подавление кризиса» сложности IV за 180 секунд в многопользовательском режиме."}
+{"id":"achievement:21689610614604544","en":"Weekly Gathering","ru":"Еженедельный сбор"}
+{"id":"achievement:21689610614604800","en":"Clear Calamity Afterimage 5 times.","ru":"Пройдите «Отголосок бедствия» 5 раз."}
+{"id":"achievement:21689614909571840","en":"Old Acquaintances","ru":"Старые знакомые"}
+{"id":"achievement:21689614909572096","en":"Clear Calamity Afterimage 10 times.","ru":"Пройдите «Отголосок бедствия» 10 раз."}
+{"id":"achievement:21689619204539136","en":"Seen More Often Than Friends","ru":"Встречаемся чаще, чем с друзьями"}
+{"id":"achievement:21689619204539392","en":"Clear Calamity Afterimage 100 times.","ru":"Пройдите «Отголосок бедствия» 100 раз."}
+{"id":"achievement:21689623499506432","en":"Steady Progress","ru":"Неустанный прогресс"}
+{"id":"achievement:21689623499506688","en":"Clear Daily Commission: Basic Materials 50 times.","ru":"Пройдите «Ежедневное поручение: базовые материалы» 50 раз."}
+{"id":"achievement:21689627794473728","en":"Serious About Daily Chores","ru":"К ежедневным делам — серьёзно"}
+{"id":"achievement:21689627794473984","en":"Clear Daily Commission: Basic Materials 100 times.","ru":"Пройдите «Ежедневное поручение: базовые материалы» 100 раз."}
+{"id":"achievement:21689632089441024","en":"No Worries About a Full Storage","ru":"Полный склад — не беда"}
+{"id":"achievement:21689632089441280","en":"Clear Daily Commission: Basic Materials 500 times.","ru":"Пройдите «Ежедневное поручение: базовые материалы» 500 раз."}
+{"id":"achievement:21689636384408320","en":"Subjugation Expert","ru":"Эксперт по подавлению"}
+{"id":"achievement:21689636384408576","en":"Clear Daily Commission: Boss Challenge 50 times.","ru":"Пройдите «Ежедневное поручение: испытание босса» 50 раз."}
+{"id":"achievement:21689640679375616","en":"Subjugation Pro","ru":"Профессионал подавления"}
+{"id":"achievement:21689640679375872","en":"Clear Daily Commission: Boss Challenge 100 times.","ru":"Пройдите «Ежедневное поручение: испытание босса» 100 раз."}
+{"id":"achievement:21689644974342912","en":"Subjugation Master","ru":"Мастер подавления"}
+{"id":"achievement:21689644974343168","en":"Clear Daily Commission: Boss Challenge 500 times.","ru":"Пройдите «Ежедневное поручение: испытание босса» 500 раз."}
+{"id":"achievement:21689649269310208","en":"All Stored Away","ru":"Всё на склад"}
+{"id":"achievement:21689649269310464","en":"Clear Daily Commission: Obtain Equipment 50 times.","ru":"Пройдите «Ежедневное поручение: получение снаряжения» 50 раз."}
+{"id":"achievement:21689653564277504","en":"Steady Supply","ru":"Стабильные поставки"}
+{"id":"achievement:21689653564277760","en":"Clear Daily Commission: Obtain Equipment 100 times.","ru":"Пройдите «Ежедневное поручение: получение снаряжения» 100 раз."}
+{"id":"achievement:21689657859244800","en":"Accumulation Is Power","ru":"Накопление — это сила"}
+{"id":"achievement:21689657859245056","en":"Clear Daily Commission: Obtain Equipment 500 times.","ru":"Пройдите «Ежедневное поручение: получение снаряжения» 500 раз."}
+{"id":"achievement:21689662154212096","en":"Trail of Falling Stars 1","ru":"След падающих звёзд 1"}
+{"id":"achievement:21689662154212352","en":"Earn 3★ in stage 10 of the main story commission.","ru":"Получите 3★ на этапе 10 сюжетного поручения."}
+{"id":"achievement:21689666449179392","en":"Trail of Falling Stars 2","ru":"След падающих звёзд 2"}
+{"id":"achievement:21689666449179648","en":"Earn 3★ in stage 30 of the main story commission.","ru":"Получите 3★ на этапе 30 сюжетного поручения."}
+{"id":"achievement:21689670744146688","en":"Shine Anywhere","ru":"Сияй везде"}
+{"id":"achievement:21689670744146944","en":"Earn MVP 10 times in Crisis Subjugation Multiplayer Mode.","ru":"Получите MVP 10 раз в многопользовательском режиме «Подавления кризиса»."}
+{"id":"achievement:21689675039113984","en":"Savior","ru":"Спаситель"}
+{"id":"achievement:21689675039114240","en":"Revive teammates 10 times in Crisis Subjugation.","ru":"Возродите союзников 10 раз в «Подавлении кризиса»."}
+{"id":"achievement:21689679334081280","en":"Shouldn't You Say Hello?","ru":"Ну как не поздороваться?"}
+{"id":"achievement:21689679334081536","en":"Receive a friend request from a Crisis Subjugation teammate.","ru":"Получите заявку в друзья от союзника по «Подавлению кризиса»."}
+{"id":"achievement:21689683629048576","en":"Hehe, Well Done!","ru":"Хе-хе, отличная работа!"}
+{"id":"achievement:21689683629048832","en":"Receive a Like from a Crisis Subjugation teammate.","ru":"Получите «Нравится» от союзника по «Подавлению кризиса»."}
+{"id":"achievement:21689687924015872","en":"Recognized by All","ru":"Признание всех"}
+{"id":"achievement:21689687924016128","en":"Receive Likes from Crisis Subjugation teammates 10 times.","ru":"Получите «Нравится» от союзников по «Подавлению кризиса» 10 раз."}
+{"id":"achievement:21689692218983168","en":"Novice Hero","ru":"Герой-новичок"}
+{"id":"achievement:21689692218983424","en":"Receive Likes from Crisis Subjugation teammates 100 times.","ru":"Получите «Нравится» от союзников по «Подавлению кризиса» 100 раз."}
+{"id":"achievement:21689696513950464","en":"Trio","ru":"Трио"}
+{"id":"achievement:21689696513950720","en":"Activate a 3-character co-op finisher skill 10 times in Crisis Subjugation.","ru":"Примените совместный финальный навык 3 персонажей 10 раз в «Подавлении кризиса»."}
+{"id":"achievement:21689700808917760","en":"Cheers for Teamwork!","ru":"Аплодисменты командной работе!"}
+{"id":"achievement:21689700808918016","en":"Perform a multiplayer Co-op Attack with 2 teammates in Crisis Subjugation and extend the boss's Break time to 15 seconds.","ru":"Выполните совместную атаку с 2 союзниками в многопользовательском режиме «Подавления кризиса» и продлите время прорыва босса до 15 секунд."}
+{"id":"achievement:21689705103885056","en":"Fair, Fair, Utterly Fair","ru":"Честно, честно и ещё раз честно"}
+{"id":"achievement:21689705103885312","en":"Clear a Crisis Subjugation dungeon without anyone being incapacitated.","ru":"Пройдите подземелье «Подавления кризиса», не допустив потери боеспособности ни одним персонажем."}
+{"id":"achievement:21689709398852352","en":"Hope of All","ru":"Надежда всех"}
+{"id":"achievement:21689709398852608","en":"Clear a Crisis Subjugation dungeon with all teammates incapacitated.","ru":"Пройдите подземелье «Подавления кризиса», когда все союзники потеряли боеспособность."}
+{"id":"achievement:4337921263928064","en":"Welcome to Charlulu Village!","ru":"Добро пожаловать в деревню Шарлулу!"}
+{"id":"achievement:4337921263928320","en":"Arrive at Charlulu Village","ru":"Прибыть в деревню Шарлулу"}
+{"id":"achievement:4337925558895360","en":"Acorn Treasure Expedition! Assemble!","ru":"Отряд сокровищ «Желудь»! Вперёд!"}
+{"id":"achievement:4337925558895616","en":"Complete the main story \"The Wolf's Guidance\"","ru":"Завершить основную историю «Волчье руководство»"}
+{"id":"achievement:4337929853862656","en":"Skyhawk Flight","ru":"Полёт Небесного ястреба"}
+{"id":"achievement:4337929853862912","en":"Complete the main story \"Looming Shadows\"","ru":"Завершите основную историю «Надвигающиеся тени»"}
+{"id":"achievement:4337934148829952","en":"Where a Myriad Dreams Converge","ru":"Где сходятся бесчисленные сны"}
+{"id":"achievement:4337934148830208","en":"Complete the main story \"Garden of Forest and Mist\"","ru":"Завершите основную историю «Сад леса и тумана»"}
+{"id":"achievement:4337938443797248","en":"The Shadow of Approaching Calamity","ru":"Тень надвигающегося бедствия"}
+{"id":"achievement:4337938443797504","en":"Complete the main story \"Crossroads\"","ru":"Завершите основную историю «Перекрёстки»"}
+{"id":"achievement:4337942738764544","en":"Reunion After a Hundred Years","ru":"Встреча через сто лет"}
+{"id":"achievement:4337942738764800","en":"Complete the main story \"Like Falling Snow\"","ru":"Завершите основную историю «Словно падающий снег»"}
+{"id":"achievement:4337947033731840","en":"The End of the Calamity","ru":"Конец бедствия"}
+{"id":"achievement:4337947033732096","en":"Complete the main story \"The Promised Wish Star\"","ru":"Завершите основную историю «Звезда обещанного желания»"}
+{"id":"achievement:4337951328699136","en":"Welcome to Fleece","ru":"Добро пожаловать во Флис"}
+{"id":"achievement:4337951328699392","en":"Complete the main story \"Welcome to Fleece\"","ru":"Завершите основную историю «Добро пожаловать во Флис»"}
+{"id":"achievement:4337955623666432","en":"Shared Joy","ru":"Общая радость"}
+{"id":"achievement:4337955623666688","en":"Complete the main story \"The Girl Who Guards Treasure and the Thieving Mice\"","ru":"Завершите основную историю «Девочка, что хранит сокровище, и мыши-воры»"}
+{"id":"achievement:4337959918633728","en":"The Gathering Storm","ru":"Приближающийся шторм"}
+{"id":"achievement:4337959918633984","en":"Complete the main story \"Beneath the Storm of Dark Clouds\"","ru":"Завершите основную историю «Под бурей тёмных туч»"}
+{"id":"achievement:4423820609848064","en":"Everyone Has Their Reasons","ru":"У каждого свои причины"}
+{"id":"achievement:4423820609848320","en":"Complete the side story \"The Mysterious Village Chief\"","ru":"Завершите побочную историю «Таинственный староста»"}
+{"id":"achievement:4423824904815360","en":"How Much for Shipping?","ru":"Сколько за доставку?"}
+{"id":"achievement:4423824904815616","en":"Complete the side story \"Struggle Over the Gem\"","ru":"Завершите побочную историю «Спор из-за самоцвета»"}
+{"id":"achievement:4423829199782656","en":"Congratulations, Truly!","ru":"Правда, поздравляю!"}
+{"id":"achievement:4423829199782912","en":"Complete the side story \"Mitty's Rite of Flight\"","ru":"Завершите побочную историю «Обряд полёта Митти»"}
+{"id":"achievement:4423833494749952","en":"It Wasn't on Purpose!","ru":"Я не нарочно!"}
+{"id":"achievement:4423833494750208","en":"Complete the side story \"Rio and Rio\"","ru":"Завершите побочную историю «Рио-Рио»"}
+{"id":"achievement:4423837789717248","en":"Sleepless Nights","ru":"Ночи без сна"}
+{"id":"achievement:4423837789717504","en":"Complete the side story \"The Dream Catcher\"","ru":"Завершите побочную историю «Ловец снов»"}
+{"id":"achievement:4423842084684544","en":"Moo!","ru":"Му-у!"}
+{"id":"achievement:4423842084684800","en":"Complete the side story \"A Weak Nose\"","ru":"Завершите побочную историю «Слабый нюх»"}
+{"id":"achievement:4423846379651840","en":"Future Meister","ru":"Будущий майстер"}
+{"id":"achievement:4423846379652096","en":"Complete the side story \"Bearing the Glory of the Clan\"","ru":"Завершите побочную историю «Неся славу рода»"}
+{"id":"achievement:4423850674619136","en":"The Clumsy Little Gardener","ru":"Неуклюжий маленький садовник"}
+{"id":"achievement:4423850674619392","en":"Complete the side story \"Who Wrecked the Nest\"","ru":"Завершите побочную историю «Кто разорил гнездо»"}
+{"id":"achievement:4423854969586432","en":"Ace Pilot","ru":"Ас-пилот"}
+{"id":"achievement:4423854969586688","en":"Complete the side story \"Following the Flight Path\"","ru":"Завершите побочную историю «По следам полёта»"}
+{"id":"achievement:4423859264553728","en":"Dancing with Poison","ru":"Танец с ядом"}
+{"id":"achievement:4423859264553984","en":"Complete the side story \"Ride the Waves and Fly\"","ru":"Завершите побочную историю «Лети по волнам»"}
+{"id":"achievement:4423863559521024","en":"Cabbird... So Cute...","ru":"Капустокрыл… такой милый…"}
+{"id":"achievement:4423863559521280","en":"Complete the side story \"I've Become a Cabbird!\"","ru":"Завершите побочную историю «Я стал капустокрылом!»"}
+{"id":"achievement:4423867854488320","en":"Gorgeous Confidence","ru":"Великолепная уверенность"}
+{"id":"achievement:4423867854488576","en":"Complete the side story \"A Beautiful Secret\"","ru":"Завершите побочную историю «Прекрасная тайна»"}
+{"id":"achievement:4423872149455616","en":"Lucky Rainbow","ru":"Счастливая радуга"}
+{"id":"achievement:4423872149455872","en":"Complete the side story \"The Mysterious Fluff\"","ru":"Завершите побочную историю «Таинственный пушистик»"}
+{"id":"achievement:4423876444422912","en":"Since I'm Here","ru":"Раз уж я здесь"}
+{"id":"achievement:4423876444423168","en":"Complete the side story \"Led by the Mysterious Guide\"","ru":"Завершите побочную историю «Ведомый Таинственным гидом»"}
+{"id":"achievement:4423880739390208","en":"Why so serious","ru":"Why so serious"}
+{"id":"achievement:4423880739390464","en":"Complete the side story \"Please, Smile\"","ru":"Завершите побочную историю «Пожалуйста, улыбнись»"}
+{"id":"achievement:4423885034357504","en":"The Mine Shaft Is My Home and Foundation","ru":"Шахтный проход — мой дом и основа"}
+{"id":"achievement:4423885034357760","en":"Complete the side story \"Secret Base\"","ru":"Завершите побочную историю «Секретная база»"}
+{"id":"achievement:4423889329324800","en":"No Overwork Allowed","ru":"Сверхурочные запрещены"}
+{"id":"achievement:4423889329325056","en":"Complete the side story \"The Great Towtow Investigation\"","ru":"Завершите побочную историю «Великое расследование Таутау»"}
+{"id":"achievement:4423893624292096","en":"Protecting Kibo Is Everyone's Responsibility","ru":"Защита кибо — забота всех"}
+{"id":"achievement:4423893624292352","en":"Complete the side story \"A Fated Encounter in the Forest\"","ru":"Завершите побочную историю «Судьбоносная встреча в лесу»"}
+{"id":"achievement:4423897919259392","en":"Bonds Are the Philosopher's Stone","ru":"Узы — философский камень"}
+{"id":"achievement:4423897919259648","en":"Complete the side story \"The Lost Alchemy Ritual\"","ru":"Завершите побочную историю «Утраченный алхимический ритуал»"}
+{"id":"achievement:4423902214226688","en":"Let's Sing Together","ru":"Давай споём вместе"}
+{"id":"achievement:4423902214226944","en":"Complete the side story \"Let's Sing Together\"","ru":"Завершите побочную историю «Давай споём вместе»"}
+{"id":"achievement:4423906509193984","en":"Carnivorous Clodime?","ru":"Плотоядная Клодиме?"}
+{"id":"achievement:4423906509194240","en":"Complete the side story \"Baa-Baa and Grr-Grr\"","ru":"Завершите побочную историю «Бе-е и р-р»"}
+{"id":"achievement:4423910804161280","en":"Clodime-Style Popoti","ru":"Попоти в стиле Клодиме"}
+{"id":"achievement:4423910804161536","en":"Complete the side story \"Fluffy Crisis\"","ru":"Завершите побочную историю «Пушистый кризис»"}
+{"id":"achievement:4423915099128576","en":"The White Shadow of the Forest","ru":"Белая тень леса"}
+{"id":"achievement:4423915099128832","en":"Complete the side story \"The White Shadow That Guards the Forest\"","ru":"Завершите побочную историю «Белая тень, хранящая лес»"}
+{"id":"achievement:4423919394095872","en":"Friends with a Deer","ru":"Дружба с оленем"}
+{"id":"achievement:4423919394096128","en":"Complete the side story \"Friends with a Deer\"","ru":"Завершите побочную историю «Дружба с оленем»"}
+{"id":"achievement:4423923689063168","en":"Revival of the Spirit Tree","ru":"Возрождение древа духов"}
+{"id":"achievement:4423923689063424","en":"Complete the side story \"Wood Petals and the Giant Tree House\"","ru":"Завершите побочную историю «Лесные лепестки и дом-великан»"}
+{"id":"achievement:4423927984030464","en":"The Truth Is Worth a Single Shell","ru":"Правда стоит одной ракушки"}
+{"id":"achievement:4423927984030720","en":"Complete the side story \"Seashell Ghost Story\"","ru":"Завершите побочную историю «История о призраке в ракушке»"}
+{"id":"achievement:4423936573965056","en":"The Benefits of the Stone of Grace Are...","ru":"В чём же польза Камня благодати…"}
+{"id":"achievement:4423936573965312","en":"Complete the side story \"The Ultimate Secret Art: 'Blessing Stone'\"","ru":"Завершите побочную историю «Высшее искусство „Камень благодати“»"}
+{"id":"achievement:4423940868932352","en":"Justice Is in the Tail","ru":"Справедливость в хвосте"}
+{"id":"achievement:4423940868932608","en":"Complete the side story \"Temptation of the Tail\"","ru":"Завершите побочную историю «Искушение хвоста»"}
+{"id":"achievement:4423945163899648","en":"Explosions Are Art","ru":"Взрывы — это искусство"}
+{"id":"achievement:4423945163899904","en":"Complete the side story \"Concerto of Fire and Waves\"","ru":"Завершите побочную историю «Концерт огня и волн»"}
+{"id":"achievement:4423949458866944","en":"Faith Flowing Through a Mantis's Arms","ru":"Вера, текущая по рукам богомола"}
+{"id":"achievement:4423949458867200","en":"Complete the side story \"Conductive Echo\"","ru":"Завершите побочную историю «Проводящее эхо»"}
+{"id":"achievement:4423953753834240","en":"Care and Rebirth","ru":"Забота и возрождение"}
+{"id":"achievement:4423953753834496","en":"Complete the side story \"Tend to the Forest Too\"","ru":"Завершите побочную историю «Позаботься и о лесе»"}
+{"id":"achievement:4423958048801536","en":"Mind Your Neighbors","ru":"Уважайте соседей"}
+{"id":"achievement:4423958048801792","en":"Complete the side story \"Noisy Neighbors\"","ru":"Завершите побочную историю «Шумные соседи»"}
+{"id":"achievement:4423962343768832","en":"Grace Dew","ru":"Роса благодати"}
+{"id":"achievement:4423962343769088","en":"Complete the side story \"Grace Dew\"","ru":"Завершите побочную историю «Роса благодати»"}
+{"id":"achievement:4423966638736128","en":"Bad Girl, Good Girl","ru":"Плохая девочка, хорошая девочка"}
+{"id":"achievement:4423966638736384","en":"Complete Abby's character quest \"Beautiful Treasure\"","ru":"Завершите сюжетный квест Эбби «Прекрасное сокровище»"}
+{"id":"achievement:4423970933703424","en":"Peach Fate Travels on Crimson Slips","ru":"Персиковая судьба странствует по красным запискам"}
+{"id":"achievement:4423970933703680","en":"Complete Tushan Xiaoyu's character quest \"Peach Fate Bound by a Thousand Threads\"","ru":"Завершите сюжетный квест Тушань Сяоюй «Персиковая судьба, связанная тысячью нитей»"}
+{"id":"achievement:4423979523638016","en":"Overweight... Right?","ru":"Перевес… точно нет?"}
+{"id":"achievement:4423979523638272","en":"Complete the side story \"The Hectic Delivery Journey\"","ru":"Завершите побочную историю «Суматошное путешествие с доставкой»"}
+{"id":"achievement:4466770282808064","en":"Meet at the Village Gate, Bring Berries","ru":"Сбор у деревенских ворот, ягоды приносите с собой"}
+{"id":"achievement:4466770282808320","en":"Read the \"Watchtower Message Board\"","ru":"Прочитайте «Доску объявлений сторожевой башни»"}
+{"id":"achievement:4466774577775360","en":"Let's Talk About What Everyone Doesn't Know","ru":"Поговорим о том, чего все не знают"}
+{"id":"achievement:4466774577775616","en":"Read \"The Thousand Renowned Deeds of the Starborn\"","ru":"Прочитайте «Тысячу известных великих деяний Звездорождённого»"}
+{"id":"achievement:4466778872742656","en":"Welcome to the Peddler Shop","ru":"Добро пожаловать в лавку торговца"}
+{"id":"achievement:4466778872742912","en":"Buy every item in any peddler shop","ru":"Купите все товары в любой лавке торговца"}
+{"id":"achievement:4466783167709952","en":"Cabbirds Aren't Weak","ru":"Капустокрыл не слабак"}
+{"id":"achievement:4466783167710208","en":"Be defeated by a Cabbird","ru":"Будьте побеждены капустокрылом"}
+{"id":"achievement:4466787462677248","en":"Cabbirds Really Aren't Weak","ru":"Капустокрылы правда не слабаки"}
+{"id":"achievement:4466787462677504","en":"Be defeated by a Cabbird 5 times","ru":"Будьте побеждены капустокрылом 5 раз"}
+{"id":"achievement:4466791757644544","en":"Hats Off to Organization","ru":"С шляпами не управиться"}
+{"id":"achievement:4466791757644800","en":"Get kicked out of the Pami Post Office by Popo","ru":"Попо выгонит вас из почтового отделения Пами"}
+{"id":"achievement:8632888559928064","en":"A Place to Call Home","ru":"Место, которое можно назвать домом"}
+{"id":"achievement:8632888559928320","en":"Unlock the Farm","ru":"Откройте Ферму"}
+{"id":"achievement:8632892854895360","en":"Bigger and Stronger","ru":"Больше и сильнее"}
+{"id":"achievement:8632892854895616","en":"Reach Farm Form Stage 2","ru":"Достигните 2 этапа формы фермы"}
+{"id":"achievement:8632897149862656","en":"One Day, a Villa","ru":"Когда-нибудь — вилла"}
+{"id":"achievement:8632897149862912","en":"Reach Farm Level 30","ru":"Достигните 30 уровня фермы"}
+{"id":"achievement:8632901444829952","en":"One Day, a Grand Villa!","ru":"Когда-нибудь — большая вилла!"}
+{"id":"achievement:8632901444830208","en":"Reach Farm Level 50","ru":"Достигните 50 уровня фермы"}
+{"id":"achievement:8632905739797248","en":"Reclaiming the Wasteland","ru":"Освоение пустоши"}
+{"id":"achievement:8632905739797504","en":"Reclaim 30 plots of land","ru":"Освойте 30 участков земли"}
+{"id":"achievement:8632910034764544","en":"Medium Farm","ru":"Средняя ферма"}
+{"id":"achievement:8632910034764800","en":"Reclaim 50 plots of land","ru":"Освойте 50 участков земли"}
+{"id":"achievement:8632914329731840","en":"Large Farm","ru":"Большая ферма"}
+{"id":"achievement:8632914329732096","en":"Reclaim 100 plots of land","ru":"Освойте 100 участков земли"}
+{"id":"achievement:8632918624699136","en":"I Love It Here in Fleece","ru":"Мне здесь нравится, во Флисе"}
+{"id":"achievement:8632918624699392","en":"Build and place 1 Fleece-style dormitories","ru":"Постройте и разместите 1 общежитие во флисском стиле"}
+{"id":"achievement:8632922919666432","en":"The Redeccoration Swamp Runs Deeper Than the Sea","ru":"Болото переделок глубже моря"}
+{"id":"achievement:8632922919666688","en":"Place a decorative furnishing","ru":"Разместите декоративное сооружение"}
+{"id":"achievement:8632927214633728","en":"Supreme Smoothness","ru":"Высшая гладкость"}
+{"id":"achievement:8632927214633984","en":"Try taking off a character's socks 1 times in the dormitory","ru":"Попробуйте снять носки персонажа 1 раз в общежитии"}
+{"id":"achievement:8632931509601024","en":"Shh... From Here On, With All My Heart","ru":"Тс-с... дальше — от всего сердца"}
+{"id":"achievement:8632931509601280","en":"Enter the pajama interaction screen in the dormitory","ru":"Войдите в экран взаимодействия в пижаме в общежитии"}
+{"id":"achievement:8632935804568320","en":"Our Little Secret","ru":"Наш маленький секрет"}
+{"id":"achievement:8632935804568576","en":"Trigger special pajama interactions 100 times","ru":"Запустите особые взаимодействия в пижаме 100 раз"}
+{"id":"achievement:8675838232888064","en":"One Against a Thousand","ru":"Один против тысячи"}
+{"id":"achievement:8675838232888320","en":"Craft a Kibo saddle","ru":"Создайте седло для кибо"}
+{"id":"achievement:8675842527855360","en":"One Frogremi Against a Thousand","ru":"Один фрогреми против тысячи"}
+{"id":"achievement:8675842527855616","en":"Craft a Frogremi saddle","ru":"Создайте седло для фрогреми"}
+{"id":"achievement:8675846822822656","en":"One Phantomfly Against a Thousand","ru":"Один призракрыл против тысячи"}
+{"id":"achievement:8675846822822912","en":"Craft a Phantomfly saddle","ru":"Создайте седло для призракрыла"}
+{"id":"achievement:8675851117789952","en":"One Granzalos Against a Thousand","ru":"Один гранзалос против тысячи"}
+{"id":"achievement:8675851117790208","en":"Craft a Granzalos saddle","ru":"Создайте седло для гранзалоса"}
+{"id":"achievement:8675855412757248","en":"One Skyhawk Against a Thousand","ru":"Один небесный ястреб против тысячи"}
+{"id":"achievement:8675855412757504","en":"Craft a Skyhawk saddle","ru":"Создайте седло для небесного ястреба"}
+{"id":"achievement:8675859707724544","en":"One Staray Against a Thousand","ru":"Один звездоскат против тысячи"}
+{"id":"achievement:8675859707724800","en":"Craft a Staray saddle","ru":"Создайте седло для звездоската"}
+{"id":"achievement:8675864002691840","en":"Now I Can Catch the Big Ones 1","ru":"Теперь и крупная добыча по зубам 1"}
+{"id":"achievement:8675864002692096","en":"Craft a fine Stella Card","ru":"Создайте качественную Карту звёзд"}
+{"id":"achievement:8675868297659136","en":"Now I Can Catch the Big Ones 2","ru":"Теперь и крупная добыча по зубам 2"}
+{"id":"achievement:8675868297659392","en":"Craft a radiant Stella Card","ru":"Создайте сияющую Карту звёзд"}
+{"id":"achievement:8675872592626432","en":"Now I Can Catch the Big Ones 3","ru":"Теперь и крупная добыча по зубам 3"}
+{"id":"achievement:8675872592626688","en":"Craft a miraculous Stella Card","ru":"Создайте чудесную Карту звёзд"}
+{"id":"achievement:8675876887593728","en":"Now I Can Catch the Big Ones 4","ru":"Теперь и крупная добыча по зубам 4"}
+{"id":"achievement:8675876887593984","en":"Craft a flowing-light Stella Card","ru":"Создайте струящуюся светом Карту звёзд"}
+{"id":"achievement:8675885477528320","en":"Forewarned Is Forearmed","ru":"Предупреждён — значит вооружён"}
+{"id":"achievement:8675885477528576","en":"Craft 500 Stella Cards on the Farm","ru":"Создайте 500 Карт звёзд на Ферме"}
+{"id":"achievement:8675889772495616","en":"You Can Never Have Too Many Stella Cards","ru":"Карт звёзд много не бывает"}
+{"id":"achievement:8675889772495872","en":"Craft 1000 Stella Cards on the Farm","ru":"Создайте 1000 Карт звёзд на Ферме"}
+{"id":"achievement:8675894067462912","en":"But This Might Be a Bit Much","ru":"Но это, пожалуй, уже перебор"}
+{"id":"achievement:8675894067463168","en":"Craft 5000 Stella Cards on the Farm","ru":"Создайте 5000 Карт звёзд на Ферме"}
+{"id":"achievement:8675898362430208","en":"Goldwheat Bread Baking Expert","ru":"Мастер по выпечке хлеба из золотой пшеницы"}
+{"id":"achievement:8675898362430464","en":"Make 100 plain Goldwheat Bread on the Farm","ru":"Приготовьте 100 обычного хлеба из золотой пшеницы на Ферме"}
+{"id":"achievement:8675902657397504","en":"Still Edible?","ru":"Ещё съедобно?"}
+{"id":"achievement:8675902657397760","en":"Make 500 plain Goldwheat Bread on the Farm","ru":"Приготовьте 500 обычного хлеба из золотой пшеницы на Ферме"}
+{"id":"achievement:8675906952364800","en":"Popo Cookie Enthusiast","ru":"Любитель печенья попо"}
+{"id":"achievement:8675906952365056","en":"Make 100 plain small Popo Cookies on the Farm","ru":"Приготовьте 100 обычного маленького печенья попо на Ферме"}
+{"id":"achievement:8675911247332096","en":"Popo Cookie Fanatic","ru":"Фанат печенья попо"}
+{"id":"achievement:8675911247332352","en":"Make 500 plain small Popo Cookies on the Farm","ru":"Приготовьте 500 обычного маленького печенья попо на Ферме"}
+{"id":"achievement:8675915542299392","en":"Who's Going to Eat All That?","ru":"Кто это всё есть будет?"}
+{"id":"achievement:8675915542299648","en":"Make 1000 plain small Popo Cookies on the Farm","ru":"Приготовьте 1000 обычного маленького печенья попо на Ферме"}
+{"id":"achievement:8675919837266688","en":"Apprentice Cook","ru":"Начинающий повар"}
+{"id":"achievement:8675919837266944","en":"Make 10 dishes","ru":"Приготовьте 10 блюд"}
+{"id":"achievement:8675924132233984","en":"Intermediate Cook","ru":"Опытный повар"}
+{"id":"achievement:8675924132234240","en":"Make 20 dishes","ru":"Приготовьте 20 блюд"}
+{"id":"achievement:8675928427201280","en":"Master Cook!","ru":"Первоклассный повар!"}
+{"id":"achievement:8675928427201536","en":"Make 30 dishes","ru":"Приготовьте 30 блюд"}
+{"id":"achievement:8675932722168576","en":"Best Blade in the Village","ru":"Лучший клинок в деревне"}
+{"id":"achievement:8675932722168832","en":"Craft designated equipment on the Farm","ru":"Создайте заданное снаряжение на Ферме"}
+{"id":"achievement:8675937017135872","en":"No Point Without a Strong Weapon","ru":"Слабым оружием тут нечего делать"}
+{"id":"achievement:8675937017136128","en":"Craft designated equipment 10 times on the Farm","ru":"Создайте заданное снаряжение 10 раз на Ферме"}
+{"id":"achievement:8675941312103168","en":"It Will Cut","ru":"Оно режет"}
+{"id":"achievement:8675941312103424","en":"Craft designated equipment 100 times on the Farm","ru":"Создайте заданное снаряжение 100 раз на Ферме"}
+{"id":"achievement:8675945607070464","en":"Stella Card Tycoon","ru":"Магнат Карт звёзд"}
+{"id":"achievement:8675945607070720","en":"Own 1000 Stella Cards","ru":"Имейте 1000 Карт звёзд"}
+{"id":"achievement:8761737578808064","en":"Sprout Valley Exploration Expert","ru":"Мастер исследования: Долина Ростков"}
+{"id":"achievement:8761737578808320","en":"Unlock all Field Gathering facilities in Sprout Valley","ru":"Откройте все сооружения полевого сбора в Долине Ростков"}
+{"id":"achievement:8761741873775360","en":"Fleece Exploration Expert","ru":"Мастер исследования: Флис"}
+{"id":"achievement:8761741873775616","en":"Unlock all Field Gathering facilities in Fleece","ru":"Откройте все сооружения полевого сбора во Флисе"}
+{"id":"achievement:8761746168742656","en":"Wow! It's Gold...","ru":"Ух ты! Золото..."}
+{"id":"achievement:8761746168742912","en":"Harvest a gilded crop","ru":"Соберите золочёный урожай"}
+{"id":"achievement:8761750463709952","en":"Wow! So Much Gold...","ru":"Ух ты! Сколько золота..."}
+{"id":"achievement:8761750463710208","en":"Harvest 10 gilded crops","ru":"Соберите 10 золочёных урожаев"}
+{"id":"achievement:8761754758677248","en":"With My Own Hands","ru":"Своими руками"}
+{"id":"achievement:8761754758677504","en":"Harvest 50 crops by hand","ru":"Соберите 50 урожаев вручную"}
+{"id":"achievement:8761759053644544","en":"Ever-Plowing","ru":"Без устали пашу"}
+{"id":"achievement:8761759053644800","en":"Harvest 100 crops by hand","ru":"Собрать 100 урожай(ев) вручную"}
+{"id":"achievement:8761763348611840","en":"Weight of a Single Grain","ru":"Вес одного зёрнышка"}
+{"id":"achievement:8761763348612096","en":"Harvest 200 crops by hand","ru":"Собрать 200 урожай(ев) вручную"}
+{"id":"achievement:8761767643579136","en":"Do I Really Have to Chop It Myself?","ru":"Неужели рубить самому?"}
+{"id":"achievement:8761767643579392","en":"Fell trees with tools and collect 100 wood or fruit","ru":"Срубить деревья инструментами и собрать 100 древесины или фруктов"}
+{"id":"achievement:8761771938546432","en":"Skilled Logger","ru":"Опытный лесоруб"}
+{"id":"achievement:8761771938546688","en":"Fell trees with tools and collect 500 wood or fruit","ru":"Срубить деревья инструментами и собрать 500 древесины или фруктов"}
+{"id":"achievement:8761776233513728","en":"Rampage Logger","ru":"Лесоруб в ярости"}
+{"id":"achievement:8761776233513984","en":"Fell trees with tools and collect 1000 wood or fruit","ru":"Срубить деревья инструментами и собрать 1000 древесины или фруктов"}
+{"id":"achievement:8761780528481024","en":"Do I Really Have to Mine It Myself?","ru":"Неужели добывать самому?"}
+{"id":"achievement:8761780528481280","en":"Mine ore with tools and collect 100 stone or minerals","ru":"Добыть руду инструментами и собрать 100 камня или минералов"}
+{"id":"achievement:8761784823448320","en":"Skilled Miner","ru":"Опытный горняк"}
+{"id":"achievement:8761784823448576","en":"Mine ore with tools and collect 500 stone or minerals","ru":"Добыть руду инструментами и собрать 500 камня или минералов"}
+{"id":"achievement:8761789118415616","en":"Rampage Miner","ru":"Горняк в ярости"}
+{"id":"achievement:8761789118415872","en":"Mine ore with tools and collect 1000 stone or minerals","ru":"Добыть руду инструментами и собрать 1000 камня или минералов"}
+{"id":"achievement:8761793413382912","en":"That and This Are Both Edible","ru":"И то и это съедобно"}
+{"id":"achievement:8761793413383168","en":"Gather materials in the field 100 times","ru":"Собрать материалы в поле 100 раз"}
+{"id":"achievement:8761797708350208","en":"Wareroom Filler","ru":"Наполняющий кладовые"}
+{"id":"achievement:8761797708350464","en":"Gather materials in the field 500 times","ru":"Собрать материалы в поле 500 раз"}
+{"id":"achievement:8761802003317504","en":"Not Even the End of the World Scares Me!","ru":"Даже конец света не страшен!"}
+{"id":"achievement:8761802003317760","en":"Gather materials in the field 1000 times","ru":"Собрать материалы в поле 1000 раз"}
+{"id":"achievement:8804687251768064","en":"Abundant Wealth","ru":"Изобилие средств"}
+{"id":"achievement:8804687251768320","en":"Earn 800,000 Farm Coins","ru":"Заработать 800 000 монет фермы"}
+{"id":"achievement:8804691546735360","en":"Untold Riches","ru":"Несметные богатства"}
+{"id":"achievement:8804691546735616","en":"Earn 15000,000 Farm Coins","ru":"Заработать 15000 000 монет фермы"}
+{"id":"achievement:8804695841702656","en":"Town Tycoon","ru":"Городской магнат"}
+{"id":"achievement:8804695841702912","en":"Earn 45000,000 Farm Coins","ru":"Заработать 45000 000 монет фермы"}
+{"id":"achievement:8804700136669952","en":"Trade Prodigy","ru":"Торговый самородок"}
+{"id":"achievement:8804700136670208","en":"Sell any item when its price rises by 35%","ru":"Продать любой товар, когда его цена вырастет на 35%"}
+{"id":"achievement:8804704431637248","en":"Ding! A New Order","ru":"Динь! Новый заказ"}
+{"id":"achievement:8804704431637504","en":"Complete 10 Orders at the Farm Exchange","ru":"Выполнить 10 заказ(ов) в торговой лавке фермы"}
+{"id":"achievement:8804708726604544","en":"Fated Big Order","ru":"Судьбоносный крупный заказ"}
+{"id":"achievement:8804708726604800","en":"Complete 100 Orders at the Farm Exchange","ru":"Выполнить 100 заказ(ов) в торговой лавке фермы"}
+{"id":"achievement:8804713021571840","en":"Fated Ultra Order","ru":"Судьбоносный сверхзаказ"}
+{"id":"achievement:8804713021572096","en":"Complete 1000 Orders at the Farm Exchange","ru":"Выполнить 1000 заказ(ов) в торговой лавке фермы"}
+{"id":"achievement:8804717316539136","en":"Morwyn's Shopping Trip","ru":"Покупки Морвин"}
+{"id":"achievement:8804717316539392","en":"Buy items at Lilika's Shop or the Korokoro Shop","ru":"Купить товары в лавке Лилики или в магазине Корокоро"}
+{"id":"achievement:8804721611506432","en":"Like Water","ru":"Как вода"}
+{"id":"achievement:8804721611506688","en":"Buy an item priced above 1000 Farm Coins","ru":"Купить товар ценой выше 1000 монет фермы"}
+{"id":"achievement:8804730201441024","en":"Good Customer","ru":"Хороший покупатель"}
+{"id":"achievement:8804730201441280","en":"Complete an order of intermediate difficulty","ru":"Выполнить заказ средней сложности"}
+{"id":"achievement:8804734496408320","en":"True Good Customer","ru":"Лучший покупатель"}
+{"id":"achievement:8804734496408576","en":"Complete 10 orders of intermediate difficulty","ru":"Выполнить 10 заказ(ов) средней сложности"}
+{"id":"achievement:8847636924728064","en":"Kibo Resource Manager","ru":"Управляющий ресурсами кибо"}
+{"id":"achievement:8847636924728320","en":"Perform Precision Dispatch","ru":"Выполнить точную отправку"}
+{"id":"achievement:8847641219695360","en":"Belly Full!","ru":"Сытое брюхо!"}
+{"id":"achievement:8847641219695616","en":"Set 50 dishes in the Kibo Canteen","ru":"Поставить 50 блюд(а) в столовую для кибо"}
+{"id":"achievement:8847645514662656","en":"Ignition Master","ru":"Мастер розжига"}
+{"id":"achievement:8847645514662912","en":"Obtain a Kibo with an Ignition job rating above 40","ru":"Получить кибо с оценкой профессии «розжиг» выше 40"}
+{"id":"achievement:8847649809629952","en":"Ignition? Easy Peasy","ru":"Розжиг? Проще простого"}
+{"id":"achievement:8847649809630208","en":"Obtain a Kibo with an Ignition job rating above 65","ru":"Получить кибо с оценкой профессии «розжиг» выше 65"}
+{"id":"achievement:8847654104597248","en":"Logging Master","ru":"Мастер лесозаготовки"}
+{"id":"achievement:8847654104597504","en":"Obtain a Kibo with a Logging job rating above 40","ru":"Получить кибо с оценкой профессии «лесозаготовка» выше 40"}
+{"id":"achievement:8847658399564544","en":"Logging? Piece of Cake","ru":"Лесозаготовка? Плёвое дело"}
+{"id":"achievement:8847658399564800","en":"Obtain a Kibo with a Logging job rating above 65","ru":"Получить кибо с оценкой профессии «лесозаготовка» выше 65"}
+{"id":"achievement:8847662694531840","en":"Element Master","ru":"Мастер элементов"}
+{"id":"achievement:8847662694532096","en":"Obtain a Kibo with an Element job rating above 40","ru":"Получить кибо с оценкой профессии «элементы» выше 40"}
+{"id":"achievement:8847666989499136","en":"Element? Child's Play","ru":"Элементы? Детская забава"}
+{"id":"achievement:8847666989499392","en":"Obtain a Kibo with an Element job rating above 65","ru":"Получить кибо с оценкой профессии «элементы» выше 65"}
+{"id":"achievement:8847671284466432","en":"Farm Work Master","ru":"Мастер работы на ферме"}
+{"id":"achievement:8847671284466688","en":"Obtain a Kibo with a Farm Work job rating above 40","ru":"Получить кибо с оценкой профессии «работа на ферме» выше 40"}
+{"id":"achievement:8847675579433728","en":"Farm Work? Right Up My Alley","ru":"Работа на ферме? Мне это по плечу"}
+{"id":"achievement:8847675579433984","en":"Obtain a Kibo with a Farm Work job rating above 65","ru":"Получить кибо с оценкой профессии «работа на ферме» выше 65"}
+{"id":"achievement:8847679874401024","en":"Watering Master","ru":"Мастер полива"}
+{"id":"achievement:8847679874401280","en":"Obtain a Kibo with a Watering job rating above 40","ru":"Получить кибо с оценкой профессии «полив» выше 40"}
+{"id":"achievement:8847684169368320","en":"Watering? I'll Do It on the Way","ru":"Полив? Заодно и полью"}
+{"id":"achievement:8847684169368576","en":"Obtain a Kibo with a Watering job rating above 65","ru":"Получить кибо с оценкой профессии «полив» выше 65"}
+{"id":"achievement:8847688464335616","en":"Mining Master","ru":"Мастер добычи"}
+{"id":"achievement:8847688464335872","en":"Obtain a Kibo with a Mining job rating above 40","ru":"Получить кибо с оценкой профессии «добыча» выше 40"}
+{"id":"achievement:8847692759302912","en":"Mining? A Walk in the Park","ru":"Добыча? Раз плюнуть"}
+{"id":"achievement:8847692759303168","en":"Obtain a Kibo with a Mining job rating above 65","ru":"Получить кибо с оценкой профессии «добыча» выше 65"}
+{"id":"achievement:8847697054270208","en":"Care Master","ru":"Мастер ухода"}
+{"id":"achievement:8847697054270464","en":"Obtain a Kibo with a Care job rating above 40","ru":"Получить кибо с оценкой профессии «уход» выше 40"}
+{"id":"achievement:8847701349237504","en":"Care? I'm Experienced","ru":"Уход? Я к этому привычен"}
+{"id":"achievement:8847701349237760","en":"Obtain a Kibo with a Care job rating above 65","ru":"Получить кибо с оценкой профессии «уход» выше 65"}
+{"id":"achievement:8847705644204800","en":"Forging Master","ru":"Мастер ковки"}
+{"id":"achievement:8847705644205056","en":"Obtain a Kibo with a Forging job rating above 40","ru":"Получить кибо с оценкой профессии «ковка» выше 40"}
+{"id":"achievement:8847709939172096","en":"Forging? Easy Peasy","ru":"Ковка? Проще простого"}
+{"id":"achievement:8847709939172352","en":"Obtain a Kibo with a Forging job rating above 65","ru":"Получить кибо с оценкой профессии «ковка» выше 65"}
+{"id":"achievement:8847714234139392","en":"Crafting Master","ru":"Мастер ремесла"}
+{"id":"achievement:8847714234139648","en":"Obtain a Kibo with a Crafting job rating above 40","ru":"Получить кибо с оценкой профессии «ремесло» выше 40"}
+{"id":"achievement:8847718529106688","en":"Crafting? No Sweat","ru":"Ремесло? Без проблем"}
+{"id":"achievement:8847718529106944","en":"Obtain a Kibo with a Crafting job rating above 65","ru":"Получить кибо с оценкой профессии «ремесло» выше 65"}
+{"id":"achievement:8847722824073984","en":"Slavedriver Foreman","ru":"Жестокий бригадир"}
+{"id":"achievement:8847722824074240","en":"Make a Kibo work continuously for 24 hours while hungry","ru":"Заставить кибо работать без перерыва 24 час(ов), пока он голоден"}

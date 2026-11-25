@@ -1,0 +1,47 @@
+{"id":"system_sorttype:120259084544","en":"By Star Rank","ru":"По звёздному рангу"}
+{"id":"system_sorttype:124554051840","en":"By Level","ru":"По уровню"}
+{"id":"system_sorttype:128849019136","en":"By Rarity","ru":"По редкости"}
+{"id":"system_sorttype:12884902144","en":"ATK","ru":"Атака"}
+{"id":"system_sorttype:133143986432","en":"By Star Rank","ru":"По звёздному рангу"}
+{"id":"system_sorttype:137438953728","en":"By Satiety","ru":"По сытости"}
+{"id":"system_sorttype:141733921024","en":"Current Movement Speed","ru":"Текущая скорость передвижения"}
+{"id":"system_sorttype:146028888320","en":"Max Movement Speed","ru":"Макс. скорость передвижения"}
+{"id":"system_sorttype:158913790208","en":"Equipped","ru":"Экипировано"}
+{"id":"system_sorttype:163208757504","en":"Character display number (position in preset)","ru":"Номер персонажа в слоте (позиция в наборе)"}
+{"id":"system_sorttype:167503724800","en":"Ascension Rank","ru":"Ранг возвышения"}
+{"id":"system_sorttype:171798692096","en":"Unlock Status","ru":"Статус разблокировки"}
+{"id":"system_sorttype:17179869440","en":"Phys DEF","ru":"Физ. защита"}
+{"id":"system_sorttype:176093659392","en":"Kibo Overall Rating","ru":"Общая оценка кибо"}
+{"id":"system_sorttype:180388626688","en":"Currently Selected Slot","ru":"Выбранный слот"}
+{"id":"system_sorttype:184683593984","en":"Kibo Content Status","ru":"Статус контента кибо"}
+{"id":"system_sorttype:193273528576","en":"Enhancement Level","ru":"Уровень усиления"}
+{"id":"system_sorttype:197568495872","en":"Equipped by You","ru":"Экипировано вами"}
+{"id":"system_sorttype:201863463168","en":"Ownership Status","ru":"Статус владения"}
+{"id":"system_sorttype:206158430464","en":"Elemental Attribute","ru":"Элементальный атрибут"}
+{"id":"system_sorttype:210453397760","en":"Default","ru":"По умолчанию"}
+{"id":"system_sorttype:214748365056","en":"Role","ru":"Роль"}
+{"id":"system_sorttype:21474836736","en":"Magic DEF","ru":"Маг. защита"}
+{"id":"system_sorttype:219043332352","en":"Equipped","ru":"Экипировано"}
+{"id":"system_sorttype:223338299648","en":"Default","ru":"По умолчанию"}
+{"id":"system_sorttype:227633266944","en":"Increase","ru":"Прирост"}
+{"id":"system_sorttype:231928234240","en":"Default","ru":"По умолчанию"}
+{"id":"system_sorttype:25769804032","en":"HP","ru":"HP"}
+{"id":"system_sorttype:30064771328","en":"ATK %","ru":"Атака %"}
+{"id":"system_sorttype:34359738624","en":"Phys DEF %","ru":"Физ. защита %"}
+{"id":"system_sorttype:38654705920","en":"Magic DEF %","ru":"Маг. защита %"}
+{"id":"system_sorttype:42949673216","en":"HP %","ru":"HP %"}
+{"id":"system_sorttype:4294967552","en":"By Level","ru":"По уровню"}
+{"id":"system_sorttype:47244640512","en":"Crit Rate","ru":"Крит. шанс"}
+{"id":"system_sorttype:51539607808","en":"Crit DMG","ru":"Крит. урон"}
+{"id":"system_sorttype:55834575104","en":"Healing Bonus","ru":"Бонус к лечению"}
+{"id":"system_sorttype:60129542400","en":"Non-elemental DMG Bonus","ru":"Бонус к урону без элемента"}
+{"id":"system_sorttype:64424509696","en":"Fire DMG Bonus","ru":"Бонус к огненному урону"}
+{"id":"system_sorttype:68719476992","en":"Wind DMG Bonus","ru":"Бонус к ветряному урону"}
+{"id":"system_sorttype:73014444288","en":"Earth DMG Bonus","ru":"Бонус к земному урону"}
+{"id":"system_sorttype:77309411584","en":"Nature DMG Bonus","ru":"Бонус к урону природы"}
+{"id":"system_sorttype:81604378880","en":"Ice DMG Bonus","ru":"Бонус к ледяному урону"}
+{"id":"system_sorttype:85899346176","en":"Water DMG Bonus","ru":"Бонус к водному урону"}
+{"id":"system_sorttype:8589934848","en":"By Rarity","ru":"По редкости"}
+{"id":"system_sorttype:90194313472","en":"Thunder DMG Bonus","ru":"Бонус к громовому урону"}
+{"id":"system_sorttype:94489280768","en":"Light DMG Bonus","ru":"Бонус к светлому урону"}
+{"id":"system_sorttype:98784248064","en":"Dark DMG Bonus","ru":"Бонус к тёмному урону"}

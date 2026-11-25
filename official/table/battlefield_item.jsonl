@@ -1,0 +1,189 @@
+{"id":"battlefield_item:1288524548539392","locale":"jp","text":"BWスーニヤの侵蝕"}
+{"id":"battlefield_item:2019068420817920","locale":"jp","text":"火の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2019497917547520","locale":"jp","text":"雷の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2019927414277120","locale":"jp","text":"氷の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2020356911006720","locale":"jp","text":"闇の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2020786407736320","locale":"jp","text":"木の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2021215904465920","locale":"jp","text":"地の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2021645401195520","locale":"jp","text":"風の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2022074897925120","locale":"jp","text":"水の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2022504394654720","locale":"jp","text":"光の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2022508689622016","locale":"jp","text":"光の刻印 最大スタック時ダメージ"}
+{"id":"battlefield_item:2061760395740160","locale":"jp","text":"メーツァのエネルギー回復球"}
+{"id":"battlefield_item:2061764690707456","locale":"jp","text":"メーツァのHP回復球"}
+{"id":"battlefield_item:2061768985674752","locale":"jp","text":"シンフォーリア_奥義"}
+{"id":"battlefield_item:2061820525282304","locale":"jp","text":"源千代_鬼火爆発"}
+{"id":"battlefield_item:2061824820249600","locale":"jp","text":"シンフォーリア_アウラスキル"}
+{"id":"battlefield_item:2061833410184192","locale":"jp","text":"源千代_奥義地面炎"}
+{"id":"battlefield_item:2061837705151488","locale":"jp","text":"寒悠悠 通常攻撃4発"}
+{"id":"battlefield_item:2061842000118784","locale":"jp","text":"寒悠悠 通常攻撃5発"}
+{"id":"battlefield_item:2061846295086080","locale":"jp","text":"ルルカ フクロウ調律1"}
+{"id":"battlefield_item:2061850590053376","locale":"jp","text":"ミィティ 通常攻撃3"}
+{"id":"battlefield_item:2061854885020672","locale":"jp","text":"ミィティ 通常攻撃4"}
+{"id":"battlefield_item:2061859179987968","locale":"jp","text":"ミィティ 通常攻撃5"}
+{"id":"battlefield_item:2061863474955264","locale":"jp","text":"ミィティ 通常攻撃4バックアップ"}
+{"id":"battlefield_item:2061867769922560","locale":"jp","text":"ルルカ 星響スキル - うさぎ"}
+{"id":"battlefield_item:2061872064889856","locale":"jp","text":"小凶獣スキル"}
+{"id":"battlefield_item:2061876359857152","locale":"jp","text":"ルルカ フクロウ調律0"}
+{"id":"battlefield_item:2061880654824448","locale":"jp","text":"テララ-奥義地面燃焼"}
+{"id":"battlefield_item:2061884949791744","locale":"jp","text":"ノノフィールド"}
+{"id":"battlefield_item:2061889244759040","locale":"jp","text":"バブル"}
+{"id":"battlefield_item:2061893539726336","locale":"jp","text":"波浪"}
+{"id":"battlefield_item:2061897834693632","locale":"jp","text":"モーレン弾1"}
+{"id":"battlefield_item:2061902129660928","locale":"jp","text":"モーレン弾2"}
+{"id":"battlefield_item:2061906424628224","locale":"jp","text":"モーレン弾3"}
+{"id":"battlefield_item:2061927899464704","locale":"jp","text":"シンフォーリア_奥義による集敵"}
+{"id":"battlefield_item:2061932194432000","locale":"jp","text":"戦闘チュートリアル開始_基本アクション"}
+{"id":"battlefield_item:2061936489399296","locale":"jp","text":"戦闘チュートリアル開始_操作切り替え"}
+{"id":"battlefield_item:2061940784366592","locale":"jp","text":"戦闘チュートリアル開始_ブレイク紹介"}
+{"id":"battlefield_item:2061945079333888","locale":"jp","text":"戦闘チュートリアル開始_刻印EXメカニズム"}
+{"id":"battlefield_item:2062035273647104","locale":"jp","text":"敵集め_シャル"}
+{"id":"battlefield_item:2062039568614400","locale":"jp","text":"戦闘勝利エフェクトセット"}
+{"id":"battlefield_item:2062043863581696","locale":"jp","text":"火元素浮遊砲"}
+{"id":"battlefield_item:2062048158548992","locale":"jp","text":"モルフォーレ刃光"}
+{"id":"battlefield_item:2062052453516288","locale":"jp","text":"刺尾の巨鷹刃光"}
+{"id":"battlefield_item:2062056748483584","locale":"jp","text":"刺尾の巨鷹の霧眼石"}
+{"id":"battlefield_item:2062061043450880","locale":"jp","text":"モルフォーレ大竜巻・静"}
+{"id":"battlefield_item:2062065338418176","locale":"jp","text":"モルフォーレ大竜巻・動"}
+{"id":"battlefield_item:2062069633385472","locale":"jp","text":"モルフォーレ小竜巻第1段階"}
+{"id":"battlefield_item:2062073928352768","locale":"jp","text":"モルフォーレ小竜巻第2段階"}
+{"id":"battlefield_item:2062078223320064","locale":"jp","text":"モルフォーレ小竜巻第3段階"}
+{"id":"battlefield_item:2062082518287360","locale":"jp","text":"叩きつけダメージ"}
+{"id":"battlefield_item:2062091108221952","locale":"jp","text":"ファランタ地面効果"}
+{"id":"battlefield_item:2062099698156544","locale":"jp","text":"キメラ奥義-引き寄せ"}
+{"id":"battlefield_item:2062103993123840","locale":"jp","text":"キメラフェーズ移行-吹き飛ばし"}
+{"id":"battlefield_item:2062108288091136","locale":"jp","text":"リリィシールド"}
+{"id":"battlefield_item:2062112583058432","locale":"jp","text":"寒悠悠フィールドスキル - 集敵"}
+{"id":"battlefield_item:2062116878025728","locale":"jp","text":"寒悠悠チャージ攻撃1 - 爆弾爆発"}
+{"id":"battlefield_item:2062121172993024","locale":"jp","text":"寒悠悠チャージ攻撃2 - 爆弾爆発"}
+{"id":"battlefield_item:2062125467960320","locale":"jp","text":"寒悠悠チャージ攻撃1 - 花火"}
+{"id":"battlefield_item:2062129762927616","locale":"jp","text":"源千代鬼火刃光1"}
+{"id":"battlefield_item:2062134057894912","locale":"jp","text":"源千代鬼火刃光2"}
+{"id":"battlefield_item:2062138352862208","locale":"jp","text":"源千代鬼火刃光3"}
+{"id":"battlefield_item:2062142647829504","locale":"jp","text":"源千代鬼火刃光4"}
+{"id":"battlefield_item:2062146942796800","locale":"jp","text":"ルルカの召喚物の狼 - 尻尾攻撃"}
+{"id":"battlefield_item:2062151237764096","locale":"jp","text":"寒悠悠チャージ攻撃2 - 花火"}
+{"id":"battlefield_item:2062155532731392","locale":"jp","text":"寒悠悠の奥義 - 花火"}
+{"id":"battlefield_item:2062159827698688","locale":"jp","text":"ルルカ_チャージ攻撃のチャージ1段階"}
+{"id":"battlefield_item:2062164122665984","locale":"jp","text":"ルルカ_星響スキル攻撃"}
+{"id":"battlefield_item:2062168417633280","locale":"jp","text":"ルルカ_チャージ攻撃のチャージ2段階"}
+{"id":"battlefield_item:2062177007567872","locale":"jp","text":"ルルカ_星響スキル攻撃"}
+{"id":"battlefield_item:2062181302535168","locale":"jp","text":"ルルカ_星響スキル攻撃"}
+{"id":"battlefield_item:2062185597502464","locale":"jp","text":"ルルカ_通常攻撃3の弾"}
+{"id":"battlefield_item:2062189892469760","locale":"jp","text":"蘭香子 棺桶"}
+{"id":"battlefield_item:2062198482404352","locale":"jp","text":"アニス_星響スキル爆発"}
+{"id":"battlefield_item:2062207072338944","locale":"jp","text":"蘭香子 棺桶"}
+{"id":"battlefield_item:2062211367306240","locale":"jp","text":"蘭香子 陣符"}
+{"id":"battlefield_item:2062215662273536","locale":"jp","text":"蘭香子 棺桶"}
+{"id":"battlefield_item:2062219957240832","locale":"jp","text":"蘭香子 棺桶"}
+{"id":"battlefield_item:2062224252208128","locale":"jp","text":"蘭香子 棺桶"}
+{"id":"battlefield_item:2062228547175424","locale":"jp","text":"蘭香子 棺桶"}
+{"id":"battlefield_item:2062232842142720","locale":"jp","text":"蘭香子 棺桶"}
+{"id":"battlefield_item:2062237137110016","locale":"jp","text":"丹砂_協同攻撃"}
+{"id":"battlefield_item:2062241432077312","locale":"jp","text":"風のシールド"}
+{"id":"battlefield_item:2062245727044608","locale":"jp","text":"アマルテイア_水球"}
+{"id":"battlefield_item:2062250022011904","locale":"jp","text":"ロックフレイ-シールド"}
+{"id":"battlefield_item:2062254316979200","locale":"jp","text":"ラヴァガード-シールド"}
+{"id":"battlefield_item:2062258611946496","locale":"jp","text":"タレット"}
+{"id":"battlefield_item:2062262906913792","locale":"jp","text":"タレット2"}
+{"id":"battlefield_item:2062271496848384","locale":"jp","text":"暗焔ブラックホール"}
+{"id":"battlefield_item:2062275791815680","locale":"jp","text":"暗焔ブラックホール"}
+{"id":"battlefield_item:2062327331423232","locale":"jp","text":"ラヴァガード-シールド"}
+{"id":"battlefield_item:2062331626390528","locale":"jp","text":"ラヴァガード-シールド"}
+{"id":"battlefield_item:2062335921357824","locale":"jp","text":"ロックフレイ-シールド"}
+{"id":"battlefield_item:2062340216325120","locale":"jp","text":"マップマーカー"}
+{"id":"battlefield_item:2062344511292416","locale":"jp","text":"バタフライ＆バット運動会-マルチプレイ"}
+{"id":"battlefield_item:2062348806259712","locale":"jp","text":"マップマーカー"}
+{"id":"battlefield_item:2062353101227008","locale":"jp","text":"マップマーカー"}
+{"id":"battlefield_item:2062357396194304","locale":"jp","text":"マップマーカー"}
+{"id":"battlefield_item:2062361691161600","locale":"jp","text":"暗焔ブラックホール"}
+{"id":"battlefield_item:2062365986128896","locale":"jp","text":"禍津丸-奥義2-ダイブマーク"}
+{"id":"battlefield_item:2062370281096192","locale":"jp","text":"巨岩"}
+{"id":"battlefield_item:2062374576063488","locale":"jp","text":"風のシールド"}
+{"id":"battlefield_item:2062378871030784","locale":"jp","text":"巨岩"}
+{"id":"battlefield_item:2062391755932672","locale":"jp","text":"ブラックホール"}
+{"id":"battlefield_item:21475914516792320","locale":"jp","text":"波浪"}
+{"id":"battlefield_item:21475918811759616","locale":"jp","text":"バブル"}
+{"id":"battlefield_item:21735583944541184","locale":"jp","text":"スキルプール-石柱"}
+{"id":"battlefield_item:21735626894214144","locale":"jp","text":"スキルプール-石壁"}
+{"id":"battlefield_item:21735669843887104","locale":"jp","text":"スキルプール-石籠"}
+{"id":"battlefield_item:21736013441270784","locale":"jp","text":"スキルプール-地震石柱1回"}
+{"id":"battlefield_item:21736056390943744","locale":"jp","text":"スキルプール-地震石柱3回"}
+{"id":"battlefield_item:21736099340616704","locale":"jp","text":"スキルプール-リング型岩柱突き"}
+{"id":"battlefield_item:21736142290289664","locale":"jp","text":"スキルプール-岩柱突き連鎖"}
+{"id":"battlefield_item:21736185239962624","locale":"jp","text":"スキルプール-地震石柱3回、3本"}
+{"id":"battlefield_item:21736357038654464","locale":"jp","text":"スキルプール-運動会-石柱衝突"}
+{"id":"battlefield_item:21736361333621760","locale":"jp","text":"スキルプール-運動会-石柱衝突"}
+{"id":"battlefield_item:21736365628589056","locale":"jp","text":"スキルプール-運動会-石柱衝突"}
+{"id":"battlefield_item:21736528837346304","locale":"jp","text":"スキルプール-石柱環状レーザー"}
+{"id":"battlefield_item:2576984672568320","locale":"jp","text":"謎解き_持続ダメージ"}
+{"id":"battlefield_item:859006344102912","locale":"jp","text":"破壊可能な木樽"}
+{"id":"battlefield_item:859010639070208","locale":"jp","text":"破壊可能な木箱1"}
+{"id":"battlefield_item:859014934037504","locale":"jp","text":"破壊可能な壺"}
+{"id":"battlefield_item:859019229004800","locale":"jp","text":"破壊可能な木箱2"}
+{"id":"battlefield_item:859036408873984","locale":"jp","text":"破壊可能採集物_塵灰石"}
+{"id":"battlefield_item:859040703841280","locale":"jp","text":"破壊可能採集物_堅英岩"}
+{"id":"battlefield_item:859044998808576","locale":"jp","text":"破壊可能採集物_沈泥石"}
+{"id":"battlefield_item:859049293775872","locale":"jp","text":"破壊可能採集物_鏡鉄鉱"}
+{"id":"battlefield_item:859053588743168","locale":"jp","text":"破壊可能採集物_風銅鉱"}
+{"id":"battlefield_item:859057883710464","locale":"jp","text":"破壊可能採集物_閃硝石"}
+{"id":"battlefield_item:859122308219904","locale":"jp","text":"破壊可能採集物_ユラユラノキ"}
+{"id":"battlefield_item:859126603187200","locale":"jp","text":"破壊可能採集物_碩葉木"}
+{"id":"battlefield_item:859130898154496","locale":"jp","text":"破壊可能採集物_香風木"}
+{"id":"battlefield_item:859135193121792","locale":"jp","text":"破壊可能採集物_チシキ"}
+{"id":"battlefield_item:859139488089088","locale":"jp","text":"破壊可能採集物_アウラルベリー"}
+{"id":"battlefield_item:859165257892864","locale":"jp","text":"破壊可能オブジェクト_低木6"}
+{"id":"battlefield_item:859169552860160","locale":"jp","text":"破壊可能オブジェクト_低木7"}
+{"id":"battlefield_item:859173847827456","locale":"jp","text":"破壊可能オブジェクト_植物1"}
+{"id":"battlefield_item:859178142794752","locale":"jp","text":"破壊可能オブジェクト_植物2"}
+{"id":"battlefield_item:859182437762048","locale":"jp","text":"破壊可能オブジェクト_植物3"}
+{"id":"battlefield_item:859208207565824","locale":"jp","text":"破壊可能オブジェクト_蒼月心"}
+{"id":"battlefield_item:859212502533120","locale":"jp","text":"破壊可能オブジェクト_青葙"}
+{"id":"battlefield_item:859216797500416","locale":"jp","text":"破壊可能オブジェクト_アステラン"}
+{"id":"battlefield_item:859221092467712","locale":"jp","text":"破壊可能オブジェクト_ネコヒゲ草"}
+{"id":"battlefield_item:859225387435008","locale":"jp","text":"戦闘用破壊可能木樽"}
+{"id":"battlefield_item:859229682402304","locale":"jp","text":"戦闘用破壊可能木箱1"}
+{"id":"battlefield_item:859233977369600","locale":"jp","text":"戦闘用破壊可能壺"}
+{"id":"battlefield_item:859238272336896","locale":"jp","text":"戦闘用破壊可能木箱2"}
+{"id":"battlefield_item:859242567304192","locale":"jp","text":"戦闘用破壊可能オブジェクト_低木6"}
+{"id":"battlefield_item:859246862271488","locale":"jp","text":"戦闘用破壊可能オブジェクト_低木7"}
+{"id":"battlefield_item:859251157238784","locale":"jp","text":"戦闘用破壊可能オブジェクト_植物1"}
+{"id":"battlefield_item:859255452206080","locale":"jp","text":"戦闘用破壊可能オブジェクト_植物2"}
+{"id":"battlefield_item:859259747173376","locale":"jp","text":"戦闘用破壊可能オブジェクト_植物3"}
+{"id":"battlefield_item:859264042140672","locale":"jp","text":"戦闘用破壊可能オブジェクト_蒼月心"}
+{"id":"battlefield_item:859268337107968","locale":"jp","text":"戦闘用破壊可能オブジェクト_青葙"}
+{"id":"battlefield_item:859272632075264","locale":"jp","text":"戦闘用破壊可能オブジェクト_アステラン"}
+{"id":"battlefield_item:859276927042560","locale":"jp","text":"戦闘用破壊可能オブジェクト_ネコヒゲ草"}
+{"id":"battlefield_item:859281222009856","locale":"jp","text":"破壊可能オブジェクト_巨大な岩石"}
+{"id":"battlefield_item:859285516977152","locale":"jp","text":"戦闘用破壊可能採集物_塵灰石"}
+{"id":"battlefield_item:859289811944448","locale":"jp","text":"戦闘用破壊可能採集物_堅英岩"}
+{"id":"battlefield_item:859294106911744","locale":"jp","text":"戦闘用破壊可能採集物_沈泥石"}
+{"id":"battlefield_item:859298401879040","locale":"jp","text":"戦闘用破壊可能採集物_鏡鉄鉱"}
+{"id":"battlefield_item:859302696846336","locale":"jp","text":"戦闘用破壊可能採集物_風銅鉱"}
+{"id":"battlefield_item:859306991813632","locale":"jp","text":"戦闘用破壊可能採集物_閃硝石"}
+{"id":"battlefield_item:859311286780928","locale":"jp","text":"戦闘用破壊可能採集物_ユラユラノキ"}
+{"id":"battlefield_item:859315581748224","locale":"jp","text":"戦闘用破壊可能採集物_碩葉木"}
+{"id":"battlefield_item:859319876715520","locale":"jp","text":"戦闘用破壊可能採集物_香風木"}
+{"id":"battlefield_item:859324171682816","locale":"jp","text":"戦闘用破壊可能採集物_チシキ"}
+{"id":"battlefield_item:859328466650112","locale":"jp","text":"戦闘用破壊可能採集物_アウラルベリー"}
+{"id":"battlefield_item:859332761617408","locale":"jp","text":"破壊可能オブジェクト_普通の岩（pv）"}
+{"id":"battlefield_item:859337056584704","locale":"jp","text":"破壊可能オブジェクト_巨大な岩石（小型）"}
+{"id":"battlefield_item:859341351552000","locale":"jp","text":"破壊可能オブジェクト_大型低木"}
+{"id":"battlefield_item:859345646519296","locale":"jp","text":"破壊可能オブジェクト_中型低木"}
+{"id":"battlefield_item:859349941486592","locale":"jp","text":"戦闘用破壊可能オブジェクト_大型低木"}
+{"id":"battlefield_item:859354236453888","locale":"jp","text":"戦闘用破壊可能オブジェクト_中型低木"}
+{"id":"battlefield_item:859358531421184","locale":"jp","text":"破壊可能オブジェクト_大型樹木"}
+{"id":"battlefield_item:859362826388480","locale":"jp","text":"空気壁120"}
+{"id":"battlefield_item:859367121355776","locale":"jp","text":"破壊可能オブジェクト_竹"}
+{"id":"battlefield_item:859371416323072","locale":"jp","text":"破壊可能オブジェクト_焔羽木"}
+{"id":"battlefield_item:859375711290368","locale":"jp","text":"破壊可能オブジェクト_焔羽木2"}
+{"id":"battlefield_item:859380006257664","locale":"jp","text":"破壊可能オブジェクト_焔羽木3"}
+{"id":"battlefield_item:859384301224960","locale":"jp","text":"破壊可能オブジェクト_ユースウッド"}
+{"id":"battlefield_item:859388596192256","locale":"jp","text":"破壊可能オブジェクト_香香菇"}
+{"id":"battlefield_item:859392891159552","locale":"jp","text":"破壊可能オブジェクト_ノワルタケ"}
+{"id":"battlefield_item:859397186126848","locale":"jp","text":"破壊可能シーンオブジェクト_若木莓"}
+{"id":"battlefield_item:859401481094144","locale":"jp","text":"破壊可能オブジェクト_ヘレネの眼"}
+{"id":"battlefield_item:859405776061440","locale":"jp","text":"破壊可能オブジェクト_ヘレネの眼2"}
+{"id":"battlefield_item:859410071028736","locale":"jp","text":"破壊可能オブジェクト_ホワイトボックスオブジェクト40×20"}
+{"id":"battlefield_item:859414365996032","locale":"jp","text":"破壊可能オブジェクト_ホワイトボックスオブジェクト2×4"}
+{"id":"battlefield_item:859418660963328","locale":"jp","text":"破壊可能オブジェクト_ホワイトボックスオブジェクト8×4"}

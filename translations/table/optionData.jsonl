@@ -1,0 +1,792 @@
+{"id":"optionData:103079216640","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:103079216896","en":"Kibo Skill","ru":"Навык кибо"}
+{"id":"optionData:107374183936","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:107374184192","en":"Bag","ru":"Сумка"}
+{"id":"optionData:111669151232","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:111669151488","en":"Team","ru":"Отряд"}
+{"id":"optionData:115964118528","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:115964118784","en":"Map","ru":"Карта"}
+{"id":"optionData:120259085824","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:120259086080","en":"Characters","ru":"Персонажи"}
+{"id":"optionData:124554053120","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:124554053376","en":"Menu / Exit","ru":"Меню / Выход"}
+{"id":"optionData:128849020416","en":"Farm Controls","ru":"Управление фермой"}
+{"id":"optionData:128849020672","en":"Go to Farm / Leave Farm","ru":"На ферму / С фермы"}
+{"id":"optionData:12884903424","en":"Basic Controls","ru":"Базовое управление"}
+{"id":"optionData:12884903680","en":"UI Layout","ru":"Интерфейс"}
+{"id":"optionData:12884904448","en":"Custom Layout","ru":"Пользовательский интерфейс"}
+{"id":"optionData:137438955008","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:137438955264","en":"Quests","ru":"Задания"}
+{"id":"optionData:141733922304","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:141733922560","en":"Kibo Hut","ru":"Хижина кибо"}
+{"id":"optionData:150323856896","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"optionData:150323857152","en":"Frame Rate","ru":"Частота кадров"}
+{"id":"optionData:150323858176","en":"30FPS","ru":"30FPS"}
+{"id":"optionData:150323858177","en":"60FPS","ru":"60FPS"}
+{"id":"optionData:150323858178","en":"90FPS","ru":"90FPS"}
+{"id":"optionData:150323858179","en":"120FPS","ru":"120FPS"}
+{"id":"optionData:150323858180","en":"No Limit","ru":"Без ограничения"}
+{"id":"optionData:150323858432","en":"30FPS","ru":"30FPS"}
+{"id":"optionData:150323858433","en":"45FPS","ru":"45FPS"}
+{"id":"optionData:150323858434","en":"60FPS","ru":"60FPS"}
+{"id":"optionData:154618824192","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"optionData:154618824448","en":"Graphics Quality","ru":"Качество графики"}
+{"id":"optionData:154618825472","en":"Custom","ru":"Пользовательский"}
+{"id":"optionData:154618825473","en":"Performance","ru":"Производительность"}
+{"id":"optionData:154618825474","en":"Balanced","ru":"Сбалансированный"}
+{"id":"optionData:154618825475","en":"Highest","ru":"Максимальное"}
+{"id":"optionData:154618825476","en":"Original","ru":"Исходное"}
+{"id":"optionData:154618825728","en":"Custom","ru":"Пользовательский"}
+{"id":"optionData:154618825729","en":"Performance","ru":"Производительность"}
+{"id":"optionData:154618825730","en":"Balanced","ru":"Сбалансированный"}
+{"id":"optionData:154618825731","en":"Original","ru":"Исходное"}
+{"id":"optionData:163208758784","en":"Graphics Settings","ru":"Настройки графики"}
+{"id":"optionData:163208759040","en":"Render Resolution","ru":"Разрешение рендеринга"}
+{"id":"optionData:167503726080","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:167503726336","en":"Shadow Quality","ru":"Качество теней"}
+{"id":"optionData:167503727360","en":"Low","ru":"Низкое"}
+{"id":"optionData:167503727361","en":"Medium","ru":"Среднее"}
+{"id":"optionData:167503727362","en":"High","ru":"Высокое"}
+{"id":"optionData:167503727363","en":"Highest","ru":"Максимальное"}
+{"id":"optionData:167503727616","en":"Low","ru":"Низкое"}
+{"id":"optionData:167503727617","en":"Medium","ru":"Среднее"}
+{"id":"optionData:167503727618","en":"High","ru":"Высокое"}
+{"id":"optionData:171798693376","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:171798693632","en":"Model Quality","ru":"Качество моделей"}
+{"id":"optionData:171798694656","en":"Low","ru":"Низкое"}
+{"id":"optionData:171798694657","en":"Medium","ru":"Среднее"}
+{"id":"optionData:171798694658","en":"High","ru":"Высокое"}
+{"id":"optionData:171798694659","en":"Highest","ru":"Максимальное"}
+{"id":"optionData:171798694912","en":"Low","ru":"Низкое"}
+{"id":"optionData:171798694913","en":"Medium","ru":"Среднее"}
+{"id":"optionData:171798694914","en":"High","ru":"Высокое"}
+{"id":"optionData:17179870720","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"optionData:17179870976","en":"Smooth Camera","ru":"Плавная камера"}
+{"id":"optionData:180388627968","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:180388628224","en":"Anti-Aliasing","ru":"Сглаживание"}
+{"id":"optionData:180388629249","en":"TAA","ru":"TAA"}
+{"id":"optionData:180388629504","en":"OFF","ru":"Выкл."}
+{"id":"optionData:180388629505","en":"SMAA","ru":"SMAA"}
+{"id":"optionData:180388629506","en":"TAA","ru":"TAA"}
+{"id":"optionData:184683595264","en":"Volume Settings","ru":"Настройки звука"}
+{"id":"optionData:184683595520","en":"BGM","ru":"Музыка"}
+{"id":"optionData:188978562560","en":"Volume Settings","ru":"Настройки звука"}
+{"id":"optionData:188978562816","en":"Sound Effects","ru":"Звуковые эффекты"}
+{"id":"optionData:193273529856","en":"Volume Settings","ru":"Настройки звука"}
+{"id":"optionData:193273530112","en":"Voice","ru":"Голоса"}
+{"id":"optionData:197568497152","en":"Volume Settings","ru":"Настройки звука"}
+{"id":"optionData:197568497408","en":"Mute All","ru":"Отключить всё"}
+{"id":"optionData:201863464448","en":"Notification Settings","ru":"Настройки уведомлений"}
+{"id":"optionData:201863464704","en":"Primordial Tide Fully Restored","ru":"При полном восстановлении Первозданного прилива"}
+{"id":"optionData:201863465984","en":"OFF","ru":"Выкл."}
+{"id":"optionData:201863465985","en":"ON","ru":"Вкл."}
+{"id":"optionData:206158431744","en":"Language Settings","ru":"Настройки языка"}
+{"id":"optionData:206158432000","en":"Voice Language","ru":"Язык озвучивания"}
+{"id":"optionData:206158433025","en":"Japanese","ru":"Японский"}
+{"id":"optionData:206158433281","en":"Japanese","ru":"Японский"}
+{"id":"optionData:210453399040","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:210453399296","en":"Redeem Code","ru":"Код активации"}
+{"id":"optionData:210453400064","en":"Click to redeem","ru":"Нажмите, чтобы активировать"}
+{"id":"optionData:214748366336","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:214748366592","en":"Azur Promilia Terms of Service","ru":"Условия использования Azur Promilia"}
+{"id":"optionData:214748367360","en":"View","ru":"Просмотреть"}
+{"id":"optionData:21474838016","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:21474838272","en":"Move Forward","ru":"Движение вперёд"}
+{"id":"optionData:2151778616832","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:2151778617088","en":"Normal Attack","ru":"Обычная атака"}
+{"id":"optionData:2151778618112","en":"X","ru":"X"}
+{"id":"optionData:2151778618113","en":"Y","ru":"Y"}
+{"id":"optionData:2151778618114","en":"RT","ru":"RT"}
+{"id":"optionData:2151778618115","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2151778618116","en":"A","ru":"A"}
+{"id":"optionData:2151778618117","en":"LB","ru":"LB"}
+{"id":"optionData:2151778618118","en":"B","ru":"B"}
+{"id":"optionData:2151778618368","en":"X","ru":"X"}
+{"id":"optionData:2151778618369","en":"Y","ru":"Y"}
+{"id":"optionData:2151778618370","en":"RT","ru":"RT"}
+{"id":"optionData:2151778618371","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2151778618372","en":"A","ru":"A"}
+{"id":"optionData:2151778618373","en":"LB","ru":"LB"}
+{"id":"optionData:2151778618374","en":"B","ru":"B"}
+{"id":"optionData:2156073584128","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:2156073584384","en":"Starecho Skill","ru":"Навык звёздного эха"}
+{"id":"optionData:2156073585408","en":"X","ru":"X"}
+{"id":"optionData:2156073585409","en":"Y","ru":"Y"}
+{"id":"optionData:2156073585410","en":"RT","ru":"RT"}
+{"id":"optionData:2156073585411","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2156073585412","en":"A","ru":"A"}
+{"id":"optionData:2156073585413","en":"LB","ru":"LB"}
+{"id":"optionData:2156073585414","en":"B","ru":"B"}
+{"id":"optionData:2156073585664","en":"X","ru":"X"}
+{"id":"optionData:2156073585665","en":"Y","ru":"Y"}
+{"id":"optionData:2156073585666","en":"RT","ru":"RT"}
+{"id":"optionData:2156073585667","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2156073585668","en":"A","ru":"A"}
+{"id":"optionData:2156073585669","en":"LB","ru":"LB"}
+{"id":"optionData:2156073585670","en":"B","ru":"B"}
+{"id":"optionData:2160368551424","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:2160368551680","en":"Starpolar Skill","ru":"Звёзднополярный навык"}
+{"id":"optionData:2160368552704","en":"X","ru":"X"}
+{"id":"optionData:2160368552705","en":"Y","ru":"Y"}
+{"id":"optionData:2160368552706","en":"RT","ru":"RT"}
+{"id":"optionData:2160368552707","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2160368552708","en":"A","ru":"A"}
+{"id":"optionData:2160368552709","en":"LB","ru":"LB"}
+{"id":"optionData:2160368552710","en":"B","ru":"B"}
+{"id":"optionData:2160368552960","en":"X","ru":"X"}
+{"id":"optionData:2160368552961","en":"Y","ru":"Y"}
+{"id":"optionData:2160368552962","en":"RT","ru":"RT"}
+{"id":"optionData:2160368552963","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2160368552964","en":"A","ru":"A"}
+{"id":"optionData:2160368552965","en":"LB","ru":"LB"}
+{"id":"optionData:2160368552966","en":"B","ru":"B"}
+{"id":"optionData:2164663518720","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:2164663518976","en":"Kibo Skill","ru":"Навык кибо"}
+{"id":"optionData:2164663520000","en":"X","ru":"X"}
+{"id":"optionData:2164663520001","en":"Y","ru":"Y"}
+{"id":"optionData:2164663520002","en":"RT","ru":"RT"}
+{"id":"optionData:2164663520003","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2164663520004","en":"A","ru":"A"}
+{"id":"optionData:2164663520005","en":"LB","ru":"LB"}
+{"id":"optionData:2164663520006","en":"B","ru":"B"}
+{"id":"optionData:2164663520256","en":"X","ru":"X"}
+{"id":"optionData:2164663520257","en":"Y","ru":"Y"}
+{"id":"optionData:2164663520258","en":"RT","ru":"RT"}
+{"id":"optionData:2164663520259","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2164663520260","en":"A","ru":"A"}
+{"id":"optionData:2164663520261","en":"LB","ru":"LB"}
+{"id":"optionData:2164663520262","en":"B","ru":"B"}
+{"id":"optionData:2168958486016","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:2168958486272","en":"Jump","ru":"Прыжок"}
+{"id":"optionData:2168958487296","en":"X","ru":"X"}
+{"id":"optionData:2168958487297","en":"Y","ru":"Y"}
+{"id":"optionData:2168958487298","en":"RT","ru":"RT"}
+{"id":"optionData:2168958487299","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2168958487300","en":"A","ru":"A"}
+{"id":"optionData:2168958487301","en":"LB","ru":"LB"}
+{"id":"optionData:2168958487302","en":"B","ru":"B"}
+{"id":"optionData:2168958487552","en":"X","ru":"X"}
+{"id":"optionData:2168958487553","en":"Y","ru":"Y"}
+{"id":"optionData:2168958487554","en":"RT","ru":"RT"}
+{"id":"optionData:2168958487555","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2168958487556","en":"A","ru":"A"}
+{"id":"optionData:2168958487557","en":"LB","ru":"LB"}
+{"id":"optionData:2168958487558","en":"B","ru":"B"}
+{"id":"optionData:2173253453312","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:2173253453568","en":"Parry","ru":"Парирование"}
+{"id":"optionData:2173253454592","en":"X","ru":"X"}
+{"id":"optionData:2173253454593","en":"Y","ru":"Y"}
+{"id":"optionData:2173253454594","en":"RT","ru":"RT"}
+{"id":"optionData:2173253454595","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2173253454596","en":"A","ru":"A"}
+{"id":"optionData:2173253454597","en":"LB","ru":"LB"}
+{"id":"optionData:2173253454598","en":"B","ru":"B"}
+{"id":"optionData:2173253454848","en":"X","ru":"X"}
+{"id":"optionData:2173253454849","en":"Y","ru":"Y"}
+{"id":"optionData:2173253454850","en":"RT","ru":"RT"}
+{"id":"optionData:2173253454851","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2173253454852","en":"A","ru":"A"}
+{"id":"optionData:2173253454853","en":"LB","ru":"LB"}
+{"id":"optionData:2173253454854","en":"B","ru":"B"}
+{"id":"optionData:2177548420608","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:2177548420864","en":"Dash / Evade","ru":"Рывок / Уклонение"}
+{"id":"optionData:2177548421888","en":"X","ru":"X"}
+{"id":"optionData:2177548421889","en":"Y","ru":"Y"}
+{"id":"optionData:2177548421890","en":"RT","ru":"RT"}
+{"id":"optionData:2177548421891","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2177548421892","en":"A","ru":"A"}
+{"id":"optionData:2177548421893","en":"LB","ru":"LB"}
+{"id":"optionData:2177548421894","en":"B","ru":"B"}
+{"id":"optionData:2177548422144","en":"X","ru":"X"}
+{"id":"optionData:2177548422145","en":"Y","ru":"Y"}
+{"id":"optionData:2177548422146","en":"RT","ru":"RT"}
+{"id":"optionData:2177548422147","en":"D-Pad/Left","ru":"D-Pad/Left"}
+{"id":"optionData:2177548422148","en":"A","ru":"A"}
+{"id":"optionData:2177548422149","en":"LB","ru":"LB"}
+{"id":"optionData:2177548422150","en":"B","ru":"B"}
+{"id":"optionData:219043333632","en":"Other","ru":"Прочее"}
+{"id":"optionData:219043333888","en":"Minimap Rotation","ru":"Вращение миникарты"}
+{"id":"optionData:219043334912","en":"Fixed Direction","ru":"Фиксированное направление"}
+{"id":"optionData:219043334913","en":"Camera Direction","ru":"По направлению камеры"}
+{"id":"optionData:219043335168","en":"Fixed Direction","ru":"Фиксированное направление"}
+{"id":"optionData:219043335169","en":"Camera Direction","ru":"По направлению камеры"}
+{"id":"optionData:223338300928","en":"Other","ru":"Прочее"}
+{"id":"optionData:223338301184","en":"Resource Integrity","ru":"Целостность ресурсов"}
+{"id":"optionData:223338301952","en":"Start Check","ru":"Начать проверку"}
+{"id":"optionData:227633268224","en":"Other","ru":"Прочее"}
+{"id":"optionData:227633268480","en":"Reset Position","ru":"Сброс позиции"}
+{"id":"optionData:227633269248","en":"Reset Position","ru":"Сброс позиции"}
+{"id":"optionData:231928235520","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:231928235776","en":"Log Out of Current Account","ru":"Выйти из текущего аккаунта"}
+{"id":"optionData:231928236544","en":"Log Out","ru":"Выйти"}
+{"id":"optionData:236223202816","en":"Language Settings","ru":"Настройки языка"}
+{"id":"optionData:236223203072","en":"Text Language","ru":"Язык текста"}
+{"id":"optionData:236223204096","en":"Chinese","ru":"Китайский"}
+{"id":"optionData:236223204097","en":"Japanese","ru":"Японский"}
+{"id":"optionData:236223204352","en":"Chinese","ru":"Китайский"}
+{"id":"optionData:236223204353","en":"Japanese","ru":"Японский"}
+{"id":"optionData:240518170112","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"optionData:240518170368","en":"Resolution","ru":"Разрешение"}
+{"id":"optionData:240518171392","en":"4096×2160","ru":"4096×2160"}
+{"id":"optionData:240518171393","en":"3840×2160","ru":"3840×2160"}
+{"id":"optionData:240518171394","en":"2560×1440","ru":"2560×1440"}
+{"id":"optionData:240518171395","en":"1920×1080","ru":"1920×1080"}
+{"id":"optionData:240518171396","en":"1600×900","ru":"1600×900"}
+{"id":"optionData:240518171397","en":"1366×768","ru":"1366×768"}
+{"id":"optionData:240518171398","en":"1280×720","ru":"1280×720"}
+{"id":"optionData:240518171399","en":"800×600","ru":"800×600"}
+{"id":"optionData:240518171648","en":"4096×2160","ru":"4096×2160"}
+{"id":"optionData:240518171649","en":"3840×2160","ru":"3840×2160"}
+{"id":"optionData:240518171650","en":"2560×1440","ru":"2560×1440"}
+{"id":"optionData:240518171651","en":"1920×1080","ru":"1920×1080"}
+{"id":"optionData:240518171652","en":"1600×900","ru":"1600×900"}
+{"id":"optionData:240518171653","en":"1366×768","ru":"1366×768"}
+{"id":"optionData:240518171654","en":"1280×720","ru":"1280×720"}
+{"id":"optionData:240518171655","en":"800×600","ru":"800×600"}
+{"id":"optionData:244813137408","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:244813137664","en":"Activity","ru":"Активность"}
+{"id":"optionData:249108104704","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:249108104960","en":"Mailbox","ru":"Почта"}
+{"id":"optionData:253403072000","en":"Other","ru":"Прочее"}
+{"id":"optionData:253403072256","en":"Enemy Markers","ru":"Метки врагов"}
+{"id":"optionData:257698039296","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:257698039552","en":"V-Sync","ru":"Вертикальная синхронизация"}
+{"id":"optionData:257698040576","en":"OFF","ru":"Выкл."}
+{"id":"optionData:257698040577","en":"ON","ru":"Вкл."}
+{"id":"optionData:257698040832","en":"OFF","ru":"Выкл."}
+{"id":"optionData:257698040833","en":"ON","ru":"Вкл."}
+{"id":"optionData:25769805312","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:25769805568","en":"Move Back","ru":"Движение назад"}
+{"id":"optionData:261993006592","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"optionData:261993006848","en":"Auto-Reset Combat Camera","ru":"Автосброс боевой камеры"}
+{"id":"optionData:261993007872","en":"OFF","ru":"Выкл."}
+{"id":"optionData:261993007873","en":"ON","ru":"Вкл."}
+{"id":"optionData:261993008128","en":"OFF","ru":"Выкл."}
+{"id":"optionData:261993008129","en":"ON","ru":"Вкл."}
+{"id":"optionData:266287973888","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"optionData:266287974144","en":"Camera Effects on Character Skill","ru":"Эффекты камеры при навыке персонажа"}
+{"id":"optionData:266287975168","en":"OFF","ru":"Выкл."}
+{"id":"optionData:266287975169","en":"ON","ru":"Вкл."}
+{"id":"optionData:266287975424","en":"OFF","ru":"Выкл."}
+{"id":"optionData:266287975425","en":"ON","ru":"Вкл."}
+{"id":"optionData:270582941184","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"optionData:270582941440","en":"Camera Effects on Kibo Skill","ru":"Эффекты камеры при навыке кибо"}
+{"id":"optionData:270582942464","en":"OFF","ru":"Выкл."}
+{"id":"optionData:270582942465","en":"ON","ru":"Вкл."}
+{"id":"optionData:270582942720","en":"OFF","ru":"Выкл."}
+{"id":"optionData:270582942721","en":"ON","ru":"Вкл."}
+{"id":"optionData:274877908480","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"optionData:274877908736","en":"Camera Effects on Kibo Summon","ru":"Эффекты камеры при призыве кибо"}
+{"id":"optionData:274877909760","en":"OFF","ru":"Выкл."}
+{"id":"optionData:274877909761","en":"ON","ru":"Вкл."}
+{"id":"optionData:274877910016","en":"OFF","ru":"Выкл."}
+{"id":"optionData:274877910017","en":"ON","ru":"Вкл."}
+{"id":"optionData:279172875776","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"optionData:279172876032","en":"Camera Effects on Break","ru":"Эффекты камеры при Прорыве"}
+{"id":"optionData:279172877056","en":"OFF","ru":"Выкл."}
+{"id":"optionData:279172877057","en":"ON","ru":"Вкл."}
+{"id":"optionData:279172877312","en":"OFF","ru":"Выкл."}
+{"id":"optionData:279172877313","en":"ON","ru":"Вкл."}
+{"id":"optionData:283467843072","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"optionData:283467843328","en":"Camera Effects on Character Switch","ru":"Эффекты камеры при смене персонажа"}
+{"id":"optionData:283467844352","en":"OFF","ru":"Выкл."}
+{"id":"optionData:283467844353","en":"ON","ru":"Вкл."}
+{"id":"optionData:283467844608","en":"OFF","ru":"Выкл."}
+{"id":"optionData:283467844609","en":"ON","ru":"Вкл."}
+{"id":"optionData:287762810368","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"optionData:287762810624","en":"Camera Effects on Kibo Co-op Attack","ru":"Эффекты камеры при совместной атаке кибо"}
+{"id":"optionData:287762811648","en":"OFF","ru":"Выкл."}
+{"id":"optionData:287762811649","en":"ON","ru":"Вкл."}
+{"id":"optionData:287762811904","en":"OFF","ru":"Выкл."}
+{"id":"optionData:287762811905","en":"ON","ru":"Вкл."}
+{"id":"optionData:292057777664","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:292057777920","en":"Insight","ru":"Познания"}
+{"id":"optionData:296352744960","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:296352745216","en":"Azur Promilia Privacy Policy","ru":"Политика конфиденциальности Azur Promilia"}
+{"id":"optionData:296352745984","en":"View","ru":"Просмотреть"}
+{"id":"optionData:300647712256","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:300647712512","en":"Azur Promilia Children's Privacy Policy","ru":"Политика конфиденциальности Azur Promilia для детей"}
+{"id":"optionData:300647713280","en":"View","ru":"Просмотреть"}
+{"id":"optionData:30064772608","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:30064772864","en":"Move Left","ru":"Движение влево"}
+{"id":"optionData:304942679552","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:304942679808","en":"Azur Promilia Personal Data Collection List","ru":"Перечень собираемых персональных данных Azur Promilia"}
+{"id":"optionData:304942680576","en":"View","ru":"Просмотреть"}
+{"id":"optionData:309237646848","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:309237647104","en":"Azur Promilia Third-Party Personal Data Sharing List","ru":"Перечень передачи персональных данных третьим лицам Azur Promilia"}
+{"id":"optionData:309237647872","en":"View","ru":"Просмотреть"}
+{"id":"optionData:313532614144","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:313532614400","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:313532615168","en":"View","ru":"Просмотреть"}
+{"id":"optionData:317827581440","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:317827581696","en":"Starlink with Kibo","ru":"Звёздная связь с кибо"}
+{"id":"optionData:322122548736","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:322122548992","en":"Star Journey Record","ru":"Записи звёздного пути"}
+{"id":"optionData:326417516032","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:326417516288","en":"Summon Mount","ru":"Призвать скакуна"}
+{"id":"optionData:330712483328","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:330712483584","en":"Summon/Recall Kibo","ru":"Призвать/отозвать кибо"}
+{"id":"optionData:335007450624","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:335007450880","en":"Focus","ru":"Сосредоточение"}
+{"id":"optionData:343597385216","en":"Other","ru":"Прочее"}
+{"id":"optionData:343597385472","en":"Confirm Kibo Swap on Team Change","ru":"Подтверждать смену кибо при изменении отряда"}
+{"id":"optionData:34359739904","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:34359740160","en":"Move Right","ru":"Движение вправо"}
+{"id":"optionData:347892352512","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:347892352768","en":"Delete Account","ru":"Удаление аккаунта"}
+{"id":"optionData:347892353536","en":"Delete","ru":"Удалить"}
+{"id":"optionData:352187319808","en":"Color Settings","ru":"Настройки цвета"}
+{"id":"optionData:352187320064","en":"Preview","ru":"Предпросмотр"}
+{"id":"optionData:356482287104","en":"Color Settings","ru":"Настройки цвета"}
+{"id":"optionData:356482287360","en":"Brightness","ru":"Яркость"}
+{"id":"optionData:360777254400","en":"Color Settings","ru":"Настройки цвета"}
+{"id":"optionData:360777254656","en":"Saturation","ru":"Насыщенность"}
+{"id":"optionData:365072221696","en":"Color Settings","ru":"Настройки цвета"}
+{"id":"optionData:365072221952","en":"Contrast","ru":"Контрастность"}
+{"id":"optionData:369367188992","en":"Graphics Settings","ru":"Настройки графики"}
+{"id":"optionData:369367189248","en":"SSAA","ru":"SSAA"}
+{"id":"optionData:369367190272","en":"OFF","ru":"Выкл."}
+{"id":"optionData:369367190273","en":"DLSS","ru":"DLSS"}
+{"id":"optionData:369367190274","en":"FSR","ru":"FSR"}
+{"id":"optionData:369367190275","en":"XeSS","ru":"XeSS"}
+{"id":"optionData:369367190528","en":"OFF","ru":"Выкл."}
+{"id":"optionData:369367190529","en":"DLSS","ru":"DLSS"}
+{"id":"optionData:369367190530","en":"FSR","ru":"FSR"}
+{"id":"optionData:369367190531","en":"XeSS","ru":"XeSS"}
+{"id":"optionData:373662156288","en":"Graphics Settings","ru":"Настройки графики"}
+{"id":"optionData:373662156544","en":"SSAA Quality","ru":"Качество SSAA"}
+{"id":"optionData:373662157568","en":"Performance","ru":"Производительность"}
+{"id":"optionData:373662157569","en":"Balanced","ru":"Сбалансированный"}
+{"id":"optionData:373662157570","en":"Quality","ru":"Качество"}
+{"id":"optionData:373662157571","en":"DLAA","ru":"DLAA"}
+{"id":"optionData:373662157824","en":"Performance","ru":"Производительность"}
+{"id":"optionData:373662157825","en":"Balanced","ru":"Сбалансированный"}
+{"id":"optionData:373662157826","en":"Quality","ru":"Качество"}
+{"id":"optionData:373662157827","en":"DLAA","ru":"DLAA"}
+{"id":"optionData:377957123584","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"optionData:377957123840","en":"Display Mode","ru":"Режим отображения"}
+{"id":"optionData:377957124864","en":"Windowed","ru":"В окне"}
+{"id":"optionData:377957124865","en":"Fullscreen","ru":"Полноэкранный"}
+{"id":"optionData:377957125120","en":"Windowed","ru":"В окне"}
+{"id":"optionData:377957125121","en":"Fullscreen","ru":"Полноэкранный"}
+{"id":"optionData:382252090880","en":"Other","ru":"Прочее"}
+{"id":"optionData:382252091136","en":"In-Scene NPC Density","ru":"Плотность NPC в сцене"}
+{"id":"optionData:382252092160","en":"Low Density","ru":"Низкая плотность"}
+{"id":"optionData:382252092161","en":"Medium Density","ru":"Средняя плотность"}
+{"id":"optionData:382252092162","en":"High Density","ru":"Высокая плотность"}
+{"id":"optionData:382252092416","en":"Low Density","ru":"Низкая плотность"}
+{"id":"optionData:382252092417","en":"Medium Density","ru":"Средняя плотность"}
+{"id":"optionData:382252092418","en":"High Density","ru":"Высокая плотность"}
+{"id":"optionData:386547058176","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"optionData:386547058432","en":"Damage Display","ru":"Отображение урона"}
+{"id":"optionData:386547059456","en":"Hidden","ru":"Скрыто"}
+{"id":"optionData:386547059457","en":"Small","ru":"Маленький"}
+{"id":"optionData:386547059458","en":"Medium","ru":"Среднее"}
+{"id":"optionData:386547059459","en":"Large","ru":"Крупный"}
+{"id":"optionData:386547059712","en":"Hidden","ru":"Скрыто"}
+{"id":"optionData:386547059713","en":"Small","ru":"Маленький"}
+{"id":"optionData:386547059714","en":"Medium","ru":"Среднее"}
+{"id":"optionData:386547059715","en":"Large","ru":"Крупный"}
+{"id":"optionData:38654707200","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:38654707456","en":"Parry","ru":"Парирование"}
+{"id":"optionData:390842025472","en":"Graphics Settings","ru":"Настройки графики"}
+{"id":"optionData:390842025728","en":"NVIDIA DLSS","ru":"NVIDIA DLSS"}
+{"id":"optionData:390842026752","en":"OFF","ru":"Выкл."}
+{"id":"optionData:390842026753","en":"ON","ru":"Вкл."}
+{"id":"optionData:390842027008","en":"OFF","ru":"Выкл."}
+{"id":"optionData:390842027009","en":"ON","ru":"Вкл."}
+{"id":"optionData:395136992768","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:395136993024","en":"Texture Quality","ru":"Качество текстур"}
+{"id":"optionData:395136994048","en":"Low","ru":"Низкое"}
+{"id":"optionData:395136994049","en":"Medium","ru":"Среднее"}
+{"id":"optionData:395136994050","en":"High","ru":"Высокое"}
+{"id":"optionData:395136994051","en":"Highest","ru":"Максимальное"}
+{"id":"optionData:395136994304","en":"Low","ru":"Низкое"}
+{"id":"optionData:395136994305","en":"Medium","ru":"Среднее"}
+{"id":"optionData:395136994306","en":"High","ru":"Высокое"}
+{"id":"optionData:399431960064","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:399431960320","en":"Achievements","ru":"Достижения"}
+{"id":"optionData:403726927360","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:403726927616","en":"Actions & Emotes","ru":"Действия и эмоции"}
+{"id":"optionData:408021894656","en":"Other","ru":"Прочее"}
+{"id":"optionData:408021894912","en":"Tracking Guide Line","ru":"Направляющая линия"}
+{"id":"optionData:408021895936","en":"OFF","ru":"Выкл."}
+{"id":"optionData:408021895937","en":"On during Focus only","ru":"Только при сосредоточении"}
+{"id":"optionData:408021895938","en":"Always on","ru":"Всегда включено"}
+{"id":"optionData:408021896192","en":"OFF","ru":"Выкл."}
+{"id":"optionData:408021896193","en":"On during Focus only","ru":"Только при сосредоточении"}
+{"id":"optionData:408021896194","en":"Always on","ru":"Всегда включено"}
+{"id":"optionData:412316861952","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:412316862208","en":"Customer Support","ru":"Поддержка"}
+{"id":"optionData:412316862976","en":"View","ru":"Просмотреть"}
+{"id":"optionData:416611829248","en":"Notification Settings","ru":"Настройки уведомлений"}
+{"id":"optionData:416611829504","en":"The Kibo Canteen is empty","ru":"Столовая для кибо пуста"}
+{"id":"optionData:416611830528","en":"OFF","ru":"Выкл."}
+{"id":"optionData:416611830529","en":"ON","ru":"Вкл."}
+{"id":"optionData:416611830784","en":"OFF","ru":"Выкл."}
+{"id":"optionData:416611830785","en":"ON","ru":"Вкл."}
+{"id":"optionData:420906796544","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:420906796800","en":"Character Shadow Quality","ru":"Качество теней персонажей"}
+{"id":"optionData:420906797824","en":"Low","ru":"Низкое"}
+{"id":"optionData:420906797825","en":"Medium","ru":"Среднее"}
+{"id":"optionData:420906797826","en":"High","ru":"Высокое"}
+{"id":"optionData:420906798080","en":"Low","ru":"Низкое"}
+{"id":"optionData:420906798081","en":"Medium","ru":"Среднее"}
+{"id":"optionData:420906798082","en":"High","ru":"Высокое"}
+{"id":"optionData:425201763840","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:425201764096","en":"Global Illumination","ru":"Глобальное освещение"}
+{"id":"optionData:425201765120","en":"OFF","ru":"Выкл."}
+{"id":"optionData:425201765121","en":"Low","ru":"Низкое"}
+{"id":"optionData:425201765122","en":"Medium","ru":"Среднее"}
+{"id":"optionData:425201765123","en":"High","ru":"Высокое"}
+{"id":"optionData:425201765124","en":"Highest","ru":"Максимальное"}
+{"id":"optionData:425201765376","en":"Low","ru":"Низкое"}
+{"id":"optionData:425201765377","en":"Medium","ru":"Среднее"}
+{"id":"optionData:425201765378","en":"High","ru":"Высокое"}
+{"id":"optionData:429496731136","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:429496731392","en":"AO Quality","ru":"Качество AO"}
+{"id":"optionData:429496732416","en":"Low","ru":"Низкое"}
+{"id":"optionData:429496732417","en":"Medium","ru":"Среднее"}
+{"id":"optionData:429496732418","en":"High","ru":"Высокое"}
+{"id":"optionData:429496732419","en":"Highest","ru":"Максимальное"}
+{"id":"optionData:429496732672","en":"Low","ru":"Низкое"}
+{"id":"optionData:429496732673","en":"Medium","ru":"Среднее"}
+{"id":"optionData:429496732674","en":"High","ru":"Высокое"}
+{"id":"optionData:42949674496","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:42949674752","en":"Dash / Evade","ru":"Рывок / Уклонение"}
+{"id":"optionData:4294968832","en":"Camera Controls","ru":"Управление камерой"}
+{"id":"optionData:4294969088","en":"Camera Sensitivity","ru":"Чувствительность камеры"}
+{"id":"optionData:433791698432","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:433791698688","en":"Reflection Quality","ru":"Качество отражений"}
+{"id":"optionData:433791699712","en":"Low","ru":"Низкое"}
+{"id":"optionData:433791699713","en":"Medium","ru":"Среднее"}
+{"id":"optionData:433791699714","en":"High","ru":"Высокое"}
+{"id":"optionData:433791699968","en":"Low","ru":"Низкое"}
+{"id":"optionData:433791699969","en":"Medium","ru":"Среднее"}
+{"id":"optionData:433791699970","en":"High","ru":"Высокое"}
+{"id":"optionData:438086665728","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:438086665984","en":"Depth of Field","ru":"Глубина резкости"}
+{"id":"optionData:438086667008","en":"OFF","ru":"Выкл."}
+{"id":"optionData:438086667009","en":"ON","ru":"Вкл."}
+{"id":"optionData:438086667264","en":"OFF","ru":"Выкл."}
+{"id":"optionData:438086667265","en":"ON","ru":"Вкл."}
+{"id":"optionData:442381633024","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:442381633280","en":"Bloom Effect","ru":"Эффект свечения"}
+{"id":"optionData:442381634304","en":"OFF","ru":"Выкл."}
+{"id":"optionData:442381634305","en":"Medium","ru":"Среднее"}
+{"id":"optionData:442381634306","en":"High","ru":"Высокое"}
+{"id":"optionData:442381634560","en":"OFF","ru":"Выкл."}
+{"id":"optionData:442381634561","en":"Medium","ru":"Среднее"}
+{"id":"optionData:442381634562","en":"High","ru":"Высокое"}
+{"id":"optionData:446676600320","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:446676600576","en":"Skin Quality","ru":"Детализация кожи"}
+{"id":"optionData:446676601600","en":"None","ru":"Нет"}
+{"id":"optionData:446676601601","en":"Onebone","ru":"Одна кость"}
+{"id":"optionData:446676601602","en":"TwoBone","ru":"Две кости"}
+{"id":"optionData:446676601603","en":"FourBone","ru":"Четыре кости"}
+{"id":"optionData:446676601604","en":"Ultimate","ru":"Максимальная"}
+{"id":"optionData:446676601856","en":"None","ru":"Нет"}
+{"id":"optionData:446676601857","en":"Onebone","ru":"Одна кость"}
+{"id":"optionData:446676601858","en":"TwoBone","ru":"Две кости"}
+{"id":"optionData:446676601859","en":"FourBone","ru":"Четыре кости"}
+{"id":"optionData:446676601860","en":"Ultimate","ru":"Максимальная"}
+{"id":"optionData:450971567616","en":"Other","ru":"Прочее"}
+{"id":"optionData:450971567872","en":"Field Boss Entrance Cutscene","ru":"Появление полевого босса"}
+{"id":"optionData:450971568896","en":"OFF","ru":"Выкл."}
+{"id":"optionData:450971568897","en":"ON","ru":"Вкл."}
+{"id":"optionData:450971569152","en":"OFF","ru":"Выкл."}
+{"id":"optionData:450971569153","en":"ON","ru":"Вкл."}
+{"id":"optionData:455266534912","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:455266535168","en":"Crowd Density","ru":"Плотность толпы"}
+{"id":"optionData:455266536192","en":"Low","ru":"Низкое"}
+{"id":"optionData:455266536193","en":"Medium","ru":"Среднее"}
+{"id":"optionData:455266536194","en":"High","ru":"Высокое"}
+{"id":"optionData:455266536195","en":"Highest","ru":"Максимальное"}
+{"id":"optionData:455266536448","en":"Low","ru":"Низкое"}
+{"id":"optionData:455266536449","en":"Medium","ru":"Среднее"}
+{"id":"optionData:455266536450","en":"High","ru":"Высокое"}
+{"id":"optionData:459561502208","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:459561502464","en":"Quick Craft","ru":"Быстрое ремесло"}
+{"id":"optionData:463856469504","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"optionData:463856469760","en":"VRAM Usage","ru":"Использование VRAM"}
+{"id":"optionData:463856470784","en":"Low","ru":"Низкое"}
+{"id":"optionData:463856470785","en":"Medium","ru":"Среднее"}
+{"id":"optionData:463856470786","en":"High","ru":"Высокое"}
+{"id":"optionData:463856471040","en":"Low","ru":"Низкое"}
+{"id":"optionData:463856471041","en":"Medium","ru":"Среднее"}
+{"id":"optionData:463856471042","en":"High","ru":"Высокое"}
+{"id":"optionData:468151436800","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:468151437056","en":"Help","ru":"Справка"}
+{"id":"optionData:472446404096","en":"Transparency","ru":"Прозрачность"}
+{"id":"optionData:472446404352","en":"Character Skill Opacity","ru":"Прозрачность навыков персонажей"}
+{"id":"optionData:47244641792","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:47244642048","en":"Jump","ru":"Прыжок"}
+{"id":"optionData:476741371392","en":"Transparency","ru":"Прозрачность"}
+{"id":"optionData:476741371648","en":"Kibo Skill Opacity","ru":"Прозрачность навыков кибо"}
+{"id":"optionData:481036338688","en":"Transparency","ru":"Прозрачность"}
+{"id":"optionData:481036338944","en":"Ally Skill Opacity","ru":"Прозрачность навыков союзников"}
+{"id":"optionData:485331305984","en":"Transparency","ru":"Прозрачность"}
+{"id":"optionData:485331306240","en":"Enemy Skill Effect Opacity","ru":"Прозрачность эффектов навыков врагов"}
+{"id":"optionData:489626273280","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:489626273536","en":"Grass Quality","ru":"Качество травы"}
+{"id":"optionData:489626274560","en":"Low","ru":"Низкое"}
+{"id":"optionData:489626274561","en":"Medium","ru":"Среднее"}
+{"id":"optionData:489626274562","en":"High","ru":"Высокое"}
+{"id":"optionData:489626274816","en":"Low","ru":"Низкое"}
+{"id":"optionData:489626274817","en":"Medium","ru":"Среднее"}
+{"id":"optionData:489626274818","en":"High","ru":"Высокое"}
+{"id":"optionData:493921240576","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:493921240832","en":"LightShaft","ru":"Световые лучи"}
+{"id":"optionData:493921241856","en":"OFF","ru":"Выкл."}
+{"id":"optionData:493921241857","en":"ON","ru":"Вкл."}
+{"id":"optionData:493921242112","en":"OFF","ru":"Выкл."}
+{"id":"optionData:493921242113","en":"ON","ru":"Вкл."}
+{"id":"optionData:498216207872","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:498216208128","en":"Para","ru":"Пара"}
+{"id":"optionData:498216209152","en":"OFF","ru":"Выкл."}
+{"id":"optionData:498216209153","en":"ON","ru":"Вкл."}
+{"id":"optionData:498216209408","en":"OFF","ru":"Выкл."}
+{"id":"optionData:498216209409","en":"ON","ru":"Вкл."}
+{"id":"optionData:502511175168","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:502511175424","en":"LensFlare","ru":"Блики объектива"}
+{"id":"optionData:502511176448","en":"OFF","ru":"Выкл."}
+{"id":"optionData:502511176449","en":"ON","ru":"Вкл."}
+{"id":"optionData:502511176704","en":"OFF","ru":"Выкл."}
+{"id":"optionData:502511176705","en":"ON","ru":"Вкл."}
+{"id":"optionData:506806142464","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:506806142720","en":"UVDistort","ru":"UV-искажение"}
+{"id":"optionData:506806143744","en":"OFF","ru":"Выкл."}
+{"id":"optionData:506806143745","en":"ON","ru":"Вкл."}
+{"id":"optionData:506806144000","en":"OFF","ru":"Выкл."}
+{"id":"optionData:506806144001","en":"ON","ru":"Вкл."}
+{"id":"optionData:511101109760","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:511101110016","en":"Event","ru":"Событие"}
+{"id":"optionData:515396077056","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:515396077312","en":"Retile","ru":"Перетайлинг"}
+{"id":"optionData:515396078336","en":"Low","ru":"Низкое"}
+{"id":"optionData:515396078337","en":"Medium","ru":"Среднее"}
+{"id":"optionData:515396078338","en":"High","ru":"Высокое"}
+{"id":"optionData:515396078592","en":"Low","ru":"Низкое"}
+{"id":"optionData:515396078593","en":"Medium","ru":"Среднее"}
+{"id":"optionData:515396078594","en":"High","ru":"Высокое"}
+{"id":"optionData:51539609088","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:51539609344","en":"Toggle Walk / Run","ru":"Переключение шаг / бег"}
+{"id":"optionData:519691044352","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:519691044608","en":"Azure Promilia Payment Services Act","ru":"«Азур Промилия»: закон о платёжных услугах"}
+{"id":"optionData:519691045376","en":"View","ru":"Просмотреть"}
+{"id":"optionData:523986011648","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:523986011904","en":"Azure Promilia Specified Commercial Transactions Act","ru":"«Азур Промилия»: закон о специальных коммерческих сделках"}
+{"id":"optionData:523986012672","en":"View","ru":"Просмотреть"}
+{"id":"optionData:528280978944","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:528280979200","en":"Shadow Type","ru":"Тип теней"}
+{"id":"optionData:528280980224","en":"ASM","ru":"ASM"}
+{"id":"optionData:528280980225","en":"CSM","ru":"CSM"}
+{"id":"optionData:528280980480","en":"ASM","ru":"ASM"}
+{"id":"optionData:528280980481","en":"CSM","ru":"CSM"}
+{"id":"optionData:532575946240","en":"Other","ru":"Прочее"}
+{"id":"optionData:532575946496","en":"Movement Direction Camera Assist","ru":"Помощь камеры по направлению движения"}
+{"id":"optionData:532575947520","en":"OFF","ru":"Выкл."}
+{"id":"optionData:532575947521","en":"ON","ru":"Вкл."}
+{"id":"optionData:532575947776","en":"OFF","ru":"Выкл."}
+{"id":"optionData:532575947777","en":"ON","ru":"Вкл."}
+{"id":"optionData:536870913536","en":"Other","ru":"Прочее"}
+{"id":"optionData:536870913792","en":"Kibo Fight Invitation","ru":"Приглашение на бой кибо"}
+{"id":"optionData:536870914816","en":"OFF","ru":"Выкл."}
+{"id":"optionData:536870914817","en":"ON","ru":"Вкл."}
+{"id":"optionData:536870915072","en":"OFF","ru":"Выкл."}
+{"id":"optionData:536870915073","en":"ON","ru":"Вкл."}
+{"id":"optionData:541165880832","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:541165881088","en":"Promilia Rambles","ru":"Промилия: странствия"}
+{"id":"optionData:545460848128","en":"Multiplayer Mode","ru":"Многопользовательский режим"}
+{"id":"optionData:545460848384","en":"Simultaneous Players","ru":"Одновременно отображаемых игроков"}
+{"id":"optionData:549755815424","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"optionData:549755815680","en":"Device Load","ru":"Нагрузка на устройство"}
+{"id":"optionData:549755816704","en":"Low","ru":"Низкое"}
+{"id":"optionData:549755816705","en":"Medium","ru":"Среднее"}
+{"id":"optionData:549755816706","en":"High","ru":"Высокое"}
+{"id":"optionData:549755816960","en":"Low","ru":"Низкое"}
+{"id":"optionData:549755816961","en":"Medium","ru":"Среднее"}
+{"id":"optionData:549755816962","en":"High","ru":"Высокое"}
+{"id":"optionData:554050782720","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"optionData:554050782976","en":"Frame Rate","ru":"Частота кадров"}
+{"id":"optionData:554050784000","en":"Low","ru":"Низкое"}
+{"id":"optionData:554050784001","en":"Medium","ru":"Среднее"}
+{"id":"optionData:554050784002","en":"High","ru":"Высокое"}
+{"id":"optionData:554050784256","en":"Low","ru":"Низкое"}
+{"id":"optionData:554050784257","en":"Medium","ru":"Среднее"}
+{"id":"optionData:554050784258","en":"High","ru":"Высокое"}
+{"id":"optionData:55834576384","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:55834576640","en":"Interact","ru":"Взаимодействие"}
+{"id":"optionData:562640717312","en":"Resource Download","ru":"Загрузка ресурсов"}
+{"id":"optionData:562640717568","en":"Pre-download New Version Resources","ru":"Предзагрузка ресурсов новой версии"}
+{"id":"optionData:562640718336","en":"Go to Download","ru":"Перейти к загрузке"}
+{"id":"optionData:566935684608","en":"Resource Download","ru":"Загрузка ресурсов"}
+{"id":"optionData:566935684864","en":"Pre-download New Version Resources","ru":"Предзагрузка ресурсов новой версии"}
+{"id":"optionData:566935685632","en":"Download Complete","ru":"Загрузка завершена"}
+{"id":"optionData:571230651904","en":"Transparency","ru":"Прозрачность"}
+{"id":"optionData:571230652160","en":"Character Damage Display Opacity","ru":"Прозрачность отображения урона персонажей"}
+{"id":"optionData:575525619200","en":"Transparency","ru":"Прозрачность"}
+{"id":"optionData:575525619456","en":"Kibo Damage Display Opacity","ru":"Непрозрачность индикатора урона кибо"}
+{"id":"optionData:579820586496","en":"Transparency","ru":"Прозрачность"}
+{"id":"optionData:579820586752","en":"Ally Damage Display Opacity","ru":"Непрозрачность индикатора урона союзников"}
+{"id":"optionData:584115553792","en":"Transparency","ru":"Прозрачность"}
+{"id":"optionData:584115554048","en":"Enemy Damage Display Opacity","ru":"Непрозрачность индикатора урона врагов"}
+{"id":"optionData:588410521088","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:588410521344","en":"Shortcut Bag","ru":"Сумка быстрого доступа"}
+{"id":"optionData:592705488384","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:592705488640","en":"Observation","ru":"Наблюдение"}
+{"id":"optionData:597000455680","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:597000455936","en":"Mount Wheel","ru":"Колесо скакунов"}
+{"id":"optionData:601295422976","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:601295423232","en":"Kibo Wheel","ru":"Колесо кибо"}
+{"id":"optionData:60129543680","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:60129543936","en":"Switch to Character 1","ru":"Сменить на персонажа 1"}
+{"id":"optionData:605590390272","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:605590390528","en":"Co-op Attack","ru":"Совместная атака"}
+{"id":"optionData:609885357568","en":"Language Settings","ru":"Настройки языка"}
+{"id":"optionData:609885357824","en":"Keyboard Layout","ru":"Раскладка клавиатуры"}
+{"id":"optionData:609885358848","en":"Standard Keyboard","ru":"Стандартная клавиатура"}
+{"id":"optionData:609885358849","en":"French Keyboard","ru":"Французская клавиатура"}
+{"id":"optionData:609885358850","en":"German Keyboard","ru":"Немецкая клавиатура"}
+{"id":"optionData:609885358851","en":"Spanish Keyboard","ru":"Испанская клавиатура"}
+{"id":"optionData:609885358852","en":"Russian Keyboard","ru":"Русская клавиатура"}
+{"id":"optionData:609885358853","en":"Automatic (System)","ru":"Автоматически (по системе)"}
+{"id":"optionData:614180324864","en":"Multiplayer Mode","ru":"Многопользовательский режим"}
+{"id":"optionData:614180325120","en":"Hide Other Players' Kibo","ru":"Скрыть кибо других игроков"}
+{"id":"optionData:614180326144","en":"OFF","ru":"Выкл."}
+{"id":"optionData:614180326145","en":"ON","ru":"Вкл."}
+{"id":"optionData:614180326400","en":"OFF","ru":"Выкл."}
+{"id":"optionData:614180326401","en":"ON","ru":"Вкл."}
+{"id":"optionData:618475292160","en":"Multiplayer Mode","ru":"Многопользовательский режим"}
+{"id":"optionData:618475292416","en":"Hide Other Units' Effects","ru":"Скрыть эффекты других юнитов"}
+{"id":"optionData:618475293440","en":"OFF","ru":"Выкл."}
+{"id":"optionData:618475293441","en":"ON","ru":"Вкл."}
+{"id":"optionData:618475293696","en":"OFF","ru":"Выкл."}
+{"id":"optionData:618475293697","en":"ON","ru":"Вкл."}
+{"id":"optionData:622770259456","en":"Multiplayer Mode","ru":"Многопользовательский режим"}
+{"id":"optionData:622770259712","en":"Crowd Density in Main Area During Multiplayer Mode","ru":"Плотность толпы в основной зоне в многопользовательском режиме"}
+{"id":"optionData:622770260736","en":"Low","ru":"Низкое"}
+{"id":"optionData:622770260737","en":"Medium","ru":"Среднее"}
+{"id":"optionData:622770260738","en":"High","ru":"Высокое"}
+{"id":"optionData:622770260992","en":"Low","ru":"Низкое"}
+{"id":"optionData:622770260993","en":"Medium","ru":"Среднее"}
+{"id":"optionData:622770260994","en":"High","ru":"Высокое"}
+{"id":"optionData:627065226752","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:627065227008","en":"Commission","ru":"Поручение"}
+{"id":"optionData:631360194048","en":"Custom Settings","ru":"Пользовательские настройки"}
+{"id":"optionData:631360194304","en":"Effect Quality","ru":"Качество эффектов"}
+{"id":"optionData:631360195328","en":"Low","ru":"Низкое"}
+{"id":"optionData:631360195329","en":"Medium","ru":"Среднее"}
+{"id":"optionData:631360195330","en":"High","ru":"Высокое"}
+{"id":"optionData:631360195331","en":"Highest","ru":"Максимальное"}
+{"id":"optionData:631360195584","en":"Low","ru":"Низкое"}
+{"id":"optionData:631360195585","en":"Medium","ru":"Среднее"}
+{"id":"optionData:631360195586","en":"High","ru":"Высокое"}
+{"id":"optionData:635655161344","en":"Input Controls","ru":"Управление вводом"}
+{"id":"optionData:635655161600","en":"Targeting Mode","ru":"Режим выбора цели"}
+{"id":"optionData:635655162624","en":"Movement Direction Priority","ru":"Приоритет направления движения"}
+{"id":"optionData:635655162625","en":"Camera Direction Priority","ru":"Приоритет направления камеры"}
+{"id":"optionData:635655162626","en":"Distance Priority","ru":"Приоритет расстояния"}
+{"id":"optionData:635655162880","en":"Movement Direction Priority","ru":"Приоритет направления движения"}
+{"id":"optionData:635655162881","en":"Camera Direction Priority","ru":"Приоритет направления камеры"}
+{"id":"optionData:635655162882","en":"Distance Priority","ru":"Приоритет расстояния"}
+{"id":"optionData:639950128640","en":"Notification Settings","ru":"Настройки уведомлений"}
+{"id":"optionData:639950128896","en":"Night Push Notifications (Enabled When Primordial Tide Push Notifications Are On)","ru":"Ночные уведомления (активны при включённых уведомлениях Первозданного прилива)"}
+{"id":"optionData:639950130176","en":"OFF","ru":"Выкл."}
+{"id":"optionData:639950130177","en":"ON","ru":"Вкл."}
+{"id":"optionData:644245095936","en":"Mount","ru":"Скакун"}
+{"id":"optionData:644245096192","en":"Flying Mount Shortcut Controls","ru":"Управление быстрым доступом в полёте на скакуне"}
+{"id":"optionData:644245097216","en":"Repeated Jump","ru":"Повторный прыжок"}
+{"id":"optionData:644245097217","en":"Hold to Jump","ru":"Удержание для прыжка"}
+{"id":"optionData:644245097218","en":"OFF","ru":"Выкл."}
+{"id":"optionData:644245097472","en":"Repeated Jump","ru":"Повторный прыжок"}
+{"id":"optionData:644245097473","en":"Hold to Jump","ru":"Удержание для прыжка"}
+{"id":"optionData:644245097474","en":"OFF","ru":"Выкл."}
+{"id":"optionData:64424510976","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:64424511232","en":"Switch to Character 2","ru":"Сменить на персонажа 2"}
+{"id":"optionData:648540063232","en":"Other","ru":"Прочее"}
+{"id":"optionData:648540063488","en":"Auto-Play Reward Multiplier","ru":"Множитель наград автобоя"}
+{"id":"optionData:648540064512","en":"OFF","ru":"Выкл."}
+{"id":"optionData:648540064513","en":"Receive at 1×","ru":"Получать ×1"}
+{"id":"optionData:648540064514","en":"Receive at 2×","ru":"Получать ×2"}
+{"id":"optionData:648540064515","en":"Receive at 3×","ru":"Получать ×3"}
+{"id":"optionData:648540064768","en":"OFF","ru":"Выкл."}
+{"id":"optionData:648540064769","en":"Receive at 1×","ru":"Получать ×1"}
+{"id":"optionData:648540064770","en":"Receive at 2×","ru":"Получать ×2"}
+{"id":"optionData:648540064771","en":"Receive at 3×","ru":"Получать ×3"}
+{"id":"optionData:652835030528","en":"Account Settings","ru":"Настройки аккаунта"}
+{"id":"optionData:652835030784","en":"Azur Promilia Personal Data Collection List","ru":"Перечень собираемых персональных данных Azur Promilia"}
+{"id":"optionData:652835031552","en":"View","ru":"Просмотреть"}
+{"id":"optionData:657129997824","en":"Audio Output","ru":"Вывод звука"}
+{"id":"optionData:657129998080","en":"Audio Output Device","ru":"Устройство вывода звука"}
+{"id":"optionData:657129999104","en":"Default","ru":"По умолчанию"}
+{"id":"optionData:657129999105","en":"TV","ru":"Телевизор"}
+{"id":"optionData:657129999106","en":"Headphones","ru":"Наушники"}
+{"id":"optionData:657129999107","en":"Speakers","ru":"Динамики"}
+{"id":"optionData:657129999360","en":"Default","ru":"По умолчанию"}
+{"id":"optionData:657129999361","en":"Mobile","ru":"Мобильное устройство"}
+{"id":"optionData:657129999362","en":"Headphones","ru":"Наушники"}
+{"id":"optionData:657129999363","en":"Speakers","ru":"Динамики"}
+{"id":"optionData:661424965120","en":"Basic Graphics","ru":"Базовая графика"}
+{"id":"optionData:661424965376","en":"Auto-Adjust Graphics Quality","ru":"Автонастройка качества графики"}
+{"id":"optionData:661424966656","en":"OFF","ru":"Выкл."}
+{"id":"optionData:661424966657","en":"ON","ru":"Вкл."}
+{"id":"optionData:678604834304","en":"Other","ru":"Прочее"}
+{"id":"optionData:678604834560","en":"Starlink Aim Mode Aim Assist","ru":"Помощь прицеливания в режиме прицеливания Звёздной связи"}
+{"id":"optionData:678604835584","en":"OFF","ru":"Выкл."}
+{"id":"optionData:678604835585","en":"ON","ru":"Вкл."}
+{"id":"optionData:678604835840","en":"OFF","ru":"Выкл."}
+{"id":"optionData:678604835841","en":"ON","ru":"Вкл."}
+{"id":"optionData:682899801600","en":"Other","ru":"Прочее"}
+{"id":"optionData:682899801856","en":"Aim Assist Strength","ru":"Сила помощи прицеливания"}
+{"id":"optionData:682899802880","en":"Low","ru":"Низкое"}
+{"id":"optionData:682899802881","en":"Medium","ru":"Среднее"}
+{"id":"optionData:682899802882","en":"High","ru":"Высокое"}
+{"id":"optionData:682899803136","en":"Low","ru":"Низкое"}
+{"id":"optionData:682899803137","en":"Medium","ru":"Среднее"}
+{"id":"optionData:682899803138","en":"High","ru":"Высокое"}
+{"id":"optionData:68719478272","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:68719478528","en":"Switch to Character 3","ru":"Сменить на персонажа 3"}
+{"id":"optionData:691489736192","en":"UI Controls","ru":"Управление интерфейсом"}
+{"id":"optionData:691489736448","en":"Shop","ru":"Магазин"}
+{"id":"optionData:695784703488","en":"Farm Controls","ru":"Управление фермой"}
+{"id":"optionData:695784703744","en":"Farm Headquarters","ru":"Фермерский штаб"}
+{"id":"optionData:704374638080","en":"Farm Controls","ru":"Управление фермой"}
+{"id":"optionData:704374638336","en":"Start Farming","ru":"Начать обработку земли"}
+{"id":"optionData:708669605376","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:708669605632","en":"Ascend in Flight Mode","ru":"Набрать высоту в режиме полёта"}
+{"id":"optionData:712964572672","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:712964572928","en":"Descend in Flight Mode","ru":"Снизиться в режиме полёта"}
+{"id":"optionData:73014445568","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:73014445824","en":"Switch to Character 3","ru":"Сменить на персонажа 3"}
+{"id":"optionData:77309412864","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:77309413120","en":"Track Quest","ru":"Отслеживать задание"}
+{"id":"optionData:81604380160","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:81604380416","en":"Chat","ru":"Чат"}
+{"id":"optionData:85899347456","en":"Basic Actions","ru":"Базовые действия"}
+{"id":"optionData:85899347712","en":"Show Mouse Cursor","ru":"Показать курсор мыши"}
+{"id":"optionData:863288428032","en":"Controller Settings","ru":"Настройки контроллера"}
+{"id":"optionData:863288428288","en":"Controller Vibration Strength","ru":"Сила вибрации контроллера"}
+{"id":"optionData:867583395328","en":"Controller Settings","ru":"Настройки контроллера"}
+{"id":"optionData:867583395584","en":"Dead Zone Range Settings","ru":"Настройка мёртвой зоны"}
+{"id":"optionData:871878362624","en":"Controller Settings","ru":"Настройки контроллера"}
+{"id":"optionData:871878362880","en":"Invert Camera Horizontally","ru":"Инвертировать камеру по горизонтали"}
+{"id":"optionData:871878364160","en":"OFF","ru":"Выкл."}
+{"id":"optionData:871878364161","en":"ON","ru":"Вкл."}
+{"id":"optionData:876173329920","en":"Controller Settings","ru":"Настройки контроллера"}
+{"id":"optionData:876173330176","en":"Invert Camera Vertically","ru":"Инвертировать камеру по вертикали"}
+{"id":"optionData:876173331456","en":"OFF","ru":"Выкл."}
+{"id":"optionData:876173331457","en":"ON","ru":"Вкл."}
+{"id":"optionData:880468297216","en":"Controller Settings","ru":"Настройки контроллера"}
+{"id":"optionData:880468297472","en":"Hide Button Guide on Right Side of HUD","ru":"Скрыть подсказки кнопок справа на HUD"}
+{"id":"optionData:880468298752","en":"OFF","ru":"Выкл."}
+{"id":"optionData:880468298753","en":"ON","ru":"Вкл."}
+{"id":"optionData:889058231808","en":"Key Bindings","ru":"Назначение клавиш"}
+{"id":"optionData:90194314752","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:90194315008","en":"Normal Attack","ru":"Обычная атака"}
+{"id":"optionData:910533068288","en":"Audio Output","ru":"Вывод звука"}
+{"id":"optionData:910533068544","en":"Controller Speaker Volume","ru":"Громкость динамика контроллера"}
+{"id":"optionData:94489282048","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:94489282304","en":"Starecho Skill","ru":"Навык звёздного эха"}
+{"id":"optionData:98784249344","en":"Combat Controls","ru":"Боевое управление"}
+{"id":"optionData:98784249600","en":"Starpolar Skill","ru":"Звёзднополярный навык"}
