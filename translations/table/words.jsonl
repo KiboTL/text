@@ -1262,7 +1262,7 @@
 {"id":"words:-470148293246565562","en":"The fish got away.","ru":"Рыба сорвалась."}
 {"id":"words:-4712602749437680612","en":"Intermediate","ru":"Средний"}
 {"id":"words:-4720245903795840052","en":"{0} d {1} h {2} min","ru":"{0} д {1} ч {2} мин"}
-{"id":"words:-472467044589132371","en":"Star Knowledge Level","ru":"Уровень звёздных знаний"}
+{"id":"words:-472467044589132371","en":"Star Knowledge","ru":"Звёздные знания"}
 {"id":"words:-4737473354449924479","en":"Joined the team","ru":"Вы присоединились к команде"}
 {"id":"words:-4743167259528346740","en":"Each role has its own independent rating.","ru":"У каждой роли независимая оценка."}
 {"id":"words:-4745515173161562932","en":"Matching teammates","ru":"Поиск напарников"}
@@ -3310,7 +3310,7 @@
 {"id":"words:3061880670739323865","en":"This content cannot be played in the current area during Multiplayer Mode.","ru":"В Многопользовательском режиме это содержимое недоступно в текущей области."}
 {"id":"words:3063190147282021462","en":"Battle Type","ru":"Тип боя"}
 {"id":"words:3063255265426768954","en":"Collect Anima from the Star Journey Record","ru":"Получение Анимы из Записей звёздного пути"}
-{"id":"words:3072449863716378991","en":"The first collection does not consume Primordial Tide.","ru":"При первом получении Первозданный прилив не расходуется."}
+{"id":"words:3072449863716378991","en":"Claiming the reward for the first time costs no Primordial Tide.","ru":"При первом получении награды Первозданный прилив не расходуется."}
 {"id":"words:3076276942944497654","en":"This Kibo is a Starshine Kibo. Are you sure you want to part with it?","ru":"Этот кибо — Кибо звёздного сияния. Вы действительно хотите с ним расстаться?"}
 {"id":"words:3076506192804352200","en":"Settings","ru":"Настройки"}
 {"id":"words:3082587701384794891","en":"Recommended","ru":"Рекомендуется"}
@@ -5016,7 +5016,7 @@
 {"id":"words:8139357197378123534","en":"This medicine cannot be used on a character who has left the field.","ru":"Это лекарство нельзя использовать на персонаже, покинувшем поле боя."}
 {"id":"words:8141979152198018905","en":"Updated","ru":"Обновлено"}
 {"id":"words:8144202045035347115","en":"Quick Select","ru":"Быстрый выбор"}
-{"id":"words:8147336707469208895","en":"The first collection does not consume Primordial Tide.","ru":"При первом получении Первозданный прилив не расходуется."}
+{"id":"words:8147336707469208895","en":"Claiming the reward for the first time costs no Primordial Tide.","ru":"При первом получении награды Первозданный прилив не расходуется."}
 {"id":"words:8147346776381942404","en":"Overwrite Record","ru":"Перезаписать запись"}
 {"id":"words:8149994470891859249","en":"Ability Upgrade","ru":"Улучшение способностей"}
 {"id":"words:815099350401228852","en":"Solve the Spirit Patrol Plate puzzle to restore the Stone Pillar","ru":"Решите головоломку с плитой духов-патрульных, чтобы восстановить каменный столп"}
@@ -5180,7 +5180,7 @@
 {"id":"words:8730927546332045879","en":"Keep attacking enemies to stack {3} up to {1}/{2} stacks","ru":"Продолжайте атаковать врагов, чтобы накопить {3} до {1}/{2} зарядов"}
 {"id":"words:8731252041731175827","en":"Outside the placement area","ru":"За пределами зоны размещения"}
 {"id":"words:8733884222593796093","en":"Please claim your completed rewards first.","ru":"Сначала получите завершённые награды."}
-{"id":"words:8734784292323034311","en":"Contribution","ru":"Вклад"}
+{"id":"words:8734784292323034311","en":"Activity","ru":"Активность"}
 {"id":"words:8736641163274803363","en":"The entered password does not match.","ru":"Введённый пароль не совпадает."}
 {"id":"words:8751044754347002537","en":"Time required: %s","ru":"Требуемое время: %s"}
 {"id":"words:8755008727348648943","en":"Save","ru":"Сохранить"}

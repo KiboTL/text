@@ -376,7 +376,7 @@
 {"id":"static:19A85411","en":"Height","ru":"Рост"}
 {"id":"static:19A8740A","en":"<size=22>Lv.</size>9","ru":"<size=22>Ур.</size>9"}
 {"id":"static:19AC677A","en":"Low","ru":"Низкий"}
-{"id":"static:19BF4B07","en":"Recent Achievements","ru":"Недавние достижения"}
+{"id":"static:19BF4B07","en":"Recent","ru":"Недавние"}
 {"id":"static:19C4ABB7","en":"Watching the story in full will help you better understand how it develops. Are you sure you want to skip?","ru":"Полный просмотр сюжета поможет лучше понять его развитие. Вы уверены, что хотите пропустить?"}
 {"id":"static:19C8AC3E","en":"Brief Description","ru":"Краткое описание"}
 {"id":"static:19C948BA","en":"Boss · Introduction","ru":"Босс · Знакомство"}
@@ -2823,7 +2823,7 @@
 {"id":"static:CA13D0DC","en":"Possibly Related Factors","ru":"Возможно связанные факторы"}
 {"id":"static:CA344985","en":"Return to Star Abyss","ru":"Вернуться в Звёздную бездну"}
 {"id":"static:CA3F326B","en":"No additional skills","ru":"Дополнительных навыков нет"}
-{"id":"static:CA460018","en":"Tap to track Kibo","ru":"Нажмите, чтобы отследить кибо"}
+{"id":"static:CA460018","en":"Track Kibo","ru":"Найти кибо"}
 {"id":"static:CA4B1BA2","en":"Kibo Max Level","ru":"Максимальный уровень кибо"}
 {"id":"static:CAA2C6D4","en":"Enter Scene","ru":"Войти в сцену"}
 {"id":"static:CADC361E","en":"Prerequisite Quest","ru":"Предварительный квест"}
@@ -2985,7 +2985,7 @@
 {"id":"static:D84CE27F","en":"Stock 156/600","ru":"В наличии 156/600"}
 {"id":"static:D84FF70C","en":"Exclusive Animation:","ru":"Особое представление:"}
 {"id":"static:D8592BD6","en":"Owned","ru":"Получено"}
-{"id":"static:D8AABA03","en":"Decoration","ru":"Украшение"}
+{"id":"static:D8AABA03","en":"Style","ru":"Облик"}
 {"id":"static:D8C2E90D","en":"-Starlink this Kibo in the field to unlock this entry.-","ru":"-Вступите в звёздную связь с этим кибо в открытом мире, чтобы открыть эту запись.-"}
 {"id":"static:D8C7E04C","en":"Info","ru":"Информация"}
 {"id":"static:D8F0D179","en":"X20000","ru":"X20000"}
@@ -3501,7 +3501,7 @@
 {"id":"static:FB5FF505","en":"Turn off character voices","ru":"Выключить озвучку персонажей"}
 {"id":"static:FB7D59AD","en":"Team","ru":"Команда"}
 {"id":"static:FB7F056B","en":"Main Area","ru":"Основная область"}
-{"id":"static:FB852FC6","en":"In Progress","ru":"В процессе"}
+{"id":"static:FB852FC6","en":"Ongoing","ru":"Активно"}
 {"id":"static:FB9DC10F","en":"Stage Difficulty","ru":"Сложность этапа"}
 {"id":"static:FB9FDA48","en":"Investigate the clues","ru":"Изучить улики"}
 {"id":"static:FBADE9E3","en":"Z","ru":"Z"}
