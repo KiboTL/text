@@ -3147,12 +3147,12 @@
 {"id":"common_item:5158260017463552","en":"Letter Contract Token","ru":"Знак почтового контракта"}
 {"id":"common_item:5158260017463808","en":"A Letter Contract voucher issued by the Pami Post Office. For every 1, you can redeem 30 days of Letter Contract service at the Pami Post Office for free.","ru":"Ваучер на почтовый контракт, выданный почтовым отделением Пами. За каждые 1 можно бесплатно получить в почтовом отделении Пами 30 дней обслуживания по почтовому контракту."}
 {"id":"common_item:5158260017466368","en":"Exchange Item","ru":"Обменный предмет"}
-{"id":"common_item:5162554984759552","en":"Premium Wanderer's Log","ru":"Премиальный дневник странника"}
-{"id":"common_item:5162554984759808","en":"Can be exchanged for this season's Premium Wanderer's Log.","ru":"Можно обменять на премиальный дневник странника текущего сезона."}
+{"id":"common_item:5162554984759552","en":"Premium Travelogue","ru":"Премиальный дневник"}
+{"id":"common_item:5162554984759808","en":"Can be exchanged for this season's Premium Travelogue.","ru":"Можно обменять на премиальный дневник текущего сезона."}
 {"id":"common_item:5162554984760064","en":"Every farewell exists for the sake of a new reunion. Welcome back, Starborn!","ru":"Все расставания существуют ради новых встреч. С возвращением, Звездорождённый!"}
 {"id":"common_item:5162554984762368","en":"Exchange Item","ru":"Обменный предмет"}
-{"id":"common_item:5166849952055552","en":"Wanderer's Log Reprint Token","ru":"Знак переиздания дневника странника"}
-{"id":"common_item:5166849952055808","en":"Can be exchanged for this season's Wanderer's Log Recollection.","ru":"Можно обменять на воспоминание из дневника странника текущего сезона."}
+{"id":"common_item:5166849952055552","en":"Travelogue Reprint Token","ru":"Знак переиздания дневника"}
+{"id":"common_item:5166849952055808","en":"Can be exchanged for this season's Travelogue Recollection.","ru":"Можно обменять на воспоминание из дневника текущего сезона."}
 {"id":"common_item:5166849952056064","en":"Starborn, even a complete journey awaits the moment it is unrolled. Now—set forth!","ru":"Звездорождённый, даже у завершённого пути есть миг, когда его развернут вновь. Что ж, в путь!"}
 {"id":"common_item:5166849952058368","en":"Exchange Item","ru":"Обменный предмет"}
 {"id":"common_item:6013388006097152","en":"Ordinary Goldwheat Flour","ru":"Обычная мука из золотой пшеницы"}

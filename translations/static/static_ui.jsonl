@@ -289,7 +289,7 @@
 {"id":"static:14135FE8","en":"Long-press to Rescue","ru":"Удерживайте для спасения"}
 {"id":"static:1414C975","en":"X3","ru":"X3"}
 {"id":"static:1430FEFF","en":"Point Reward","ru":"Награда за баллы"}
-{"id":"static:1432C7FC","en":"System Notice","ru":"Системное уведомление"}
+{"id":"static:1432C7FC","en":"System Notice","ru":"Системные уведомления"}
 {"id":"static:1438221E","en":"Normal","ru":"Обычный"}
 {"id":"static:1444F02E","en":"No equipment meets the requirements","ru":"Нет снаряжения, соответствующего требованиям"}
 {"id":"static:1447616A","en":"Currently stored","ru":"Сейчас хранится"}
@@ -1907,7 +1907,7 @@
 {"id":"static:88E6724A","en":"Test text","ru":"Тестовый текст"}
 {"id":"static:88E6CDBD","en":"Your companions all have very special identities... with features that obvious, finding them may not be hard. I hope they receive the protection of \nBaijiu [Zuzanka] and stay safe\nYour companions all have very special identities... with features that obvious, finding them may not be hard.","ru":"У всех твоих спутников очень особые приметы... с такими заметными чертами найти их, пожалуй, нетрудно. Надеюсь, они получат защиту \nБайцзю [Цзуцзаньки] и останутся невредимы\nУ всех твоих спутников очень особые приметы... с такими заметными чертами найти их, пожалуй, нетрудно."}
 {"id":"static:88EC56DB","en":"Lv.7","ru":"Ур.7"}
-{"id":"static:890A4480","en":"Wanderer's Log Level Boost","ru":"Ускорение уровня «Дневника странника»"}
+{"id":"static:890A4480","en":"Travelogue Level Boost","ru":"Ускорение уровня дневника"}
 {"id":"static:89159F86","en":"Stage 3-2","ru":"Этап 3-2"}
 {"id":"static:8930125C","en":"Multiplayer Challenge","ru":"Мультиплеерное испытание"}
 {"id":"static:89679F4D","en":"Star Vessel Activity: 1","ru":"Активность Звёздного сосуда: 1"}
@@ -2334,7 +2334,7 @@
 {"id":"static:A7F0449C","en":"Preview some rewards","ru":"Предпросмотр части наград"}
 {"id":"static:A8023FD0","en":"Change Appearance","ru":"Изменить внешность"}
 {"id":"static:A8216F04","en":"[TBD]","ru":"[Не определено]"}
-{"id":"static:A83E0B58","en":"Purchase Wanderer's Log Level","ru":"Купить уровень дневника странника"}
+{"id":"static:A83E0B58","en":"Purchase Travelogue Level","ru":"Купить уровень дневника"}
 {"id":"static:A87FF679","en":"4","ru":"4"}
 {"id":"static:A885157D","en":"Cherry Recipe","ru":"Рецепт с вишней"}
 {"id":"static:A8875BBE","en":"Toggle","ru":"Переключить"}
@@ -2454,7 +2454,7 @@
 {"id":"static:AF7F89C0","en":"Initial Ⅱ","ru":"Начальный Ⅱ"}
 {"id":"static:AF825C66","en":"Fish Guide","ru":"Рыбный справочник"}
 {"id":"static:AF826612","en":"Tap to take photo","ru":"Нажмите, чтобы сфотографировать"}
-{"id":"static:AF8B06F2","en":"Trial","ru":"Пробное использование"}
+{"id":"static:AF8B06F2","en":"Trial","ru":"Пробный"}
 {"id":"static:AF9CC469","en":"Box 1","ru":"Ящик 1"}
 {"id":"static:AFA7D6BB","en":"Guaranteed to obtain the selected character after X more Observations","ru":"Выбранный персонаж гарантированно выпадет через X наблюдений"}
 {"id":"static:AFB7B600","en":"Level 2","ru":"Уровень 2"}
@@ -3142,7 +3142,7 @@
 {"id":"static:E40267F1","en":"Legendary/Special Lifeform Records 10/20","ru":"Записи о легендарных и особых формах жизни 10/20"}
 {"id":"static:E4095126","en":"Kibo Fight","ru":"Бой кибо"}
 {"id":"static:E42B99D5","en":"Moon","ru":"Луна"}
-{"id":"static:E42D27AD","en":"Trial","ru":"Пробное использование"}
+{"id":"static:E42D27AD","en":"Trial","ru":"Испытать"}
 {"id":"static:E4519D42","en":"Basic Bait","ru":"Простая приманка"}
 {"id":"static:E45425C9","en":"PosOffset","ru":"PosOffset"}
 {"id":"static:E4560CB6","en":"The number of statues of Fine quality or above is less than 15.","ru":"Количество статуй качества «Обычное» и выше меньше 15."}

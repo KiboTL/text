@@ -181,7 +181,7 @@
 {"id":"words:-1583813715932684749","en":"Tap an option to select","ru":"Коснитесь варианта, чтобы выбрать"}
 {"id":"words:-1587966785583766170","en":"Equipped parts may be removed. Continue?","ru":"Экипированные части могут быть сняты. Продолжить?"}
 {"id":"words:-1589770353083645153","en":"(Set contents: {0})","ru":"(Состав набора: {0})"}
-{"id":"words:-1590726588140926243","en":"Spend {0} to unlock 1 Premium Wanderer's Log levels?","ru":"Потратить {0}, чтобы открыть 1 уровней премиум-«Дневника странника»?"}
+{"id":"words:-1590726588140926243","en":"Spend {0} to unlock the Premium Travelogue?","ru":"Потратить {0}, чтобы открыть премиальный дневник?"}
 {"id":"words:-1591035852753256399","en":"Area Challenge","ru":"Испытание области"}
 {"id":"words:-1591693247403291738","en":"Obtained from the Gift of the Starry Sea event","ru":"Получено на событии «Дар звёздного моря»"}
 {"id":"words:-1593374646919404827","en":"Level {0}","ru":"Уровень {0}"}
@@ -659,7 +659,7 @@
 {"id":"words:-3016978917760997486","en":"Timer Ended","ru":"Таймер завершён"}
 {"id":"words:-3018820040472465688","en":"Close Screen","ru":"Закрыть экран"}
 {"id":"words:-3020731832827010015","en":"Rank Up Complete","ru":"Ранг повышен"}
-{"id":"words:-3022335475324428607","en":"Wanderer's Log Recollection Unlocked","ru":"Воспоминание из дневника странника открыто"}
+{"id":"words:-3022335475324428607","en":"Travelogue Recollection Unlocked","ru":"Воспоминание из дневника открыто"}
 {"id":"words:-3023987755103954841","en":"Difficulty switching is on cooldown.","ru":"Смена сложности на перезарядке."}
 {"id":"words:-3027070003371556865","en":"Beast Family","ru":"Семейство зверей"}
 {"id":"words:-302710673540486616","en":"You've reached the maximum number of characters that can be assigned.","ru":"Достигнут предел назначаемых персонажей."}
@@ -825,7 +825,7 @@
 {"id":"words:-3463088361929440408","en":"A Kibo is currently working.","ru":"Сейчас один кибо занят работой."}
 {"id":"words:-3466458377730724512","en":"In Progress","ru":"В процессе"}
 {"id":"words:-3468717640258763370","en":"<color='#3ad5bd'> [Available]</color>","ru":"<color='#3ad5bd'> [Доступно]</color>"}
-{"id":"words:-3468933534251223041","en":"Premium Wanderer's Log purchased","ru":"Премиальный дневник странника куплен"}
+{"id":"words:-3468933534251223041","en":"Premium Travelogue purchased","ru":"Премиальный дневник куплен"}
 {"id":"words:-3471285956400434607","en":"Exchange","ru":"Обмен"}
 {"id":"words:-3471515163354786331","en":"Min Size: {0} cm","ru":"Мин. размер: {0} см"}
 {"id":"words:-347225937844250793","en":"Million","ru":"Миллион"}
@@ -1026,7 +1026,7 @@
 {"id":"words:-401163758581173330","en":"Farm Headquarters is full. Swap in an existing Kibo?","ru":"Фермерский штаб заполнен. Заменить одного из имеющихся кибо?"}
 {"id":"words:-4017635006603645587","en":"Slots are full","ru":"Ячейки заполнены"}
 {"id":"words:-4018549454652071134","en":"Consume Sigils with a Starpolar Skill to deal damage to enemies {1}/{2} times","ru":"Израсходуйте Печати Звёзднополярным навыком, чтобы нанести урон врагам {1}/{2} раз"}
-{"id":"words:-401915448084050228","en":"Spend {0} to unlock 1 Wanderer's Log Recollections?","ru":"Потратить {0}, чтобы открыть воспоминания из дневника странника (1)?"}
+{"id":"words:-401915448084050228","en":"Spend {0} to unlock the Travelogue Recollection?","ru":"Потратить {0}, чтобы открыть воспоминание из дневника?"}
 {"id":"words:-4026981435736677948","en":"Decrease Quantity","ru":"Уменьшить количество"}
 {"id":"words:-4027707603550483005","en":"From the 3nd hit onward, each hit of a Normal Attack can consume Hellfire. Rapidly tap the attack button to consume 6 Hellfire and have Oni Hand perform 6 combo attacks {0}/{1}","ru":"Начиная с 3-го удара Обычной атаки каждый удар может расходовать Адское пламя. Быстро нажимайте кнопку атаки, чтобы израсходовать 6 Адского пламени и заставить Руку они нанести 6 комбо-атак {0}/{1}"}
 {"id":"words:-4030443833231723504","en":"Unlocking {0} increases the variety of Kibo that appear in the field.","ru":"Открытие {0} увеличивает разнообразие кибо, появляющихся в мире."}
@@ -2245,7 +2245,7 @@
 {"id":"words:-7906421849298979673","en":"Clear {0} and raise your Area Level.","ru":"Пройдите {0} и повысьте уровень области."}
 {"id":"words:-7908591544368122948","en":"Min","ru":"Мин."}
 {"id":"words:-7910968805645198047","en":"The selected language pack \"%s\" has not been downloaded. Download it and switch?\n\"%s\" language pack size (%sGB)","ru":"Выбранный языковой пакет «%s» не загружен. Загрузить его и переключиться?\nРазмер языкового пакета «%s» (%s ГБ)"}
-{"id":"words:-7915677760259465416","en":"Wanderer's Log Level","ru":"Уровень дневника странника"}
+{"id":"words:-7915677760259465416","en":"Travelogue Level","ru":"Уровень дневника"}
 {"id":"words:-7916463252405986688","en":"Field Cabin not constructed","ru":"Полевая хижина не построена"}
 {"id":"words:-7922111087447700893","en":"Hurry and chase after Tushan Xiaoyu!","ru":"Скорее догоните Тушань Сяоюй!"}
 {"id":"words:-7924640978913935796","en":"Restore Primordial Tide","ru":"Восстановить Первозданный прилив"}
@@ -2269,7 +2269,7 @@
 {"id":"words:-7964479684398393268","en":"Let's search for where the <color=#DAA520>Fuumo</color> are!","ru":"Давай поищем, где находится <color=#DAA520>Фуумо</color>!"}
 {"id":"words:-7965924569538219350","en":"Cancel tracking of the collectible \"{0}\"?","ru":"Отменить отслеживание ресурса «{0}»?"}
 {"id":"words:-7966027490828200805","en":"The current commander has no soldiers that can be saved.","ru":"У текущего командира нет солдат, которых можно сохранить."}
-{"id":"words:-7967983726458123111","en":"Unlock the Premium Wanderer's Log and reach Level 30 to choose and obtain 1 5★ Anima.","ru":"Откройте премиальный «Дневник странника» и достигните уровня 30, чтобы выбрать и получить аниму 5★ в количестве 1 шт."}
+{"id":"words:-7967983726458123111","en":"Unlock the Premium Travelogue and reach Level 30 to choose and obtain 1 5★ Anima.","ru":"Откройте премиальный дневник и достигните уровня 30, чтобы выбрать и получить аниму 5★ в количестве 1 шт."}
 {"id":"words:-7968770064948884833","en":"Please enter a valid name.","ru":"Введите правильное имя."}
 {"id":"words:-7971526331906709685","en":"You are sending invitations too frequently. Please wait {0} seconds before inviting again.","ru":"Приглашения отправляются слишком часто. Подождите {0} с и повторите попытку."}
 {"id":"words:-797322013961377365","en":"Show All Sword Arts","ru":"Показать всё искусство меча"}
@@ -2369,7 +2369,7 @@
 {"id":"words:-8306381535561463012","en":"Support Companion","ru":"Союзник поддержки"}
 {"id":"words:-8308561351272623098","en":"{0} min remaining","ru":"Осталось {0} мин"}
 {"id":"words:-8309750445405911899","en":"You do not have a Mount equipped.","ru":"У вас не экипирован скакун."}
-{"id":"words:-8310695254272740005","en":"Wanderer's Log Level Up","ru":"Повышение уровня дневника странника"}
+{"id":"words:-8310695254272740005","en":"Travelogue Level Up","ru":"Повышение уровня дневника"}
 {"id":"words:-8310843013359652757","en":"No Records","ru":"Записей нет"}
 {"id":"words:-8311082648714135268","en":"%s will reach stage %s in %s.","ru":"%s достигнет стадии %s через %s."}
 {"id":"words:-8311656846033699161","en":"You have reached the maximum number of cultivable fields.","ru":"Достигнут предел числа возделываемых полей."}
@@ -2604,7 +2604,7 @@
 {"id":"words:-9001776856561514699","en":"Reached {0} points","ru":"Достигнуто очков: {0}"}
 {"id":"words:-9002230051296498915","en":"Not Grazing: {0}","ru":"Не на выпасе: {0}"}
 {"id":"words:-9004757276470739987","en":"Purchase","ru":"Купить"}
-{"id":"words:-9004937617711617698","en":"The purchase period for this season's Wanderer's Log has ended.","ru":"Период покупки «Дневника странника» этого сезона завершён."}
+{"id":"words:-9004937617711617698","en":"The purchase period for this season's Travelogue has ended.","ru":"Период покупки дневника этого сезона завершён."}
 {"id":"words:-9005765163853991464","en":"Exploration Level","ru":"Уровень исследования"}
 {"id":"words:-9008321835267817840","en":"No recipe selected","ru":"Рецепт не выбран"}
 {"id":"words:-9012414444222865443","en":"Kibo Canteen","ru":"Столовая для кибо"}
@@ -2732,7 +2732,7 @@
 {"id":"words:1074413149437191714","en":"Downloading resources......\n Progress: %sGB/%sGB","ru":"Загрузка ресурсов......\n Прогресс: %sГБ/%sГБ"}
 {"id":"words:1077635110440059385","en":"Your friend list is full.","ru":"Ваш список друзей заполнен."}
 {"id":"words:1078094307027501855","en":"Please move the camera to the correct position.","ru":"Переместите камеру в правильное положение."}
-{"id":"words:1085817439009928618","en":"Purchased Wanderer's Log Recollection; Wanderer's Log level increased.","ru":"Куплено воспоминание из дневника странника; уровень дневника странника повышен."}
+{"id":"words:1085817439009928618","en":"Purchased Travelogue Recollection; Travelogue level increased.","ru":"Куплено воспоминание из дневника; уровень дневника повышен."}
 {"id":"words:1092917465178990072","en":"Single Mode description","ru":"Описание одиночного режима"}
 {"id":"words:1100116217312920019","en":"×{0} periods","ru":"×{0} периодов"}
 {"id":"words:1103496569942524745","en":"Remove friend?","ru":"Удалить друга?"}
@@ -3007,7 +3007,7 @@
 {"id":"words:1980523210959141174","en":"Cannot place here because ore and equipment overlap.","ru":"Нельзя разместить: руда и оборудование перекрываются."}
 {"id":"words:1981226134796670090","en":"[Kibo Arena System] self.playedStart is true::: return","ru":"[Система Арены кибо] self.playedStart is true::: return"}
 {"id":"words:198530184089080341","en":"The Kibo Hut is currently empty","ru":"Хижина кибо сейчас пуста"}
-{"id":"words:1985807953164514229","en":"Wanderer's Log Recollection","ru":"Воспоминание из дневника странника"}
+{"id":"words:1985807953164514229","en":"Travelogue Recollection","ru":"Воспоминание из дневника"}
 {"id":"words:1991996761327779578","en":"After purchase, raise to level <color=#da9926>{0}</color> and receive the following rewards.","ru":"После покупки уровень повысится до <color=#da9926>{0}</color>, и вы получите следующие награды."}
 {"id":"words:1992233514388526796","en":"Growth Period","ru":"Период роста"}
 {"id":"words:1997164553977032101","en":"Source Mutation","ru":"Мутация истока"}
@@ -3030,7 +3030,7 @@
 {"id":"words:2056126762647219278","en":"Moved the Kibo to a new shed.","ru":"Кибо перемещён в новую хижину."}
 {"id":"words:205703507496454183","en":"Kibo information acquired via Lens.","ru":"Информация о кибо получена через линзу."}
 {"id":"words:2057155231196140467","en":"You were one step away from completing the hunt. Get your revenge next round!","ru":"Ещё один шаг — и охота была бы завершена. Отыграйтесь в следующем заходе!"}
-{"id":"words:2057184152167083934","en":"Promilia Rambles Level Up This Season","ru":"Повышение уровня «Промилия: странствия» в этом сезоне"}
+{"id":"words:2057184152167083934","en":"Promilia Travelogue Level Up This Season","ru":"Повышение уровня «Дневника Промилии» в этом сезоне"}
 {"id":"words:2060284234249021419","en":"Deposit All","ru":"Вложить всё"}
 {"id":"words:2061112096782740140","en":"{0}0K","ru":"{0}0 тыс."}
 {"id":"words:2072313720085449541","en":"Claim Reward","ru":"Получить награду"}
@@ -3106,7 +3106,7 @@
 {"id":"words:2331166679073865237","en":"No trace of this Kibo was found in the current field.","ru":"В текущей области следы этого кибо не найдены."}
 {"id":"words:2331780585371927856","en":"Stamina {0} (Current {1})","ru":"Выносливость {0} (сейчас {1})"}
 {"id":"words:2335413881998525027","en":"With the stars that adorn the night sky, to a winter night's promise","ru":"Со звёздами, что украшают ночное небо, — к обещанию зимней ночи"}
-{"id":"words:2339136097923207122","en":"This season's Wanderer's Log cannot be repurchased right now.","ru":"Дневник странника этого сезона сейчас нельзя купить повторно."}
+{"id":"words:2339136097923207122","en":"This season's Travelogue cannot be repurchased right now.","ru":"Дневник этого сезона сейчас нельзя купить повторно."}
 {"id":"words:2340661999551478902","en":"Detailed Info","ru":"Подробная информация"}
 {"id":"words:2345688332781705865","en":"The scattered remains of the stone gate still bear ancient patterns that channel lightning.","ru":"На разбросанных обломках каменных врат до сих пор сохранились древние узоры, направляющие молнии."}
 {"id":"words:2356125959399920725","en":"Unlock","ru":"Разблокировать"}
@@ -3271,7 +3271,7 @@
 {"id":"words:2946986062389342982","en":"Edit","ru":"Изменить"}
 {"id":"words:2949403238250129359","en":"Cannot add more dishes; limit exceeded.","ru":"Нельзя добавить блюда: превышен лимит."}
 {"id":"words:2950248480443771106","en":"Level Up","ru":"Повысить уровень"}
-{"id":"words:2953975192528922535","en":"Unlock this season's Wanderer's Log","ru":"Разблокировать Дневник странника этого сезона"}
+{"id":"words:2953975192528922535","en":"Unlock this season's Travelogue","ru":"Разблокировать дневник этого сезона"}
 {"id":"words:2958583062315977263","en":"Close the Telop announcement?","ru":"Закрыть телоп-уведомление?"}
 {"id":"words:2963157243346808812","en":"You have all the materials needed for training. Return to the training target?","ru":"Все материалы для тренировки собраны. Вернуться к цели тренировки?"}
 {"id":"words:2966111752506777237","en":"Please select enhancement materials.","ru":"Выберите материалы для усиления."}
@@ -3678,7 +3678,7 @@
 {"id":"words:4253836263467392101","en":"You can add dishes at the Kibo Canteen.","ru":"В Столовой для кибо можно добавить блюда."}
 {"id":"words:426276770240449582","en":"There are fields that can be reclaimed. Use the Farm's cultivation mode to reclaim them.","ru":"Есть поля, доступные для освоения. Их можно освоить в режиме возделывания на ферме."}
 {"id":"words:4267231710373935795","en":"Level Up","ru":"Повышение уровня"}
-{"id":"words:4272942311668556462","en":"Unlock Wanderer's Log Recollection","ru":"Открыть Воспоминание из дневника странника"}
+{"id":"words:4272942311668556462","en":"Unlock Travelogue Recollection","ru":"Открыть воспоминание из дневника"}
 {"id":"words:4273172954766236427","en":"You don't have that dish. Make it at the Farm.","ru":"У вас нет этого блюда. Приготовьте его на ферме."}
 {"id":"words:4278852555158420127","en":"Blue","ru":"Синий"}
 {"id":"words:4281202186186786447","en":"Unlocked.","ru":"Открыто."}
@@ -3818,14 +3818,14 @@
 {"id":"words:4707189008552499620","en":"The player capsule overlaps an obstacle.","ru":"Капсула игрока пересекается с препятствием."}
 {"id":"words:4710017229595862414","en":"The following nodes were found. Select one to jump to it quickly.","ru":"Найдены следующие узлы. Выберите узел, чтобы быстро перейти к нему."}
 {"id":"words:4710311725501566597","en":"Elemental Affinity Notes","ru":"Заметки о стихийном соответствии"}
-{"id":"words:4718322812157128481","en":"Wanderer's Log Recollection","ru":"Воспоминание из дневника странника"}
+{"id":"words:4718322812157128481","en":"Travelogue Recollection","ru":"Воспоминание из дневника"}
 {"id":"words:47183521911811232","en":"Multi Fight","ru":"Мультибой"}
 {"id":"words:4719042175042264252","en":"The Pami Post Office cannot be opened in the current state.","ru":"Почтовое отделение Пами нельзя открыть в текущем состоянии."}
 {"id":"words:4720254816566516014","en":"Slightly Hungry","ru":"Слегка голоден"}
 {"id":"words:4721639505256483727","en":"Not enough Stella Cards.","ru":"Недостаточно карт звёзд."}
 {"id":"words:4722091509326958531","en":"Contains inappropriate characters","ru":"Содержит недопустимые символы"}
 {"id":"words:4730376800200594656","en":"Switch Selection","ru":"Переключить выбор"}
-{"id":"words:4738118971906974133","en":"Wanderer's Log","ru":"Дневник странника"}
+{"id":"words:4738118971906974133","en":"Travelogue","ru":"Дневник"}
 {"id":"words:4738304680894789003","en":"The material is equipped on {0}. Continue production?","ru":"Материал надет на {0}. Продолжить производство?"}
 {"id":"words:4739712543128539452","en":"Battle time has ended.","ru":"Время боя истекло."}
 {"id":"words:4746105597139896077","en":"Mute","ru":"Без звука"}
@@ -3874,7 +3874,7 @@
 {"id":"words:4855100171560102367","en":"Limited","ru":"Ограниченное"}
 {"id":"words:4863899684276741763","en":"All Kibo Huts are full. This Kibo will be temporarily stored in your mail, so please check soon.","ru":"Все хижины кибо заполнены. Этот кибо будет временно сохранён в почте, поэтому проверьте её поскорее."}
 {"id":"words:4864351609717411492","en":"Continue Delivery","ru":"Продолжить доставку"}
-{"id":"words:4865113742293563620","en":"You have reached this week's Wanderer's Log EXP limit. Completing Daily or Weekly Quests will not grant EXP.","ru":"Достигнут недельный лимит опыта Дневника странника. Выполнение ежедневных или еженедельных заданий не даст опыт."}
+{"id":"words:4865113742293563620","en":"You have reached this week's Travelogue EXP limit. Completing Daily or Weekly Quests will not grant EXP.","ru":"Достигнут недельный лимит опыта дневника. Выполнение ежедневных или еженедельных заданий не даст опыт."}
 {"id":"words:4868410960943644208","en":"Removing a Shining Factor will remove its shining effect. Continue?","ru":"При снятии блистающего фактора его блистающий эффект исчезнет. Продолжить?"}
 {"id":"words:4868724108001406531","en":"Continue Matchmaking","ru":"Продолжить подбор"}
 {"id":"words:4872531236107434132","en":"Totems remain active even when stored in the warehouse.","ru":"Тотемы сохраняют действие, даже если хранятся на складе."}
@@ -4328,7 +4328,7 @@
 {"id":"words:6234580321884176906","en":"Not enough currency to exchange.","ru":"Недостаточно валюты для обмена."}
 {"id":"words:6235703849852183325","en":"Reset current content?","ru":"Сбросить текущий контент?"}
 {"id":"words:6239823409328918190","en":"Always Available","ru":"Доступно всегда"}
-{"id":"words:62403771958663954","en":"Claim Wanderer's Log Anima","ru":"Получить аниму Дневника странника"}
+{"id":"words:62403771958663954","en":"Claim Travelogue Anima","ru":"Получить аниму дневника"}
 {"id":"words:6244764319994876854","en":"Alchemy","ru":"Алхимия"}
 {"id":"words:6247038005394323188","en":"Friends: {0}/{1}","ru":"Друзья: {0}/{1}"}
 {"id":"words:6247435763815112895","en":"Select All","ru":"Выбрать всё"}
@@ -4498,7 +4498,7 @@
 {"id":"words:6761057660400290219","en":"All Ready","ru":"Все готовы"}
 {"id":"words:6762538476972530050","en":"Shopping Guide","ru":"Руководство по покупкам"}
 {"id":"words:6763488647687310786","en":"{0} sec","ru":"{0} с"}
-{"id":"words:6763922657145748411","en":"Wanderer's Log Level","ru":"Уровень дневника странника"}
+{"id":"words:6763922657145748411","en":"Travelogue Level","ru":"Уровень дневника"}
 {"id":"words:6765052563240641224","en":"Applying {0}...","ru":"Применение {0}..."}
 {"id":"words:6767814232161812352","en":"You don't own any Kibo that can use this outfit. Purchase it?","ru":"У вас нет кибо, который может использовать этот наряд. Купить?"}
 {"id":"words:6772348370695552005","en":"Overall Rating","ru":"Общая оценка"}
@@ -4682,7 +4682,7 @@
 {"id":"words:7247090787761986674","en":"Enter another player's UID.","ru":"Введите UID другого игрока."}
 {"id":"words:7250744962344639314","en":"Korean","ru":"Корейский"}
 {"id":"words:7252507940297043330","en":"Select Anima {0}?","ru":"Выбрать аниму {0}?"}
-{"id":"words:7253703602889151676","en":"Promilia Rambles","ru":"Промилия: странствия"}
+{"id":"words:7253703602889151676","en":"Promilia Travelogue","ru":"Дневник Промилии"}
 {"id":"words:7254437969181953775","en":"Difficulty Points","ru":"Очки сложности"}
 {"id":"words:7255854315420683627","en":"Select a character or Kibo first.","ru":"Сначала выберите персонажа или кибо."}
 {"id":"words:7256122286200030475","en":"Unenhanced","ru":"Не усилено"}
@@ -5047,7 +5047,7 @@
 {"id":"words:8217628912869591229","en":"Changes saved.","ru":"Изменения сохранены."}
 {"id":"words:8217922229010711799","en":"Max Kibo working on the Farm","ru":"Макс. число кибо на ферме"}
 {"id":"words:822023051878362130","en":"Hello","ru":"Здравствуйте"}
-{"id":"words:8223087492865742573","en":"Wanderer's Log Recollection","ru":"Воспоминание из дневника странника"}
+{"id":"words:8223087492865742573","en":"Travelogue Recollection","ru":"Воспоминание из дневника"}
 {"id":"words:822570242010255510","en":"Follow Han Youyou","ru":"Следовать за Хань Юю"}
 {"id":"words:8226990608086463952","en":"Glossary","ru":"Словарь терминов"}
 {"id":"words:823486544710701705","en":"Cannot receive: the Kibo Hut is full or locked.","ru":"Нельзя получить: хижина кибо заполнена или заблокирована."}
@@ -5078,7 +5078,7 @@
 {"id":"words:8322587256072973718","en":"Water","ru":"Полив"}
 {"id":"words:8323056567975525816","en":"Order Board","ru":"Доска заказов"}
 {"id":"words:8328233808204395288","en":"Advance the main story to unlock the quest.","ru":"Продвиньтесь по основной сюжетной линии, чтобы открыть задание."}
-{"id":"words:8330645266882867839","en":"This season's {0} is already unlocked and cannot be used. It will become available after the next Wanderer's Log begins.","ru":"{0} текущего сезона уже разблокирован(а) и не может быть использован(а). Это станет доступно после начала следующего «Дневника странника»."}
+{"id":"words:8330645266882867839","en":"This season's {0} is already unlocked and cannot be used. It will become available after the next Travelogue begins.","ru":"{0} текущего сезона уже разблокирован(а) и не может быть использован(а). Это станет доступно после начала следующего сезона дневника."}
 {"id":"words:8334917514803261048","en":"Random Trait","ru":"Случайная характеристика"}
 {"id":"words:8339630502151051928","en":"<color=#4F525D> (Bond Level reaches </color><color=#27AE89>{0}</color><color=#4F525D>)</color>","ru":"<color=#4F525D> (уровень связи достигает </color><color=#27AE89>{0}</color><color=#4F525D>)</color>"}
 {"id":"words:8343264777536735609","en":"Hold the attack button to take a defensive stance, then release it after 3 seconds or upon taking a hit to counterattack {0}/{1}","ru":"Удерживайте кнопку атаки, чтобы принять защитную стойку, затем отпустите её через 3 с или после получения удара для контратаки {0}/{1}"}
