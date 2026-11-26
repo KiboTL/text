@@ -31,7 +31,7 @@
 {"id":"pc_button_hint:42949673216","en":"End Farming <actionkey>UI/Cancel</actionkey>","ru":"Закончить возделывание <actionkey>UI/Cancel</actionkey>"}
 {"id":"pc_button_hint:4294967552","en":"Place <actionkey>PagePlayerEditInput/HomePlayerBuilding</actionkey>","ru":"Разместить <actionkey>PagePlayerEditInput/HomePlayerBuilding</actionkey>"}
 {"id":"pc_button_hint:47244640512","en":"Summon Kibo <actionkey>MainInput/MainHideShowPet</actionkey>","ru":"Призвать кибо <actionkey>MainInput/MainHideShowPet</actionkey>"}
-{"id":"pc_button_hint:51539607808","en":"Recall Kibo <actionkey>MainInput/MainHideShowPet</actionkey>","ru":"Отозвать кибо <actionkey>MainInput/MainHideShowPet</actionkey>"}
+{"id":"pc_button_hint:51539607808","en":"Recall <actionkey>MainInput/MainHideShowPet</actionkey>","ru":"Отозвать <actionkey>MainInput/MainHideShowPet</actionkey>"}
 {"id":"pc_button_hint:55834575104","en":"2× Take Off <actionkeydouble>MainInput/MainFlyUp</actionkeydouble>","ru":"Взлёт: 2× <actionkeydouble>MainInput/MainFlyUp</actionkeydouble>"}
 {"id":"pc_button_hint:60129542400","en":"Altitude Up <actionkey>MainInput/MainFlyUp</actionkey>","ru":"Выше <actionkey>MainInput/MainFlyUp</actionkey>"}
 {"id":"pc_button_hint:64424509696","en":"Altitude Down <actionkey>MainInput/MainFlyFall</actionkey>","ru":"Ниже <actionkey>MainInput/MainFlyFall</actionkey>"}
