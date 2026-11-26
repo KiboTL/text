@@ -3459,11 +3459,11 @@
 {"id":"skill:85891614978868480","en":"EX Intensity +110","ru":"интенсивность EX +110"}
 {"id":"skill:85891619273835776","en":"When the wearer consumes a Sigil, EX Damage dealt increases by 7% for 15s. Max 3 stacks.","ru":"Когда носитель расходует Печать, урон EX повышается на 7% на 15 сек. Макс. зарядов: 3."}
 {"id":"skill:85891623568803072","en":"EX CRIT +8%","ru":"крит. урон EX +8%"}
-{"id":"skill:85891627863770368","en":"When the wearer enters the field, their EX Intensity increases by 175 for 15s. \nWhen the wearer activates Overdrive, their DEF Penetration increases by 8% for 15s.","ru":"Когда носитель выходит на поле, его интенсивность EX повышается на 175 на 15 сек. \nКогда носитель активирует Овердрайв, его пробитие защиты повышается на 8% на 15 сек."}
+{"id":"skill:85891627863770368","en":"When the wearer enters the field, their EX Intensity increases by 175 for 15s.\nWhen the wearer activates Overdrive, their DEF Penetration increases by 8% for 15s.","ru":"Когда носитель выходит на поле, его интенсивность EX повышается на 175 на 15 сек.\nКогда носитель активирует Овердрайв, его пробитие защиты повышается на 8% на 15 сек."}
 {"id":"skill:85891632158737664","en":"CRIT Rate +8%","ru":"шанс крита +8%"}
 {"id":"skill:85891636453704960","en":"Each time a CRIT hits, the wearer's Crit DMG increases by 3.5% for 15s, up to 10 stacks.","ru":"При каждом крит. попадании крит. урон носителя повышается на 3.5% на 15 сек. Макс. зарядов: 10."}
 {"id":"skill:85891640748672256","en":"ATK +10%","ru":"сила атаки +10%"}
-{"id":"skill:85891645043639552","en":"When the wearer enters the field, their ATK increases by 12% for 15s. \nWhen dealing damage to a Broken enemy, ATK increases by 8% for 15s.","ru":"Когда носитель выходит на поле, его сила атаки повышается на 12% на 15 сек. \nПри нанесении урона противнику в состоянии Прорыва сила атаки повышается на 8% на 15 сек."}
+{"id":"skill:85891645043639552","en":"When the wearer enters the field, their ATK increases by 12% for 15s.\nWhen dealing damage to a Broken enemy, ATK increases by 8% for 15s.","ru":"Когда носитель выходит на поле, его сила атаки повышается на 12% на 15 сек.\nПри нанесении урона противнику в состоянии Прорыва сила атаки повышается на 8% на 15 сек."}
 {"id":"skill:85891649338606848","en":"ATK +10%","ru":"сила атаки +10%"}
 {"id":"skill:85891653633574144","en":"After the wearer uses a Starecho Skill, all party members' All-Attribute DMG increases by 14% for 24s.","ru":"После использования носителем Навыка звёздного эха урон всех атрибутов всего отряда повышается на 14% на 24 сек."}
 {"id":"skill:85891657928541440","en":"EX Intensity +110","ru":"интенсивность EX +110"}
@@ -3483,7 +3483,7 @@
 {"id":"skill:85891718058083584","en":"Energy Recharge Efficiency increases by 5%","ru":"Эффективность восстановления энергии повышается на 5%"}
 {"id":"skill:85891722353050880","en":"After the wearer uses a Starecho Skill, the entire party's Ultimate Energy Regen increases by 20% for 12s. Does not stack.","ru":"После использования носителем Навыка звёздного эха Эффективность энергии высшего искусства всего отряда повышается на 20% на 12 сек. Не складывается."}
 {"id":"skill:85891726648018176","en":"DEF +15%, Uses [6]","ru":"защита +15%, использования [6]"}
-{"id":"skill:85891730942985472","en":"When the active character's HP falls below 30%, DEF increases by 35% and they gain a Shield equal to 1,000% of the wearer's DEF for 30s. \nThis effect can trigger up to 1 times every 60s. \nCan also trigger while off-field. [6]","ru":"Когда здоровье активного персонажа опускается ниже 30%, защита повышается на 35%, и персонаж получает Щит в размере 1,000% от защиты носителя на 30 сек. \nЭффект может срабатывать до 1 раз каждые 60 сек. \nСрабатывает и вне поля. [6]"}
+{"id":"skill:85891730942985472","en":"When the active character's HP falls below 30%, DEF increases by 35% and they gain a Shield equal to 1,000% of the wearer's DEF for 30s.\nThis effect can trigger up to 1 times every 60s.\nCan also trigger while off-field. [6]","ru":"Когда здоровье активного персонажа опускается ниже 30%, защита повышается на 35%, и персонаж получает Щит в размере 1,000% от защиты носителя на 30 сек.\nЭффект может срабатывать до 1 раз каждые 60 сек.\nСрабатывает и вне поля. [6]"}
 {"id":"skill:85898920718238976","en":"All-Out Assault","ru":"Всеобщее наступление"}
 {"id":"skill:85898925013206272","en":"Emergency Defense","ru":"Экстренная защита"}
 {"id":"skill:85898929308173568","en":"Ample Reserves","ru":"Достаточный запас"}

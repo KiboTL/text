@@ -734,7 +734,7 @@
 {"id":"errorCode:51750060949760","en":"This treasure chest cannot be claimed right now.","ru":"Сейчас этот сундук с сокровищами нельзя получить."}
 {"id":"errorCode:51754355917056","en":"This treasure chest cannot be claimed right now.","ru":"Сейчас этот сундук с сокровищами нельзя получить."}
 {"id":"errorCode:51758650884352","en":"This treasure chest cannot be claimed right now.","ru":"Сейчас этот сундук с сокровищами нельзя получить."}
-{"id":"errorCode:51762945851648","en":"1The daily claim limit has been reached.","ru":"1Достигнут предел ежедневных получений."}
+{"id":"errorCode:51762945851648","en":"The daily claim limit has been reached.","ru":"Достигнут предел ежедневных получений."}
 {"id":"errorCode:51767240818944","en":"You've reached the weekly claim limit.","ru":"Достигнут недельный предел получений."}
 {"id":"errorCode:51771535786240","en":"Not enough Primordial Tide.","ru":"Недостаточно Первозданного прилива."}
 {"id":"errorCode:51775830753536","en":"This map has not been explored yet.","ru":"Эта карта ещё не исследована."}

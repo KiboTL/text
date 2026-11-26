@@ -57,7 +57,7 @@
 {"id":"train_task:867583395072","en":"Elemental Affinity","ru":"Стихийное соответствие"}
 {"id":"train_task:867583395584","en":"Elements have affinities with one another. Pay attention to the enemy's element.","ru":"Стихии имеют взаимное соответствие. Обращай внимание на стихию противника."}
 {"id":"train_task:871878362368","en":"Sigil EX","ru":"EX-печать"}
-{"id":"train_task:871878362880","en":"Certain skills of characters and Kibo can grant sigils to the team or consume a set number of sigils to deal EX Damage of the corresponding element and trigger additional effects. \nLet's check it out.","ru":"Некоторые навыки персонажей и кибо могут накладывать печати на отряд или расходовать определённое число печатей, чтобы нанести урон EX соответствующей стихии и вызвать дополнительные эффекты. \nДавайте проверим."}
+{"id":"train_task:871878362880","en":"Certain skills of characters and Kibo can grant sigils to the team or consume a set number of sigils to deal EX Damage of the corresponding element and trigger additional effects.\nLet's check it out.","ru":"Некоторые навыки персонажей и кибо могут накладывать печати на отряд или расходовать определённое число печатей, чтобы нанести урон EX соответствующей стихии и вызвать дополнительные эффекты.\nДавайте проверим."}
 {"id":"train_task:876173329664","en":"Evade Counter","ru":"Контратака после уклонения"}
 {"id":"train_task:876173330176","en":"When an enemy launches a powerful attack, respond with Evade or Counter.","ru":"Когда противник готовит мощную атаку, отвечай Уклонением или Контратакой."}
 {"id":"train_task:880468296960","en":"Starlink Attack","ru":"Атака звёздной связи"}

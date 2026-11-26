@@ -82,7 +82,7 @@
 {"id":"char_voice_words_battle:433821761682944","en":"Let's sortie together!","ru":"Выступаем вместе!"}
 {"id":"char_voice_words_battle:433821761683200","en":"Show them your true power!","ru":"Покажи им свою истинную силу!"}
 {"id":"char_voice_words_battle:433821761683456","en":"How about it? Want to learn kung fu from Pengpeng?","ru":"Ну как? Хочешь научиться кунг-фу у Пэнпэн?"}
-{"id":"char_voice_words_battle:433821761683712","en":"Practice! \nThat was just practice!","ru":"Тренировка! \nЭто была всего лишь тренировка!"}
+{"id":"char_voice_words_battle:433821761683712","en":"Practice!\nThat was just practice!","ru":"Тренировка!\nЭто была всего лишь тренировка!"}
 {"id":"char_voice_words_battle:433821761683968","en":"H-hey! Next time I won't let you get away!","ru":"Э-эй! В следующий раз не уйдёшь!"}
 {"id":"char_voice_words_battle:433826056634624","en":"Peipei","ru":"Пэйпэй"}
 {"id":"char_voice_words_battle:433826056635136","en":"Will you be Peipei's friend?","ru":"Ты будешь другом Пэйпэй?"}
@@ -483,7 +483,7 @@
 {"id":"char_voice_words_battle:463860762943232","en":"Just a little more... Hah!","ru":"Ещё чуть-чуть... Ха!"}
 {"id":"char_voice_words_battle:463860762943488","en":"All right! I'm gonna go all out!","ru":"Так! Сейчас как следует поразвлечёмся!"}
 {"id":"char_voice_words_battle:463860762943744","en":"This isn't a game!","ru":"Это тебе не игра!"}
-{"id":"char_voice_words_battle:463860762944000","en":"You wanna go? \nCome on, then!","ru":"Хочешь подраться? \nНу давай, подходи!"}
+{"id":"char_voice_words_battle:463860762944000","en":"You wanna go?\nCome on, then!","ru":"Хочешь подраться?\nНу давай, подходи!"}
 {"id":"char_voice_words_battle:463860762944256","en":"W-what's wrong?","ru":"Ч-что случилось?"}
 {"id":"char_voice_words_battle:463860762944512","en":"Hey now!?","ru":"Эй-эй!?"}
 {"id":"char_voice_words_battle:463860762944768","en":"Q-quick, do something!","ru":"Быстрее что-нибудь придумай!"}
@@ -500,8 +500,8 @@
 {"id":"char_voice_words_battle:463860762948864","en":"I'm going all out!","ru":"Теперь всерьёз!"}
 {"id":"char_voice_words_battle:463860762949120","en":"That one can't hold out much longer!","ru":"Оно долго не продержится!"}
 {"id":"char_voice_words_battle:463860762949376","en":"Keep it up! Just a little more!","ru":"Давай! Ещё немного!"}
-{"id":"char_voice_words_battle:463860762949632","en":"Whoa! \nThat was close!","ru":"Ух ты! \nВот это было опасно!"}
-{"id":"char_voice_words_battle:463860762949888","en":"Everyone, watch out! \nIt's plotting something!","ru":"Все, берегитесь! \nОно что-то задумало!"}
+{"id":"char_voice_words_battle:463860762949632","en":"Whoa!\nThat was close!","ru":"Ух ты!\nВот это было опасно!"}
+{"id":"char_voice_words_battle:463860762949888","en":"Everyone, watch out!\nIt's plotting something!","ru":"Все, берегитесь!\nОно что-то задумало!"}
 {"id":"char_voice_words_battle:463860762950144","en":"Hey, you cheating on us?","ru":"Эй, ты жульничать вздумало?"}
 {"id":"char_voice_words_battle:463860762950400","en":"Wait, I smell a new enemy...","ru":"Погодите, я чую нового врага..."}
 {"id":"char_voice_words_battle:463860762950656","en":"W-what is this...","ru":"Ч-что это такое..."}
@@ -725,7 +725,7 @@
 {"id":"char_voice_words_battle:468160025214720","en":"Roirei, carve our path to victory!","ru":"Луар, проложи нам путь к победе!"}
 {"id":"char_voice_words_battle:468160025214976","en":"Here, open your heart?","ru":"Ну же, открой своё сердце?"}
 {"id":"char_voice_words_battle:468160025215232","en":"Urgh... this is harder than a lance.","ru":"Уф... с копьём-то проще."}
-{"id":"char_voice_words_battle:468160025215488","en":"No reaction. \nDo we still not have enough?","ru":"Нет отклика. \nМожет, этого всё ещё недостаточно?"}
+{"id":"char_voice_words_battle:468160025215488","en":"No reaction.\nDo we still not have enough?","ru":"Нет отклика.\nМожет, этого всё ещё недостаточно?"}
 {"id":"char_voice_words_battle:476745664823552","en":"Faridah","ru":"Фарида"}
 {"id":"char_voice_words_battle:476745664824064","en":"We are looking at the same sky.","ru":"Мы смотрим на одно и то же небо."}
 {"id":"char_voice_words_battle:476745664827648","en":"What I must do... still...","ru":"То, что я должна сделать... ещё..."}

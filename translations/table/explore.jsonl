@@ -131,7 +131,7 @@
 {"id":"explore:429519067724909568","en":"Mine","ru":"Шахта"}
 {"id":"explore:429519067724909824","en":"Increases daily output of <color=#3f892e>Glimmertin</color> at the <color=#3f892e>Glimmertin Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>мерцающего олова</color> <color=#3f892e>на руднике мерцающего олова</color>."}
 {"id":"explore:429519072019876864","en":"Gathering Hut","ru":"Хижина сбора"}
-{"id":"explore:429519072019877120","en":"<color=#3f892e>Orchard</color>: fruit 1daily yield increased","ru":"<color=#3f892e>Сад</color>: суточный прирост 1фруктов"}
+{"id":"explore:429519072019877120","en":"<color=#3f892e>Orchard</color>: daily fruit yield increased","ru":"<color=#3f892e>Сад</color>: увеличен ежедневный сбор фруктов"}
 {"id":"explore:429519076314844160","en":"Feeding Ground","ru":"Кормушка"}
 {"id":"explore:429519076314844416","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Tattered Beast Hide</color> and <color=#3f892e>Fine Beast Hide</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>рваной шкуры зверя</color> и <color=#3f892e>хорошей шкуры зверя</color>1"}
 {"id":"explore:429519926718368768","en":"Scenic Spot","ru":"Живописное место"}
@@ -154,11 +154,11 @@
 {"id":"explore:433796855151725568","en":"Lumberyard","ru":"Лесопилка"}
 {"id":"explore:433796855151725824","en":"<color=#3f892e>Orchard</color>: unlocks <color=#3f892e>Hardwood</color> production","ru":"<color=#3f892e>Сад</color>: открывает добычу <color=#3f892e>твёрдой древесины</color>"}
 {"id":"explore:433796859446692864","en":"Mine","ru":"Шахта"}
-{"id":"explore:433796859446693120","en":"<color=#3f892e>Mirror Iron Mine</color>: <color=#3f892e>Mirror Iron</color> 1daily yield increased","ru":"<color=#3f892e>Рудник зеркального железа</color>: суточный прирост <color=#3f892e>зеркального железа</color>1"}
+{"id":"explore:433796859446693120","en":"<color=#3f892e>Mirror Iron Mine</color>: <color=#3f892e>Mirror Iron</color> daily yield increased","ru":"<color=#3f892e>Рудник зеркального железа</color>: суточный прирост <color=#3f892e>зеркального железа</color>1"}
 {"id":"explore:433796863741660160","en":"Elemental Altar","ru":"Элементальный алтарь"}
 {"id":"explore:433796863741660416","en":"Increases the storage limit for <color=#3f892e>Elemental Particles</color>.","ru":"Увеличивает предел хранения <color=#3f892e>элементарных частиц</color>."}
 {"id":"explore:433796868036627456","en":"Gathering Hut","ru":"Хижина сбора"}
-{"id":"explore:433796868036627712","en":"<color=#3f892e>Orchard</color>: fruit 1daily yield increased","ru":"<color=#3f892e>Сад</color>: суточный прирост 1фруктов"}
+{"id":"explore:433796868036627712","en":"<color=#3f892e>Orchard</color>: daily fruit yield increased","ru":"<color=#3f892e>Сад</color>: увеличен ежедневный сбор фруктов"}
 {"id":"explore:433796872331594752","en":"Feeding Ground","ru":"Кормушка"}
 {"id":"explore:433796872331595008","en":"Additionally unlocks Kibo Egg production at <color=#3f892e>the Feeding Ground</color>.","ru":"Дополнительно открывает производство яиц кибо в <color=#3f892e>кормушке</color>."}
 {"id":"explore:433797284648455168","en":"Ceresha","ru":"Цереша"}
@@ -197,7 +197,7 @@
 {"id":"explore:433801150119021568","en":"Quarry","ru":"Каменоломня"}
 {"id":"explore:433801150119021824","en":"Increases daily output of <color=#3f892e>Hardrock</color> and <color=#3f892e>Azure Crystals</color> at the <color=#3f892e>Mirror Iron Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>крепкого камня</color> и <color=#3f892e>лазурных кристаллов</color> <color=#3f892e>на руднике зеркального железа</color>."}
 {"id":"explore:433801154413988864","en":"Mine","ru":"Шахта"}
-{"id":"explore:433801154413989120","en":"<color=#3f892e>Mirror Iron Mine</color>: <color=#3f892e>Mirror Iron</color> 1daily yield increased","ru":"<color=#3f892e>Рудник зеркального железа</color>: суточный прирост <color=#3f892e>зеркального железа</color>1"}
+{"id":"explore:433801154413989120","en":"<color=#3f892e>Mirror Iron Mine</color>: <color=#3f892e>Mirror Iron</color> daily yield increased","ru":"<color=#3f892e>Рудник зеркального железа</color>: суточный прирост <color=#3f892e>зеркального железа</color>1"}
 {"id":"explore:433801158708956160","en":"Elemental Altar","ru":"Элементальный алтарь"}
 {"id":"explore:433801158708956416","en":"Increases the daily output of <color=#3f892e>Elemental Particles</color>.","ru":"Увеличивает ежедневное производство <color=#3f892e>элементарных частиц</color>."}
 {"id":"explore:433801163003923456","en":"Starlight Mine","ru":"Шахта звёздного сияния"}

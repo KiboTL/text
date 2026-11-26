@@ -1440,7 +1440,7 @@
 {"id":"buff_info:236352479795610112","en":"Triple Storm","ru":"Тройная буря"}
 {"id":"buff_info:236352479795610368","en":"Every 10 seconds, summons 3 rotating tornadoes around the user. Each tornado deals <color=#d2915d>Wind DMG</color>.","ru":"Раз в 10 секунд создаёт вокруг владельца 3 вращающихся смерча. Каждый наносит <color=#d2915d>урон ветром</color>."}
 {"id":"buff_info:236352909292339712","en":"Rampage","ru":"Буйство"}
-{"id":"buff_info:236352909292339968","en":"Increases your ATK and reduces your DEF. Also grants Lifesteal. \n Lifesteal: Restores HP after dealing damage to enemies.","ru":"Повышает вашу атаку и снижает защиту. Также дарует «Похищение жизни». \n «Похищение жизни»: восстанавливает здоровье после нанесения урона целям."}
+{"id":"buff_info:236352909292339968","en":"Increases your ATK and reduces your DEF. Also grants Lifesteal.\n Lifesteal: Restores HP after dealing damage to enemies.","ru":"Повышает вашу атаку и снижает защиту. Также дарует «Похищение жизни».\n «Похищение жизни»: восстанавливает здоровье после нанесения урона целям."}
 {"id":"buff_info:236353338789069312","en":"Whirlwind Orb","ru":"Сфера вихря"}
 {"id":"buff_info:236353338789069568","en":"Every 20 sec, fire a wind orb at the enemy's position, creating a wide wind zone. Pulls enemies toward the orb and deals <color=#d2915d> Wind Attribute DMG </color>.","ru":"Каждые 20 сек выпускает ветряную сферу к позиции цели, создавая широкую ветряную зону. Притягивает цели к сфере и наносит <color=#d2915d> Ветряной атрибут урона </color>."}
 {"id":"buff_info:236353768285798912","en":"Wind Blade Barrage","ru":"Шквал ветряных клинков"}
@@ -1455,7 +1455,7 @@
 {"id":"buff_info:236395871850201856","en":"HP continuously decreases.","ru":"HP непрерывно снижается."}
 {"id":"buff_info:236395871850202624","en":"Bleed","ru":"Кровотечение"}
 {"id":"buff_info:236396717958758912","en":"Tracking Thorns","ru":"Шипы-преследователи"}
-{"id":"buff_info:236396717958759168","en":"Each time you use a skill, grow thorns around yourself, then launch them in a straight line at enemies. Inflicts Laceration on enemies hit. \n Laceration: Deals <color=#83959d> Non-elemental damage </color> to the enemy every 1 sec.","ru":"Каждый раз при использовании навыка выращивает вокруг себя шипы, а затем выпускает их по прямой в цели. Накладывает «Рассечение» на попавшие под действие цели. \n «Рассечение»: наносит <color=#83959d> урона без элемента </color> цели каждые 1 сек."}
+{"id":"buff_info:236396717958759168","en":"Each time you use a skill, grow thorns around yourself, then launch them in a straight line at enemies. Inflicts Laceration on enemies hit.\n Laceration: Deals <color=#83959d> Non-elemental damage </color> to the enemy every 1 sec.","ru":"Каждый раз при использовании навыка выращивает вокруг себя шипы, а затем выпускает их по прямой в цели. Накладывает «Рассечение» на попавшие под действие цели.\n «Рассечение»: наносит <color=#83959d> урона без элемента </color> цели каждые 1 сек."}
 {"id":"buff_info:236397147455488512","en":"Nature Shield","ru":"Щит природы"}
 {"id":"buff_info:236397147455488768","en":"Grants self a Shield equal to 10% of Max HP.","ru":"Даёт себе щит в размере 10% от макс. HP."}
 {"id":"buff_info:236438379141530112","en":"Stone Pillar Barrage","ru":"Плотный строй каменных столбов"}
@@ -2371,7 +2371,7 @@
 {"id":"buff_info:463879828295123712","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:463879828295124480","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:468156889872466432","en":"Sparkle","ru":"мерцание"}
-{"id":"buff_info:468156889872466688","en":"The 4st and 5nd hits of Normal Attacks are enhanced.","ru":"4-й и 5-й удары обычной атаки усиливаются."}
+{"id":"buff_info:468156889872466688","en":"The 4th and 5th hits of Normal Attacks are enhanced.","ru":"4-й и 5-й удары обычной атаки усиливаются."}
 {"id":"buff_info:468156889872467456","en":"Sparkle","ru":"мерцание"}
 {"id":"buff_info:468157310779261440","en":"Kesa Slash","ru":"Косой удар"}
 {"id":"buff_info:468157310779261696","en":"EX Intensity increases by 30%.","ru":"Интенсивность EX повышается на 30%."}

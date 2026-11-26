@@ -62,11 +62,11 @@
 {"id":"char_voice_words_explore:433804581814528","en":"Wha—!","ru":"Что—!"}
 {"id":"char_voice_words_explore:433804581814784","en":"Flying Leap!","ru":"Небесный прыжок!"}
 {"id":"char_voice_words_explore:433821761667328","en":"Pengpeng","ru":"Пэнпэн"}
-{"id":"char_voice_words_explore:433821761668096","en":"Morning's the best time to practice Internal Force. \nCome on, heeere we go!","ru":"Внутреннюю силу лучше всего тренировать утром. \nДавай, на-чи-на-ем!"}
-{"id":"char_voice_words_explore:433821761668352","en":"I'm starving~... \nTime to eat soon. \n\nWhat, it's only been 1 since the last meal? \nNo way!","ru":"Урчит в животе~... \nПора бы уже поесть. \n\nКак, с прошлого приёма пищи прошло всего 1? \nДа не может быть!"}
-{"id":"char_voice_words_explore:433821761668608","en":"I worked hard at practice today too! \nAs a reward... a feast!","ru":"Сегодня я тоже усердно тренировалась! \nВ награду... пир!"}
+{"id":"char_voice_words_explore:433821761668096","en":"Morning's the best time to practice Internal Force.\nCome on, heeere we go!","ru":"Внутреннюю силу лучше всего тренировать утром.\nДавай, на-чи-на-ем!"}
+{"id":"char_voice_words_explore:433821761668352","en":"I'm starving~...\nTime to eat soon.\n\nWhat, it's only been 1 since the last meal?\nNo way!","ru":"Урчит в животе~...\nПора бы уже поесть.\n\nКак, с прошлого приёма пищи прошло всего 1?\nДа не может быть!"}
+{"id":"char_voice_words_explore:433821761668608","en":"I worked hard at practice today too!\nAs a reward... a feast!","ru":"Сегодня я тоже усердно тренировалась!\nВ награду... пир!"}
 {"id":"char_voice_words_explore:433821761668864","en":"The sun's so warm and nice... zzz...","ru":"Солнышко такое тёплое и приятное... сопи-сопи..."}
-{"id":"char_voice_words_explore:433821761669120","en":"I hate rainy days! \nMy tail gets heavy and walking's... hard... \nW-well, I guess it's just right for practice!","ru":"Не люблю дождливые дни! \nХвост становится тяжёлым, и идти... тяжело... \nН-ну, зато для тренировки в самый раз!"}
+{"id":"char_voice_words_explore:433821761669120","en":"I hate rainy days!\nMy tail gets heavy and walking's... hard...\nW-well, I guess it's just right for practice!","ru":"Не люблю дождливые дни!\nХвост становится тяжёлым, и идти... тяжело...\nН-ну, зато для тренировки в самый раз!"}
 {"id":"char_voice_words_explore:433821761669376","en":"What is it? Hurry, show me!","ru":"Что там? Ну скорее показывай!"}
 {"id":"char_voice_words_explore:433821761669632","en":"I wonder if there's a secret martial arts manual in there.","ru":"Может, внутри есть секретный трактат по боевым искусствам?"}
 {"id":"char_voice_words_explore:433821761669888","en":"So heavy... Here, hold this for a sec!","ru":"Тяжело-о... Подержи-ка вот это!"}
@@ -80,10 +80,10 @@
 {"id":"char_voice_words_explore:433821761671936","en":"Oooh, smart one!","ru":"Ого, умно!"}
 {"id":"char_voice_words_explore:433821761672192","en":"Like this... and like this... Yep, got it!","ru":"Вот так... и вот так... Ага, запомнила!"}
 {"id":"char_voice_words_explore:433821761672448","en":"Huh?! This isn't good enough?!","ru":"А? Этого что, недостаточно?!"}
-{"id":"char_voice_words_explore:433821761672704","en":"Mmm... What are we missing... \nYou, figure something out!","ru":"Ммм... Чего же не хватает... \nТы давай, придумай что-нибудь!"}
+{"id":"char_voice_words_explore:433821761672704","en":"Mmm... What are we missing...\nYou, figure something out!","ru":"Ммм... Чего же не хватает...\nТы давай, придумай что-нибудь!"}
 {"id":"char_voice_words_explore:433821761672960","en":"It's Pengpeng's turn!","ru":"Теперь очередь Пэнпэн!"}
-{"id":"char_voice_words_explore:433821761673216","en":"A-amazing...! \nI've never seen a building like this!\nBut what are we supposed to do up there...?","ru":"О-ого...! \nТаких зданий я ещё не видела!\nНо что там наверху делать...?"}
-{"id":"char_voice_words_explore:433821761673472","en":"First time I've seen anything like this. \nWhat's it even used for...?","ru":"Впервые такое вижу. \nИ для чего это вообще...?"}
+{"id":"char_voice_words_explore:433821761673216","en":"A-amazing...!\nI've never seen a building like this!\nBut what are we supposed to do up there...?","ru":"О-ого...!\nТаких зданий я ещё не видела!\nНо что там наверху делать...?"}
+{"id":"char_voice_words_explore:433821761673472","en":"First time I've seen anything like this.\nWhat's it even used for...?","ru":"Впервые такое вижу.\nИ для чего это вообще...?"}
 {"id":"char_voice_words_explore:433821761673728","en":"That one's an enemy!","ru":"Этот — враг!"}
 {"id":"char_voice_words_explore:433821761673984","en":"Even for a Kung Fu Master, enemies at this level need some care!","ru":"Даже мастеру кунг-фу нужно быть осторожной с врагами такого уровня!"}
 {"id":"char_voice_words_explore:433821761674240","en":"Whoa, we've been spotted!","ru":"Ух, нас заметили!"}
@@ -92,7 +92,7 @@
 {"id":"char_voice_words_explore:433821761675008","en":"This is what Pengpeng can do!","ru":"Вот на что способна Пэнпэн!"}
 {"id":"char_voice_words_explore:433821761675264","en":"I-I was just going easy on you!","ru":"Я-я просто поддалась!"}
 {"id":"char_voice_words_explore:433821761675520","en":"No, no! That was a fluke!","ru":"Не-ет! Это случайность!"}
-{"id":"char_voice_words_explore:433821761675776","en":"Not bad! \nHow about a sparring match with Pengpeng next time?","ru":"Неплохо! \nМожет, в следующий раз сойдёшься со мной в спарринге?"}
+{"id":"char_voice_words_explore:433821761675776","en":"Not bad!\nHow about a sparring match with Pengpeng next time?","ru":"Неплохо!\nМожет, в следующий раз сойдёшься со мной в спарринге?"}
 {"id":"char_voice_words_explore:433821761676032","en":"Guess I didn't even need to step in!","ru":"Похоже, Пэнпэн даже не пришлось вмешиваться!"}
 {"id":"char_voice_words_explore:433821761676288","en":"We're the strongest, so there's no way we'd lose!","ru":"Мы же самые сильные, с чего бы нам проигрывать!"}
 {"id":"char_voice_words_explore:433821761676544","en":"Aren't you hungry? Let's eat something.","ru":"Ты не голодный? Давай что-нибудь поедим."}
@@ -114,7 +114,7 @@
 {"id":"char_voice_words_explore:433821761680640","en":"Come on!","ru":"Давай!"}
 {"id":"char_voice_words_explore:433821761680896","en":"We're heading out together!","ru":"Выступаем вместе!"}
 {"id":"char_voice_words_explore:433821761681152","en":"Let's go! Time to find a new challenger!","ru":"Вперёд! Поищем новых соперников!"}
-{"id":"char_voice_words_explore:433821761681408","en":"I wonder where Miss Quan is. \nI want her home cooking!","ru":"Где же госпожа Цюань... \nХочется её домашней еды!"}
+{"id":"char_voice_words_explore:433821761681408","en":"I wonder where Miss Quan is.\nI want her home cooking!","ru":"Где же госпожа Цюань...\nХочется её домашней еды!"}
 {"id":"char_voice_words_explore:433821761681920","en":"So this... lets me use Shadowstep?","ru":"Так вот как... можно использовать Теневой шаг?"}
 {"id":"char_voice_words_explore:433821761682176","en":"Now the name of Kung Fu Master Pengpeng will be known far and wide!","ru":"Теперь имя мастера кунг-фу Пэнпэн разнесётся по всему свету!"}
 {"id":"char_voice_words_explore:433821761682432","en":"How about it? Want to learn kung fu from Pengpeng?","ru":"Ну что? Не хочешь поучиться кунг-фу у Пэнпэн?"}
@@ -125,7 +125,7 @@
 {"id":"char_voice_words_explore:433821761683712","en":"Boing!","ru":"Прыг!"}
 {"id":"char_voice_words_explore:433821761683968","en":"Whoa! Almost tripped.","ru":"Ой! Чуть не упала."}
 {"id":"char_voice_words_explore:433826056634624","en":"Peipei","ru":"Пэйпэй"}
-{"id":"char_voice_words_explore:433826056635392","en":"Good morning. \nOh, right! They say the early Cabbird gets the worm, don't they?\n\nDoes that mean Cabbird-san is\nfull of beans in the morning...?","ru":"Доброе утро. \nАх да! Говорят же, что утро вечера мудренее?\n\nТо есть утром Капустокрыл\nполна сил... да?"}
+{"id":"char_voice_words_explore:433826056635392","en":"Good morning.\nOh, right! They say the early Cabbird gets the worm, don't they?\n\nDoes that mean Cabbird-san is\nfull of beans in the morning...?","ru":"Доброе утро.\nАх да! Говорят же, что утро вечера мудренее?\n\nТо есть утром Капустокрыл\nполна сил... да?"}
 {"id":"char_voice_words_explore:433826056635648","en":"I still... want to nap a little longer...\nJust a bit more should be fine, right...?","ru":"Мне ещё... хочется поспать...\nЕщё чуть-чуть ведь можно, правда...?"}
 {"id":"char_voice_words_explore:433826056635904","en":"Please go to sleep first.\nPeipei will practice kung fu a little longer.","ru":"Ложитесь спать первыми.\nПэйпэй ещё немного потренируется в кунг-фу."}
 {"id":"char_voice_words_explore:433826056636160","en":"So warm and cozy...","ru":"Так тепло и уютно..."}
@@ -377,11 +377,11 @@
 {"id":"char_voice_words_explore:438090959175936","en":"Ee-yah!","ru":"Эй!"}
 {"id":"char_voice_words_explore:438090959176192","en":"Compared to knight training, this is nothing...!","ru":"По сравнению с рыцарскими тренировками это ерунда...!"}
 {"id":"char_voice_words_explore:442390221422848","en":"Ruby","ru":"Руби"}
-{"id":"char_voice_words_explore:442390221423616","en":"Yaaawn—morning... \nI pulled an all-nighter on a design and got cursed by the monster of sleep...","ru":"Зе-еваю — доброе утро... \nВсю ночь просидела за чертежом, и меня прокляло чудище сна..."}
-{"id":"char_voice_words_explore:442390221423872","en":"The kickback when I fire feels kinda... off... \nCould a Federation agent have secretly tampered with it!?","ru":"Отдача при выстреле какая-то... странная... \nНеужели агент Федерации тайком что-то подкрутил!?"}
+{"id":"char_voice_words_explore:442390221423616","en":"Yaaawn—morning...\nI pulled an all-nighter on a design and got cursed by the monster of sleep...","ru":"Зе-еваю — доброе утро...\nВсю ночь просидела за чертежом, и меня прокляло чудище сна..."}
+{"id":"char_voice_words_explore:442390221423872","en":"The kickback when I fire feels kinda... off...\nCould a Federation agent have secretly tampered with it!?","ru":"Отдача при выстреле какая-то... странная...\nНеужели агент Федерации тайком что-то подкрутил!?"}
 {"id":"char_voice_words_explore:442390221424128","en":"An artist's soul dances at night!","ru":"Душа художника танцует ночью!"}
-{"id":"char_voice_words_explore:442390221424384","en":"You know, I love watching lightning run across the sky. \nIt's so beautiful it makes my heart tremble...","ru":"Знаешь, я люблю смотреть, как молния бежит по небу. \nЭто так красиво, что сердце трепещет..."}
-{"id":"char_voice_words_explore:442390221424640","en":"You vile sun~... \nHow dare you stand against me like this...","ru":"Опротивевшее солнце~... \nКак ты смеешь так мне противостоять..."}
+{"id":"char_voice_words_explore:442390221424384","en":"You know, I love watching lightning run across the sky.\nIt's so beautiful it makes my heart tremble...","ru":"Знаешь, я люблю смотреть, как молния бежит по небу.\nЭто так красиво, что сердце трепещет..."}
+{"id":"char_voice_words_explore:442390221424640","en":"You vile sun~...\nHow dare you stand against me like this...","ru":"Опротивевшее солнце~...\nКак ты смеешь так мне противостоять..."}
 {"id":"char_voice_words_explore:442390221424896","en":"A mysterious encounter slumbers inside here!","ru":"Здесь дремлет таинственная встреча!"}
 {"id":"char_voice_words_explore:442390221425152","en":"I release the sealed world!","ru":"Я освобождаю запечатанный мир!"}
 {"id":"char_voice_words_explore:442390221425408","en":"This is truly a gift from the god of blessings!","ru":"Вот это поистине дар от бога благословений!"}
@@ -457,7 +457,7 @@
 {"id":"char_voice_words_explore:446680893755904","en":"Little by little, it all adds up.","ru":"Всё складывается понемногу, шаг за шагом."}
 {"id":"char_voice_words_explore:446680893756160","en":"So that's how it's done.","ru":"Значит, можно и так."}
 {"id":"char_voice_words_explore:446680893756416","en":"I see, so that's how they connect.","ru":"Понятно, вот как они связаны."}
-{"id":"char_voice_words_explore:446680893756672","en":"We're missing something. \nLet's come back here later.","ru":"Нам чего-то не хватает. \nДавайте вернёмся сюда позже."}
+{"id":"char_voice_words_explore:446680893756672","en":"We're missing something.\nLet's come back here later.","ru":"Нам чего-то не хватает.\nДавайте вернёмся сюда позже."}
 {"id":"char_voice_words_explore:446680893756928","en":"It seems we're still missing the \"key.\"","ru":"Похоже, нам всё ещё не хватает «ключа»."}
 {"id":"char_voice_words_explore:446680893757184","en":"Would you like help adjusting the plan?","ru":"Помочь вам скорректировать план?"}
 {"id":"char_voice_words_explore:446680893757440","en":"A good landmark. I'll make a note of it.","ru":"Хороший ориентир. Запишу его."}
@@ -466,11 +466,11 @@
 {"id":"char_voice_words_explore:446680893758208","en":"That enemy... we'll need a meticulous plan.","ru":"Этот враг... потребует тщательно продуманного плана."}
 {"id":"char_voice_words_explore:446680893758464","en":"Stay calm. We meet them head-on.","ru":"Спокойно. Встретим их лицом к лицу."}
 {"id":"char_voice_words_explore:446680893758720","en":"Let's regroup and rework our strategy.","ru":"Давайте отступим и пересмотрим стратегию."}
-{"id":"char_voice_words_explore:446680893758976","en":"Preparedness leaves no room for regret. \nThe result was only natural.","ru":"Предусмотрительность избавляет от сожалений. \nТакой результат был неизбежен."}
-{"id":"char_voice_words_explore:446680893759232","en":"There's still room for improvement. \nI need more experience.","ru":"Ещё есть над чем поработать. \nМне нужно больше опыта."}
-{"id":"char_voice_words_explore:446680893759488","en":"That was close. \nI need to gather my thoughts for a moment.","ru":"Было опасно. \nМне нужно привести мысли в порядок."}
+{"id":"char_voice_words_explore:446680893758976","en":"Preparedness leaves no room for regret.\nThe result was only natural.","ru":"Предусмотрительность избавляет от сожалений.\nТакой результат был неизбежен."}
+{"id":"char_voice_words_explore:446680893759232","en":"There's still room for improvement.\nI need more experience.","ru":"Ещё есть над чем поработать.\nМне нужно больше опыта."}
+{"id":"char_voice_words_explore:446680893759488","en":"That was close.\nI need to gather my thoughts for a moment.","ru":"Было опасно.\nМне нужно привести мысли в порядок."}
 {"id":"char_voice_words_explore:446680893759744","en":"Let's identify the problem and try again.","ru":"Давайте разберёмся, в чём проблема, и попробуем снова."}
-{"id":"char_voice_words_explore:446680893760000","en":"What keen strategic thinking. \nI'll take a lesson from you.","ru":"Какое острое стратегическое чутьё. \nВозьму с вас пример."}
+{"id":"char_voice_words_explore:446680893760000","en":"What keen strategic thinking.\nI'll take a lesson from you.","ru":"Какое острое стратегическое чутьё.\nВозьму с вас пример."}
 {"id":"char_voice_words_explore:446680893760256","en":"Even watching the battle unfold taught me something.","ru":"Даже наблюдая за ходом боя, я кое-чему научилась."}
 {"id":"char_voice_words_explore:446680893760512","en":"Celebrating a victory is important, too.","ru":"Отпраздновать победу тоже важно."}
 {"id":"char_voice_words_explore:446680893760768","en":"Shall we restore our strength before the next battle?","ru":"Не восстановить ли силы перед следующей битвой?"}
@@ -503,7 +503,7 @@
 {"id":"char_voice_words_explore:446680893767936","en":"Yoh!","ru":"Йо!"}
 {"id":"char_voice_words_explore:446680893768192","en":"Nn—made it.","ru":"Нн — добралась."}
 {"id":"char_voice_words_explore:459565795639552","en":"Symphoria","ru":"Симфория"}
-{"id":"char_voice_words_explore:459565795640320","en":"Phew, what a refreshing morning. \nLet's do our best together today too!","ru":"Фух, какое свежее утро. \nДавай и сегодня выложимся как следует!"}
+{"id":"char_voice_words_explore:459565795640320","en":"Phew, what a refreshing morning.\nLet's do our best together today too!","ru":"Фух, какое свежее утро.\nДавай и сегодня выложимся как следует!"}
 {"id":"char_voice_words_explore:459565795640576","en":"Oh, is your break already over?\nAh, don't worry about me—I'm still full of energy.","ru":"О, перерыв уже закончился?\nАх, обо мне не беспокойся, у меня ещё полно сил."}
 {"id":"char_voice_words_explore:459565795640832","en":"Night is falling...\nLet's wrap up for today and get a good rest.\nGood night.","ru":"Ночь сгущается...\nДавай на сегодня закончим и хорошенько отдохнём.\nСпокойной ночи."}
 {"id":"char_voice_words_explore:459565795641088","en":"What a wonderful view!","ru":"Какой прекрасный вид!"}
@@ -937,7 +937,7 @@
 {"id":"char_voice_words_explore:468155730231552","en":"Morwyn","ru":"Морвин"}
 {"id":"char_voice_words_explore:468155730232320","en":"Good morning, Starborn. You're up early today.","ru":"Доброе утро, Звездорождённый. Сегодня ты рано встал."}
 {"id":"char_voice_words_explore:468155730232576","en":"Struggling to decide what to eat?\nThen why not just buy it all?\nYou can invite all sorts of people to a luncheon; it won't go to waste, will it?","ru":"Мучаешься, что бы поесть?\nТак почему бы просто не купить всё?\nПригласишь разных людей на обед — и ничего не пропадёт даром, верно?"}
-{"id":"char_voice_words_explore:468155730232832","en":"At the end of a busy day, savoring a slow glass. \nThat's a right no one can take from you.","ru":"В конце хлопотного дня неспешно насладиться бокалом.\nЭто право, которого у тебя никто не отнимет."}
+{"id":"char_voice_words_explore:468155730232832","en":"At the end of a busy day, savoring a slow glass.\nThat's a right no one can take from you.","ru":"В конце хлопотного дня неспешно насладиться бокалом.\nЭто право, которого у тебя никто не отнимет."}
 {"id":"char_voice_words_explore:468155730233088","en":"Lovely weather, isn't it?\nThe kind of air that makes you want to straighten your back without thinking.","ru":"Приятная погода.\nТакой воздух, что невольно хочется выпрямить спину..."}
 {"id":"char_voice_words_explore:468155730233344","en":"This weather... I'm not very keen on it.\nLet's finish our errands quickly.","ru":"Такая погода... не очень-то вдохновляет.\nДавай поскорее закончим дела."}
 {"id":"char_voice_words_explore:468155730233600","en":"Oh? That over there looks worth a look.","ru":"О? А вон то, кажется, стоит осмотреть."}
@@ -992,31 +992,31 @@
 {"id":"char_voice_words_explore:468155730247936","en":"Hah!","ru":"Йа!"}
 {"id":"char_voice_words_explore:468155730248192","en":"Higher still!","ru":"Ещё выше!"}
 {"id":"char_voice_words_explore:468160025198848","en":"Shalle","ru":"Шалль"}
-{"id":"char_voice_words_explore:468160025199616","en":"Good morning. It's peaceful here, isn't it? \nWould you like to take a walk through the sky with me?","ru":"Доброе утро. Здесь так тихо. \nНе хотите ли прогуляться со мной по небу?"}
-{"id":"char_voice_words_explore:468160025199872","en":"It's that time already. \nPlease make sure you rest properly. \n\nMe? \nI'm fine. Thank you for your concern.","ru":"Уже так поздно. \nПожалуйста, не забывайте отдыхать. \n\nЯ? \nСо мной всё в порядке. Спасибо за заботу."}
-{"id":"char_voice_words_explore:468160025200128","en":"Oh? Good evening. \n\nNo, I wasn't spacing out. \nI was just a little hungry, that's all. Just a little.","ru":"О? Добрый вечер. \n\nНет, я не витала в облаках. \nПросто я немного проголодалась. Самую малость."}
-{"id":"char_voice_words_explore:468160025200384","en":"Yes, lovely weather. \nLet's give Roirei a good grooming.","ru":"Да, хорошая погода. \nДавайте-ка почистим Луар."}
+{"id":"char_voice_words_explore:468160025199616","en":"Good morning. It's peaceful here, isn't it?\nWould you like to take a walk through the sky with me?","ru":"Доброе утро. Здесь так тихо.\nНе хотите ли прогуляться со мной по небу?"}
+{"id":"char_voice_words_explore:468160025199872","en":"It's that time already.\nPlease make sure you rest properly.\n\nMe?\nI'm fine. Thank you for your concern.","ru":"Уже так поздно.\nПожалуйста, не забывайте отдыхать.\n\nЯ?\nСо мной всё в порядке. Спасибо за заботу."}
+{"id":"char_voice_words_explore:468160025200128","en":"Oh? Good evening.\n\nNo, I wasn't spacing out.\nI was just a little hungry, that's all. Just a little.","ru":"О? Добрый вечер.\n\nНет, я не витала в облаках.\nПросто я немного проголодалась. Самую малость."}
+{"id":"char_voice_words_explore:468160025200384","en":"Yes, lovely weather.\nLet's give Roirei a good grooming.","ru":"Да, хорошая погода.\nДавайте-ка почистим Луар."}
 {"id":"char_voice_words_explore:468160025200640","en":"In this weather, I can't let that little one play outside.","ru":"В такую погоду той малышке нельзя играть на улице."}
 {"id":"char_voice_words_explore:468160025200896","en":"Whoever could have left this here?","ru":"Кто же мог это здесь оставить?"}
 {"id":"char_voice_words_explore:468160025201152","en":"Roirei, did you find something?","ru":"Луар, ты что-то нашла?"}
 {"id":"char_voice_words_explore:468160025201408","en":"How nice. I'll treat myself to this.","ru":"Как мило. Сделаю себе подарок."}
-{"id":"char_voice_words_explore:468160025201664","en":"You have a keen eye. \nRight, Roirei?","ru":"Хорошо ты находишь. \nПравда, Луар?"}
+{"id":"char_voice_words_explore:468160025201664","en":"You have a keen eye.\nRight, Roirei?","ru":"Хорошо ты находишь.\nПравда, Луар?"}
 {"id":"char_voice_words_explore:468160025201920","en":"This should replenish our supplies a little.","ru":"Похоже, так мы немного пополним запасы."}
 {"id":"char_voice_words_explore:468160025202176","en":"Hmm, is there anything here, I wonder?","ru":"Хм, интересно, есть ли здесь что-нибудь?"}
 {"id":"char_voice_words_explore:468160025202432","en":"This looks like a good spot to gather materials.","ru":"Похоже, здесь можно собрать неплохие материалы."}
 {"id":"char_voice_words_explore:468160025202688","en":"We still have a long way to go, so let's use these wisely.","ru":"Нам ещё далеко идти, так что будем расходовать это бережно."}
 {"id":"char_voice_words_explore:468160025202944","en":"To the kitchen... no, I mean the storehouse. Let's take this to the storehouse.","ru":"На кухню... то есть нет. Отнесём это на склад."}
-{"id":"char_voice_words_explore:468160025203200","en":"Is this all of it? \nI wish there were more.","ru":"Это всё? \nХотелось бы побольше."}
+{"id":"char_voice_words_explore:468160025203200","en":"Is this all of it?\nI wish there were more.","ru":"Это всё?\nХотелось бы побольше."}
 {"id":"char_voice_words_explore:468160025203456","en":"This place... it's incredible.","ru":"Это место... просто невероятно."}
 {"id":"char_voice_words_explore:468160025203712","en":"You solved it? I'm glad.","ru":"Всё решилось? Я рада."}
-{"id":"char_voice_words_explore:468160025203968","en":"No reaction. \nDo we still not have enough?","ru":"Нет отклика. \nМожет, этого всё ещё недостаточно?"}
+{"id":"char_voice_words_explore:468160025203968","en":"No reaction.\nDo we still not have enough?","ru":"Нет отклика.\nМожет, этого всё ещё недостаточно?"}
 {"id":"char_voice_words_explore:468160025204224","en":"It seems something important is missing.","ru":"Кажется, не хватает чего-то важного."}
 {"id":"char_voice_words_explore:468160025204480","en":"I'll open the way.","ru":"Я проложу путь."}
 {"id":"char_voice_words_explore:468160025204736","en":"Over there would be a good spot to charge from.","ru":"Вон там удобно атаковать с налёта."}
 {"id":"char_voice_words_explore:468160025204992","en":"This structure... it's fascinating.","ru":"Эта конструкция... весьма любопытна."}
 {"id":"char_voice_words_explore:468160025205248","en":"Oh? Are they all right?","ru":"О? С ними всё в порядке?"}
 {"id":"char_voice_words_explore:468160025205504","en":"It's dangerous. Please fall back.","ru":"Это опасно. Пожалуйста, отступите."}
-{"id":"char_voice_words_explore:468160025205760","en":"Pursuers. \nLord Starborn, your orders!","ru":"Погоня. \nГосподин Звездорождённый, ваш приказ!"}
+{"id":"char_voice_words_explore:468160025205760","en":"Pursuers.\nLord Starborn, your orders!","ru":"Погоня.\nГосподин Звездорождённый, ваш приказ!"}
 {"id":"char_voice_words_explore:468160025206016","en":"It seems they've given up.","ru":"Похоже, они сдались."}
 {"id":"char_voice_words_explore:468160025206272","en":"Everyone, no wounds, right? Thank goodness.","ru":"Все целы? Слава богу."}
 {"id":"char_voice_words_explore:468160025206528","en":"Yes, I'm fine. It's already over.","ru":"Да, всё в порядке. Всё уже закончилось."}
@@ -1028,7 +1028,7 @@
 {"id":"char_voice_words_explore:468160025208064","en":"Don't push yourself too hard. Let's take a short rest.","ru":"Не перетруждайтесь. Давайте немного отдохнём."}
 {"id":"char_voice_words_explore:468160025208320","en":"If there's anything I can do, just say the word.","ru":"Если я могу чем-то помочь — только скажите."}
 {"id":"char_voice_words_explore:468160025208576","en":"There, that's done.","ru":"Вот, готово."}
-{"id":"char_voice_words_explore:468160025208832","en":"It's finished safely. \nWe can finally catch our breath.","ru":"Всё благополучно завершилось. \nНаконец-то можно перевести дух."}
+{"id":"char_voice_words_explore:468160025208832","en":"It's finished safely.\nWe can finally catch our breath.","ru":"Всё благополучно завершилось.\nНаконец-то можно перевести дух."}
 {"id":"char_voice_words_explore:468160025209088","en":"Hmph!","ru":"Хм!"}
 {"id":"char_voice_words_explore:468160025209344","en":"Hut!","ru":"Хат!"}
 {"id":"char_voice_words_explore:468160025209600","en":"Faster.","ru":"Быстрее."}
@@ -1043,7 +1043,7 @@
 {"id":"char_voice_words_explore:468160025211904","en":"Underwater and up in the sky... they feel somehow alike.","ru":"Под водой и в небесах — есть в них что-то схожее."}
 {"id":"char_voice_words_explore:468160025212160","en":"Could I ask you to do that again?","ru":"Можно попросить вас ещё раз?"}
 {"id":"char_voice_words_explore:468160025212416","en":"Follow me!","ru":"Следуйте за мной!"}
-{"id":"char_voice_words_explore:468160025212672","en":"Let's go. \nIf you're uneasy, stay behind me.","ru":"Идёмте. \nЕсли вам тревожно, держитесь за мной."}
+{"id":"char_voice_words_explore:468160025212672","en":"Let's go.\nIf you're uneasy, stay behind me.","ru":"Идёмте.\nЕсли вам тревожно, держитесь за мной."}
 {"id":"char_voice_words_explore:468160025212928","en":"「Where Travelers Finally Arrive」— welcome to Avalian.","ru":"«Место, куда в конце концов приходят странники» — добро пожаловать в Авалиан."}
 {"id":"char_voice_words_explore:468160025213440","en":"Now we can move much faster.","ru":"Теперь мы сможем двигаться гораздо быстрее."}
 {"id":"char_voice_words_explore:468160025213696","en":"From here, I can see everything.","ru":"Отсюда видно всё."}
@@ -1182,10 +1182,10 @@
 {"id":"char_voice_words_explore:481040632136192","en":"Don't worry.","ru":"Не волнуйтесь."}
 {"id":"char_voice_words_explore:481044927086848","en":"Anais","ru":"Анаис"}
 {"id":"char_voice_words_explore:481044927087616","en":"Good morning. I made a light breakfast. Would you like to join me?","ru":"Доброе утро. Я приготовила лёгкий завтрак. Не присоединишься?"}
-{"id":"char_voice_words_explore:481044927087872","en":"No, you really must take a proper lunch break. \nNot unless you want to be exhausted by the afternoon.","ru":"Нет, обязательно нужно правильно обедать. \nЕсли только не хочешь вымотаться к вечеру."}
-{"id":"char_voice_words_explore:481044927088128","en":"Oh my, it's already this late. \nWhether you're small or big, it's time to get into bed, all right?","ru":"Ох, уже столько времени. \nИ малыши, и взрослые — всем пора в постель, хорошо?"}
-{"id":"char_voice_words_explore:481044927088384","en":"The warm sunlight feels so lovely... \nIt's like being wrapped in Kaea's fluffy fur...","ru":"Тёплые лучи солнца так приятны... \nСловно я укутана в пушистую шёрстку Каэи..."}
-{"id":"char_voice_words_explore:481044927088640","en":"Rain... Kaea's fluffy fur \nis going to get all soaked again.","ru":"Дождь... Пушистая шёрстка Каэи \nснова промокнет насквозь."}
+{"id":"char_voice_words_explore:481044927087872","en":"No, you really must take a proper lunch break.\nNot unless you want to be exhausted by the afternoon.","ru":"Нет, обязательно нужно правильно обедать.\nЕсли только не хочешь вымотаться к вечеру."}
+{"id":"char_voice_words_explore:481044927088128","en":"Oh my, it's already this late.\nWhether you're small or big, it's time to get into bed, all right?","ru":"Ох, уже столько времени.\nИ малыши, и взрослые — всем пора в постель, хорошо?"}
+{"id":"char_voice_words_explore:481044927088384","en":"The warm sunlight feels so lovely...\nIt's like being wrapped in Kaea's fluffy fur...","ru":"Тёплые лучи солнца так приятны...\nСловно я укутана в пушистую шёрстку Каэи..."}
+{"id":"char_voice_words_explore:481044927088640","en":"Rain... Kaea's fluffy fur\nis going to get all soaked again.","ru":"Дождь... Пушистая шёрстка Каэи\nснова промокнет насквозь."}
 {"id":"char_voice_words_explore:481044927088896","en":"I found a treasure.","ru":"Я нашла сокровище."}
 {"id":"char_voice_words_explore:481044927089152","en":"This looks like a good find.","ru":"Похоже, это неплохая находка."}
 {"id":"char_voice_words_explore:481044927089408","en":"A welcome harvest.","ru":"Радостная добыча."}
@@ -1210,7 +1210,7 @@
 {"id":"char_voice_words_explore:481044927094272","en":"You mustn't be careless even with a scratch, all right?","ru":"Даже из-за царапины нельзя терять бдительность, хорошо?"}
 {"id":"char_voice_words_explore:481044927094528","en":"Wait, I'll treat you right away.","ru":"Подожди. Я сейчас же тебя подлечу."}
 {"id":"char_voice_words_explore:481044927094784","en":"So this... is the price of victory.","ru":"Вот она... цена победы."}
-{"id":"char_voice_words_explore:481044927095040","en":"Everyone, cheer up. \nLet's prepare properly and try again.","ru":"Все, не унывайте. \nКак следует подготовимся и попробуем снова."}
+{"id":"char_voice_words_explore:481044927095040","en":"Everyone, cheer up.\nLet's prepare properly and try again.","ru":"Все, не унывайте.\nКак следует подготовимся и попробуем снова."}
 {"id":"char_voice_words_explore:481044927095296","en":"Good work! Thank you for bringing us victory.","ru":"Отличная работа! Спасибо, что принесла нам победу."}
 {"id":"char_voice_words_explore:481044927095552","en":"Leave rear support and emergency care to me, all right?","ru":"Тыловую поддержку и первую помощь предоставь мне, хорошо?"}
 {"id":"char_voice_words_explore:481044927095808","en":"Wait—celebrating the victory is important too, but first, let me check your injuries.","ru":"Подожди... Отпраздновать победу тоже важно, но сначала покажи мне свои раны."}
@@ -1306,7 +1306,7 @@
 {"id":"char_voice_words_explore:854707081838848","en":"Starborn","ru":"Звездорождённый"}
 {"id":"char_voice_words_explore:854707081839616","en":"It's morning... Alright, time to set out!","ru":"Утро... Ладно, пора в путь!"}
 {"id":"char_voice_words_explore:854707081839872","en":"Next goal is... yep, this way.","ru":"Следующая цель... ага, сюда."}
-{"id":"char_voice_words_explore:854707081840128","en":"It's already this late... \n Time to get some rest.","ru":"Уже так поздно... \n Пора бы отдохнуть."}
+{"id":"char_voice_words_explore:854707081840128","en":"It's already this late...\n Time to get some rest.","ru":"Уже так поздно...\n Пора бы отдохнуть."}
 {"id":"char_voice_words_explore:854707081840896","en":"First come, first served.","ru":"Кто первый пришёл, того и находка."}
 {"id":"char_voice_words_explore:854707081841152","en":"Now that I've found it, I can't just ignore it.","ru":"Раз уж нашёл, не могу пройти мимо."}
 {"id":"char_voice_words_explore:854707081841408","en":"I got everything!","ru":"Всё собрал!"}
@@ -1431,7 +1431,7 @@
 {"id":"char_voice_words_explore:854732851643648","en":"Ehehe, will you spend the afternoon with Maple?","ru":"Хе-хе, проведёшь день вместе с Мейпл?"}
 {"id":"char_voice_words_explore:854732851643904","en":"You might get to meet a nocturnal Kibo!","ru":"Ты можешь встретить ночного кибо!"}
 {"id":"char_voice_words_explore:854732851644160","en":"What a nice day, meow! Hey, hey, let's go for a walk!","ru":"Какая хорошая погода, мяу! Эй, эй, пойдём гулять!"}
-{"id":"char_voice_words_explore:854732851644416","en":"My tail is soaking wet~ \nIf it weren't for this, I'd like the rain too.","ru":"Мой хвостик весь промок~ \nЕсли бы не это, я бы и дождь любила."}
+{"id":"char_voice_words_explore:854732851644416","en":"My tail is soaking wet~\nIf it weren't for this, I'd like the rain too.","ru":"Мой хвостик весь промок~\nЕсли бы не это, я бы и дождь любила."}
 {"id":"char_voice_words_explore:854732851644672","en":"I found something amazing, meow~!","ru":"Я нашла кое-что потрясающее, мяу~!"}
 {"id":"char_voice_words_explore:854732851644928","en":"So exciting! What is it, what is it?","ru":"Так волнительно! Что это, что это?"}
 {"id":"char_voice_words_explore:854732851645184","en":"Wow, I found something good~!","ru":"Ух ты, я нашла что-то классное~!"}
@@ -1479,7 +1479,7 @@
 {"id":"char_voice_words_explore:854732851655936","en":"Please, please~!","ru":"Пожалуйста, пожалуйста~!"}
 {"id":"char_voice_words_explore:854732851656192","en":"Let's show them Maple and friends' combination!","ru":"Покажем им нашу с Мейпл комбинацию!"}
 {"id":"char_voice_words_explore:854732851656448","en":"I wonder if there's something interesting here too~?","ru":"Интересно, здесь тоже есть что-нибудь интересное~?"}
-{"id":"char_voice_words_explore:854732851656704","en":"Ehehe, I'm home! \nWere you waiting for Maple, meow?","ru":"Хе-хе, я дома! \nТы ждал Мейпл, мяу?"}
+{"id":"char_voice_words_explore:854732851656704","en":"Ehehe, I'm home!\nWere you waiting for Maple, meow?","ru":"Хе-хе, я дома!\nТы ждал Мейпл, мяу?"}
 {"id":"char_voice_words_explore:854732851657216","en":"We can go far away in an instant.","ru":"Мы можем мгновенно попасть далеко."}
 {"id":"char_voice_words_explore:854732851657472","en":"It feels like the world just got much bigger, meow!","ru":"Кажется, мир стал намного больше, мяу!"}
 {"id":"char_voice_words_explore:854732851657728","en":"Become Maple's companion!","ru":"Стань спутником Мейпл!"}

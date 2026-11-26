@@ -1,6 +1,6 @@
 {"id":"startup:alert_title","en":"Alert","ru":"Внимание"}
-{"id":"startup:assets_importing_failed","en":"Failed to import resources. \n","ru":"Не удалось импортировать ресурсы. \n"}
-{"id":"startup:assets_merging_failed","en":"Failed to integrate resources. \n","ru":"Не удалось выполнить интеграцию ресурсов. \n"}
+{"id":"startup:assets_importing_failed","en":"Failed to import resources.\n","ru":"Не удалось импортировать ресурсы.\n"}
+{"id":"startup:assets_merging_failed","en":"Failed to integrate resources.\n","ru":"Не удалось выполнить интеграцию ресурсов.\n"}
 {"id":"startup:background_download_failed","en":"Download failed. Please try again.","ru":"Не удалось выполнить загрузку. Повторите попытку."}
 {"id":"startup:background_download_success","en":"Download complete","ru":"Загрузка завершена"}
 {"id":"startup:background_downloading","en":"Downloading…","ru":"Загрузка…"}

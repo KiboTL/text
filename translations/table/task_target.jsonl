@@ -1162,7 +1162,7 @@
 {"id":"task_target:44670670650476032","en":"Examine","ru":"Осмотреть"}
 {"id":"task_target:44670674945442304","en":"Place the Rune of Sealed Life","ru":"Установите Руну запечатанной жизни"}
 {"id":"task_target:44670674945443328","en":"Place the Rune of Sealed Life","ru":"Установите Руну запечатанной жизни"}
-{"id":"task_target:44670674945443840","en":"Place the Rune of Sealed Life on the stone pedestal. \nThe sealed Karma flows into the hourglass, activating the Energy Core.","ru":"Установите Руну запечатанной жизни на каменный пьедестал. \nЗапечатанная Карма потечёт в песочные часы, запуская Энергетическое ядро."}
+{"id":"task_target:44670674945443840","en":"Place the Rune of Sealed Life on the stone pedestal.\nThe sealed Karma flows into the hourglass, activating the Energy Core.","ru":"Установите Руну запечатанной жизни на каменный пьедестал.\nЗапечатанная Карма потечёт в песочные часы, запуская Энергетическое ядро."}
 {"id":"task_target:44670679240409600","en":"Find a way to reach the other rooms","ru":"Найти путь в другие комнаты"}
 {"id":"task_target:44670683535376896","en":"Head to the room on the right","ru":"Направиться в комнату справа"}
 {"id":"task_target:44670687830344192","en":"Operate the control console","ru":"Задействовать пульт управления"}
@@ -1823,12 +1823,12 @@
 {"id":"task_target:8619999363584","en":"Place the 1st Sacred Tree Wedge","ru":"Установите 1-й клин священного древа"}
 {"id":"task_target:8619999364608","en":"Place Sacred Tree Wedge","ru":"Установить клин священного древа"}
 {"id":"task_target:8619999365120","en":"Place the 1st Sacred Tree Wedge","ru":"Установите 1-й клин священного древа"}
-{"id":"task_target:8624294330880","en":"Place the 2st Sacred Tree Wedge","ru":"Установите 2-й клин священного древа"}
+{"id":"task_target:8624294330880","en":"Place the 2nd Sacred Tree Wedge","ru":"Установите 2-й клин священного древа"}
 {"id":"task_target:8624294331904","en":"Place Sacred Tree Wedge","ru":"Установить клин священного древа"}
-{"id":"task_target:8624294332416","en":"Place the 2st Sacred Tree Wedge","ru":"Установите 2-й клин священного древа"}
-{"id":"task_target:8628589298176","en":"Place the 3st Sacred Tree Wedge","ru":"Установите 3-й клин священного древа"}
+{"id":"task_target:8624294332416","en":"Place the 2nd Sacred Tree Wedge","ru":"Установите 2-й клин священного древа"}
+{"id":"task_target:8628589298176","en":"Place the 3rd Sacred Tree Wedge","ru":"Установите 3-й клин священного древа"}
 {"id":"task_target:8628589299200","en":"Place Sacred Tree Wedge","ru":"Установить клин священного древа"}
-{"id":"task_target:8628589299712","en":"Place the 3st Sacred Tree Wedge","ru":"Установите 3-й клин священного древа"}
+{"id":"task_target:8628589299712","en":"Place the 3rd Sacred Tree Wedge","ru":"Установите 3-й клин священного древа"}
 {"id":"task_target:8632884265472","en":"Wait for Metsa","ru":"Подождите Метсу"}
 {"id":"task_target:8632884266496","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:8637179232768","en":"Head to the 1st Starvein Node","ru":"Отправляйтесь к 1-му Узлу звёздного потока"}
@@ -1837,7 +1837,7 @@
 {"id":"task_target:86376087291392","en":"Inspect","ru":"Осмотреть"}
 {"id":"task_target:8641474200064","en":"Place the 1st Sacred Tree Wedge","ru":"Установите 1-й клин священного древа"}
 {"id":"task_target:8641474201088","en":"Place Sacred Tree Wedge","ru":"Установить клин священного древа"}
-{"id":"task_target:86419036963328","en":"Head to the 2st Starvein Node","ru":"Отправляйтесь к 2-му Узлу звёздного потока"}
+{"id":"task_target:86419036963328","en":"Head to the 2nd Starvein Node","ru":"Отправляйтесь к 2-му Узлу звёздного потока"}
 {"id":"task_target:86423331930624","en":"Press on","ru":"Продолжайте путь"}
 {"id":"task_target:86427626897920","en":"Descend the stairs","ru":"Спуститесь по лестнице"}
 {"id":"task_target:86431921865216","en":"Head to the lower levels of the ruins","ru":"Отправляйтесь в нижние ярусы руин"}
@@ -1848,8 +1848,8 @@
 {"id":"task_target:86461986636288","en":"Reach the Starvein Node area","ru":"Доберитесь до области Узла звёздного потока"}
 {"id":"task_target:86466281603584","en":"Talk to the Wingfolk","ru":"Поговорите с Крылатыми"}
 {"id":"task_target:86466281604608","en":"Talk","ru":"Поговорить"}
-{"id":"task_target:8650064134656","en":"Head to the 3st Starvein Node","ru":"Отправляйтесь к 3-му Узлу звёздного потока"}
-{"id":"task_target:8654359101952","en":"Place the 3st Sacred Tree Wedge","ru":"Установите 3-й клин священного древа"}
+{"id":"task_target:8650064134656","en":"Head to the 3rd Starvein Node","ru":"Отправляйтесь к 3-му Узлу звёздного потока"}
+{"id":"task_target:8654359101952","en":"Place the 3rd Sacred Tree Wedge","ru":"Установите 3-й клин священного древа"}
 {"id":"task_target:8654359102976","en":"Place Sacred Tree Wedge","ru":"Установить клин священного древа"}
 {"id":"task_target:8658654069248","en":"Talk to Metsa","ru":"Поговорите с Метсой"}
 {"id":"task_target:8658654070272","en":"Talk","ru":"Поговорить"}
@@ -1959,9 +1959,9 @@
 {"id":"task_target:86769085387376128","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:86769089682342400","en":"Inform Lilika of the results","ru":"Сообщите Лилике о результатах"}
 {"id":"task_target:86769089682343424","en":"Inform of the results","ru":"Сообщить о результатах"}
-{"id":"task_target:8680128905728","en":"Build the 2st defensive line (0/2)","ru":"Возведите 2-ю оборонительную линию (0/2)"}
+{"id":"task_target:8680128905728","en":"Build the 2nd defensive line (0/2)","ru":"Возведите 2-ю оборонительную линию (0/2)"}
 {"id":"task_target:8680128906752","en":"Build Arrow Towers","ru":"Построить стрелковые башни"}
-{"id":"task_target:8684423873024","en":"Build the 2st defensive line (1/2)","ru":"Возведите 2-ю оборонительную линию (1/2)"}
+{"id":"task_target:8684423873024","en":"Build the 2nd defensive line (1/2)","ru":"Возведите 2-ю оборонительную линию (1/2)"}
 {"id":"task_target:8684423874048","en":"Build Arrow Towers","ru":"Построить стрелковые башни"}
 {"id":"task_target:8688718840320","en":"Set Flammule traps","ru":"Установите ловушки из фламмулей"}
 {"id":"task_target:8688718841344","en":"Set traps","ru":"Расставить ловушки"}

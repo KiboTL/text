@@ -46,11 +46,11 @@
 {"id":"static:02D9819D","en":"Confirm","ru":"Подтвердить"}
 {"id":"static:02D9819D+1","en":"Confirm","ru":"Подтвердить"}
 {"id":"static:02E3F002","en":"Please select a target to swap from the list.","ru":"Выберите в списке цель для замены."}
-{"id":"static:02E95730","en":"A grilled fish seasoned with a touch of full-moon grass. The full-moon grass masks the \n fishy smell of the fish, adding the moist coolness of the \n forest to the savory aroma of the grilled fish, with a crisp","ru":"Рыба на гриле с щепоткой травы полной луны. Трава полной луны хорошо скрывает \n рыбный запах, добавляя к аромату поджаренной рыбы \n влажную прохладу леса, с хрустящей"}
+{"id":"static:02E95730","en":"A grilled fish seasoned with a touch of full-moon grass. The full-moon grass masks the\n fishy smell of the fish, adding the moist coolness of the\n forest to the savory aroma of the grilled fish, with a crisp","ru":"Рыба на гриле с щепоткой травы полной луны. Трава полной луны хорошо скрывает\n рыбный запах, добавляя к аромату поджаренной рыбы\n влажную прохладу леса, с хрустящей"}
 {"id":"static:02F1C6EC","en":"Bond with Nono","ru":"Связь с Ноно"}
 {"id":"static:02FD8EC3","en":"Achievement Unlocked [Double Kill]","ru":"Достижение получено [Двойное убийство]"}
 {"id":"static:030D962D","en":"EVENT","ru":"СОБЫТИЕ"}
-{"id":"static:030F8ABC","en":"Unlocks at Starborn \n Level Lv.10","ru":"Открывается на уровне Звездорождённого \n Ур.10"}
+{"id":"static:030F8ABC","en":"Unlocks at Starborn\n Level Lv.10","ru":"Открывается на уровне Звездорождённого\n Ур.10"}
 {"id":"static:03199E5D","en":"Hello!","ru":"Здравствуйте!"}
 {"id":"static:032BA2F7","en":"jp Preset 3","ru":"jp Пресет 3"}
 {"id":"static:03387F72","en":"Outfit-exclusive color","ru":"Эксклюзивный цвет костюма"}
@@ -98,7 +98,7 @@
 {"id":"static:06C8ACD5","en":"After Star Bond, the Kibo enters the [Link Disruption] state.","ru":"После Звёздной связи кибо переходит в состояние [нарушение связи]."}
 {"id":"static:07024743","en":"No characters can be reset.","ru":"Нет персонажей, доступных для сброса."}
 {"id":"static:07026F7C","en":"Lv.15","ru":"Ур.15"}
-{"id":"static:070F558E","en":"If 7 days have passed since purchase, or if you have received the item from the mailbox, or if \n you have also used the item, \nit cannot be canceled (refunded).\n Payments made by minors without the consent of a guardian \ncan be canceled.<link=http://m.nexon.com/terms/60><color=#ffae3b><u>[View Cancellation Policy]</u></color></link>","ru":"Если с момента покупки прошло более 7 дней, или если вы получили предмет из почтового ящика, или если \n вы также использовали предмет, \nотмена (возврат) невозможна.\n Платежи, совершённые несовершеннолетними без согласия законного представителя, \nмогут быть отменены.<link=http://m.nexon.com/terms/60><color=#ffae3b><u>[Проверить правила отмены]</u></color></link>"}
+{"id":"static:070F558E","en":"If 7 days have passed since purchase, or if you have received the item from the mailbox, or if\n you have also used the item,\nit cannot be canceled (refunded).\n Payments made by minors without the consent of a guardian\ncan be canceled.<link=http://m.nexon.com/terms/60><color=#ffae3b><u>[View Cancellation Policy]</u></color></link>","ru":"Если с момента покупки прошло более 7 дней, или если вы получили предмет из почтового ящика, или если\n вы также использовали предмет,\nотмена (возврат) невозможна.\n Платежи, совершённые несовершеннолетними без согласия законного представителя,\nмогут быть отменены.<link=http://m.nexon.com/terms/60><color=#ffae3b><u>[Проверить правила отмены]</u></color></link>"}
 {"id":"static:0715E74C","en":"Match found","ru":"Совпадение найдено"}
 {"id":"static:07348D3D","en":"Automatically receive seeds from harvests","ru":"Автоматически получать семена при сборе урожая"}
 {"id":"static:07569551","en":"Subjugation · Aura","ru":"Уничтожение · Аура"}
@@ -110,7 +110,7 @@
 {"id":"static:07FEAA84","en":"Start Kibo Fight","ru":"Начать бой кибо"}
 {"id":"static:083D6902","en":"Laboratory","ru":"Лаборатория"}
 {"id":"static:084F7EE7","en":"Clear the challenge within 60 seconds!","ru":"Пройдите испытание за 60 с!"}
-{"id":"static:086405C4","en":"The 3th hit of a Normal Attack deals area fire damage and sets hit targets ablaze.","ru":"3-й удар обычной атаки наносит огненный урон по площади и поджигает поражённые цели."}
+{"id":"static:086405C4","en":"The 3rd hit of a Normal Attack deals area fire damage and sets hit targets ablaze.","ru":"3-й удар обычной атаки наносит огненный урон по площади и поджигает поражённые цели."}
 {"id":"static:0875CE99","en":"Select Map","ru":"Выбор карты"}
 {"id":"static:087FFA94","en":"Stamina","ru":"Выносливость"}
 {"id":"static:08E1F6EE","en":"jp Didada Trial","ru":"jp Испытание Дидады"}
@@ -162,7 +162,7 @@
 {"id":"static:0CB1BEF5","en":"Test text","ru":"Тестовый текст"}
 {"id":"static:0CB9C7DD","en":"No Recipes","ru":"Нет рецептов"}
 {"id":"static:0CBA8490","en":"Industry","ru":"Промышленность"}
-{"id":"static:0CBAA1F3","en":"This is the maximum width for the lower section. Center text for 1 lines; for \n3 lines, adjust the lower height. Hide after claiming.","ru":"Это максимальная ширина нижней части. Текст в 1 строки выравнивать по центру; для строк \n3 настроить высоту нижней части. Скрыть после получения."}
+{"id":"static:0CBAA1F3","en":"This is the maximum width for the lower section. Center text for 1 lines; for\n3 lines, adjust the lower height. Hide after claiming.","ru":"Это максимальная ширина нижней части. Текст в 1 строки выравнивать по центру; для строк\n3 настроить высоту нижней части. Скрыть после получения."}
 {"id":"static:0CD5DB00","en":"Load","ru":"Загрузить"}
 {"id":"static:0CF4A0A7","en":"Place","ru":"Разместить"}
 {"id":"static:0D065109","en":"Lv.20","ru":"Ур.20"}
@@ -246,7 +246,7 @@
 {"id":"static:11E8C71E","en":"Recommended Level:","ru":"Рекомендуемый уровень:"}
 {"id":"static:11F208A3","en":"Lv.10/10","ru":"Ур.10/10"}
 {"id":"static:121556D1","en":"Placed","ru":"Размещено"}
-{"id":"static:1248997A","en":"Grilled fish seasoned with a tiny amount of full-moon grass as a spice. Full-moon grass\nhelps remove the fishy smell well, and beyond the crisp aroma of the grilled fish, it \nadds a damp, fresh scent of the forest, making the whole dish crisp and \nA grilled fish seasoned with a tiny amount of full-moon grass as a spice. Full-moon grass\nhelps remove the fishy smell well, and beyond the crisp aroma of the grilled fish, it adds","ru":"Рыба на гриле, приправленная небольшим количеством лунной травы в качестве специи. Лунная трава\nхорошо убирает рыбный запах, и помимо хрустящего аромата жареной рыбы придаёт\nвлажную лесную свежесть, делая всё блюдо хрустящим.\nРыба на гриле, приправленная небольшим количеством лунной травы в качестве специи. Лунная трава\nхорошо убирает рыбный запах, и помимо хрустящего аромата жареной рыбы придаёт"}
+{"id":"static:1248997A","en":"Grilled fish seasoned with a tiny amount of full-moon grass as a spice. Full-moon grass\nhelps remove the fishy smell well, and beyond the crisp aroma of the grilled fish, it\nadds a damp, fresh scent of the forest, making the whole dish crisp and\nA grilled fish seasoned with a tiny amount of full-moon grass as a spice. Full-moon grass\nhelps remove the fishy smell well, and beyond the crisp aroma of the grilled fish, it adds","ru":"Рыба на гриле, приправленная небольшим количеством лунной травы в качестве специи. Лунная трава\nхорошо убирает рыбный запах, и помимо хрустящего аромата жареной рыбы придаёт\nвлажную лесную свежесть, делая всё блюдо хрустящим.\nРыба на гриле, приправленная небольшим количеством лунной травы в качестве специи. Лунная трава\nхорошо убирает рыбный запах, и помимо хрустящего аромата жареной рыбы придаёт"}
 {"id":"static:12532B62","en":"Stage time limit","ru":"Ограничение времени этапа"}
 {"id":"static:125B8576","en":"1111111111111111111111111111111111111111111111111111","ru":"1111111111111111111111111111111111111111111111111111"}
 {"id":"static:125E03E1","en":"Exchanged","ru":"Обменено"}
@@ -468,7 +468,7 @@
 {"id":"static:1FB68761","en":"GENE","ru":"GENE"}
 {"id":"static:1FC508FB","en":"Away\\\nWill return later","ru":"Отошёл\\\nВернусь позже"}
 {"id":"static:1FD104E5","en":"Last Week's Cooperative Players List","ru":"Список игроков, сотрудничавших на прошлой неделе"}
-{"id":"static:1FF34386","en":"The 3th hit of a Normal Attack deals area flame damage and burns the target hit, dealing 30% of Attack as damage every 1s for 8s.","ru":"3-й удар обычной атаки наносит огненный урон по площади и поджигает поражённую цель, нанося 30% от силы атаки урона каждые 1 с в течение 8 с."}
+{"id":"static:1FF34386","en":"The 3rd hit of a Normal Attack deals area flame damage and burns the target hit, dealing 30% of Attack as damage every 1s for 8s.","ru":"3-й удар обычной атаки наносит огненный урон по площади и поджигает поражённую цель, нанося 30% от силы атаки урона каждые 1 с в течение 8 с."}
 {"id":"static:20083A6B","en":"Purple Button SFX","ru":"Звук фиолетовой кнопки"}
 {"id":"static:2009FFD8","en":"stackEffectHide","ru":"stackEffectHide"}
 {"id":"static:201757AE","en":"PROMILIATRAVELOGUE","ru":"PROMILIATRAVELOGUE"}
@@ -563,7 +563,7 @@
 {"id":"static:26F6B002","en":"World Map","ru":"Карта мира"}
 {"id":"static:270551D8","en":"An earring forged from Wind Copper Stone—sturdy enough to double as a bottle opener when needed. An earring forged from Wind Copper Stone—sturdy enough to double as a bottle opener when needed. An earring forged from Wind Copper Stone—sturdy enough to double as a bottle opener when needed. An earring forged from Wind Copper Stone—sturdy enough...","ru":"Серьга, выкованная из ветряного медного камня, — при необходимости она даже может послужить открывашкой. Серьга, выкованная из ветряного медного камня, — при необходимости она даже может послужить открывашкой. Серьга, выкованная из ветряного медного камня, — при необходимости она даже может послужить открывашкой. Серьга, выкованная из ветряного медного камня, — при необходимости она даже..."}
 {"id":"static:27196900","en":"Skip Story","ru":"Пропустить историю"}
-{"id":"static:2725A51F","en":"Range \n","ru":"Дальность \n"}
+{"id":"static:2725A51F","en":"Range\n","ru":"Дальность\n"}
 {"id":"static:27444210","en":"<size=36>4500</size>/500","ru":"<size=36>4500</size>/500"}
 {"id":"static:275AF48D","en":"Homestead Hub","ru":"Центр поместья"}
 {"id":"static:2764B816","en":"Hard Mode Unlock","ru":"Открытие сложного режима"}
@@ -616,7 +616,7 @@
 {"id":"static:2AD67442","en":"New talent unlocked:","ru":"Открыт новый талант:"}
 {"id":"static:2AD8CB94","en":"Stamina Recovery","ru":"Восстановление выносливости"}
 {"id":"static:2AE4D260","en":"Ultra-rare Starshower Fruit","ru":"Ультраредкий плод звездопада"}
-{"id":"static:2AEEB134","en":"Lilika has a big plan—not only will she display all the finest produce from Sprout \nValley at her own agricultural exhibition, but visitors will also be able to buy whatever they \nwant on the spot! To that end, she set about eagerly gathering \nproduce for sale, but the results have barely amounted to anything","ru":"У Лилики грандиозный план: она не только выставит на своей сельскохозяйственной выставке всю лучшую продукцию \nДолины ростков, но и позволит посетителям сразу купить всё, что им \nзахочется! Ради этого она начала усердно собирать \nпродукцию на продажу, но результаты почти не растут."}
+{"id":"static:2AEEB134","en":"Lilika has a big plan—not only will she display all the finest produce from Sprout\nValley at her own agricultural exhibition, but visitors will also be able to buy whatever they\nwant on the spot! To that end, she set about eagerly gathering\nproduce for sale, but the results have barely amounted to anything","ru":"У Лилики грандиозный план: она не только выставит на своей сельскохозяйственной выставке всю лучшую продукцию\nДолины ростков, но и позволит посетителям сразу купить всё, что им\nзахочется! Ради этого она начала усердно собирать\nпродукцию на продажу, но результаты почти не растут."}
 {"id":"static:2B01EB86","en":"Potential Berry","ru":"Ягода потенциала"}
 {"id":"static:2B256866","en":"Talent","ru":"Талант"}
 {"id":"static:2B30334A","en":"Shipping Crate","ru":"Ящик для отправки"}
@@ -921,7 +921,7 @@
 {"id":"static:40D77188","en":"Hold to Aim","ru":"Удерживайте для прицеливания"}
 {"id":"static:40E161E2","en":"Prioritize low-quality materials","ru":"Приоритет низкокачественных материалов"}
 {"id":"static:40E226B0","en":"Warning! This includes the <color=#FF7E6D>high-level Starbound Spirit</color>. Are you sure you want to release the following pets?","ru":"Внимание! Среди них есть <color=#FF7E6D>высокоуровневый дух звездосвязи</color>. Вы уверены, что хотите отпустить следующих питомцев?"}
-{"id":"static:41128CCE","en":"If the UP target has not appeared for a cumulative 2 times, it is guaranteed on the 3th time. Changing or clearing Focus resets the count of non-UP results. Please note.","ru":"Если UP-цель не появлялась суммарно 2 раз, на 3-й раз она гарантированно появится. Изменение или снятие фокуса сбрасывает счётчик результатов не-UP. Обратите внимание."}
+{"id":"static:41128CCE","en":"If the UP target has not appeared for a cumulative 2 times, it is guaranteed on the 3rd time. Changing or clearing Focus resets the count of non-UP results. Please note.","ru":"Если UP-цель не появлялась суммарно 2 раз, на 3-й раз она гарантированно появится. Изменение или снятие фокуса сбрасывает счётчик результатов не-UP. Обратите внимание."}
 {"id":"static:41529076","en":"y","ru":"y"}
 {"id":"static:416FF5C8","en":"Move Out","ru":"Выселить"}
 {"id":"static:41754CDC","en":"Pammy Team Investigation Report<其一>","ru":"Отчёт об исследовании команды памми<其一>"}
@@ -1190,7 +1190,7 @@
 {"id":"static:549F35A5","en":"Cancel Random","ru":"Отменить случайный выбор"}
 {"id":"static:54A08493","en":"1/500","ru":"1/500"}
 {"id":"static:54B464DE","en":"Pack Contents","ru":"Содержимое набора"}
-{"id":"static:54D4899C","en":"Deliver materials to the collection point to earn order rewards. The more materials you deliver, the more Farm Coins you earn. \n1You can deliver multiple times a day.","ru":"Доставляйте материалы в пункт сбора, чтобы получать награды за заказы. Чем больше материалов вы доставите, тем больше монет фермы получите. \n1Доставлять можно несколько раз в день."}
+{"id":"static:54D4899C","en":"Deliver materials to the collection point to earn order rewards. The more materials you deliver, the more Farm Coins you earn.\nYou can make as many deliveries as you like each day.","ru":"Доставляйте материалы в пункт сбора, чтобы получать награды за заказы. Чем больше материалов вы доставите, тем больше монет фермы получите.\nКоличество доставок в день не ограничено."}
 {"id":"static:54DADEE4","en":"Reach 50 points in total","ru":"Набрать 50 очков в сумме"}
 {"id":"static:54DB644C","en":"Tsulifey","ru":"Цулифи"}
 {"id":"static:54DC9AE9","en":"Waiting for team member approval.","ru":"Ожидание одобрения участника команды."}
@@ -1358,7 +1358,7 @@
 {"id":"static:5F8A70DB","en":"Select 1 Anima to feature","ru":"Выберите анимы для повышения шанса: 1"}
 {"id":"static:5FB17797","en":"and General","ru":"и Общее"}
 {"id":"static:5FD1CB10","en":"Star Ode\\xB7Star Ⅰ","ru":"Звёздная ода\\xB7Звезда Ⅰ"}
-{"id":"static:5FDDB1B9","en":"Retrieve 【Spicy Red Berry x5】 from the Southern Valley \nRetrieve \n from the Southern Valley 【Spicy Red Berry x5】","ru":"Забрать 【Острая красная ягода x5】 из Южной долины \nЗабрать \n из Южной долины 【Острая красная ягода x5】"}
+{"id":"static:5FDDB1B9","en":"Retrieve 【Spicy Red Berry x5】 from the Southern Valley\nRetrieve\n from the Southern Valley 【Spicy Red Berry x5】","ru":"Забрать 【Острая красная ягода x5】 из Южной долины\nЗабрать\n из Южной долины 【Острая красная ягода x5】"}
 {"id":"static:6007945A","en":"Choose story branch","ru":"Выберите развитие сюжета"}
 {"id":"static:600E29E6","en":"Average Aptitude of Wild Kibo","ru":"Средняя одарённость диких кибо"}
 {"id":"static:60233828","en":"Head to","ru":"Направиться к"}
@@ -1450,7 +1450,7 @@
 {"id":"static:66ED9B0B","en":"In the afternoon forest, the sunlight through the leaves sparkles like Nono's favorite treasure.\nThe dream Nono is having must be just the same","ru":"В послеполуденном лесу свет сквозь листву блестит, словно любимое сокровище Ноно.\nСон, который видит Ноно, наверняка такой же"}
 {"id":"static:66EEACD9","en":"Select All","ru":"Выбрать всё"}
 {"id":"static:6701C752","en":"Time remaining: 12:20:22","ru":"Осталось времени: 12:20:22"}
-{"id":"static:670E461B","en":"Execute CMD \n","ru":"Выполнить CMD \n"}
+{"id":"static:670E461B","en":"Execute CMD\n","ru":"Выполнить CMD\n"}
 {"id":"static:672AD2DF","en":"Monster Control","ru":"Управление монстром"}
 {"id":"static:6738E240","en":"INSTITUTE","ru":"INSTITUTE"}
 {"id":"static:674950BB","en":"Rune Name","ru":"Название руны"}
@@ -1475,7 +1475,7 @@
 {"id":"static:68B6C810","en":"Complete","ru":"Завершено"}
 {"id":"static:68E5696C","en":"APPVER:'","ru":"APPVER:'"}
 {"id":"static:68E69347","en":"~Crafted~","ru":"~Создано~"}
-{"id":"static:68F414A8","en":"The annual Fleece amateur shrub-pruning contest was held as scheduled, but this time something astonishing happened. For this rookie reporter, that heaven-sent scoop was a true blessing, and I dashed to the scene as eagerly as a Folog leaping at bait. \nPaul, who came from the Rosia Empire, was invited by a friend to take part in this year's contest, and won first place with his entry \"Perfect Square,\" earning the highest score in the contest's history. But at that moment, when everyone should have been celebrating, right after receiving his award, he grabbed his gardening shears and charged at the second-place entry. In just three snips, the runner-up piece \"Dancing Chimomo\" became \"Slippery Xiaoyu\"—every branch was cut away, and the shrub was reduced to a perfectly round sphere. \nAs a result, Paul was stripped of his eligibility and his first-place title for deliberately destroying another contestant's work. \nWhen I asked him afterward about his motive, he told me he's actually a bit neurotic... \n\"A friend invited me to enter. They said I could earn Yuni if I trimmed that thing into a square. It wasn't hard, so I finished quickly—but the person next to me, what they were cutting, I just couldn't stand it. Doesn't it bother you to see all those extra branches? Ugh, I was breaking out in cold sweats from how uncomfortable it was...\" \n\"Shut up!\" \nBetween interviews, the creator of \"Dancing Chimomo\" came running over. \n\"That's not Xiaoyu, it's Chimomo! Those branches aren't extra either! They're an abstract representation of a Chimomo's tentacles!\" \nThe heated argument drew the attention of other contestants and spectators alike. Oh dear, looks like another brawl is starting. At least I won't be short on material for the next issue. \nAnyway, the victory effectively went to third place—a boy living in Fleece named Paul. His piece, titled \"Burning Art,\" was extremely original; rather than gardening shears, he shaped the shrub with fire. The scorch marks scattered across the lush green shrub were the scars of the plant being torn apart in the flames, and the remaining branches and leaves reaching upward alongside those wounds spoke of indomitable vitality, leaving a powerful impression on all who saw it. This work is truly the most concrete expression of the pain of growth.","ru":"Ежегодный любительский конкурс по обрезке кустарников во Флисе прошёл по расписанию, но на этот раз случилось нечто поразительное. Для меня, начинающего репортёра, эта свалившаяся с неба сенсация стала настоящим благословением, и я помчался на место, как Фолог, бросающийся на приманку. \nПол, прибывший из Империи Розия, по приглашению друга принял участие в нынешнем конкурсе и победил со своей работой «Идеальный квадрат», набрав высший балл за всю историю конкурса. Но в тот самый момент, когда все должны были праздновать, сразу после награждения он схватил садовые ножницы и бросился к работе, занявшей второе место. Всего тремя срезами работа под названием «Танцующий Тимомо» превратилась в «гладкую Сяоюй» — все ветви были срезаны, и кустарник стал идеально ровным шаром. \nВ результате Пола лишили права участвовать в конкурсе и права на первое место за умышленное уничтожение чужой работы. \nКогда после конкурса я спросил его о мотивах, он ответил, что на самом деле он немного нервный... \n«Друг пригласил меня участвовать. Сказал, что если подстричь это в квадрат, можно заработать Юни. Это было не так уж сложно, я быстро управился, но то, что стриг сосед, я просто не мог вытерпеть. Неужели тебя не раздражает смотреть на лишние ветки? Ах, у меня от этого холодный пот градом шёл, настолько неприятно...» \n«Замолчи!» \nВо время интервью к нам подбежал автор «Танцующего Тимомо». \n«Это не Сяоюй, а Тимомо! И эти ветки не лишние! Это абстрактное изображение щупалец Тимомо!» \nЯростная перепалка привлекла внимание других участников и зрителей, пришедших на конкурс. Ох, кажется, снова началась драка. Зато на материал для следующего выпуска жаловаться не придётся. \nТак или иначе, победа фактически досталась занявшему третье место — мальчику по имени Пол, живущему во Флисе. Его работа под названием «Пылающее искусство» оказалась крайне оригинальной: вместо садовых ножниц он создал её, обрезая кустарник огнём. Разбросанные по густой зелени кустарника подпалины были следами того, как растение раздирало пламя, а оставшиеся ветви и листья, тянущиеся вверх вместе с этими ранами, говорили о несгибаемой жизненной силе и производили сильное впечатление на каждого, кто их видел. Эта работа — поистине самое наглядное выражение боли роста."}
+{"id":"static:68F414A8","en":"The annual Fleece amateur shrub-pruning contest was held as scheduled, but this time something astonishing happened. For this rookie reporter, that heaven-sent scoop was a true blessing, and I dashed to the scene as eagerly as a Folog leaping at bait.\nPaul, who came from the Rosia Empire, was invited by a friend to take part in this year's contest, and won first place with his entry \"Perfect Square,\" earning the highest score in the contest's history. But at that moment, when everyone should have been celebrating, right after receiving his award, he grabbed his gardening shears and charged at the second-place entry. In just three snips, the runner-up piece \"Dancing Chimomo\" became \"Slippery Xiaoyu\"—every branch was cut away, and the shrub was reduced to a perfectly round sphere.\nAs a result, Paul was stripped of his eligibility and his first-place title for deliberately destroying another contestant's work.\nWhen I asked him afterward about his motive, he told me he's actually a bit neurotic...\n\"A friend invited me to enter. They said I could earn Yuni if I trimmed that thing into a square. It wasn't hard, so I finished quickly—but the person next to me, what they were cutting, I just couldn't stand it. Doesn't it bother you to see all those extra branches? Ugh, I was breaking out in cold sweats from how uncomfortable it was...\"\n\"Shut up!\"\nBetween interviews, the creator of \"Dancing Chimomo\" came running over.\n\"That's not Xiaoyu, it's Chimomo! Those branches aren't extra either! They're an abstract representation of a Chimomo's tentacles!\"\nThe heated argument drew the attention of other contestants and spectators alike. Oh dear, looks like another brawl is starting. At least I won't be short on material for the next issue.\nAnyway, the victory effectively went to third place—a boy living in Fleece named Paul. His piece, titled \"Burning Art,\" was extremely original; rather than gardening shears, he shaped the shrub with fire. The scorch marks scattered across the lush green shrub were the scars of the plant being torn apart in the flames, and the remaining branches and leaves reaching upward alongside those wounds spoke of indomitable vitality, leaving a powerful impression on all who saw it. This work is truly the most concrete expression of the pain of growth.","ru":"Ежегодный любительский конкурс по обрезке кустарников во Флисе прошёл по расписанию, но на этот раз случилось нечто поразительное. Для меня, начинающего репортёра, эта свалившаяся с неба сенсация стала настоящим благословением, и я помчался на место, как Фолог, бросающийся на приманку.\nПол, прибывший из Империи Розия, по приглашению друга принял участие в нынешнем конкурсе и победил со своей работой «Идеальный квадрат», набрав высший балл за всю историю конкурса. Но в тот самый момент, когда все должны были праздновать, сразу после награждения он схватил садовые ножницы и бросился к работе, занявшей второе место. Всего тремя срезами работа под названием «Танцующий Тимомо» превратилась в «гладкую Сяоюй» — все ветви были срезаны, и кустарник стал идеально ровным шаром.\nВ результате Пола лишили права участвовать в конкурсе и права на первое место за умышленное уничтожение чужой работы.\nКогда после конкурса я спросил его о мотивах, он ответил, что на самом деле он немного нервный...\n«Друг пригласил меня участвовать. Сказал, что если подстричь это в квадрат, можно заработать Юни. Это было не так уж сложно, я быстро управился, но то, что стриг сосед, я просто не мог вытерпеть. Неужели тебя не раздражает смотреть на лишние ветки? Ах, у меня от этого холодный пот градом шёл, настолько неприятно...»\n«Замолчи!»\nВо время интервью к нам подбежал автор «Танцующего Тимомо».\n«Это не Сяоюй, а Тимомо! И эти ветки не лишние! Это абстрактное изображение щупалец Тимомо!»\nЯростная перепалка привлекла внимание других участников и зрителей, пришедших на конкурс. Ох, кажется, снова началась драка. Зато на материал для следующего выпуска жаловаться не придётся.\nТак или иначе, победа фактически досталась занявшему третье место — мальчику по имени Пол, живущему во Флисе. Его работа под названием «Пылающее искусство» оказалась крайне оригинальной: вместо садовых ножниц он создал её, обрезая кустарник огнём. Разбросанные по густой зелени кустарника подпалины были следами того, как растение раздирало пламя, а оставшиеся ветви и листья, тянущиеся вверх вместе с этими ранами, говорили о несгибаемой жизненной силе и производили сильное впечатление на каждого, кто их видел. Эта работа — поистине самое наглядное выражение боли роста."}
 {"id":"static:68F9741E","en":"Profession\\xB7Logging","ru":"Профессия\\xB7Лесозаготовка"}
 {"id":"static:69221112","en":"Nothing useful here for now","ru":"Здесь пока ничего полезного"}
 {"id":"static:692E6C27","en":"Hatching","ru":"Вылупление"}
@@ -1506,7 +1506,7 @@
 {"id":"static:6ABE2A0A","en":"Current time:","ru":"Текущее время:"}
 {"id":"static:6ABEBEC3","en":"Premium Wheat Stock","ru":"Запас отборной пшеницы"}
 {"id":"static:6AD54F02","en":"Purchased","ru":"Куплено"}
-{"id":"static:6AF6577A","en":"A birthday festival ticket given by the Village Chief. \nUsing it increases the number of birthday festival entries by 1.","ru":"Пригласительный на праздник рождения, подаренный старостой. \nИспользование увеличивает число входов на праздник рождения на 1."}
+{"id":"static:6AF6577A","en":"A birthday festival ticket given by the Village Chief.\nUsing it increases the number of birthday festival entries by 1.","ru":"Пригласительный на праздник рождения, подаренный старостой.\nИспользование увеличивает число входов на праздник рождения на 1."}
 {"id":"static:6B00AAB2","en":"Agricultural Research","ru":"Сельскохозяйственные исследования"}
 {"id":"static:6B17E865","en":"Exploration II","ru":"Исследование II"}
 {"id":"static:6B28799F","en":"A","ru":"A"}
@@ -1647,7 +1647,7 @@
 {"id":"static:751D31DD","en":"05","ru":"05"}
 {"id":"static:7533EFC2","en":"Back","ru":"Спина"}
 {"id":"static:7536BA42","en":"TIME:'","ru":"ВРЕМЯ:'"}
-{"id":"static:7547C4A4","en":"The 3th hit of a Normal Attack deals area fire damage and applies Burn to hit targets. Targets take damage equal to 30% of ATK every second (for 8 sec).","ru":"3-й удар обычной атаки наносит огненный урон по области и накладывает на задетые цели горение. Цели каждую секунду получают урон в размере 30% от силы атаки (8 сек.)."}
+{"id":"static:7547C4A4","en":"The 3rd hit of a Normal Attack deals area fire damage and applies Burn to hit targets. Targets take damage equal to 30% of ATK every second (for 8 sec).","ru":"3-й удар обычной атаки наносит огненный урон по области и накладывает на задетые цели горение. Цели каждую секунду получают урон в размере 30% от силы атаки (8 сек.)."}
 {"id":"static:757F1AB3","en":"Go to Settings","ru":"Перейти в настройки"}
 {"id":"static:758520CB","en":"ALLIY MISSION","ru":"ЗАДАНИЕ СОЮЗА"}
 {"id":"static:758853CD","en":"Profile Card","ru":"Карточка профиля"}
@@ -1879,8 +1879,8 @@
 {"id":"static:86986461","en":"Tap the empty space below to close","ru":"Нажмите на пустое место ниже, чтобы закрыть"}
 {"id":"static:86AAFAA7","en":"Head","ru":"Голова"}
 {"id":"static:86C98449","en":"Press the key to assign","ru":"Нажмите клавишу для назначения"}
-{"id":"static:86D3A394","en":"Blocked Notifications \n","ru":"Заблокированные уведомления \n"}
-{"id":"static:86D688A8","en":"The [Starborn Guidebook] is here to help you as you arrive on the Promilia Continent!\nBuilding your base / Starlink with Kibo / Defeating powerful foes / Discovering secrets... Follow the guide and explore \nthis world step by step!","ru":"[Путеводитель Звездорождённого] здесь, чтобы помочь вам, только что прибывшим на континент Промилия!\nОбустройство базы / Звёздная связь с кибо / Победа над сильными врагами / Раскрытие тайн… Следуйте путеводителю и шаг за шагом исследуйте \nэтот мир!"}
+{"id":"static:86D3A394","en":"Blocked Notifications\n","ru":"Заблокированные уведомления\n"}
+{"id":"static:86D688A8","en":"The [Starborn Guidebook] is here to help you as you arrive on the Promilia Continent!\nBuilding your base / Starlink with Kibo / Defeating powerful foes / Discovering secrets... Follow the guide and explore\nthis world step by step!","ru":"[Путеводитель Звездорождённого] здесь, чтобы помочь вам, только что прибывшим на континент Промилия!\nОбустройство базы / Звёздная связь с кибо / Победа над сильными врагами / Раскрытие тайн… Следуйте путеводителю и шаг за шагом исследуйте\nэтот мир!"}
 {"id":"static:86E4B169","en":"Full Speed Duplicate","ru":"Дублирование на полной скорости"}
 {"id":"static:86F18C80","en":"Raise Kibo","ru":"Развивать кибо"}
 {"id":"static:8736E1B0","en":"Leaving in 09:50.","ru":"Выход через 09:50."}
@@ -1905,7 +1905,7 @@
 {"id":"static:88A31DD6","en":"Starlink successful!","ru":"Звёздная связь установлена!"}
 {"id":"static:88DE4C64","en":"Selected:","ru":"Выбрано:"}
 {"id":"static:88E6724A","en":"Test text","ru":"Тестовый текст"}
-{"id":"static:88E6CDBD","en":"Your companions all have very special identities... with features that obvious, finding them may not be hard. I hope they receive the protection of \nBaijiu [Zuzanka] and stay safe\nYour companions all have very special identities... with features that obvious, finding them may not be hard.","ru":"У всех твоих спутников очень особые приметы... с такими заметными чертами найти их, пожалуй, нетрудно. Надеюсь, они получат защиту \nБайцзю [Цзуцзаньки] и останутся невредимы\nУ всех твоих спутников очень особые приметы... с такими заметными чертами найти их, пожалуй, нетрудно."}
+{"id":"static:88E6CDBD","en":"Your companions all have very special identities... with features that obvious, finding them may not be hard. I hope they receive the protection of\nBaijiu [Zuzanka] and stay safe\nYour companions all have very special identities... with features that obvious, finding them may not be hard.","ru":"У всех твоих спутников очень особые приметы... с такими заметными чертами найти их, пожалуй, нетрудно. Надеюсь, они получат защиту\nБайцзю [Цзуцзаньки] и останутся невредимы\nУ всех твоих спутников очень особые приметы... с такими заметными чертами найти их, пожалуй, нетрудно."}
 {"id":"static:88EC56DB","en":"Lv.7","ru":"Ур.7"}
 {"id":"static:890A4480","en":"Travelogue Level Boost","ru":"Ускорение уровня дневника"}
 {"id":"static:89159F86","en":"Stage 3-2","ru":"Этап 3-2"}
@@ -1956,7 +1956,7 @@
 {"id":"static:8C668137","en":"Ranch Management Manual","ru":"Руководство по управлению загоном"}
 {"id":"static:8C670F8C","en":"EXP","ru":"Опыт"}
 {"id":"static:8C6B0EFD","en":"Replay Tutorial","ru":"Повторить обучение"}
-{"id":"static:8C94134F","en":"2D","ru":"2д"}
+{"id":"static:8C94134F","en":"2D","ru":"2D"}
 {"id":"static:8CA06189","en":"Mellowmie","ru":"Меллоуми"}
 {"id":"static:8CA0B02B","en":"You can continue exploring.","ru":"Вы можете продолжить исследование."}
 {"id":"static:8CA14C77","en":"Lilith","ru":"Лилит"}
@@ -1977,7 +1977,7 @@
 {"id":"static:8DF8FD60","en":"6min","ru":"6 мин"}
 {"id":"static:8DFF4B83","en":"Resurrection Dew","ru":"Роса воскрешения"}
 {"id":"static:8E01A14E","en":"Curio Details","ru":"Подробности диковины"}
-{"id":"static:8E05B447","en":"2 Set: Increases the wearer's DEF by 15%. When the wearer's Effect Hit exceeds \n50%, further increases DEF by 15%.","ru":"2 (комплект): повышает защиту владельца на 15%. Если показатель эффекта владельца превышает \n50%, защита дополнительно повышается на 15%."}
+{"id":"static:8E05B447","en":"2 Set: Increases the wearer's DEF by 15%. When the wearer's Effect Hit exceeds\n50%, further increases DEF by 15%.","ru":"2 (комплект): повышает защиту владельца на 15%. Если показатель эффекта владельца превышает\n50%, защита дополнительно повышается на 15%."}
 {"id":"static:8E159D21","en":"Skill","ru":"Навык"}
 {"id":"static:8E1AE2AD","en":"Normal","ru":"Обычный"}
 {"id":"static:8E26B675","en":"Satiety","ru":"Сытость"}
@@ -2079,7 +2079,7 @@
 {"id":"static:93DA4C47","en":"Shock! The winner of the shrub pruning contest is disqualified!","ru":"Шок! Победителя конкурса по обрезке кустарников лишили приза!"}
 {"id":"static:9421D7C6","en":"Auto-refills daily at 4:00","ru":"Автоматически пополняется ежедневно в 4:00"}
 {"id":"static:943E6D33","en":"Daily","ru":"Ежедневное"}
-{"id":"static:945A47C4","en":"Possible reward (opening a Treasure Chest costs \n)","ru":"Возможная награда (открытие сундука с сокровищами стоит \n)"}
+{"id":"static:945A47C4","en":"Possible reward (opening a Treasure Chest costs\n)","ru":"Возможная награда (открытие сундука с сокровищами стоит\n)"}
 {"id":"static:946F5C8C","en":"Eyes","ru":"Глаза"}
 {"id":"static:94730A42","en":"For this item","ru":"Для этого предмета"}
 {"id":"static:947D5155","en":"Level Up","ru":"Повышение уровня"}
@@ -2150,7 +2150,7 @@
 {"id":"static:9847A5EB","en":"Filter List","ru":"Список фильтров"}
 {"id":"static:985A1C2A","en":"Rotate Model","ru":"Вращать модель"}
 {"id":"static:985B4F7E","en":"Pajamas","ru":"Пижама"}
-{"id":"static:98671C9C","en":"1P","ru":"1О"}
+{"id":"static:98671C9C","en":"1P","ru":"1P"}
 {"id":"static:986FFB30","en":"Selected:","ru":"Выбрано:"}
 {"id":"static:9875E246","en":"Rewards reset after","ru":"Сброс наград через"}
 {"id":"static:98AB49E4","en":"Equip All","ru":"Экипировать всё"}
@@ -2216,7 +2216,7 @@
 {"id":"static:9E368D03","en":"Color Correction","ru":"Коррекция цвета"}
 {"id":"static:9E36C047","en":"Rare Starfall Fruit 111","ru":"Редкий плод звездопада 111"}
 {"id":"static:9E4AB393","en":"Parameter Settings","ru":"Настройки параметров"}
-{"id":"static:9E52F750","en":"Add Friend \n","ru":"Добавить друга \n"}
+{"id":"static:9E52F750","en":"Add Friend\n","ru":"Добавить друга\n"}
 {"id":"static:9E8CA6B2","en":"Accept All","ru":"Принять всё"}
 {"id":"static:9EA73A4A","en":"To Adventure","ru":"В приключение"}
 {"id":"static:9EC02C6D","en":"Easy","ru":"Легко"}
@@ -2251,7 +2251,7 @@
 {"id":"static:A078EB5E","en":"\\xB7 New quest!","ru":"\\xB7 Новое задание!"}
 {"id":"static:A08D2FC4","en":"Exchange All","ru":"Обменять все"}
 {"id":"static:A09002EC","en":"[Elemental Storm]","ru":"［Элементный шторм］"}
-{"id":"static:A0B1A25F","en":"2P","ru":"2О"}
+{"id":"static:A0B1A25F","en":"2P","ru":"2P"}
 {"id":"static:A0C4F95F","en":"Mellowmie","ru":"Меллоуми"}
 {"id":"static:A0DD3F63","en":"Umi's fluidity is proof that it will slip in wherever there is a gap. Leave an empty jar or bottle lying around long enough, and before you know it, Umis seem to well up inside...","ru":"Текучесть уми доказывает, что они проникают в любую щель. Если надолго оставить пустую банку или бутылку, уми, кажется, словно сами собой в ней заводятся..."}
 {"id":"static:A0E48A88","en":"Left and Right Eye Sync","ru":"Синхронизация глаз"}
@@ -2531,7 +2531,7 @@
 {"id":"static:B50339A1","en":"NONE","ru":"НЕТ"}
 {"id":"static:B53171DB","en":"When dispatched to a mining site, ore mining time is reduced by 5%.","ru":"При отправке на рудник время добычи руды сокращается на 5%."}
 {"id":"static:B539D1CF","en":"Exclusive Icon","ru":"Эксклюзивная иконка"}
-{"id":"static:B544585E","en":"Because you've grown close to the Cabbirds, they're overjoyed. They've laid lots of \n eggs and even gave you 2 as a gift!\n\\\nWith a 50% chance, gain 100 Fragments and 2 random Sacred Relics from 1★ to 3★. \n\\\nWith a 25% chance, lose 1 3★ Sacred Relics. \n\\\nWith a 25% chance, nothing happens.","ru":"Вы так сблизились с капустокрылами, что они очень обрадовались. Они снесли много яиц — \n шт. — и даже подарили вам 2!\n\\\nС вероятностью 50% вы получите 100 осколков и 2 случайных священных реликвий от 1★ до 3★. \n\\\nС вероятностью 25% вы потеряете 1 священных реликвий 3★. \n\\\nС вероятностью 25% ничего не произойдёт."}
+{"id":"static:B544585E","en":"Because you've grown close to the Cabbirds, they're overjoyed. They've laid lots of\n eggs and even gave you 2 as a gift!\n\\\nWith a 50% chance, gain 100 Fragments and 2 random Sacred Relics from 1★ to 3★.\n\\\nWith a 25% chance, lose 1 3★ Sacred Relics.\n\\\nWith a 25% chance, nothing happens.","ru":"Вы так сблизились с капустокрылами, что они очень обрадовались. Они снесли много яиц —\n шт. — и даже подарили вам 2!\n\\\nС вероятностью 50% вы получите 100 осколков и 2 случайных священных реликвий от 1★ до 3★.\n\\\nС вероятностью 25% вы потеряете 1 священных реликвий 3★.\n\\\nС вероятностью 25% ничего не произойдёт."}
 {"id":"static:B568A7D0","en":"Factor Details","ru":"Детали фактора"}
 {"id":"static:B56CAAB2","en":"Tap anywhere to close","ru":"Нажмите в любом месте, чтобы закрыть"}
 {"id":"static:B58C7549","en":"Add","ru":"Добавить"}
@@ -2564,7 +2564,7 @@
 {"id":"static:B8596277","en":"Bonus","ru":"Бонус"}
 {"id":"static:B860D750","en":"Complete Hatching","ru":"Завершить вылупление"}
 {"id":"static:B8771BC6","en":"AFFECTION","ru":"AFFECTION"}
-{"id":"static:B88A19B6","en":"A grilled fish seasoned with just a touch of Fullmoon Grass as a spice. The Fullmoon Grass removes the gaminess of the \n meat and adds the fresh fragrance of the \n forest to the crisp grilled aroma, making the whole dish even crispier","ru":"Рыба на гриле, приправленная щепоткой лунной травы. Лунная трава убирает специфический привкус мяса \n и вместе с хрустящим ароматом жареной рыбы придаёт свежее благоухание леса \n, делая всё блюдо ещё более хрустящим"}
+{"id":"static:B88A19B6","en":"A grilled fish seasoned with just a touch of Fullmoon Grass as a spice. The Fullmoon Grass removes the gaminess of the\n meat and adds the fresh fragrance of the\n forest to the crisp grilled aroma, making the whole dish even crispier","ru":"Рыба на гриле, приправленная щепоткой лунной травы. Лунная трава убирает специфический привкус мяса\n и вместе с хрустящим ароматом жареной рыбы придаёт свежее благоухание леса\n, делая всё блюдо ещё более хрустящим"}
 {"id":"static:B899DA91","en":"This dish cannot be placed in the mount food slot","ru":"Это блюдо нельзя поместить в ячейку корма для ездового животного"}
 {"id":"static:B8B3EF80","en":"Innate","ru":"Врождённое"}
 {"id":"static:B8BACF8D","en":"New Discovery","ru":"Новое открытие"}
@@ -2725,7 +2725,7 @@
 {"id":"static:C2850A36","en":"Ranked top 19 among the creatures Pami fears most, its prominent triangular-cone forelimbs strike fear into most intelligent races","ru":"Входит в топ-19 существ, которых Пами боится больше всего; его заметные передние конечности в форме треугольных конусов пугают большинство разумных рас"}
 {"id":"static:C28CACC0","en":"·Innate Factors cannot be swapped","ru":"·Врождённые факторы нельзя заменить"}
 {"id":"static:C29E4097","en":"Synthesize","ru":"Синтез"}
-{"id":"static:C2D06DF0","en":"//The 3th hit of a Normal Attack deals area flame damage and applies Burn to targets hit. Affected targets take 30% of ATK as damage per second for 8 seconds.","ru":"//3-й удар Обычной атаки наносит огненный урон по площади и накладывает Горение на поражённых противников. Поражённые цели получают 30% от силы атаки в секунду в течение 8 секунд."}
+{"id":"static:C2D06DF0","en":"//The 3rd hit of a Normal Attack deals area flame damage and applies Burn to targets hit. Affected targets take 30% of ATK as damage per second for 8 seconds.","ru":"//3-й удар Обычной атаки наносит огненный урон по площади и накладывает Горение на поражённых противников. Поражённые цели получают 30% от силы атаки в секунду в течение 8 секунд."}
 {"id":"static:C2D7F1AF","en":"First Time","ru":"Впервые"}
 {"id":"static:C2DACAE3","en":"Tap to enter marker name","ru":"Нажмите, чтобы ввести название метки"}
 {"id":"static:C2DC41F5","en":"Clear Difficulty V to unlock the recipe","ru":"Пройдите сложность V, чтобы открыть рецепт"}
@@ -2774,7 +2774,7 @@
 {"id":"static:C5F3AE50","en":"Fixed Trait","ru":"Фиксированная особенность"}
 {"id":"static:C5FA2B8D","en":"Please select an exploration policy.","ru":"Выберите направление исследования."}
 {"id":"static:C61EB884","en":"Not Unlocked","ru":"Не разблокировано"}
-{"id":"static:C632B276","en":"Game Copyright Owner: Shanghai Jimi Network Technology Co., Ltd. Operating Entity: Shanghai Jimi Wangsha Ge Technology Co., Ltd. Publishing Service Entity: Shanghai Scientific and Technological Literature Publishing House Co., Ltd.\nApproval Number: Guo Xin Chu Shen (2023)1787Copyright Registration No.: 2023SR0534580Publication No.: ISBN978-7-498-12746-4\nFiling No.: Wen Wang You Bei Zi [【2023】]M-RPG8051\n","ru":"Правообладатель игры: Shanghai Jimi Network Technology Co., Ltd. Оператор: Shanghai Jimi Wangsha Ge Technology Co., Ltd. Издательская служба: Shanghai Scientific and Technological Literature Publishing House Co., Ltd.\nНомер одобрения: Guo Xin Chu Shen (2023)1787Регистрационный номер авторского права: 2023SR0534580Номер издания: ISBN978-7-498-12746-4\nРегистрационный номер: Wen Wang You Bei Zi [【2023】]M-RPG8051\n"}
+{"id":"static:C632B276","en":"Game Copyright Owner: Shanghai Jimi Network Technology Co., Ltd. Operating Entity: Shanghai Jimi Wangsha Ge Technology Co., Ltd. Publishing Service Entity: Shanghai Scientific and Technological Literature Publishing House Co., Ltd.\nApproval Number: Guo Xin Chu Shen (2023)1787\nCopyright Registration No.: 2023SR0534580\nPublication No.: ISBN978-7-498-12746-4\nFiling No.: Wen Wang You Bei Zi [【2023】]M-RPG8051\n","ru":"Правообладатель игры: Shanghai Jimi Network Technology Co., Ltd. Оператор: Shanghai Jimi Wangsha Ge Technology Co., Ltd. Издательская служба: Shanghai Scientific and Technological Literature Publishing House Co., Ltd.\nНомер одобрения: Guo Xin Chu Shen (2023)1787\nРегистрационный номер авторского права: 2023SR0534580\nНомер издания: ISBN978-7-498-12746-4\nРегистрационный номер: Wen Wang You Bei Zi [【2023】]M-RPG8051\n"}
 {"id":"static:C64E5608","en":"The gathering point's storage is full. Please collect the items soon.","ru":"Хранилище точки сбора заполнено. Пожалуйста, заберите ресурсы поскорее."}
 {"id":"static:C666AD11","en":"Traits","ru":"Особенности"}
 {"id":"static:C67146E1","en":"In the End, Return to the Sea of Stars","ru":"В конце концов вернёшься к морю звёзд"}
@@ -2868,7 +2868,7 @@
 {"id":"static:CE0CFB3D","en":"Total Owned","ru":"Всего в наличии"}
 {"id":"static:CE1C7E1A","en":"Explosion","ru":"Взрыв"}
 {"id":"static:CE302DA7","en":"Build an Order Post","ru":"Построить пункт заказов"}
-{"id":"static:CE459F65","en":"To gather research materials for the Village Chief, you need to deliver herbs from Sprout Valley.\nDeliver the items brought back from Sprout Valley to the Village Chief: \n[Spicy Aipple x5] [Stale Bread x1] [Popo Grass x5].","ru":"Чтобы собрать материалы для исследований старосты, нужно сдать травы из Долины Ростков.\nПередайте старосте принесённые из Долины Ростков предметы: \n[Острый эйпл ×5] [Чёрствый хлеб ×1] [Трава попо ×5]."}
+{"id":"static:CE459F65","en":"To gather research materials for the Village Chief, you need to deliver herbs from Sprout Valley.\nDeliver the items brought back from Sprout Valley to the Village Chief:\n[Spicy Aipple x5] [Stale Bread x1] [Popo Grass x5].","ru":"Чтобы собрать материалы для исследований старосты, нужно сдать травы из Долины Ростков.\nПередайте старосте принесённые из Долины Ростков предметы:\n[Острый эйпл ×5] [Чёрствый хлеб ×1] [Трава попо ×5]."}
 {"id":"static:CE5DEB30","en":"Depart","ru":"Отправиться"}
 {"id":"static:CE875BAA","en":"Go to Adjust","ru":"Перейти к настройке"}
 {"id":"static:CE8C2752","en":"Craftable: 4","ru":"Можно создать: 4"}
@@ -2917,7 +2917,7 @@
 {"id":"static:D1B7D5C2","en":"Enemy Level","ru":"Уровень противника"}
 {"id":"static:D1D5F473","en":"The 3 hit of a Normal Attack deals area fire damage and sets hit targets ablaze, dealing damage equal to 30% of ATK per second. Lasts 8 seconds.","ru":"3-й удар обычной атаки наносит огненный урон по области и поджигает задетые цели, нанося урон, равный 30% от атаки, каждую секунду. Длится 8 секунд."}
 {"id":"static:D1F85D1E","en":"Remaining attempts today","ru":"Осталось попыток сегодня"}
-{"id":"static:D20CAEC3","en":"L","ru":"У"}
+{"id":"static:D20CAEC3","en":"L","ru":"L"}
 {"id":"static:D22E1444","en":"Obtained:","ru":"Получено:"}
 {"id":"static:D232B0CF","en":"Test text","ru":"Тестовый текст"}
 {"id":"static:D233B163","en":"TODO_Hello, Starborn~ Here is today's login bonus. Please accept it~~~_TODO","ru":"TODO_Здравствуй, Звездорождённый~ Вот ежедневная награда за вход. Пожалуйста, прими её~~~_TODO"}
@@ -2933,7 +2933,7 @@
 {"id":"static:D3427148","en":"Temporary","ru":"Временный"}
 {"id":"static:D34AAC0E","en":"Failed to complete the trial","ru":"Не удалось пройти испытание"}
 {"id":"static:D34CF999","en":"Overall Rating","ru":"Общая оценка"}
-{"id":"static:D36D1296","en":"5Time","ru":"5Время"}
+{"id":"static:D36D1296","en":"5h","ru":"5 ч"}
 {"id":"static:D3C12A0E","en":"In List","ru":"В списке"}
 {"id":"static:D4BCBEC5","en":"Skill Haste","ru":"Ускорение навыков"}
 {"id":"static:D4C1236B","en":"Active Nodes","ru":"Активные узлы"}
@@ -2994,7 +2994,7 @@
 {"id":"static:D9510286","en":"Current Wave:","ru":"Текущая волна:"}
 {"id":"static:D966B86F","en":"Invincible Thunderfire","ru":"Непобедимый громовой огонь"}
 {"id":"static:D96C6713","en":"Starting Grass Delivery Mission","ru":"Запуск задания по доставке травы"}
-{"id":"static:D996024D","en":"A Kibo Egg obtained with great effort in the snowy mountains of the highlands. It feels cool \nto the touch. A clever Kibo is likely to hatch!","ru":"Яйцо кибо, с трудом добытое в Снежных горах на высокогорье. На ощупь прохладное \n. Судя по всему, вылупится умный кибо!"}
+{"id":"static:D996024D","en":"A Kibo Egg obtained with great effort in the snowy mountains of the highlands. It feels cool\nto the touch. A clever Kibo is likely to hatch!","ru":"Яйцо кибо, с трудом добытое в Снежных горах на высокогорье. На ощупь прохладное\n. Судя по всему, вылупится умный кибо!"}
 {"id":"static:D99AB4A8","en":"Yuzhou Boundary Ruins","ru":"Руины границы Юйчжоу"}
 {"id":"static:D9A2FD47","en":"(+5) Crit DMG","ru":"(+5) Крит. урон"}
 {"id":"static:D9AC9228","en":"Craft","ru":"Создать"}
@@ -3034,14 +3034,14 @@
 {"id":"static:DC7C5C85","en":"Map Exploration","ru":"Исследование карты"}
 {"id":"static:DC7FE48F","en":"Mutation","ru":"Мутация"}
 {"id":"static:DCB4195C","en":"Path of Guidance","ru":"Путь наставления"}
-{"id":"static:DCC3C8C8","en":"Can inherit all of carrier [Nanami]'s attributes \n10%","ru":"Может унаследовать все атрибуты носителя [Нанами] \n10%"}
+{"id":"static:DCC3C8C8","en":"Can inherit all of carrier [Nanami]'s attributes\n10%","ru":"Может унаследовать все атрибуты носителя [Нанами]\n10%"}
 {"id":"static:DCC55E4C","en":"Weekly purchase limit: 60","ru":"Недельный лимит покупок: 60"}
 {"id":"static:DCD9528A","en":"Ascension","ru":"Возвышение"}
 {"id":"static:DCF1D6EC","en":"NEW!!","ru":"NEW!!"}
 {"id":"static:DCF57CCE","en":"A new stage of Star Journey Record has been unlocked","ru":"Открыт новый этап записей звёздного пути"}
 {"id":"static:DD058A54","en":"Switch Ending","ru":"Сменить концовку"}
 {"id":"static:DD201928","en":"Spring","ru":"Весна"}
-{"id":"static:DD753679","en":"I","ru":"Я"}
+{"id":"static:DD753679","en":"I","ru":"I"}
 {"id":"static:DD7E6DCE","en":"Gifts available today:","ru":"Подарков сегодня:"}
 {"id":"static:DD7FF4FF","en":"Full","ru":"Заполнено"}
 {"id":"static:DD92F2C4","en":"Set Bonus (2): Wearer's DEF +15%. Wearer's Effect Hit 1","ru":"Бонус комплекта (2): защита носителя +15%. Точность эффектов носителя 1"}
@@ -3051,7 +3051,7 @@
 {"id":"static:DDF091CF","en":"Start Recording","ru":"Начать запись"}
 {"id":"static:DDF20B1A","en":"Duelist with Interpretation Level Lv.5","ru":"Дуэлянт с уровнем интерпретации Ур.5"}
 {"id":"static:DDFDBCEE","en":"Repaired damaged parts","ru":"Повреждённые части восстановлены"}
-{"id":"static:DE199736","en":"Young Paul said, \"It wasn't me who competed—it was Peachy. This little one just sneezed... and you liked the shrub this little one burned? I didn't quite get it, but the judges seemed pleased!\" \nBeside him, Peachy sneezed several times in time with the story. Each time, small sparks burst out, nearly flying onto this reporter's clothes—they don't seem to be feeling well. Perhaps they should visit the Sanatorium.\nThat concludes this on-site report from the contest.\nAt the upcoming proper Fleece Shrub Pruning Contest, even more people will gather in Fleece from all over the world. Just what kinds of works will we get to see? Stay tuned.","ru":"Юный Пол сказал: «Выступал не я, а Пичи. Эта малышка просто чихнула... и вам понравился куст, который она сожгла? Я не совсем понял, но судьям, похоже, понравилось!» \nРядом Пичи несколько раз чихнула в такт рассказу. Каждый раз вылетали маленькие искры, едва не попав на одежду автора этих строк, — похоже, она неважно себя чувствует. Пожалуй, стоит заглянуть в санаторий.\nНа этом репортаж с места проведения конкурса завершается.\nНа предстоящем полноценном конкурсе обрезки кустарников во Флисе соберётся ещё больше людей со всего мира. Какие же работы нам доведётся увидеть? С нетерпением ждём."}
+{"id":"static:DE199736","en":"Young Paul said, \"It wasn't me who competed—it was Peachy. This little one just sneezed... and you liked the shrub this little one burned? I didn't quite get it, but the judges seemed pleased!\"\nBeside him, Peachy sneezed several times in time with the story. Each time, small sparks burst out, nearly flying onto this reporter's clothes—they don't seem to be feeling well. Perhaps they should visit the Sanatorium.\nThat concludes this on-site report from the contest.\nAt the upcoming proper Fleece Shrub Pruning Contest, even more people will gather in Fleece from all over the world. Just what kinds of works will we get to see? Stay tuned.","ru":"Юный Пол сказал: «Выступал не я, а Пичи. Эта малышка просто чихнула... и вам понравился куст, который она сожгла? Я не совсем понял, но судьям, похоже, понравилось!»\nРядом Пичи несколько раз чихнула в такт рассказу. Каждый раз вылетали маленькие искры, едва не попав на одежду автора этих строк, — похоже, она неважно себя чувствует. Пожалуй, стоит заглянуть в санаторий.\nНа этом репортаж с места проведения конкурса завершается.\nНа предстоящем полноценном конкурсе обрезки кустарников во Флисе соберётся ещё больше людей со всего мира. Какие же работы нам доведётся увидеть? С нетерпением ждём."}
 {"id":"static:DE24BFB7","en":"Item","ru":"Предмет"}
 {"id":"static:DE268286","en":"MAX","ru":"МАКС"}
 {"id":"static:DE2D10AD","en":"Normal Attack DMG Boost","ru":"Усиление урона обычной атаки"}
@@ -3122,7 +3122,7 @@
 {"id":"static:E2CBF882","en":"Accept Invitation","ru":"Принять приглашение"}
 {"id":"static:E2D3E211","en":"Recipe List","ru":"Список рецептов"}
 {"id":"static:E2DD6A00","en":"SURVEY REWARDS","ru":"SURVEY REWARDS"}
-{"id":"static:E2E99791","en":"Release \n","ru":"Выпустить \n"}
+{"id":"static:E2E99791","en":"Release\n","ru":"Выпустить\n"}
 {"id":"static:E2FE818E","en":"Save Preset","ru":"Сохранить набор"}
 {"id":"static:E302F6CD","en":"Staff","ru":"Посох"}
 {"id":"static:E318ECB6","en":"After evolution, stats increase and the Kibo's skills and traits may change","ru":"После эволюции характеристики повышаются, а навыки и особенности кибо могут измениться"}
@@ -3172,7 +3172,7 @@
 {"id":"static:E5D48CA7+1","en":"Player is in control...","ru":"Управление у игрока……"}
 {"id":"static:E5D48CA7+2","en":"Player is in control...","ru":"Управление у игрока……"}
 {"id":"static:E5D9F3CF","en":"Add","ru":"Добавить"}
-{"id":"static:E5EE73B2","en":"Track \n","ru":"Отслеживать \n"}
+{"id":"static:E5EE73B2","en":"Track\n","ru":"Отслеживать\n"}
 {"id":"static:E5EF4931","en":"NO.8","ru":"NO.8"}
 {"id":"static:E5F71FC3","en":"Search","ru":"Поиск"}
 {"id":"static:E5F85C56","en":"Hide MI_Character","ru":"Скрыть MI_Character"}
@@ -3341,7 +3341,7 @@
 {"id":"static:F1862177","en":"O","ru":"O"}
 {"id":"static:F1943132","en":"70%","ru":"70%"}
 {"id":"static:F1A220BD","en":"Nothing for now","ru":"Пока ничего"}
-{"id":"static:F1BC348F","en":"Grilled fish seasoned with a very small amount of moonfull grass as a spice. Moonfull grass removes the gaminess of \n meat and, in addition to the crisp aroma of grilled fish, lends it the fresh scent of the \n forest, making the whole dish even crispier\n12312123123\n12312123123\n12312123123","ru":"Жареная рыба, приправленная совсем небольшим количеством лунной травы в качестве специи. Лунная трава убирает запах дичи у \n мяса и, помимо хрустящего аромата жареной рыбы, придаёт ей свежий запах \n леса, делая всё блюдо ещё хрустящее\n12312123123\n12312123123\n12312123123"}
+{"id":"static:F1BC348F","en":"Grilled fish seasoned with a very small amount of moonfull grass as a spice. Moonfull grass removes the gaminess of\n meat and, in addition to the crisp aroma of grilled fish, lends it the fresh scent of the\n forest, making the whole dish even crispier\n12312123123\n12312123123\n12312123123","ru":"Жареная рыба, приправленная совсем небольшим количеством лунной травы в качестве специи. Лунная трава убирает запах дичи у\n мяса и, помимо хрустящего аромата жареной рыбы, придаёт ей свежий запах\n леса, делая всё блюдо ещё хрустящее\n12312123123\n12312123123\n12312123123"}
 {"id":"static:F1CBD082","en":"Satiety","ru":"Сытость"}
 {"id":"static:F1CE1EBE","en":"Add to Blocklist","ru":"Добавить в чёрный список"}
 {"id":"static:F1D4FF50","en":"Customize","ru":"Настроить"}
@@ -3447,7 +3447,7 @@
 {"id":"static:F7F82B9C","en":"New Content Preview","ru":"Анонс нового контента"}
 {"id":"static:F7F86CFE","en":"Skill List","ru":"Список навыков"}
 {"id":"static:F7FCDD39+2","en":"Standby","ru":"Ожидание"}
-{"id":"static:F81ADAA7","en":"The 3th hit of a Normal Attack deals Fire Attribute damage in an area and sets hit enemies ablaze. Burning enemies take 30% of ATK as damage every \n (for 8 sec).","ru":"3-й удар обычной атаки наносит огненный атрибутный урон по области и поджигает задетых противников. Горящие противники получают урон в размере 30% от силы атаки каждые \n (в течение 8 сек)."}
+{"id":"static:F81ADAA7","en":"The 3rd hit of a Normal Attack deals Fire Attribute damage in an area and sets hit enemies ablaze. Burning enemies take 30% of ATK as damage every\n (for 8 sec).","ru":"3-й удар обычной атаки наносит огненный атрибутный урон по области и поджигает задетых противников. Горящие противники получают урон в размере 30% от силы атаки каждые\n (в течение 8 сек)."}
 {"id":"static:F821457A","en":"Lv.1","ru":"Ур.1"}
 {"id":"static:F821A75D","en":"Enter account","ru":"Введите аккаунт"}
 {"id":"static:F843DAA2","en":"Author: Terara","ru":"Автор: Терара"}

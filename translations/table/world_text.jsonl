@@ -369,8 +369,8 @@
 {"id":"world_text:4312452107862272","en":"Hey, Master. Are we really evacuating the village?","ru":"Слушай, учитель. Мы правда уходим из деревни?"}
 {"id":"world_text:4312456402829568","en":"I don't want to leave either… but it's the Village Chief's order. We have no choice but to obey.","ru":"Мне тоже не хочется уходить… но это приказ старосты. Придётся подчиниться."}
 {"id":"world_text:4312460697796864","en":"Do you think… we can ever come back?","ru":"Как думаешь… мы ещё сможем вернуться?"}
-{"id":"world_text:4312464992764160","en":"The Village Chief said it's only for a while. \nOnce we deal with that Rudaris fellow, we can come back.","ru":"Староста говорил, что это ненадолго. \nРазделаемся с этим Рударисом — и сможем вернуться."}
-{"id":"world_text:4312469287731456","en":"Ugh… but can we really win? If we evacuate too, \nwon't there be no one left to repair weapons and armor?","ru":"У-у… но неужели мы правда победим? Если мы тоже уйдём, \nкто будет чинить оружие и доспехи?"}
+{"id":"world_text:4312464992764160","en":"The Village Chief said it's only for a while.\nOnce we deal with that Rudaris fellow, we can come back.","ru":"Староста говорил, что это ненадолго.\nРазделаемся с этим Рударисом — и сможем вернуться."}
+{"id":"world_text:4312469287731456","en":"Ugh… but can we really win? If we evacuate too,\nwon't there be no one left to repair weapons and armor?","ru":"У-у… но неужели мы правда победим? Если мы тоже уйдём,\nкто будет чинить оружие и доспехи?"}
 {"id":"world_text:4312473582698752","en":"Yeah, I suppose so… Then beating those Forbidden Zone folks is out of the question…","ru":"Да, пожалуй… Тогда одолеть тех из Запретной зоны точно не выйдет…"}
 {"id":"world_text:4312477877666048","en":"Tinana, need a hand?","ru":"Тинана, помочь?"}
 {"id":"world_text:4312482172633344","en":"First sort out your own load, would you?","ru":"Ты сначала со своим грузом разберись!"}
@@ -598,7 +598,7 @@
 {"id":"world_text:455348150639526144","en":"I don't want to leave either... but it's the Village Chief's order. We have no choice.","ru":"Я и сам не хочу уходить… но это приказ старосты. Придётся подчиниться."}
 {"id":"world_text:455348154934493440","en":"Do you think... we'll be able to come back?","ru":"Как думаешь… мы сможем вернуться?"}
 {"id":"world_text:455348159229460736","en":"The Village Chief said it's only for a little while, didn't he?\nOnce we take down that Rudaris fellow, we can come back.","ru":"Староста же говорил, что это ненадолго.\nРазобьём этого Рудариса — и вернёмся."}
-{"id":"world_text:455348163524428032","en":"Ugh... but can we really win? If we evacuate too, \nwon't everyone be unable to repair their weapons and armor?","ru":"У-у… но мы правда сможем победить? Если мы тоже уйдём, \nкто же будет чинить оружие и доспехи?"}
+{"id":"world_text:455348163524428032","en":"Ugh... but can we really win? If we evacuate too,\nwon't everyone be unable to repair their weapons and armor?","ru":"У-у… но мы правда сможем победить? Если мы тоже уйдём,\nкто же будет чинить оружие и доспехи?"}
 {"id":"world_text:455348167819395328","en":"Yeah, that's right... Then beating those Forbidden Zone folks is out of the question...","ru":"Ага, верно… Тогда одолеть тех из Запретной зоны вообще не выйдет…"}
 {"id":"world_text:455348172114362624","en":"Tinana, want some help?","ru":"Тинана, помочь?"}
 {"id":"world_text:455348176409329920","en":"You deal with your own load first!","ru":"Ты сначала со своим грузом разберись!"}
@@ -814,7 +814,7 @@
 {"id":"world_text:99214212689035520","en":"Are Oliver and the others safe...?","ru":"Оливер и остальные... с ними всё в порядке?"}
 {"id":"world_text:99214216984002816","en":"Damn it, why did this have to happen?","ru":"Чёрт, почему всё так вышло."}
 {"id":"world_text:99214221278970112","en":"An accident like this happened... We won't be able to enter the mine shaft for a while.","ru":"Раз случилась такая авария... какое-то время в шахтный проход не войти."}
-{"id":"world_text:99214225573937408","en":"Oh... my cargo... \nEven Towtow's gone. What am I supposed to do now...","ru":"Ох... Мой груз... \nДаже Таутау пропал. И как мне теперь быть..."}
+{"id":"world_text:99214225573937408","en":"Oh... my cargo...\nEven Towtow's gone. What am I supposed to do now...","ru":"Ох... Мой груз...\nДаже Таутау пропал. И как мне теперь быть..."}
 {"id":"world_text:99214229868904704","en":"Towtow's gone too... what am I supposed to do now...","ru":"И Таутау пропал... что мне теперь делать..."}
 {"id":"world_text:99214234163872000","en":"No, no...\n I can't let this talisman be peeled off!","ru":"Нет, нет...\n я не могу позволить снять этот талисман!"}
 {"id":"world_text:99214607826026752","en":"Where are the records of Amalthea...?","ru":"Где же записи об Амальтее...?"}
