@@ -8,7 +8,7 @@
 {"id":"common_condition:262014479894528","en":"Earn {num} points","ru":"Наберите очки: {num}"}
 {"id":"common_condition:262018774861824","en":"Complete all event quests","ru":"Выполните все квесты события"}
 {"id":"common_condition:262023069829120","en":"Star Knowledge Level {min} or higher, {max} or lower","ru":"Уровень звёздных знаний от {min} до {max}"}
-{"id":"common_condition:262027364796416","en":"Character death","ru":"Гибель персонажа"}
+{"id":"common_condition:262027364796416","en":"Character Incapacitated","ru":"Персонаж выведен из строя"}
 {"id":"common_condition:262031659763712","en":"Battlefield condition met","ru":"Условие поля боя выполнено"}
 {"id":"common_condition:47278999996416","en":"Complete {sciencename} research","ru":"Завершите исследование {sciencename}"}
 {"id":"common_condition:47283294963712","en":"Unlocked when Farm Expansion Level reaches {value}","ru":"Открывается при достижении уровня расширения фермы {value}"}

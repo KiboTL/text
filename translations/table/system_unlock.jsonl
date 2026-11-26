@@ -16,11 +16,11 @@
 {"id":"system_unlock:111669150208","en":"Profile","ru":"Профиль"}
 {"id":"system_unlock:111669151744","en":"Please progress the main story quest.","ru":"Продвиньтесь по основному сюжетному заданию."}
 {"id":"system_unlock:111669152000","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
-{"id":"system_unlock:1120986464768","en":"Story","ru":"Сюжет"}
+{"id":"system_unlock:1120986464768","en":"Episode","ru":"Эпизод"}
 {"id":"system_unlock:1120986466560","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:1125281432064","en":"Voice","ru":"Голос"}
 {"id":"system_unlock:1125281433856","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
-{"id":"system_unlock:1129576399360","en":"Tale","ru":"История"}
+{"id":"system_unlock:1129576399360","en":"Story","ru":"Сюжет"}
 {"id":"system_unlock:1129576401152","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:1133871366656","en":"Exclusive","ru":"Уникальное"}
 {"id":"system_unlock:1133871368448","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
@@ -119,7 +119,7 @@
 {"id":"system_unlock:18923625908480","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:18927920873984","en":"Farm Decorations","ru":"Украшения фермы"}
 {"id":"system_unlock:18927920875776","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
-{"id":"system_unlock:18932215841280","en":"Kibo Wardrobe","ru":"Гардероб кибо"}
+{"id":"system_unlock:18932215841280","en":"Kibo Skin","ru":"Облик кибо"}
 {"id":"system_unlock:18932215843072","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:18936510808576","en":"Character Skins","ru":"Облики персонажей"}
 {"id":"system_unlock:18936510810368","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
@@ -142,7 +142,7 @@
 {"id":"system_unlock:21483426415104","en":"Kibo Potential","ru":"Потенциал кибо"}
 {"id":"system_unlock:21483426416640","en":"Please progress the main story quest.","ru":"Продвиньтесь по основному сюжетному заданию."}
 {"id":"system_unlock:21483426416896","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
-{"id":"system_unlock:21487721382400","en":"Kibo Factor Fruit","ru":"Плод фактора кибо"}
+{"id":"system_unlock:21487721382400","en":"Factor Fruit","ru":"Плод фактора"}
 {"id":"system_unlock:21487721383936","en":"Please progress the main story quest.","ru":"Продвиньтесь по основному сюжетному заданию."}
 {"id":"system_unlock:21487721384192","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:21492016349696","en":"Kibo Sourcevein","ru":"Жила кибо"}
@@ -156,7 +156,7 @@
 {"id":"system_unlock:2156073584896","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:2160368550400","en":"Kibo Growth","ru":"Развитие кибо"}
 {"id":"system_unlock:2160368552192","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
-{"id":"system_unlock:2168958484992","en":"Kibo Wardrobe","ru":"Гардероб кибо"}
+{"id":"system_unlock:2168958484992","en":"Kibo Skin","ru":"Облик кибо"}
 {"id":"system_unlock:2168958486784","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:2173253452288","en":"Part With Kibo","ru":"Прощание с кибо"}
 {"id":"system_unlock:2173253453824","en":"Please progress the main story quest.","ru":"Продвиньтесь по основному сюжетному заданию."}
@@ -267,7 +267,7 @@
 {"id":"system_unlock:3027951944192","en":"Farm Work","ru":"Работа на ферме"}
 {"id":"system_unlock:3027951945728","en":"Please progress the main story quest.","ru":"Продвиньтесь по основному сюжетному заданию."}
 {"id":"system_unlock:3027951945984","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
-{"id":"system_unlock:3032246911488","en":"Sparkle Treasures","ru":"Блестящие редкости"}
+{"id":"system_unlock:3032246911488","en":"Sparkling Treasures","ru":"Сверкающие редкости"}
 {"id":"system_unlock:3032246913024","en":"Reach Star Knowledge Level 13 and complete the \"Villager's Wish\" quest to unlock.","ru":"Открывается при достижении уровня звёздных знаний 13 и выполнении задания «Желание селянина»."}
 {"id":"system_unlock:3032246913280","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:304942678528","en":"Item Acquisition","ru":"Получение предметов"}
@@ -379,7 +379,7 @@
 {"id":"system_unlock:4754528797184","en":"Kibo Fight Handbook","ru":"Справочник кибо-боёв"}
 {"id":"system_unlock:4754528798976","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:4767413699072","en":"Claim Area Level Rewards","ru":"Получить награды за уровень области"}
-{"id":"system_unlock:4767413700608","en":"Complete the side quest \"Let's Have a Kibo Fight!\"","ru":"Выполните побочное задание «Давайте устроим бой кибо!»"}
+{"id":"system_unlock:4767413700608","en":"Unlocked after clearing the side quest \"Let's Start a Kibo Fight!\"","ru":"Открывается после прохождения побочного задания «Давайте начнём бой кибо!»"}
 {"id":"system_unlock:4767413700864","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:51539608064","en":"Achievements","ru":"Достижения"}
 {"id":"system_unlock:51539609856","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
@@ -397,7 +397,7 @@
 {"id":"system_unlock:55834575360","en":"Bag","ru":"Сумка"}
 {"id":"system_unlock:55834577152","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:5587752452608","en":"Exchange Facility Features","ru":"Функции торговой лавки"}
-{"id":"system_unlock:5587752454144","en":"Reach Star Knowledge Level 13 and complete the \"First Step to Riches!\" quest to unlock.","ru":"Открывается при достижении уровня звёздных знаний 13 и выполнении задания «Первый шаг к богатству!»."}
+{"id":"system_unlock:5587752454144","en":"Reach Star Knowledge Level 13 and complete the \"First Step to a Fortune!\" quest to unlock.","ru":"Открывается при достижении уровня звёздных знаний 13 и выполнении задания «Первый шаг к богатству!»."}
 {"id":"system_unlock:5587752454400","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:562640716288","en":"Bag - Anima","ru":"Сумка — анима"}
 {"id":"system_unlock:562640718080","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
@@ -452,7 +452,7 @@
 {"id":"system_unlock:661424964096","en":"Exploration Rate","ru":"Степень исследования"}
 {"id":"system_unlock:661424965632","en":"Please progress the main story quest.","ru":"Продвиньтесь по основному сюжетному заданию."}
 {"id":"system_unlock:661424965888","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
-{"id":"system_unlock:6618544603648","en":"Starlaw Collection","ru":"Сбор звёздного закона"}
+{"id":"system_unlock:6618544603648","en":"Star Rhythm Collection","ru":"Сбор звёздного ритма"}
 {"id":"system_unlock:6618544605184","en":"Please progress the main story quest.","ru":"Продвиньтесь по основному сюжетному заданию."}
 {"id":"system_unlock:6618544605440","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:665719931392","en":"Kibo Puzzle Wheel","ru":"Колесо головоломок кибо"}
@@ -516,7 +516,7 @@
 {"id":"system_unlock:7434588391424","en":"Please progress the main story quest.","ru":"Продвиньтесь по основному сюжетному заданию."}
 {"id":"system_unlock:7434588391680","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:7438883357184","en":"Kibo Fight","ru":"Бой кибо"}
-{"id":"system_unlock:7438883358720","en":"Complete the side quest \"Let's Have a Kibo Fight!\"","ru":"Выполните побочное задание «Давайте устроим бой кибо!»"}
+{"id":"system_unlock:7438883358720","en":"Complete the side quest \"Let's Start a Kibo Fight!\"","ru":"Выполните побочное задание «Давайте начнём бой кибо!»"}
 {"id":"system_unlock:7438883358976","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:7443178324480","en":"Crisis Subjugation","ru":"Подавление кризиса"}
 {"id":"system_unlock:7443178326016","en":"Unlocks after completing the main story commission \"1-5 Prosperity of the People\"","ru":"Открывается после выполнения сюжетного поручения «1-5 Процветание народа»"}
@@ -528,7 +528,7 @@
 {"id":"system_unlock:7451768260608","en":"Unlocks after completing the main story commission \"1-8 Guidance of the Stars\"","ru":"Открывается после выполнения сюжетного поручения «1-8 Звёздное руководство»"}
 {"id":"system_unlock:7451768260864","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:7456063226368","en":"Kibo Fight Tutorial","ru":"Обучение бою кибо"}
-{"id":"system_unlock:7456063227904","en":"Complete the side quest \"Let's Have a Kibo Fight!\"","ru":"Выполните побочное задание «Давайте устроим бой кибо!»"}
+{"id":"system_unlock:7456063227904","en":"Unlocked after clearing the side quest \"Let's Start a Kibo Fight!\"","ru":"Открывается после прохождения побочного задания «Давайте начнём бой кибо!»"}
 {"id":"system_unlock:7456063228160","en":"This feature is currently unavailable.","ru":"Эта функция сейчас недоступна."}
 {"id":"system_unlock:747324310016","en":"Social Wheel","ru":"Социальное колесо"}
 {"id":"system_unlock:747324311552","en":"Please progress the main story quest.","ru":"Продвиньтесь по основному сюжетному заданию."}

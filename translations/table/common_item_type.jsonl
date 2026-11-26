@@ -4,14 +4,14 @@
 {"id":"common_item_type:1301375091456","en":"Ore","ru":"Руда"}
 {"id":"common_item_type:1309965026048","en":"Crop","ru":"Урожай"}
 {"id":"common_item_type:1314259993344","en":"Fruit","ru":"Фрукты"}
-{"id":"common_item_type:1318554960640","en":"Herb","ru":"Лекарственные травы"}
+{"id":"common_item_type:1318554960640","en":"Medicinal Ingredient","ru":"Лекарственный материал"}
 {"id":"common_item_type:1322849927936","en":"Meat, Eggs & Dairy","ru":"Мясо, яйца и молочные продукты"}
 {"id":"common_item_type:1327144895232","en":"Fish","ru":"Рыба"}
 {"id":"common_item_type:1331439862528","en":"Seeds","ru":"Семена"}
 {"id":"common_item_type:1335734829824","en":"Material: Fine Particles","ru":"Материал: мелкие частицы"}
 {"id":"common_item_type:1340029797120","en":"Stella Card Material","ru":"Материал карты звёзд"}
 {"id":"common_item_type:1344324764416","en":"Leather & Cloth","ru":"Кожа и ткань"}
-{"id":"common_item_type:1348619731712","en":"Flowers","ru":"Цветы"}
+{"id":"common_item_type:1348619731712","en":"Flowers and Plants","ru":"Цветы и травы"}
 {"id":"common_item_type:1352914699008","en":"Crafts","ru":"Изделия"}
 {"id":"common_item_type:1357209666304","en":"Currently Unused","ru":"Сейчас не используется"}
 {"id":"common_item_type:1361504633600","en":"Cooking Ingredient","ru":"Полуфабрикат для готовки"}
@@ -24,7 +24,7 @@
 {"id":"common_item_type:1546188227328","en":"Cooking Material","ru":"Кулинарный материал"}
 {"id":"common_item_type:1717986919168","en":"Character EXP Material","ru":"Материал опыта персонажа"}
 {"id":"common_item_type:1726576853760","en":"Kibo EXP Fruit","ru":"Плод опыта кибо"}
-{"id":"common_item_type:1730871821056","en":"Spirit Particle EXP Material","ru":"Материал опыта духовных частиц"}
+{"id":"common_item_type:1730871821056","en":"Anima EXP Material","ru":"Материал опыта анимы"}
 {"id":"common_item_type:1735166788352","en":"Material","ru":"Материал"}
 {"id":"common_item_type:1743756722944","en":"Farm Pet Related","ru":"Связано с питомцами фермы"}
 {"id":"common_item_type:1748051690240","en":"Farm Pet Related","ru":"Связано с питомцами фермы"}
@@ -33,7 +33,7 @@
 {"id":"common_item_type:1765231559424","en":"Potential Training Material","ru":"Материал тренировки потенциала"}
 {"id":"common_item_type:1803886265088","en":"Fishing Rod","ru":"Удочка"}
 {"id":"common_item_type:1808181232384","en":"Fishing Bait","ru":"Рыболовная приманка"}
-{"id":"common_item_type:1821066134272","en":"Star Gift","ru":"Звёздный дар"}
+{"id":"common_item_type:1821066134272","en":"Star Blessing","ru":"Звёздное благословение"}
 {"id":"common_item_type:1846835938048","en":"Removal Charm","ru":"Талисман удаления"}
 {"id":"common_item_type:1851130905344","en":"Exchange Charm","ru":"Талисман обмена"}
 {"id":"common_item_type:1889785611008","en":"Character Tuning Item","ru":"Предмет настройки персонажа"}
@@ -63,7 +63,7 @@
 {"id":"common_item_type:3908420240128","en":"Activity","ru":"Активность"}
 {"id":"common_item_type:3912715207424","en":"Journey Points","ru":"Очки пути"}
 {"id":"common_item_type:4209067950848","en":"Anima Shared Star-Up Material","ru":"Общий материал повышения звёзд анимы"}
-{"id":"common_item_type:429496730368","en":"Stamina Recovery Potion","ru":"Зелье восстановления выносливости"}
+{"id":"common_item_type:429496730368","en":"Stamina Potion","ru":"Зелье выносливости"}
 {"id":"common_item_type:42949673728","en":"Star-Up Material","ru":"Материал для повышения звёзд"}
 {"id":"common_item_type:4295401087697664","en":"Dungeon Entry Ticket","ru":"Билет в подземелье"}
 {"id":"common_item_type:4724464026368","en":"Equipment Crafting Material","ru":"Материал для создания снаряжения"}

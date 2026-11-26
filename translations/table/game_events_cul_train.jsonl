@@ -5,7 +5,7 @@
 {"id":"game_events_cul_train:120259084800","en":"Iai Training","ru":"Тренировка иай"}
 {"id":"game_events_cul_train:124554052096","en":"Iai Training","ru":"Тренировка иай"}
 {"id":"game_events_cul_train:128849019392","en":"Iai Training","ru":"Тренировка иай"}
-{"id":"game_events_cul_train:12884902400","en":"Mana Cultivation","ru":"Постижение маны"}
+{"id":"game_events_cul_train:12884902400","en":"Mana Training","ru":"Тренировка маны"}
 {"id":"game_events_cul_train:133143986688","en":"Counter Slash Training","ru":"Тренировка Ответного разреза"}
 {"id":"game_events_cul_train:137438953984","en":"Counter Slash Training","ru":"Тренировка Ответного разреза"}
 {"id":"game_events_cul_train:141733921280","en":"Counter Slash Training","ru":"Тренировка Ответного разреза"}
@@ -16,7 +16,7 @@
 {"id":"game_events_cul_train:163208757760","en":"Subdue Training","ru":"Тренировка Подавления"}
 {"id":"game_events_cul_train:167503725056","en":"Subdue Training","ru":"Тренировка Подавления"}
 {"id":"game_events_cul_train:171798692352","en":"Subdue Training","ru":"Тренировка Подавления"}
-{"id":"game_events_cul_train:17179869696","en":"Mana Cultivation","ru":"Постижение маны"}
+{"id":"game_events_cul_train:17179869696","en":"Mana Training","ru":"Тренировка маны"}
 {"id":"game_events_cul_train:21474836992","en":"Mana Cultivation","ru":"Постижение маны"}
 {"id":"game_events_cul_train:25769804288","en":"Courage Training","ru":"Тренировка отваги"}
 {"id":"game_events_cul_train:30064771584","en":"Courage Training","ru":"Тренировка отваги"}

@@ -572,10 +572,10 @@
 {"id":"optionData:51539609088","en":"Basic Actions","ru":"Базовые действия"}
 {"id":"optionData:51539609344","en":"Toggle Walk / Run","ru":"Переключение шаг / бег"}
 {"id":"optionData:519691044352","en":"Account Settings","ru":"Настройки аккаунта"}
-{"id":"optionData:519691044608","en":"Azure Promilia Payment Services Act","ru":"«Азур Промилия»: закон о платёжных услугах"}
+{"id":"optionData:519691044608","en":"Notice Pursuant to the Payment Services Act","ru":"Уведомление согласно Закону о платёжных услугах"}
 {"id":"optionData:519691045376","en":"View","ru":"Просмотреть"}
 {"id":"optionData:523986011648","en":"Account Settings","ru":"Настройки аккаунта"}
-{"id":"optionData:523986011904","en":"Azure Promilia Specified Commercial Transactions Act","ru":"«Азур Промилия»: закон о специальных коммерческих сделках"}
+{"id":"optionData:523986011904","en":"Notice Pursuant to the Specified Commercial Transactions Act","ru":"Уведомление согласно Закону о специальных коммерческих сделках"}
 {"id":"optionData:523986012672","en":"View","ru":"Просмотреть"}
 {"id":"optionData:528280978944","en":"Custom Settings","ru":"Пользовательские настройки"}
 {"id":"optionData:528280979200","en":"Shadow Type","ru":"Тип теней"}
@@ -632,7 +632,7 @@
 {"id":"optionData:584115553792","en":"Transparency","ru":"Прозрачность"}
 {"id":"optionData:584115554048","en":"Enemy Damage Display Opacity","ru":"Непрозрачность индикатора урона врагов"}
 {"id":"optionData:588410521088","en":"UI Controls","ru":"Управление интерфейсом"}
-{"id":"optionData:588410521344","en":"Shortcut Bag","ru":"Сумка быстрого доступа"}
+{"id":"optionData:588410521344","en":"Quick Bag","ru":"Быстрая сумка"}
 {"id":"optionData:592705488384","en":"UI Controls","ru":"Управление интерфейсом"}
 {"id":"optionData:592705488640","en":"Observation","ru":"Наблюдение"}
 {"id":"optionData:597000455680","en":"Basic Actions","ru":"Базовые действия"}

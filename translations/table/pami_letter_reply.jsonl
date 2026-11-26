@@ -144,7 +144,7 @@
 {"id":"pami_letter_reply:45030597499815168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:45034883877175808","en":"You've Grown, Pengpeng","ru":"Ты выросла, Пэнпэн"}
 {"id":"pami_letter_reply:45034883877176064","en":"Pengpeng","ru":"Пэнпэн"}
-{"id":"pami_letter_reply:45034883877176320","en":"Whoa, Pengpeng's moment of growth has arrived!? It's natural to worry—once you overcome it, you'll surely reach a new level.","ru":"Ого, у Пэнпэн настал момент роста!? Волноваться — это естественно. Преодолеешь это — и наверняка достигнешь нового уровня."}
+{"id":"pami_letter_reply:45034883877176320","en":"Whoa, Pengpeng's moment of growth has arrived!?\nIt's natural to worry—once you overcome it, you'll surely reach a new level.","ru":"Ого, у Пэнпэн настал момент роста!?\nВолноваться — это естественно. Преодолеешь это — и наверняка достигнешь нового уровня."}
 {"id":"pami_letter_reply:45034883877176576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:45034888172143104","en":"You're Already Amazing","ru":"Ты и так уже молодец"}
 {"id":"pami_letter_reply:45034888172143360","en":"Pengpeng","ru":"Пэнпэн"}
@@ -212,7 +212,7 @@
 {"id":"pami_letter_reply:45889586664047872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:45889590959014400","en":"This Must Be the Power of Believing...","ru":"Наверное, это и есть сила веры..."}
 {"id":"pami_letter_reply:45889590959014656","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
-{"id":"pami_letter_reply:45889590959014912","en":"I've heard that feelings can influence the world... If the feeling of believing is strong enough, surely it can reach a happy ending.","ru":"Говорят, чувства могут влиять на мир... Если вера достаточно сильна, мы непременно придём к счастливому концу."}
+{"id":"pami_letter_reply:45889590959014912","en":"I've heard that feelings can influence the world...\nIf the feeling of believing is strong enough, surely it can reach a happy ending.","ru":"Говорят, чувства могут влиять на мир...\nЕсли вера достаточно сильна, мы непременно придём к счастливому концу."}
 {"id":"pami_letter_reply:45889590959015168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:45893877336375808","en":"I'll Wait for You to Tell Me Yourself.","ru":"Буду ждать, чтобы ты сказала мне это сама."}
 {"id":"pami_letter_reply:45893877336376064","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
@@ -276,7 +276,7 @@
 {"id":"pami_letter_reply:48462276369319168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:48466562746679808","en":"Maybe a happy ending awaits","ru":"Может, нас ждёт хороший конец"}
 {"id":"pami_letter_reply:48466562746680064","en":"Symphoria","ru":"Симфория"}
-{"id":"pami_letter_reply:48466562746680320","en":"Don't worry so much—it's still being serialized, so the story isn't over yet. Who knows? A grand finale might be waiting!","ru":"Не переживай так, ведь рассказ ещё публикуется, история пока не закончена — может, впереди нас ждёт счастливая развязка!"}
+{"id":"pami_letter_reply:48466562746680320","en":"Don't worry so much—it's still being serialized, so the story isn't over yet.\nWho knows? A grand finale might be waiting!","ru":"Не переживай так, ведь рассказ ещё публикуется, история пока не закончена —\nможет, впереди нас ждёт счастливая развязка!"}
 {"id":"pami_letter_reply:48466562746680576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:48466567041647104","en":"Let's live in the present","ru":"Будем жить настоящим"}
 {"id":"pami_letter_reply:48466567041647360","en":"Symphoria","ru":"Симфория"}
@@ -318,9 +318,9 @@
 {"id":"pami_letter_reply:48883178869359360","en":"Metsa","ru":"Метса"}
 {"id":"pami_letter_reply:48883178869359616","en":"No, no, it's more than enough! Honestly, the repair is so lovely that you could say my plain old bag got an upgrade...","ru":"Да нет же, этого более чем достаточно! Честно говоря, заплатка такая красивая, что можно сказать, будто моя простая сумка стала лучше..."}
 {"id":"pami_letter_reply:48883178869359872","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:48883183164326400","en":"I'll give some to your fawn next time","ru":"В следующий раз угощу и твоего оленёнка"}
+{"id":"pami_letter_reply:48883183164326400","en":"Next time, some for the fawn too","ru":"В следующий раз угощу и оленёнка"}
 {"id":"pami_letter_reply:48883183164326656","en":"Metsa","ru":"Метса"}
-{"id":"pami_letter_reply:48883183164326912","en":"Thanks. This fruit is really delicious. Your fawn might like it too. I'll pick a bunch next time.","ru":"Спасибо. Эти фрукты очень вкусные. Твоему оленёнку они тоже могут понравиться. В следующий раз наберу побольше."}
+{"id":"pami_letter_reply:48883183164326912","en":"Thanks. This fruit is really delicious, isn't it? The fawn might like it too. I'll pick a bunch next time.","ru":"Спасибо. Эти фрукты очень вкусные, правда? Оленёнку они тоже могут понравиться. В следующий раз наберу побольше."}
 {"id":"pami_letter_reply:48883183164327168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:48887469541687808","en":"Just a little something to share","ru":"Просто небольшой презент"}
 {"id":"pami_letter_reply:48887469541688064","en":"Metsa","ru":"Метса"}
@@ -336,7 +336,7 @@
 {"id":"pami_letter_reply:48887478131623168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:48891764508983808","en":"What a peaceful routine","ru":"Какие спокойные будни"}
 {"id":"pami_letter_reply:48891764508984064","en":"Metsa","ru":"Метса"}
-{"id":"pami_letter_reply:48891764508984320","en":"Day after day just goes on like that, and I really love that calm, warm feeling. Thanks for telling me. Let's take a walk together sometime.","ru":"Дни текут один за другим, и мне очень нравится это спокойное и тёплое ощущение. Спасибо, что рассказала. Давай как-нибудь прогуляемся вместе."}
+{"id":"pami_letter_reply:48891764508984320","en":"Day after day just goes on like that, and I really love that calm, warm feeling.\nThanks for telling me. Let's take a walk together sometime.","ru":"Дни текут один за другим, и мне очень нравится это спокойное и тёплое ощущение.\nСпасибо, что рассказала. Давай как-нибудь прогуляемся вместе."}
 {"id":"pami_letter_reply:48891764508984576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:48891768803951104","en":"Can't help but dream...","ru":"Невольно начинаю мечтать..."}
 {"id":"pami_letter_reply:48891768803951360","en":"Metsa","ru":"Метса"}
@@ -364,7 +364,7 @@
 {"id":"pami_letter_reply:48900354443576576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:48900358738543104","en":"I'm really looking forward to it!","ru":"Очень жду!"}
 {"id":"pami_letter_reply:48900358738543360","en":"Metsa","ru":"Метса"}
-{"id":"pami_letter_reply:48900358738543616","en":"I can't wait! I'll try everything.","ru":"С нетерпением жду! Всё попробую."}
+{"id":"pami_letter_reply:48900358738543616","en":"I'm really looking forward to it! I'll try everything.","ru":"Очень жду! Всё попробую."}
 {"id":"pami_letter_reply:48900358738543872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:48900363033510400","en":"I feel a little bad about it...","ru":"Мне даже немного неловко..."}
 {"id":"pami_letter_reply:48900363033510656","en":"Metsa","ru":"Метса"}
@@ -412,7 +412,7 @@
 {"id":"pami_letter_reply:49321261238584576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:49321265533551104","en":"How about some exercise?","ru":"Может, займёшься спортом?"}
 {"id":"pami_letter_reply:49321265533551360","en":"Abby","ru":"Эбби"}
-{"id":"pami_letter_reply:49321265533551616","en":"How about trying some exercise? It's a good way to pass the time, and it keeps you fit! Plus, you'll feel great afterward.","ru":"Может, попробуешь позаниматься? Так и время пролетит, и тело укрепишь! А ещё после спорта настроение становится лучше."}
+{"id":"pami_letter_reply:49321265533551616","en":"How about trying some exercise? It's a good way to pass the time, and it keeps you fit!\nPlus, you'll feel great afterward.","ru":"Может, попробуешь позаниматься? Так и время пролетит, и тело укрепишь!\nА ещё после спорта настроение становится лучше."}
 {"id":"pami_letter_reply:49321265533551872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:49321269828518400","en":"Where do you want to play?","ru":"Куда хочешь пойти поиграть?"}
 {"id":"pami_letter_reply:49321269828518656","en":"Abby","ru":"Эбби"}
@@ -420,15 +420,15 @@
 {"id":"pami_letter_reply:49321269828519168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:49325556205879808","en":"No! It's fine...","ru":"Нет! Всё в порядке..."}
 {"id":"pami_letter_reply:49325556205880064","en":"Abby","ru":"Эбби"}
-{"id":"pami_letter_reply:49325556205880320","en":"So... you hit the ball so hard it got stuck in the tree!? Okay, don't worry. Next time we play, I'll teach you how to control your strength.","ru":"То есть... ты так сильно ударила по мячу, что он застрял в дереве!? Ладно, не переживай. В следующий раз, когда будем играть, я научу тебя рассчитывать силы."}
+{"id":"pami_letter_reply:49325556205880320","en":"So... you hit the ball so hard it got stuck in the tree!?\nOkay, don't worry. Next time we play, I'll teach you how to control your strength.","ru":"То есть... ты так сильно ударила по мячу, что он застрял в дереве!?\nЛадно, не переживай. В следующий раз, когда будем играть, я научу тебя рассчитывать силы."}
 {"id":"pami_letter_reply:49325556205880576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:49325560500847104","en":"It's no big deal","ru":"Ничего страшного"}
+{"id":"pami_letter_reply:49325560500847104","en":"Everyone makes mistakes","ru":"Все ошибаются"}
 {"id":"pami_letter_reply:49325560500847360","en":"Abby","ru":"Эбби"}
 {"id":"pami_letter_reply:49325560500847616","en":"Everyone messes up in daily life. As long as you apologize properly and don't do it again, that makes you a good girl.","ru":"В повседневной жизни все ошибаются. Если ты искренне извинишься и не станешь повторять это, ты останешься хорошей девочкой."}
 {"id":"pami_letter_reply:49325560500847872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:49325564795814400","en":"That's dangerous","ru":"Это опасно"}
 {"id":"pami_letter_reply:49325564795814656","en":"Abby","ru":"Эбби"}
-{"id":"pami_letter_reply:49325564795814912","en":"Be careful. If someone ever threatens to stop playing with you unless you do something bad, don't ever go along with it!","ru":"Будь осторожна. Если кто-нибудь станет угрожать, что не будет с тобой играть, чтобы заставить тебя сделать что-то плохое, ни за что не соглашайся!"}
+{"id":"pami_letter_reply:49325564795814912","en":"Be careful. If someone ever threatens to stop playing with you\nunless you do something bad, don't ever go along with it!","ru":"Будь осторожна. Если кто-нибудь станет угрожать, что не будет с тобой играть,\nчтобы заставить тебя сделать что-то плохое, ни за что не соглашайся!"}
 {"id":"pami_letter_reply:49325564795815168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:49329851173175808","en":"Th-that's too thrilling...","ru":"Э-это слишком захватывающе..."}
 {"id":"pami_letter_reply:49329851173176064","en":"Abby","ru":"Эбби"}
@@ -458,9 +458,9 @@
 {"id":"pami_letter_reply:49742168033592064","en":"Terara","ru":"Терара"}
 {"id":"pami_letter_reply:49742168033592320","en":"As expected of Charlulu Village's strongest hunter. You're a big help.","ru":"Как и ожидалось от сильнейшего охотника деревни Шарлулу. На тебя можно положиться."}
 {"id":"pami_letter_reply:49742168033592576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:49742172328559104","en":"I've received your promise","ru":"Обещание принято"}
+{"id":"pami_letter_reply:49742172328559104","en":"Message received","ru":"Принято"}
 {"id":"pami_letter_reply:49742172328559360","en":"Terara","ru":"Терара"}
-{"id":"pami_letter_reply:49742172328559616","en":"Yeah, yeah. I'll gladly take that promise!","ru":"Да-да. С удовольствием приму это обещание!"}
+{"id":"pami_letter_reply:49742172328559616","en":"Yeah, yeah. I'll gladly take that!","ru":"Да-да. С удовольствием приму!"}
 {"id":"pami_letter_reply:49742172328559872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:49742176623526400","en":"The signature is \"Terara here!\"...?","ru":"Подпись — «Это Терара!»...?"}
 {"id":"pami_letter_reply:49742176623526656","en":"Terara","ru":"Терара"}
@@ -496,7 +496,7 @@
 {"id":"pami_letter_reply:49755052935480576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:49755057230447104","en":"That's so like you","ru":"Это так в твоём духе"}
 {"id":"pami_letter_reply:49755057230447360","en":"Terara","ru":"Терара"}
-{"id":"pami_letter_reply:49755057230447616","en":"\"Running around everywhere\"... that's so you, Terara! But it's true, you really are always running around everywhere.","ru":"«Носиться повсюду»... это так в твоём духе, Терара! Но, честно говоря, ты и правда всегда носишься повсюду."}
+{"id":"pami_letter_reply:49755057230447616","en":"\"Running around everywhere\"... that's so you, Terara! It's true, you really are always running around everywhere.","ru":"«Носиться повсюду»... это так в твоём духе, Терара! И правда, ты всегда носишься повсюду."}
 {"id":"pami_letter_reply:49755057230447872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:49755061525414400","en":"The world is vast, and the adventure never ends","ru":"Мир огромен, и приключение не кончается"}
 {"id":"pami_letter_reply:49755061525414656","en":"Terara","ru":"Терара"}
@@ -506,7 +506,7 @@
 {"id":"pami_letter_reply:49759347902776064","en":"Terara","ru":"Терара"}
 {"id":"pami_letter_reply:49759347902776320","en":"That's the Terara I know. Let's meet again soon!","ru":"Это та самая Терара, что я знаю. Давай скоро увидимся!"}
 {"id":"pami_letter_reply:49759347902776576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:49759352197743104","en":"Waiting for a reply sure feels long...","ru":"Ожидание ответа кажется таким долгим..."}
+{"id":"pami_letter_reply:49759352197743104","en":"Waiting for a reply sure feels like forever...","ru":"Ожидание ответа кажется таким долгим..."}
 {"id":"pami_letter_reply:49759352197743360","en":"Terara","ru":"Терара"}
 {"id":"pami_letter_reply:49759352197743616","en":"Yeah, I think talking in person is better! Waiting for a reply sure feels like forever.","ru":"Ага, думаю, лучше поговорить лично! Ожидание ответа и правда кажется вечностью."}
 {"id":"pami_letter_reply:49759352197743872","en":"{playerName}","ru":"{playerName}"}
@@ -556,11 +556,11 @@
 {"id":"pami_letter_reply:50180254697784576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:50180258992751104","en":"I want to know the recipe","ru":"Хочу узнать о составе"}
 {"id":"pami_letter_reply:50180258992751360","en":"Luruka","ru":"Лурука"}
-{"id":"pami_letter_reply:50180258992751616","en":"What else besides that fruit goes into it? I'd like to know what's in the mixture first. Once I check whether it's drinkable, I'll think about whether I need it...","ru":"А что ещё входит в состав, кроме этого плода? Сначала хочу узнать, из чего он. Проверю, можно ли это пить, а потом решу, нужно ли оно мне..."}
+{"id":"pami_letter_reply:50180258992751616","en":"What else besides that fruit goes into it? I'd like to know what's in the mixture first.\nOnce I check whether it's drinkable, I'll think about whether I need it...","ru":"А что ещё входит в состав, кроме этого плода? Сначала хочу узнать, из чего он.\nПроверю, можно ли это пить, а потом решу, нужно ли оно мне..."}
 {"id":"pami_letter_reply:50180258992751872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:50180263287718400","en":"I want some—it'll be a huge help!","ru":"Хочу — это очень пригодится!"}
 {"id":"pami_letter_reply:50180263287718656","en":"Luruka","ru":"Лурука"}
-{"id":"pami_letter_reply:50180263287718912","en":"I want some! Lately I get tired so easily, and I can barely wake up in the morning, so I've been wanting something to clear my head! Thank you for thinking of me!","ru":"Хочу! В последнее время я быстро устаю и по утрам еле просыпаюсь, так что хотелось бы что-нибудь для ясности в голове! Спасибо, что подумала обо мне!"}
+{"id":"pami_letter_reply:50180263287718912","en":"I want some! Lately I get tired so easily, and I can barely wake up in the morning, so I've been wanting something to clear my head!\nThank you for thinking of me!","ru":"Хочу! В последнее время я быстро устаю и по утрам еле просыпаюсь, так что хотелось бы что-нибудь для ясности в голове!\nСпасибо, что подумала обо мне!"}
 {"id":"pami_letter_reply:50180263287719168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:50184549665079808","en":"Honestly, I don't know","ru":"Честно говоря, не знаю"}
 {"id":"pami_letter_reply:50184549665080064","en":"Luruka","ru":"Лурука"}
@@ -584,7 +584,7 @@
 {"id":"pami_letter_reply:50188848927343872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:50188853222310400","en":"They're all warm memories","ru":"Это всё тёплые воспоминания"}
 {"id":"pami_letter_reply:50188853222310656","en":"Luruka","ru":"Лурука"}
-{"id":"pami_letter_reply:50188853222310912","en":"The people of Charlulu Village are always so full of warmth. Looking back on the time we've spent together brings such a warm feeling. No matter how many places I visit from now on, I'll never forget it.","ru":"Жители деревни Шарлулу всегда так сердечны. Когда вспоминаю время, проведённое вместе, на душе становится очень тепло. Сколько бы мест я ни посетил в будущем, я этого не забуду."}
+{"id":"pami_letter_reply:50188853222310912","en":"The people of Charlulu Village are always so full of warmth. Looking back on the time we've\nspent together brings such a warm feeling. No matter how many places I visit from now on, I'll never forget it.","ru":"Жители деревни Шарлулу всегда так сердечны. Когда вспоминаю время, проведённое\nвместе, на душе становится очень тепло. Сколько бы мест я ни посетил в будущем, я этого не забуду."}
 {"id":"pami_letter_reply:50188853222311168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:50257564109111808","en":"Look, a reply came!","ru":"Смотри, пришёл ответ!"}
 {"id":"pami_letter_reply:50257564109112064","en":"Mitty","ru":"Митти"}
@@ -616,7 +616,7 @@
 {"id":"pami_letter_reply:50605456460088576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:50605460755055104","en":"Tell me more","ru":"Расскажи подробнее"}
 {"id":"pami_letter_reply:50605460755055360","en":"Mitty","ru":"Митти"}
-{"id":"pami_letter_reply:50605460755055616","en":"You knocked it out with lightning? You're not hurt, are you? What kind of technique is that? I'm really curious!","ru":"Ты оглушила его электричеством? Ты ведь не пострадала? Что это за приём? Мне очень любопытно!"}
+{"id":"pami_letter_reply:50605460755055616","en":"You took it down with a lightning arrow? You're not hurt, are you? What kind of technique is that? I'm really curious!","ru":"Ты сразила его громовой стрелой? Ты ведь не пострадала? Что это за приём? Мне очень любопытно!"}
 {"id":"pami_letter_reply:50605460755055872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:50605465050022400","en":"So that's the one that hurt Grago...!","ru":"Так это оно и ранило Граго...!"}
 {"id":"pami_letter_reply:50605465050022656","en":"Mitty","ru":"Митти"}
@@ -680,7 +680,7 @@
 {"id":"pami_letter_reply:51030662517359872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:51030666812326400","en":"I'm really glad to get a letter","ru":"Я очень рад получить письмо"}
 {"id":"pami_letter_reply:51030666812326656","en":"Katalua","ru":"Каталуа"}
-{"id":"pami_letter_reply:51030666812326912","en":"Hello. I'm glad to meet you, Katalua.","ru":"Привет. Я рад знакомству с тобой, Каталуа."}
+{"id":"pami_letter_reply:51030666812326912","en":"Hello. I'm glad to get to know you, Katalua.","ru":"Привет. Я рад знакомству с тобой, Каталуа."}
 {"id":"pami_letter_reply:51030666812327168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:51034953189687808","en":"Did someone help you write it?","ru":"Тебе кто-то помогал писать?"}
 {"id":"pami_letter_reply:51034953189688064","en":"Katalua","ru":"Каталуа"}
@@ -780,7 +780,7 @@
 {"id":"pami_letter_reply:51468753476519168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:51473039853879808","en":"Actually, I already tasted it","ru":"На самом деле, я уже попробовал"}
 {"id":"pami_letter_reply:51473039853880064","en":"Morwyn","ru":"Морвин"}
-{"id":"pami_letter_reply:51473039853880320","en":"I tasted “After Midnight” for you. It had a rather unusual flavor. I'm sure you'll like it.","ru":"Я попробовал «Афтер миднайт» за тебя. У него довольно необычный вкус. Уверен, тебе понравится."}
+{"id":"pami_letter_reply:51473039853880320","en":"I tasted “After Midnight” for you. It had a rather unusual flavor.\nI'm sure you'll like it.","ru":"Я попробовал «Афтер миднайт» за тебя. У него довольно необычный вкус.\nУверен, тебе понравится."}
 {"id":"pami_letter_reply:51473039853880576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:51473044148847104","en":"Let's drink together when there's time","ru":"Давай выпьем вместе, когда будет время"}
 {"id":"pami_letter_reply:51473044148847360","en":"Morwyn","ru":"Морвин"}
@@ -800,7 +800,7 @@
 {"id":"pami_letter_reply:51477339116143872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:51477343411110400","en":"You are you","ru":"Ты — это ты"}
 {"id":"pami_letter_reply:51477343411110656","en":"Morwyn","ru":"Морвин"}
-{"id":"pami_letter_reply:51477343411110912","en":"To \"{playerName}\", you have long since been \"Morwyn\" — one of a kind.","ru":"Для «{playerName}» ты уже давно «Морвин» — единственная и неповторимая."}
+{"id":"pami_letter_reply:51477343411110912","en":"To 『{playerName}』, you have long since been 『Morwyn』—one of a kind.","ru":"Для «{playerName}» ты уже давно «Морвин» — единственная и неповторимая."}
 {"id":"pami_letter_reply:51477343411111168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:51546054297911808","en":"I like a challenge","ru":"Люблю испытания"}
 {"id":"pami_letter_reply:51546054297912064","en":"Shalle","ru":"Шалль"}
@@ -892,7 +892,7 @@
 {"id":"pami_letter_reply:52319148411192576","en":"Starborn","ru":"Звездорождённый"}
 {"id":"pami_letter_reply:52319152706159104","en":"A bit too formal!","ru":"Слишком официально!"}
 {"id":"pami_letter_reply:52319152706159360","en":"Lady Hawk","ru":"Владычица Ястреб"}
-{"id":"pami_letter_reply:52319152706159616","en":"It's a little too formal—it reads like an official announcement! Just write as if you were talking to me face to face.","ru":"Это звучит слишком официально — как официальное заявление! Пиши так, будто говоришь со мной с глазу на глаз."}
+{"id":"pami_letter_reply:52319152706159616","en":"It's a little too formal—it reads like an official announcement!\nJust write as if you were talking to me face to face.","ru":"Это звучит слишком официально — как официальное заявление!\nПиши так, будто говоришь со мной с глазу на глаз."}
 {"id":"pami_letter_reply:52319152706159872","en":"Starborn","ru":"Звездорождённый"}
 {"id":"pami_letter_reply:52319157001126400","en":"Send more letters!","ru":"Присылай больше писем!"}
 {"id":"pami_letter_reply:52319157001126656","en":"Lady Hawk","ru":"Владычица Ястреб"}
@@ -962,7 +962,7 @@
 {"id":"pami_letter_reply:53607638599992064","en":"To Nono","ru":"Ноно"}
 {"id":"pami_letter_reply:53607638599992320","en":"It arrived safe and sound. See, if it hadn't, I couldn't have written a reply...","ru":"Оно дошло в целости. Видишь, не дошло бы — я бы и ответить не смог..."}
 {"id":"pami_letter_reply:53607638599992576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:53607642894959104","en":"The addressee on this letter just says 'Addressee'...","ru":"Адресат на письме так и написан — «Адресат»..."}
+{"id":"pami_letter_reply:53607642894959104","en":"She put “Recipient” in the name field…","ru":"В поле имени она указала «Адресат»…"}
 {"id":"pami_letter_reply:53607642894959360","en":"To Nono","ru":"Ноно"}
 {"id":"pami_letter_reply:53607642894959616","en":"Nono, the addressee you wrote is a little vague... but thanks to the reliable Post Office, it still arrived!","ru":"Ноно, адресат ты указала немного расплывчато... но благодаря надёжной Почте письмо всё-таки дошло!"}
 {"id":"pami_letter_reply:53607642894959872","en":"{playerName}","ru":"{playerName}"}
@@ -976,7 +976,7 @@
 {"id":"pami_letter_reply:53611933567288576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:53611937862255104","en":"The addressee's wrong again, isn't it...","ru":"Опять адресат не тот, да..."}
 {"id":"pami_letter_reply:53611937862255360","en":"To Nono","ru":"Ноно"}
-{"id":"pami_letter_reply:53611937862255616","en":"You can't write 'Addressee' where the recipient's name goes. If it's a hassle, just writing 'To Starborn' is enough.","ru":"Нельзя писать «Адресат» там, где должно стоять имя получателя. Если лень, достаточно написать «Звездорождённому»."}
+{"id":"pami_letter_reply:53611937862255616","en":"You can't write 'Addressee' where the recipient's name goes.\nIf it's a hassle, just writing 'To Starborn' is enough.","ru":"Нельзя писать «Адресат» там, где должно стоять имя получателя.\nЕсли лень, достаточно написать «Звездорождённому»."}
 {"id":"pami_letter_reply:53611937862255872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:53611942157222400","en":"I'll keep it safe...","ru":"Я буду бережно хранить..."}
 {"id":"pami_letter_reply:53611942157222656","en":"To Nono","ru":"Ноно"}
@@ -1012,7 +1012,7 @@
 {"id":"pami_letter_reply:53624818469176576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:53624822764143104","en":"Never give up!","ru":"Не сдавайся!"}
 {"id":"pami_letter_reply:53624822764143360","en":"To Nono","ru":"Ноно"}
-{"id":"pami_letter_reply:53624822764143616","en":"Nono, holding on to your passion for exploration all this time is truly admirable. As long as you want to keep going, I'll always be cheering for you.","ru":"Ноно, то, что ты всё это время хранишь страсть к исследованиям, поистине достойно восхищения. Пока ты хочешь продолжать, я всегда буду тебя поддерживать."}
+{"id":"pami_letter_reply:53624822764143616","en":"Nono, holding on to your passion for exploration all this time is truly admirable.\nAs long as you want to keep going, I'll always be cheering for you.","ru":"Ноно, то, что ты всё это время хранишь страсть к исследованиям, поистине достойно восхищения.\nПока ты хочешь продолжать, я всегда буду тебя поддерживать."}
 {"id":"pami_letter_reply:53624822764143872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:53624827059110400","en":"I don't think that's how you use 'kekkou'...","ru":"По-моему, «структура» тут не к месту..."}
 {"id":"pami_letter_reply:53624827059110656","en":"To Nono","ru":"Ноно"}
@@ -1032,7 +1032,7 @@
 {"id":"pami_letter_reply:54037143919527168","en":"Starborn","ru":"Звездорождённый"}
 {"id":"pami_letter_reply:54041430296887808","en":"Nice work, Lily!","ru":"Молодец, Лили!"}
 {"id":"pami_letter_reply:54041430296888064","en":"Lily","ru":"Лили"}
-{"id":"pami_letter_reply:54041430296888320","en":"Lily, nice work! Those people who try to take the easy way are awful! Money matters, but you have to earn it the right way.","ru":"Лили, молодец! Какие же они мерзавцы, раз хотят получить всё легко! Юни — это важно, но добывать их нужно правильным способом."}
+{"id":"pami_letter_reply:54041430296888320","en":"Lily, nice work! Those people who try to take the easy way are awful!\nMoney matters, but you have to earn it the right way.","ru":"Лили, молодец! Какие же они мерзавцы, раз хотят получить всё легко!\nЮни — это важно, но добывать их нужно правильным способом."}
 {"id":"pami_letter_reply:54041430296888576","en":"Starborn","ru":"Звездорождённый"}
 {"id":"pami_letter_reply:54041434591855104","en":"Speaking of scam groups…","ru":"Кстати, о мошенниках..."}
 {"id":"pami_letter_reply:54041434591855360","en":"Lily","ru":"Лили"}
@@ -1052,7 +1052,7 @@
 {"id":"pami_letter_reply:54045729559151872","en":"Your friend","ru":"Твой друг"}
 {"id":"pami_letter_reply:54045733854118400","en":"Just relax!","ru":"Расслабься!"}
 {"id":"pami_letter_reply:54045733854118656","en":"Lily","ru":"Лили"}
-{"id":"pami_letter_reply:54045733854118912","en":"Letters to friends aren't like stiff, formal correspondence, so Lily should relax too! After all, we're best friends!","ru":"Письма друзьям — это не чопорная переписка с одними церемониями, так что Лили тоже может расслабиться! Ведь мы же лучшие друзья!"}
+{"id":"pami_letter_reply:54045733854118912","en":"Letters to friends aren't like stiff, formal correspondence, so Lily should relax too!\nAfter all, we're best friends!","ru":"Письма друзьям — это не чопорная переписка с одними церемониями, так что Лили тоже может расслабиться!\nВедь мы же лучшие друзья!"}
 {"id":"pami_letter_reply:54045733854119168","en":"Your friend","ru":"Твой друг"}
 {"id":"pami_letter_reply:54050020231479808","en":"Maybe there's no right answer.","ru":"Может быть, правильного ответа и нет."}
 {"id":"pami_letter_reply:54050020231480064","en":"Lily","ru":"Лили"}
@@ -1080,9 +1080,9 @@
 {"id":"pami_letter_reply:54054323788711168","en":"Your Starborn","ru":"Твой Звездорождённый"}
 {"id":"pami_letter_reply:54466632059191808","en":"It's my kind of style!","ru":"Это как раз мой стиль!"}
 {"id":"pami_letter_reply:54466632059192064","en":"The Great Artist","ru":"Великая художница"}
-{"id":"pami_letter_reply:54466632059192320","en":"It's totally my kind of taste! It feels less like shopping and more like admiring art—it instantly makes the place feel more refined.","ru":"Это полностью мой вкус! Похоже не на покупки, а на любование искусством — сразу чувствуется, что обстановка стала благороднее."}
+{"id":"pami_letter_reply:54466632059192320","en":"It's totally my kind of taste! It feels less like shopping and more like admiring art—it\ninstantly makes the place feel more refined.","ru":"Это полностью мой вкус! Похоже не на покупки, а на любование искусством — сразу чувствуется,\nчто обстановка стала благороднее."}
 {"id":"pami_letter_reply:54466632059192576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:54466636354159104","en":"So this was the interior style…","ru":"Значит, вот какой у неё интерьер..."}
+{"id":"pami_letter_reply:54466636354159104","en":"I thought I'd come to the wrong place…","ru":"Мне показалось, что я ошибся адресом…"}
 {"id":"pami_letter_reply:54466636354159360","en":"The Great Artist","ru":"Великая художница"}
 {"id":"pami_letter_reply:54466636354159616","en":"I'd heard rumors about this shop from a peddler who'd been to Lebe… but standing in front of a shop like this, I feel like I've come to the wrong place…","ru":"Я слышал слухи об этой лавке от торговца, который бывал в Лебе... но, стоя перед такой лавкой, я чувствую, будто попал не туда..."}
 {"id":"pami_letter_reply:54466636354159872","en":"{playerName}","ru":"{playerName}"}
@@ -1108,7 +1108,7 @@
 {"id":"pami_letter_reply:54475221993784576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:54475226288751104","en":"I've already gotten the book…","ru":"Я уже достал книгу..."}
 {"id":"pami_letter_reply:54475226288751360","en":"Sealer","ru":"Запечатывающий"}
-{"id":"pami_letter_reply:54475226288751616","en":"That line… it really sounds like the kind of story you'd like. I've already gotten the book. I'll start reading it right away, so wait for my thoughts!","ru":"Эта фраза... звучит как раз в духе историй, которые тебе нравятся. Я уже достал книгу. Сразу начну читать, так что жди моих впечатлений!"}
+{"id":"pami_letter_reply:54475226288751616","en":"That line… it really sounds like the kind of story you'd like. I've already gotten the book.\nI'll start reading it right away, so wait for my thoughts!","ru":"Эта фраза... звучит как раз в духе историй, которые тебе нравятся. Я уже достал книгу.\nСразу начну читать, так что жди моих впечатлений!"}
 {"id":"pami_letter_reply:54475226288751872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:54475230583718400","en":"I don't mind spoilers.","ru":"Я не против спойлеров."}
 {"id":"pami_letter_reply:54475230583718656","en":"Sealer","ru":"Запечатывающий"}
@@ -1138,9 +1138,9 @@
 {"id":"pami_letter_reply:54483820518310656","en":"Ruby","ru":"Руби"}
 {"id":"pami_letter_reply:54483820518310912","en":"I haven't even received the gift yet, and you're already thinking about a return gift? But traveling together is a good idea. I'll make plans in advance.","ru":"Я ещё даже не получил подарок, а ты уже думаешь об ответном? Но совместная поездка — хорошая идея. Я всё спланирую заранее."}
 {"id":"pami_letter_reply:54483820518311168","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:54896128788791808","en":"What if it isn't reasonable?","ru":"А если это неразумно?"}
+{"id":"pami_letter_reply:54896128788791808","en":"And if it's outside “reasonable limits”?","ru":"А если просьба выходит за «разумные пределы»?"}
 {"id":"pami_letter_reply:54896128788792064","en":"Cathbelle","ru":"Кэтбелль"}
-{"id":"pami_letter_reply:54896128788792320","en":"So if a request is \"unreasonable,\" you get rid of whoever made it...?","ru":"То есть если просьба «неразумна», ты избавляешься от того, кто её высказал...?"}
+{"id":"pami_letter_reply:54896128788792320","en":"If a request is outside “reasonable limits,” does she take care of the person who made it instead…?","ru":"Если просьба выходит за «разумные пределы», она разбирается с тем, кто её высказал?.."}
 {"id":"pami_letter_reply:54896128788792576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:54896133083759104","en":"I don't have any special requests.","ru":"У меня нет никаких особых просьб."}
 {"id":"pami_letter_reply:54896133083759360","en":"Cathbelle","ru":"Кэтбелль"}
@@ -1184,7 +1184,7 @@
 {"id":"pami_letter_reply:54909017985647872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:54909022280614400","en":"This unique cooking method...","ru":"Этот необычный способ готовки..."}
 {"id":"pami_letter_reply:54909022280614656","en":"Cathbelle","ru":"Кэтбелль"}
-{"id":"pami_letter_reply:54909022280614912","en":"I don't mean any offense, but stuffing fried fish full of fried potatoes with raspberry jam... is that really suitable for breakfast?","ru":"Я не хочу никого обидеть, но набивать жареную рыбу картофелем фри с малиновым вареньем... это правда подходит для завтрака?"}
+{"id":"pami_letter_reply:54909022280614912","en":"No offense, but is a fried fish stuffed to bursting with fries and berry jam really suitable for breakfast?","ru":"Без обид, но жареная рыба, доверху набитая картошкой фри с ягодным вареньем, и правда подходит на завтрак?"}
 {"id":"pami_letter_reply:54909022280615168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:54913308657975808","en":"Then you should relax a little too!","ru":"Тогда и тебе стоит немного расслабиться!"}
 {"id":"pami_letter_reply:54913308657976064","en":"Cathbelle","ru":"Кэтбелль"}
@@ -1298,9 +1298,9 @@
 {"id":"pami_letter_reply:55768007149880064","en":"Peipei","ru":"Пэйпэй"}
 {"id":"pami_letter_reply:55768007149880320","en":"Peipei, you explain things very clearly. The one playing dumb is that customer. As the saying goes, you can never wake someone who's only pretending to sleep...","ru":"Пэйпэй, ты объясняешь очень ясно. Это тот покупатель притворяется, что не понимает. В народе говорят: того, кто только притворяется спящим, никогда не разбудишь..."}
 {"id":"pami_letter_reply:55768007149880576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:55768011444847104","en":"Well done","ru":"Молодец"}
+{"id":"pami_letter_reply:55768011444847104","en":"That's my master!","ru":"Вот это мастер!"}
 {"id":"pami_letter_reply:55768011444847360","en":"Peipei","ru":"Пэйпэй"}
-{"id":"pami_letter_reply:55768011444847616","en":"Quan, well done!!","ru":"Цюань, молодец!!"}
+{"id":"pami_letter_reply:55768011444847616","en":"That's Izumi for you. No wonder you're Peipei's master!","ru":"Вот это Идзуми. Сразу видно, кто наставник Пэйпэй!"}
 {"id":"pami_letter_reply:55768011444847872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:55768015739814400","en":"I'll Listen to You","ru":"Я выслушаю тебя"}
 {"id":"pami_letter_reply:55768015739814656","en":"Peipei","ru":"Пэйпэй"}
@@ -1334,7 +1334,7 @@
 {"id":"pami_letter_reply:56188913944888064","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
 {"id":"pami_letter_reply:56188913944888320","en":"No wonder Xiangzi is always so dependable. You've built it up through daily effort!","ru":"Неудивительно, что на Сянцзы всегда можно положиться. Ты ведь каждый день много трудишься!"}
 {"id":"pami_letter_reply:56188913944888576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:56188918239855104","en":"Ask for details","ru":"Расспросить подробнее"}
+{"id":"pami_letter_reply:56188918239855104","en":"I'd like to hear more","ru":"Хочу узнать подробнее"}
 {"id":"pami_letter_reply:56188918239855360","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
 {"id":"pami_letter_reply:56188918239855616","en":"So the ancient esoteric arts mention legends about the Starborn too? I'd love to hear more about that.","ru":"Получается, в древних тайных искусствах тоже есть предания о Звездорождённых? Мне хочется узнать об этом подробнее."}
 {"id":"pami_letter_reply:56188918239855872","en":"{playerName}","ru":"{playerName}"}
@@ -1376,7 +1376,7 @@
 {"id":"pami_letter_reply:56201803141743872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:56201807436710400","en":"Thank you directly.","ru":"Поблагодарить лично."}
 {"id":"pami_letter_reply:56201807436710656","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
-{"id":"pami_letter_reply:56201807436710912","en":"Then I should thank you too, and your father as well, and the Jade Disc he carried back after fulfilling his duty. Otherwise, I never would have met you, and never had the chance to search with you for the true path of life.","ru":"Тогда и мне стоит поблагодарить тебя, твоего отца и Нефритовый диск, который он принёс, исполнив свой долг. Иначе я бы не встретил тебя и не смог бы вместе с тобой искать настоящий путь жизни."}
+{"id":"pami_letter_reply:56201807436710912","en":"Now that you put it that way, I owe thanks as well.\nBoth to your father and to the jade disc he brought back after fulfilling his duty.\nWithout them, we might never have met or had the chance to find our true path together.","ru":"Раз уж ты об этом заговорила, мне тоже есть за что поблагодарить.\nИ твоего отца, и нефритовый диск, который он принёс, исполнив свой долг.\nИначе мы могли бы никогда не встретиться и не отправиться вместе на поиски своего настоящего пути."}
 {"id":"pami_letter_reply:56201807436711168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:56614115707191808","en":"Yes, thank you.","ru":"Да, спасибо."}
 {"id":"pami_letter_reply:56614115707192064","en":"Maple","ru":"Мейпл"}
@@ -1384,11 +1384,11 @@
 {"id":"pami_letter_reply:56614115707192576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:56614120002159104","en":"You actually noticed me?","ru":"Ты правда меня заметила?"}
 {"id":"pami_letter_reply:56614120002159360","en":"Maple","ru":"Мейпл"}
-{"id":"pami_letter_reply:56614120002159616","en":"Huh? I can't believe Maple noticed me. Does Maple remember everyone she's seen at the Association?","ru":"А? Неужели Мейпл меня заметила. Неужели Мейпл помнит всех, кого видела в Ассоциации?"}
+{"id":"pami_letter_reply:56614120002159616","en":"Huh? I can't believe Maple noticed me.\nDoes Maple remember everyone she's seen at the Association?","ru":"А? Неужели Мейпл меня заметила.\nНеужели Мейпл помнит всех, кого видела в Ассоциации?"}
 {"id":"pami_letter_reply:56614120002159872","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:56614124297126400","en":"Looking forward to working with you.","ru":"Буду рад сотрудничеству."}
+{"id":"pami_letter_reply:56614124297126400","en":"Looking forward to working with you.","ru":"Рассчитываю на дальнейшее сотрудничество."}
 {"id":"pami_letter_reply:56614124297126656","en":"Maple","ru":"Мейпл"}
-{"id":"pami_letter_reply:56614124297126912","en":"Good work, Maple. I'll be showing up at the Adventurers' Association and the Kibo Fight Union a lot from now on, so please look after me!","ru":"Спасибо за труды, Мейпл. С этого дня я буду часто бывать в Ассоциации искателей приключений и Союзе кибо-боёв, так что рассчитываю на тебя!"}
+{"id":"pami_letter_reply:56614124297126912","en":"Good work, Maple. I'll be showing up at the Adventurers' Guild and the Kibo Fight Association a lot from now on, so please look after me!","ru":"Спасибо за труды, Мейпл. С этого дня я буду часто бывать в Гильдии искателей приключений и Ассоциации кибо-боёв, так что рассчитываю на тебя!"}
 {"id":"pami_letter_reply:56614124297127168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:56618410674487808","en":"You're working hard too.","ru":"Ты тоже много трудишься."}
 {"id":"pami_letter_reply:56618410674488064","en":"Maple","ru":"Мейпл"}
@@ -1406,9 +1406,9 @@
 {"id":"pami_letter_reply:56622705641784064","en":"Maple","ru":"Мейпл"}
 {"id":"pami_letter_reply:56622705641784320","en":"I just did it along the way, so don't worry about it.","ru":"Я просто сделал это мимоходом, так что не переживай."}
 {"id":"pami_letter_reply:56622705641784576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:56622709936751104","en":"I want to protect you.","ru":"Я хочу тебя защищать."}
+{"id":"pami_letter_reply:56622709936751104","en":"I just couldn't help myself.","ru":"Просто не сдержался."}
 {"id":"pami_letter_reply:56622709936751360","en":"Maple","ru":"Мейпл"}
-{"id":"pami_letter_reply:56622709936751616","en":"When I saw Maple was in trouble, I rushed in to help before I even thought about it.","ru":"Увидев, что Мейпл попала в беду, я бросился на помощь, не успев даже подумать."}
+{"id":"pami_letter_reply:56622709936751616","en":"When I saw Maple was in trouble, I just couldn't help stepping in.","ru":"Увидев, что Мейпл попала в беду, я не сдержался и вмешался."}
 {"id":"pami_letter_reply:56622709936751872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:56622714231718400","en":"Call on me when you need me.","ru":"Зови меня, если понадоблюсь."}
 {"id":"pami_letter_reply:56622714231718656","en":"Maple","ru":"Мейпл"}
@@ -1432,9 +1432,9 @@
 {"id":"pami_letter_reply:56631295576376576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:56631299871343104","en":"My very best friend.","ru":"Мой самый лучший друг."}
 {"id":"pami_letter_reply:56631299871343360","en":"Maple","ru":"Мейпл"}
-{"id":"pami_letter_reply:56631299871343616","en":"My very best friend. Looking back at your first letter, I never imagined we'd become this close, Maple...","ru":"Мой самый лучший друг. Вспоминая твоё первое письмо, я и подумать не мог, что мы станем настолько близки, Мейпл..."}
+{"id":"pami_letter_reply:56631299871343616","en":"My very best friend.\nLooking back at your first letter, I never imagined we'd become this close, Maple...","ru":"Мой самый лучший друг.\nВспоминая твоё первое письмо, я и подумать не мог, что мы станем настолько близки, Мейпл..."}
 {"id":"pami_letter_reply:56631299871343872","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:56631304166310400","en":"Another kitten, meow.","ru":"Ещё один котёнок, мяу."}
+{"id":"pami_letter_reply:56631304166310400","en":"Another kitten, nya.","ru":"Ещё один котёнок, ня."}
 {"id":"pami_letter_reply:56631304166310656","en":"Maple","ru":"Мейпл"}
 {"id":"pami_letter_reply:56631304166310912","en":"Maple is... of course one of my fellow kittens, nya~","ru":"Мейпл... конечно, мой собрат-котёнок, ня~"}
 {"id":"pami_letter_reply:56631304166311168","en":"{playerName}","ru":"{playerName}"}
@@ -1456,7 +1456,7 @@
 {"id":"pami_letter_reply:57047907404088576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:57047911699055104","en":"The most important thing in training is persistence.","ru":"В тренировках важнее всего постоянство."}
 {"id":"pami_letter_reply:57047911699055360","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
-{"id":"pami_letter_reply:57047911699055616","en":"True strength is something that's polished little by little, isn't it? If you keep up your training, you're sure to gain something from it.","ru":"Истинная сила ведь оттачивается понемногу, правда? Если продолжать тренироваться, ты непременно чего-то добьёшься."}
+{"id":"pami_letter_reply:57047911699055616","en":"True strength is something that's polished little by little, isn't it?\nIf you keep up your training, you're sure to gain something from it.","ru":"Истинная сила ведь оттачивается понемногу, правда?\nЕсли продолжать тренироваться, ты непременно чего-то добьёшься."}
 {"id":"pami_letter_reply:57047911699055872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:57047915994022400","en":"If you need me, I'll help.","ru":"Если понадоблюсь, я помогу."}
 {"id":"pami_letter_reply:57047915994022656","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
@@ -1466,7 +1466,7 @@
 {"id":"pami_letter_reply:57052202371384064","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
 {"id":"pami_letter_reply:57052202371384320","en":"Could you tell me what happened the first time you drew your blade? I'm curious about the event that surprised you, Chiyo.","ru":"Не могла бы ты рассказать, что случилось, когда ты впервые обнажила клинок? Мне любопытно, что же так удивило тебя, Тиё."}
 {"id":"pami_letter_reply:57052202371384576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:57052206666351104","en":"I can entrust it to Chiyo.","ru":"Тиё точно справится."}
+{"id":"pami_letter_reply:57052206666351104","en":"That blade was entrusted to Chiyo.","ru":"Этот клинок доверили именно Тиё."}
 {"id":"pami_letter_reply:57052206666351360","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
 {"id":"pami_letter_reply:57052206666351616","en":"I suppose this is what they call a family heirloom! From what you've said, it sounds like it takes quite a lot to earn that blade's approval. But looking on the bright side, doesn't that just mean Chiyo is highly capable and worthy of entrusting it to?","ru":"Должно быть, это и есть та самая семейная реликвия! Судя по твоим словам, заслужить признание этого клинка совсем непросто. Но если посмотреть с хорошей стороны, разве это не значит, что Тиё достаточно сильна и достойна его носить?"}
 {"id":"pami_letter_reply:57052206666351872","en":"{playerName}","ru":"{playerName}"}
@@ -1478,13 +1478,13 @@
 {"id":"pami_letter_reply:57056497338680064","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
 {"id":"pami_letter_reply:57056497338680320","en":"Enjoying the scenery and relaxing... that matters too, but I'm starting to fall behind on my work here! Help... you've got to help me...","ru":"Любоваться красотами и отдыхать... это тоже важно, но у меня тут уже накопились дела! Помоги... пожалуйста, помоги мне..."}
 {"id":"pami_letter_reply:57056497338680576","en":"{playerName}","ru":"{playerName}"}
-{"id":"pami_letter_reply:57056501633647104","en":"A Spectacular Sight Worth Looking Forward To","ru":"Великолепие, которого стоит ждать"}
+{"id":"pami_letter_reply:57056501633647104","en":"Just imagining it...","ru":"Уже от одного воображения..."}
 {"id":"pami_letter_reply:57056501633647360","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
-{"id":"pami_letter_reply:57056501633647616","en":"A garden in full cherry blossom must be beautiful even just to imagine. I'd love to see such an elegant view every day.","ru":"Сад, утопающий в цветущей сакуре, прекрасен даже в воображении. Хорошо бы и дальше каждый день любоваться таким изящным видом."}
+{"id":"pami_letter_reply:57056501633647616","en":"A garden in full cherry blossom must be beautiful even just to imagine. I'd love to see such a wonderful view every day.","ru":"Сад, утопающий в цветущей сакуре, прекрасен даже в воображении. Хорошо бы и дальше каждый день любоваться таким чудесным видом."}
 {"id":"pami_letter_reply:57056501633647872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:57056505928614400","en":"I'll take care of the tea snacks.","ru":"Закуски к чаю я возьму на себя."}
 {"id":"pami_letter_reply:57056505928614656","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
-{"id":"pami_letter_reply:57056505928614912","en":"Of course! If you're making the tea, I'll prepare some desserts to go with it. By the way, what kind do you like?","ru":"Конечно! Если ты заваришь чай, я подготовлю десерты к нему. Кстати, какие ты любишь?"}
+{"id":"pami_letter_reply:57056505928614912","en":"Of course! If you're making the tea, I'll prepare snacks to go with it. By the way, what kind do you like?","ru":"Конечно! Если ты заваришь чай, я подготовлю к нему закуски. Кстати, какие ты любишь?"}
 {"id":"pami_letter_reply:57056505928615168","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:57060792305975808","en":"Chiyo's Intense Training","ru":"Усердные тренировки Тиё"}
 {"id":"pami_letter_reply:57060792305976064","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
@@ -1492,7 +1492,7 @@
 {"id":"pami_letter_reply:57060792305976576","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:57060796600943104","en":"Don't worry about it.","ru":"Не переживай."}
 {"id":"pami_letter_reply:57060796600943360","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
-{"id":"pami_letter_reply:57060796600943616","en":"Don't worry, a little scratch like that is really nothing. If we ever go all out again, I'll properly take you on.","ru":"Не волнуйся, такая царапина и правда ерунда. Если однажды мы снова сойдёмся всерьёз, я тоже приму бой как следует."}
+{"id":"pami_letter_reply:57060796600943616","en":"Don't worry, a little scratch like that is really nothing. If we spar again, I'll take you on seriously.","ru":"Не волнуйся, такая царапина и правда ерунда. Если однажды мы снова сойдёмся, я приму бой как следует."}
 {"id":"pami_letter_reply:57060796600943872","en":"{playerName}","ru":"{playerName}"}
 {"id":"pami_letter_reply:57060800895910400","en":"When that day comes, I'll be there to see it.","ru":"Когда этот день настанет, я буду рядом и всё увижу."}
 {"id":"pami_letter_reply:57060800895910656","en":"Minamoto Chiyo","ru":"Минамото Тиё"}

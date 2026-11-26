@@ -1,7 +1,7 @@
 {"id":"game_events:1245544810808064","en":"Drifting Reverie","ru":"Парящая грёза"}
 {"id":"game_events:1245544810810368","en":"Advance the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
 {"id":"game_events:1245544810813696","en":"Permanent Event","ru":"Постоянное событие"}
-{"id":"game_events:1245544810814208","en":"Like a lovely afternoon dream drifting across the fields, Starlink with various Kibo to obtain the various mounts known as Umi Cars!","ru":"Словно прекрасный послеполуденный сон, парящий над лугами, устанавливайте звёздную связь с разными кибо и получайте различные средства передвижения — «машины Уми»!"}
+{"id":"game_events:1245544810814208","en":"Like a lovely afternoon dream drifting across the fields, Starlink with various Kibo to obtain a variety of mounts known as Umi Cars!","ru":"Словно прекрасный послеполуденный сон, парящий над лугами, устанавливайте Звёздную связь с разными кибо и получайте различные средства передвижения — «машины Уми»!"}
 {"id":"game_events:12889196856064","en":"Journey of Sprouting","ru":"Путь пробуждения"}
 {"id":"game_events:12889196858368","en":"Advance the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
 {"id":"game_events:12889196861696","en":"Permanent Event","ru":"Постоянное событие"}
@@ -16,13 +16,13 @@
 {"id":"game_events:21479131448064","en":"Star Journey Record: Departure","ru":"Записи звёздного пути: Отправление"}
 {"id":"game_events:21479131450368","en":"Advance the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
 {"id":"game_events:21479131453696","en":"Permanent Event","ru":"Постоянное событие"}
-{"id":"game_events:21479131454208","en":"During the Star Journey Record: Departure period, complete the specified travel records to obtain key rewards such as Oath That Weaves Time and Soul Star Crystal. These travel records also accumulate Star Enlightenment EXP and serve as an important bridge to understanding the world.","ru":"В период «Записей звёздного пути: Отправление» выполняйте указанные записи путешествия, чтобы получить важные награды, такие как «Клятва, ткущая время» и «Кристалл звёздной души». Кроме того, эти записи накапливают опыт звёздного просветления и служат важным мостом к познанию мира."}
+{"id":"game_events:21479131454208","en":"During Star Journey Record: Departure, complete the specified travel records to obtain key rewards such as Oath That Weaves Time and Resonance of the First Kibo. These travel records also accumulate Star Enlightenment EXP and serve as an important bridge to understanding the world.","ru":"В период «Записей звёздного пути: Отправление» выполняйте указанные записи путешествия, чтобы получить важные награды, такие как «Клятва, ткущая время» и «Резонанс первого кибо». Кроме того, эти записи накапливают опыт звёздного просветления и служат важным мостом к познанию мира."}
 {"id":"game_events:257702332728064","en":"A Fateful Meeting Beneath the Blossoms","ru":"Встреча под цветами"}
-{"id":"game_events:257702332730368","en":"Complete the main story quest \"The Girl Who Guards Treasure and the Little Thief\"","ru":"Завершите сюжетное задание «Девочка, хранящая сокровище, и маленький вор»"}
+{"id":"game_events:257702332730368","en":"Complete the main story quest \"The Girl Who Guards Treasure and the Thieving Rat\"","ru":"Завершите сюжетное задание «Девочка, хранящая сокровище, и вор-крыса»"}
 {"id":"game_events:257702332733696","en":"01.03-10.07","ru":"01.03-10.07"}
 {"id":"game_events:257702332734208","en":"The Peach Blossom Charm brought you greetings from Qinghua Township.\nBut it also carried bothersome news: the Practice Test is approaching...","ru":"Персиковый талисман принёс привет из Цинхуа.\nНо вместе с ним пришла и неприятная весть: испытание практики уже близко..."}
 {"id":"game_events:257706627695360","en":"Blades Sing! Hunting Festival","ru":"Звон клинков! Праздник охоты"}
-{"id":"game_events:257706627697664","en":"Complete the main story \"Beneath the Storm Clouds\"","ru":"Завершите основную историю «Под грозовыми тучами»"}
+{"id":"game_events:257706627697664","en":"Complete the main story \"Beneath the Storm of Dark Clouds\"","ru":"Завершите основную историю «Под бурей тёмных туч»"}
 {"id":"game_events:257706627700992","en":"01.03-10.07","ru":"01.03-10.07"}
 {"id":"game_events:257706627701504","en":"The Calamity Beast Hunt Festival is in full swing in Fleece.\nPlacing 1st in the festival earns a reward of one million Yuni. Chiyo is determined to claim it no matter what!","ru":"В Флисе вовсю идёт Фестиваль охоты на бедственных зверей.\nЗа 1-е место на фестивале полагается награда в миллион юни. Тиё твёрдо намерена её заполучить!"}
 {"id":"game_events:300652005688064","en":"Little Xia Training","ru":"Воспитание маленького ся"}
@@ -31,7 +31,7 @@
 {"id":"game_events:300656300655360","en":"Chasing the Evening Mist","ru":"В погоне за вечерней дымкой"}
 {"id":"game_events:300656300657664","en":"Complete the main story quest \"Fledgling Wings\"","ru":"Завершите сюжетное задание «Юные крылья»"}
 {"id":"game_events:300656300660992","en":"Permanent Event","ru":"Постоянное событие"}
-{"id":"game_events:300656300661504","en":"Take on Traces of the Heavenly Dao and obtain the 4★ character Han Youyou!","ru":"Пройдите «Следы небесного пути» и получите персонажа 4★ Хань Юю!"}
+{"id":"game_events:300656300661504","en":"Take on Traces of the Heavenly Dao and obtain the ★4 character Han Youyou!","ru":"Пройдите «Следы небесного пути» и получите персонажа ★4 Хань Юю!"}
 {"id":"game_events:30069066040064","en":"Kibo Scout Team","ru":"Отряд разведки кибо"}
 {"id":"game_events:30069066042368","en":"Advance the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
 {"id":"game_events:30069066045696","en":"01.03-12.25","ru":"01.03-12.25"}
@@ -40,11 +40,11 @@
 {"id":"game_events:38659000634368","en":"Complete the main story quest \"With the Radiance of Stars\"","ru":"Завершите сюжетное задание «Сиянием звёзд»"}
 {"id":"game_events:38659000637696","en":"11.26-12.17","ru":"11.26-12.17"}
 {"id":"game_events:38663295599360","en":"Peach Bonds Woven with a Thousand Threads","ru":"Персиковые узы тысячи нитей"}
-{"id":"game_events:38663295601664","en":"Complete the main story quest \"The Girl Who Guards Treasure and the Little Thief\"","ru":"Завершите сюжетное задание «Девочка, хранящая сокровище, и маленький вор»"}
+{"id":"game_events:38663295601664","en":"Complete the main story quest \"The Girl Who Guards Treasure and the Thieving Rat\"","ru":"Завершите сюжетное задание «Девочка, хранящая сокровище, и вор-крыса»"}
 {"id":"game_events:38663295604992","en":"11.26-12.17","ru":"11.26-12.17"}
 {"id":"game_events:472450697528064","en":"Omen of the Star Shadow","ru":"Знамение звёздной тени"}
 {"id":"game_events:472450697530368","en":"Advance the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
-{"id":"game_events:472450697533696","en":"04.30-05.05","ru":"04.30-05.05"}
+{"id":"game_events:472450697533696","en":"04.30-05.25","ru":"04.30-05.25"}
 {"id":"game_events:64428804408064","en":"Official Social Media Info","ru":"Официальные соцсети"}
 {"id":"game_events:64428804410368","en":"Advance the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
 {"id":"game_events:64428804413696","en":"Permanent Event","ru":"Постоянное событие"}

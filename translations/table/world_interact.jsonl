@@ -80,7 +80,7 @@
 {"id":"world_interact:296352743936","en":"Warp","ru":"Телепорт"}
 {"id":"world_interact:300647711232","en":"Investigate","ru":"Осмотреть"}
 {"id":"world_interact:30064771584","en":"Traversal Jump","ru":"Функциональный прыжок"}
-{"id":"world_interact:309237645824","en":"Scenic Spot","ru":"Живописное место"}
+{"id":"world_interact:309237645824","en":"Photo Spot","ru":"Фотоместо"}
 {"id":"world_interact:313532613120","en":"Warp","ru":"Телепорт"}
 {"id":"world_interact:317827580416","en":"View Commissions","ru":"Посмотреть поручения"}
 {"id":"world_interact:322122547712","en":"Post a Commission","ru":"Выставить поручение"}
@@ -90,7 +90,7 @@
 {"id":"world_interact:339302416896","en":"Gathering Facility_Gather","ru":"Объект сбора_собрать"}
 {"id":"world_interact:343597384192","en":"Gathering Facility_Restore","ru":"Объект сбора_восстановить"}
 {"id":"world_interact:34359738880","en":"Warp","ru":"Телепорт"}
-{"id":"world_interact:34364033335808","en":"ON","ru":"ВКЛ"}
+{"id":"world_interact:34364033335808","en":"On","ru":"Вкл."}
 {"id":"world_interact:34376918237696","en":"Warp","ru":"Телепорт"}
 {"id":"world_interact:347892351488","en":"Gathering Facility_Gather","ru":"Объект сбора_собрать"}
 {"id":"world_interact:352187318784","en":"Gathering Facility_Restore","ru":"Объект сбора_восстановить"}
@@ -144,11 +144,11 @@
 {"id":"world_interact:506806141440","en":"Change Clothes","ru":"Переодеться"}
 {"id":"world_interact:515396076032","en":"Open","ru":"Открыть"}
 {"id":"world_interact:523986010624","en":"Repair","ru":"Починить"}
-{"id":"world_interact:528280977920","en":"ON","ru":"ВКЛ"}
+{"id":"world_interact:528280977920","en":"On","ru":"Вкл."}
 {"id":"world_interact:532575945216","en":"？？？","ru":"？？？"}
 {"id":"world_interact:541165879808","en":"Investigate","ru":"Осмотреть"}
 {"id":"world_interact:579820585472","en":"Enter Dungeon","ru":"Войти в подземелье"}
-{"id":"world_interact:584115552768","en":"Enter Trial","ru":"Войти в испытание"}
+{"id":"world_interact:584115552768","en":"Start Trial","ru":"Начать испытание"}
 {"id":"world_interact:605590389248","en":"Investigate","ru":"Осмотреть"}
 {"id":"world_interact:648540062208","en":"Starlight Spirit Tree","ru":"Древо звёздного сияния"}
 {"id":"world_interact:652835029504","en":"Starlight Spirit Tree Growth","ru":"Рост Древа звёздного сияния"}

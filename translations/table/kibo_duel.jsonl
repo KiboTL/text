@@ -69,7 +69,7 @@
 {"id":"kibo_duel:4325032070400","en":"Huh? Be sure to go easy on me, all right?","ru":"Э? Уж будь со мной помягче, ладно?"}
 {"id":"kibo_duel:4325032070912","en":"Sprout Valley IV","ru":"Долина Ростков IV"}
 {"id":"kibo_duel:4329327037440","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4329327037696","en":"Today's temperature in the valley is... just right for a Kibo Fight, actually.","ru":"Температура в долине сегодня... и правда идеальна для боя кибо."}
+{"id":"kibo_duel:4329327037696","en":"Today's temperature in the valley is... just right for a fight, actually.","ru":"Температура в долине сегодня... и правда идеальна для боя."}
 {"id":"kibo_duel:4329327038208","en":"Sprout Valley IV","ru":"Долина Ростков IV"}
 {"id":"kibo_duel:4333622004736","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4333622004992","en":"I'll show you what I'm made of!","ru":"Я покажу тебе, на что способен!"}
@@ -87,10 +87,10 @@
 {"id":"kibo_duel:4350801874176","en":"I'm all set, so let's get started!","ru":"Я полностью готова, так что давай начнём!"}
 {"id":"kibo_duel:4350801874688","en":"Sprout Valley V","ru":"Долина Ростков V"}
 {"id":"kibo_duel:4355096841216","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4355096841472","en":"Be careful not to get hurt.","ru":"Постарайся не пораниться."}
+{"id":"kibo_duel:4355096841472","en":"Be careful not to get hurt, okay?","ru":"Постарайся не пораниться, хорошо?"}
 {"id":"kibo_duel:4355096841984","en":"Sprout Valley V","ru":"Долина Ростков V"}
 {"id":"kibo_duel:4359391808512","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4359391808768","en":"Very well, let the Kibo Fight begin.","ru":"Хорошо, начинаем бой кибо."}
+{"id":"kibo_duel:4359391808768","en":"All right, let the fight begin.","ru":"Хорошо, начинаем бой."}
 {"id":"kibo_duel:4359391809280","en":"Sprout Valley III","ru":"Долина Ростков III"}
 {"id":"kibo_duel:4363686775808","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4363686776064","en":"Very well, let's have a light sparring match.","ru":"Хорошо, давай слегка разомнёмся."}
@@ -99,13 +99,13 @@
 {"id":"kibo_duel:4367981743360","en":"It's rare for someone to challenge me. Then let's start right away!","ru":"Меня редко вызывают на бой. Тогда давай начнём поскорее!"}
 {"id":"kibo_duel:4367981743872","en":"Sprout Valley III","ru":"Долина Ростков III"}
 {"id":"kibo_duel:4372276710400","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4372276710656","en":"I'll give it my all. I hope you do the same.","ru":"Я буду сражаться в полную силу. Надеюсь, ты тоже."}
+{"id":"kibo_duel:4372276710656","en":"I'll give it my all. You'd best do the same.","ru":"Я буду сражаться в полную силу. И ты тоже выкладывайся по полной."}
 {"id":"kibo_duel:4372276711168","en":"Sprout Valley III","ru":"Долина Ростков III"}
 {"id":"kibo_duel:4376571677696","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4376571677952","en":"This will be good exercise for the Kibo.","ru":"Это станет хорошей разминкой для кибо."}
 {"id":"kibo_duel:4376571678464","en":"Sprout Valley III","ru":"Долина Ростков III"}
 {"id":"kibo_duel:4380866644992","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4380866645248","en":"Please don't go too hard... I'm worried my Kibo might get hurt...","ru":"Пожалуйста, не слишком старайся... Я волнуюсь, как бы мои кибо не пострадали..."}
+{"id":"kibo_duel:4380866645248","en":"Please don't go too hard... I'm worried the Kibo might get hurt...","ru":"Пожалуйста, не слишком старайся... Я волнуюсь, как бы кибо не пострадали..."}
 {"id":"kibo_duel:4380866645760","en":"Sprout Valley IV","ru":"Долина Ростков IV"}
 {"id":"kibo_duel:4385161612288","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4385161612544","en":"Let's begin when you're ready.","ru":"Начнём, когда будешь готов."}
@@ -138,7 +138,7 @@
 {"id":"kibo_duel:4423816318208","en":"I'm a bit busy right now... Let's finish this quickly!","ru":"Мне сейчас немного некогда... Давай покончим с этим быстро!"}
 {"id":"kibo_duel:4423816318720","en":"Sprout Valley IX","ru":"Долина Ростков IX"}
 {"id":"kibo_duel:4428111285248","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4428111285504","en":"A patrol leaves no room for carelessness, but if you're the one asking...","ru":"Во время обхода нельзя расслабляться ни на миг, но раз уж ты просишь..."}
+{"id":"kibo_duel:4428111285504","en":"A patrol leaves no room for carelessness, but if I'm invited...","ru":"Во время обхода нельзя расслабляться ни на миг, но раз уж меня приглашают..."}
 {"id":"kibo_duel:4428111286016","en":"Sprout Valley IX","ru":"Долина Ростков IX"}
 {"id":"kibo_duel:4432406252544","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4432406252800","en":"A showdown beneath the Great Crystal... I sense fate in this!","ru":"Поединок под Великим кристаллом... Я чувствую в этом судьбу!"}
@@ -147,7 +147,7 @@
 {"id":"kibo_duel:4436701220096","en":"A little diversion between patrols... not bad at all.","ru":"Небольшое развлечение между обходами... совсем неплохо."}
 {"id":"kibo_duel:4436701220608","en":"Sprout Valley VII","ru":"Долина Ростков VII"}
 {"id":"kibo_duel:4440996187136","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4440996187392","en":"One mushroom, two mushrooms... A Kibo Fight? No problem. I'm quite used to this place.","ru":"Один гриб, два гриба... Бой кибо? Без проблем. Я уже хорошо освоился здесь."}
+{"id":"kibo_duel:4440996187392","en":"One mushroom, two mushrooms... A Kibo Fight? No problem. I'm quite used to this place.","ru":"Один гриб, два гриба... Бой кибо? Без проблем. Я уже хорошо освоилась здесь."}
 {"id":"kibo_duel:4440996187904","en":"Sprout Valley VII","ru":"Долина Ростков VII"}
 {"id":"kibo_duel:4445291154432","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4445291154688","en":"Well then... I'm in your hands.","ru":"Что ж... Полагаюсь на тебя."}
@@ -174,7 +174,7 @@
 {"id":"kibo_duel:4475355925760","en":"This should be an interesting match.","ru":"Это будет интересный поединок."}
 {"id":"kibo_duel:4475355926272","en":"Fleece II","ru":"Флис II"}
 {"id":"kibo_duel:4479650892800","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4479650893056","en":"I'm not very good at Kibo Fights, but I'll give it my all...","ru":"Я не очень силён в боях кибо, но буду стараться..."}
+{"id":"kibo_duel:4479650893056","en":"I'm not very good at Kibo Fights, but I'll give it my all...","ru":"Я не очень сильна в боях кибо, но буду стараться..."}
 {"id":"kibo_duel:4479650893568","en":"Fleece II","ru":"Флис II"}
 {"id":"kibo_duel:4483945860096","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4483945860352","en":"Come on, then—no time to dawdle.","ru":"Давай, хватит тянуть время."}
@@ -192,7 +192,7 @@
 {"id":"kibo_duel:4501125729536","en":"Stop dawdling and get on with it.","ru":"Не тяни, давай быстрее."}
 {"id":"kibo_duel:4501125730048","en":"Fleece III","ru":"Флис III"}
 {"id":"kibo_duel:4505420696576","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4505420696832","en":"I'm ready whenever you are!","ru":"Я готов в любой момент!"}
+{"id":"kibo_duel:4505420696832","en":"I'm ready whenever you are!","ru":"Я готова в любой момент!"}
 {"id":"kibo_duel:4505420697344","en":"Fleece IV","ru":"Флис IV"}
 {"id":"kibo_duel:4509715663872","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4509715664128","en":"Wanna see who takes command of the battle?","ru":"Хочешь проверить, кто захватит инициативу в бою?"}
@@ -243,7 +243,7 @@
 {"id":"kibo_duel:4574140173568","en":"I won't let my guard down during a fight...","ru":"Я не расслаблюсь во время боя..."}
 {"id":"kibo_duel:4574140174080","en":"Fleece IX","ru":"Флис IX"}
 {"id":"kibo_duel:4578435140608","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4578435140864","en":"Getting the body moving again isn't so bad...","ru":"Размять тело снова — не так уж плохо..."}
+{"id":"kibo_duel:4578435140864","en":"Moving this body again isn't so bad after all...","ru":"Снова размять тело — не так уж плохо..."}
 {"id":"kibo_duel:4578435141376","en":"Fleece IX","ru":"Флис IX"}
 {"id":"kibo_duel:4582730107904","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4582730108160","en":"The wind here feels wonderful. A fight in a place like this will surely be fun.","ru":"Ветер здесь очень приятный. Бой в таком месте наверняка будет весёлым."}
@@ -261,7 +261,7 @@
 {"id":"kibo_duel:4599909977344","en":"I've got nothing else to do right now, so I'll join you for a match.","ru":"Сейчас у меня нет других дел, так что я составлю тебе компанию в поединке."}
 {"id":"kibo_duel:4599909977856","en":"Fleece I","ru":"Флис I"}
 {"id":"kibo_duel:4604204944384","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4604204944640","en":"Bring it on! I've been wanting to stretch my legs!","ru":"Давай! Мне как раз хотелось размяться!"}
+{"id":"kibo_duel:4604204944640","en":"Come on! I've been wanting to stretch my legs!","ru":"Давай! Мне как раз хотелось размяться!"}
 {"id":"kibo_duel:4604204945152","en":"Fleece I","ru":"Флис I"}
 {"id":"kibo_duel:4608499911680","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4608499911936","en":"Don't go easy on me just because I'm short!","ru":"Не поддавайся мне только из-за того, что я маленького роста!"}
@@ -276,7 +276,7 @@
 {"id":"kibo_duel:4621384813824","en":"Don't underestimate me—I've got plenty of match experience!","ru":"Не недооценивай меня — у меня богатый опыт поединков!"}
 {"id":"kibo_duel:4621384814336","en":"Fleece VI","ru":"Флис VI"}
 {"id":"kibo_duel:4625679780864","en":"Difficulty: Easy","ru":"Сложность: легко"}
-{"id":"kibo_duel:4625679781120","en":"I'm glad I got to fight you...","ru":"Как хорошо, что мне довелось сразиться с тобой..."}
+{"id":"kibo_duel:4625679781120","en":"I'm glad I got to fight you.","ru":"Как хорошо, что мне довелось сразиться с тобой."}
 {"id":"kibo_duel:4625679781632","en":"Fleece IV","ru":"Флис IV"}
 {"id":"kibo_duel:4629974748160","en":"Difficulty: Easy","ru":"Сложность: легко"}
 {"id":"kibo_duel:4629974748416","en":"Are we starting a fight now?\nI'm getting kind of excited!","ru":"Мы сейчас начинаем бой?\nМне уже как-то волнительно!"}
@@ -294,19 +294,19 @@
 {"id":"kibo_duel:4647154617600","en":"The wind howling through the valley heralds my victory...","ru":"Ветер, бушующий над долиной, возвещает мою победу..."}
 {"id":"kibo_duel:4647154618112","en":"Sprout Valley IX","ru":"Долина Ростков IX"}
 {"id":"kibo_duel:4651449584640","en":"Difficulty: Normal","ru":"Сложность: обычная"}
-{"id":"kibo_duel:4651449584896","en":"Don't push yourself too hard. It'd be trouble if you got hurt.","ru":"Не переусердствуй. Будет беда, если ты поранишься."}
+{"id":"kibo_duel:4651449584896","en":"Don't push yourself too hard. It'd be terrible if you got hurt.","ru":"Не переусердствуй. Будет беда, если ты поранишься."}
 {"id":"kibo_duel:4651449585408","en":"Sprout Valley IX","ru":"Долина Ростков IX"}
 {"id":"kibo_duel:4655744551936","en":"Difficulty: Normal","ru":"Сложность: обычная"}
 {"id":"kibo_duel:4655744552192","en":"My skills have leveled up again too!","ru":"Моё мастерство тоже подросло ещё на ступень!"}
 {"id":"kibo_duel:4655744552704","en":"Sprout Valley VIII","ru":"Долина Ростков VIII"}
 {"id":"kibo_duel:4660039519232","en":"Difficulty: Normal","ru":"Сложность: обычная"}
-{"id":"kibo_duel:4660039519488","en":"Why does it always have to be when I'm hungry...","ru":"Почему это всегда случается именно тогда, когда я голоден..."}
+{"id":"kibo_duel:4660039519488","en":"Why does it always have to be when I'm hungry...","ru":"Почему это всегда случается именно тогда, когда я голодна..."}
 {"id":"kibo_duel:4660039520000","en":"Sprout Valley VIII","ru":"Долина Ростков VIII"}
 {"id":"kibo_duel:4664334486528","en":"Difficulty: Normal","ru":"Сложность: обычная"}
 {"id":"kibo_duel:4664334486784","en":"This time, I'm fully prepared.","ru":"На этот раз я полностью готов."}
 {"id":"kibo_duel:4664334487296","en":"Sprout Valley VII","ru":"Долина Ростков VII"}
 {"id":"kibo_duel:4668629453824","en":"Difficulty: Normal","ru":"Сложность: обычная"}
-{"id":"kibo_duel:4668629454080","en":"Don't overdo it this time either.","ru":"На этот раз тоже не переусердствуй."}
+{"id":"kibo_duel:4668629454080","en":"Don't overdo it this time.","ru":"На этот раз тоже не переусердствуй."}
 {"id":"kibo_duel:4668629454592","en":"Sprout Valley VIII","ru":"Долина Ростков VIII"}
 {"id":"kibo_duel:4672924421120","en":"Difficulty: Normal","ru":"Сложность: обычная"}
 {"id":"kibo_duel:4672924421376","en":"Still raring to go? I won't lose this time!","ru":"Всё ещё в настроении? На этот раз я не проиграю!"}
@@ -318,7 +318,7 @@
 {"id":"kibo_duel:4681514355968","en":"Let's give it everything we've got!","ru":"Сразимся в полную силу!"}
 {"id":"kibo_duel:4681514356480","en":"Fleece IX","ru":"Флис IX"}
 {"id":"kibo_duel:4685809323008","en":"Difficulty: Normal","ru":"Сложность: обычная"}
-{"id":"kibo_duel:4685809323264","en":"Hurry, hurry!","ru":"Скорее, скорее!"}
+{"id":"kibo_duel:4685809323264","en":"Come on, hurry!","ru":"Давай, скорее!"}
 {"id":"kibo_duel:4685809323776","en":"Fleece VI","ru":"Флис VI"}
 {"id":"kibo_duel:4690104290304","en":"Difficulty: Normal","ru":"Сложность: обычная"}
 {"id":"kibo_duel:4690104290560","en":"This time I'll definitely win!","ru":"На этот раз я точно победу!"}
@@ -330,7 +330,7 @@
 {"id":"kibo_duel:4698694225152","en":"I'll take the first move again this time!","ru":"На этот раз первый ход снова за мной!"}
 {"id":"kibo_duel:4698694225664","en":"Fleece VI","ru":"Флис VI"}
 {"id":"kibo_duel:4702989192192","en":"Difficulty: Normal","ru":"Сложность: обычная"}
-{"id":"kibo_duel:4702989192448","en":"I'm fully prepared—let's begin!","ru":"Я полностью готов — начнём!"}
+{"id":"kibo_duel:4702989192448","en":"You're all set—let's begin!","ru":"Всё готово — начинаем!"}
 {"id":"kibo_duel:4702989192960","en":"Fleece VII","ru":"Флис VII"}
 {"id":"kibo_duel:4707284159488","en":"Difficulty: Normal","ru":"Сложность: обычная"}
 {"id":"kibo_duel:4707284159744","en":"Don't hold back this time either!","ru":"На этот раз тоже не сдерживайся!"}
@@ -339,10 +339,10 @@
 {"id":"kibo_duel:4711579127040","en":"I've got nothing else to do anyway, so I'll join you for another match.","ru":"У меня всё равно нет других дел, так что я составлю тебе компанию ещё в одном поединке."}
 {"id":"kibo_duel:4711579127552","en":"Fleece IX","ru":"Флис IX"}
 {"id":"kibo_duel:4715874094080","en":"Difficulty: Normal","ru":"Сложность: обычная"}
-{"id":"kibo_duel:4715874094336","en":"Did you figure out another trick for fighting? Then show me right away!","ru":"Ты что, снова уловил хитрость боя? Тогда скорее покажи!"}
+{"id":"kibo_duel:4715874094336","en":"Did you figure out another trick for fighting? Then show me right away!","ru":"Ты что, снова уловила хитрость боя? Тогда скорее покажи!"}
 {"id":"kibo_duel:4715874094848","en":"Fleece IX","ru":"Флис IX"}
 {"id":"kibo_duel:4720169061376","en":"Difficulty: Normal","ru":"Сложность: обычная"}
-{"id":"kibo_duel:4720169061632","en":"I'm glad I got to fight you...","ru":"Как хорошо, что мне довелось сразиться с тобой..."}
+{"id":"kibo_duel:4720169061632","en":"I'm glad I got to fight you.","ru":"Как хорошо, что мне довелось сразиться с тобой."}
 {"id":"kibo_duel:4720169062144","en":"Fleece VII","ru":"Флис VII"}
 {"id":"kibo_duel:4724464028672","en":"Difficulty: Normal","ru":"Сложность: обычная"}
 {"id":"kibo_duel:4724464028928","en":"Still going? Of course I've got no problem with that!","ru":"Всё ещё продолжаем? Разумеется, я не против!"}
@@ -417,7 +417,7 @@
 {"id":"kibo_duel:8847632633600","en":"Sprout Valley I","ru":"Долина Ростков I"}
 {"id":"kibo_duel:8851927600896","en":"Sprout Valley I","ru":"Долина Ростков I"}
 {"id":"kibo_duel:8856222568192","en":"Sprout Valley I","ru":"Долина Ростков I"}
-{"id":"kibo_duel:8860517534976","en":"I'm glad I got to fight you...","ru":"Как хорошо, что мне довелось сразиться с тобой..."}
+{"id":"kibo_duel:8860517534976","en":"I'm glad I got to fight you.","ru":"Как хорошо, что мне довелось сразиться с тобой."}
 {"id":"kibo_duel:8860517535488","en":"Sprout Valley I","ru":"Долина Ростков I"}
 {"id":"kibo_duel:8864812502784","en":"Sprout Valley I","ru":"Долина Ростков I"}
 {"id":"kibo_duel:8869107470080","en":"Sprout Valley I","ru":"Долина Ростков I"}

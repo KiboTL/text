@@ -211,8 +211,8 @@
 {"id":"task_item:1932967211434752","en":"Wind copper ore a little harder than usual. But in the end, wind copper ore is still wind copper ore.","ru":"Руда ветряной меди, немного твёрже обычной. Но как ни крути, ветряная медь остаётся ветряной медью."}
 {"id":"task_item:1932967211435776","en":"Quest Item","ru":"Предмет задания"}
 {"id":"task_item:1932971506401536","en":"Rani's Fish","ru":"Рыба Рани"}
-{"id":"task_item:1932971506401792","en":"A fish Rani caught. After Duru made a mess of things, this seems to be the only one left...","ru":"Рыба, которую поймал Рани. Похоже, после того как Дуру всё разворотил, осталась только эта..."}
-{"id":"task_item:1932971506402048","en":"A fish Rani caught. After Duru made a mess of things, this seems to be the only one left...","ru":"Рыба, которую поймал Рани. Похоже, после того как Дуру всё разворотил, осталась только эта..."}
+{"id":"task_item:1932971506401792","en":"Rani's Fish","ru":"Рыба Рани"}
+{"id":"task_item:1932971506402048","en":"The fish Rani caught. After Duru made a mess of everything, this seems to be the only one left...","ru":"Рыба, которую поймал Рани. Похоже, после того как Дуру всё разворотил, осталась только эта..."}
 {"id":"task_item:1932971506403072","en":"Quest Item","ru":"Предмет задания"}
 {"id":"task_item:1932975801368832","en":"Kirk's Mysterious Cargo","ru":"Загадочный груз Кирка"}
 {"id":"task_item:1932975801369088","en":"Kirk's mysterious cargo. It must be something extremely important to him.","ru":"Загадочный груз Кирка. Для него это наверняка нечто крайне важное."}
@@ -399,7 +399,7 @@
 {"id":"task_item:1933169074897664","en":"The label says \"Parvis.\" That must be the child who's a bit timid and pessimistic.","ru":"На этикетке написано «Парвис». Наверное, это тот ребёнок, который немного робок и пессимистичен."}
 {"id":"task_item:1933169074898688","en":"Quest Item","ru":"Предмет задания"}
 {"id":"task_item:1933173369864448","en":"Deluxe Candy Assortment","ru":"Роскошный набор конфет"}
-{"id":"task_item:1933173369864704","en":"A luxurious Gift Box packed with an assortment of candies in various flavors.","ru":"Роскошный подарочный ящик с ассортиментом конфет разных вкусов."}
+{"id":"task_item:1933173369864704","en":"A luxurious gift box packed with an assortment of candies in various flavors.","ru":"Роскошный подарочный ящик с ассортиментом конфет разных вкусов."}
 {"id":"task_item:1933173369864960","en":"A complete lineup of the popular staple products Shine Candy Shop has kept selling in Fleece for fifty years!","ru":"Полный набор популярных постоянных товаров, которые Магазин сладостей «Сияние» продаёт во Флисе вот уже пятьдесят лет!"}
 {"id":"task_item:1933173369865984","en":"Quest Item","ru":"Предмет задания"}
 {"id":"task_item:1933177664831744","en":"Hastily Written Letter","ru":"Наспех написанное письмо"}
@@ -702,7 +702,7 @@
 {"id":"task_item:1933495492412160","en":"The lines are simple, but the patterns drawn by the Furrians can still be clearly made out.","ru":"Линии простые, но узоры, начертанные фуррианцами, всё ещё можно ясно разобрать."}
 {"id":"task_item:1933495492413184","en":"Quest Item","ru":"Предмет задания"}
 {"id":"task_item:1933499787378944","en":"Faridah's Special Ultra-Spicy Sauce","ru":"Фирменный сверхострый соус Фариды"}
-{"id":"task_item:1933499787379200","en":"\"This level of heat should be enjoyable even for a Starborn.\"","ru":"«Такая острота будет по вкусу даже Звездорождённому»"}
+{"id":"task_item:1933499787379200","en":"\"This level of heat should be fine even for a Starborn.\"","ru":"«Такая острота будет по вкусу даже Звездорождённому»"}
 {"id":"task_item:1933499787379456","en":"Homemade Red Chili Sauce from Faridah. She tempered an ultimate heat that surpasses all into a moderate spice and added flavor with a secret Wingfolk seasoning.","ru":"Домашний Соус из красного чили от Фариды. Она смягчила предельную остроту, превосходящую всё, до умеренной и добавила вкус секретной приправой Крылатых."}
 {"id":"task_item:1933499787380480","en":"Quest Item","ru":"Предмет задания"}
 {"id":"task_item:1933504082346240","en":"Featherleaf","ru":"Перистый лист"}
@@ -1156,8 +1156,8 @@
 {"id":"task_item:1934079607964160","en":"A vessel from the Dragon King Era that seals Karma within.","ru":"Сосуд эпохи драконьих королей, запечатывающий Карму."}
 {"id":"task_item:1934079607964416","en":"Inside the transparent vessel, a surging power churns endlessly, undiminished even as the years pass.","ru":"Внутри прозрачного сосуда непрестанно клокочет бурлящая сила, ничуть не убывающая с течением лет."}
 {"id":"task_item:1934079607965440","en":"Quest Item","ru":"Предмет задания"}
-{"id":"task_item:1934083902931200","en":"Pact of Flowing Sculpture","ru":"Договор текучей скульптуры"}
-{"id":"task_item:1934083902931456","en":"A stone tablet used to activate the Sun-Crossing Shadow Circle.","ru":"Каменная плита для запуска Теневого круга солнечного перехода."}
+{"id":"task_item:1934083902931200","en":"Pact of Flowing Origin","ru":"Договор истока творения"}
+{"id":"task_item:1934083902931456","en":"A stone tablet used to activate the Celestial Ring.","ru":"Каменная плита для запуска Небесного кольца."}
 {"id":"task_item:1934083902931712","en":"It bears an inscription meaning \"weak\" in the ancient Dragonborn tongue. Yet the path of every strong being in this world begins with the first step.","ru":"На ней вырезана надпись, означающая «слабый» на древнем языке драконорождённых. Но путь всякого сильного в этом мире начинается с первого шага."}
 {"id":"task_item:1934083902932736","en":"Quest Item","ru":"Предмет задания"}
 {"id":"task_item:1934131147571456","en":"Stone of Promise","ru":"Камень обещания"}

@@ -1,8 +1,8 @@
 {"id":"home_buff_count:128853313848064","en":"Ranch production time -{value}.","ru":"Время производства в загоне -{value}."}
 {"id":"home_buff_count:128857608815360","en":"The chance for ranch output to be 2 times the amount increases by +{value}.","ru":"Вероятность того, что объём продукции загона увеличится в 2 раза, повышается на +{value}."}
 {"id":"home_buff_count:128861903782656","en":"At the ranch, the chance for additional drops of {name}-type items increases by +{value}.","ru":"В загоне вероятность дополнительного выпадения предметов типа «{name}» повышается на +{value}."}
-{"id":"home_buff_count:171802986808064","en":"At {name}, the production time for all items is reduced by x%.","ru":"В {name} время производства всех предметов сокращается на x%."}
-{"id":"home_buff_count:171807281775360","en":"At {name}, the production time for all items is reduced by x%.","ru":"В {name} время производства всех предметов сокращается на x%."}
+{"id":"home_buff_count:171802986808064","en":"At {name}, the production time for all items is reduced by {value}.","ru":"В {name} время производства всех предметов сокращается на {value}."}
+{"id":"home_buff_count:171807281775360","en":"At {name}, the production time for all items is reduced by {value}.","ru":"В {name} время производства всех предметов сокращается на {value}."}
 {"id":"home_buff_count:171815871709952","en":"At {name}, after production is complete, the chance for output to be 2 times the amount increases by +{value}.","ru":"В {name} после завершения производства вероятность того, что объём продукции увеличится в 2 раза, повышается на +{value}."}
 {"id":"home_buff_count:171820166677248","en":"At {name}, the chance for special collectibles to drop 2 times the amount increases by +{value}.","ru":"В {name} вероятность того, что объём выпадения особых ресурсов увеличится в 2 раза, повышается на +{value}."}
 {"id":"home_buff_count:171824461644544","en":"At {name2011}, the chance for {name2024} Element items to yield 2 times the amount increases by +{value}.","ru":"В {name2011} вероятность того, что объём продукции предметов {name2024} элемента увеличится в 2 раза, повышается на +{value}."}

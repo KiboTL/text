@@ -181,7 +181,7 @@
 {"id":"hero_grade:300647711744","en":"Beyond the Sky","ru":"За небесами"}
 {"id":"hero_grade:300647712000","en":"While you have Charge, your Thunder DMG increases by 20%.","ru":"При наличии «Заряда» ваш громовый урон повышается на 20%."}
 {"id":"hero_grade:300647713024","en":"Frail Frame, Unbending Heart","ru":"Хрупкое тело, несгибаемое сердце"}
-{"id":"hero_grade:300647713280","en":"What?! You... Just you watch, I'll be grown up before you know it! And by then, I'll be the strongest warrior of the Wingfolk!","ru":"Что?! Ты... Вот увидишь, я скоро вырасту! И к тому времени стану сильнейшим воином Крылатых!"}
+{"id":"hero_grade:300647713280","en":"What?! You... just you watch, I'll grow up before you know it! And by then, I'll be the strongest warrior of the Wingfolk!","ru":"Что?! Ты... вот увидишь, я скоро вырасту! И к тому времени стану сильнейшим воином Крылатых!"}
 {"id":"hero_grade:30064772096","en":"Bewilderment","ru":"Наваждение"}
 {"id":"hero_grade:30064772352","en":"When Morwyn consumes a Thunder Sigil, her EX CRIT Rate is increased by 20% (duration: 12 sec).\n When she gains \"Sparkle,\" her EX Intensity is increased by 10% (max 3 stacks, duration: 8 sec). After a Starpolar Skill is activated, the stack count of this effect is reset.","ru":"Когда Морвин расходует Громовую печать, её шанс крита EX повышается на 20% (длительность: 12 сек).\n Когда она получает «Мерцание», её интенсивность EX повышается на 10% (макс. 3 стака, длительность: 8 сек). После активации Звёзднополярного навыка число стаков этого эффекта сбрасывается."}
 {"id":"hero_grade:30064773376","en":"When Caught Off Guard","ru":"Когда теряешь бдительность"}
@@ -281,7 +281,7 @@
 {"id":"hero_grade:408021895680","en":"I felt the beat of a soul... I never thought I could be so moved...","ru":"Я ощутила биение души... Не думала, что это так взволнует меня..."}
 {"id":"hero_grade:408021895936","en":"Resonating","ru":"В резонансе"}
 {"id":"hero_grade:412316861440","en":"Souls Are Bound Together","ru":"Души связаны"}
-{"id":"hero_grade:412316861696","en":"After Luruka uses a Starpolar Skill, for a short time she can directly trigger the 2st stage of her Charged Attack. \nEach time Aura of Vitality heals, Luruka restores an additional 1 Starpolar Charge.","ru":"После использования звёзднополярного навыка Лурука некоторое время может сразу применять 2-ю стадию заряженной атаки. \nКаждый раз, когда «Аура жизненной силы» лечит, Лурука дополнительно восстанавливает 1 звёзднополярного заряда."}
+{"id":"hero_grade:412316861696","en":"After Luruka uses a Starpolar Skill, for a short time she can directly trigger the 3first stage of her Charged Attack.\nEach time Aura of Vitality heals, Luruka restores an additional 1Starpolar Charge.","ru":"После использования звёзднополярного навыка Лурука некоторое время может сразу применять 3первую стадию заряженной атаки.\nКаждый раз, когда «Аура жизненной силы» лечит, Лурука дополнительно восстанавливает 1звёзднополярный заряд."}
 {"id":"hero_grade:416611828736","en":"I Offer Blessings to All Things","ru":"Я дарую благословение всему сущему"}
 {"id":"hero_grade:416611828992","en":"DEF increases by 60. \nHP increases by 800. \nHealing Bonus increases by 12%.","ru":"Защита повышается на 60. \nHP повышается на 800. \nБонус лечения повышается на 12%."}
 {"id":"hero_grade:416611830016","en":"Fearsome Pharmaceutical Skill","ru":"Устрашающее искусство зельеварения"}
@@ -307,7 +307,7 @@
 {"id":"hero_grade:438086665472","en":"ATK increases by 50.\nDMG taken decreases by 5%.\nEarth Attribute DMG Bonus increases by 8%.","ru":"Атака повышается на 50.\nПолучаемый урон снижается на 5%.\nБонус Земного атрибута повышается на 8%."}
 {"id":"hero_grade:438086666496","en":"Star of the Show","ru":"Звезда заведения"}
 {"id":"hero_grade:438086666752","en":"As Jiyi Tower's star attraction, Peipei works hard every day!","ru":"Как звезда Башни Цзиъи, Пэйпэй каждый день старается изо всех сил!"}
-{"id":"hero_grade:438086667008","en":"Working the register, serving food, and training.1Meals on day 3, early to bed and early to rise.","ru":"Работа за кассой, подача еды и тренировки.1В день 3 еда, рано спать и рано вставать."}
+{"id":"hero_grade:438086667008","en":"Running the register, serving food, and training. 3Three meals a day, early to bed and early to rise.","ru":"Работа за кассой, подача еды и тренировки. 3Три приёма пищи в день, рано спать и рано вставать."}
 {"id":"hero_grade:442381632512","en":"Full of Energy!","ru":"Полна сил!"}
 {"id":"hero_grade:442381632768","en":"While Yin-Yang Unity is active, Peipei's DEF increases by 30% and her Crit DMG increases by 50%.","ru":"Пока действует «единство инь-ян», защита Пэйпэй повышается на 30%, а крит. урон — на 50%."}
 {"id":"hero_grade:446676599808","en":"One Breath, Two Colors","ru":"Один вздох, два цвета"}
@@ -385,7 +385,7 @@
 {"id":"hero_grade:519691045632","en":"Rehab Hurts, But Do It Anyway","ru":"Боль при реабилитации — преодолей её"}
 {"id":"hero_grade:523986011136","en":"Detective Signa","ru":"Детектив Сигна"}
 {"id":"hero_grade:523986011392","en":"After Anais uses a Starecho Skill, she can follow up with the second form of a Charged Attack. After this follow-up attack hits an enemy, the target's Light Element DMG taken increases by 8% (lasts 24s).","ru":"После применения Навыка звёздного эха Анаис может перейти ко второй форме заряженной атаки. После попадания этой производной атаки по врагу получаемый целью урон от Светлого элемента повышается на 8% (длится 24 с)."}
-{"id":"hero_grade:528280978432","en":"3 Piadd","ru":"3 пиадд"}
+{"id":"hero_grade:528280978432","en":"3Body Piadd","ru":"3Пиадд для тела"}
 {"id":"hero_grade:528280978688","en":"Healing Bonus increases by 10%.\nEnergy Regen Bonus increases by 4%.","ru":"Бонус исцеления повышается на 10%.\nБонус восстановления энергии повышается на 4%."}
 {"id":"hero_grade:528280979712","en":"Fill the World with Softness","ru":"Наполнить мир мягкостью"}
 {"id":"hero_grade:528280979968","en":"A hug makes the pain go away.","ru":"Обнимешь — и не больно."}
@@ -395,7 +395,7 @@
 {"id":"hero_grade:536870913024","en":"Where Did Pepe Candy Go?","ru":"Куда же делась конфета «Пепе»?"}
 {"id":"hero_grade:536870913280","en":"HP increases by 600.\nHealing Bonus increases by 10%.","ru":"Здоровье увеличивается на 600.\nБонус исцеления повышается на 10%."}
 {"id":"hero_grade:536870914304","en":"A Moment's Rest","ru":"Минута отдыха"}
-{"id":"hero_grade:536870914560","en":"The only Rest time in 1 days","ru":"Единственный Отдых за 1 дней"}
+{"id":"hero_grade:536870914560","en":"The only rest period in a day","ru":"Единственная передышка за день"}
 {"id":"hero_grade:536870914816","en":"To look after everyone at the Sanatorium, Anais often worked late into the night.","ru":"Чтобы заботиться обо всех в Санатории, Анаис часто работала до глубокой ночи."}
 {"id":"hero_grade:536870915072","en":"Everyone's Mom","ru":"Мама для всех"}
 {"id":"hero_grade:541165880320","en":"Chich's Search for Mom","ru":"Чич ищет маму"}

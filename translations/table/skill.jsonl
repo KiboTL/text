@@ -61,9 +61,9 @@
 {"id":"skill:171802986808576","en":"Dragontear Stone","ru":"Камень драконьей слезы"}
 {"id":"skill:171803523678209280","en":"Skyrend Strike","ru":"Неборазрывный удар"}
 {"id":"skill:171803527973176576","en":"Skyrend Strike","ru":"Неборазрывный удар"}
-{"id":"skill:171803536563111168","en":"Shadowblaze Writhe","ru":"Шевеление Теневого Пламени"}
+{"id":"skill:171803536563111168","en":"Wave of Dark Flame","ru":"Волна тёмного пламени"}
 {"id":"skill:171803540858078464","en":"Necrostar Burst","ru":"Взрыв тёмной звезды"}
-{"id":"skill:171803682591999232","en":"Ghostflame Convergence","ru":"Схождение призрачного пламени"}
+{"id":"skill:171803682591999232","en":"Vortex of Nether Flame","ru":"Вихрь загробного пламени"}
 {"id":"skill:171807281775872","en":"Aura Crystal","ru":"Кристалл ауры"}
 {"id":"skill:171811576743168","en":"Value1","ru":"Значение1"}
 {"id":"skill:171815871710464","en":"Value1","ru":"Значение1"}
@@ -72,7 +72,7 @@
 {"id":"skill:171824895435474176","en":"Boaraga Ram","ru":"Таран Боараги"}
 {"id":"skill:171824916910310656","en":"Boaraga Dash","ru":"Ускорение Боараги"}
 {"id":"skill:171825329227171072","en":"Kinglaraga Ram","ru":"Таран Кинглага"}
-{"id":"skill:171825333522138368","en":"Grand Cutter Charge","ru":"Рывок Гранд-каттера"}
+{"id":"skill:171825333522138368","en":"Groundsplitter Charge","ru":"Рывок землеруба"}
 {"id":"skill:171825337817105664","en":"Kinglaraga Left Swing","ru":"Левый замах Кинглага"}
 {"id":"skill:171825342112072960","en":"Kinglaraga Right Swing","ru":"Правый замах Кинглага"}
 {"id":"skill:171825346407040256","en":"Kinglaraga Forward Roll","ru":"Передний перекат Кинглага"}
@@ -235,7 +235,7 @@
 {"id":"skill:214749236678362368","en":"Rainy's Water Orb","ru":"Водяной шар Рейни"}
 {"id":"skill:214749245268296960","en":"Water Spirit's Ripple","ru":"Рябь водного духа"}
 {"id":"skill:214749661880124672","en":"Water Spirit's Ripple","ru":"Рябь водного духа"}
-{"id":"skill:214749666175091968","en":"Tidalest's Water Orb","ru":"Водяной шар Тидалеста"}
+{"id":"skill:214749666175091968","en":"Rainel's Water Orb","ru":"Водяной шар Райнела"}
 {"id":"skill:214749674765026560","en":"Water Spirit's Ripple","ru":"Рябь водного духа"}
 {"id":"skill:214750099966788864","en":"Tidal Ripple","ru":"Приливная рябь"}
 {"id":"skill:214750108556723456","en":"Tidal Ripple","ru":"Приливная рябь"}
@@ -283,9 +283,9 @@
 {"id":"skill:214758801570530560","en":"Leaf-Flapping Dance","ru":"Пляска хлопанья листьев"}
 {"id":"skill:214758805865497856","en":"Seed Bomb","ru":"Семенная бомба"}
 {"id":"skill:214759020613862656","en":"Farm-Special Leisure","ru":"Ферма-Особый досуг"}
-{"id":"skill:214759119398110464","en":"Raga Attack","ru":"Атака раги"}
+{"id":"skill:214759119398110464","en":"Raga's Stampede","ru":"Натиск раги"}
 {"id":"skill:214759132283012352","en":"Earthshaker","ru":"Землетряс"}
-{"id":"skill:214759140872946944","en":"Raga Attack","ru":"Атака раги"}
+{"id":"skill:214759140872946944","en":"Raga's Stampede","ru":"Натиск раги"}
 {"id":"skill:214759153757848832","en":"Farm-Mining","ru":"Ферма-Добыча"}
 {"id":"skill:214759158052816128","en":"Farm-Placement","ru":"Ферма-Размещение"}
 {"id":"skill:214759162347783424","en":"Farm-Work Complete","ru":"Ферма-Работа завершена"}
@@ -308,11 +308,11 @@
 {"id":"skill:214764689970693376","en":"Blaze Stride","ru":"Пламенный шаг"}
 {"id":"skill:214764702855595264","en":"Ignip's Charge","ru":"Атака Игнипа"}
 {"id":"skill:214764707150562560","en":"Blaze Stride","ru":"Пламенный шаг"}
-{"id":"skill:214765119467422976","en":"Explosive Stomp","ru":"Взрывной топот"}
+{"id":"skill:214765119467422976","en":"Blazing Trample","ru":"Пламенный топот"}
 {"id":"skill:214765132352324864","en":"Breios's Rush","ru":"Рывок Брейоса"}
 {"id":"skill:214765140942259456","en":"Scorching Horn Strike","ru":"Знойный удар рогом"}
 {"id":"skill:214765145237226752","en":"Great Leap","ru":"Большой прыжок"}
-{"id":"skill:214765158122128640","en":"Explosive Stomp","ru":"Взрывной топот"}
+{"id":"skill:214765158122128640","en":"Blazing Trample","ru":"Пламенный топот"}
 {"id":"skill:214765162417095936","en":"Scorching Horn Strike","ru":"Знойный удар рогом"}
 {"id":"skill:214765553259119872","en":"Tail Smash","ru":"Удар хвостом"}
 {"id":"skill:214765561849054464","en":"Ailo's Body Slam","ru":"Натиск Айло"}
@@ -338,7 +338,7 @@
 {"id":"skill:214768130239497472","en":"Tsumo's Charge","ru":"Атака Цумо"}
 {"id":"skill:214768138829432064","en":"Tsumo's Sprouting","ru":"Ростки Цумо"}
 {"id":"skill:214768156009301248","en":"Tsumo's Sprouting","ru":"Ростки Цумо"}
-{"id":"skill:214768564031194368","en":"Weddel's Charge","ru":"Атака Веддела"}
+{"id":"skill:214768564031194368","en":"Wood Petals' Charge","ru":"Атака лесных лепестков"}
 {"id":"skill:214768572621128960","en":"Wood Petals' Bloom","ru":"Цветение Лесных лепестков"}
 {"id":"skill:214768576916096256","en":"Wood Petals' Bloom","ru":"Цветение Лесных лепестков"}
 {"id":"skill:214768997822891264","en":"Tsurnephi's Charge","ru":"Атака Цурнефи"}
@@ -386,11 +386,11 @@
 {"id":"skill:214777158260753664","en":"Stun Tail","ru":"Оглушающий хвост"}
 {"id":"skill:214777162555720960","en":"Break Flow","ru":"Прорыв потока"}
 {"id":"skill:214777171145655552","en":"Break Flow","ru":"Прорыв потока"}
-{"id":"skill:214777574872581376","en":"High Splash","ru":"Высокий всплеск"}
+{"id":"skill:214777574872581376","en":"Burst Flow","ru":"Взрывной поток"}
 {"id":"skill:214777587757483264","en":"Star Tail","ru":"Звёздный хвост"}
-{"id":"skill:214777592052450560","en":"High Splash","ru":"Высокий всплеск"}
+{"id":"skill:214777592052450560","en":"Burst Flow","ru":"Взрывной поток"}
 {"id":"skill:214777596347417856","en":"Riptide Torrent","ru":"Поток приливов"}
-{"id":"skill:214777600642385152","en":"High Splash","ru":"Высокий всплеск"}
+{"id":"skill:214777600642385152","en":"Burst Flow","ru":"Взрывной поток"}
 {"id":"skill:214778004369310976","en":"Innocent Spin","ru":"Беззаботный вихрь"}
 {"id":"skill:214778012959245568","en":"Elekri Charge","ru":"Натиск Элекри"}
 {"id":"skill:214778017254212864","en":"Innocent Spin","ru":"Беззаботный вихрь"}
@@ -442,17 +442,17 @@
 {"id":"skill:214788325175723264","en":"Mellowmie Ram","ru":"Таран Меллоуми"}
 {"id":"skill:214788329470690560","en":"Emergency Heal","ru":"Срочное лечение"}
 {"id":"skill:214789171284280576","en":"Poison Mist Tongue","ru":"Язык ядовитого тумана"}
-{"id":"skill:214789184169182464","en":"Folog Ram","ru":"Таран Фолога"}
+{"id":"skill:214789184169182464","en":"Drogeko's Body Slam","ru":"Таран Дрогеко"}
 {"id":"skill:214789188464149760","en":"Poison Mist Tongue","ru":"Язык ядовитого тумана"}
 {"id":"skill:214789600781010176","en":"Poison Orb Tongue","ru":"Язык ядовитой сферы"}
 {"id":"skill:214789613665912064","en":"Folog Onslaught","ru":"Натиск Фолога"}
 {"id":"skill:214789617960879360","en":"Charging Jump","ru":"Разгонный прыжок"}
 {"id":"skill:214789622255846656","en":"Poison Orb Tongue","ru":"Язык ядовитой сферы"}
 {"id":"skill:214790030277739776","en":"Wave Attack","ru":"Волновая атака"}
-{"id":"skill:214790043162641664","en":"Fidro's Iron Fist","ru":"Железный кулак Фидро"}
+{"id":"skill:214790043162641664","en":"Seedro's Iron Fist","ru":"Железный кулак Сидро"}
 {"id":"skill:214790047457608960","en":"Wave Attack","ru":"Волновая атака"}
 {"id":"skill:214790459774469376","en":"Stream Attack","ru":"Потоковая атака"}
-{"id":"skill:214790472659371264","en":"Fielock's Heavy Blow","ru":"Сокрушительный удар Филока"}
+{"id":"skill:214790472659371264","en":"Seerock's Heavy Blow","ru":"Сокрушительный удар Сирока"}
 {"id":"skill:214790476954338560","en":"Stream Attack","ru":"Потоковая атака"}
 {"id":"skill:214790481249305856","en":"Tidal Charge","ru":"Приливной натиск"}
 {"id":"skill:214795613735224576","en":"Spirit Dragon Vortex","ru":"Вихрь духа-дракона"}
@@ -486,7 +486,7 @@
 {"id":"skill:214801210077611264","en":"Fuumo Charge","ru":"Натиск Фуумо"}
 {"id":"skill:214801214372578560","en":"Fuumo's Cotton Sprout","ru":"Хлопковый росток Фуумо"}
 {"id":"skill:214801630984406272","en":"Frif's Wind Zone","ru":"Ветряная зона Фрифа"}
-{"id":"skill:214801639574340864","en":"Windel's Charge","ru":"Атака Виндела"}
+{"id":"skill:214801639574340864","en":"Frif's Charge","ru":"Атака Фрифа"}
 {"id":"skill:214801643869308160","en":"Frif's Wind Zone","ru":"Ветряная зона Фрифа"}
 {"id":"skill:214802060481135872","en":"Flunefi's Flight Dance","ru":"Танец флунефи"}
 {"id":"skill:214802069071070464","en":"Flunefi's Charge","ru":"Атака флунефи"}
@@ -513,15 +513,15 @@
 {"id":"skill:214805066958243072","en":"Duru's Fur Coat","ru":"Шерстяной покров Дуру"}
 {"id":"skill:214805075548177664","en":"Duru's Wrath","ru":"Гнев Дуру"}
 {"id":"skill:214805079843144960","en":"Duru's Fur Coat","ru":"Шерстяной покров Дуру"}
-{"id":"skill:214805496454972672","en":"Support","ru":"Поддержка"}
+{"id":"skill:214805496454972672","en":"Power of the Guardian","ru":"Сила защитника"}
 {"id":"skill:214805505044907264","en":"Gadori's Charge","ru":"Атака Гадори"}
-{"id":"skill:214805509339874560","en":"Support","ru":"Поддержка"}
-{"id":"skill:214805925951702272","en":"Territory","ru":"Территория"}
+{"id":"skill:214805509339874560","en":"Power of the Guardian","ru":"Сила защитника"}
+{"id":"skill:214805925951702272","en":"Guardian's Domain","ru":"Владения защитника"}
 {"id":"skill:214805934541636864","en":"Gayak's Charge","ru":"Атака Гаяка"}
 {"id":"skill:214805947426538752","en":"Earthshaking Stomp","ru":"Землетрясный топот"}
-{"id":"skill:214805960311440640","en":"Territory","ru":"Территория"}
+{"id":"skill:214805960311440640","en":"Guardian's Domain","ru":"Владения защитника"}
 {"id":"skill:214806351153464576","en":"Armored Charge","ru":"Бронированный натиск"}
-{"id":"skill:214806359743399168","en":"Pron's Body Slam","ru":"Таран Прона"}
+{"id":"skill:214806359743399168","en":"Bron's Body Slam","ru":"Таран Брона"}
 {"id":"skill:214806364038366464","en":"Armored Charge","ru":"Бронированный натиск"}
 {"id":"skill:214806376923268352","en":"Armored Charge","ru":"Бронированный натиск"}
 {"id":"skill:214807210146923776","en":"Armored Assault","ru":"Бронированная атака"}
@@ -538,20 +538,20 @@
 {"id":"skill:214808498637112576","en":"Flame Crystal Bombardment","ru":"Огненная кристальная бомбардировка"}
 {"id":"skill:214808511522014464","en":"Crimzor's Raid","ru":"Рейд Кримзора"}
 {"id":"skill:214808515816981760","en":"Flame Crystal Bombardment","ru":"Огненная кристальная бомбардировка"}
-{"id":"skill:214811505114219776","en":"Vine Sprite's Ambush","ru":"Засада лозы-духа"}
+{"id":"skill:214811505114219776","en":"Entangling Vines","ru":"Обвивающие лозы"}
 {"id":"skill:214811517999121664","en":"Woody's Wood Ball","ru":"Деревянный шар Вуди"}
-{"id":"skill:214811522294088960","en":"Vine Sprite's Ambush","ru":"Засада лозы-духа"}
-{"id":"skill:214811934610949376","en":"Vine Spirit's Ambush","ru":"Засада духа лозы"}
+{"id":"skill:214811522294088960","en":"Entangling Vines","ru":"Обвивающие лозы"}
+{"id":"skill:214811934610949376","en":"Creeping Vines","ru":"Ползучие лозы"}
 {"id":"skill:214811947495851264","en":"Weddel's Wood Ball","ru":"Деревянный шар Веддела"}
-{"id":"skill:214811951790818560","en":"Vine Spirit's Ambush","ru":"Засада духа лозы"}
-{"id":"skill:214812364107678976","en":"Vine Binding","ru":"Плен лозы"}
+{"id":"skill:214811951790818560","en":"Creeping Vines","ru":"Ползучие лозы"}
+{"id":"skill:214812364107678976","en":"Flourishing Vines","ru":"Расцветающие лозы"}
 {"id":"skill:214812376992580864","en":"Bindest's Wood Ball","ru":"Деревянный шар Биндеста"}
-{"id":"skill:214812381287548160","en":"Vine Binding","ru":"Плен лозы"}
+{"id":"skill:214812381287548160","en":"Flourishing Vines","ru":"Расцветающие лозы"}
 {"id":"skill:214815374879753472","en":"Spark Whirlwind","ru":"Искровой вихрь"}
 {"id":"skill:214815383469688064","en":"Peachy's Shot","ru":"Выстрел Пичи"}
 {"id":"skill:214815387764655360","en":"Spark Whirlwind","ru":"Искровой вихрь"}
 {"id":"skill:214815804376483072","en":"Blast Whirlwind","ru":"Вихрь взрыва"}
-{"id":"skill:214815812966417664","en":"Peachy's Scattershot","ru":"Дробовой выстрел Пичи"}
+{"id":"skill:214815812966417664","en":"Meluppo's Scattershot","ru":"Дробовой выстрел Мелуппо"}
 {"id":"skill:214815817261384960","en":"Blast Whirlwind","ru":"Вихрь взрыва"}
 {"id":"skill:214816233873212672","en":"Crimson Cyclone","ru":"Багряный циклон"}
 {"id":"skill:214816242463147264","en":"Skalek's Barrage","ru":"Шквальный огонь Скалека"}
@@ -569,7 +569,7 @@
 {"id":"skill:214819682731951360","en":"Rurunei's Movement","ru":"Часть Рурунэй"}
 {"id":"skill:214820009149465856","en":"Farm - Special Recreation","ru":"Ферма — особый досуг"}
 {"id":"skill:214820095048811776","en":"Thunder Call","ru":"Зов грома"}
-{"id":"skill:214820103638746368","en":"Thunder Claw Charge","ru":"Атака громового когтя"}
+{"id":"skill:214820103638746368","en":"Rafau's Charge","ru":"Атака Рафау"}
 {"id":"skill:214820107933713664","en":"Thunder Call","ru":"Зов грома"}
 {"id":"skill:214820524545541376","en":"Thunderbolt Flash","ru":"Вспышка молнии"}
 {"id":"skill:214820533135475968","en":"Radiva's Charge","ru":"Атака Радивы"}
@@ -598,9 +598,9 @@
 {"id":"skill:214827838874846464","en":"Spirit Butterfly Dance","ru":"Танец бабочки-духа"}
 {"id":"skill:214827843169813760","en":"Illusion Wind","ru":"Ветер иллюзий"}
 {"id":"skill:214827864644650240","en":"Sprint Instinct","ru":"Инстинкт бега"}
-{"id":"skill:214828259781641472","en":"Rough Wave Turn","ru":"Поворот бурной волны"}
+{"id":"skill:214828259781641472","en":"Rough Wave Spin","ru":"Вихрь бурной волны"}
 {"id":"skill:214828268371576064","en":"Bluda's Crush","ru":"Сокрушение Блуды"}
-{"id":"skill:214828272666543360","en":"Rough Wave Turn","ru":"Поворот бурной волны"}
+{"id":"skill:214828272666543360","en":"Rough Wave Spin","ru":"Вихрь бурной волны"}
 {"id":"skill:214828599084057856","en":"Farm - Special Recreation","ru":"Ферма — особый досуг"}
 {"id":"skill:214828689278371072","en":"Wing Dance Spin","ru":"Вихрь крыльев"}
 {"id":"skill:214828697868305664","en":"Blue Signa's Water-Cutting Blade","ru":"Водорезный клинок Синей Сигны"}
@@ -636,9 +636,9 @@
 {"id":"skill:214840710891832576","en":"Explosive Flame Claw","ru":"Коготь взрывного пламени"}
 {"id":"skill:214840723776734464","en":"Melalied's Fierce Strike","ru":"Яростный удар Мелэлида"}
 {"id":"skill:214840728071701760","en":"Explosive Flame Claw","ru":"Коготь взрывного пламени"}
-{"id":"skill:214841140388562176","en":"Burnd Claw","ru":"Опаляющий коготь"}
+{"id":"skill:214841140388562176","en":"Blast Claw","ru":"Взрывной коготь"}
 {"id":"skill:214841153273464064","en":"Leoburnd's Fierce Strike","ru":"Яростный удар Леобёрнда"}
-{"id":"skill:214841157568431360","en":"Burnd Claw","ru":"Опаляющий коготь"}
+{"id":"skill:214841157568431360","en":"Blast Claw","ru":"Взрывной коготь"}
 {"id":"skill:214841161863398656","en":"Explosive Charge","ru":"Взрывной рывок"}
 {"id":"skill:214842858375480576","en":"Nebula Burst","ru":"Небулярный взрыв"}
 {"id":"skill:214842862670447872","en":"Nebulion's Charge","ru":"Рывок Небулиона"}
@@ -753,22 +753,22 @@
 {"id":"skill:214882814456235264","en":"Fluffy Hammer","ru":"Пушистый молот"}
 {"id":"skill:214882818751202560","en":"Fluffy Bomb","ru":"Пушистая бомба"}
 {"id":"skill:214885378551710976","en":"Will-o'-Wisp Breath","ru":"Дыхание блуждающего огонька"}
-{"id":"skill:214885387141645568","en":"Roughmask Claw","ru":"Коготь Раффмаска"}
+{"id":"skill:214885387141645568","en":"Laughing Hannya Claw","ru":"Коготь смеющейся ханни"}
 {"id":"skill:214885391436612864","en":"Will-o'-Wisp Breath","ru":"Дыхание блуждающего огонька"}
 {"id":"skill:214885808048440576","en":"Hellfire Burst","ru":"Взрыв адского пламени"}
 {"id":"skill:214885816638375168","en":"Grudge Wisp Claw","ru":"Коготь Огонька обиды"}
 {"id":"skill:214885820933342464","en":"Hellfire Burst","ru":"Взрыв адского пламени"}
 {"id":"skill:214886237545170176","en":"Infernal Flash","ru":"Адская вспышка"}
-{"id":"skill:214886246135104768","en":"Oni Mask Claw","ru":"Коготь Маски они"}
+{"id":"skill:214886246135104768","en":"Prison Oni Mask Claw","ru":"Коготь тюремной маски они"}
 {"id":"skill:214886250430072064","en":"Infernal Flash","ru":"Адская вспышка"}
 {"id":"skill:214899981440517376","en":"Whirlwind Charge","ru":"Вихревой натиск"}
 {"id":"skill:214899990030451968","en":"Whirlwind Wingbeat","ru":"Вихрь крыльев"}
 {"id":"skill:214899994325419264","en":"Whirlwind Charge","ru":"Вихревой натиск"}
 {"id":"skill:214900410937246976","en":"Knockdown","ru":"Сбивающий удар"}
-{"id":"skill:214900423822148864","en":"Dusk Owl's Hunting Claw","ru":"Охотничий коготь Сумеречной совы"}
+{"id":"skill:214900423822148864","en":"Nyahho's Hunting Claw","ru":"Охотничий коготь Няхо"}
 {"id":"skill:214900428117116160","en":"Knockdown","ru":"Сбивающий удар"}
 {"id":"skill:214900840433976576","en":"Shadow Knockdown","ru":"Теневой сбивающий удар"}
-{"id":"skill:214900853318878464","en":"Nyahho's Charge","ru":"Натиск Няхо"}
+{"id":"skill:214900853318878464","en":"Nihtol's Charge","ru":"Натиск Нихтоля"}
 {"id":"skill:214900857613845760","en":"Shadow Knockdown","ru":"Теневой сбивающий удар"}
 {"id":"skill:214900866203780352","en":"Shadow Dive","ru":"Теневой нырок"}
 {"id":"skill:214901269930706176","en":"Ice Pillar Storm","ru":"Шторм ледяных столбов"}
@@ -819,7 +819,7 @@
 {"id":"skill:214928336814605568","en":"Grainy's Charge","ru":"Натиск Грейни"}
 {"id":"skill:214928341109572864","en":"Tasty Wheat Seed","ru":"Вкусное пшеничное семя"}
 {"id":"skill:214928757721400576","en":"Select Wheat Seed","ru":"Отборное пшеничное семя"}
-{"id":"skill:214928766311335168","en":"Grainy's Heavy Strike","ru":"Тяжёлый удар Грейни"}
+{"id":"skill:214928766311335168","en":"Glenard's Heavy Strike","ru":"Тяжёлый удар Гленарда"}
 {"id":"skill:214928770606302464","en":"Select Wheat Seed","ru":"Отборное пшеничное семя"}
 {"id":"skill:214929187218130176","en":"Sowing Season","ru":"Сезон посева"}
 {"id":"skill:214929195808064768","en":"Greatarg's Heavy Strike","ru":"Тяжёлый удар Греатарга"}
@@ -832,7 +832,7 @@
 {"id":"skill:214949390744290560","en":"Vigorous Dash","ru":"Энергичный рывок"}
 {"id":"skill:214949395039257856","en":"Earthshaking Heavy Strike","ru":"Землетрясный тяжёлый удар"}
 {"id":"skill:214949811651085568","en":"Spin Scythe","ru":"Вращающаяся коса"}
-{"id":"skill:214949828830954752","en":"Leap Ambush","ru":"Прыжковая засада"}
+{"id":"skill:214949828830954752","en":"Scarecrow Kibo's Ambush","ru":"Засада кибо-пугала"}
 {"id":"skill:214949846010823936","en":"Spin Scythe","ru":"Вращающаяся коса"}
 {"id":"skill:214950232557880576","en":"Scythe Storm","ru":"Шторм кос"}
 {"id":"skill:214950258327684352","en":"Otamit's Ambush","ru":"Засада Отамита"}
@@ -851,11 +851,11 @@
 {"id":"skill:214970431789073664","en":"Lindy's Heavy Strike","ru":"Тяжёлый удар Линди"}
 {"id":"skill:214970436084040960","en":"Scattershot Thorns","ru":"Разброс шипов"}
 {"id":"skill:214970444673975552","en":"Scattershot Thorns","ru":"Разброс шипов"}
-{"id":"skill:214970848400901376","en":"Thorn Field","ru":"Поле шипов"}
+{"id":"skill:214970848400901376","en":"Thorn Domain","ru":"Терновые владения"}
 {"id":"skill:214970852695868672","en":"Rumbling Thorns","ru":"Грохочущие шипы"}
-{"id":"skill:214970861285803264","en":"Follyn's Heavy Strike","ru":"Тяжёлый удар Фоллина"}
-{"id":"skill:214970865580770560","en":"Thorn Field","ru":"Поле шипов"}
-{"id":"skill:214970878465672448","en":"Thorn Field","ru":"Поле шипов"}
+{"id":"skill:214970861285803264","en":"Folly's Heavy Strike","ru":"Тяжёлый удар Фолли"}
+{"id":"skill:214970865580770560","en":"Thorn Domain","ru":"Терновые владения"}
+{"id":"skill:214970878465672448","en":"Thorn Domain","ru":"Терновые владения"}
 {"id":"skill:214979008838763776","en":"Abundance Field","ru":"Поле изобилия"}
 {"id":"skill:214979021723665664","en":"Power of Plenty","ru":"Сила изобилия"}
 {"id":"skill:214979026018632960","en":"Abundance Field","ru":"Поле изобилия"}
@@ -932,7 +932,7 @@
 {"id":"skill:215070491642168576","en":"Spirit Ingestion","ru":"Поглощение злых духов"}
 {"id":"skill:215070500232103168","en":"Grand Open and Close","ru":"Широкий размах и смыкание"}
 {"id":"skill:215070504527070464","en":"Spirit Ingestion","ru":"Поглощение злых духов"}
-{"id":"skill:215070921138898176","en":"Faundi's Blessing","ru":"Благословение Фаунди"}
+{"id":"skill:215070921138898176","en":"Blessing of the Forest Guardian","ru":"Благословение лесного защитника"}
 {"id":"skill:215070934023800064","en":"Raidoss's Blow","ru":"Удар Рейдосса"}
 {"id":"skill:215070938318767360","en":"Gardener's Grasp","ru":"Хватка защитника леса"}
 {"id":"skill:215071350635627776","en":"Rainbow Rain","ru":"Радужный дождь"}
@@ -942,9 +942,9 @@
 {"id":"skill:215071780132357376","en":"Fading Light","ru":"Угасающий свет"}
 {"id":"skill:215071788722291968","en":"Staray of the Fading Light","ru":"Звездоскат угасающего света"}
 {"id":"skill:215071793017259264","en":"Fading Light","ru":"Угасающий свет"}
-{"id":"skill:215072209629086976","en":"Kikugi's Support","ru":"Поддержка Кикуги"}
+{"id":"skill:215072209629086976","en":"Kikugi's Guard","ru":"Защита Кикуги"}
 {"id":"skill:215072222513988864","en":"Heavy Attack","ru":"Тяжёлая атака"}
-{"id":"skill:215072248283792640","en":"Kikugi's Support","ru":"Поддержка Кикуги"}
+{"id":"skill:215072248283792640","en":"Kikugi's Guard","ru":"Защита Кикуги"}
 {"id":"skill:215072647715751168","en":"Fluffy Ray","ru":"Пушистый луч"}
 {"id":"skill:215072656305685760","en":"Velvet Bomb","ru":"Бомба Вельвет"}
 {"id":"skill:215072660600653056","en":"Fluffy Ray","ru":"Пушистый луч"}
@@ -960,7 +960,7 @@
 {"id":"skill:215077389359645952","en":"Blaze Storm","ru":"Шторм пламени"}
 {"id":"skill:215077402244547840","en":"Dragon Flame Descent","ru":"Нисхождение пламени дракона"}
 {"id":"skill:215097120439403776","en":"Flame Charge","ru":"Огненная атака"}
-{"id":"skill:215097133324305664","en":"Heroic Rush","ru":"Богатырский рывок"}
+{"id":"skill:215097133324305664","en":"Chofko's Rush","ru":"Натиск Тёфуко"}
 {"id":"skill:215097137619272960","en":"Flame Charge","ru":"Огненная атака"}
 {"id":"skill:215097549936133376","en":"Blast Rush","ru":"Стремительный взрыв"}
 {"id":"skill:215097562821035264","en":"Fielarga's Charge","ru":"Натиск Фиеларги"}
@@ -973,9 +973,9 @@
 {"id":"skill:215098408929592576","en":"Shadow Blade","ru":"Клинок тени"}
 {"id":"skill:215098417519527168","en":"Feark's Slash","ru":"Разрез Фиарка"}
 {"id":"skill:215098426109461760","en":"Shadow Blade","ru":"Клинок тени"}
-{"id":"skill:215098838426322176","en":"Shadow Harvest","ru":"Теневая жатва"}
+{"id":"skill:215098838426322176","en":"Shadow Scythe","ru":"Теневая коса"}
 {"id":"skill:215098847016256768","en":"Neetmit's Slash","ru":"Разрез Нитмита"}
-{"id":"skill:215098855606191360","en":"Shadow Harvest","ru":"Теневая жатва"}
+{"id":"skill:215098855606191360","en":"Shadow Scythe","ru":"Теневая коса"}
 {"id":"skill:215099267923051776","en":"Getting Heated","ru":"Разгорячился"}
 {"id":"skill:215099276512986368","en":"Karabekko's Charge","ru":"Натиск Карабекко"}
 {"id":"skill:215099280807953664","en":"Getting Heated","ru":"Разгорячился"}
@@ -1041,9 +1041,9 @@
 {"id":"skill:2152001953596672","en":"Fireball Shatter","ru":"Раскол огненного шара"}
 {"id":"skill:2152049198236928","en":"Meteor Descent","ru":"Падение метеорита"}
 {"id":"skill:2152053493204224","en":"Barrage of Meteors","ru":"Метеоритный обстрел"}
-{"id":"skill:2152057788171520","en":"Meteor Slam","ru":"Метеоритный удар"}
-{"id":"skill:2156077877560576","en":"Water Ball","ru":"Водяной шар"}
-{"id":"skill:21560787365528832","en":"Water Ball","ru":"Водяной шар"}
+{"id":"skill:2152057788171520","en":"Meteor Smash","ru":"Метеоритный сокрушитель"}
+{"id":"skill:2156077877560576","en":"Water Bullet","ru":"Водяная пуля"}
+{"id":"skill:21560787365528832","en":"Water Bullet","ru":"Водяная пуля"}
 {"id":"skill:21560791660496128","en":"Water Bomb","ru":"Водяная бомба"}
 {"id":"skill:2156082172527872","en":"Tidal Charge","ru":"Приливная атака"}
 {"id":"skill:2156086467495168","en":"Water Bullet Blast","ru":"Взрыв водяной пули"}
@@ -1054,7 +1054,7 @@
 {"id":"skill:2156107942331648","en":"Current Charge","ru":"Атака течения"}
 {"id":"skill:2156112237298944","en":"Wave of Healing","ru":"Волна исцеления"}
 {"id":"skill:2156116532266240","en":"Tide Lure","ru":"Приливный зов"}
-{"id":"skill:2156120827233536","en":"Rapid Water Balls","ru":"Быстрые водяные шары"}
+{"id":"skill:2156120827233536","en":"Rapid Water Bullet","ru":"Быстрая водяная пуля"}
 {"id":"skill:2156125122200832","en":"Water Bomb","ru":"Водяная бомба"}
 {"id":"skill:2156129417168128","en":"Water Bullet Shot","ru":"Выстрел водяной пули"}
 {"id":"skill:2156133712135424","en":"Rain Bomb","ru":"Дождевая бомба"}
@@ -1064,7 +1064,7 @@
 {"id":"skill:2156155186971904","en":"Floating Bubble","ru":"Парящий пузырь"}
 {"id":"skill:2156159481939200","en":"Resonant Spring of Reversal","ru":"Резонирующий источник круговорота"}
 {"id":"skill:2156163776906496","en":"Flowing Guardian","ru":"Защитник потока"}
-{"id":"skill:2156168071873792","en":"Blasting Water Ball","ru":"Взрывной водяной шар"}
+{"id":"skill:2156168071873792","en":"Blasting Water Bullet","ru":"Взрывная водяная пуля"}
 {"id":"skill:2156172366841088","en":"Splitting Water Bomb","ru":"Дробящаяся водяная бомба"}
 {"id":"skill:2156211021546752","en":"Quickfire Water Bullets","ru":"Скоростные водяные пули"}
 {"id":"skill:2156215316514048","en":"Torrent of Water Bullets","ru":"Поток водяных пуль"}
@@ -1182,8 +1182,8 @@
 {"id":"skill:2164886855484672","en":"Wind Pillar","ru":"Ветряной столб"}
 {"id":"skill:2164891150451968","en":"Wind Pillar Barrage","ru":"Залп ветряных столбов"}
 {"id":"skill:2164925510190336","en":"Spiral Wind Shot","ru":"Спиральный ветряной выстрел"}
-{"id":"skill:2164929805157632","en":"Twin Whirlwind Shot","ru":"Двойной вихревой выстрел"}
-{"id":"skill:2164934100124928","en":"3-Cyclone Shot","ru":"3-циклонный выстрел"}
+{"id":"skill:2164929805157632","en":"Double Spiral Wind Shot","ru":"Двойной спиральный ветряной выстрел"}
+{"id":"skill:2164934100124928","en":"Triple Spiral Wind Shot","ru":"Тройной спиральный ветряной выстрел"}
 {"id":"skill:2164938395092224","en":"Great Spiral Shot","ru":"Великий спиральный выстрел"}
 {"id":"skill:2164942690059520","en":"Wind Shot Barrage","ru":"Шквал ветряных выстрелов"}
 {"id":"skill:2164946985026816","en":"Wind Shot Scatter","ru":"Разрывной ветряной выстрел"}
@@ -1214,7 +1214,7 @@
 {"id":"skill:2169001434154240","en":"Spirit Sapling of Creation","ru":"Духовный росток созидания"}
 {"id":"skill:2169005729121536","en":"Forest Guardian","ru":"Лесной защитник"}
 {"id":"skill:2169014319056128","en":"Seed Missile","ru":"Семя-ракета"}
-{"id":"skill:2169018614023424","en":"Bloom Missile","ru":"Ракета цветения"}
+{"id":"skill:2169018614023424","en":"Bloom Magic Bullet","ru":"Магическая пуля цветения"}
 {"id":"skill:2169022908990720","en":"Nature Healing","ru":"Природное исцеление"}
 {"id":"skill:2169031498925312","en":"Vine Thrust","ru":"Удар лозы"}
 {"id":"skill:2169035793892608","en":"Seed Storm","ru":"Семенной шторм"}
@@ -1251,9 +1251,9 @@
 {"id":"skill:2169435225851136","en":"Levitation Missile","ru":"Левитирующая ракета"}
 {"id":"skill:2169439520818432","en":"Levitation Barrage","ru":"Левитирующий залп"}
 {"id":"skill:2169443815785728","en":"Levitation Cannon - Super Energy Ball","ru":"Левитирующая пушка - суперэнергетический шар"}
-{"id":"skill:2169478175524096","en":"Bloom Missile","ru":"Ракета цветения"}
-{"id":"skill:2169482470491392","en":"Bloom Strike","ru":"Цветущий удар"}
-{"id":"skill:2169486765458688","en":"Levitation Cannon -3-Charge Enhanced Bloom Missile","ru":"Левитирующая пушка -3-усиленная заряженная ракета цветения"}
+{"id":"skill:2169478175524096","en":"Bloom Magic Bullet","ru":"Магическая пуля цветения"}
+{"id":"skill:2169482470491392","en":"Bloom Triple Shot","ru":"Тройной выстрел цветения"}
+{"id":"skill:2169486765458688","en":"Levitation Cannon -3-Shot Enhanced Bloom Missile","ru":"Левитирующая пушка: -3-зарядная усиленная ракета цветения"}
 {"id":"skill:2169521125197056","en":"Energy Shot","ru":"Энергетический выстрел"}
 {"id":"skill:2169525420164352","en":"Sunlight Laser","ru":"Солнечный лазер"}
 {"id":"skill:2169529715131648","en":"Blazing Sun Laser","ru":"Лазер палящего солнца"}
@@ -2643,8 +2643,8 @@
 {"id":"skill:45956725592818944","en":"Tuning4","ru":"Настройка4"}
 {"id":"skill:45956729887786240","en":"Tuning5","ru":"Настройка5"}
 {"id":"skill:45956734182753536","en":"Tuning6","ru":"Настройка6"}
-{"id":"skill:45956755657590016","en":"Skiil2 - [Charged Attack] Tailwind Arrow Lv.1","ru":"Навык 2 — [Заряженная атака] Стрела попутного ветра, ур.1"}
-{"id":"skill:45956759952557312","en":"Skiil2 - [Charged Attack] start","ru":"Навык 2 — [Заряженная атака] начало"}
+{"id":"skill:45956755657590016","en":"Skill2 - [Charged Attack] Tailwind Arrow Lv.1","ru":"Навык 2 — [Заряженная атака] Стрела попутного ветра, ур.1"}
+{"id":"skill:45956759952557312","en":"Skill2 - [Charged Attack] start","ru":"Навык 2 — [Заряженная атака] начало"}
 {"id":"skill:45956764247524608","en":"Reserve Skill3","ru":"Резервный навык3"}
 {"id":"skill:45956768542491904","en":"Reserve Skill4","ru":"Резервный навык4"}
 {"id":"skill:45956772837459200","en":"Reserve Skill5","ru":"Резервный навык5"}
@@ -2679,8 +2679,8 @@
 {"id":"skill:45957155089548544","en":"Tuning4","ru":"Настройка4"}
 {"id":"skill:45957159384515840","en":"Tuning5","ru":"Настройка5"}
 {"id":"skill:45957163679483136","en":"Tuning6","ru":"Настройка6"}
-{"id":"skill:45957185154319616","en":"Skiil2 - [Charged Attack] Tailwind Arrow Lv.1","ru":"Навык 2 — [Заряженная атака] Стрела попутного ветра, ур.1"}
-{"id":"skill:45957189449286912","en":"Skiil2 - [Charged Attack] start","ru":"Навык 2 — [Заряженная атака] начало"}
+{"id":"skill:45957185154319616","en":"Skill2 - [Charged Attack] Tailwind Arrow Lv.1","ru":"Навык 2 — [Заряженная атака] Стрела попутного ветра, ур.1"}
+{"id":"skill:45957189449286912","en":"Skill2 - [Charged Attack] start","ru":"Навык 2 — [Заряженная атака] начало"}
 {"id":"skill:45957193744254208","en":"Reserve Skill3","ru":"Резервный навык3"}
 {"id":"skill:45957198039221504","en":"Reserve Skill4","ru":"Резервный навык4"}
 {"id":"skill:45957202334188800","en":"Reserve Skill5","ru":"Резервный навык5"}
@@ -2824,13 +2824,13 @@
 {"id":"skill:46387081315878144","en":"Tuning4","ru":"Настройка4"}
 {"id":"skill:46387085610845440","en":"Tuning5","ru":"Настройка5"}
 {"id":"skill:46387089905812736","en":"Tuning6","ru":"Настройка6"}
-{"id":"skill:46387111380649216","en":"Charged Attack (Minor Charge","ru":"Заряженная атака (малый заряд"}
+{"id":"skill:46387111380649216","en":"Charged Attack (Minor Charge)","ru":"Заряженная атака (малый заряд)"}
 {"id":"skill:46387115675616512","en":"Charged Attack (Full Charge)","ru":"Заряженная атака (полный заряд)"}
 {"id":"skill:46387119970583808","en":"Entrance Action","ru":"Действие при появлении"}
 {"id":"skill:46387124265551104","en":"Entrance Action","ru":"Действие при появлении"}
 {"id":"skill:46387128560518400","en":"Entrance Action","ru":"Действие при появлении"}
 {"id":"skill:46387132855485696","en":"Entrance Action","ru":"Действие при появлении"}
-{"id":"skill:46387137150452992","en":"Charged Attack (Minor Charge","ru":"Заряженная атака (малый заряд"}
+{"id":"skill:46387137150452992","en":"Charged Attack (Minor Charge)","ru":"Заряженная атака (малый заряд)"}
 {"id":"skill:46387141445420288","en":"Charged Attack (Full Charge)","ru":"Заряженная атака (полный заряд)"}
 {"id":"skill:46387145740387584","en":"Parry Skill_Success","ru":"Навык парирования_Успех"}
 {"id":"skill:46387192985027840","en":"Passive Skill - Energy Recovery","ru":"Пассивный навык — восстановление энергии"}
@@ -3195,7 +3195,7 @@
 {"id":"skill:8164990527735040","en":"Great King of Destruction","ru":"Великий король разрушения"}
 {"id":"skill:8165033477408000","en":"Fierce Onslaught Showdown","ru":"Схватка яростного натиска"}
 {"id":"skill:8165076427080960","en":"Forest Ball","ru":"Лесной бал"}
-{"id":"skill:8165119376753920","en":"Whispers of the Owl That Dwells in Night","ru":"Шёпот ночной совы"}
+{"id":"skill:8165119376753920","en":"Voice of the Owl That Dwells in Night","ru":"Голос ночной совы"}
 {"id":"skill:8165162326426880","en":"Farm - Accumulated Effort","ru":"Ферма: накопленные усилия"}
 {"id":"skill:8165205276099840","en":"Farm - Can't Wait","ru":"Ферма: не терпится"}
 {"id":"skill:8165248225772800","en":"Farm - Catch the Sparkle","ru":"Ферма: поймай блеск"}

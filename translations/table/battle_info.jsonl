@@ -40,19 +40,7 @@
 {"id":"battle_info:206158431232","en":"Mount Swim Speed %","ru":"Скорость скакуна вплавь %"}
 {"id":"battle_info:210453398528","en":"Mount Dive Speed %","ru":"Скорость скакуна под водой %"}
 {"id":"battle_info:21474837504","en":"HP","ru":"ОЗ"}
-{"id":"battle_info:2151778616320","en":"Execute","ru":"Исполнение"}
-{"id":"battle_info:2156073583616","en":"Insight","ru":"Прозрение"}
-{"id":"battle_info:2160368550912","en":"Perception","ru":"Восприятие"}
-{"id":"battle_info:2164663518208","en":"Disturbance Rate Gain Modifier","ru":"Модификатор прироста уровня возмущения"}
-{"id":"battle_info:2168958485504","en":"Voidgold Gain Rate","ru":"Скорость получения пустозолота"}
-{"id":"battle_info:2173253452800","en":"Item Purchase Discount","ru":"Скидка на покупку предметов"}
-{"id":"battle_info:2177548420096","en":"Selection Count","ru":"Число выборов"}
-{"id":"battle_info:2181843387392","en":"Reroll Count","ru":"Число перебросов"}
-{"id":"battle_info:2186138354688","en":"Infostream Gain Modifier","ru":"Модификатор прироста инфопотока"}
-{"id":"battle_info:2190433321984","en":"Voidgold Amount","ru":"Количество пустозолота"}
 {"id":"battle_info:219043333120","en":"Non-elemental DMG Bonus","ru":"Усиление урона без элемента"}
-{"id":"battle_info:2194728289280","en":"Infostream Amount","ru":"Количество инфопотока"}
-{"id":"battle_info:2199023256576","en":"Disturbance Rate Amount","ru":"Величина уровня возмущения"}
 {"id":"battle_info:2203318223872","en":"Evade Counter DMG","ru":"Урон контратаки после уклонения"}
 {"id":"battle_info:2207613191168","en":"Kibo Special Skill Cooldown Reduction","ru":"Сокращение перезарядки особого навыка кибо"}
 {"id":"battle_info:2211908158464","en":"Kibo ATK","ru":"Сила атаки кибо"}

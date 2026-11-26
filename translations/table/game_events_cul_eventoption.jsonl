@@ -116,13 +116,13 @@
 {"id":"game_events_cul_eventoption:430390082799616","en":"A horror story.","ru":"Страшная история."}
 {"id":"game_events_cul_eventoption:430394377766912","en":"A mystery story.","ru":"Детективная история."}
 {"id":"game_events_cul_eventoption:430785219790848","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:430789514758144","en":"Where the Sea Winds and Clouds Linger","ru":"Где задерживаются морской ветер и облака"}
-{"id":"game_events_cul_eventoption:430793809725440","en":"Until the end of time, this memory will not fade.","ru":"До скончания времён это воспоминание не померкнет."}
-{"id":"game_events_cul_eventoption:430798104692736","en":"A Bouquet of Balmy Sunshine","ru":"Букет тёплого солнца"}
-{"id":"game_events_cul_eventoption:430802399660032","en":"HP.","ru":"Здоровье."}
-{"id":"game_events_cul_eventoption:430806694627328","en":"Above the Clear Waves.","ru":"Над чистыми волнами."}
-{"id":"game_events_cul_eventoption:430810989594624","en":"First Heartflutter","ru":"Первое трепетание сердца"}
-{"id":"game_events_cul_eventoption:430815284561920","en":"Seawater is salty. And so are tears.","ru":"Морская вода солёная. И слёзы тоже."}
+{"id":"game_events_cul_eventoption:430789514758144","en":"\"Where the Sea Winds and Clouds Linger\"","ru":"«Где задерживаются морской ветер и облака»"}
+{"id":"game_events_cul_eventoption:430793809725440","en":"\"A Memory Unfading Until Time's End\"","ru":"«Память, не меркнущая до скончания времён»"}
+{"id":"game_events_cul_eventoption:430798104692736","en":"\"A Bountiful Bouquet Bathed in Garden Sunlight\"","ru":"«Щедрый букет в лучах садового солнца»"}
+{"id":"game_events_cul_eventoption:430802399660032","en":"\"In Praise of the Earth's Breath\"","ru":"«Во славу дыхания земли»"}
+{"id":"game_events_cul_eventoption:430806694627328","en":"\"The Murmur of Clear Waves\"","ru":"«Шёпот чистых волн»"}
+{"id":"game_events_cul_eventoption:430810989594624","en":"\"The First Pounding of the Heart\"","ru":"«Первое трепетание сердца»"}
+{"id":"game_events_cul_eventoption:430815284561920","en":"\"Sea Salt and the Drops of Remembrance\"","ru":"«Морская соль и капли воспоминаний»"}
 {"id":"game_events_cul_eventoption:431214716520448","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:431219011487744","en":"Time to Train! An All-Night Bondweaving!","ru":"За тренировки! Плетём узы всю ночь напролёт!"}
 {"id":"game_events_cul_eventoption:431223306455040","en":"Write Grandma a letter and ask her to go easy on me.","ru":"Написать бабушке письмо и попросить её быть помягче."}
@@ -148,7 +148,7 @@
 {"id":"game_events_cul_eventoption:859435840833792","en":"Even a sturdy gate holds no fear. With these fists...","ru":"Даже крепкие врата не внушают страха. Этими кулаками..."}
 {"id":"game_events_cul_eventoption:859852452661248","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:859856747628544","en":"All fear is born from a lack of strength.","ru":"Весь страх рождается от недостатка силы."}
-{"id":"game_events_cul_eventoption:859861042595840","en":"Maybe a drink will give me some courage.","ru":"Может, выпить для храбрости?"}
+{"id":"game_events_cul_eventoption:859861042595840","en":"Have a drink to build up some courage.","ru":"Выпить для храбрости."}
 {"id":"game_events_cul_eventoption:859865337563136","en":"Courage Check","ru":"Проверка смелости"}
 {"id":"game_events_cul_eventoption:859865337563392","en":"No further preparations are needed.","ru":"Дополнительная подготовка не нужна."}
 {"id":"game_events_cul_eventoption:860281949390848","en":"Join the event","ru":"Принять участие в мероприятии"}
@@ -201,13 +201,13 @@
 {"id":"game_events_cul_eventoption:864147419957248","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:864151714924544","en":"Calm the drunk down.","ru":"Успокоить пьяницу."}
 {"id":"game_events_cul_eventoption:864156009891840","en":"Persuade Bluda.","ru":"Уговорить Блуду."}
-{"id":"game_events_cul_eventoption:864160304859136","en":"Stop making a racket. If you want a fight, go have one at the Kibo Fight Center.","ru":"Хватит шуметь. Если хочешь бой, иди в Центр кибо-боёв."}
+{"id":"game_events_cul_eventoption:864160304859136","en":"Stop making a racket. If you want a fight, go to the Kibo Fight Center.","ru":"Хватит шуметь. Если хочешь боя, иди в Центр кибо-боёв."}
 {"id":"game_events_cul_eventoption:864576916686848","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:864581211654144","en":"I can't go searching for the person that girl hates.","ru":"Я не могу искать того, кого ненавидит эта девушка."}
 {"id":"game_events_cul_eventoption:864585506621440","en":"Go meet the other person and bring the two together.","ru":"Пойти встретиться с другим и помирить их."}
 {"id":"game_events_cul_eventoption:864589801588736","en":"Isn't she just upset that he doesn't love her enough?","ru":"Разве она просто не злится, что его любви к ней недостаточно?"}
 {"id":"game_events_cul_eventoption:865006413416448","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:865010708383744","en":"Will we be dragged down with them too?","ru":"Неужели и нас потянут за собой?"}
+{"id":"game_events_cul_eventoption:865010708383744","en":"Are we going to be dragged down with them too?","ru":"Неужели и нас потянут за собой?"}
 {"id":"game_events_cul_eventoption:865015003351040","en":"Solve the problem by forceful means.","ru":"Решить проблему силой."}
 {"id":"game_events_cul_eventoption:865019298318336","en":"Solve the problem the way a sensible person would.","ru":"Решить проблему по-житейски разумно."}
 {"id":"game_events_cul_eventoption:865435910146048","en":"Join the event","ru":"Принять участие в мероприятии"}
@@ -364,7 +364,7 @@
 {"id":"game_events_cul_eventoption:878763193665536","en":"Ask Komugi for advice","ru":"Спросить совета у Комуги"}
 {"id":"game_events_cul_eventoption:879179805493248","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:879184100460544","en":"Help the kids settle who's the best Boss!","ru":"Помочь детям решить, кто из Боссов лучший!"}
-{"id":"game_events_cul_eventoption:879188395427840","en":"Help Li judge whether a shaved head is the best hairstyle for him!","ru":"Помочь Ли решить, идёт ли ему бритая голова больше всего!"}
+{"id":"game_events_cul_eventoption:879188395427840","en":"Help judge whether a shaved head is the best hairstyle for him!","ru":"Помочь решить, идёт ли ему бритая голова больше всего!"}
 {"id":"game_events_cul_eventoption:879192690395136","en":"Decide together on the best way to cut a bagel!","ru":"Вместе решить, как лучше всего разрезать бублик!"}
 {"id":"game_events_cul_eventoption:879609302222848","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:879613597190144","en":"Breakfast has to be sweet.","ru":"Завтрак должен быть сладким."}

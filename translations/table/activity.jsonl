@@ -1,7 +1,7 @@
 {"id":"activity:12884902912","en":"Level up characters 1 times","ru":"Повысить уровень персонажей: 1 раз"}
 {"id":"activity:17179870208","en":"Level up Anima 1 times","ru":"Повысить уровень Анимы: 1 раз"}
 {"id":"activity:21474837504","en":"Level up Kibo 1 times","ru":"Повысить уровень кибо: 1 раз"}
-{"id":"activity:25769804800","en":"Starlink with 1 Kibo","ru":"Заключить Звёздную связь с кибо: 1"}
+{"id":"activity:25769804800","en":"Starlink with 1 Kibo","ru":"Заключить Звёздную связь с кибо в количестве 1"}
 {"id":"activity:30064772096","en":"Defeat 30 enemies","ru":"Победить врагов: 30"}
 {"id":"activity:34359739392","en":"Clear Crisis Subjugation 1 times","ru":"Пройти «Подавление кризиса»: 1 раз"}
 {"id":"activity:38654706688","en":"Participate in Kibo Fight 1 times","ru":"Участвовать в Бою кибо: 1 раз"}
@@ -11,10 +11,10 @@
 {"id":"activity:4303557231616","en":"Consume 1000 Primordial Tide","ru":"Потратить Первозданный прилив: 1000"}
 {"id":"activity:4307852198912","en":"Participate in Kibo Fight 3 times","ru":"Участвовать в Бою кибо: 3 раз"}
 {"id":"activity:4312147166208","en":"Complete 5 orders at the Farm's Exchange","ru":"Выполнить заказы Торговой лавки на ферме: 5"}
-{"id":"activity:4316442133504","en":"Starlink with 10 Kibo","ru":"Заключить Звёздную связь с кибо: 10"}
+{"id":"activity:4316442133504","en":"Starlink with 10 Kibo","ru":"Заключить Звёздную связь с кибо в количестве 10"}
 {"id":"activity:4320737100800","en":"Clear 2 Calamity Echo Commissions","ru":"Пройти поручения «Отголоски бедствия»: 2 раз"}
 {"id":"activity:4325032068096","en":"Open 10 random field Treasure Chests","ru":"Открыть случайных сундуков с сокровищами в мире: 10"}
 {"id":"activity:4329327035392","en":"Clear Crisis Subjugation 3 times","ru":"Пройти «Подавление кризиса»: 3 раз"}
-{"id":"activity:4333622002688","en":"Defeat or Starlink with 3 Boss or Aberrant Kibo","ru":"Победить или связать Звёздной связью боссов или аберрантов кибо: 3"}
-{"id":"activity:47244641280","en":"Defeat or Starlink with 1 Boss or Aberrant Kibo","ru":"Победить или связать Звёздной связью боссов или аберрантов кибо: 1"}
+{"id":"activity:4333622002688","en":"Defeat or Starlink with 3 Boss or Aberrant Kibo","ru":"Победить или заключить Звёздную связь с боссами или аберрантами кибо в количестве 3"}
+{"id":"activity:47244641280","en":"Defeat or Starlink with 1 Boss or Aberrant Kibo","ru":"Победить или заключить Звёздную связь с боссами или аберрантами кибо в количестве 1"}
 {"id":"activity:8589935616","en":"Consume 200 Primordial Tide","ru":"Потратить Первозданный прилив: 200"}

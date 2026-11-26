@@ -165,7 +165,7 @@
 {"id":"world_spawner:15169824489728","en":"Pebbles","ru":"Пебблс"}
 {"id":"world_spawner:15174119457024","en":"Atio","ru":"Атио"}
 {"id":"world_spawner:15178414424320","en":"Furii","ru":"Фурии"}
-{"id":"world_spawner:15182709391616","en":"【Text of Unknown Origin】","ru":"【Текст неизвестного происхождения】"}
+{"id":"world_spawner:15182709391616","en":"Marmocco","ru":"Мармокко"}
 {"id":"world_spawner:15187004358912","en":"Banggus","ru":"Банггус"}
 {"id":"world_spawner:15195594293504","en":"Zeliton","ru":"Зелитон"}
 {"id":"world_spawner:15199889260800","en":"Senzaro","ru":"Сендзаро"}
@@ -173,7 +173,7 @@
 {"id":"world_spawner:15212774162688","en":"Tsurnephi","ru":"Цурнефи"}
 {"id":"world_spawner:15217069129984","en":"Nebulion","ru":"Небулион"}
 {"id":"world_spawner:15221364097280","en":"Clodime","ru":"Клодиме"}
-{"id":"world_spawner:15225659064576","en":"Chiimo","ru":"Тимо"}
+{"id":"world_spawner:15225659064576","en":"Didi","ru":"Диди"}
 {"id":"world_spawner:15229954031872","en":"Meluppo","ru":"Мелуппо"}
 {"id":"world_spawner:15234248999168","en":"Kinoka","ru":"Кинока"}
 {"id":"world_spawner:15238543966464","en":"Elahati","ru":"Элахати"}
@@ -218,7 +218,7 @@
 {"id":"world_spawner:15406047691008","en":"Drazure","ru":"Лазуродракон"}
 {"id":"world_spawner:15436112462080","en":"Crucible","ru":"Тигель"}
 {"id":"world_spawner:15440407429376","en":"Suspicious Person","ru":"Подозрительная личность"}
-{"id":"world_spawner:1632087572736","en":"Tinana's Chiimo","ru":"Тимо Тинаны"}
+{"id":"world_spawner:1632087572736","en":"Tinana's Didi","ru":"Диди Тинаны"}
 {"id":"world_spawner:1636382540032","en":"Ur","ru":"Ур"}
 {"id":"world_spawner:1675037245696","en":"Muumuuto","ru":"Муумууто"}
 {"id":"world_spawner:1679332212992","en":"Muumuuto","ru":"Муумууто"}
@@ -340,7 +340,7 @@
 {"id":"world_spawner:2362253487636736","en":"Common Kibo Egg - Ice","ru":"Яйцо кибо - лёд"}
 {"id":"world_spawner:2362257782604032","en":"Common Kibo Egg - Wind","ru":"Яйцо кибо - ветер"}
 {"id":"world_spawner:2362262077571328","en":"Common Kibo Egg - Nature","ru":"Яйцо кибо - Природа"}
-{"id":"world_spawner:2362266372538624","en":"Common Kibo Egg - Earth","ru":"Яйцо кибо - земля"}
+{"id":"world_spawner:2362266372538624","en":"Common Kibo Egg - Earth","ru":"Обычное яйцо кибо · земля"}
 {"id":"world_spawner:2362270667505920","en":"Common Kibo Egg - Lightning","ru":"Яйцо кибо - молния"}
 {"id":"world_spawner:2362274962473216","en":"Common Kibo Egg - Light","ru":"Яйцо кибо - свет"}
 {"id":"world_spawner:2362279257440512","en":"Common Kibo Egg - Dark","ru":"Яйцо кибо - тьма"}
@@ -357,7 +357,7 @@
 {"id":"world_spawner:2362326502080768","en":"Common Kibo Egg - Ice","ru":"Яйцо кибо - лёд"}
 {"id":"world_spawner:2362330797048064","en":"Common Kibo Egg - Wind","ru":"Яйцо кибо - ветер"}
 {"id":"world_spawner:2362335092015360","en":"Common Kibo Egg - Nature","ru":"Яйцо кибо - Природа"}
-{"id":"world_spawner:2362339386982656","en":"Common Kibo Egg - Earth","ru":"Яйцо кибо - земля"}
+{"id":"world_spawner:2362339386982656","en":"Common Kibo Egg - Earth","ru":"Обычное яйцо кибо · земля"}
 {"id":"world_spawner:2362343681949952","en":"Common Kibo Egg - Lightning","ru":"Яйцо кибо - молния"}
 {"id":"world_spawner:2362347976917248","en":"Common Kibo Egg - Light","ru":"Яйцо кибо - свет"}
 {"id":"world_spawner:2362352271884544","en":"Common Kibo Egg - Dark","ru":"Яйцо кибо - тьма"}
@@ -1172,7 +1172,7 @@
 {"id":"world_spawner:34378086468288768","en":"Charaki","ru":"Чараки"}
 {"id":"world_spawner:34378090763256064","en":"Kukuya","ru":"Кукуя"}
 {"id":"world_spawner:34378095058223360","en":"Laraka","ru":"Ларака"}
-{"id":"world_spawner:34378099353190656","en":"Blaze","ru":"Пламя"}
+{"id":"world_spawner:34378099353190656","en":"Flame","ru":"Флэйм"}
 {"id":"world_spawner:34378103648157952","en":"Athena","ru":"Афина"}
 {"id":"world_spawner:34378107943125248","en":"Lyra","ru":"Лайра"}
 {"id":"world_spawner:34378112238092544","en":"Teti","ru":"Тети"}

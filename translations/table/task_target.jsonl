@@ -2,8 +2,8 @@
 {"id":"task_target:138300523911579136","en":"There seem to be some strange rumors going around","ru":"Похоже, ходят какие-то странные слухи"}
 {"id":"task_target:138300528206545408","en":"Check on Lan Xiangzi","ru":"Проведать Лань Сянцзы"}
 {"id":"task_target:138300528206546432","en":"Check on Lan Xiangzi","ru":"Проведать Лань Сянцзы"}
-{"id":"task_target:138300532501512704","en":"Return to the hall and talk with the others","ru":"Вернуться в зал и поговорить с остальными"}
-{"id":"task_target:138300532501513728","en":"Return to the hall and talk with the others","ru":"Вернуться в зал и поговорить с остальными"}
+{"id":"task_target:138300532501512704","en":"Head to the Lord's Manor","ru":"Направиться к Усадьбе лорда"}
+{"id":"task_target:138300532501513728","en":"Head to the Lord's Manor","ru":"Направиться к Усадьбе лорда"}
 {"id":"task_target:1383005372259762688","en":"Eavesdrop on strange rumors","ru":"Подслушать странные слухи"}
 {"id":"task_target:1383005372259763712","en":"Eavesdrop on strange rumors","ru":"Подслушать странные слухи"}
 {"id":"task_target:1383005376554729984","en":"Eavesdrop on strange rumors","ru":"Подслушать странные слухи"}
@@ -19,7 +19,7 @@
 {"id":"task_target:138300549681381888","en":"Enter the Lord's Manor","ru":"Войти в Усадьбу лорда"}
 {"id":"task_target:138300549681382912","en":"Enter the Lord's Manor","ru":"Войти в Усадьбу лорда"}
 {"id":"task_target:138300553976349184","en":"Escort Lan Xiangzi to her bedroom on the 2 floor","ru":"Проводить Лань Сянцзы в спальню на 2 этаже"}
-{"id":"task_target:138300553976350208","en":"Keep discussing the ghost incident","ru":"Продолжить обсуждать историю с призраком"}
+{"id":"task_target:138300553976350208","en":"Keep discussing the apparition","ru":"Продолжить обсуждать видение"}
 {"id":"task_target:138300558271316480","en":"Return to the hall and look for someone who might have information","ru":"Вернуться в зал и поискать того, кто мог бы что-то знать"}
 {"id":"task_target:138300558271317504","en":"Return to the hall and look for someone who might have information","ru":"Вернуться в зал и поискать того, кто мог бы что-то знать"}
 {"id":"task_target:138300562566283776","en":"Return to the hall and look for someone who might have information","ru":"Вернуться в зал и поискать того, кто мог бы что-то знать"}
@@ -80,10 +80,10 @@
 {"id":"task_target:138300970588177920","en":"Talk to the girl bound by the Thread of Fate","ru":"Поговорить с девушкой, связанной Нитью судьбы"}
 {"id":"task_target:138300974883144192","en":"Talk to Sheriff Shilolo","ru":"Поговорить с шерифом Шилоло"}
 {"id":"task_target:138300974883145216","en":"Talk to Sheriff Shilolo","ru":"Поговорить с шерифом Шилоло"}
-{"id":"task_target:138300979178111488","en":"Find Evina","ru":"Найти Эвину"}
-{"id":"task_target:138300979178112512","en":"Find Evina","ru":"Найти Эвину"}
-{"id":"task_target:138300983473078784","en":"Find Evina","ru":"Найти Эвину"}
-{"id":"task_target:138300983473079808","en":"Find Evina","ru":"Найти Эвину"}
+{"id":"task_target:138300979178111488","en":"Find Avina","ru":"Найти Авину"}
+{"id":"task_target:138300979178112512","en":"Find Avina","ru":"Найти Авину"}
+{"id":"task_target:138300983473078784","en":"Find Avina","ru":"Найти Авину"}
+{"id":"task_target:138300983473079808","en":"Find Avina","ru":"Найти Авину"}
 {"id":"task_target:138300987768046080","en":"Head to Gondoro","ru":"Отправиться в Гондоро"}
 {"id":"task_target:138300987768047104","en":"Head to Gondoro","ru":"Отправиться в Гондоро"}
 {"id":"task_target:138300992063013376","en":"Head to Gondoro","ru":"Отправиться в Гондоро"}
@@ -216,8 +216,8 @@
 {"id":"task_target:141734788351395328","en":"Talk","ru":"Разговор"}
 {"id":"task_target:141734792646361600","en":"Head to Shine Candy Shop to buy supplies","ru":"Отправиться в магазин сладостей «Сияние» за покупками"}
 {"id":"task_target:141734792646362624","en":"Buy candy","ru":"Купить конфеты"}
-{"id":"task_target:141734796941328896","en":"Head to the bookstand to buy supplies","ru":"Отправиться к книжному лотку за покупками"}
-{"id":"task_target:141734796941329920","en":"Buy a book","ru":"Купить книгу"}
+{"id":"task_target:141734796941328896","en":"Go buy a book","ru":"Пойти купить книгу"}
+{"id":"task_target:141734796941329920","en":"About buying a book...","ru":"Насчёт покупки книги..."}
 {"id":"task_target:141734801236296192","en":"Head to Jiang Li's spice shop to buy supplies","ru":"Отправиться в лавку пряностей Цзян Ли за покупками"}
 {"id":"task_target:141734805531263488","en":"Catch up with the mysterious figure","ru":"Догнать таинственную личность"}
 {"id":"task_target:141734805531264512","en":"Talk","ru":"Разговор"}
@@ -243,8 +243,8 @@
 {"id":"task_target:146030623230788096","en":"Head to the Farm","ru":"Отправиться на ферму"}
 {"id":"task_target:146030627525755392","en":"Cook 1 normal-quality Juicy Tomato Omelettes in the Cooking Pot on the Farm.","ru":"Приготовьте 1 омлет(ов) с сочным томатом обычного качества в котелке на ферме."}
 {"id":"task_target:146030631820722688","en":"Talk to Shalle and give her 1 Juicy Tomato Omelettes.","ru":"Поговорите с Шалль и отдайте ей 1 омлет(ов) с сочным томатом."}
-{"id":"task_target:146030631820723712","en":"Let Shalle taste the Juicy Tomato Egg Stir-fry.","ru":"Дайте Шалль попробовать яичный омлет с сочным томатом."}
-{"id":"task_target:146030631820724224","en":"Let Shalle taste the Juicy Tomato Egg Stir-fry.","ru":"Дайте Шалль попробовать яичный омлет с сочным томатом."}
+{"id":"task_target:146030631820723712","en":"Serve a meal","ru":"Угостить блюдом"}
+{"id":"task_target:146030631820724224","en":"Serve a meal","ru":"Угостить блюдом"}
 {"id":"task_target:146030636115689984","en":"Talk to Shalle","ru":"Поговорить с Шалль"}
 {"id":"task_target:146031039842615808","en":"Talk to Shalle","ru":"Поговорите с Шалль"}
 {"id":"task_target:146031039842616832","en":"Shalle","ru":"Шалль"}
@@ -261,8 +261,8 @@
 {"id":"task_target:146031065612420608","en":"Shalle","ru":"Шалль"}
 {"id":"task_target:146031069907386880","en":"Cook normal-quality Rich Tomato Pasta","ru":"Приготовьте пасту с насыщенным томатным соусом обычного качества"}
 {"id":"task_target:146031074202354176","en":"Give the dish to Lilika","ru":"Отдайте блюдо Лилике"}
-{"id":"task_target:146031074202355200","en":"Let Lilika taste the delicious food","ru":"Дайте Лилике попробовать вкусное блюдо"}
-{"id":"task_target:146031074202355712","en":"Let Lilika taste the delicious food","ru":"Дайте Лилике попробовать вкусное блюдо"}
+{"id":"task_target:146031074202355200","en":"Serve a meal","ru":"Угостить блюдом"}
+{"id":"task_target:146031074202355712","en":"Serve a meal","ru":"Угостить блюдом"}
 {"id":"task_target:146031078497321472","en":"Comfort Shalle","ru":"Утешьте Шалль"}
 {"id":"task_target:146031078497322496","en":"Shalle","ru":"Шалль"}
 {"id":"task_target:146031078497323008","en":"34000510","ru":"34000510"}
@@ -283,7 +283,7 @@
 {"id":"task_target:146031490814181888","en":"Talk to Rex","ru":"Поговорите с Рексом"}
 {"id":"task_target:146031490814182912","en":"Rex","ru":"Рекс"}
 {"id":"task_target:146031495109149184","en":"Talk to Shiroro","ru":"Поговорите с Сироро"}
-{"id":"task_target:146031495109150208","en":"Ceroro","ru":"Сероро"}
+{"id":"task_target:146031495109150208","en":"Shiroro","ru":"Сироро"}
 {"id":"task_target:146031499404116480","en":"Talk to Nanacha","ru":"Поговорите с Наначей"}
 {"id":"task_target:146031499404117504","en":"Nanacha","ru":"Нанача"}
 {"id":"task_target:146031503699083776","en":"Head to Meimei House and comfort Federica","ru":"Отправляйтесь в Дом Мэймэй и утешьте Федерику"}
@@ -431,14 +431,14 @@
 {"id":"task_target:172232062630101504","en":"Deliver the needed supplies to Lilika","ru":"Доставить Лилике необходимые припасы"}
 {"id":"task_target:172232062630102528","en":"Hand over the required materials","ru":"Передать необходимые материалы"}
 {"id":"task_target:172232062630103040","en":"Give the materials to Lilika","ru":"Отдать материалы Лилике"}
-{"id":"task_target:172658119090897408","en":"Buy from the Sparkling Curio Shop 1 time(s).","ru":"Соверши покупки в Лавке мерцающих диковинок 1 раз(-а)."}
-{"id":"task_target:172658119090898432","en":"Buy from the Sparkling Curio Shop 1 time(s).","ru":"Соверши покупки в Лавке мерцающих диковинок 1 раз(-а)."}
+{"id":"task_target:172658119090897408","en":"Buy from the Sparkling Curios Shop 1 time(s).","ru":"Соверши покупки в Лавке сверкающих диковин 1 раз."}
+{"id":"task_target:172658119090898432","en":"Buy from the Sparkling Curios Shop 1 time(s).","ru":"Соверши покупки в Лавке сверкающих диковин 1 раз."}
 {"id":"task_target:172658123385864704","en":"Craft an Exchange at the Workbench and place it on the Farm.","ru":"Изготовь Торговую лавку на Верстаке и установи её на ферме."}
 {"id":"task_target:172658123385865728","en":"Craft an Exchange at the Workbench and place it on the Farm.","ru":"Изготовь Торговую лавку на Верстаке и установи её на ферме."}
 {"id":"task_target:172658127680832000","en":"Sell products 1 time(s).","ru":"Продай товаров 1 раз(-а)."}
 {"id":"task_target:172658127680833024","en":"Sell products 1 time(s).","ru":"Продай товаров 1 раз(-а)."}
-{"id":"task_target:172658131975799296","en":"Complete 1 Order(s) at the Order Board.","ru":"Выполни 1 заказ(-а) на Доске заказов."}
-{"id":"task_target:172658131975800320","en":"Complete 1 Order(s) at the Order Board.","ru":"Выполни 1 заказ(-а) на Доске заказов."}
+{"id":"task_target:172658131975799296","en":"Complete 1 Order(s) at the Exchange.","ru":"Выполни заказы в Торговой лавке 1 раз."}
+{"id":"task_target:172658131975800320","en":"Complete 1 Order(s) at the Exchange.","ru":"Выполни заказы в Торговой лавке 1 раз."}
 {"id":"task_target:173088045317227008","en":"Terara's Invitation","ru":"Приглашение Терары"}
 {"id":"task_target:173088045317228032","en":"Talk","ru":"Говорить"}
 {"id":"task_target:214748798591697408","en":"Go to the Village Chief's house and find the Village Chief.","ru":"Отправляйся к дому старосты и найди старосту."}
@@ -701,18 +701,18 @@
 {"id":"task_target:43815117460080128","en":"Set off for the Fleece City District","ru":"Отправляйтесь в городской район Флиса"}
 {"id":"task_target:43815121755046400","en":"Set off for the Fleece City District","ru":"Отправляйтесь в городской район Флиса"}
 {"id":"task_target:43815121755047424","en":"Set off for the Fleece City District","ru":"Отправляйтесь в городской район Флиса"}
-{"id":"task_target:43815126050013696","en":"Wait for an audience with the Lord","ru":"Дождитесь аудиенции у лорда"}
-{"id":"task_target:43815126050014720","en":"Wait for an audience with the Lord","ru":"Дождитесь аудиенции у лорда"}
-{"id":"task_target:43815130344980992","en":"Have an audience with the Lord","ru":"Предстать перед лордом"}
-{"id":"task_target:43815130344982016","en":"Have an audience with the Lord","ru":"Предстать перед лордом"}
-{"id":"task_target:43815134639948288","en":"Return to the hall and talk with your companions","ru":"Вернуться в зал и поговорить с товарищами"}
-{"id":"task_target:43815134639949312","en":"Return to the hall and talk with your companions","ru":"Вернуться в зал и поговорить с товарищами"}
-{"id":"task_target:43815138934915584","en":"Return to the hall and talk with your companions","ru":"Вернуться в зал и поговорить с товарищами"}
-{"id":"task_target:43815138934916608","en":"Return to the hall and talk with your companions","ru":"Вернуться в зал и поговорить с товарищами"}
-{"id":"task_target:43815143229882880","en":"Head to the Adventurers' Guild","ru":"Отправиться в Гильдию искателей приключений"}
-{"id":"task_target:43815143229883904","en":"Head to the Adventurers' Guild","ru":"Отправиться в Гильдию искателей приключений"}
-{"id":"task_target:43815147524850176","en":"Head to the Adventurers' Guild","ru":"Отправиться в Гильдию искателей приключений"}
-{"id":"task_target:43815147524851200","en":"Head to the Adventurers' Guild","ru":"Отправиться в Гильдию искателей приключений"}
+{"id":"task_target:43815126050013696","en":"Arrive in the Fleece City District","ru":"Прибыть в городской район Флиса"}
+{"id":"task_target:43815126050014720","en":"Arrive in the Fleece City District","ru":"Прибыть в городской район Флиса"}
+{"id":"task_target:43815130344980992","en":"Discuss your upcoming journey","ru":"Обсудить предстоящий путь"}
+{"id":"task_target:43815130344982016","en":"Discuss your upcoming journey","ru":"Обсудить предстоящий путь"}
+{"id":"task_target:43815134639948288","en":"Head to the Lord's Manor","ru":"Направиться к усадьбе лорда"}
+{"id":"task_target:43815134639949312","en":"Head to the Lord's Manor","ru":"Направиться к усадьбе лорда"}
+{"id":"task_target:43815138934915584","en":"Head to the Lord's Manor","ru":"Направиться к усадьбе лорда"}
+{"id":"task_target:43815138934916608","en":"Head to the Lord's Manor","ru":"Направиться к усадьбе лорда"}
+{"id":"task_target:43815143229882880","en":"Arrive at the Lord's Manor","ru":"Прибыть к усадьбе лорда"}
+{"id":"task_target:43815143229883904","en":"Arrive at the Lord's Manor","ru":"Прибыть к усадьбе лорда"}
+{"id":"task_target:43815147524850176","en":"Arrive at the Lord's Manor","ru":"Прибыть к усадьбе лорда"}
+{"id":"task_target:43815147524851200","en":"Arrive at the Lord's Manor","ru":"Прибыть к усадьбе лорда"}
 {"id":"task_target:43815151819817472","en":"Enter the Lord's Manor","ru":"Войти в усадьбу лорда"}
 {"id":"task_target:43815151819818496","en":"Enter the Lord's Manor","ru":"Войти в усадьбу лорда"}
 {"id":"task_target:438151565442810368","en":"Talk to Terara","ru":"Поговорить с Терарой"}
@@ -723,8 +723,8 @@
 {"id":"task_target:438151574032745984","en":"Talk to Symphoria","ru":"Поговорить с Симфорией"}
 {"id":"task_target:438151578327712256","en":"Examine Mokyun","ru":"Осмотреть Мокюна"}
 {"id":"task_target:438151578327713280","en":"Examine Mokyun","ru":"Осмотреть Мокюна"}
-{"id":"task_target:43815160409752064","en":"Head to Lampblack","ru":"Отправиться в Лампблэк"}
-{"id":"task_target:43815160409753088","en":"Head to Lampblack","ru":"Отправиться в Лампблэк"}
+{"id":"task_target:43815160409752064","en":"Have an audience with the Lord","ru":"Предстать перед лордом"}
+{"id":"task_target:43815160409753088","en":"Have an audience with the Lord","ru":"Предстать перед лордом"}
 {"id":"task_target:43815164704719360","en":"Return to the lobby and consult your companions","ru":"Вернуться в холл и посоветоваться с товарищами"}
 {"id":"task_target:43815164704720384","en":"Return to the lobby and consult your companions","ru":"Вернуться в холл и посоветоваться с товарищами"}
 {"id":"task_target:43815168999686656","en":"Follow Komugi and tour Fleece City District","ru":"Последовать за Комуги и осмотреть городской район Флиса"}
@@ -753,12 +753,12 @@
 {"id":"task_target:43815216244327936","en":"Check out the food shop","ru":"Заглянуть в продуктовую лавку"}
 {"id":"task_target:43815220539294208","en":"Depart for Lampblack","ru":"Отправиться в Лампблэк"}
 {"id":"task_target:43815220539295232","en":"Depart for Lampblack","ru":"Отправиться в Лампблэк"}
-{"id":"task_target:43815542661841408","en":"Use Almaro's strength to shove the stone aside","ru":"Использовать силу Альмаро, чтобы оттолкнуть камень"}
-{"id":"task_target:43815542661842432","en":"Use Almaro's strength to shove the stone aside","ru":"Использовать силу Альмаро, чтобы оттолкнуть камень"}
-{"id":"task_target:43815546956808704","en":"Exterminate the Sapitz","ru":"Уничтожить сапитцев"}
-{"id":"task_target:43815546956809728","en":"Exterminate the Sapitz","ru":"Уничтожить сапитцев"}
-{"id":"task_target:43815551251776000","en":"Exterminate the Sapitz","ru":"Уничтожить сапитцев"}
-{"id":"task_target:43815551251777024","en":"Exterminate the Sapitz","ru":"Уничтожить сапитцев"}
+{"id":"task_target:43815542661841408","en":"Look for a way forward","ru":"Поискать путь вперёд"}
+{"id":"task_target:43815542661842432","en":"Look for a way forward","ru":"Поискать путь вперёд"}
+{"id":"task_target:43815546956808704","en":"Examine the suspicious stone wall","ru":"Осмотреть подозрительную каменную стену"}
+{"id":"task_target:43815546956809728","en":"Examine the suspicious stone wall","ru":"Осмотреть подозрительную каменную стену"}
+{"id":"task_target:43815551251776000","en":"Examine the suspicious stone wall","ru":"Осмотреть подозрительную каменную стену"}
+{"id":"task_target:43815551251777024","en":"Examine the suspicious stone wall","ru":"Осмотреть подозрительную каменную стену"}
 {"id":"task_target:43815972158571008","en":"Shatter the stone wall and proceed","ru":"Разрушить каменную стену и пройти дальше"}
 {"id":"task_target:43815972158572032","en":"Shatter the stone wall and proceed","ru":"Разрушить каменную стену и пройти дальше"}
 {"id":"task_target:43815976453538304","en":"Try opening the closed gate","ru":"Попробовать открыть закрытые врата"}
@@ -835,24 +835,24 @@
 {"id":"task_target:43816856921835008","en":"Head to the Lampblack Mine","ru":"Направляйтесь на рудник «Лампичная сажа»"}
 {"id":"task_target:43816861216801280","en":"Head to the Lampblack Mine","ru":"Направляйтесь на рудник «Лампичная сажа»"}
 {"id":"task_target:43816861216802304","en":"Head to the Lampblack Mine","ru":"Направляйтесь на рудник «Лампичная сажа»"}
-{"id":"task_target:43817260648759808","en":"Head to Lampblack","ru":"Отправляйтесь в Лампблэк"}
-{"id":"task_target:43817260648760832","en":"Head to Lampblack","ru":"Отправляйтесь в Лампблэк"}
-{"id":"task_target:43817264943727104","en":"Head to Lampblack","ru":"Отправляйтесь в Лампблэк"}
-{"id":"task_target:43817264943728128","en":"Head to Lampblack","ru":"Отправляйтесь в Лампблэк"}
-{"id":"task_target:43817269238694400","en":"Head to Lampblack","ru":"Отправляйтесь в Лампблэк"}
-{"id":"task_target:43817269238695424","en":"Head to Lampblack","ru":"Отправляйтесь в Лампблэк"}
-{"id":"task_target:43817273533661696","en":"Head to Lampblack","ru":"Отправляйтесь в Лампблэк"}
-{"id":"task_target:43817273533662720","en":"Head to Lampblack","ru":"Отправляйтесь в Лампблэк"}
+{"id":"task_target:43817260648759808","en":"Investigate the lowest level of the mining site","ru":"Исследуйте самый нижний уровень рудника"}
+{"id":"task_target:43817260648760832","en":"Investigate the lowest level of the mining site","ru":"Исследуйте самый нижний уровень рудника"}
+{"id":"task_target:43817264943727104","en":"Investigate the lowest level of the mining site","ru":"Исследуйте самый нижний уровень рудника"}
+{"id":"task_target:43817264943728128","en":"Investigate the lowest level of the mining site","ru":"Исследуйте самый нижний уровень рудника"}
+{"id":"task_target:43817269238694400","en":"Investigate the lowest level of the mining site","ru":"Исследуйте самый нижний уровень рудника"}
+{"id":"task_target:43817269238695424","en":"Investigate the lowest level of the mining site","ru":"Исследуйте самый нижний уровень рудника"}
+{"id":"task_target:43817273533661696","en":"Investigate the lowest level of the mining site","ru":"Исследуйте самый нижний уровень рудника"}
+{"id":"task_target:43817273533662720","en":"Investigate the lowest level of the mining site","ru":"Исследуйте самый нижний уровень рудника"}
 {"id":"task_target:43817277828628992","en":"Defeat the rampaging Kibo and investigate the Treasure Chest","ru":"Победите разбушевавшихся кибо и осмотрите сундук с сокровищами"}
 {"id":"task_target:43817277828630016","en":"Investigate the Treasure Chest","ru":"Осмотрите сундук с сокровищами"}
 {"id":"task_target:43817282123596288","en":"Defeat the rampaging Kibo and investigate the Treasure Chest","ru":"Победите разбушевавшихся кибо и осмотрите сундук с сокровищами"}
 {"id":"task_target:43817282123597312","en":"Investigate the Treasure Chest","ru":"Осмотрите сундук с сокровищами"}
-{"id":"task_target:43817286418563584","en":"Borrow Almaro's strength to shove the stone aside","ru":"С помощью силы Альмаро оттолкните камень"}
-{"id":"task_target:43817286418564608","en":"Borrow Almaro's strength to shove the stone aside","ru":"С помощью силы Альмаро оттолкните камень"}
-{"id":"task_target:43817290713530880","en":"Borrow Almaro's strength to shove the stone aside","ru":"С помощью силы Альмаро оттолкните камень"}
-{"id":"task_target:43817290713531904","en":"Borrow Almaro's strength to shove the stone aside","ru":"С помощью силы Альмаро оттолкните камень"}
-{"id":"task_target:43817295008498176","en":"Exterminate the Sapitz","ru":"Уничтожьте сапитцев"}
-{"id":"task_target:43817295008499200","en":"Exterminate the Sapitz","ru":"Уничтожьте сапитцев"}
+{"id":"task_target:43817286418563584","en":"Look for a way forward","ru":"Найдите путь вперёд"}
+{"id":"task_target:43817286418564608","en":"Look for a way forward","ru":"Найдите путь вперёд"}
+{"id":"task_target:43817290713530880","en":"Look for a way forward","ru":"Найдите путь вперёд"}
+{"id":"task_target:43817290713531904","en":"Look for a way forward","ru":"Найдите путь вперёд"}
+{"id":"task_target:43817295008498176","en":"Investigate the suspicious Stone Wall","ru":"Осмотрите подозрительную каменную стену"}
+{"id":"task_target:43817295008499200","en":"Investigate the suspicious Stone Wall","ru":"Осмотрите подозрительную каменную стену"}
 {"id":"task_target:43817690145489408","en":"Assess the situation in the mine","ru":"Оцените обстановку на руднике"}
 {"id":"task_target:43817690145490432","en":"Assess the situation in the mine","ru":"Оцените обстановку на руднике"}
 {"id":"task_target:43817694440456704","en":"Find a way deeper into the mine","ru":"Найдите путь вглубь рудника"}
@@ -948,7 +948,7 @@
 {"id":"task_target:43820271420834304","en":"Push deeper into the mining site","ru":"Продвигаться вглубь рудника"}
 {"id":"task_target:43820271420835328","en":"Push deeper into the mining site","ru":"Продвигаться вглубь рудника"}
 {"id":"task_target:43820275715801600","en":"Find a way to open the door","ru":"Найти способ открыть дверь"}
-{"id":"task_target:43820275715802624","en":"Examine the adamantite ore","ru":"Осмотреть залежь адамантита"}
+{"id":"task_target:43820275715802624","en":"Examine the Gold Essence Ore","ru":"Осмотреть Золотую эссенцию"}
 {"id":"task_target:43820280010768896","en":"Defeat the attacking Kibo","ru":"Одолеть напавших кибо"}
 {"id":"task_target:43820280010769920","en":"Defeat the attacking Kibo","ru":"Одолеть напавших кибо"}
 {"id":"task_target:43820284305736192","en":"Check on the fallen figure","ru":"Проверить лежащего без сознания"}
@@ -1111,6 +1111,8 @@
 {"id":"task_target:43823793294018048","en":"Leave Harvest Hall","ru":"Покиньте Зал урожая"}
 {"id":"task_target:43824132596433408","en":"Examine the airship wreckage","ru":"Осмотрите обломки воздушного корабля"}
 {"id":"task_target:43824132596434432","en":"Examine the airship wreckage","ru":"Осмотрите обломки воздушного корабля"}
+{"id":"task_target:43824136891400704","en":"Examine the airship wreckage","ru":"Осмотрите обломки воздушного корабля"}
+{"id":"task_target:43824136891401728","en":"Examine the airship wreckage","ru":"Осмотрите обломки воздушного корабля"}
 {"id":"task_target:442381633280","en":"Complete the specified quest","ru":"Завершить указанное задание"}
 {"id":"task_target:44668093670097408","en":"Step on the Mechanism Slab","ru":"Наступите на Механическую плиту"}
 {"id":"task_target:44668097965064704","en":"Enter through the gate","ru":"Войдите в ворота"}
@@ -1315,8 +1317,8 @@
 {"id":"task_target:4797478471168","en":"Examine the Featherleaf","ru":"Осмотреть Перистый лист"}
 {"id":"task_target:4801773437440","en":"Examine the strange totem","ru":"Осмотрите странный тотем"}
 {"id":"task_target:4801773438464","en":"Examine the strange totem","ru":"Осмотреть странный тотем"}
-{"id":"task_target:4806068404736","en":"Examine the Featherleaf","ru":"Осмотрите Перистый лист"}
-{"id":"task_target:4806068405760","en":"Examine the Featherleaf","ru":"Осмотреть Перистый лист"}
+{"id":"task_target:4806068404736","en":"Examine the Statue of the Great Wolf","ru":"Осмотрите Статую Великого волка"}
+{"id":"task_target:4806068405760","en":"Examine the Statue of the Great Wolf","ru":"Осмотреть Статую Великого волка"}
 {"id":"task_target:48064979010048","en":"Head to the Blacksmith","ru":"Направляйтесь к Кузнецу"}
 {"id":"task_target:48064979011072","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:4810363372032","en":"Talk to Luruka","ru":"Поговорите с Лурукой"}
@@ -1527,7 +1529,7 @@
 {"id":"task_target:6558415061504","en":"Gather materials and give them to Luruka","ru":"Собрать материалы и отдать их Луруке"}
 {"id":"task_target:6558415062528","en":"Give","ru":"Отдать"}
 {"id":"task_target:6558415063040","en":"Search for medicinal ingredients, then give the materials you collect to Luruka.\nIn Luruka's hands, these materials will become a potent medicine to wake the militia.","ru":"Найти лекарственные ингредиенты и отдать собранные материалы Луруке.\nВ руках Луруки эти материалы станут сильнодействующим лекарством, способным разбудить ополченцев."}
-{"id":"task_target:6571299963392","en":"Give Martina the waking draught","ru":"Дать Мартине пробуждающий отвар"}
+{"id":"task_target:6571299963392","en":"Give Martina the medicine","ru":"Дать Мартине лекарство"}
 {"id":"task_target:6571299964416","en":"Administer the medicine","ru":"Дать лекарство"}
 {"id":"task_target:6571299964928","en":"Give Martina the waking draught.\nA complex, potent burst of flavor may be enough to rouse her from her dreams.","ru":"Дать Мартине пробуждающий отвар.\nСложный и резкий вкус, возможно, сумеет вырвать её из сна."}
 {"id":"task_target:6575594930688","en":"Search for the suspicious campsite","ru":"Найти подозрительный лагерь"}
@@ -1721,7 +1723,7 @@
 {"id":"task_target:7387343751168","en":"Set up the Totem Bonfire.","ru":"Установить Тотемный костёр."}
 {"id":"task_target:7391638716928","en":"Talk to Symphoria","ru":"Поговорить с Симфорией"}
 {"id":"task_target:7391638717952","en":"Talk to Symphoria","ru":"Поговорить с Симфорией"}
-{"id":"task_target:7395933684224","en":"Talk to the Mofunga","ru":"Поговорите с мофунгой"}
+{"id":"task_target:7395933684224","en":"Go meet the Mofunga","ru":"Навестите Мофунгу"}
 {"id":"task_target:7395933685248","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:7400228651520","en":"Follow the Mofunga","ru":"Следуйте за мофунгой"}
 {"id":"task_target:7400228652544","en":"Talk","ru":"Поговорить"}
@@ -2027,8 +2029,8 @@
 {"id":"task_target:87191302147409920","en":"Deliver 10 Softwood","ru":"Передайте мягкую древесину: 10 шт."}
 {"id":"task_target:87191306442375680","en":"Install Rubina's device","ru":"Установите устройство Руби"}
 {"id":"task_target:87191306442376704","en":"Install Rubina's device","ru":"Установите устройство Руби"}
-{"id":"task_target:87191310737342976","en":"Stay calm and wait for word","ru":"Спокойно дождитесь вестей"}
-{"id":"task_target:87191310737344000","en":"Stay calm and wait for word","ru":"Спокойно дождитесь вестей"}
+{"id":"task_target:87191310737342976","en":"Wait until the next day","ru":"Дождитесь следующего дня"}
+{"id":"task_target:87191310737344000","en":"Wait until the next day","ru":"Дождитесь следующего дня"}
 {"id":"task_target:87191315032310272","en":"Head to Gondoro","ru":"Отправляйтесь в Гондоро"}
 {"id":"task_target:87191315032311296","en":"Head to Gondoro","ru":"Отправляйтесь в Гондоро"}
 {"id":"task_target:87191349392048640","en":"Head to where Bomark appears","ru":"Отправляйтесь туда, где появляется Бомарк"}
@@ -2045,10 +2047,10 @@
 {"id":"task_target:87191718759237120","en":"Go check the situation","ru":"Проверить обстановку"}
 {"id":"task_target:87191723054203392","en":"Stop the Red Scorpion Gang","ru":"Остановить Красный Скорпион"}
 {"id":"task_target:87191723054204416","en":"Stop the Red Scorpion Gang","ru":"Остановить Красный Скорпион"}
-{"id":"task_target:87191727349170688","en":"Check Folly's wounds","ru":"Осмотреть раны Фолли"}
-{"id":"task_target:87191727349171712","en":"Treat Folly's wounds","ru":"Обработать раны Фолли"}
-{"id":"task_target:87191731644137984","en":"Follow Folly","ru":"Следовать за Фолли"}
-{"id":"task_target:87191731644139008","en":"Follow Folly","ru":"Следовать за Фолли"}
+{"id":"task_target:87191727349170688","en":"Check Lindy's wounds","ru":"Осмотреть раны Линди"}
+{"id":"task_target:87191727349171712","en":"Treat Lindy's wounds","ru":"Обработать раны Линди"}
+{"id":"task_target:87191731644137984","en":"Follow Lindy","ru":"Следовать за Линди"}
+{"id":"task_target:87191731644139008","en":"Follow Lindy","ru":"Следовать за Линди"}
 {"id":"task_target:87191735939105280","en":"Purify the traces of Sunya Corruption","ru":"Очистить следы Скверны Суньи"}
 {"id":"task_target:87191735939106304","en":"Purify the traces of Sunya Corruption","ru":"Очистить следы Скверны Суньи"}
 {"id":"task_target:87618621328589312","en":"Talk to Shiroro","ru":"Поговорить с Сироро"}
@@ -2295,7 +2297,7 @@
 {"id":"task_target:89338360593646080","en":"Reach a safe place","ru":"Добраться до безопасного места"}
 {"id":"task_target:89338364888613376","en":"Talk to Nono","ru":"Поговорить с Ноно"}
 {"id":"task_target:89338364888614400","en":"Talk","ru":"Поговорить"}
-{"id":"task_target:89338373478547968","en":"Talk to Tiffy and Nono","ru":"Поговорить с Тиффи и Ноно"}
+{"id":"task_target:89338373478547968","en":"Next Day","ru":"На следующий день"}
 {"id":"task_target:89338373478548992","en":"Wait until tomorrow","ru":"Подождать до завтра"}
 {"id":"task_target:89338377773515264","en":"Set Out Again","ru":"Снова в путь"}
 {"id":"task_target:89338377773516288","en":"Next Adventure","ru":"Следующее приключение"}
@@ -2310,9 +2312,9 @@
 {"id":"task_target:8939128318068736","en":"Give the new shoes to the Village Chief","ru":"Отдать старосте новую обувь"}
 {"id":"task_target:8939132613034496","en":"Ask Kirk","ru":"Спросить Кирка"}
 {"id":"task_target:8939132613035520","en":"Talk","ru":"Поговорить"}
-{"id":"task_target:8939136908001792","en":"Talk to Enkaku","ru":"Поговорить с Энкаку"}
+{"id":"task_target:8939136908001792","en":"Follow the Village Chief","ru":"Следовать за старостой"}
 {"id":"task_target:8939136908002816","en":"Talk","ru":"Поговорить"}
-{"id":"task_target:8939141202969088","en":"Follow the Village Chief","ru":"Следовать за старостой"}
+{"id":"task_target:8939141202969088","en":"Talk to Enkaku","ru":"Поговорить с Энкаку"}
 {"id":"task_target:8939141202970112","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:8939145497936384","en":"Head for the Howling Plains","ru":"Отправиться к Воющим равнинам"}
 {"id":"task_target:8939149792903680","en":"Defeat the Boaraga","ru":"Победить Боарагу"}
@@ -2442,7 +2444,7 @@
 {"id":"task_target:91913172012761600","en":"Search for the missing Kuwa","ru":"Искать пропавшую Куву"}
 {"id":"task_target:91913176307728896","en":"Repel the Tsumo","ru":"Прогнать Цумо"}
 {"id":"task_target:91913592919556608","en":"Return Kuwa to Lilika","ru":"Вернуть Куву Лилике"}
-{"id":"task_target:91913592919557632","en":"Return the hoe","ru":"Вернуть мотыгу"}
+{"id":"task_target:91913592919557632","en":"Return the Kuwa","ru":"Вернуть Куву"}
 {"id":"task_target:91913597214523904","en":"Demonstrate how to till the field","ru":"Показать, как возделывать поле"}
 {"id":"task_target:91913597214524928","en":"Reclaim any farmland","ru":"Освоить любой участок земли"}
 {"id":"task_target:91913601509491200","en":"Talk to Lilika","ru":"Поговорить с Лиликой"}
@@ -2739,8 +2741,8 @@
 {"id":"task_target:92775227783645184","en":"Deliver 1 Popo Cookies.","ru":"Доставьте печенье попо: 1 шт."}
 {"id":"task_target:92775232078610944","en":"Talk to Gururu.","ru":"Поговорите с Гуруру."}
 {"id":"task_target:92775232078611968","en":"Talk to Gururu.","ru":"Поговорите с Гуруру."}
-{"id":"task_target:92775244963512832","en":"Wait calmly for news.","ru":"Спокойно дождитесь вестей."}
-{"id":"task_target:92775244963513856","en":"1 days later","ru":"Спустя 1 дн."}
+{"id":"task_target:92775244963512832","en":"The next day","ru":"На следующий день"}
+{"id":"task_target:92775244963513856","en":"The next day","ru":"На следующий день"}
 {"id":"task_target:92775249258480128","en":"Head to Fleece Road.","ru":"Направляйтесь на Флисскую дорогу."}
 {"id":"task_target:92775249258481152","en":"Head to Fleece Road.","ru":"Направляйтесь на Флисскую дорогу."}
 {"id":"task_target:92775275028283904","en":"Follow the footprints.","ru":"Идите по следам."}
@@ -2790,7 +2792,7 @@
 {"id":"task_target:92779037419635200","en":"Villagers gathering Hallucion Dust","ru":"Сельчане, собирающие Пыльцу галлюциона"}
 {"id":"task_target:92779037419636224","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:927790417146020352","en":"Villagers gathering Pure Crystal","ru":"Сельчане, собирающие Чистый кристалл"}
-{"id":"task_target:92779041714602496","en":"Villagers gathering Pure New Water","ru":"Сельчане, собирающие Чистую новую воду"}
+{"id":"task_target:92779041714602496","en":"Villagers gathering Pure Water","ru":"Сельчане, собирающие чистую воду"}
 {"id":"task_target:92779046009569792","en":"Check on the villager gathering soil","ru":"Проверить сельчанина, собирающего землю"}
 {"id":"task_target:92779458326430208","en":"Head to the Garden of Evergreen","ru":"Отправиться в Вечнозелёный сад"}
 {"id":"task_target:92779462621397504","en":"Follow the Faundi","ru":"Идти за фаунди"}
@@ -2878,23 +2880,23 @@
 {"id":"task_target:9461812953600","en":"Purify the Sunya-corrupted areas along the way","ru":"Очистите участки, поражённые Суньей, по пути"}
 {"id":"task_target:9466107920896","en":"Defeat the guardians","ru":"Победите стражей"}
 {"id":"task_target:9466107921920","en":"Defeat the guardians","ru":"Победите стражей"}
-{"id":"task_target:94665374171648","en":"Destroy the 1st Karma Drainer","ru":"Уничтожьте Похитителя кармы №1"}
-{"id":"task_target:94665374172672","en":"Destroy the 1st Karma Drainer","ru":"Уничтожьте Похитителя кармы №1"}
+{"id":"task_target:94665374171648","en":"Destroy Karma Drainer 1","ru":"Уничтожьте Похитителя кармы 1"}
+{"id":"task_target:94665374172672","en":"Destroy Karma Drainer 1","ru":"Уничтожьте Похитителя кармы 1"}
 {"id":"task_target:9470402888192","en":"Defeat the guardians","ru":"Победите стражей"}
 {"id":"task_target:9470402889216","en":"Defeat the guardians","ru":"Победите стражей"}
-{"id":"task_target:94708323844608","en":"Destroy the 2st Karma Drainer","ru":"Уничтожьте Похитителя кармы №2"}
-{"id":"task_target:94708323845632","en":"Destroy the 2st Karma Drainer","ru":"Уничтожьте Похитителя кармы №2"}
+{"id":"task_target:94708323844608","en":"Destroy Karma Drainer 2","ru":"Уничтожьте Похитителя кармы 2"}
+{"id":"task_target:94708323845632","en":"Destroy Karma Drainer 2","ru":"Уничтожьте Похитителя кармы 2"}
 {"id":"task_target:9474697855488","en":"Defeat the guardians","ru":"Победите стражей"}
 {"id":"task_target:9474697856512","en":"Defeat the guardians","ru":"Победите стражей"}
-{"id":"task_target:94751273517568","en":"Destroy the 3st Karma Drainer","ru":"Уничтожьте Похитителя кармы №3"}
-{"id":"task_target:94751273518592","en":"Destroy the 3st Karma Drainer","ru":"Уничтожьте Похитителя кармы №3"}
+{"id":"task_target:94751273517568","en":"Destroy Karma Drainer 3","ru":"Уничтожьте Похитителя кармы 3"}
+{"id":"task_target:94751273518592","en":"Destroy Karma Drainer 3","ru":"Уничтожьте Похитителя кармы 3"}
 {"id":"task_target:9478992822784","en":"Head for the Land of Origin","ru":"Направляйтесь к Земле истока"}
 {"id":"task_target:9483287790080","en":"Defeat Rudaris","ru":"Победите Рудариса"}
 {"id":"task_target:9487582757376","en":"Leave the Land of Origin","ru":"Покиньте Землю истока"}
 {"id":"task_target:9491877724672","en":"Return to the furrian base","ru":"Вернитесь на базу фуррианцев"}
 {"id":"task_target:9882719748608","en":"Head to the festival grounds","ru":"Направляйтесь к месту праздника"}
 {"id":"task_target:9882719749632","en":"Head to the festival grounds","ru":"Направляйтесь к месту праздника"}
-{"id":"task_target:9899899617792","en":"Talk to Eterna","ru":"Поговорите с Этерной"}
+{"id":"task_target:9899899617792","en":"Talk to the mysterious girl","ru":"Поговорите с таинственной девушкой"}
 {"id":"task_target:9899899618816","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:9904194585088","en":"Meet the Great Wolf","ru":"Встретьтесь с Великим волком"}
 {"id":"task_target:9904194586112","en":"Meet the Great Wolf","ru":"Встретьтесь с Великим волком"}

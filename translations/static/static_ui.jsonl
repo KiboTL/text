@@ -10,7 +10,7 @@
 {"id":"static:01132943","en":"Large","ru":"Крупный"}
 {"id":"static:0122D2D0","en":"jp six chars six chars","ru":"jp шесть символов шесть символов"}
 {"id":"static:01247419","en":"2-piece set: Crit +15%\\\n2-piece set: Crit +15%","ru":"2 предмета: крит. удар +15%\\\n2 предмета: крит. удар +15%"}
-{"id":"static:01285E09","en":"Trial Character","ru":"Пробный персонаж"}
+{"id":"static:01285E09","en":"Trial","ru":"Пробный"}
 {"id":"static:01317419","en":"jp01m 30s","ru":"jp01 мин 30 с"}
 {"id":"static:0133E40B","en":"A rare Kibo was spotted nearby","ru":"Поблизости обнаружен редкий кибо"}
 {"id":"static:0144478B","en":"~ Wishlist: 15/30 ~","ru":"~ Список желаемого: 15/30 ~"}
@@ -40,11 +40,11 @@
 {"id":"static:0294EDF7","en":"Max Tier Preview","ru":"Предпросмотр высшей ступени"}
 {"id":"static:029E42B9","en":"The Ritual Vessel's effect gleams with gold flowers and vines—so elegant! The Ritual Vessel's effect gleams with gold flowers and vines—so elegant! Also on the weeping armor lies the dragon star of the full right name","ru":"Эффект ритуального сосуда украшен золотыми цветами и лозами — как изящно! Эффект ритуального сосуда украшен золотыми цветами и лозами — как изящно! А ещё на плачущей броне лежит драконья звезда полного правого имени"}
 {"id":"static:02A21777","en":"Event Rules","ru":"Правила события"}
-{"id":"static:02AABC10","en":"[South Valley] Scenic Spot photo complete","ru":"【Южная долина】Съёмка живописного места завершена"}
+{"id":"static:02AABC10","en":"[Sprout Valley] Scenic Spot photo complete","ru":"【Долина Ростков】Съёмка живописного места завершена"}
 {"id":"static:02AD5A5C","en":"Enter Serial Code","ru":"Введите серийный код"}
 {"id":"static:02B93B56","en":"jp The following rewards may be obtained after claiming, and require consuming","ru":"jp После получения можно получить следующие награды; требуется потратить"}
-{"id":"static:02D9819D","en":"Hint","ru":"Подсказка"}
-{"id":"static:02D9819D+1","en":"Hint","ru":"Подсказка"}
+{"id":"static:02D9819D","en":"Confirm","ru":"Подтвердить"}
+{"id":"static:02D9819D+1","en":"Confirm","ru":"Подтвердить"}
 {"id":"static:02E3F002","en":"Please select a target to swap from the list.","ru":"Выберите в списке цель для замены."}
 {"id":"static:02E95730","en":"A grilled fish seasoned with a touch of full-moon grass. The full-moon grass masks the \n fishy smell of the fish, adding the moist coolness of the \n forest to the savory aroma of the grilled fish, with a crisp","ru":"Рыба на гриле с щепоткой травы полной луны. Трава полной луны хорошо скрывает \n рыбный запах, добавляя к аромату поджаренной рыбы \n влажную прохладу леса, с хрустящей"}
 {"id":"static:02F1C6EC","en":"Bond with Nono","ru":"Связь с Ноно"}
@@ -58,8 +58,8 @@
 {"id":"static:036E4E66","en":"Factor count has reached its limit. Feeding a Factor Fruit allows you to replace an existing Factor.","ru":"Число факторов достигло предела. Скормив плод фактора, можно заменить существующий фактор."}
 {"id":"static:0375C9A7","en":"Support","ru":"Поддержка"}
 {"id":"static:037661A1","en":"Lv.24","ru":"Ур.24"}
-{"id":"static:037C2CB9","en":"Use Gift Pack","ru":"Использовать подарочный набор"}
-{"id":"static:03813AE3","en":"Bag","ru":"Сумка"}
+{"id":"static:037C2CB9","en":"Use Pack","ru":"Использовать набор"}
+{"id":"static:03813AE3","en":"Quick Bag","ru":"Быстрая сумка"}
 {"id":"static:039445AE","en":"You can call for Ready again in 23 seconds.","ru":"Снова запросить готовность можно через 23 секунд."}
 {"id":"static:0398B981","en":"Anomalous Star Nest","ru":"Гнездо аномальных звёзд"}
 {"id":"static:03AF8168","en":"The journey is not over yet; the tale of the stars awaits a new chapter……The journey is not over yet; the tale of the stars awaits a new\\\n chapter……","ru":"Путешествие ещё не окончено, история звёзд ждёт новой главы……Путешествие ещё не окончено, история звёзд ждёт новой\\\n главы……"}
@@ -72,7 +72,7 @@
 {"id":"static:044DCBC4","en":"Start","ru":"Старт"}
 {"id":"static:047F7871","en":"Shiny","ru":"Сияющий"}
 {"id":"static:048AEB42","en":"jp Attribute Counter Damage","ru":"jp Урон за счёт превосходства стихии"}
-{"id":"static:04F11051","en":"Restores 9% of the character's Max HP and then restores 4000 HP upon use. 1","ru":"При использовании восстанавливает 9% максимального запаса здоровья персонажа, а затем восстанавливает 4000 здоровья. 1"}
+{"id":"static:04F11051","en":"Restores 9% of the character's Max HP, then further restores 4000 HP1","ru":"Восстанавливает 9% от максимального HP персонажа, а затем дополнительно восстанавливает 4000 HP1"}
 {"id":"static:04FEBE01","en":"'lv:'","ru":"'ур:'"}
 {"id":"static:0530287B","en":"Plains Area","ru":"Равнинная область"}
 {"id":"static:0537A64D","en":"Quick Select","ru":"Быстрый выбор"}
@@ -122,7 +122,7 @@
 {"id":"static:093F03A5","en":"Species Filter","ru":"Фильтр по виду"}
 {"id":"static:093FE697","en":"Star Knowledge Level too low","ru":"Недостаточный уровень звёздных знаний"}
 {"id":"static:096BE24A","en":"The Hunt Shadow Hills Quarry is located in a scenic hilly region blessed with abundant mineral resources.\nThis quarry is committed to efficient and safe stone extraction, supporting local construction and infrastructure, while also dedicating efforts to environmental protection and ecological restoration.","ru":"Каменоломня Тенистой охоты расположена в живописной холмистой местности, богатой минеральными ресурсами.\nЗдесь добывают камень эффективно и безопасно, обеспечивая местное строительство и развитие инфраструктуры, а также уделяют внимание охране окружающей среды и восстановлению экосистемы."}
-{"id":"static:097AA5CC","en":"Press the pink button","ru":"Нажмите розовую кнопку"}
+{"id":"static:097AA5CC","en":"Pink Button","ru":"Розовая кнопка"}
 {"id":"static:099C4E2C","en":"jp Fat Fat Shrimp","ru":"jp Толстая креветка"}
 {"id":"static:099FAD1C","en":"Next Day","ru":"На следующий день"}
 {"id":"static:09C595B3+1","en":"Device temperature is too high, so graphics quality was adjusted automatically to reduce load.","ru":"Устройство перегрелось, поэтому качество графики было автоматически снижено для уменьшения нагрузки."}
@@ -134,7 +134,7 @@
 {"id":"static:0A5ADA90","en":"Leave","ru":"Уйти"}
 {"id":"static:0A758826","en":"Survey Point","ru":"Точка исследования"}
 {"id":"static:0A7AE79B","en":"Stella Card","ru":"Карта звёзд"}
-{"id":"static:0A918992","en":"Player Matching","ru":"Подбор игроков"}
+{"id":"static:0A918992","en":"Matching","ru":"Подбор"}
 {"id":"static:0A93AF89","en":"Cabin","ru":"Хижина"}
 {"id":"static:0A9AD70B","en":"fov","ru":"fov"}
 {"id":"static:0AF0135F","en":"Buff Building List","ru":"Список зданий с усилениями"}
@@ -255,7 +255,7 @@
 {"id":"static:1278FDBD","en":"Kibo (No. 3)","ru":"Кибо (№ 3)"}
 {"id":"static:12795470","en":"Dialogue option is an optiona 15-character option","ru":"Вариант диалога — необязательный вариант с 15 символами"}
 {"id":"static:12918B4E","en":"Switch to Construction","ru":"Переключиться на строительство"}
-{"id":"static:12982FAE","en":"'Space\n\n'","ru":"'Пробел\n\n'"}
+{"id":"static:12982FAE","en":"'Space\n\n\n'","ru":"'Пробел\n\n\n'"}
 {"id":"static:12B942D8","en":"Murderous Sword Aura00000000000","ru":"Убийственная аура клинка00000000000"}
 {"id":"static:12C19AB0","en":"Gorgeous Basket??","ru":"Роскошная корзина??"}
 {"id":"static:12D317C1","en":"Progress the main story and raise your Star Knowledge Level to unlock higher Map Levels.","ru":"Проходите основной сюжет и повышайте уровень звёздных знаний, чтобы открывать более высокие уровни карты."}
@@ -266,7 +266,7 @@
 {"id":"static:1318633C","en":"Complete!","ru":"Завершено!"}
 {"id":"static:131F6F6B","en":"Exposure","ru":"Экспозиция"}
 {"id":"static:1327D7A0","en":"Leave Team","ru":"Покинуть команду"}
-{"id":"static:132BF2BE","en":"'Q\n\n'","ru":"'Q\n\n'"}
+{"id":"static:132BF2BE","en":"'Q\n\n\n'","ru":"'Q\n\n\n'"}
 {"id":"static:13333600","en":"Edit Marker","ru":"Редактировать маркер"}
 {"id":"static:133E95A5","en":"MI_Preparation","ru":"MI_Подготовка"}
 {"id":"static:133FD33A","en":"Completing Star Blessing will consume the following items. Perform Star Blessing all at once?","ru":"Завершение звёздного благословения потребует следующие предметы. Выполнить звёздное благословение сразу для всех?"}
@@ -308,7 +308,7 @@
 {"id":"static:15659562","en":"Conveyed by the Stars","ru":"Передано звёздами"}
 {"id":"static:15733C32","en":"Ice","ru":"Лёд"}
 {"id":"static:157B23B0","en":"Ability Up","ru":"Повышение способностей"}
-{"id":"static:15A46750","en":"Umi's fluid nature perfectly illustrates what it means to \"slip into any opening.\" Leave an empty jar or bottle for a long enough time, and before you know it, an Umi has seeped in... No one can match Umi when it comes to adapting to cramped environments.Umi's fluid nature perfectly illustrates what it means to \"slip into any opening.\" Leave an empty jar or bottle for a long enough time, and before you know it, an Umi has seeped in... No one can match Umi when it comes to adapting to cramped environments.","ru":"Текучая природа Уми прекрасно показывает, что значит «просочиться в любую щель». Оставьте пустую банку или бутылку на достаточно долгое время — и, глядишь, туда уже просочилась Уми... В умении приспосабливаться к тесным пространствам Уми нет равных.Текучая природа Уми прекрасно показывает, что значит «просочиться в любую щель». Оставьте пустую банку или бутылку на достаточно долгое время — и, глядишь, туда уже просочилась Уми... В умении приспосабливаться к тесным пространствам Уми нет равных."}
+{"id":"static:15A46750","en":"Umi's fluid nature perfectly illustrates what it means to \"slip into any opening.\" Leave an empty jar or bottle for a long enough time, and before you know it, an Umi has seeped in... No one can match Umi when it comes to adapting to cramped environments.","ru":"Текучая природа Уми прекрасно показывает, что значит «просочиться в любую щель». Оставьте пустую банку или бутылку на достаточно долгое время — и, глядишь, туда уже просочилась Уми... В умении приспосабливаться к тесным пространствам Уми нет равных."}
 {"id":"static:15AB366D","en":"You have been invited to a Kibo Fight","ru":"Вас пригласили на Бой кибо"}
 {"id":"static:15D1541A","en":"Long-press to view item details","ru":"Удерживайте для просмотра сведений о предмете"}
 {"id":"static:15D7AED3","en":"Gathered Items","ru":"Собранные предметы"}
@@ -332,7 +332,7 @@
 {"id":"static:16F9A5F3","en":"Starlink Kibo","ru":"Кибо звёздной связи"}
 {"id":"static:170C8932","en":"Construct 1 Order Post(s)","ru":"Построить заказов: 1"}
 {"id":"static:174F70FF","en":"Lv.10-Lv.30","ru":"Ур.10-Ур.30"}
-{"id":"static:175111AF","en":"Umi's fluid nature perfectly illustrates what it means to \"slip into any opening.\" Leave an empty jar or bottle for a long enough time, and before you know it, an Umi has seeped in... No one can match Umi when it comes to adapting to cramped environments.Umi's fluid nature perfectly illustrates what it means to \"slip into any opening.\" Leave an empty jar or bottle for a long enough time, and before you know it, an Umi has seeped in... No one can match Umi when it comes to adapting to cramped environments.","ru":"Текучая природа Уми прекрасно показывает, что значит «просочиться в любую щель». Оставьте пустую банку или бутылку на достаточно долгое время — и, глядишь, туда уже просочилась Уми... В умении приспосабливаться к тесным пространствам Уми нет равных.Текучая природа Уми прекрасно показывает, что значит «просочиться в любую щель». Оставьте пустую банку или бутылку на достаточно долгое время — и, глядишь, туда уже просочилась Уми... В умении приспосабливаться к тесным пространствам Уми нет равных."}
+{"id":"static:175111AF","en":"Umi's fluid nature perfectly illustrates what it means to \"slip into any opening.\" Leave an empty jar or bottle for a long enough time, and before you know it, an Umi has seeped in... No one can match Umi when it comes to adapting to cramped environments.","ru":"Текучая природа Уми прекрасно показывает, что значит «просочиться в любую щель». Оставьте пустую банку или бутылку на достаточно долгое время — и, глядишь, туда уже просочилась Уми... В умении приспосабливаться к тесным пространствам Уми нет равных."}
 {"id":"static:17541502","en":"Dispatch Conditions","ru":"Условия отправки"}
 {"id":"static:1759E163","en":"Test text","ru":"Тестовый текст"}
 {"id":"static:1759E163_1","en":"Test Period Only","ru":"Только на время теста"}
@@ -359,7 +359,7 @@
 {"id":"static:18FCEB13","en":"Kibo (No. 2)","ru":"Кибо (№ 2)"}
 {"id":"static:18FE9BB6","en":"Protagonist's Accessory x1\nStamina Potion x3","ru":"Аксессуар главного героя x1\nЗелье выносливости x3"}
 {"id":"static:190E89AB","en":"Fixed Skill","ru":"Фиксированный навык"}
-{"id":"static:191E0942","en":"Enter Trial","ru":"Войти в испытание"}
+{"id":"static:191E0942","en":"Start Trial","ru":"Начать испытание"}
 {"id":"static:192328FF","en":"Sigil Special Status","ru":"Печать особого статуса"}
 {"id":"static:1941B1BC","en":"Bloodthirst","ru":"Жажда крови"}
 {"id":"static:19426BC8","en":"Not Constructed","ru":"Не построено"}
@@ -387,7 +387,7 @@
 {"id":"static:19F8CD4D","en":"Bond Level","ru":"Уровень связи"}
 {"id":"static:19FCB9EB","en":"Time","ru":"Время"}
 {"id":"static:1A249A1B","en":"Basic Actions","ru":"Базовые действия"}
-{"id":"static:1A32C172","en":"Save to Preset","ru":"Сохранить в шаблон"}
+{"id":"static:1A32C172","en":"Save","ru":"Сохранить"}
 {"id":"static:1A3DEE46","en":"00000000000000000000000000000","ru":"00000000000000000000000000000"}
 {"id":"static:1A431ECC","en":"Your companions are all in special positions... With features that conspicuous, they shouldn't be hard to find. I pray they are safe under the blessing of Sozanka, the Hundred Wines.","ru":"Ваши спутники занимают особое положение... С такими приметными чертами их будет нетрудно найти. Молюсь, чтобы благословение Содзанки, Сотни Вин, хранило их."}
 {"id":"static:1A50261E","en":"Lv.15","ru":"Ур.15"}
@@ -419,7 +419,7 @@
 {"id":"static:1C0132F2","en":"Unlocks Kibo habitat","ru":"Открывает среду обитания кибо"}
 {"id":"static:1C0E36C8","en":"Quantitative Mode","ru":"Количественный режим"}
 {"id":"static:1C2E8612","en":"Set Battle Preset","ru":"Настроить шаблон боя"}
-{"id":"static:1C517A31","en":"Super Wild Beast Senpai","ru":"Суперстарший дикий зверь"}
+{"id":"static:1C517A31","en":"Super Senpai","ru":"Суперсэмпай"}
 {"id":"static:1C5C0F68","en":"Temporarily Leave","ru":"Временно выйти"}
 {"id":"static:1C5FA1ED","en":"A new companion has joined","ru":"К вам присоединился новый спутник"}
 {"id":"static:1C77CB45","en":"Character Selection","ru":"Выбор персонажа"}
@@ -474,7 +474,7 @@
 {"id":"static:201757AE","en":"PROMILIATRAVELOGUE","ru":"PROMILIATRAVELOGUE"}
 {"id":"static:2030FEA0","en":"Kibo Rating","ru":"Оценка кибо"}
 {"id":"static:206EFBCB","en":"Friend request sent.","ru":"Запрос в друзья отправлен."}
-{"id":"static:20717C9D","en":"Tap the blank area to close","ru":"Нажмите на пустую область, чтобы закрыть"}
+{"id":"static:20717C9D","en":"Tap the blank area","ru":"Нажмите на пустую область"}
 {"id":"static:209070F7","en":"MI_LevelUp","ru":"MI_LevelUp"}
 {"id":"static:2099860A","en":"Spirit Preview","ru":"Просмотр духов"}
 {"id":"static:209DE650","en":"Future Forecast","ru":"Прогноз будущего"}
@@ -519,7 +519,7 @@
 {"id":"static:240DEC1F","en":"Unlock Successful","ru":"Разблокировано"}
 {"id":"static:24105B3E","en":"Skill Options","ru":"Параметры навыка"}
 {"id":"static:24169E61","en":"Simple Node","ru":"Простой узел"}
-{"id":"static:241F131D","en":"Confirm Exchange","ru":"Подтвердить обмен"}
+{"id":"static:241F131D","en":"Exchange","ru":"Обмен"}
 {"id":"static:24299F22","en":"When shielded","ru":"При наличии щита"}
 {"id":"static:242D641E","en":"Suffix","ru":"Суффикс"}
 {"id":"static:2496AF30","en":"50%","ru":"50%"}
@@ -584,7 +584,7 @@
 {"id":"static:281A2AD1","en":"Subjugation Reward","ru":"Награда за зачистку"}
 {"id":"static:284E5BFA","en":"Move In","ru":"Заселить"}
 {"id":"static:285003DC","en":"Thanks for playing","ru":"Спасибо за игру"}
-{"id":"static:28759B0E","en":"Skill Swapped!","ru":"Навык заменён!"}
+{"id":"static:28759B0E","en":"Skill Changed!","ru":"Навык изменён!"}
 {"id":"static:28818AC1","en":"Swap Factor","ru":"Заменить фактор"}
 {"id":"static:288F0C40","en":"Clear","ru":"Завершить"}
 {"id":"static:2896411B","en":"Level Cap","ru":"Предел уровня"}
@@ -701,7 +701,7 @@
 {"id":"static:30A2A61D","en":"Multiple attribute counter effects stack","ru":"Эффекты противостояния нескольких атрибутов складываются"}
 {"id":"static:30A4B140","en":"Level Difference Suppression","ru":"Подавление из-за разницы уровней"}
 {"id":"static:30AC1A33","en":"EXP Gained:","ru":"Получено опыта:"}
-{"id":"static:30ACC1AC","en":"'MAX\n\n'","ru":"'MAX\n\n'"}
+{"id":"static:30ACC1AC","en":"'MAX\n\n\n'","ru":"'MAX\n\n\n'"}
 {"id":"static:30CF3873","en":"Go to Dispatch","ru":"Отправить в экспедицию"}
 {"id":"static:30D92BC2","en":"Character-exclusive theme scenes and motions","ru":"Эксклюзивные сцены и движения персонажа"}
 {"id":"static:30E2A471","en":"Change the Starborn's appearance in-game","ru":"Изменить внешность Звездорождённого в игре"}
@@ -709,7 +709,7 @@
 {"id":"static:31648DA8","en":"Red Dot","ru":"Красная точка"}
 {"id":"static:3186527E","en":"Cancel","ru":"Отмена"}
 {"id":"static:31878984","en":"Retry","ru":"Повторить"}
-{"id":"static:318ACBF5","en":"Current Insight Points:","ru":"Текущие очки познаний:"}
+{"id":"static:318ACBF5","en":"Insight Points:","ru":"Очки познаний:"}
 {"id":"static:31A24A4E","en":"Star Cap Reached","ru":"Достигнут предел звёзд"}
 {"id":"static:31D984DF","en":"ZHSDIACI","ru":"ZHSDIACI"}
 {"id":"static:31FF4649","en":"[Hold]","ru":"[Удержание]"}
@@ -746,7 +746,7 @@
 {"id":"static:33B86C56","en":"Hand Over Materials","ru":"Передать материалы"}
 {"id":"static:33CB7365","en":"KIBONAME","ru":"KIBONAME"}
 {"id":"static:34138884","en":"Go to Purchase","ru":"Перейти к покупке"}
-{"id":"static:3429D62D","en":"Current Residents","ru":"Текущие жильцы"}
+{"id":"static:3429D62D","en":"Occupied","ru":"Занято"}
 {"id":"static:342A65B5","en":"Team List","ru":"Список команды"}
 {"id":"static:342DA47C","en":"Not Owned","ru":"Не в наличии"}
 {"id":"static:3452B70A","en":"Raise your World Level to discover new Kibo companions.","ru":"Повышайте уровень мира, чтобы находить новых кибо-товарищей."}
@@ -786,7 +786,7 @@
 {"id":"static:36E387A1","en":"Beautiful Melody","ru":"Прекрасная мелодия"}
 {"id":"static:36E9EBB8","en":"Stay in Team","ru":"Остаться в отряде"}
 {"id":"static:36FB998C","en":"Test text","ru":"Тестовый текст"}
-{"id":"static:3711B0A8","en":"Favorite Mail","ru":"Добавить письмо в избранное"}
+{"id":"static:3711B0A8","en":"Add to Favorites","ru":"Добавить в избранное"}
 {"id":"static:371A6D47","en":"Increase Star Vessel activity? No cooldown will occur this time.","ru":"Повысить активность Звёздного сосуда? На этот раз перезарядка не возникнет."}
 {"id":"static:37361B6B","en":"Favorite Stickers","ru":"Избранные стикеры"}
 {"id":"static:3736731F","en":"No related content registered yet","ru":"Связанный контент пока не зарегистрирован"}
@@ -861,9 +861,9 @@
 {"id":"static:3C64FDD0","en":"Enemies you may encounter","ru":"Враги, которых вы можете встретить"}
 {"id":"static:3C69C28F","en":"Cancel Hatching","ru":"Отменить вылупление"}
 {"id":"static:3C840F45","en":"Recommended Colors","ru":"Рекомендуемые цвета"}
-{"id":"static:3C9ED76C","en":"Wish Item","ru":"Предмет желания"}
+{"id":"static:3C9ED76C","en":"Wanted Items","ru":"Желаемые предметы"}
 {"id":"static:3CAB45A3","en":"Insufficient Star Knowledge Level. Kibo Lv. after Starlink","ru":"Недостаточный уровень звёздных знаний. Ур. кибо после звёздной связи"}
-{"id":"static:3CBC0694","en":"Limit reached.","ru":"Достигнут предел."}
+{"id":"static:3CBC0694","en":"MAX","ru":"MAX"}
 {"id":"static:3CEC1FD7","en":"Remaining rewards","ru":"Оставшиеся награды"}
 {"id":"static:3D03989C","en":"Bonus","ru":"Бонус"}
 {"id":"static:3D4545D5","en":"Settle and Exit","ru":"Рассчитать и выйти"}
@@ -892,15 +892,15 @@
 {"id":"static:3EDDDD85","en":"Day","ru":"День"}
 {"id":"static:3EF50F73","en":"After each failed check, has a 50% chance to raise <quad\nsize=22\nwidth=1/><color=#A8D8B9>Insight</color> by 1 point.","ru":"После каждой неудачной проверки с вероятностью 50% повышает <quad\nsize=22\nwidth=1/><color=#A8D8B9>проницательность</color> на 1 ед."}
 {"id":"static:3EFBD3F5","en":"Character Satiety Auto-Recovery Settings","ru":"Настройки автовосстановления сытости персонажа"}
-{"id":"static:3EFC50E5","en":"Bonus","ru":"Бонус"}
+{"id":"static:3EFC50E5","en":"Stats","ru":"Характеристики"}
 {"id":"static:3F1161A5","en":"The 3-th hit of a Normal Attack deals Pyro DMG in an area and inflicts Burn on targets hit. The 3-th hit of a Normal Attack deals Pyro DMG in an area and inflicts Burn on targets hit. The 3-th hit of a Normal Attack deals Pyro DMG in an area and inflicts Burn on targets hit. The 3-th hit of a Normal Attack deals Pyro DMG in an area and inflicts Burn on targets hit","ru":"3-й удар обычной атаки наносит пиро-урон по области и накладывает горение на поражённые цели. 3-й удар обычной атаки наносит пиро-урон по области и накладывает горение на поражённые цели. 3-й удар обычной атаки наносит пиро-урон по области и накладывает горение на поражённые цели. 3-й удар обычной атаки наносит пиро-урон по области и накладывает горение на поражённые цели"}
 {"id":"static:3F256E10","en":"Difficulty","ru":"Сложность"}
 {"id":"static:3F2ECC2B","en":"Starting Soon","ru":"Скоро начнётся"}
 {"id":"static:3F51EF0E","en":"Starlink with Burrow Kibo","ru":"Звёздная связь с норным кибо"}
 {"id":"static:3F59C7D5","en":"(Opening a Treasure Chest costs","ru":"(Открытие сундука с сокровищами требует затрат"}
 {"id":"static:3F739504","en":"BATTLE SKILL","ru":"BATTLE SKILL"}
-{"id":"static:3F7D9322","en":"Select a 5-Star Character","ru":"Выберите персонажа 5★"}
-{"id":"static:3F82F690","en":"Select 1 4-Star Characters","ru":"Выберите персонажей 4★: 1"}
+{"id":"static:3F7D9322","en":"Select a ★5 Character","ru":"Выберите персонажа ★5"}
+{"id":"static:3F82F690","en":"Select 1 ★4 Character(s)","ru":"Выберите персонажей ★4: 1"}
 {"id":"static:3F89C982","en":"Movement Method","ru":"Способ передвижения"}
 {"id":"static:3F981012","en":"Recommended","ru":"Рекомендуется"}
 {"id":"static:3F981012+1","en":"Recommended","ru":"Рекомендуется"}
@@ -925,7 +925,7 @@
 {"id":"static:41529076","en":"y","ru":"y"}
 {"id":"static:416FF5C8","en":"Move Out","ru":"Выселить"}
 {"id":"static:41754CDC","en":"Pammy Team Investigation Report<其一>","ru":"Отчёт об исследовании команды памми<其一>"}
-{"id":"static:419A9311","en":"Driving Conditions","ru":"Условия вождения"}
+{"id":"static:419A9311","en":"Mount Conditions","ru":"Условия верховой езды"}
 {"id":"static:41A11CB5","en":"Small/Medium/Large","ru":"Малый/Средний/Большой"}
 {"id":"static:41A35857","en":"NPC Rally","ru":"Гонка NPC"}
 {"id":"static:41A45109","en":"Nature Conservation Discipline","ru":"Дисциплина охраны природы"}
@@ -955,7 +955,7 @@
 {"id":"static:43DA1B86","en":"Shield Breaker Vanguard","ru":"Передовой разрушитель щитов"}
 {"id":"static:43F50BFE","en":"Bzzt Flash","ru":"Вспышка-дзынь"}
 {"id":"static:43FB3CFD","en":"No Kibo in the hut","ru":"В хижине нет кибо"}
-{"id":"static:4403FCA0","en":"Clear","ru":"Завершить"}
+{"id":"static:4403FCA0","en":"Remove","ru":"Убрать"}
 {"id":"static:441DBD37","en":"Reward Details","ru":"Подробности награды"}
 {"id":"static:44223574","en":"L O G I N","ru":"В Х О Д"}
 {"id":"static:4422C323","en":"Player Name","ru":"Имя игрока"}
@@ -1019,7 +1019,7 @@
 {"id":"static:482687EC","en":"Title Title Title","ru":"Заголовок заголовок заголовок"}
 {"id":"static:483C08C3","en":"Small Size","ru":"Малый размер"}
 {"id":"static:484D1522","en":"First Clear","ru":"Первое прохождение"}
-{"id":"static:485298D6","en":"Press the colorful button","ru":"Нажмите цветную кнопку"}
+{"id":"static:485298D6","en":"Rainbow Button","ru":"Радужная кнопка"}
 {"id":"static:487F3949","en":"Character Count","ru":"Количество персонажей"}
 {"id":"static:48884A0E","en":"Join Formation","ru":"В состав отряда"}
 {"id":"static:48A3334B","en":"Charlulu Village Hunter","ru":"Охотник деревни Шарлулу"}
@@ -1068,7 +1068,7 @@
 {"id":"static:4AF845A4","en":"Light","ru":"Свет"}
 {"id":"static:4B09F3A4","en":"Unequipped","ru":"Не экипировано"}
 {"id":"static:4B10B4A7","en":"Details","ru":"Подробности"}
-{"id":"static:4B387238","en":"[Perfect Four-Joy Meatballs] After use, immediately restores the HP of a designated ally unit by 30% of their Max HP, then restores an additional 300 HP. \n","ru":"[Идеальные мясные шарики „Четыре радости“] После использования немедленно восстанавливает HP выбранному союзному юниту на 30% от его максимального HP, а затем дополнительно восстанавливает 300 HP. \n"}
+{"id":"static:4B387238","en":"[Perfect Four-Joy Meatballs] Restores the designated ally character's HP by 30% of their Max HP, then restores an additional 300 HP.\n","ru":"[Идеальные мясные шарики „Четыре радости“] Восстанавливает HP выбранному союзному персонажу на 30% от максимального HP, а затем дополнительно восстанавливает 300 HP.\n"}
 {"id":"static:4B3EDBB3","en":"Player Name","ru":"Имя игрока"}
 {"id":"static:4B4C9A5A+1","en":"Sort by growth rate","ru":"Сортировать по темпу роста"}
 {"id":"static:4B61CA2E","en":"Cost:","ru":"Расход:"}
@@ -1081,7 +1081,7 @@
 {"id":"static:4BA36D23","en":"111111111111111","ru":"111111111111111"}
 {"id":"static:4BA77D77","en":"You don't have this type of Mount yet","ru":"У вас ещё нет скакуна этого типа"}
 {"id":"static:4BCC9A5A","en":"Details","ru":"Подробности"}
-{"id":"static:4BE02EA1","en":"Select 1 Anima to perform Pickup Reflection","ru":"Выберите 1 анимы, чтобы выполнить усиленное отражение"}
+{"id":"static:4BE02EA1","en":"Select 1 Anima to designate as Pickup","ru":"Выберите анимы для отметки «Выбор»: 1"}
 {"id":"static:4BE8A11E","en":"SE1","ru":"SE1"}
 {"id":"static:4BF9675B","en":"Some jobs let you raise your score by having Kibo produce at farm facilities. Once the cap is reached, it can't be raised further.","ru":"Некоторые профессии позволяют повысить счёт, поручая кибо производство на объектах фермы. По достижении предела счёт больше не повышается."}
 {"id":"static:4C0D361B","en":"Left","ru":"Покинуто"}
@@ -1178,7 +1178,7 @@
 {"id":"static:53749B64","en":"Customize","ru":"Настроить"}
 {"id":"static:53A728FC","en":"No wearer","ru":"Нет владельца"}
 {"id":"static:53ADE37C","en":"Designated Material","ru":"Указанный материал"}
-{"id":"static:53C8711C","en":"Track nearest","ru":"Отслеживать ближайшее"}
+{"id":"static:53C8711C","en":"Track","ru":"Отслеживать"}
 {"id":"static:53DD48F9","en":"2 Set: Increases the wearer's DEF by 15%. The wearer's Effect Hit","ru":"2 Комплект: повышает DEF владельца на 15%. Попадание эффекта владельца"}
 {"id":"static:53E4BE9B","en":"I can't wait to see you—when are you coming back?","ru":"Скорее бы увидеться. Когда ты вернёшься?"}
 {"id":"static:5406940D+1","en":"Saved to preset","ru":"Сохранено в предустановку"}
@@ -1192,11 +1192,11 @@
 {"id":"static:54B464DE","en":"Pack Contents","ru":"Содержимое набора"}
 {"id":"static:54D4899C","en":"Deliver materials to the collection point to earn order rewards. The more materials you deliver, the more Farm Coins you earn. \n1You can deliver multiple times a day.","ru":"Доставляйте материалы в пункт сбора, чтобы получать награды за заказы. Чем больше материалов вы доставите, тем больше монет фермы получите. \n1Доставлять можно несколько раз в день."}
 {"id":"static:54DADEE4","en":"Reach 50 points in total","ru":"Набрать 50 очков в сумме"}
-{"id":"static:54DB644C","en":"Vine Spirit Flower","ru":"Лоза-цветок духа"}
+{"id":"static:54DB644C","en":"Tsulifey","ru":"Цулифи"}
 {"id":"static:54DC9AE9","en":"Waiting for team member approval.","ru":"Ожидание одобрения участника команды."}
 {"id":"static:54E63F84","en":"Dismantle","ru":"Разобрать"}
 {"id":"static:54E68CDD","en":"Defeated!","ru":"Победа!"}
-{"id":"static:54F9F5AE","en":"Switch Protagonist","ru":"Сменить главного героя"}
+{"id":"static:54F9F5AE","en":"Switch","ru":"Переключить"}
 {"id":"static:5510FD2C","en":"·Not unlocked today·","ru":"·Сегодня не открыто·"}
 {"id":"static:5513149D","en":"Select Codex","ru":"Выбрать кодекс"}
 {"id":"static:551E964A","en":"Start Kibo Fight","ru":"Начать бой кибо"}
@@ -1216,7 +1216,7 @@
 {"id":"static:55D4790C","en":"Number","ru":"Число"}
 {"id":"static:55DF3C44","en":"Series Rewards","ru":"Награды серии"}
 {"id":"static:55E7D4A6","en":"Chive Pockets","ru":"Карманы с чесноком-луком"}
-{"id":"static:55E82833","en":"Trial Points","ru":"Очки испытания"}
+{"id":"static:55E82833","en":"Trial Score","ru":"Счёт испытания"}
 {"id":"static:55ECEF3F","en":"Farm Work Mode","ru":"Режим работы на ферме"}
 {"id":"static:55FE149C","en":"Thunderclap Flash, Thunderclap Flash","ru":"Вспышка грома, вспышка грома"}
 {"id":"static:562376D3","en":"Sticker used","ru":"Стикер использован"}
@@ -1336,7 +1336,7 @@
 {"id":"static:5E17A630","en":"Required level not reached","ru":"Требуемый уровень не достигнут"}
 {"id":"static:5E60E335","en":"Yesterday's Total Income","ru":"Общий доход за вчера"}
 {"id":"static:5E61E0DE","en":"Acorn Diary","ru":"Жёлудевый дневник"}
-{"id":"static:5E628A5A","en":"Swap the positions of 2 Kibo in the Kibo Hut.","ru":"Поменять местами 2 кибо в хижине кибо."}
+{"id":"static:5E628A5A","en":"Swap the positions of 2 Kibo in the Kibo Hut.","ru":"Поменять местами кибо в хижине кибо: 2."}
 {"id":"static:5E68152D","en":"GENE  SKILL","ru":"GENE  SKILL"}
 {"id":"static:5E8C25F6","en":"Team created.","ru":"Команда создана."}
 {"id":"static:5EAF491D","en":"Enable this difficulty","ru":"Включить эту сложность"}
@@ -1355,7 +1355,7 @@
 {"id":"static:5F510057","en":"Rank","ru":"Ранг"}
 {"id":"static:5F579FA2","en":"Promote","ru":"Повышение"}
 {"id":"static:5F61D5EB","en":"Remaining exchange time:","ru":"Оставшееся время обмена:"}
-{"id":"static:5F8A70DB","en":"Select 1 Anima to perform a targeted Observation","ru":"Выберите 1 анимы, чтобы провести целевое Наблюдение"}
+{"id":"static:5F8A70DB","en":"Select 1 Anima to feature","ru":"Выберите анимы для повышения шанса: 1"}
 {"id":"static:5FB17797","en":"and General","ru":"и Общее"}
 {"id":"static:5FD1CB10","en":"Star Ode\\xB7Star Ⅰ","ru":"Звёздная ода\\xB7Звезда Ⅰ"}
 {"id":"static:5FDDB1B9","en":"Retrieve 【Spicy Red Berry x5】 from the Southern Valley \nRetrieve \n from the Southern Valley 【Spicy Red Berry x5】","ru":"Забрать 【Острая красная ягода x5】 из Южной долины \nЗабрать \n из Южной долины 【Острая красная ягода x5】"}
@@ -1440,8 +1440,8 @@
 {"id":"static:65EF8215","en":"Prologue, Act I","ru":"Пролог, действие I"}
 {"id":"static:65F1664D","en":"Tomorrow's Preview","ru":"Завтрашний анонс"}
 {"id":"static:65F28455","en":"Unlocks after clearing the prerequisite stage","ru":"Открывается после прохождения предварительного этапа"}
-{"id":"static:66382D5F","en":"Your dispatched Kibo has begun gathering","ru":"Отправленное кибо начало сбор"}
-{"id":"static:665E69C4","en":"Stage progress will be lost","ru":"Прогресс этапа будет потерян"}
+{"id":"static:66382D5F","en":"Dispatching a Kibo will begin gathering","ru":"После отправки кибо начнёт собирать ресурсы"}
+{"id":"static:665E69C4","en":"Discard Stage Progress","ru":"Отменить прогресс этапа"}
 {"id":"static:668C5922","en":"SKILL","ru":"SKILL"}
 {"id":"static:66987EBA","en":"Kibo Factor","ru":"Фактор кибо"}
 {"id":"static:66A46291","en":"Level up a character","ru":"Повысить уровень персонажа"}
@@ -1456,7 +1456,7 @@
 {"id":"static:674950BB","en":"Rune Name","ru":"Название руны"}
 {"id":"static:67930F4A","en":"Test text","ru":"Тестовый текст"}
 {"id":"static:67A3B8E1","en":"You can change your nickname 1 times per 7 day","ru":"Никнейм можно менять 1 раз в 7 дн."}
-{"id":"static:67B401DD","en":"Select a 5-Star Character","ru":"Выберите персонажа 5★"}
+{"id":"static:67B401DD","en":"Select a ★5 Character","ru":"Выберите персонажа ★5"}
 {"id":"static:67D016C3","en":"First Victory Reward","ru":"Награда за первую победу"}
 {"id":"static:67D4508D","en":"Consumed","ru":"Израсходовано"}
 {"id":"static:680CBDEA","en":"Mount Type","ru":"Тип ездового"}
@@ -1489,7 +1489,7 @@
 {"id":"static:699143B1","en":"Skill","ru":"Навык"}
 {"id":"static:69AE9DFF","en":"Chapter 5 Challenge Cleared","ru":"Испытание главы 5 пройдено"}
 {"id":"static:69D00534","en":"Ranch Points","ru":"Очки загона"}
-{"id":"static:69D2660B","en":"Beginner Recommended","ru":"Рекомендуется новичкам"}
+{"id":"static:69D2660B","en":"Recommended","ru":"Рекомендуется"}
 {"id":"static:69F2CB34","en":"Wind","ru":"Ветер"}
 {"id":"static:69FA973D","en":"Essential Travel Log\\xB7Prologue","ru":"Обязательный путевой журнал\\xB7Пролог"}
 {"id":"static:6A061313","en":"MAX","ru":"МАКС"}
@@ -1525,7 +1525,7 @@
 {"id":"static:6BFFD61D","en":"Required:","ru":"Требуется:"}
 {"id":"static:6C2358F0","en":"Howling Plains","ru":"Воющие равнины"}
 {"id":"static:6C2B80E7","en":"Test text","ru":"Тестовый текст"}
-{"id":"static:6C2C8383","en":"Open Insight Tech Tree","ru":"Открыть древо техник познаний"}
+{"id":"static:6C2C8383","en":"Open Insight","ru":"Открыть познания"}
 {"id":"static:6C3427D7","en":"Observe 10 times","ru":"Наблюдение 10 раз"}
 {"id":"static:6C538458","en":"Edit Enemy Heroes","ru":"Настройка вражеских героев"}
 {"id":"static:6C619074","en":"[TBD]","ru":"[Не определено]"}
@@ -1569,7 +1569,7 @@
 {"id":"static:6F912673","en":"Equipment","ru":"Снаряжение"}
 {"id":"static:6FC07888","en":"Lv.4","ru":"Ур.4"}
 {"id":"static:6FF8B2F0","en":"Buff resource point unlocked","ru":"Точка ресурсов усиления открыта"}
-{"id":"static:700E986E","en":"Loop List","ru":"Зациклить список"}
+{"id":"static:700E986E","en":"Loop","ru":"Повтор"}
 {"id":"static:701A03C0","en":"Current Score","ru":"Текущий счёт"}
 {"id":"static:7022DAFB","en":"Phantomfly","ru":"Призракрыл"}
 {"id":"static:703475D1","en":"View Later","ru":"Посмотреть позже"}
@@ -1595,9 +1595,9 @@
 {"id":"static:71EAFE4F","en":"Current Area","ru":"Текущая область"}
 {"id":"static:71F266CD","en":"Exploration attempts restored to max:","ru":"Попытки исследования восстановлены до предела:"}
 {"id":"static:71FF7152","en":"UI","ru":"UI"}
-{"id":"static:7211E045","en":"Attribute Details","ru":"Подробности характеристик"}
+{"id":"static:7211E045","en":"Stats","ru":"Характеристики"}
 {"id":"static:722188B8","en":"Farm","ru":"Ферма"}
-{"id":"static:72283B97","en":"Retry This Match","ru":"Повторить этот матч"}
+{"id":"static:72283B97","en":"Retry Stage","ru":"Повторить этап"}
 {"id":"static:7229ECC6","en":"times","ru":"раз"}
 {"id":"static:7232D42C","en":"Seed Management","ru":"Управление семенами"}
 {"id":"static:72699C60","en":"Unlocked when the character reaches Ascension 2","ru":"Открывается при достижении персонажем возвышения 2"}
@@ -1624,7 +1624,7 @@
 {"id":"static:73D470FA","en":"Bronze Set","ru":"Бронзовый комплект"}
 {"id":"static:73E39262","en":"Seeds in Bag","ru":"Семена в сумке"}
 {"id":"static:73E82552","en":"Target","ru":"Цель"}
-{"id":"static:73F00030","en":"Southern Valley Exploration","ru":"Исследование Южной долины"}
+{"id":"static:73F00030","en":"Sprout Valley Exploration","ru":"Исследование Долины Ростков"}
 {"id":"static:7413E872","en":"Lv.3","ru":"Ур.3"}
 {"id":"static:741ACC93","en":"Paused","ru":"Пауза"}
 {"id":"static:742104EC","en":"Refining","ru":"Очистка"}
@@ -1683,20 +1683,20 @@
 {"id":"static:78118F5A","en":"Sprout Valley - Exploration Complete","ru":"Долина Ростков — исследование завершено"}
 {"id":"static:781301CB","en":"Courage","ru":"Храбрость"}
 {"id":"static:78135100","en":"Chest","ru":"Грудь"}
-{"id":"static:781FD5F9","en":"Limited-time Quest","ru":"Ограниченное по времени задание"}
+{"id":"static:781FD5F9","en":"Quest","ru":"Задание"}
 {"id":"static:78391B5D","en":"Kibo Satiety +800","ru":"Сытость кибо +800"}
 {"id":"static:785ECAB6","en":"After Growth:","ru":"После роста:"}
 {"id":"static:786CCB51","en":"Publish Recruitment Info","ru":"Опубликовать информацию о наборе"}
 {"id":"static:78720FED","en":"Kibo Level Up","ru":"Повышение уровня кибо"}
 {"id":"static:787B5677","en":"Gender","ru":"Пол"}
-{"id":"static:787C9A8E","en":"'E\n\n'","ru":"'E\n\n'"}
+{"id":"static:787C9A8E","en":"'E\n\n\n'","ru":"'E\n\n\n'"}
 {"id":"static:789A9E7F","en":"Gathering Insight","ru":"Навыки собирательства"}
 {"id":"static:78B41BD8","en":"No Class EXP","ru":"Нет опыта профессии"}
 {"id":"static:78BC9108","en":"Stack Count","ru":"Количество стаков"}
 {"id":"static:78BF126A","en":"Equipped","ru":"Экипировано"}
 {"id":"static:78BF126A+1","en":"Equipped","ru":"Экипировано"}
 {"id":"static:78C72C14","en":"No applicable book","ru":"Подходящих книг нет"}
-{"id":"static:78D02E3E","en":"Unlock Premium Wanderer's Log","ru":"Открыть премиум-выпуск «Дневника странника»"}
+{"id":"static:78D02E3E","en":"Unlock Premium","ru":"Открыть премиум"}
 {"id":"static:78F38744","en":"/ Combat Score","ru":"/ Боевой счёт"}
 {"id":"static:78FA8E77","en":"No matching materials","ru":"Нет подходящих материалов"}
 {"id":"static:78FE203E","en":"Recommended Lv.1000000000","ru":"Рек. ур. 1000000000"}
@@ -1714,7 +1714,7 @@
 {"id":"static:798919DE","en":"Lone Wolf","ru":"Одинокий волк"}
 {"id":"static:799C23A5","en":"EXP Fruit","ru":"Фрукт опыта"}
 {"id":"static:799E0C1D","en":"Character Level Cap","ru":"Предел уровня персонажа"}
-{"id":"static:79AAF225","en":"Show Kibo Bonuses","ru":"Показать бонусы кибо"}
+{"id":"static:79AAF225","en":"Show Bonuses","ru":"Показать бонусы"}
 {"id":"static:79B03DDE","en":"Protagonist's Accessory x1\nStamina Potion x3","ru":"Аксессуар главного героя x1\nЗелье выносливости x3"}
 {"id":"static:79B5A656","en":"Rotate","ru":"Поворот"}
 {"id":"static:79C5BCC1","en":"Village","ru":"Деревня"}
@@ -1731,7 +1731,7 @@
 {"id":"static:7ACAA29D","en":"Select the Kibo you want to part with.","ru":"Выберите кибо, с которым хотите расстаться."}
 {"id":"static:7AD406D2","en":"Collect 2 \"Whiskers\"","ru":"Собрать «усы»: 2"}
 {"id":"static:7B00C38F","en":"Apply to Join Party","ru":"Заявка на вступление в отряд"}
-{"id":"static:7B12E3CF","en":"Reward Gift","ru":"Подарок за награду"}
+{"id":"static:7B12E3CF","en":"Achievement Rewards","ru":"Награды за достижения"}
 {"id":"static:7B385D02","en":"Run","ru":"Бег"}
 {"id":"static:7B494338","en":"Not enough Satiety.","ru":"Недостаточно сытости."}
 {"id":"static:7B52A934","en":"Head Accessory","ru":"Аксессуар для головы"}
@@ -1821,7 +1821,7 @@
 {"id":"static:811E6AA6","en":"Evolution","ru":"Эволюция"}
 {"id":"static:81233D75","en":"Declined","ru":"Отклонено"}
 {"id":"static:81251103","en":"Superior Gene","ru":"Превосходный ген"}
-{"id":"static:81469CC7","en":"After use, restores HP to a single designated ally equal to 30% of the user's Max HP, then further restores 300 HP.","ru":"После использования восстанавливает выбранному союзнику HP в размере 30% от максимального HP пользователя, а затем дополнительно восстанавливает 300 HP."}
+{"id":"static:81469CC7","en":"Restores HP to a single designated ally equal to 30% of the user's Max HP, then further restores 300 HP.","ru":"Восстанавливает выбранному союзнику HP в размере 30% от максимального HP пользователя, а затем дополнительно восстанавливает 300 HP."}
 {"id":"static:81785B94","en":"Spirit Summon · Revival","ru":"Призыв духа · Возрождение"}
 {"id":"static:81C14E3A","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"static:81C287D5","en":"Lv.100 Name Text","ru":"Ур.100 Имя текстом"}
@@ -1830,7 +1830,7 @@
 {"id":"static:822FAFAA","en":"Limit reached","ru":"Достигнут предел"}
 {"id":"static:823EA45C","en":"Map","ru":"Карта"}
 {"id":"static:8244ECAC","en":"Turn off BGM","ru":"Отключить музыку"}
-{"id":"static:825A003B","en":"You have reached the maximum number of Factors. Feeding will replace an existing Factor","ru":"Достигнут предел количества факторов. При кормлении существующий фактор будет заменён"}
+{"id":"static:825A003B","en":"Feeding a Factor allows swapping it with an existing Factor","ru":"При кормлении можно заменить существующий фактор"}
 {"id":"static:825A3D98","en":"Shift","ru":"Shift"}
 {"id":"static:8266A6AE","en":"Stand","ru":"Стенд"}
 {"id":"static:82849E6E","en":"Undiscovered","ru":"Не обнаружено"}
@@ -1878,7 +1878,7 @@
 {"id":"static:868F2614","en":"Lv.10/20","ru":"Ур.10/20"}
 {"id":"static:86986461","en":"Tap the empty space below to close","ru":"Нажмите на пустое место ниже, чтобы закрыть"}
 {"id":"static:86AAFAA7","en":"Head","ru":"Голова"}
-{"id":"static:86C98449","en":"Press a key to assign it to a function.","ru":"Нажмите клавишу, чтобы назначить её на функцию."}
+{"id":"static:86C98449","en":"Press the key to assign","ru":"Нажмите клавишу для назначения"}
 {"id":"static:86D3A394","en":"Blocked Notifications \n","ru":"Заблокированные уведомления \n"}
 {"id":"static:86D688A8","en":"The [Starborn Guidebook] is here to help you as you arrive on the Promilia Continent!\nBuilding your base / Starlink with Kibo / Defeating powerful foes / Discovering secrets... Follow the guide and explore \nthis world step by step!","ru":"[Путеводитель Звездорождённого] здесь, чтобы помочь вам, только что прибывшим на континент Промилия!\nОбустройство базы / Звёздная связь с кибо / Победа над сильными врагами / Раскрытие тайн… Следуйте путеводителю и шаг за шагом исследуйте \nэтот мир!"}
 {"id":"static:86E4B169","en":"Full Speed Duplicate","ru":"Дублирование на полной скорости"}
@@ -2063,7 +2063,7 @@
 {"id":"static:92EF75A0","en":"Rotation List","ru":"Список ротации"}
 {"id":"static:9324785F","en":"Sprout Valley","ru":"Долина Ростков"}
 {"id":"static:932B49B5","en":"Confirm Enhancement","ru":"Подтвердить усиление"}
-{"id":"static:933AB3D6","en":"Pink button SE","ru":"Звук розовой кнопки"}
+{"id":"static:933AB3D6","en":"Pink Button Sound Effect","ru":"Звук розовой кнопки"}
 {"id":"static:9346A8D2","en":"Currency Rewards:","ru":"Награды в валюте:"}
 {"id":"static:934DE64A","en":"Plan 4","ru":"План 4"}
 {"id":"static:934F5A55","en":"Boss dramatic presentation ignore","ru":"Игнорирование эффектной сцены босса"}
@@ -2073,7 +2073,7 @@
 {"id":"static:938C995C","en":"Mission Success","ru":"Задание выполнено"}
 {"id":"static:9394A40D","en":"Begin Action","ru":"Начать действие"}
 {"id":"static:939AC226","en":"Dorm: 4/6","ru":"Общежитие: 4/6"}
-{"id":"static:939D5345","en":"Give","ru":"Передать"}
+{"id":"static:939D5345","en":"Deliver","ru":"Сдать"}
 {"id":"static:93A4778A","en":"You cannot cancel your purchase or receive a refund\nif more than 7 days have passed since purchase, if you have claimed items from your mailbox,\nor if you have used the items.\n\nPayments made by a minor without the consent of their guardian\nmay be cancelled. <link=http://m.nexon.com/terms/60><color=#ffae3b><u>[View cancellation policy]</u></color></link>","ru":"Покупку нельзя отменить и получить возврат,\nесли с момента покупки прошло более 7 дней, если предметы были получены из почтового ящика\nили если предметы были использованы.\n\nПлатежи несовершеннолетних, сделанные без согласия опекуна,\nможно отменить. <link=http://m.nexon.com/terms/60><color=#ffae3b><u>[Условия отмены покупки]</u></color></link>"}
 {"id":"static:93CAF937","en":"Common Sacred Stigmata","ru":"Общая священная стигма"}
 {"id":"static:93DA4C47","en":"Shock! The winner of the shrub pruning contest is disqualified!","ru":"Шок! Победителя конкурса по обрезке кустарников лишили приза!"}
@@ -2082,7 +2082,7 @@
 {"id":"static:945A47C4","en":"Possible reward (opening a Treasure Chest costs \n)","ru":"Возможная награда (открытие сундука с сокровищами стоит \n)"}
 {"id":"static:946F5C8C","en":"Eyes","ru":"Глаза"}
 {"id":"static:94730A42","en":"For this item","ru":"Для этого предмета"}
-{"id":"static:947D5155","en":"Stat Boost","ru":"Повышение характеристик"}
+{"id":"static:947D5155","en":"Level Up","ru":"Повышение уровня"}
 {"id":"static:948B2440","en":"Lv.6","ru":"Ур.6"}
 {"id":"static:949934D9","en":"Extra Large","ru":"Сверхбольшой"}
 {"id":"static:94C418BD","en":"Challenge Reward:","ru":"Награда за испытание:"}
@@ -2097,7 +2097,7 @@
 {"id":"static:94FEBCFF","en":"Select All","ru":"Выбрать всё"}
 {"id":"static:95024E12","en":"Threshold (%) for auto-recovering mount Satiety","ru":"Порог (%) автоматического восстановления сытости транспорта"}
 {"id":"static:95064ACD","en":"Weekly Activity","ru":"Недельная активность"}
-{"id":"static:95390B1C","en":"Skip Tutorial","ru":"Пропустить обучение"}
+{"id":"static:95390B1C","en":"Skip","ru":"Пропустить"}
 {"id":"static:953B855A","en":"All Mail","ru":"Вся почта"}
 {"id":"static:953FA20E","en":"Hot and dry","ru":"Жарко и сухо"}
 {"id":"static:954F293F","en":"Recommended Factor Fruit","ru":"Рекомендуемый плод фактора"}
@@ -2154,8 +2154,8 @@
 {"id":"static:986FFB30","en":"Selected:","ru":"Выбрано:"}
 {"id":"static:9875E246","en":"Rewards reset after","ru":"Сброс наград через"}
 {"id":"static:98AB49E4","en":"Equip All","ru":"Экипировать всё"}
-{"id":"static:98C521BC","en":"'Lv.60\n\n'","ru":"'Ур.60\n\n'"}
-{"id":"static:98C8D052","en":"Press the blue button","ru":"Нажмите синюю кнопку"}
+{"id":"static:98C521BC","en":"'Lv.60\n\n\n'","ru":"'Ур.60\n\n\n'"}
+{"id":"static:98C8D052","en":"Blue Button","ru":"Синяя кнопка"}
 {"id":"static:98D8CCAC","en":"Snow Crystal Sacred Sword<color=#3c749b>+3</color>","ru":"Священный меч снежного кристалла<color=#3c749b>+3</color>"}
 {"id":"static:98F13708","en":"20","ru":"20"}
 {"id":"static:98F364D4","en":"Start Cooking","ru":"Начать готовку"}
@@ -2169,7 +2169,7 @@
 {"id":"static:996D1992","en":"Defeat the opponent within xxx seconds","ru":"Победите противника за xxx секунд"}
 {"id":"static:997C5C66","en":"Expel from Team","ru":"Исключить из команды"}
 {"id":"static:998B9032","en":"Regional Specialty","ru":"Местный деликатес"}
-{"id":"static:998CFC16","en":"Ascension Limit:","ru":"Предел возвышения:"}
+{"id":"static:998CFC16","en":"Rank:","ru":"Ранг:"}
 {"id":"static:99B973A2","en":"Requires Star Knowledge Level 27 (<color=#2fbf4a>25</color>) or higher","ru":"Требуется уровень звёздных знаний 27 (<color=#2fbf4a>25</color>) или выше"}
 {"id":"static:99CF2825","en":"Dorm Decor","ru":"Украшение общежития"}
 {"id":"static:99FFC28E","en":"Carefully Selected Starful Fruit Seeds","ru":"Отборные семена Звёздного плода"}
@@ -2370,7 +2370,7 @@
 {"id":"static:AA4A2216","en":"Loading scene. Please wait.","ru":"Загрузка сцены. Пожалуйста, подождите"}
 {"id":"static:AA527D8B","en":"Process Fish Meat","ru":"Обработать рыбное мясо"}
 {"id":"static:AA5DE111","en":"Starlink attempts this week","ru":"Попытки звёздной связи на этой неделе"}
-{"id":"static:AA8104FB","en":"Materials consumed for designated Observation","ru":"Материалы, расходуемые на назначенное наблюдение"}
+{"id":"static:AA8104FB","en":"Required Consumable Materials","ru":"Требуемые расходные материалы"}
 {"id":"static:AA8343BA","en":"HAIR","ru":"HAIR"}
 {"id":"static:AA8FB77E","en":"completed","ru":"completed"}
 {"id":"static:AA9BF9C8","en":"There are no gifts you can send.","ru":"Нет подарков, которые можно отправить."}
@@ -2413,12 +2413,12 @@
 {"id":"static:AD1BAAFA+1","en":"Claim Rewards","ru":"Получить награды"}
 {"id":"static:AD231955","en":"Moving to Charlulu Village in 5 seconds","ru":"Перемещение в деревню Шарлулу через 5 сек."}
 {"id":"static:AD32E604","en":"NAME","ru":"NAME"}
-{"id":"static:AD3D9A39","en":"Sprout Valley Trainer","ru":"Тренер Долины Ростков"}
+{"id":"static:AD3D9A39","en":"Sprout Valley Fighter","ru":"Боец Долины Ростков"}
 {"id":"static:AD46A96C","en":"Clue","ru":"Зацепка"}
 {"id":"static:AD649A70","en":"Invitation sent. Awaiting a reply.","ru":"Приглашение отправлено. Ожидайте ответа."}
 {"id":"static:AD6F06DF","en":"L-MOUSE","ru":"L-MOUSE"}
 {"id":"static:AD8842FC","en":"Rewards available this week: 0/2","ru":"Наград доступно на этой неделе: 0/2"}
-{"id":"static:ADA58C43","en":"Switch Scene","ru":"Сменить сцену"}
+{"id":"static:ADA58C43","en":"Background Switch","ru":"Смена фона"}
 {"id":"static:ADBF47F8","en":"No additional effects","ru":"Нет дополнительных эффектов"}
 {"id":"static:ADCEC4DB","en":"ZHUANGSHIZI","ru":"ZHUANGSHIZI"}
 {"id":"static:ADD71168","en":"Training","ru":"Развитие"}
@@ -2505,7 +2505,7 @@
 {"id":"static:B3495CC2","en":"Hunt\\xB7Giant Hedgehog Beast","ru":"Охота\\xB7Гигантский ёж"}
 {"id":"static:B35E6EA3","en":"Quest Complete","ru":"Задание выполнено"}
 {"id":"static:B370CE69","en":"Elemental Counter Damage","ru":"Урон по уязвимому элементу"}
-{"id":"static:B37410A1","en":"Red button SE","ru":"Звук красной кнопки"}
+{"id":"static:B37410A1","en":"Red Button Sound Effect","ru":"Звук красной кнопки"}
 {"id":"static:B393583E","en":"Lumber Cabin","ru":"Лесопильня"}
 {"id":"static:B3937D31","en":"Select Duel Mode","ru":"Выберите режим дуэли"}
 {"id":"static:B3B4E798","en":"II-Stage","ru":"II-этап"}
@@ -2536,7 +2536,7 @@
 {"id":"static:B56CAAB2","en":"Tap anywhere to close","ru":"Нажмите в любом месте, чтобы закрыть"}
 {"id":"static:B58C7549","en":"Add","ru":"Добавить"}
 {"id":"static:B59C67BF","en":"1111","ru":"1111"}
-{"id":"static:B5A23BFB","en":"Blue Button SE","ru":"Звук синей кнопки"}
+{"id":"static:B5A23BFB","en":"Blue Button Sound Effect","ru":"Звук синей кнопки"}
 {"id":"static:B5B07535","en":"Connection lost.","ru":"Соединение разорвано."}
 {"id":"static:B5C5F45F","en":"Standard Equipment Skill","ru":"Навык обычного снаряжения"}
 {"id":"static:B5C744DB","en":"Short Flying Animation","ru":"Короткая анимация полёта"}
@@ -2548,7 +2548,7 @@
 {"id":"static:B62D8DEE","en":"After purchase, you receive the following rewards","ru":"После покупки вы получите следующие награды"}
 {"id":"static:B66CF64A","en":"ViewLast","ru":"ViewLast"}
 {"id":"static:B6948324","en":"Coeurl Cheer Squad","ru":"Группа поддержки «Медвежата»"}
-{"id":"static:B6B37AB9","en":"Stay tuned","ru":"Следите за новостями"}
+{"id":"static:B6B37AB9","en":"Coming Soon","ru":"Скоро"}
 {"id":"static:B6CE0021","en":"Place","ru":"Разместить"}
 {"id":"static:B6CE9792","en":"Signature Content","ru":"Содержание подписи"}
 {"id":"static:B6D1CDBF","en":"Support","ru":"Поддержка"}
@@ -2570,7 +2570,7 @@
 {"id":"static:B8BACF8D","en":"New Discovery","ru":"Новое открытие"}
 {"id":"static:B8BC466E","en":"Appearance Change:","ru":"Смена облика:"}
 {"id":"static:B8BEC8B5","en":"Dungeon Time Remaining: 26:53","ru":"Осталось времени в подземелье: 26:53"}
-{"id":"static:B8CE1C4F","en":"Rideable","ru":"Можно ездить"}
+{"id":"static:B8CE1C4F","en":"MOUNT","ru":"MOUNT"}
 {"id":"static:B8CF0905","en":"Random matchmaking successful","ru":"Случайный подбор завершён"}
 {"id":"static:B8F00A13","en":"Kibo Ranch","ru":"Загон кибо"}
 {"id":"static:B90C7559","en":"Continue","ru":"Продолжить"}
@@ -2589,7 +2589,7 @@
 {"id":"static:B9ECE18C","en":"T","ru":"T"}
 {"id":"static:B9F72C6F","en":"X25","ru":"X25"}
 {"id":"static:BA096533","en":"1/3","ru":"1/3"}
-{"id":"static:BA0C5680","en":"Save to Preset","ru":"Сохранить в шаблон"}
+{"id":"static:BA0C5680","en":"Save","ru":"Сохранить"}
 {"id":"static:BA280CDA","en":"Surprise","ru":"Сюрприз"}
 {"id":"static:BA2AE40B","en":"Beneath the Valley Rift","ru":"Под разломом долины"}
 {"id":"static:BA2CE384","en":"Go to Change","ru":"Перейти к изменению"}
@@ -2612,7 +2612,7 @@
 {"id":"static:BAEE96BF","en":"Ascension Degree","ru":"Степень вознесения"}
 {"id":"static:BAF0C7B1","en":"Left Eye Color","ru":"Цвет левого глаза"}
 {"id":"static:BB00491E","en":"Unlocked after clearing the prerequisite story","ru":"Открывается после прохождения требуемой сюжетной линии"}
-{"id":"static:BB106506","en":"Event Shop","ru":"Магазин события"}
+{"id":"static:BB106506","en":"Shop","ru":"Магазин"}
 {"id":"static:BB23F29E","en":"Select Title","ru":"Выбрать титул"}
 {"id":"static:BB3EA589+1","en":"Multiplayer Battle","ru":"Многопользовательский бой"}
 {"id":"static:BB427000","en":"Owned Curios","ru":"Имеющиеся диковины"}
@@ -2645,7 +2645,7 @@
 {"id":"static:BCF4AE0C","en":"Unlock Conditions","ru":"Условия открытия"}
 {"id":"static:BD33523E","en":"Difficulty II","ru":"Сложность II"}
 {"id":"static:BD40094C","en":"View Bondweaving Promise","ru":"Посмотреть обещание плетения уз"}
-{"id":"static:BD7F9DF4","en":"PET\n","ru":"PET\n"}
+{"id":"static:BD7F9DF4","en":"PET\n\n","ru":"PET\n\n"}
 {"id":"static:BD8BCF45","en":"Appearance Rate","ru":"Шанс появления:"}
 {"id":"static:BDAD036B","en":"HP+1200","ru":"HP+1200"}
 {"id":"static:BDAD24C8","en":"Mount","ru":"Транспорт"}
@@ -2677,10 +2677,10 @@
 {"id":"static:BF6D2712","en":"Required Materials","ru":"Необходимые материалы"}
 {"id":"static:BF78F822","en":"Obtained via Observations","ru":"Получается за наблюдения"}
 {"id":"static:BF829D32","en":"You've collected all the rewards!","ru":"Все награды получены!"}
-{"id":"static:BF8F50C7","en":"Outdoor","ru":"На улице"}
+{"id":"static:BF8F50C7","en":"Exploring","ru":"На прогулке"}
 {"id":"static:BF9C5A7B","en":"No acquisition method","ru":"Способ получения отсутствует"}
 {"id":"static:BFB3EB0B","en":"Game system description, game system description, game system description, game system description, game system description","ru":"Описание игровой системы, описание игровой системы, описание игровой системы, описание игровой системы, описание игровой системы"}
-{"id":"static:BFF74409","en":"Report","ru":"Пожаловаться"}
+{"id":"static:BFF74409","en":"Report","ru":"Сообщить"}
 {"id":"static:C002B1CE","en":"Kibo / Star Will","ru":"Кибо / Звёздная воля"}
 {"id":"static:C00C5D64","en":"Despair","ru":"Отчаяние"}
 {"id":"static:C048A83F","en":"Feed","ru":"Кормление"}
@@ -2723,7 +2723,7 @@
 {"id":"static:C279861E","en":"Snow Crystal Sacred Sword+10","ru":"Священный меч снежного кристалла+10"}
 {"id":"static:C27F0E6E","en":"<size=50>Lv.</size><size=100>10</size>","ru":"<size=50>Ур.</size><size=100>10</size>"}
 {"id":"static:C2850A36","en":"Ranked top 19 among the creatures Pami fears most, its prominent triangular-cone forelimbs strike fear into most intelligent races","ru":"Входит в топ-19 существ, которых Пами боится больше всего; его заметные передние конечности в форме треугольных конусов пугают большинство разумных рас"}
-{"id":"static:C28CACC0","en":"\\xB7Innate Factors cannot be swapped","ru":"\\xB7Врождённые факторы нельзя заменить"}
+{"id":"static:C28CACC0","en":"·Innate Factors cannot be swapped","ru":"·Врождённые факторы нельзя заменить"}
 {"id":"static:C29E4097","en":"Synthesize","ru":"Синтез"}
 {"id":"static:C2D06DF0","en":"//The 3th hit of a Normal Attack deals area flame damage and applies Burn to targets hit. Affected targets take 30% of ATK as damage per second for 8 seconds.","ru":"//3-й удар Обычной атаки наносит огненный урон по площади и накладывает Горение на поражённых противников. Поражённые цели получают 30% от силы атаки в секунду в течение 8 секунд."}
 {"id":"static:C2D7F1AF","en":"First Time","ru":"Впервые"}
@@ -2792,7 +2792,7 @@
 {"id":"static:C78EE1B0","en":"Building Effect: Kibo Egg hatch time on the Farm -10% (Next level: -15%)","ru":"Эффект постройки: время вылупления яиц кибо на ферме -10% (следующий уровень: -15%)"}
 {"id":"static:C7C7F84D","en":"Killing Intent Sword Aura 0000000000000000000","ru":"Меч убийственного намерения 0000000000000000000"}
 {"id":"static:C7D50C92","en":"Phoenixbreak Cliff","ru":"Обрыв сломанного феникса"}
-{"id":"static:C7F5B956","en":"Recommended Trainer","ru":"Рекомендуемый тренер"}
+{"id":"static:C7F5B956","en":"Recommended","ru":"Рекомендуется"}
 {"id":"static:C81E728D","en":"2","ru":"2"}
 {"id":"static:C81ED57F","en":"'''/AZURPROMILIA/'","ru":"'''/AZURPROMILIA/'"}
 {"id":"static:C82A9DAF","en":"Claim","ru":"Получить"}
@@ -2864,11 +2864,11 @@
 {"id":"static:CDD2779A","en":"Azur Promilia","ru":"Azur Promilia"}
 {"id":"static:CDDF02EB","en":"Edit Formation","ru":"Изменить отряд"}
 {"id":"static:CDF1544C","en":"Go to Crafting","ru":"Перейти к созданию"}
-{"id":"static:CDF28844","en":"Temporarily save mutation effects","ru":"Временно сохранить эффекты мутации"}
+{"id":"static:CDF28844","en":"Temporary Save","ru":"Временное сохранение"}
 {"id":"static:CE0CFB3D","en":"Total Owned","ru":"Всего в наличии"}
 {"id":"static:CE1C7E1A","en":"Explosion","ru":"Взрыв"}
 {"id":"static:CE302DA7","en":"Build an Order Post","ru":"Построить пункт заказов"}
-{"id":"static:CE459F65","en":"To gather research materials for the Village Chief, you need to deliver herbs from Sprout Valley. To gather research materials for the Village Chief, you need to deliver herbs from Sprout Valley. \nDeliver the \n items brought back from Sprout Valley to the Village Chief: [Spicy Aipple x5] [Stale Bread x1] [Popo Grass x5].","ru":"Чтобы собрать материалы для исследований старосты, нужно сдать травы из Долины Ростков. Чтобы собрать материалы для исследований старосты, нужно сдать травы из Долины Ростков. \nПередайте старосте принесённые из Долины Ростков предметы: \n [Острый эйпл ×5] [Чёрствый хлеб ×1] [Трава попо ×5]."}
+{"id":"static:CE459F65","en":"To gather research materials for the Village Chief, you need to deliver herbs from Sprout Valley.\nDeliver the items brought back from Sprout Valley to the Village Chief: \n[Spicy Aipple x5] [Stale Bread x1] [Popo Grass x5].","ru":"Чтобы собрать материалы для исследований старосты, нужно сдать травы из Долины Ростков.\nПередайте старосте принесённые из Долины Ростков предметы: \n[Острый эйпл ×5] [Чёрствый хлеб ×1] [Трава попо ×5]."}
 {"id":"static:CE5DEB30","en":"Depart","ru":"Отправиться"}
 {"id":"static:CE875BAA","en":"Go to Adjust","ru":"Перейти к настройке"}
 {"id":"static:CE8C2752","en":"Craftable: 4","ru":"Можно создать: 4"}
@@ -2937,7 +2937,7 @@
 {"id":"static:D3C12A0E","en":"In List","ru":"В списке"}
 {"id":"static:D4BCBEC5","en":"Skill Haste","ru":"Ускорение навыков"}
 {"id":"static:D4C1236B","en":"Active Nodes","ru":"Активные узлы"}
-{"id":"static:D4CE8506","en":"Select 1 Anima to set as Pickup. You can change this at any time after selection, and it won't affect the guarantee counter.","ru":"Выберите 1 анимы, чтобы назначить их приоритетными. Выбор можно изменить в любое время, это не влияет на счётчик гарантии."}
+{"id":"static:D4CE8506","en":"You can select 1 Anima to designate as Pickup. You can change your selection at any time. Progress toward ★5 will not be reset.","ru":"Можно выбрать анимы для отметки «Избранное»: 1. Выбор можно изменить в любое время. Прогресс до ★5 не сбрасывается."}
 {"id":"static:D4E01528","en":"Next Recovery: 05m 20s    Full Recovery: 12h 35m","ru":"Следующее восстановление: 05 мин 20 с    Полное восстановление: 12 ч 35 мин"}
 {"id":"static:D4F32EF4","en":"TBD","ru":"Не определено"}
 {"id":"static:D4FD4F7C","en":"Stop Farming","ru":"Остановить обработку"}
@@ -3070,7 +3070,7 @@
 {"id":"static:DF3BBD52","en":"Fire","ru":"Огонь"}
 {"id":"static:DF564DEF","en":"Wearer's stats increased","ru":"Характеристики владельца повышены"}
 {"id":"static:DFAC151D","en":"Advanced","ru":"Продвинутый"}
-{"id":"static:DFB6BFA4","en":"Featured Wish","ru":"баннер «Избранное»"}
+{"id":"static:DFB6BFA4","en":"Pickup","ru":"Избранное"}
 {"id":"static:DFBC0551","en":"Sawing Efficiency Master · II","ru":"Мастер пилорамы · II"}
 {"id":"static:DFBE3B52","en":"Daily capture limit: 0/5","ru":"Дневной лимит захвата: 0/5"}
 {"id":"static:DFCF28D0","en":"G","ru":"G"}
@@ -3098,8 +3098,8 @@
 {"id":"static:E1230A47","en":"1m 30s","ru":"1 мин 30 с"}
 {"id":"static:E128A0A0","en":"Viewpoint 01","ru":"Ракурс 01"}
 {"id":"static:E14A780B","en":"Enemy Level Range","ru":"Диапазон уровней противников"}
-{"id":"static:E1AA8F5C","en":"This character has not been obtained yet.","ru":"Этот персонаж ещё не получен."}
-{"id":"static:E1AA8F5D","en":"This character has not been obtained yet.","ru":"Этот персонаж ещё не получен."}
+{"id":"static:E1AA8F5C","en":"Character Not Obtained","ru":"Персонаж не получен"}
+{"id":"static:E1AA8F5D","en":"This Kibo has not been obtained yet.","ru":"Этот кибо ещё не получен."}
 {"id":"static:E1C74B43","en":"Required consumption to claim rewards","ru":"Расход, необходимый для получения наград"}
 {"id":"static:E1CC1E4E","en":"On the icebound archipelago, the King Kamaitachi is harming the ecosystem. Defeat it so the residents can gather chilled berries again!","ru":"На скованных льдом островах король камаитати вредит экосистеме. Победите его, чтобы жители снова могли собирать прохладные ягоды!"}
 {"id":"static:E1DA4691","en":"Character Formation","ru":"Состав персонажей"}
@@ -3148,7 +3148,7 @@
 {"id":"static:E4560CB6","en":"The number of statues of Fine quality or above is less than 15.","ru":"Количество статуй качества «Обычное» и выше меньше 15."}
 {"id":"static:E45EE7CE","en":"03","ru":"03"}
 {"id":"static:E464236A","en":"Action Name","ru":"Название действия"}
-{"id":"static:E46C64F3","en":"Change Background","ru":"Сменить фон"}
+{"id":"static:E46C64F3","en":"Background Switch","ru":"Смена фона"}
 {"id":"static:E48103F3","en":"Events","ru":"События"}
 {"id":"static:E4919CEC","en":"Some professions can raise their rating by having Kibo produce goods at farm facilities. Once the cap is reached, it cannot be raised further.","ru":"Некоторые профессии могут повысить оценку, если поручить кибо производство на фермерских объектах. По достижении предела оценку повысить нельзя."}
 {"id":"static:E491D911","en":"Probability","ru":"Вероятность"}
@@ -3235,7 +3235,7 @@
 {"id":"static:E9B4DF56","en":"They hold key mountain positions, clad in hard shells. Their horn-clashing battles are fights for honor, competing in strength and status with every collision.","ru":"Они занимают ключевые позиции в горах, облачённые в твёрдый панцирь. Их схватки с ударами рогов — бои за честь, где каждое столкновение решает, кто сильнее и выше по положению."}
 {"id":"static:E9E8054F","en":"Mail","ru":"Почта"}
 {"id":"static:EA15AE2B","en":"Options","ru":"Варианты"}
-{"id":"static:EA2E2D6C","en":"After use, restores 100 HP to all team members","ru":"После использования восстанавливает 100 HP всем членам команды"}
+{"id":"static:EA2E2D6C","en":"Restores 100 HP to all team members.","ru":"Восстанавливает 100 HP всем членам команды."}
 {"id":"static:EA328DC7","en":"Current Stage","ru":"Текущий этап"}
 {"id":"static:EA35FE97","en":"Permanent Purchase Limit: 1/1","ru":"Лимит постоянных покупок: 1/1"}
 {"id":"static:EA683A45","en":"Auto-Stacked","ru":"Автоматически накоплено"}
@@ -3284,7 +3284,7 @@
 {"id":"static:ECFF77A8","en":"Use","ru":"Использовать"}
 {"id":"static:ED43D228","en":"Enemy Info","ru":"Информация о враге"}
 {"id":"static:ED5A0EE2","en":"Item Name (a few characters)","ru":"Название предмета (несколько символов)"}
-{"id":"static:ED5C96FC","en":"After use, restores 100 HP to all team members. After use, restores 100 HP to all team members.","ru":"После использования восстанавливает 100 HP всем членам команды. После использования восстанавливает 100 HP всем членам команды."}
+{"id":"static:ED5C96FC","en":"Restores 100 HP to all team members. Restores 100 HP to all team members.","ru":"Восстанавливает 100 HP всем членам команды. Восстанавливает 100 HP всем членам команды."}
 {"id":"static:ED5F6285","en":"Open the <color=#96F9FF> Kibo Wheel </color>and use Kibo skills to solve the mystery.","ru":"Откройте <color=#96F9FF> колесо кибо </color>и используйте навыки кибо, чтобы разгадать загадку."}
 {"id":"static:ED6652B3","en":"Early Unlock","ru":"Досрочное открытие"}
 {"id":"static:ED78401F","en":"Area Level","ru":"Уровень области"}
@@ -3353,7 +3353,7 @@
 {"id":"static:F22768E6","en":"x1600","ru":"x1600"}
 {"id":"static:F23A4CDE","en":"Water needed for full growth  <size=24><color=#585c5b>200</color></size>","ru":"Вода для полного роста  <size=24><color=#585c5b>200</color></size>"}
 {"id":"static:F23C5F60","en":"MORE","ru":"ЕЩЁ"}
-{"id":"static:F2535079","en":"After use, restores 100 HP to all team members.","ru":"После использования восстанавливает 100 HP всем членам команды."}
+{"id":"static:F2535079","en":"Restores 100 HP to all team members.","ru":"Восстанавливает 100 HP всем членам команды."}
 {"id":"static:F259FC6A","en":"~Construction~","ru":"~Строительство~"}
 {"id":"static:F260AFC4","en":"Craft 5 Radiant Flame Cores","ru":"Создать «Пламенное ядро сияния» ×5"}
 {"id":"static:F26225BD","en":"Details","ru":"Подробности"}
@@ -3391,7 +3391,7 @@
 {"id":"static:F4842DCB","en":"vs","ru":"против"}
 {"id":"static:F48F10F4","en":"There are many teams you can join.","ru":"Есть много команд, к которым можно присоединиться."}
 {"id":"static:F493DAB9","en":"Multiplier","ru":"Множитель"}
-{"id":"static:F4944B39","en":"Observe 50 times in designated Observation to choose 1 character(s) from the following to add to your team","ru":"Совершите 50 наблюдений в указанном наблюдении, чтобы выбрать 1 персонажа из следующих и добавить его в команду"}
+{"id":"static:F4944B39","en":"Observing 50 times lets you choose 1 character(s) from the following to add to your team","ru":"Совершив 50 наблюдений, вы сможете выбрать 1 персонажа из следующих и добавить его в команду"}
 {"id":"static:F4B3D6E8","en":"You have not obtained any equipment yet.","ru":"У вас пока нет снаряжения."}
 {"id":"static:F4C701D9","en":"Equipment","ru":"Снаряжение"}
 {"id":"static:F4CBE0C8","en":"Add Friend","ru":"Добавить друга"}
@@ -3429,7 +3429,7 @@
 {"id":"static:F6C2363E","en":"Skip?","ru":"Пропустить?"}
 {"id":"static:F6EBF8F5","en":"Active","ru":"Активно"}
 {"id":"static:F6EDFE55","en":"Skill Details","ru":"Подробности навыка"}
-{"id":"static:F6F2572C","en":"'UP\n\n'","ru":"'ПОВЫШ\n\n'"}
+{"id":"static:F6F2572C","en":"'UP\n\n\n'","ru":"'ПОВЫШ\n\n\n'"}
 {"id":"static:F6F9D7A8","en":"<color=#f45757>20</color>/10","ru":"<color=#f45757>20</color>/10"}
 {"id":"static:F737DC80","en":"Every Monday, Wednesday, and Friday, this becomes 2x","ru":"Каждый понедельник, среду и пятницу — ×2"}
 {"id":"static:F74F1E0B","en":"Obtained Items List","ru":"Список полученных предметов"}
@@ -3493,7 +3493,7 @@
 {"id":"static:FAD7C8A2","en":"Selected","ru":"Выбрано"}
 {"id":"static:FB0060BF","en":"K\ny\nl\ne\nct","ru":"В\nы\nб\nр\nать"}
 {"id":"static:FB180F39","en":"(……My article was officially published for the first time. And it's the front-page headline! I used my paycheck to buy half a loaf of bread, but I'm not going to eat it. I'll put it on the shelf and watch it rot. All so I can savor this happy moment just a little longer.)","ru":"(……Мою статью впервые официально опубликовали. И это главный материал на первой полосе! На заработанные деньги я купил половину буханки хлеба, но есть её не стану. Поставлю на полку и буду смотреть, как она портится. Чтобы подольше растянуть это счастливое мгновение.)"}
-{"id":"static:FB18356F","en":"Activate to obtain the following rewards.","ru":"Активируйте, чтобы получить следующие награды."}
+{"id":"static:FB18356F","en":"Unlock to obtain the following rewards.","ru":"Откройте, чтобы получить следующие награды."}
 {"id":"static:FB477D23","en":"Watermill (Built) — When sowing Goldwheat seeds","ru":"Водяная мельница (построена) — при посеве золотой пшеницы"}
 {"id":"static:FB4E0E9E","en":"Claim Normal Rewards","ru":"Получить обычные награды"}
 {"id":"static:FB55339A","en":"Auto-Battle in Progress","ru":"Идёт автосражение"}
@@ -3559,7 +3559,7 @@
 {"id":"static:FFBF891A","en":"Archive Room","ru":"Архивная комната"}
 {"id":"static:FFCD9A60","en":"20.0s","ru":"20.0 с"}
 {"id":"static:FFD5F33D","en":"Strength","ru":"Сила"}
-{"id":"static:FFF200F9","en":"Confirm Use","ru":"Подтвердить использование"}
+{"id":"static:FFF200F9","en":"Use","ru":"Использовать"}
 {"id":"static:FFF34219","en":"Same-type material","ru":"Материал того же типа"}
 {"id":"static:RoleDecorate","en":"CHARACTER","ru":"ПЕРСОНАЖ"}
 {"id":"static:common_allFiltrate","en":"All Filters","ru":"Все фильтры"}

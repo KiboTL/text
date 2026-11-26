@@ -104,8 +104,8 @@
 {"id":"game_events_cul_shop:30064771584","en":"To hunt in the dangerous Trailwood Forest, you must purchase a premium Hunting Pass with rescue service.\nUnlocks the Travel event \"Premium Hunt 7\". \nRequired deposit: <cspace=-0.06em><b><color=#a95a4a>2,000</color></b></cspace>\nExpected harvest: <cspace=-0.06em><b><color=#71a83f>12,000</color></b></cspace>","ru":"Чтобы охотиться в опасном Лесу Затерянных Троп, нужно приобрести премиальный Охотничий пропуск со службой спасения.\nОткрывает событие странствий «Премиальная охота 7». \nТребуемый залог: <cspace=-0.06em><b><color=#a95a4a>2,000</color></b></cspace>\nОжидаемый улов: <cspace=-0.06em><b><color=#71a83f>12,000</color></b></cspace>"}
 {"id":"game_events_cul_shop:304942678272","en":"Pammy's Tale: Trust","ru":"История памми: Доверие"}
 {"id":"game_events_cul_shop:304942678528","en":"Yuni gained during Travel +25%. \nThe effect lasts for 1 days. \nA tale Pammy tells of a hardworking little pammy who takes odd jobs everywhere.","ru":"Получение Юни во время странствий +25%. \nЭффект длится 1 дн. \nИстория, которую рассказывает памми: о трудолюбивом маленьком памми, что подрабатывает повсюду."}
-{"id":"game_events_cul_shop:309237645568","en":"Lucky Charm: Bondweaving","ru":"Талисман удачи: Плетение уз"}
-{"id":"game_events_cul_shop:309237645824","en":"Bond gain ++300%. The \n effect lasts 1 days. \nIt carries the blessing of the \"Immortal Fox\"~","ru":"Получение очков связи ++300%. Эффект «\n» длится 1 дн. \nНа нём благословение «Бессмертной лисы»~"}
+{"id":"game_events_cul_shop:309237645568","en":"Lucky Charm: Bond","ru":"Талисман удачи: Узы"}
+{"id":"game_events_cul_shop:309237645824","en":"Bond Points gain +300%. \nLasts 1 days. \nIt carries the blessing of the Immortal Fox~","ru":"Прирост очков связи +300%. \nДействует 1 дн. \nНа нём благословение Бессмертной лисы~"}
 {"id":"game_events_cul_shop:313532612864","en":"Lucky Charm: Focus","ru":"Талисман удачи: Сосредоточение"}
 {"id":"game_events_cul_shop:313532613120","en":"Focus recovery ++20%. The \n effect lasts 3 days. \nEquipping it calms the mind.","ru":"Восстановление сосредоточения ++20%. Эффект «\n» длится 3 дн. \nПри экипировке успокаивает разум."}
 {"id":"game_events_cul_shop:317827580160","en":"Pammy's Tale: Readiness","ru":"Сказка памми: Готовность к бою"}
@@ -236,8 +236,8 @@
 {"id":"game_events_cul_shop:644245094912","en":"Yuni gained during Travel +25%. \nThe effect lasts for 1 days. \nA tale Pammy tells of a hardworking little pammy who takes odd jobs everywhere.","ru":"Получение Юни во время странствий +25%. \nЭффект длится 1 дн. \nИстория, которую рассказывает памми: о трудолюбивом маленьком памми, что подрабатывает повсюду."}
 {"id":"game_events_cul_shop:64424509696","en":"Straw Roll: Master","ru":"Соломенный сноп: грандмастер"}
 {"id":"game_events_cul_shop:64424509952","en":"Gain an additional +1 to all stats during Iai training. Focus cost +1, Yuni cost +200. \nUpgrade the straw roll used for test cuts in Iai training.","ru":"Дополнительно +1 ко всем характеристикам во время тренировки Иай. Затраты Сосредоточения +1, затраты Юни +200. \nУлучшите соломенный сноп для пробных ударов в тренировке Иай."}
-{"id":"game_events_cul_shop:648540061952","en":"Lucky Charm: Bondweaving","ru":"Талисман удачи: Плетение уз"}
-{"id":"game_events_cul_shop:648540062208","en":"Bond gain ++300%. The \n effect lasts 1 days. \nIt carries the blessing of the \"Immortal Fox\"~","ru":"Получение очков связи ++300%. Эффект «\n» длится 1 дн. \nНа нём благословение «Бессмертной лисы»~"}
+{"id":"game_events_cul_shop:648540061952","en":"Lucky Charm: Bond","ru":"Талисман удачи: Узы"}
+{"id":"game_events_cul_shop:648540062208","en":"Bond Points gain +300%. \nLasts 1 days. \nIt carries the blessing of the Immortal Fox~","ru":"Прирост очков связи +300%. \nДействует 1 дн. \nНа нём благословение Бессмертной лисы~"}
 {"id":"game_events_cul_shop:652835029248","en":"Lucky Charm: Focus","ru":"Талисман удачи: Сосредоточение"}
 {"id":"game_events_cul_shop:652835029504","en":"Focus recovery ++20%. The \n effect lasts 3 days. \nEquipping it calms the mind.","ru":"Восстановление сосредоточения ++20%. Эффект «\n» длится 3 дн. \nПри экипировке успокаивает разум."}
 {"id":"game_events_cul_shop:657129996544","en":"Pammy's Tale: Readiness","ru":"Сказка памми: Готовность к бою"}

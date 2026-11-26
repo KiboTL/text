@@ -26,7 +26,7 @@
 {"id":"goods:2156103647365120","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:2156103647369216","en":"Monthly purchase limit: {0}/{1}","ru":"Лимит покупки на месяц: {0}/{1}"}
 {"id":"goods:2156107942330880","en":"Pristine Stella Card","ru":"Безупречная карта звёзд"}
-{"id":"goods:2156107942331136","en":"Proof for Starlink with a Kibo.\nA card condensed from Starlight Ore nearly perfect in every way. Its unblemished, limpid radiance seems to strip away all noise, leaving only the echo of a pure heart.","ru":"Знак для Звёздной связи с кибо.\nКарта, отлитая из почти безупречной звёздной руды. Её незамутнённое, ясное сияние словно отсекает всякий шум, оставляя лишь отзвук чистого сердца."}
+{"id":"goods:2156107942331136","en":"Proof for Starlink with a Kibo.\nA card condensed from Starlight Ore nearly perfect in every way. Its unblemished, limpid radiance seems to strip away all noise, leaving only the pure resonance of the heart.","ru":"Знак для Звёздной связи с кибо.\nКарта, отлитая из почти безупречной звёздной руды. Её незамутнённое, ясное сияние словно отсекает всякий шум, оставляя лишь чистый резонанс сердца."}
 {"id":"goods:2156107942332416","en":"Unlocks at Star Knowledge Level 45","ru":"Открывается на уровне звёздных знаний 45"}
 {"id":"goods:2156107942336512","en":"Monthly purchase limit: {0}/{1}","ru":"Лимит покупки на месяц: {0}/{1}"}
 {"id":"goods:2156112237298176","en":"Phantasmagoric Spirit","ru":"Призрачный дух"}
@@ -72,8 +72,8 @@
 {"id":"goods:2164680697053952","en":"Currency in circulation throughout Promilia.","ru":"Валюта, имеющая хождение по всей Промилии."}
 {"id":"goods:2164680697059328","en":"Monthly purchase limit: {0}/{1}","ru":"Лимит покупки на месяц: {0}/{1}"}
 {"id":"goods:2164684992020992","en":"Starry Sky Wonder Egg · Mount","ru":"Дивное яйцо звёздного неба · Транспорт"}
-{"id":"goods:2164684992021248","en":"A mount shaped like a Kibo Egg. Compared to the ordinary Flying Wonder Egg, the Starry Sky Wonder Egg has a more splendid paint job. It may not be a huge leap in performance, but who could refuse a sparkling, sky-flying egg mount?","ru":"Транспорт в форме яйца кибо. По сравнению с обычным дивным летающим яйцом у дивного яйца звёздного неба более роскошная окраска. Пусть в характеристиках нет большого скачка, кто устоит перед сверкающим летающим яйцом?"}
-{"id":"goods:2164684992026624","en":"Purchase limit: {0}","ru":"Лимит покупки: {0}"}
+{"id":"goods:2164684992021248","en":"A mount shaped like a Kibo Egg. Compared to the ordinary Floating Wonder Egg, the Starry Sky Wonder Egg has a more splendid paint job. It may not be a huge leap in performance, but who could refuse a sparkling, sky-flying egg mount?","ru":"Транспорт в форме яйца кибо. По сравнению с обычным парящим дивным яйцом у дивного яйца звёздного неба более роскошная окраска. Пусть в характеристиках нет большого скачка, кто устоит перед сверкающим летающим яйцом?"}
+{"id":"goods:2164684992026624","en":"Total purchase limit: {0}/{1}","ru":"Общий лимит покупок: {0}/{1}"}
 {"id":"goods:4294971590967808","en":"Apple","ru":"Яблоко"}
 {"id":"goods:4294971590968064","en":"Eat to increase all characters' ATK by +30 for 300 sec.","ru":"При употреблении повышает силу атаки всех персонажей на +30 на 300 сек."}
 {"id":"goods:4294971590973440","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
@@ -108,7 +108,7 @@
 {"id":"goods:4301431221781248","en":"A beautiful dress adorned throughout with ripple-like patterns. \nThey say that truly strong resonance first arrives in the form of an echo. But how does one capture a sound without form? If the way grass bends all in one direction in the wind is the shape of wind, then perhaps the shape of sound is the voice whispered at one's ear, turning into a muffled reverberation and spreading out in ripple after ripple. So the girl, waiting for someone whose heart resonates with hers, drew a pattern of gently spreading ripples and asked an artisan to give it tangible form.\nThis dress was made that way.","ru":"Прекрасное платье, повсюду украшенное узором в виде расходящихся кругов. \nГоворят, по-настоящему сильный резонанс сначала приходит в виде отзвука. Но как уловить звук, у которого нет формы? Если трава, склоняющаяся под ветром в одну сторону, — это форма ветра, то, быть может, форма звука — это шёпот у самого уха, что превращается в приглушённое эхо и расходится кругами. И девушка, ожидающая того, чьё сердце звучит в лад с её собственным, нарисовала узор медленно расходящихся кругов и попросила ремесленника воплотить его в жизнь.\nТак и появилось это платье."}
 {"id":"goods:4301431221782528","en":"Unlocks at Star Knowledge Level 40","ru":"Открывается на уровне звёздных знаний 40"}
 {"id":"goods:4301431221786624","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
-{"id":"goods:4301435516748288","en":"Heart's Echo","ru":"Отзвук сердца"}
+{"id":"goods:4301435516748288","en":"Heart's Resonance","ru":"Резонанс сердца"}
 {"id":"goods:4301435516748544","en":"Delicate short boots with a ripple-like pattern on the soles. \nThey say that truly strong resonance first arrives in the form of an echo. But how does one capture a sound without form? If the way grass bends all in one direction in the wind is the shape of wind, then perhaps the shape of sound is the voice whispered at one's ear, turning into a muffled reverberation and spreading out in ripple after ripple. So the girl, waiting for someone whose heart resonates with hers, drew a pattern of gently spreading ripples and asked an artisan to give it tangible form.\nThese boots were made that way.","ru":"Изящные короткие сапоги с узором в виде расходящихся кругов на подошве. \nГоворят, по-настоящему сильный резонанс сначала приходит в виде отзвука. Но как уловить звук, у которого нет формы? Если трава, склоняющаяся под ветром в одну сторону, — это форма ветра, то, быть может, форма звука — это шёпот у самого уха, что превращается в приглушённое эхо и расходится кругами. И девушка, ожидающая того, чьё сердце звучит в лад с её собственным, нарисовала узор медленно расходящихся кругов и попросила ремесленника воплотить его в жизнь.\nТак и появились эти сапоги."}
 {"id":"goods:4301435516749824","en":"Unlocks at Star Knowledge Level 40","ru":"Открывается на уровне звёздных знаний 40"}
 {"id":"goods:4301435516753920","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
@@ -122,20 +122,20 @@
 {"id":"goods:4301448401650176","en":"Sourcegold Fruit","ru":"Плод истокового золота"}
 {"id":"goods:4301448401650432","en":"When used, you can select and obtain 1 Golden Factor fruits.","ru":"При использовании позволяет выбрать и получить 1 плод(а) золотого фактора."}
 {"id":"goods:4301448401655808","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
-{"id":"goods:4301452696617472","en":"Calm Seas Today Too","ru":"Сегодня тоже без волнений"}
-{"id":"goods:4301452696617728","en":"The city-state of Fleece is peaceful again today. \nAt last, a moment of respite begins for its unsung heroes. Let's enjoy it to the fullest!","ru":"В городе-государстве Флис сегодня снова всё спокойно. \nНаконец настаёт час отдыха для его незаметных героев. Повеселимся на полную!"}
+{"id":"goods:4301452696617472","en":"A Calm Day","ru":"Безмятежный день"}
+{"id":"goods:4301452696617728","en":"The winds of the city-state of Fleece are calm again today.\nAt last, a fleeting respite begins for its unsung heroes. Let's enjoy it to the fullest!","ru":"В городе-государстве Флис сегодня снова безветренно.\nНаконец настаёт недолгий отдых для его незаметных героев. Повеселимся на полную!"}
 {"id":"goods:4301452696623104","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301456991584768","en":"Azure-Blue Fox Kit","ru":"Лазурный лисёнок"}
-{"id":"goods:4301456991585024","en":"The Azure-Blue Fox Kit has a small body and soft fur, and its most distinctive feature is the flame-like tuft of pink fur at the tip of its tail. \nThe Young Form is when the Azure-Blue Fox Kit is at its most active. It is a time when they love to get into mischief, and they love to play and eat. Whether it is slowly drifting peach petals or a steamer basket full of piping-hot buns, both will draw the intense gaze of an Azure-Blue Fox Kit. If a Qihua Spirit Fox or a Nine-Tailed Dreamflower isn't watching over them, trouble will break out in no time.","ru":"Лазурный лисёнок невелик, с мягкой шёрсткой, а его главная примета — похожий на пламя пучок розовой шерсти на кончике хвоста. \nЮная форма — время, когда Лазурный лисёнок наиболее деятелен. Он любит озорничать, обожает играть и поесть. Будь то медленно кружащие лепестки персика или паровая корзинка с горячими булочками, всё это притягивает его жадный взгляд. Если за ним не присмотрят Духовная лиса Цихуа или Девятихвостая грёза цветка, переполох случится в мгновение ока."}
-{"id":"goods:4301456991586304","en":"Complete 1 endings","ru":"Пройти 1 концовок"}
+{"id":"goods:4301456991585024","en":"The Azure-Blue Fox Kit has a small body and soft fur, and its most distinctive feature is the flame-like tuft of pink fur at the tip of its tail.\nThe Young Form is when the Azure-Blue Fox Kit is at its most active. It is a time when they love to get into mischief, and they love to play and eat. Whether it is slowly drifting peach petals or a steamer basket full of piping-hot buns, both will draw the intense gaze of an Azure-Blue Fox Kit. If a Qihua Spirit Fox or a Nine-Tailed Dreamflower isn't watching over them, trouble will break out in no time.","ru":"Лазурный лисёнок невелик, с мягкой шёрсткой, а его главная примета — похожий на пламя пучок розовой шерсти на кончике хвоста.\nЮная форма — время, когда Лазурный лисёнок наиболее деятелен. Он любит озорничать, обожает играть и поесть. Будь то медленно кружащие лепестки персика или паровая корзинка с горячими булочками, всё это притягивает его жадный взгляд. Если за ним не присмотрят Духовная лиса Цихуа или Девятихвостая грёза цветка, переполох случится в мгновение ока."}
+{"id":"goods:4301456991586304","en":"Achieve 1 endings","ru":"Достичь концовок: 1"}
 {"id":"goods:4301456991590400","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301461286552064","en":"Azure-Blue Fox Kit's Echo","ru":"Эхо Лазурного лисёнка"}
-{"id":"goods:4301461286552320","en":"Can be used to develop the Source Vein of the Azure-Blue Fox Kit, Qihua Spirit Fox, and Nine-Tailed Dreamflower.","ru":"Можно использовать для развития Исходной жилы Лазурного лисёнка, Духовной лисы Цихуа и Девятихвостой грёзы цветка."}
-{"id":"goods:4301461286553600","en":"Complete 2 endings","ru":"Пройти 2 концовки"}
+{"id":"goods:4301461286552320","en":"Source Vein that can be used to raise the Azure-Blue Fox Kit, Qihua Spirit Fox, and Nine-Tailed Dreamflower.","ru":"Исходная жила, которую можно использовать для развития Лазурного лисёнка, Духовной лисы Цихуа и Девятихвостой грёзы цветка."}
+{"id":"goods:4301461286553600","en":"Achieve 2 endings","ru":"Достичь концовок: 2"}
 {"id":"goods:4301461286557696","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301465581519360","en":"Azure-Blue Fox Kit's Echo","ru":"Эхо Лазурного лисёнка"}
-{"id":"goods:4301465581519616","en":"Can be used to develop the Source Vein of the Azure-Blue Fox Kit, Qihua Spirit Fox, and Nine-Tailed Dreamflower.","ru":"Можно использовать для развития Исходной жилы Лазурного лисёнка, Духовной лисы Цихуа и Девятихвостой грёзы цветка."}
-{"id":"goods:4301465581520896","en":"Complete 4 endings","ru":"Пройти 4 концовки"}
+{"id":"goods:4301465581519616","en":"Source Vein that can be used to raise the Azure-Blue Fox Kit, Qihua Spirit Fox, and Nine-Tailed Dreamflower.","ru":"Исходная жила, которую можно использовать для развития Лазурного лисёнка, Духовной лисы Цихуа и Девятихвостой грёзы цветка."}
+{"id":"goods:4301465581520896","en":"Achieve 4 endings","ru":"Достичь концовок: 4"}
 {"id":"goods:4301465581524992","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301469876486656","en":"Everglow Star · Radiance","ru":"Звезда вечного сияния · Блеск"}
 {"id":"goods:4301469876486912","en":"When granted through Star Blessing, the following stats increase:\nATK +12\nDEF +3\nHP +60","ru":"При даровании через звёздное благословение повышаются следующие характеристики:\nСила атаки +12\nЗащита +3\nHP +60"}
@@ -152,7 +152,7 @@
 {"id":"goods:4301487056355840","en":"Boss Star Blessing Secret Box: Advanced","ru":"Тайный ящик звёздного благословения босса: улучшенный"}
 {"id":"goods:4301487056356096","en":"A finely crafted gift box sealed with a rare Star Blessing. When opened, you can select and obtain a specified Boss Star Blessing item.","ru":"Изысканный подарочный ящик, в котором запечатано редкое звёздное благословение. При вскрытии позволяет выбрать и получить указанный предмет звёздного благословения босса."}
 {"id":"goods:4301487056361472","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
-{"id":"goods:4301491351323136","en":"Boss Star Blessing Secret Box: Intermediate","ru":"Тайный ящик звёздного благословения босса: средний"}
+{"id":"goods:4301491351323136","en":"Boss Star Blessing Secret Gift: Intermediate","ru":"Тайный дар звёздного благословения босса: средний"}
 {"id":"goods:4301491351323392","en":"A finely crafted gift box sealed with a rare Star Blessing. When opened, you can select and obtain a specified Boss Star Blessing item.","ru":"Изысканный подарочный ящик, в котором запечатано редкое звёздное благословение. При вскрытии позволяет выбрать и получить указанный предмет звёздного благословения босса."}
 {"id":"goods:4301491351328768","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301843538641408","en":"Wave Fruit","ru":"Волновой плод"}
@@ -240,8 +240,8 @@
 {"id":"goods:4302290215240448","en":"Sturdy short boots that have traversed mountain paths and long stairways alongside a traveler. The surface of the boots bears many fine, stubborn scratches. \nA hero's tale is not carved only in songs of triumph. It is hidden within each and every step taken without stopping.","ru":"Крепкие короткие сапоги, прошедшие вместе со странником горные тропы и длинные лестницы. На их поверхности осталось множество мелких, нестираемых царапин. \nИстория героя высекается не только в победных песнях. Она скрыта в каждом шаге, сделанном без остановки."}
 {"id":"goods:4302290215241728","en":"Unlocks at Star Knowledge Level 40","ru":"Открывается на уровне звёздных знаний 40"}
 {"id":"goods:4302290215245824","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
-{"id":"goods:4302294510207488","en":"Dawnlight Resonance Gift Box","ru":"Подарочный ящик рассветного отклика"}
-{"id":"goods:4302294510207744","en":"When opened, you can select and obtain a specified Resonance item.","ru":"При вскрытии позволяет выбрать и получить указанный предмет отклика."}
+{"id":"goods:4302294510207488","en":"Dawnlight Resonance Box","ru":"Ящик рассветного резонанса"}
+{"id":"goods:4302294510207744","en":"When opened, you can select and obtain a specified Resonance item.","ru":"При вскрытии позволяет выбрать и получить указанный предмет резонанса."}
 {"id":"goods:4302294510209024","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:4302294510213120","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4302298805174784","en":"Star Blessing Box: Legendary","ru":"Ящик звёздного благословения: легендарный"}
@@ -313,7 +313,7 @@
 {"id":"goods:4767465238168064","en":"Wind Copper Ore","ru":"Руда ветряной меди"}
 {"id":"goods:4767465238168320","en":"Common metal ore. Can be used for processing at the Farm.","ru":"Обычная металлическая руда. Можно использовать для переработки на Ферме."}
 {"id":"goods:4767465238173696","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
-{"id":"goods:4810367666487808","en":"Velvet's Echo","ru":"Эхо Вельвет"}
+{"id":"goods:4810367666487808","en":"Velvet's Resonance","ru":"Резонанс Вельвет"}
 {"id":"goods:4810367666488064","en":"Can be used to develop Velvet's Source Vein.","ru":"Можно использовать для развития Исходной жилы Вельвет."}
 {"id":"goods:4810367666493440","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:4810371961455104","en":"Luminescent Spirit","ru":"Люминесцентный дух"}
@@ -439,16 +439,16 @@
 {"id":"goods:5587786811834880","en":"Lifo Egg","ru":"Яйцо лифо"}
 {"id":"goods:5587786811835136","en":"A normal Kibo Egg. It can hatch a Kibo of the same species as its parent.\n A pure life born from the Star Vessel inherits the power of its parent Kibo and awaits the moment it will Starlink with a worthy partner.","ru":"Обычное Яйцо кибо. Из него может вылупиться кибо того же вида, что и родитель.\n Чистая жизнь, рождённая из Звёздного сосуда, наследует силу родителя-кибо и ждёт мгновения, когда вступит в Звёздную связь с достойным партнёром."}
 {"id":"goods:5587786811840512","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
-{"id":"goods:5587791106802176","en":"Mofunga Echo","ru":"Отзвук мофунги"}
+{"id":"goods:5587791106802176","en":"Mofunga's Resonance","ru":"Резонанс Мофунги"}
 {"id":"goods:5587791106802432","en":"Source Vein that can be used to raise Mofunga, Easgal, and Fennwolf.","ru":"Исходная жила, которую можно использовать для развития Мофунги, Исгаля и Феннвольфа."}
 {"id":"goods:5587791106807808","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
-{"id":"goods:5587795401769472","en":"Bilibird Echo","ru":"Отзвук билибёрда"}
+{"id":"goods:5587795401769472","en":"Bilibird's Resonance","ru":"Резонанс Билибёрда"}
 {"id":"goods:5587795401769728","en":"Source Vein that can be used to raise Bilibird, Weaver, and Mastiva.","ru":"Исходная жила, которую можно использовать для развития Билибёрда, Уивера и Мастивы."}
 {"id":"goods:5587795401775104","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
-{"id":"goods:5587799696736768","en":"Momo Echo","ru":"Отзвук момо"}
+{"id":"goods:5587799696736768","en":"Momo's Resonance","ru":"Резонанс Момо"}
 {"id":"goods:5587799696737024","en":"Source Vein that can be used to raise Momo, Flaimo, and Taurik.","ru":"Исходная жила, которую можно использовать для развития Момо, Флаймо и Таурика."}
 {"id":"goods:5587799696742400","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
-{"id":"goods:5587803991704064","en":"Lifo Echo","ru":"Отзвук лифо"}
+{"id":"goods:5587803991704064","en":"Lifo's Resonance","ru":"Резонанс Лифо"}
 {"id":"goods:5587803991704320","en":"Source Vein that can be used to raise Lifo, Fratel, and Kronneck.","ru":"Исходная жила, которую можно использовать для развития Лифо, Фрателя и Кроннека."}
 {"id":"goods:5587803991709696","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:5587808286671360","en":"Unfinished Campaign","ru":"Незавершённый поход"}
@@ -555,7 +555,7 @@
 {"id":"goods:8633343826462720","en":"Unlocked at Star Knowledge Level 15","ru":"Открывается на Уровне звёздных знаний 15"}
 {"id":"goods:8633343826466816","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:8633348121428480","en":"Sweetcabbage Seeds10","ru":"Семена сладкой капусты10"}
-{"id":"goods:8633348121428736","en":"Sweetcabbage seeds. Grow them on farmland to harvest Sweetcabbage of the corresponding quality.","ru":"Семена сладкой капусты. Выращивайте их на поле, чтобы собрать сладкую капусту соответствующего качества."}
+{"id":"goods:8633348121428736","en":"Sweetcabbage seeds. Grow them on farmland to harvest Sweetcabbage of the corresponding quality.\nTime to maturity: 60.","ru":"Семена сладкой капусты. Выращивайте их на поле, чтобы собрать сладкую капусту соответствующего качества.\nДо созревания: 60."}
 {"id":"goods:8633348121430016","en":"Unlocked at Star Knowledge Level 15","ru":"Открывается на Уровне звёздных знаний 15"}
 {"id":"goods:8633348121434112","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:8633352416395776","en":"Letchulf Seeds ×10","ru":"Семена летчульфа ×10"}
@@ -831,7 +831,7 @@
 {"id":"goods:8763094788474880","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8763094788478976","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:8763099083440640","en":"Light-and-Dark Stone","ru":"Камень света и тьмы"}
-{"id":"goods:8763099083440896","en":"An important item required for a Mephon to grow into a Megalm.","ru":"Важный предмет, необходимый для того, чтобы Мефон вырос в Мегальма."}
+{"id":"goods:8763099083440896","en":"An important item required for a Mephon to grow into a Mawolf.","ru":"Важный предмет, необходимый для того, чтобы Мефон вырос в Мьювольфа."}
 {"id":"goods:8763099083442176","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8763099083446272","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:8763103378407936","en":"Potential Training Supplies ×100","ru":"Припасы для тренировки потенциала ×100"}

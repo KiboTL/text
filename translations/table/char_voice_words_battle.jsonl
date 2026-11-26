@@ -331,7 +331,7 @@
 {"id":"char_voice_words_battle:446680893764864","en":"The battle is not over yet.","ru":"Бой ещё не окончен."}
 {"id":"char_voice_words_battle:446680893765120","en":"Until victory or defeat is decided, do not let your guard down.","ru":"Пока не решён исход, не теряй бдительности."}
 {"id":"char_voice_words_battle:446680893765376","en":"Whatever the situation, I will not miss my mark.","ru":"Что бы ни случилось, я не промахнусь."}
-{"id":"char_voice_words_battle:446680893765632","en":"It is at times like these that we must not break formation!","ru":"Именно сейчас нельзя нарушать строй!"}
+{"id":"char_voice_words_battle:446680893765632","en":"It is at times like these that we must not break formation!","ru":"Именно в такие минуты нельзя нарушать строй!"}
 {"id":"char_voice_words_battle:446680893765888","en":"Danger approaches, it seems.","ru":"Кажется, опасность близко."}
 {"id":"char_voice_words_battle:446680893766144","en":"Ngh, I must revise the plan!","ru":"Нгх, нужно скорректировать план!"}
 {"id":"char_voice_words_battle:446680893766400","en":"It seems their plan is to wear us down.","ru":"Похоже, их замысел — истощить нас."}
@@ -663,7 +663,7 @@
 {"id":"char_voice_words_battle:468155730241280","en":"The dance of thunder is only beginning!","ru":"Танец грома только начинается!"}
 {"id":"char_voice_words_battle:468155730241536","en":"Behold, the Movement of the Peerless Sword Dance!","ru":"Вот она — соната несравненного меч-танца!"}
 {"id":"char_voice_words_battle:468155730241792","en":"You did it!","ru":"Молодец!"}
-{"id":"char_voice_words_battle:468155730242048","en":"It's time to unleash your stored power.","ru":"Пора высвободить накопленную силу."}
+{"id":"char_voice_words_battle:468155730242048","en":"It's time to release the power you've stored.","ru":"Пора высвободить накопленную силу."}
 {"id":"char_voice_words_battle:468155730242304","en":"On thunder's signal, we attack!","ru":"По сигналу грома — в атаку!"}
 {"id":"char_voice_words_battle:468155730243840","en":"Those who harm the world deserve only burial.","ru":"Тем, кто вредит миру, остаётся лишь гибель."}
 {"id":"char_voice_words_battle:468155730244096","en":"Consider it an honor to be my stepping stone.","ru":"Сочти за честь стать моей ступенью."}
@@ -1022,8 +1022,8 @@
 {"id":"char_voice_words_battle:854732851657472","en":"They're calling for allies, be careful!","ru":"Они зовут союзников, будьте осторожны!"}
 {"id":"char_voice_words_battle:854732851657728","en":"This transformation...","ru":"Это превращение..."}
 {"id":"char_voice_words_battle:854732851657984","en":"This Kibo Fight is Maple's win!","ru":"Этот Бой кибо — победа Мейпл!"}
-{"id":"char_voice_words_battle:854732851658240","en":"I'll knock you flying!","ru":"Я тебя отправлю в полёт!"}
-{"id":"char_voice_words_battle:854732851658496","en":"Bunbun, go!","ru":"Банбан, вперёд!"}
+{"id":"char_voice_words_battle:854732851658240","en":"Let's show them what Maple and her partner can do together!","ru":"Покажем, что Мейпл и её партнёр умеют делать вместе!"}
+{"id":"char_voice_words_battle:854732851658496","en":"Smooth as Velvet!","ru":"Плавно, как Вельвет!"}
 {"id":"char_voice_words_battle:854732851658752","en":"I will never betray that trust.","ru":"Я никогда не предам это доверие."}
 {"id":"char_voice_words_battle:854732851659008","en":"The time is not yet ripe, it seems.","ru":"Похоже, время ещё не пришло."}
 {"id":"char_voice_words_battle:854732851659264","en":"The Will is there. It's just not the time yet.","ru":"Воля есть. Просто ещё не время."}

@@ -8,8 +8,8 @@
 {"id":"game_events_cul_skill_tree:1305670061312","en":"Starpolar Charge recovery rate increases by 30%.","ru":"Скорость восстановления звёзднополярного заряда повышается на 30%."}
 {"id":"game_events_cul_skill_tree:1309965028352","en":"One Bond, One Meeting","ru":"Одна связь — одна встреча"}
 {"id":"game_events_cul_skill_tree:1309965028608","en":"After a Starflash Skill is activated, the whole team's Starpolar Skill damage increases by 80% each time (duration: 15s).","ru":"После активации навыка звёздной вспышки урон звёзднополярного навыка всей команды каждый раз повышается на 80% (длительность: 15 с)."}
-{"id":"game_events_cul_skill_tree:1314259995648","en":"Bondweaving Dedication","ru":"Усердие в плетении уз"}
-{"id":"game_events_cul_skill_tree:1314259995904","en":"After Bondweaving reaches S, Starpolar Charge recovery rate increases by a further 0.03% for each point of Bondweaving affinity 1 (stackable).","ru":"После достижения плетением уз ранга S скорость восстановления звёзднополярного заряда дополнительно повышается на 0.03% за каждую единицу атрибута плетения уз 1 (складывается)."}
+{"id":"game_events_cul_skill_tree:1314259995648","en":"Bond Dedication","ru":"Усердие в узах"}
+{"id":"game_events_cul_skill_tree:1314259995904","en":"After Bondweaving reaches S, Starpolar Charge recovery rate increases by an additional 0.03% for each point of Bond affinity 1 (stackable).","ru":"После достижения плетением уз ранга S скорость восстановления звёзднополярного заряда дополнительно повышается на 0.03% за каждую единицу атрибута уз 1 (складывается)."}
 {"id":"game_events_cul_skill_tree:1722281888768","en":"See One, Know Ten Thousand I","ru":"Увидеть единицу — познать десять тысяч I"}
 {"id":"game_events_cul_skill_tree:1722281889024","en":"EX Intensity increases by 20%.","ru":"Интенсивность EX повышается на 20%."}
 {"id":"game_events_cul_skill_tree:1726576856064","en":"See One, Know Ten Thousand II","ru":"Увидеть единицу — познать десять тысяч II"}

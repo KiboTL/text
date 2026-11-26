@@ -40,14 +40,14 @@
 {"id":"game_events_cul_status:43035572306688","en":"After finishing this book, Xiaoyu seems to have gained something. Courage gained during training increased by 20%.","ru":"Дочитав эту книгу, Сяоюй, похоже, что-то обрела. Отвага, получаемая во время тренировки, увеличена на 20%."}
 {"id":"game_events_cul_status:43039867273728","en":"Contemplation: Insight","ru":"Размышление: проницательность"}
 {"id":"game_events_cul_status:43039867273984","en":"After finishing this book, Xiaoyu seems to have gained something. Insight gained during training increased by 20%.","ru":"Дочитав эту книгу, Сяоюй, похоже, что-то обрела. Проницательность, получаемая во время тренировки, увеличена на 20%."}
-{"id":"game_events_cul_status:43044162241024","en":"Contemplation: Bondweaving","ru":"Размышление: плетение уз"}
-{"id":"game_events_cul_status:43044162241280","en":"After finishing this book, Xiaoyu seems to have gained something. Bondweaving gained during training increased by 20%.","ru":"Дочитав эту книгу, Сяоюй, похоже, что-то обрела. Плетение уз, получаемое во время тренировки, увеличено на 20%."}
+{"id":"game_events_cul_status:43044162241024","en":"Contemplation: Bonds","ru":"Размышление: Узы"}
+{"id":"game_events_cul_status:43044162241280","en":"After finishing this book, Xiaoyu seems to have gained something. Bond stat gained during training increased by 20%.","ru":"Дочитав эту книгу, Сяоюй, похоже, что-то обрела. Характеристика уз, получаемая во время тренировки, увеличена на 20%."}
 {"id":"game_events_cul_status:43048457208320","en":"Contemplation: Mana","ru":"Размышление: мана"}
 {"id":"game_events_cul_status:43048457208576","en":"After finishing this book, Xiaoyu seems to have gained something. Mana gained during training increased by 20%.","ru":"Дочитав эту книгу, Сяоюй, похоже, что-то обрела. Мана, получаемая во время тренировки, увеличена на 20%."}
 {"id":"game_events_cul_status:43052752175616","en":"Inspiration: Insight","ru":"Озарение: проницательность"}
 {"id":"game_events_cul_status:43052752175872","en":"After finishing this book, Xiaoyu had an inspiration. Insight gained during the next training increased by 200%.","ru":"Дочитав эту книгу, Сяоюй испытала озарение. Проницательность, получаемая во время следующей тренировки, увеличена на 200%."}
-{"id":"game_events_cul_status:43057047142912","en":"Inspiration: Bondweaving","ru":"Озарение: плетение уз"}
-{"id":"game_events_cul_status:43057047143168","en":"After finishing this book, Xiaoyu had an inspiration. Bondweaving gained during the next training increased by 200%.","ru":"Дочитав эту книгу, Сяоюй испытала озарение. Плетение уз, получаемое во время следующей тренировки, увеличено на 200%."}
+{"id":"game_events_cul_status:43057047142912","en":"Inspiration: Bonds","ru":"Озарение: Узы"}
+{"id":"game_events_cul_status:43057047143168","en":"After finishing this book, Xiaoyu had an inspiration. Bond stat gained during the next training increased by 200%.","ru":"Дочитав эту книгу, Сяоюй испытала озарение. Характеристика уз, получаемая во время следующей тренировки, увеличена на 200%."}
 {"id":"game_events_cul_status:43061342110208","en":"Inspiration: Mana","ru":"Озарение: мана"}
 {"id":"game_events_cul_status:43061342110464","en":"After finishing this book, Xiaoyu had an inspiration. Mana gained during the next training increased by 200%.","ru":"Дочитав эту книгу, Сяоюй испытала озарение. Мана, получаемая во время следующей тренировки, увеличена на 200%."}
 {"id":"game_events_cul_status:43065637077504","en":"Diligence: Stamina","ru":"Усердие: выносливость"}
@@ -56,13 +56,13 @@
 {"id":"game_events_cul_status:43069932045056","en":"After finishing this book, Xiaoyu put what she learned into practice. Bond points gained increased by 15%.","ru":"Дочитав эту книгу, Сяоюй применила полученные знания на практике. Получаемые очки уз увеличены на 15%."}
 {"id":"game_events_cul_status:43074227012096","en":"Inspiration: Courage","ru":"Озарение: отвага"}
 {"id":"game_events_cul_status:43074227012352","en":"After finishing this book, Xiaoyu had an inspiration. Courage gained during the next training increased by 200%.","ru":"Дочитав эту книгу, Сяоюй испытала озарение. Отвага, получаемая во время следующей тренировки, увеличена на 200%."}
-{"id":"game_events_cul_status:43078521979392","en":"Sunny Bouquet","ru":"Букет тёплого солнца"}
+{"id":"game_events_cul_status:43078521979392","en":"Bouquet of Abundance","ru":"Букет изобилия"}
 {"id":"game_events_cul_status:43078521979648","en":"After listening to 1 songs, Xiaoyu's face brightened. All stats gained during the next training increase by 100%.","ru":"Прослушав песни (1), Сяоюй просветлела лицом. Все характеристики, получаемые во время следующей тренировки, увеличены на 100%."}
-{"id":"game_events_cul_status:43082816946688","en":"HP","ru":"ОЗ"}
+{"id":"game_events_cul_status:43082816946688","en":"Breath of the Earth","ru":"Дыхание земли"}
 {"id":"game_events_cul_status:43082816946944","en":"After eating her fill, Xiaoyu felt energetic again. Stamina consumed during training decreased by 10%.","ru":"Наевшись досыта, Сяоюй снова почувствовала прилив сил. Выносливость, расходуемая во время тренировки, снижена на 10%."}
-{"id":"game_events_cul_status:43087111913984","en":"Upon Clear Waves","ru":"На ясных волнах"}
+{"id":"game_events_cul_status:43087111913984","en":"Whisper of Waves","ru":"Шёпот волн"}
 {"id":"game_events_cul_status:43087111914240","en":"After eating her fill, Xiaoyu felt energetic again. Stamina consumed during the next training decreased by 90%.","ru":"Наевшись досыта, Сяоюй снова почувствовала прилив сил. Выносливость, расходуемая во время следующей тренировки, снижена на 90%."}
-{"id":"game_events_cul_status:43091406881280","en":"First Flutter","ru":"Первое волнение"}
+{"id":"game_events_cul_status:43091406881280","en":"Heart's Flutter","ru":"Трепет сердца"}
 {"id":"game_events_cul_status:43091406881536","en":"After eating her fill, Xiaoyu felt energetic again. Bond points gained during the next training increased by 300%.","ru":"Наевшись досыта, Сяоюй снова почувствовала прилив сил. Очки уз, получаемые во время следующей тренировки, увеличены на 300%."}
 {"id":"game_events_cul_status:43095701848576","en":"Seawater and Tears Are Both Salty","ru":"И море, и слёзы солоны"}
 {"id":"game_events_cul_status:43095701848832","en":"After eating her fill, Xiaoyu felt energetic again. All stats gained during the next 2 trainings increase by 60%.","ru":"Наевшись досыта, Сяоюй снова почувствовала прилив сил. Все характеристики, получаемые во время следующих тренировок (2), увеличены на 60%."}
@@ -71,7 +71,7 @@
 {"id":"game_events_cul_status:43104291783168","en":"Persistence","ru":"Упорство"}
 {"id":"game_events_cul_status:43104291783424","en":"Xiaoyu spent a long time flipping over stones, and her mind grew a little sharper. Stats gained during exploration increase by 10%.","ru":"Сяоюй долго переворачивала камни, и её дух немного окреп. Характеристики, получаемые в странствиях, повышаются на 10%."}
 {"id":"game_events_cul_status:43108586750464","en":"Might Makes Right","ru":"Сила — это право"}
-{"id":"game_events_cul_status:43108586750720","en":"Xiaoyu succeeded in smashing a door open with her fists and grasped a new use for them. Courage gained in the next training session increases by 100%.","ru":"Сяоюй сумела выбить дверь кулаками и поняла, что у них есть новое применение. Смелость, получаемая на следующей тренировке, повышается на 100%."}
+{"id":"game_events_cul_status:43108586750720","en":"Xiaoyu succeeded in smashing a door open with her fists and grasped a new use for them. Courage stat gained in the next training session increases by 100%.","ru":"Сяоюй сумела выбить дверь кулаками и поняла, что у них есть новое применение. Характеристика смелости, получаемая на следующей тренировке, повышается на 100%."}
 {"id":"game_events_cul_status:43112881717760","en":"Swollen Fists","ru":"Распухшие кулаки"}
 {"id":"game_events_cul_status:43112881718016","en":"Xiaoyu failed to smash a door open with her fists, and her hands swelled up. Stamina consumed during training increases by 50%.","ru":"Сяоюй не смогла выбить дверь кулаками, и её руки распухли. Расход выносливости на тренировках повышается на 50%."}
 {"id":"game_events_cul_status:43117176685056","en":"Easy Victory","ru":"Лёгкая победа"}
@@ -82,8 +82,8 @@
 {"id":"game_events_cul_status:43125766619904","en":"After this valuable combat experience, Xiaoyu advanced a step in her training. Insight gained during training increases by 10%.","ru":"После этого ценного боевого опыта Сяоюй продвинулась в тренировках. Проницательность, получаемая на тренировках, повышается на 10%."}
 {"id":"game_events_cul_status:43130061586944","en":"Combat Training: Courage","ru":"Боевая тренировка: смелость"}
 {"id":"game_events_cul_status:43130061587200","en":"After this valuable combat experience, Xiaoyu advanced a step in her training. Courage gained during training increases by 10%.","ru":"После этого ценного боевого опыта Сяоюй продвинулась в тренировках. Смелость, получаемая на тренировках, повышается на 10%."}
-{"id":"game_events_cul_status:43134356554240","en":"Field Test: Bondweaving","ru":"Полевое испытание: плетение уз"}
-{"id":"game_events_cul_status:43134356554496","en":"After this valuable combat experience, Xiaoyu advanced a step in her training. Bondweaving gained during training increases by 10%.","ru":"После этого ценного боевого опыта Сяоюй продвинулась в тренировках. Плетение уз, получаемое на тренировках, повышается на 10%."}
+{"id":"game_events_cul_status:43134356554240","en":"Field Test: Bonds","ru":"Полевое испытание: Узы"}
+{"id":"game_events_cul_status:43134356554496","en":"After this valuable combat experience, Xiaoyu advanced a step in her training. Bond stat gained during training increases by 10%.","ru":"После этого ценного боевого опыта Сяоюй продвинулась в тренировках. Характеристика уз, получаемая на тренировках, повышается на 10%."}
 {"id":"game_events_cul_status:43138651521536","en":"Dozing Off","ru":"Дрёма"}
 {"id":"game_events_cul_status:43138651521792","en":"Huh? It's dawn already? Xiaoyu is dead sleepy. Stamina consumed during training increases by 20%.","ru":"А? Уже рассвело? Сяоюй умирает от сонливости. Расход выносливости на тренировках повышается на 20%."}
 {"id":"game_events_cul_status:43142946488832","en":"A Single Thread of Fate","ru":"Единственная нить судьбы"}
@@ -102,28 +102,28 @@
 {"id":"game_events_cul_status:43168716292864","en":"Xiaoyu claimed victory and grew more confident. Courage gained during training increases by 10%.","ru":"Сяоюй одержала победу и стала увереннее в себе. Смелость, получаемая на тренировках, повышается на 10%."}
 {"id":"game_events_cul_status:43173011259904","en":"I'll Take On 100 at Once!","ru":"Я справлюсь с 100 разом!"}
 {"id":"game_events_cul_status:43173011260160","en":"Xiaoyu claimed victory and is brimming with confidence! Courage gained during training increases by 20%.","ru":"Сяоюй одержала победу и переполнена уверенностью! Смелость, получаемая на тренировках, повышается на 20%."}
-{"id":"game_events_cul_status:43177306227200","en":"A Secret Recipe Found by Chance","ru":"Рецепт, найденный случайно"}
+{"id":"game_events_cul_status:43177306227200","en":"Secret Recipe","ru":"Тайный рецепт"}
 {"id":"game_events_cul_status:43177306227456","en":"Xiaoyu happened upon a recipe for salted fish and can now serve guests a new dish. Bond Points gained increase by 20%.","ru":"Сяоюй случайно раздобыла рецепт солёной рыбы и теперь может угощать гостей новым блюдом. Получаемые очки связи повышаются на 20%."}
 {"id":"game_events_cul_status:43181601194496","en":"Traces of a Vanished Bond","ru":"Следы исчезнувшей связи"}
-{"id":"game_events_cul_status:43181601194752","en":"Watching the traces of a bond vanish, Xiaoyu fell deep into thought. Bondweaving gained during training increases by 10%.","ru":"Глядя на исчезающие следы связи, Сяоюй погрузилась в раздумья. Плетение уз, получаемое на тренировках, повышается на 10%."}
+{"id":"game_events_cul_status:43181601194752","en":"Watching the traces of a bond vanish, Xiaoyu fell deep into thought. Bond stat gained during training increases by 10%.","ru":"Глядя на исчезающие следы связи, Сяоюй погрузилась в раздумья. Характеристика уз, получаемая на тренировках, повышается на 10%."}
 {"id":"game_events_cul_status:43185896161792","en":"The Scent of Fish Lingering on Her Hands","ru":"Запах рыбы, оставшийся на руках"}
 {"id":"game_events_cul_status:43185896162048","en":"Following the scent of fish, Xiaoyu tracked down a clue and had a great epiphany. Insight gained during training increases by 20%.","ru":"Идя по запаху рыбы, Сяоюй нашла подсказку и испытала озарение. Проницательность, получаемая на тренировках, повышается на 20%."}
 {"id":"game_events_cul_status:43190191129088","en":"Seeking Fish by the Scent of Bonds","ru":"Искать рыбу по запаху уз"}
-{"id":"game_events_cul_status:43190191129344","en":"After uncovering the truth, Xiaoyu deepened her understanding of bonds even further. Bondweaving gained during training increases by 20%.","ru":"Раскрыв правду, Сяоюй ещё глубже поняла природу уз. Плетение уз, получаемое на тренировках, повышается на 20%."}
+{"id":"game_events_cul_status:43190191129344","en":"After uncovering the truth, Xiaoyu deepened her understanding of bonds even further. Bond stat gained during training increases by 20%.","ru":"Раскрыв правду, Сяоюй ещё глубже поняла природу уз. Характеристика уз, получаемая на тренировках, повышается на 20%."}
 {"id":"game_events_cul_status:43194486096384","en":"A Master at Seeing Through Scams","ru":"Мастер разоблачения обмана"}
 {"id":"game_events_cul_status:43194486096640","en":"Xiaoyu investigated the few clues and successfully exposed the fraud. Insight gained during training increases by 20%.","ru":"Сяоюй изучила немногочисленные улики и сумела разоблачить обман. Проницательность, получаемая во время тренировок, повышается на 20%."}
 {"id":"game_events_cul_status:43198781063680","en":"First to Fight Fraud","ru":"Первый борец с обманом"}
-{"id":"game_events_cul_status:43198781063936","en":"Xiaoyu sorted out the karmic ties and successfully exposed the fraud. Bondweaving gained during training increases by 20%.","ru":"Сяоюй разобралась в причинно-следственных связях и сумела разоблачить обман. Плетение уз, получаемое во время тренировок, повышается на 20%."}
+{"id":"game_events_cul_status:43198781063936","en":"Xiaoyu sorted out the karmic ties and successfully exposed the fraud. Bond stat gained during training increases by 20%.","ru":"Сяоюй разобралась в причинно-следственных связях и сумела разоблачить обман. Характеристика уз, получаемая во время тренировок, повышается на 20%."}
 {"id":"game_events_cul_status:43203076030976","en":"A Happy Coincidence","ru":"Счастливая случайность"}
 {"id":"game_events_cul_status:43203076031232","en":"Moved by an unexpected coincidence, Xiaoyu took another step forward in her training. Insight gained during training increases by 20%.","ru":"Вдохновлённая неожиданной случайностью, Сяоюй продвинулась ещё на шаг в тренировках. Проницательность, получаемая во время тренировок, повышается на 20%."}
 {"id":"game_events_cul_status:43207370998272","en":"No Meeting Without a Bond","ru":"Без уз не бывает встречи"}
-{"id":"game_events_cul_status:43207370998528","en":"Moved by the wonder of bonds, Xiaoyu took another step forward in her training. Bondweaving gained during training increases by 20%.","ru":"Вдохновлённая чудом уз, Сяоюй продвинулась ещё на шаг в тренировках. Плетение уз, получаемое во время тренировок, повышается на 20%."}
+{"id":"game_events_cul_status:43207370998528","en":"Moved by the wonder of bonds, Xiaoyu took another step forward in her training. Bond stat gained during training increases by 20%.","ru":"Вдохновлённая чудом уз, Сяоюй продвинулась ещё на шаг в тренировках. Характеристика уз, получаемая во время тренировок, повышается на 20%."}
 {"id":"game_events_cul_status:43211665965568","en":"Master of Love","ru":"Мастер любви"}
 {"id":"game_events_cul_status:43211665965824","en":"Xiaoyu deeply agreed with Amy's conclusion and decided to practice often with the Starborn from now on. Mana gained during training increases by 10%.","ru":"Сяоюй полностью согласилась с выводом Эми и решила отныне часто тренироваться со Звездорождённым. Мана, получаемая во время тренировок, повышается на 10%."}
 {"id":"game_events_cul_status:43215960932864","en":"Performance Boost","ru":"Усиление выступления"}
-{"id":"game_events_cul_status:43215960933120","en":"After the novel became a huge hit, the tale of the mysterious Immortal Fox began to spread throughout Fleece. Bondweaving gained during training increases by 10%.","ru":"После оглушительного успеха романа история о таинственной Бессмертной лисе начала распространяться по Флису. Плетение уз, получаемое во время тренировок, увеличивается на 10%."}
+{"id":"game_events_cul_status:43215960933120","en":"After the novel became a huge hit, the tale of the mysterious Immortal Fox began to spread throughout Fleece. Bond stat gained during training increases by 10%.","ru":"После оглушительного успеха романа история о таинственной Бессмертной лисе начала распространяться по Флису. Характеристика уз, получаемая во время тренировок, увеличивается на 10%."}
 {"id":"game_events_cul_status:43220255900160","en":"Heaven-Sent Fortune","ru":"Дар небес"}
-{"id":"game_events_cul_status:43220255900416","en":"Who would have thought... such a thing could happen? Xiaoyu marveled anew at the wonder of bonds. Bondweaving gained during training increases by 30%.","ru":"Кто бы мог подумать... такое возможно? Сяоюй вновь подивилась чудесам уз. Плетение уз, получаемое во время тренировок, увеличивается на 30%."}
+{"id":"game_events_cul_status:43220255900416","en":"Who would have thought... such a thing could happen? Xiaoyu marveled anew at the wonder of bonds. Bond stat gained during training increases by 30%.","ru":"Кто бы мог подумать... такое возможно? Сяоюй вновь подивилась чудесам уз. Характеристика уз, получаемая во время тренировок, увеличивается на 30%."}
 {"id":"game_events_cul_status:85903640887808","en":"Picky Shopper","ru":"Привередливый покупатель"}
 {"id":"game_events_cul_status:85903640888064","en":"From tips on choosing goods, Chiyo grasped something. Mind's Eye gained during training: +15%.","ru":"Из советов по выбору товаров Тиё кое-что поняла. Получаемое Внутреннее око во время тренировок: +15%."}
 {"id":"game_events_cul_status:85907935855104","en":"5 Yuni for 3 Days","ru":"5 юни на 3 дней"}
@@ -169,7 +169,7 @@
 {"id":"game_events_cul_status:85993835201024","en":"Inferno Wild Dance! Stellar Cascade!","ru":"Неистовый танец пламени! Звёздный каскад!"}
 {"id":"game_events_cul_status:85993835201280","en":"Persuaded by Ruby, Chiyo no longer fears anything! Iai gained during training: +5%.","ru":"Убеждённая Руби, Тиё больше ничего не боится! Получаемое Иай во время тренировок: +5%."}
 {"id":"game_events_cul_status:85998130168320","en":"The King's Martial Arts","ru":"Боевое искусство короля"}
-{"id":"game_events_cul_status:85998130168576","en":"Competing in skill against the contestants of the King's Arena, Chiyo learned a great deal. Counter Slash gained during training: +5%.","ru":"Состязаясь в мастерстве с участниками Королевской арены, Тиё многому научилась. Получаемый Ответный разрез во время тренировок: +5%."}
+{"id":"game_events_cul_status:85998130168576","en":"Competing in skill against the contestants of the King's Arena, Chiyo learned a great deal. Counter Slash gained during training +5%.","ru":"Состязаясь в мастерстве с участниками Королевской арены, Тиё многому научилась. Получаемый Ответный разрез во время тренировок +5%."}
 {"id":"game_events_cul_status:86002425135616","en":"Moonlit Shadow of the Long Night","ru":"Лунная тень долгой ночи"}
 {"id":"game_events_cul_status:86002425135872","en":"Thanks to her master's training regimen, Chiyo cleared her mind and found inner clarity. Subdue gained during training: +5%.","ru":"Благодаря программе тренировок наставника Тиё отбросила лишние мысли, и её дух очистился. Получаемое Подавление во время тренировок: +5%."}
 {"id":"game_events_cul_status:86006720102912","en":"Prep Master","ru":"Мастер подготовки"}
@@ -193,7 +193,7 @@
 {"id":"game_events_cul_status:86045374808576","en":"A New Theory on the Mystery Case","ru":"Новая версия таинственного дела"}
 {"id":"game_events_cul_status:86045374808832","en":"Chiyo has found a new way to conquer the snowbound mountain villa and burns with enthusiasm. Stats gained during training: +20%, Focus consumed: +10%.","ru":"Тиё нашла новый способ одолеть заснеженный горный особняк и полна рвения. Получаемые характеристики во время тренировок: +20%, расход Сосредоточения: +10%."}
 {"id":"game_events_cul_status:86049669775872","en":"Greatswords Are Too Heavy","ru":"Двуручный меч слишком тяжёл"}
-{"id":"game_events_cul_status:86049669776128","en":"Training with a greatsword left Chiyo's arms terribly sore... Chance of reduced training results: +5%.","ru":"От тренировок с двуручным мечом руки Тиё страшно заныли от боли в мышцах... Шанс слабого результата тренировки: +5%."}
+{"id":"game_events_cul_status:86049669776128","en":"Training with a greatsword left Chiyo's arms terribly sore... Chance of \"Indomitable\" during training +5%.","ru":"От тренировок с двуручным мечом руки Тиё страшно заныли... Шанс «Несгибаемости» во время тренировки +5%."}
 {"id":"game_events_cul_status:86053964743168","en":"The Art of Besting an Opponent","ru":"Искусство одолевать противника"}
 {"id":"game_events_cul_status:86053964743424","en":"Chiyo learned much from the secret manual and hopes to cross blades with her master when the chance arises. Bond points gained: +15%.","ru":"Из тайного трактата Тиё узнала многое и надеется при случае скрестить клинки с наставником. Получаемые очки связи: +15%."}
 {"id":"game_events_cul_status:86058259710464","en":"Melody of Rain","ru":"Мелодия дождя"}
@@ -218,7 +218,7 @@
 {"id":"game_events_cul_status:86096914416384","en":"By focusing her mind on a Karabekko's feathers, Chiyo reduces her Focus consumption during training -10%.","ru":"Сосредоточившись на перьях карабекко, Тиё снижает расход «Сосредоточения» во время тренировки -10%."}
 {"id":"game_events_cul_status:86101209383424","en":"Part-Time King","ru":"Король подработок"}
 {"id":"game_events_cul_status:86101209383680","en":"Chiyo's work won her employers' approval, and her pay went up! Yuni earned while traveling +20%.","ru":"Труд Тиё получил признание нанимателей, и её оплата выросла! Получение юни во время странствий +20%."}
-{"id":"game_events_cul_status:86105504350720","en":"A Lesson in Fishing","ru":"Урок рыбалки"}
+{"id":"game_events_cul_status:86105504350720","en":"Angler's Wisdom","ru":"Мудрость рыбака"}
 {"id":"game_events_cul_status:86105504350976","en":"With this tool set, Chiyo can repair what she broke during training herself. Yuni spent during training -50%.","ru":"С этим набором инструментов Тиё сама чинит то, что сломала на тренировке. Расход юни во время тренировки -50%."}
 {"id":"game_events_cul_status:86161338925568","en":"Bargain Charm","ru":"Талисман распродаж"}
 {"id":"game_events_cul_status:86161338925824","en":"The charm did bring Chiyo the luck to save Yuni! Prices at Meimei House -15%.","ru":"Талисман и правда принёс Тиё удачу и сэкономил юни! Цены в «Доме Мэймэй» -15%."}
@@ -245,8 +245,8 @@
 {"id":"game_events_cul_status:86208583565824","en":"Lucky Dice Charm","ru":"Талисман удачного броска"}
 {"id":"game_events_cul_status:86208583566080","en":"The charm brought Chiyo luck. Check results while traveling +1.","ru":"Талисман принёс Тиё удачу. Результаты проверок во время странствий +1."}
 {"id":"game_events_cul_status:86212878533120","en":"A Tale of Repute","ru":"Сказание о доброй славе"}
-{"id":"game_events_cul_status:86212878533376","en":"From the tale of the little Pammies, Chiyo learned that bonds with others bring good rewards. Yuni earned while traveling +25%.","ru":"Из сказания о маленьких памми Тиё узнала, что узы с людьми приносят добрую награду. Получение юни во время странствий +25%."}
-{"id":"game_events_cul_status:86217173500416","en":"Bondweaving Charm","ru":"Талисман плетения уз"}
+{"id":"game_events_cul_status:86212878533376","en":"From the tale of the little Pammies, Chiyo learned that bonds with someone bring good rewards. Yuni earned while traveling +25%.","ru":"Из сказания о маленьких памми Тиё узнала, что узы с кем-то приносят добрую награду. Получение юни во время странствий +25%."}
+{"id":"game_events_cul_status:86217173500416","en":"Bond Charm","ru":"Талисман уз"}
 {"id":"game_events_cul_status:86217173500672","en":"Blessed by the Immortal Fox, Chiyo's bonds with everyone deepened further. Bond Points gain +300%.","ru":"Благословлённая Бессмертной лисой, Тиё ещё сильнее укрепила узы со всеми. Прирост очков связи +300%."}
 {"id":"game_events_cul_status:86221468467712","en":"Focus Charm","ru":"Талисман сосредоточения"}
 {"id":"game_events_cul_status:86221468467968","en":"The charm further steadies Chiyo's mind. Focus recovery effect +20%.","ru":"Талисман ещё больше успокаивает разум Тиё. Эффект восстановления «Сосредоточения» +20%."}
@@ -256,7 +256,7 @@
 {"id":"game_events_cul_status:86230058402560","en":"Watching the play based on this legendary merchant, Chiyo learned a great deal. Eliminates Yuni consumption during training.","ru":"Посмотрев пьесу о легендарном торговце, Тиё многому научилась. Устраняет расход юни во время тренировки."}
 {"id":"game_events_cul_status:86234353369600","en":"Exceptional Technique","ru":"Выдающееся мастерство"}
 {"id":"game_events_cul_status:86234353369856","en":"From this performance based on a legendary adventurer, Chiyo learned a great deal. Eliminates Focus consumption during training.","ru":"Из этого представления о легендарном искателе приключений Тиё многому научилась. Устраняет расход «Сосредоточения» во время тренировки."}
-{"id":"game_events_cul_status:86238648336896","en":"Blazing Luck Charm","ru":"Талисман пылающей удачи"}
+{"id":"game_events_cul_status:86238648336896","en":"Good Fortune Charm","ru":"Талисман удачи"}
 {"id":"game_events_cul_status:86238648337152","en":"The charm grants Chiyo's wish. Check results while traveling +2.","ru":"Талисман исполняет желание Тиё. Результаты проверок во время странствий +2."}
 {"id":"game_events_cul_status:86242943304192","en":"A Tale of Renown","ru":"Сказание о громкой славе"}
 {"id":"game_events_cul_status:86242943304448","en":"Watching the little Pammies' performance, Chiyo learned that bonds with others are rewarded. Yuni earned while traveling +50%.","ru":"Посмотрев представление маленьких памми, Тиё узнала, что узы с людьми вознаграждаются. Получение юни во время странствий +50%."}
@@ -283,7 +283,7 @@
 {"id":"game_events_cul_status:86324547682816","en":"Han Youyou's Bright Idea","ru":"Удачная задумка Хань Юю"}
 {"id":"game_events_cul_status:86324547683072","en":"Han Youyou's assistance. Prices at the Colorful Parade Troupe -15%.","ru":"Помощь Хань Юю. Цены у «Красочной парадной труппы» -15%."}
 {"id":"game_events_cul_status:86328842650112","en":"Komugi's Support","ru":"Поддержка Комуги"}
-{"id":"game_events_cul_status:86328842650368","en":"Epy's assistance. Yuni spent during training -15%.","ru":"Помощь Эпис. Расход юни во время тренировки -15%."}
+{"id":"game_events_cul_status:86328842650368","en":"Komugi's assistance. Yuni spent during training -15%.","ru":"Помощь Комуги. Расход юни во время тренировки -15%."}
 {"id":"game_events_cul_status:86333137617408","en":"Pariri's Blessing","ru":"Благословение Парири"}
 {"id":"game_events_cul_status:86333137617664","en":"Pariri's assistance. Stat gain during Expeditions +30%.","ru":"Помощь Парири. Прирост характеристик во время похода +30%."}
 {"id":"game_events_cul_status:86337432584704","en":"Romimi's Encouragement","ru":"Поддержка Ромими"}
@@ -308,8 +308,8 @@
 {"id":"game_events_cul_status:86376087290624","en":"Karabad's assistance. Stat gain during training increased by an additional +3%.","ru":"Помощь карабада. Прирост характеристик во время тренировки дополнительно увеличен на +3%."}
 {"id":"game_events_cul_status:86380382257664","en":"Leoburnd's Assistance","ru":"Помощь леобёрнда"}
 {"id":"game_events_cul_status:86380382257920","en":"Leoburnd's assistance. Stat gain during Expeditions +10%.","ru":"Помощь леобёрнда. Прирост характеристик во время похода +10%."}
-{"id":"game_events_cul_status:86384677224960","en":"Megalm's Assistance","ru":"Помощь мегальма"}
-{"id":"game_events_cul_status:86384677225216","en":"Megalm's assistance. Stat gain during Expeditions +10%.","ru":"Помощь мегальма. Прирост характеристик во время похода +10%."}
+{"id":"game_events_cul_status:86384677224960","en":"Meowl's Assistance","ru":"Помощь меоульфа"}
+{"id":"game_events_cul_status:86384677225216","en":"Meowl's assistance. Stat gain during Expeditions +10%.","ru":"Помощь меоульфа. Прирост характеристик во время похода +10%."}
 {"id":"game_events_cul_status:86388972192256","en":"Otamit's Cooperation","ru":"Содействие Отамита"}
 {"id":"game_events_cul_status:86388972192512","en":"Otamit's assistance. Focus consumption during training -5%.","ru":"Помощь Отамита. Расход «Сосредоточения» во время тренировки -5%."}
 {"id":"game_events_cul_status:86393267159552","en":"Downybrinny's Assistance","ru":"Помощь Пухобринни"}

@@ -10,8 +10,8 @@
 {"id":"game_events_reward:171842083894592512","en":"Reach Star Knowledge Level 30.","ru":"Достичь Уровня звёздных знаний 30."}
 {"id":"game_events_reward:171842088189559808","en":"Reach Star Knowledge Level 40.","ru":"Достичь Уровня звёздных знаний 40."}
 {"id":"game_events_reward:171842092484527104","en":"Reach Star Knowledge Level 50.","ru":"Достичь Уровня звёздных знаний 50."}
-{"id":"game_events_reward:2577023761064657920","en":"Train 25 times.","ru":"Тренироваться 25 раз."}
-{"id":"game_events_reward:2577023765359625216","en":"Train 100 times.","ru":"Тренироваться 100 раз."}
+{"id":"game_events_reward:2577023761064657920","en":"Cultivate 25 times","ru":"Постигать магию 25 раз"}
+{"id":"game_events_reward:2577023765359625216","en":"Cultivate 100 times","ru":"Постигать магию 100 раз"}
 {"id":"game_events_reward:2577023769654592512","en":"Rest 20 times.","ru":"Отдыхать 20 раз."}
 {"id":"game_events_reward:2577023773949559808","en":"Complete Travel Events 20 times.","ru":"Завершить События странствий 20 раз."}
 {"id":"game_events_reward:2577023778244527104","en":"Complete Travel Events 80 times.","ru":"Завершить События странствий 80 раз."}
@@ -21,9 +21,9 @@
 {"id":"game_events_reward:2577024199151322112","en":"Reach a score of 8,000 in the final exam.","ru":"Набрать 8,000 очков на выпускном экзамене."}
 {"id":"game_events_reward:2577024203446289408","en":"Reach a score of 10,000 in the final exam.","ru":"Набрать 10,000 очков на выпускном экзамене."}
 {"id":"game_events_reward:2577024207741256704","en":"Reach a score of 12,000 in the final exam.","ru":"Набрать 12,000 очков на выпускном экзамене."}
-{"id":"game_events_reward:2577024620058117120","en":"Achieve 1 training ending(s).","ru":"Достичь 1 концовок обучения."}
-{"id":"game_events_reward:2577024624353084416","en":"Achieve 2 training ending(s).","ru":"Достичь 2 концовок обучения."}
-{"id":"game_events_reward:2577024628648051712","en":"Achieve 3 training ending(s).","ru":"Достичь 3 концовок обучения."}
+{"id":"game_events_reward:2577024620058117120","en":"Achieve 1 cultivation endings","ru":"Достичь концовок постижения: 1"}
+{"id":"game_events_reward:2577024624353084416","en":"Achieve 2 cultivation endings","ru":"Достичь концовок постижения: 2"}
+{"id":"game_events_reward:2577024628648051712","en":"Achieve 3 cultivation endings","ru":"Достичь концовок постижения: 3"}
 {"id":"game_events_reward:2577024632943019008","en":"Achieve all training endings.","ru":"Достичь всех концовок обучения."}
 {"id":"game_events_reward:2577066710737617920","en":"Train 25 times.","ru":"Тренироваться 25 раз."}
 {"id":"game_events_reward:2577066715032585216","en":"Train 100 times.","ru":"Тренироваться 100 раз."}

@@ -25,17 +25,14 @@
 {"id":"errorCode:125430224912640","en":"The shop's static conditions are not met (shops do not have dynamic condition type restrictions).","ru":"Статические условия магазина не выполнены (у магазинов нет ограничений по динамическим условиям)."}
 {"id":"errorCode:125434519879936","en":"The item's static conditions are not met.","ru":"Статические условия товара не выполнены."}
 {"id":"errorCode:125438814847232","en":"The item's dynamic conditions are not met.","ru":"Динамические условия товара не выполнены."}
-{"id":"errorCode:125443109814528","en":"Invalid purchase method.","ru":"Неверный способ покупки."}
 {"id":"errorCode:125447404781824","en":"Failed to create the order. Please try again later.","ru":"Не удалось создать заказ. Попробуйте позже."}
 {"id":"errorCode:125451699749120","en":"Too many order creation attempts. Please wait a moment and try again.","ru":"Слишком много попыток создания заказа. Подождите немного и попробуйте снова."}
 {"id":"errorCode:125455994716416","en":"The player suddenly went offline during delivery.","ru":"Игрок внезапно отключился во время доставки."}
-{"id":"errorCode:125460289683712","en":"The purchase conditions for items outside the shop are not met.","ru":"Условия покупки товаров вне магазина не выполнены."}
-{"id":"errorCode:125464584651008","en":"Stock exceeded; replacement items must be distributed.","ru":"Превышен запас; необходимо выдать заменяющие предметы."}
+{"id":"errorCode:125464584651008","en":"An error occurred in the top-up data. An equivalent amount of Star Rainbow has been distributed as compensation.","ru":"Произошла ошибка в данных о пополнении. В качестве компенсации выдано эквивалентное количество Звёздной радуги."}
 {"id":"errorCode:125468879618304","en":"The shop's delivery processing function is not registered.","ru":"Функция обработки доставки магазина не зарегистрирована."}
-{"id":"errorCode:125473174585600","en":"The shop's check function is not registered.","ru":"Проверочная функция магазина не зарегистрирована."}
+{"id":"errorCode:125473174585600","en":"An error occurred in the shop data.","ru":"Произошла ошибка в данных магазина."}
 {"id":"errorCode:125477469552896","en":"Configuration error. Processing was stopped to prevent anomalies.","ru":"Ошибка конфигурации. Обработка остановлена во избежание сбоев."}
 {"id":"errorCode:125481764520192","en":"The purchase limit has been exceeded.","ru":"Превышен лимит покупок."}
-{"id":"errorCode:12884902144","en":"The Kibo you are switching in has run out of stamina.","ru":"У выбранного для смены кибо закончились силы."}
 {"id":"errorCode:128853313847552","en":"Your pickaxe level is insufficient.","ru":"Уровень кирки недостаточен."}
 {"id":"errorCode:129068062212352","en":"The room is full.","ru":"Комната заполнена."}
 {"id":"errorCode:129072357179648","en":"The other player declined the map transfer request. Please wait a moment and try again.","ru":"Другой игрок отклонил запрос на переход по карте. Подождите немного и попробуйте снова."}
@@ -75,19 +72,18 @@
 {"id":"errorCode:257706627694848","en":"The target data was not found.","ru":"Целевые данные не найдены."}
 {"id":"errorCode:257710922662144","en":"Expected only 1 record(s), but multiple were found.","ru":"Ожидалась только 1 запись(-и), но найдено несколько."}
 {"id":"errorCode:257715217629440","en":"Added test script","ru":"Добавлен тестовый скрипт"}
-{"id":"errorCode:257719512596736","en":"The gate session has been lost.","ru":"Сессия шлюза потеряна."}
 {"id":"errorCode:429496729856","en":"Unknown channel.","ru":"Неизвестный канал."}
 {"id":"errorCode:429501024567552","en":"Invalid team state.","ru":"Неверное состояние команды."}
 {"id":"errorCode:429505319534848","en":"The team is changing its objective.","ru":"Команда меняет цель."}
 {"id":"errorCode:429509614502144","en":"The objective change feature is on cooldown. Please wait a moment and try again.","ru":"Функция смены цели на перезарядке. Подождите немного и попробуйте снова."}
-{"id":"errorCode:42953967927552","en":"No character has been created yet (unavailable due to special handling)","ru":"Персонаж ещё не создан (недоступно из-за особых условий)"}
+{"id":"errorCode:42953967927552","en":"No character has been created yet.","ru":"Персонаж ещё не создан."}
 {"id":"errorCode:42958262894848","en":"A character has already been created.","ru":"Персонаж уже создан."}
 {"id":"errorCode:42962557862144","en":"You are not logged in to the game server.","ru":"Вы не вошли на игровой сервер."}
-{"id":"errorCode:42966852829440","en":"Token authentication failed.","ru":"Не удалось пройти аутентификацию токена."}
+{"id":"errorCode:42966852829440","en":"Authentication failed.","ru":"Не удалось пройти аутентификацию."}
 {"id":"errorCode:42971147796736","en":"The player has logged out.","ru":"Игрок вышел из системы."}
 {"id":"errorCode:42975442764032","en":"That name is already in use.","ru":"Это имя уже используется."}
-{"id":"errorCode:42979737731328","en":"The input contains characters that cannot be used.","ru":"Введённый текст содержит недопустимые символы."}
-{"id":"errorCode:42984032698624","en":"The text contains characters that cannot be used.","ru":"Текст содержит недопустимые символы."}
+{"id":"errorCode:42979737731328","en":"The input does not follow the required format.","ru":"Введённые данные не соответствуют требованиям."}
+{"id":"errorCode:42984032698624","en":"The name does not follow the required format.","ru":"Название не соответствует требованиям."}
 {"id":"errorCode:42988327665920","en":"UID:{0}\nYour account has been suspended. If you have questions, please contact customer support.\nSuspension lift date:{1}\nReason for suspension:{2}","ru":"UID:{0}\nВаш аккаунт заблокирован. Если у вас есть вопросы, обратитесь в службу поддержки.\nДата снятия блокировки:{1}\nПричина блокировки:{2}"}
 {"id":"errorCode:42992622633216","en":"Initial data has already been customized.","ru":"Начальные данные уже настроены."}
 {"id":"errorCode:4299262263552","en":"A database system error has occurred.","ru":"Произошла ошибка системы базы данных."}
@@ -131,7 +127,7 @@
 {"id":"errorCode:43151536423168","en":"No dismantle configuration was found for the specified equipment.","ru":"Не найдена конфигурация разбора указанной экипировки."}
 {"id":"errorCode:43155831390464","en":"Equipment score is at maximum.","ru":"Оценка экипировки максимальна."}
 {"id":"errorCode:43160126357760","en":"There is an error in the attribute attunement parameter.","ru":"Ошибка в параметре согласования атрибутов."}
-{"id":"errorCode:43164421325056","en":"The entered text contains characters that cannot be used.","ru":"Введённый текст содержит недопустимые символы."}
+{"id":"errorCode:43164421325056","en":"The entered text does not follow the required format.","ru":"Введённый текст не соответствует требованиям."}
 {"id":"errorCode:4316442132736","en":"The system is extremely busy.","ru":"Система сильно перегружена."}
 {"id":"errorCode:43168716292352","en":"The character count exceeds the limit.","ru":"Количество символов превышает предел."}
 {"id":"errorCode:43173011259648","en":"To rank up an Anima, you need the same Anima ID as the main Anima.","ru":"Для повышения ранга Анимы требуется Анима с тем же ID, что и основная."}
@@ -142,7 +138,7 @@
 {"id":"errorCode:43198781063424","en":"No valid consumption target was specified for leveling up the Anima.","ru":"Не указана действительная цель расходования для повышения уровня Анимы."}
 {"id":"errorCode:43203076030720","en":"Your equipment bag is about to become full. Please organize it before proceeding.","ru":"Сумка для экипировки скоро заполнится. Наведите порядок, прежде чем продолжить."}
 {"id":"errorCode:43207370998016","en":"Your gathering tool bag is about to become full. Please organize it before proceeding.","ru":"Сумка для инструментов сбора скоро заполнится. Наведите порядок, прежде чем продолжить."}
-{"id":"errorCode:4320737100032","en":"A system error has occurred on the GM server.","ru":"На сервере GM произошла системная ошибка."}
+{"id":"errorCode:4320737100032","en":"A system error has occurred on the server.","ru":"На сервере произошла системная ошибка."}
 {"id":"errorCode:43211665965312","en":"Your Kibo Egg bag is about to become full. Please organize it before proceeding.","ru":"Сумка для Яиц кибо скоро заполнится. Наведите порядок, прежде чем продолжить."}
 {"id":"errorCode:43215960932608","en":"You can only hold 1 of this item.","ru":"Можно иметь не более 1 шт. этого предмета."}
 {"id":"errorCode:43220255899904","en":"Data overflow occurred.","ru":"Произошло переполнение данных."}
@@ -165,7 +161,6 @@
 {"id":"errorCode:43456479101184","en":"There is an error in the parameters for using shared items.","ru":"Ошибка в параметрах использования общих предметов."}
 {"id":"errorCode:43460774068480","en":"You have reached the limit for purchasing stamina with Diamonds.","ru":"Достигнут предел покупки выносливости за алмазы."}
 {"id":"errorCode:43465069035776","en":"No items have been selected from the Select Pack.","ru":"Не выбраны предметы из набора выбора."}
-{"id":"errorCode:4346506903808","en":"The database could not be found.","ru":"База данных не найдена."}
 {"id":"errorCode:43469364003072","en":"The Select Pack is empty.","ru":"Набор выбора пуст."}
 {"id":"errorCode:43473658970368","en":"The quantity of items to exchange was not sent.","ru":"Не передано количество предметов для обмена."}
 {"id":"errorCode:43477953937664","en":"The ID of the shared item to use for recovery was not sent.","ru":"Не передан ID общего предмета для восстановления."}
@@ -186,18 +181,17 @@
 {"id":"errorCode:43847321125120","en":"The connection timed out.","ru":"Время ожидания соединения истекло."}
 {"id":"errorCode:43851616092416","en":"System maintenance is complete. Please log in again.","ru":"Техническое обслуживание системы завершено. Войдите снова."}
 {"id":"errorCode:4385161609472","en":"The protocol number does not exist.","ru":"Номер протокола не существует."}
-{"id":"errorCode:43855911059712","en":"The reconnection token is invalid.","ru":"Недействительный токен переподключения."}
+{"id":"errorCode:43855911059712","en":"Unable to restore the previous connection.","ru":"Не удалось восстановить предыдущее подключение."}
 {"id":"errorCode:43860206027008","en":"Login authentication failed. Please log in again.","ru":"Ошибка входа. Войдите снова."}
 {"id":"errorCode:43864500994304","en":"Login authentication timed out.","ru":"Время ожидания аутентификации при входе истекло."}
 {"id":"errorCode:43868795961600","en":"Failed to retrieve the Player ID.","ru":"Не удалось получить ID игрока."}
-{"id":"errorCode:43873090928896","en":"Token authentication failed.","ru":"Не удалось пройти аутентификацию токена."}
-{"id":"errorCode:43877385896192","en":"The authentication token has expired.","ru":"Срок действия токена аутентификации истёк."}
+{"id":"errorCode:43877385896192","en":"Unable to verify login information right now.","ru":"Сейчас невозможно проверить данные для входа."}
 {"id":"errorCode:43881680863488","en":"Failed to check account restrictions.","ru":"Не удалось проверить ограничения аккаунта."}
 {"id":"errorCode:43885975830784","en":"The account restriction information has expired.","ru":"Срок действия информации об ограничениях аккаунта истёк."}
 {"id":"errorCode:43890270798080","en":"The Kibo rental period has expired.","ru":"Срок аренды кибо истёк."}
 {"id":"errorCode:43894565765376","en":"The Kibo has not mutated.","ru":"Кибо не мутировал."}
 {"id":"errorCode:4389456576768","en":"The protocol format is incorrect.","ru":"Неверный формат протокола."}
-{"id":"errorCode:43898860732672","en":"Whitelist verification failed.","ru":"Проверка белого списка не удалась."}
+{"id":"errorCode:43898860732672","en":"Unable to verify entry eligibility right now.","ru":"Сейчас невозможно проверить право на вход."}
 {"id":"errorCode:43903155699968","en":"The message exceeds the character limit.","ru":"Сообщение превышает лимит символов."}
 {"id":"errorCode:43907450667264","en":"The character Partner's Kibo Factor is a fixed Factor and cannot be mutated.","ru":"Фактор кибо персонажа-напарника является фиксированным и не может быть мутирован."}
 {"id":"errorCode:43911745634560","en":"An anomaly was detected on the client. Please verify the integrity of the game files.","ru":"На клиенте обнаружена аномалия. Проверьте целостность игровых файлов."}
@@ -213,7 +207,6 @@
 {"id":"errorCode:44023414784256","en":"The dungeon is unavailable.","ru":"Подземелье недоступно."}
 {"id":"errorCode:4402341478656","en":"Invalid player ID.","ru":"Неверный идентификатор игрока."}
 {"id":"errorCode:44027709751552","en":"The dungeon ID does not exist.","ru":"ID подземелья не существует."}
-{"id":"errorCode:44032004718848","en":"An invalid formation is set.","ru":"Установлен недопустимый состав отряда."}
 {"id":"errorCode:44036299686144","en":"The dungeon is not unlocked.","ru":"Подземелье не разблокировано."}
 {"id":"errorCode:44040594653440","en":"The random dungeon ID does not exist.","ru":"ID случайного подземелья не существует."}
 {"id":"errorCode:44044889620736","en":"You have not cleared the dungeon.","ru":"Подземелье не пройдено."}
@@ -244,12 +237,11 @@
 {"id":"errorCode:44143673868544","en":"Invalid map.","ru":"Недопустимая карта."}
 {"id":"errorCode:44147968835840","en":"You are not currently on a dungeon map.","ru":"Вы сейчас не на карте подземелья."}
 {"id":"errorCode:44152263803136","en":"The current Super Alien Nest stage is invalid, so you cannot enter.","ru":"Текущий этап Сверхчуждого гнезда недопустим, вход невозможен."}
-{"id":"errorCode:4415226380544","en":"The player with the specified ID does not exist.","ru":"Игрок с указанным ID не существует."}
+{"id":"errorCode:4415226380544","en":"The player ID does not exist.","ru":"Игрок с таким ID не существует."}
 {"id":"errorCode:44156558770432","en":"The unlock requirements for the Hyper-Mutated Kibo have not been met.","ru":"Условия разблокировки гипермутировавшего кибо не выполнены."}
 {"id":"errorCode:44160853737728","en":"An error occurred in the summon parameter type.","ru":"Ошибка типа параметра призыва."}
 {"id":"errorCode:44165148705024","en":"An error occurred in the summon logic.","ru":"Ошибка логики призыва."}
 {"id":"errorCode:44169443672320","en":"You have exceeded the summonable quantity.","ru":"Превышено доступное количество призыва."}
-{"id":"errorCode:44173738639616","en":"You have exceeded the summon cost limit.","ru":"Превышен лимит стоимости призыва."}
 {"id":"errorCode:44178033606912","en":"You have exceeded the hand order limit for summoning.","ru":"Превышен лимит порядка карт в руке для призыва."}
 {"id":"errorCode:44182328574208","en":"You have exceeded the target switching limit for summoning.","ru":"Превышен лимит переключения целей для призыва."}
 {"id":"errorCode:44186623541504","en":"You have exceeded the map content state limit.","ru":"Превышен лимит состояния контента карты."}
@@ -266,7 +258,6 @@
 {"id":"errorCode:44229573214464","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
 {"id":"errorCode:44233868181760","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
 {"id":"errorCode:44238163149056","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
-{"id":"errorCode:4423816315136","en":"Invalid target.","ru":"Недопустимая цель."}
 {"id":"errorCode:442381631744","en":"Your access is suspended.","ru":"Доступ приостановлен."}
 {"id":"errorCode:44242458116352","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
 {"id":"errorCode:44246753083648","en":"This feature is not yet unlocked.","ru":"Эта функция ещё не разблокирована."}
@@ -349,7 +340,6 @@
 {"id":"errorCode:44551695761664","en":"The canteen is short on items.","ru":"В столовой не хватает предметов."}
 {"id":"errorCode:44555990728960","en":"The canteen is open for business.","ru":"Столовая работает."}
 {"id":"errorCode:44560285696256","en":"The resident settings could not be found.","ru":"Настройки жителя не найдены."}
-{"id":"errorCode:44564580663552","en":"Population information could not be found.","ru":"Информация о населении не найдена."}
 {"id":"errorCode:44568875630848","en":"Recruitment has not started yet.","ru":"Набор ещё не начался."}
 {"id":"errorCode:44573170598144","en":"Insufficient labor.","ru":"Недостаточно рабочей силы."}
 {"id":"errorCode:44577465565440","en":"The room IDs do not match.","ru":"Идентификаторы комнат не совпадают."}
@@ -361,7 +351,6 @@
 {"id":"errorCode:4462471020800","en":"Decryption failed.","ru":"Не удалось расшифровать данные."}
 {"id":"errorCode:44629005172992","en":"The Farm Level reward has already been collected.","ru":"Награда за уровень фермы уже получена."}
 {"id":"errorCode:44633300140288","en":"The Farm Level settings could not be found.","ru":"Настройки уровня фермы не найдены."}
-{"id":"errorCode:4466765988096","en":"The message sequence number is incorrect.","ru":"Неверный порядковый номер сообщения."}
 {"id":"errorCode:446676599040","en":"The server is under maintenance.","ru":"На сервере проводятся техработы."}
 {"id":"errorCode:44671954845952","en":"The purchase failed.","ru":"Покупка не удалась."}
 {"id":"errorCode:44676249813248","en":"Canteen production failed.","ru":"Производство в столовой не удалось."}
@@ -369,7 +358,6 @@
 {"id":"errorCode:44684839747840","en":"The canteen items do not match.","ru":"Предметы столовой не совпадают."}
 {"id":"errorCode:44689134715136","en":"The canteen settings could not be found.","ru":"Настройки столовой не найдены."}
 {"id":"errorCode:44693429682432","en":"This item cannot be made at the canteen.","ru":"Этот предмет нельзя приготовить в столовой."}
-{"id":"errorCode:44697724649728","en":"The assigned worker is busy.","ru":"Назначенный работник занят."}
 {"id":"errorCode:4471060955392","en":"Platform authentication failed.","ru":"Не удалось пройти аутентификацию на платформе."}
 {"id":"errorCode:44719199486208","en":"Gathering has not started yet.","ru":"Сбор ещё не начался."}
 {"id":"errorCode:44723494453504","en":"The Kibo is already working.","ru":"Кибо уже работает."}
@@ -431,7 +419,7 @@
 {"id":"errorCode:45384919417088","en":"No Field Cabin is placed in this area.","ru":"В этой области не установлена полевая хижина."}
 {"id":"errorCode:45389214384384","en":"The Kibo is already assigned to the hub.","ru":"Кибо уже назначен в центр."}
 {"id":"errorCode:45393509351680","en":"The Kibo is not assigned to the hub.","ru":"Кибо не назначен в центр."}
-{"id":"errorCode:45397804318976","en":"There is an error in the Farm Headquarters position.","ru":"Ошибка в позиции фермерского штаба."}
+{"id":"errorCode:45397804318976","en":"The Farm Headquarters is currently unavailable.","ru":"Фермерский штаб сейчас недоступен."}
 {"id":"errorCode:45402099286272","en":"The Farm Headquarters is full.","ru":"Фермерский штаб заполнен."}
 {"id":"errorCode:45406394253568","en":"Construction parameters for the farm facility are not set.","ru":"Параметры строительства фермерского сооружения не заданы."}
 {"id":"errorCode:45410689220864","en":"Requirements to level up the farm facility are not met.","ru":"Не выполнены условия повышения уровня фермерского сооружения."}
@@ -439,7 +427,6 @@
 {"id":"errorCode:45419279155456","en":"The facility ID for the farm facility's next level was not found.","ru":"Не найден ID сооружения следующего уровня фермерского сооружения."}
 {"id":"errorCode:45423574122752","en":"The farm facility is empty.","ru":"Фермерское сооружение пусто."}
 {"id":"errorCode:45427869090048","en":"There is an error in the production completion parameters of the farm facility.","ru":"Ошибка в параметрах завершения производства фермерского сооружения."}
-{"id":"errorCode:45432164057344","en":"Farm facility not found. There is an error in the GUID parameter.","ru":"Фермерское сооружение не найдено. Ошибка в параметре GUID."}
 {"id":"errorCode:45436459024640","en":"The farm facility's production is not complete yet.","ru":"Производство фермерского сооружения ещё не завершено."}
 {"id":"errorCode:45440753991936","en":"Failed to retrieve the configuration information required for the farm facility's production.","ru":"Не удалось получить данные настроек, необходимые для производства фермерского сооружения."}
 {"id":"errorCode:45445048959232","en":"The farm facility placement limit has been reached; no more can be placed.","ru":"Достигнут предел размещения фермерских сооружений; больше разместить нельзя."}
@@ -459,7 +446,7 @@
 {"id":"errorCode:45509473468672","en":"There is no wishlist.","ru":"Списка желаний нет."}
 {"id":"errorCode:45513768435968","en":"Tracking the wishlist.","ru":"Отслеживание списка желаний."}
 {"id":"errorCode:45518063403264","en":"Wishlist tracking has been canceled.","ru":"Отслеживание списка желаний отменено."}
-{"id":"errorCode:45522358370560","en":"There is an error in the wishlist settings.","ru":"Ошибка в настройках списка желаний."}
+{"id":"errorCode:45522358370560","en":"The wishlist is currently unavailable.","ru":"Список желаний сейчас недоступен."}
 {"id":"errorCode:45526653337856","en":"The dormitory occupancy limit has been reached.","ru":"Достигнут предел заселения в общежитие."}
 {"id":"errorCode:455266533632","en":"Registration limit reached.","ru":"Достигнут лимит регистраций."}
 {"id":"errorCode:45530948305152","en":"The character is in this dormitory.","ru":"Персонаж находится в этом общежитии."}
@@ -469,13 +456,13 @@
 {"id":"errorCode:45543833207040","en":"This action cannot be performed because the character is residing in a dormitory.","ru":"Действие невозможно: персонаж проживает в общежитии."}
 {"id":"errorCode:45548128174336","en":"This facility is not a dormitory, so this action cannot be performed.","ru":"Это сооружение не является общежитием, поэтому действие невозможно."}
 {"id":"errorCode:45552423141632","en":"This furniture is inside the corresponding character's dormitory.","ru":"Эта мебель находится в общежитии соответствующего персонажа."}
-{"id":"errorCode:45556718108928","en":"This furniture is not exclusive to the current player.","ru":"Эта мебель не является личной мебелью текущего игрока."}
+{"id":"errorCode:45556718108928","en":"This furniture cannot be used.","ru":"Эту мебель нельзя использовать."}
 {"id":"errorCode:45561013076224","en":"The dormitory scene settings do not exist.","ru":"Настройки сцены общежития не существуют."}
 {"id":"errorCode:45565308043520","en":"There is an error in the furniture gift parameters.","ru":"Ошибка в параметрах подарка мебели."}
 {"id":"errorCode:45569603010816","en":"There is an error in the bond item gift.","ru":"Ошибка в подарке предмета привязанности."}
 {"id":"errorCode:45573897978112","en":"The furniture settings do not exist.","ru":"Настройки мебели не существуют."}
 {"id":"errorCode:45578192945408","en":"You already own this furniture.","ru":"У вас уже есть эта мебель."}
-{"id":"errorCode:45586782880000","en":"Invalid dormitory number.","ru":"Неверный номер общежития."}
+{"id":"errorCode:45586782880000","en":"This dormitory cannot be used.","ru":"Это общежитие нельзя использовать."}
 {"id":"errorCode:45591077847296","en":"The target character is not in the dormitory specified by the player.","ru":"Целевого персонажа нет в указанном игроком общежитии."}
 {"id":"errorCode:45595372814592","en":"No dormitory has been selected for occupancy.","ru":"Не выбрано общежитие для заселения."}
 {"id":"errorCode:45599667781888","en":"Insufficient dormitory dress-up items.","ru":"Недостаточно предметов для украшения общежития."}
@@ -525,14 +512,12 @@
 {"id":"errorCode:45865955754240","en":"The Player Level does not match.","ru":"Уровень игрока не совпадает."}
 {"id":"errorCode:45870250721536","en":"The Reward type is incorrect.","ru":"Неверный тип награды."}
 {"id":"errorCode:45874545688832","en":"The settings for the selected effect do not exist.","ru":"Настройки выбранного эффекта не существуют."}
-{"id":"errorCode:45878840656128","en":"Invalid currency type.","ru":"Недействительный тип валюты."}
 {"id":"errorCode:45883135623424","en":"The relic quality is incorrect.","ru":"Неверное качество реликвии."}
 {"id":"errorCode:45887430590720","en":"The Reward ID is incorrect.","ru":"Неверный идентификатор награды."}
 {"id":"errorCode:45891725558016","en":"Rewards cannot be claimed individually.","ru":"Награды нельзя получить по отдельности."}
 {"id":"errorCode:45896020525312","en":"The Reward conditions have not been met.","ru":"Условия получения награды не выполнены."}
 {"id":"errorCode:45900315492608","en":"The random event settings are incorrect.","ru":"Неверные настройки случайного события."}
 {"id":"errorCode:45904610459904","en":"An error occurred while running the new random event.","ru":"Произошла ошибка при запуске нового случайного события."}
-{"id":"errorCode:45908905427200","en":"The nextcontenttype type is incorrect.","ru":"Неверный тип nextcontenttype."}
 {"id":"errorCode:45913200394496","en":"You cannot rest in this room.","ru":"В этой комнате нельзя отдохнуть."}
 {"id":"errorCode:45917495361792","en":"Not enough rest resources.","ru":"Недостаточно ресурсов для отдыха."}
 {"id":"errorCode:45921790329088","en":"The character is not in the party.","ru":"Персонаж не входит в отряд."}
@@ -542,7 +527,7 @@
 {"id":"errorCode:459561500928","en":"Players who are minors, please mind your play time and enjoy the game.","ru":"Несовершеннолетние игроки, пожалуйста, следите за временем игры в своё удовольствие."}
 {"id":"errorCode:45960445034752","en":"Already claimed.","ru":"Уже получено."}
 {"id":"errorCode:45964740002048","en":"Mail with unclaimed attached items cannot be deleted.","ru":"Нельзя удалить письмо с неполученными вложениями."}
-{"id":"errorCode:45969034969344","en":"The mail ID is incorrect.","ru":"Неверный идентификатор письма."}
+{"id":"errorCode:45969034969344","en":"This mail is currently unavailable.","ru":"Это письмо сейчас недоступно."}
 {"id":"errorCode:45973329936640","en":"The mail has expired.","ru":"Срок действия письма истёк."}
 {"id":"errorCode:45977624903936","en":"Failed to delete mail in bulk.","ru":"Не удалось удалить письма массово."}
 {"id":"errorCode:45981919871232","en":"The mail is already marked as a favorite.","ru":"Письмо уже добавлено в избранное."}
@@ -553,7 +538,7 @@
 {"id":"errorCode:46003394707712","en":"The mail settings are incorrect.","ru":"Неверные настройки письма."}
 {"id":"errorCode:46007689675008","en":"The mail Reward has already been claimed.","ru":"Награда из письма уже получена."}
 {"id":"errorCode:46011984642304","en":"The mail claim conditions have not been met.","ru":"Условия получения письма не выполнены."}
-{"id":"errorCode:46016279609600","en":"The conditions for the condition-free mail are incorrect.","ru":"Неверные условия для письма без условий."}
+{"id":"errorCode:46016279609600","en":"This mail is currently unavailable.","ru":"Это письмо сейчас недоступно."}
 {"id":"errorCode:46020574576896","en":"Cannot receive Kibo because the Kibo Hut is full.","ru":"Невозможно получить кибо: Хижина кибо заполнена."}
 {"id":"errorCode:46024869544192","en":"The Kibo Hut rename feature has not been unlocked yet.","ru":"Функция переименования Хижины кибо ещё не открыта."}
 {"id":"errorCode:46042049413376","en":"The Star Blessing synthesis settings do not exist.","ru":"Настройки синтеза Звёздного благословения не существуют."}
@@ -570,18 +555,10 @@
 {"id":"errorCode:46209553137920","en":"No color data exists for this part.","ru":"Данные цвета для этой части отсутствуют."}
 {"id":"errorCode:46213848105216","en":"The resource ID for this part does not match.","ru":"Идентификатор ресурса для этой части не совпадает."}
 {"id":"errorCode:46218143072512","en":"The settings for this scenario ID do not exist.","ru":"Настройки для этого идентификатора сценария не существуют."}
-{"id":"errorCode:46261092745472","en":"You already own this troop type.","ru":"Этот тип войск уже имеется."}
-{"id":"errorCode:46265387712768","en":"The prerequisite troop type has not been unlocked yet.","ru":"Предварительный тип войск ещё не открыт."}
 {"id":"errorCode:46269682680064","en":"The unlock quest has not been completed.","ru":"Квест для открытия не выполнен."}
-{"id":"errorCode:46273977647360","en":"The corresponding troop type was not found in your inventory.","ru":"Соответствующий тип войск не найден в инвентаре."}
-{"id":"errorCode:46278272614656","en":"Failed to recruit troops.","ru":"Не удалось набрать войска."}
 {"id":"errorCode:46282567581952","en":"The experience gain is 0.","ru":"Прирост опыта: 0."}
 {"id":"errorCode:46286862549248","en":"Invalid enhancement material.","ru":"Недействительный материал усиления."}
-{"id":"errorCode:46291157516544","en":"This soldier has already been unlocked.","ru":"Этот солдат уже открыт."}
-{"id":"errorCode:46295452483840","en":"The prerequisite troop type ID does not match.","ru":"Идентификатор предварительного типа войск не совпадает."}
-{"id":"errorCode:46299747451136","en":"Duplicate soldier slots.","ru":"Повторяющиеся ячейки солдат."}
-{"id":"errorCode:46304042418432","en":"Failed to deploy the soldier.","ru":"Не удалось отправить солдата в бой."}
-{"id":"errorCode:46308337385728","en":"This product ID does not exist.","ru":"Такой идентификатор товара не существует."}
+{"id":"errorCode:46308337385728","en":"This item is currently unavailable.","ru":"Этот товар сейчас недоступен."}
 {"id":"errorCode:46312632353024","en":"Production has reached its limit.","ru":"Производство достигло предела."}
 {"id":"errorCode:46316927320320","en":"Claim conditions not met (no target / insufficient quantity).","ru":"Условия получения не выполнены (нет цели / недостаточно количества)."}
 {"id":"errorCode:46321222287616","en":"Cancel conditions not met (no target / insufficient quantity).","ru":"Условия отмены не выполнены (нет цели / недостаточно количества)."}
@@ -600,55 +577,49 @@
 {"id":"errorCode:46377056862464","en":"Failed to ascend the character.","ru":"Не удалось провести возвышение персонажа."}
 {"id":"errorCode:46381351829760","en":"Failed to ascend the character.","ru":"Не удалось провести возвышение персонажа."}
 {"id":"errorCode:46385646797056","en":"The character's level has reached the cap.","ru":"Уровень персонажа достиг предела."}
-{"id":"errorCode:463856468224","en":"The session is no longer valid.","ru":"Сеанс больше не действителен."}
 {"id":"errorCode:46389941764352","en":"The character's enhancement materials are insufficient.","ru":"Материалов для усиления персонажа недостаточно."}
-{"id":"errorCode:46394236731648","en":"The character's unit composition plan exceeds the limit.","ru":"План состава отряда персонажа превышает лимит."}
-{"id":"errorCode:46398531698944","en":"The character's Star Blessing settings do not exist.","ru":"Настройки звёздного благословения персонажа отсутствуют."}
-{"id":"errorCode:46402826666240","en":"This character already has a Star Blessing equipped.","ru":"У этого персонажа уже экипировано звёздное благословение."}
-{"id":"errorCode:46407121633536","en":"This character does not need a Star Blessing equipped.","ru":"Этому персонажу не требуется экипировать звёздное благословение."}
-{"id":"errorCode:46411416600832","en":"The Anima purchase limit has been reached.","ru":"Достигнут лимит покупок Анимы."}
+{"id":"errorCode:46394236731648","en":"This set cannot be used right now.","ru":"Сейчас этот набор нельзя использовать."}
+{"id":"errorCode:46398531698944","en":"The character's Star Blessing cannot be Ascended.","ru":"Звёздное благословение персонажа нельзя вознести."}
+{"id":"errorCode:46402826666240","en":"The character's Star Blessing cannot be Ascended.","ru":"Звёздное благословение персонажа нельзя вознести."}
+{"id":"errorCode:46407121633536","en":"The character's Star Blessing Ascension Degree data is invalid.","ru":"Данные степени вознесения звёздного благословения персонажа содержат ошибку."}
 {"id":"errorCode:46415711568128","en":"The purchase feature is not yet unlocked.","ru":"Функция покупки ещё не открыта."}
 {"id":"errorCode:46420006535424","en":"The number of purchases is limited.","ru":"Количество покупок ограничено."}
-{"id":"errorCode:46424301502720","en":"The character's Star Blessing ID is incorrect.","ru":"Неверный ID звёздного благословения персонажа."}
+{"id":"errorCode:46424301502720","en":"The character's Star Blessing grant data is invalid.","ru":"Данные выдачи звёздного благословения персонажа содержат ошибку."}
 {"id":"errorCode:46428596470016","en":"Kibo enhancement items are insufficient.","ru":"Предметов для усиления кибо недостаточно."}
 {"id":"errorCode:46432891437312","en":"The Kibo does not exist.","ru":"Кибо отсутствует."}
-{"id":"errorCode:46437186404608","en":"The Egg does not exist.","ru":"Яйцо отсутствует."}
-{"id":"errorCode:46441481371904","en":"The Egg is not incubating.","ru":"Яйцо не инкубируется."}
-{"id":"errorCode:46445776339200","en":"The Egg is currently incubating.","ru":"Яйцо в данный момент инкубируется."}
+{"id":"errorCode:46437186404608","en":"The Kibo Egg data is invalid.","ru":"Данные яйца кибо содержат ошибку."}
+{"id":"errorCode:46441481371904","en":"The Kibo Egg hatching data is invalid.","ru":"Данные инкубации яйца кибо содержат ошибку."}
+{"id":"errorCode:46445776339200","en":"The Kibo Egg is incubating.","ru":"Яйцо кибо инкубируется."}
 {"id":"errorCode:46450071306496","en":"The incubator does not exist.","ru":"Инкубатор отсутствует."}
 {"id":"errorCode:46454366273792","en":"The incubator is in operation.","ru":"Инкубатор работает."}
-{"id":"errorCode:46458661241088","en":"The Egg settings do not exist.","ru":"Настройки яйца отсутствуют."}
+{"id":"errorCode:46458661241088","en":"The Kibo Egg data is invalid.","ru":"Данные яйца кибо содержат ошибку."}
 {"id":"errorCode:46462956208384","en":"The incubator is not currently in operation.","ru":"Инкубатор в данный момент не работает."}
 {"id":"errorCode:46467251175680","en":"Incubation is not complete.","ru":"Инкубация не завершена."}
 {"id":"errorCode:46471546142976","en":"The Kibo is deployed.","ru":"Кибо отправлен на задание."}
 {"id":"errorCode:46475841110272","en":"The Kibo's stamina is full.","ru":"Выносливость кибо достигла максимума."}
 {"id":"errorCode:46480136077568","en":"Kibo are insufficient.","ru":"Кибо недостаточно."}
 {"id":"errorCode:46484431044864","en":"The Kibo Hut is full, so Starlink cannot be performed.","ru":"Хижина кибо переполнена, поэтому звёздную связь провести нельзя."}
-{"id":"errorCode:46488726012160","en":"Failed to add the Gene.","ru":"Не удалось добавить ген."}
+{"id":"errorCode:46488726012160","en":"The Kibo Factor mutation data is invalid.","ru":"Данные мутации фактора кибо содержат ошибку."}
 {"id":"errorCode:46493020979456","en":"Failed to add to the incubator.","ru":"Не удалось поместить в инкубатор."}
 {"id":"errorCode:46497315946752","en":"The Kibo's stamina is insufficient.","ru":"Выносливости кибо недостаточно."}
-{"id":"errorCode:46501610914048","en":"Not enough Gene recombination attempts remaining.","ru":"Недостаточно попыток рекомбинации генов."}
-{"id":"errorCode:46505905881344","en":"The Gene recombination limit has been reached.","ru":"Достигнут лимит рекомбинации генов."}
+{"id":"errorCode:46505905881344","en":"The Kibo Hut is full.","ru":"Хижина кибо переполнена."}
 {"id":"errorCode:46510200848640","en":"Duplicate Kibo lock operation.","ru":"Повторная операция блокировки кибо."}
 {"id":"errorCode:46514495815936","en":"This Kibo is already locked.","ru":"Этот кибо уже заблокирован."}
-{"id":"errorCode:46518790783232","en":"The Gene settings could not be found.","ru":"Настройки гена не найдены."}
-{"id":"errorCode:46523085750528","en":"The relevant Gene count has reached the limit.","ru":"Количество соответствующих генов достигло предела."}
+{"id":"errorCode:46523085750528","en":"The Kibo data is invalid.","ru":"Данные кибо содержат ошибку."}
 {"id":"errorCode:46527380717824","en":"Failed to add the Kibo.","ru":"Не удалось добавить кибо."}
-{"id":"errorCode:46531675685120","en":"No Kibo rentals remaining from friends.","ru":"Не осталось аренд кибо у друзей."}
-{"id":"errorCode:46535970652416","en":"The Kibo has no learning ability.","ru":"У кибо нет способности к обучению."}
-{"id":"errorCode:46540265619712","en":"The Kibo's configuration parameters are invalid.","ru":"Параметры конфигурации кибо недействительны."}
+{"id":"errorCode:46535970652416","en":"This learning ability cannot be used right now.","ru":"Эту способность к обучению сейчас нельзя использовать."}
+{"id":"errorCode:46540265619712","en":"The Kibo Hut is full.","ru":"Хижина кибо переполнена."}
 {"id":"errorCode:46544560587008","en":"Activity points are insufficient.","ru":"Очков активности недостаточно."}
 {"id":"errorCode:46548855554304","en":"The activity rewards have already been claimed.","ru":"Награды за активность уже получены."}
 {"id":"errorCode:46553150521600","en":"No incubator uses remaining.","ru":"Не осталось использований инкубатора."}
 {"id":"errorCode:46557445488896","en":"Failed to rank up the Kibo.","ru":"Не удалось повысить ранг кибо."}
-{"id":"errorCode:46561740456192","en":"The Egg is locked.","ru":"Яйцо заблокировано."}
+{"id":"errorCode:46561740456192","en":"The Kibo Egg is locked.","ru":"Яйцо кибо заблокировано."}
 {"id":"errorCode:46566035423488","en":"The activity reward type is incorrect.","ru":"Неверный тип награды за активность."}
 {"id":"errorCode:46570330390784","en":"The Kibo settings do not exist.","ru":"Настройки кибо отсутствуют."}
 {"id":"errorCode:46574625358080","en":"This Kibo has no next stage.","ru":"У этого кибо нет следующего этапа."}
 {"id":"errorCode:46578920325376","en":"The Kibo has not reached the required level for ascension.","ru":"Кибо не достиг необходимого уровня для возвышения."}
 {"id":"errorCode:46583215292672","en":"No Kibo to delete was sent.","ru":"Не передан кибо для удаления."}
 {"id":"errorCode:46587510259968","en":"No Kibo Egg to delete was sent.","ru":"Не передано яйцо кибо для удаления."}
-{"id":"errorCode:46591805227264","en":"The submitted item is not an auxiliary item that can speed up Kibo Egg incubation.","ru":"Отправленный предмет не является вспомогательным предметом для ускоренной инкубации яйца кибо."}
 {"id":"errorCode:46596100194560","en":"This Kibo configuration cannot be used in combat.","ru":"Эту конфигурацию кибо нельзя использовать в бою."}
 {"id":"errorCode:46600395161856","en":"This Kibo configuration cannot be mounted.","ru":"На эту конфигурацию кибо нельзя сесть верхом."}
 {"id":"errorCode:46604690129152","en":"You cannot add yourself as a friend.","ru":"Нельзя добавить себя в друзья."}
@@ -666,7 +637,6 @@
 {"id":"errorCode:46656229736704","en":"The number of open chat windows has reached the limit.","ru":"Количество открытых окон чата достигло предела."}
 {"id":"errorCode:46660524704000","en":"The other player is not your friend.","ru":"Другой игрок не является вашим другом."}
 {"id":"errorCode:46664819671296","en":"The message could not be sent because it contains content that violates the guidelines.","ru":"Сообщение не удалось отправить, так как оно содержит нарушающий правила контент."}
-{"id":"errorCode:46669114638592","en":"The message is being sent.","ru":"Сообщение отправляется."}
 {"id":"errorCode:46673409605888","en":"The submitted content is empty.","ru":"Отправленное содержимое пусто."}
 {"id":"errorCode:46677704573184","en":"You have blocked this user's chat.","ru":"Вы заблокировали чат этого пользователя."}
 {"id":"errorCode:46681999540480","en":"The chat cooldown has not finished.","ru":"Время восстановления чата ещё не истекло."}
@@ -691,59 +661,19 @@
 {"id":"errorCode:46763603919104","en":"You cannot change your name again so soon.","ru":"Имя нельзя изменить повторно в течение определённого времени."}
 {"id":"errorCode:46767898886400","en":"Birthday cannot be changed.","ru":"Дату рождения изменить нельзя."}
 {"id":"errorCode:46772193853696","en":"Birthday data is invalid.","ru":"Данные о дате рождения недействительны."}
-{"id":"errorCode:46776488820992","en":"Character display data is invalid.","ru":"Данные отображения персонажа недействительны."}
+{"id":"errorCode:46776488820992","en":"The selected character cannot be displayed right now.","ru":"Выбранного персонажа сейчас нельзя показать."}
 {"id":"errorCode:46780783788288","en":"This is the same kibo, so their positions cannot be swapped.","ru":"Это одно и то же кибо, поэтому поменять их местами нельзя."}
 {"id":"errorCode:46785078755584","en":"Kibo job types do not match.","ru":"Типы работы кибо не совпадают."}
 {"id":"errorCode:46789373722880","en":"No food settings exist.","ru":"Настройки еды отсутствуют."}
 {"id":"errorCode:46793668690176","en":"No enhancement materials for the kibo were specified.","ru":"Не указаны материалы для усиления кибо."}
-{"id":"errorCode:46797963657472","en":"The ID of the kibo enhancement material is incorrect.","ru":"ID материала для усиления кибо указан неверно."}
-{"id":"errorCode:46802258624768","en":"The materials required to enhance the kibo's intellect were not specified.","ru":"Не указаны материалы, необходимые для усиления интеллекта кибо."}
-{"id":"errorCode:46806553592064","en":"The ID of the material for enhancing the kibo's intellect is incorrect.","ru":"ID материала для усиления интеллекта кибо указан неверно."}
-{"id":"errorCode:46810848559360","en":"This kibo has no intellect.","ru":"У этого кибо нет интеллекта."}
-{"id":"errorCode:46815143526656","en":"This feature is not yet unlocked (error code: 10900).","ru":"Эта функция ещё не разблокирована (код ошибки: 10900)."}
+{"id":"errorCode:46797963657472","en":"This material cannot be used to enhance Kibo.","ru":"Этот материал нельзя использовать для усиления кибо."}
+{"id":"errorCode:46802258624768","en":"The Kibo Potential data is invalid.","ru":"Данные потенциала кибо содержат ошибку."}
+{"id":"errorCode:46806553592064","en":"The Kibo Potential data is invalid.","ru":"Данные потенциала кибо содержат ошибку."}
+{"id":"errorCode:46810848559360","en":"The Kibo Potential data is invalid.","ru":"Данные потенциала кибо содержат ошибку."}
 {"id":"errorCode:468151435520","en":"Failed to parse the platform response error.","ru":"Не удалось разобрать ошибку ответа платформы."}
-{"id":"errorCode:46819438493952","en":"This feature is not yet unlocked (error code: 10901).","ru":"Эта функция ещё не разблокирована (код ошибки: 10901)."}
-{"id":"errorCode:46823733461248","en":"This feature is not yet unlocked (error code: 10902).","ru":"Эта функция ещё не разблокирована (код ошибки: 10902)."}
-{"id":"errorCode:46828028428544","en":"This feature is not yet unlocked (error code: 10903).","ru":"Эта функция ещё не разблокирована (код ошибки: 10903)."}
-{"id":"errorCode:46832323395840","en":"This feature is not yet unlocked (error code: 10904).","ru":"Эта функция ещё не разблокирована (код ошибки: 10904)."}
-{"id":"errorCode:46836618363136","en":"This feature is not yet unlocked (error code: 10905).","ru":"Эта функция ещё не разблокирована (код ошибки: 10905)."}
-{"id":"errorCode:46840913330432","en":"This feature is not yet unlocked (error code: 10906).","ru":"Эта функция ещё не разблокирована (код ошибки: 10906)."}
-{"id":"errorCode:46845208297728","en":"This feature is not yet unlocked (error code: 10907).","ru":"Эта функция ещё не разблокирована (код ошибки: 10907)."}
-{"id":"errorCode:46849503265024","en":"This feature is not yet unlocked (error code: 10908).","ru":"Эта функция ещё не разблокирована (код ошибки: 10908)."}
-{"id":"errorCode:46853798232320","en":"This feature is not yet unlocked (error code: 10909).","ru":"Эта функция ещё не разблокирована (код ошибки: 10909)."}
-{"id":"errorCode:46858093199616","en":"This feature is not yet unlocked (error code: 10910).","ru":"Эта функция ещё не разблокирована (код ошибки: 10910)."}
-{"id":"errorCode:46862388166912","en":"This feature is not yet unlocked (error code: 10911).","ru":"Эта функция ещё не разблокирована (код ошибки: 10911)."}
-{"id":"errorCode:46866683134208","en":"This feature is not yet unlocked (error code: 10912).","ru":"Эта функция ещё не разблокирована (код ошибки: 10912)."}
-{"id":"errorCode:46870978101504","en":"This feature is not yet unlocked (error code: 10913).","ru":"Эта функция ещё не разблокирована (код ошибки: 10913)."}
-{"id":"errorCode:46875273068800","en":"This feature is not yet unlocked (error code: 10914).","ru":"Эта функция ещё не разблокирована (код ошибки: 10914)."}
-{"id":"errorCode:46879568036096","en":"This feature is not yet unlocked (error code: 10915).","ru":"Эта функция ещё не разблокирована (код ошибки: 10915)."}
-{"id":"errorCode:46883863003392","en":"This feature is not yet unlocked (error code: 10916).","ru":"Эта функция ещё не разблокирована (код ошибки: 10916)."}
-{"id":"errorCode:46888157970688","en":"This feature is not yet unlocked (error code: 10917).","ru":"Эта функция ещё не разблокирована (код ошибки: 10917)."}
-{"id":"errorCode:46892452937984","en":"This feature is not yet unlocked (error code: 10918).","ru":"Эта функция ещё не разблокирована (код ошибки: 10918)."}
-{"id":"errorCode:46896747905280","en":"This feature is not yet unlocked (error code: 10919).","ru":"Эта функция ещё не разблокирована (код ошибки: 10919)."}
-{"id":"errorCode:46901042872576","en":"This feature is not yet unlocked (error code: 10920).","ru":"Эта функция ещё не разблокирована (код ошибки: 10920)."}
-{"id":"errorCode:46905337839872","en":"This feature is not yet unlocked (error code: 10921).","ru":"Эта функция ещё не разблокирована (код ошибки: 10921)."}
-{"id":"errorCode:46909632807168","en":"This feature is not yet unlocked (error code: 10922).","ru":"Эта функция ещё не разблокирована (код ошибки: 10922)."}
-{"id":"errorCode:46913927774464","en":"This feature is not yet unlocked (error code: 10923).","ru":"Эта функция ещё не разблокирована (код ошибки: 10923)."}
-{"id":"errorCode:46918222741760","en":"This feature is not yet unlocked (error code: 10924).","ru":"Эта функция ещё не разблокирована (код ошибки: 10924)."}
-{"id":"errorCode:46922517709056","en":"This feature is not yet unlocked (error code: 10925).","ru":"Эта функция ещё не разблокирована (код ошибки: 10925)."}
-{"id":"errorCode:46926812676352","en":"This feature is not yet unlocked (error code: 10926).","ru":"Эта функция ещё не разблокирована (код ошибки: 10926)."}
-{"id":"errorCode:46931107643648","en":"This feature is not yet unlocked (error code: 10927).","ru":"Эта функция ещё не разблокирована (код ошибки: 10927)."}
-{"id":"errorCode:46935402610944","en":"This feature is not yet unlocked (error code: 10928).","ru":"Эта функция ещё не разблокирована (код ошибки: 10928)."}
-{"id":"errorCode:46939697578240","en":"This feature is not yet unlocked (error code: 10929).","ru":"Эта функция ещё не разблокирована (код ошибки: 10929)."}
-{"id":"errorCode:46943992545536","en":"This feature is not yet unlocked (error code: 10930).","ru":"Эта функция ещё не разблокирована (код ошибки: 10930)."}
-{"id":"errorCode:46948287512832","en":"This feature is not yet unlocked (error code: 10931).","ru":"Эта функция ещё не разблокирована (код ошибки: 10931)."}
-{"id":"errorCode:46952582480128","en":"This feature is not yet unlocked (error code: 10932).","ru":"Эта функция ещё не разблокирована (код ошибки: 10932)."}
-{"id":"errorCode:46956877447424","en":"This feature is not yet unlocked (error code: 10933).","ru":"Эта функция ещё не разблокирована (код ошибки: 10933)."}
-{"id":"errorCode:46961172414720","en":"This feature is not yet unlocked (error code: 10934).","ru":"Эта функция ещё не разблокирована (код ошибки: 10934)."}
-{"id":"errorCode:46965467382016","en":"This feature is not yet unlocked (error code: 10935).","ru":"Эта функция ещё не разблокирована (код ошибки: 10935)."}
-{"id":"errorCode:46969762349312","en":"This feature is not yet unlocked (error code: 10936).","ru":"Эта функция ещё не разблокирована (код ошибки: 10936)."}
-{"id":"errorCode:46974057316608","en":"This feature is not yet unlocked (error code: 10937).","ru":"Эта функция ещё не разблокирована (код ошибки: 10937)."}
-{"id":"errorCode:46978352283904","en":"This feature is not yet unlocked (error code: 10938).","ru":"Эта функция ещё не разблокирована (код ошибки: 10938)."}
-{"id":"errorCode:46986942218496","en":"The parameters for the character gift are incorrect.","ru":"Параметры подарка персонажу указаны неверно."}
-{"id":"errorCode:46991237185792","en":"You have reached the limit for character gifts.","ru":"Достигнут предел подарков персонажу."}
+{"id":"errorCode:46991237185792","en":"The limit for gifts to characters has been reached.","ru":"Достигнут предел подарков персонажам."}
 {"id":"errorCode:46995532153088","en":"The character gift feature is not yet unlocked.","ru":"Функция подарков персонажу ещё не разблокирована."}
-{"id":"errorCode:46999827120384","en":"The character Tuning feature is not yet unlocked.","ru":"Функция настройки персонажа ещё не разблокирована."}
+{"id":"errorCode:46999827120384","en":"The Tuning feature is not yet unlocked.","ru":"Функция настройки ещё не разблокирована."}
 {"id":"errorCode:47115791237376","en":"Repeatable stages are not yet unlocked.","ru":"Повторяемые этапы ещё не разблокированы."}
 {"id":"errorCode:47120086204672","en":"Repeatable stages have no limit of 1 attempts per day.","ru":"У повторяемых этапов нет ограничения в 1 попыток в день."}
 {"id":"errorCode:47124381171968","en":"The mode for the repeatable stage is incorrect.","ru":"Режим повторяемого этапа указан неверно."}
@@ -762,34 +692,27 @@
 {"id":"errorCode:47188805681408","en":"Trial team formation data has been updated. Please refrain from repeated requests.","ru":"Данные состава пробной команды обновлены. Пожалуйста, не отправляйте повторные запросы."}
 {"id":"errorCode:472446402816","en":"Server maintenance in progress.","ru":"Идёт техническое обслуживание сервера."}
 {"id":"errorCode:51543902519552","en":"The warp point is not yet unlocked.","ru":"Точка перемещения ещё не разблокирована."}
-{"id":"errorCode:51548197486848","en":"The key point settings for the kibo object are empty.","ru":"Настройки ключевых точек объекта кибо пусты."}
-{"id":"errorCode:51552492454144","en":"There are no options for the key points of the kibo object.","ru":"Для ключевых точек объекта кибо нет вариантов."}
 {"id":"errorCode:51556787421440","en":"Changing the feeding state of the kibo object is invalid.","ru":"Изменение состояния кормления объекта кибо недопустимо."}
 {"id":"errorCode:51561082388736","en":"The kibo object does not exist.","ru":"Объект кибо не существует."}
 {"id":"errorCode:51565377356032","en":"The kibo object is already complete.","ru":"Объект кибо уже завершён."}
 {"id":"errorCode:51569672323328","en":"The kibo object has not been initialized.","ru":"Объект кибо не инициализирован."}
-{"id":"errorCode:51573967290624","en":"The food for the kibo object is invalid.","ru":"Еда для объекта кибо недействительна."}
-{"id":"errorCode:51578262257920","en":"The number of food items set for the kibo object exceeds 1.","ru":"Количество еды, заданное для объекта кибо, превышает 1."}
 {"id":"errorCode:51582557225216","en":"Failed to move to the scene.","ru":"Не удалось перейти на сцену."}
 {"id":"errorCode:51586852192512","en":"The resource point ID is invalid.","ru":"ID ресурсной точки недействителен."}
 {"id":"errorCode:51591147159808","en":"The character is within the resource point.","ru":"Персонаж находится внутри ресурсной точки."}
 {"id":"errorCode:51595442127104","en":"The invitation was declined.","ru":"Приглашение отклонено."}
 {"id":"errorCode:51599737094400","en":"The invited player has left the channel.","ru":"Приглашённый игрок покинул канал."}
-{"id":"errorCode:51604032061696","en":"That player cannot be invited because they are in a multiplayer action.","ru":"Этого игрока нельзя пригласить, так как он участвует в сетевом действии."}
 {"id":"errorCode:51608327028992","en":"You are moving to the map.","ru":"Выполняется переход на карту."}
 {"id":"errorCode:51612621996288","en":"Failed to claim the exploration reward.","ru":"Не удалось получить награду за исследование."}
 {"id":"errorCode:51616916963584","en":"The number of stage map markers has reached the limit.","ru":"Достигнут предел числа меток этапов на карте."}
-{"id":"errorCode:51621211930880","en":"The map marker description is incorrect.","ru":"Описание метки на карте указано неверно."}
-{"id":"errorCode:51625506898176","en":"No object settings exist (the trigger may not be set).","ru":"Настройки объекта отсутствуют (возможно, триггер не задан)."}
+{"id":"errorCode:51621211930880","en":"The map marker description contains unsupported content. Please revise it.","ru":"Описание метки на карте содержит неподдерживаемые данные. Исправьте его."}
+{"id":"errorCode:51625506898176","en":"This map action cannot be completed right now.","ru":"Сейчас это действие на карте невозможно завершить."}
 {"id":"errorCode:51629801865472","en":"The object does not exist.","ru":"Объект не существует."}
-{"id":"errorCode:51634096832768","en":"No trigger settings.","ru":"Настройки триггера отсутствуют."}
-{"id":"errorCode:51638391800064","en":"The trigger type does not match.","ru":"Тип триггера не совпадает."}
+{"id":"errorCode:51634096832768","en":"This location is currently unavailable.","ru":"Это место сейчас недоступно."}
 {"id":"errorCode:51642686767360","en":"There is no combat object.","ru":"Боевой объект отсутствует."}
 {"id":"errorCode:51646981734656","en":"The combat object's level is 0.","ru":"Уровень боевого объекта: 0."}
 {"id":"errorCode:51651276701952","en":"The map marker description exceeds the character limit.","ru":"Описание метки на карте превышает ограничение по символам."}
 {"id":"errorCode:51655571669248","en":"This channel has reached its participant limit.","ru":"Число участников этого канала достигло предела."}
-{"id":"errorCode:51659866636544","en":"No stamina treasure chest settings exist.","ru":"Настройки сундука с сокровищами за выносливость отсутствуют."}
-{"id":"errorCode:51664161603840","en":"The stamina treasure chest claim count is limited.","ru":"Количество получений сундука с сокровищами за выносливость ограничено."}
+{"id":"errorCode:51659866636544","en":"This stamina treasure chest cannot be claimed right now.","ru":"Сейчас этот сундук с сокровищами за выносливость нельзя получить."}
 {"id":"errorCode:51668456571136","en":"Player map information not found.","ru":"Информация о карте игрока не найдена."}
 {"id":"errorCode:51672751538432","en":"Invalid map spawn point.","ru":"Недопустимая точка появления на карте."}
 {"id":"errorCode:51677046505728","en":"Not in the same scene.","ru":"Вы не в одной сцене."}
@@ -797,32 +720,31 @@
 {"id":"errorCode:51685636440320","en":"This object is not a combat type.","ru":"Этот объект не относится к боевому типу."}
 {"id":"errorCode:51689931407616","en":"Object data does not exist.","ru":"Данные объекта отсутствуют."}
 {"id":"errorCode:51694226374912","en":"The object is already complete.","ru":"Объект уже завершён."}
-{"id":"errorCode:51698521342208","en":"There is an error in the random group.","ru":"Ошибка в случайной группе."}
+{"id":"errorCode:51698521342208","en":"This interaction is temporarily unavailable.","ru":"Сейчас это взаимодействие временно недоступно."}
 {"id":"errorCode:51702816309504","en":"No random group settings exist.","ru":"Настройки случайной группы отсутствуют."}
 {"id":"errorCode:51707111276800","en":"No monster settings exist.","ru":"Настройки монстров отсутствуют."}
 {"id":"errorCode:51711406244096","en":"No monster settings exist.","ru":"Настройки монстров отсутствуют."}
 {"id":"errorCode:51715701211392","en":"No monster settings exist.","ru":"Настройки монстров отсутствуют."}
-{"id":"errorCode:51719996178688","en":"The groups do not match.","ru":"Группы не совпадают."}
 {"id":"errorCode:51724291145984","en":"This object type cannot be discovered.","ru":"Объекты этого типа нельзя обнаружить."}
-{"id":"errorCode:51728586113280","en":"The elevator floor has not changed.","ru":"Этаж лифта не изменился."}
+{"id":"errorCode:51728586113280","en":"Too many actions. Please try again later.","ru":"Слишком частые действия."}
 {"id":"errorCode:51732881080576","en":"No general repair settings exist.","ru":"Общие настройки восстановления отсутствуют."}
 {"id":"errorCode:51737176047872","en":"The general repair settings do not match.","ru":"Общие настройки восстановления не совпадают."}
 {"id":"errorCode:51741471015168","en":"Already repaired.","ru":"Уже восстановлено."}
-{"id":"errorCode:51745765982464","en":"Invalid stamina treasure chest multiplier.","ru":"Недопустимый множитель сундука с сокровищами за выносливость."}
-{"id":"errorCode:51750060949760","en":"The stamina treasure chest does not exist.","ru":"Сундук с сокровищами за выносливость не существует."}
-{"id":"errorCode:51754355917056","en":"The stamina treasure chest has expired.","ru":"Срок действия сундука с сокровищами за выносливость истёк."}
-{"id":"errorCode:51758650884352","en":"There is an error in the stamina treasure chest claim method settings.","ru":"Ошибка в настройках способа получения сундука с сокровищами за выносливость."}
-{"id":"errorCode:51762945851648","en":"The stamina treasure chest's 1 daily claim limit has been reached.","ru":"Достигнут предел получений сундука с сокровищами за выносливость: 1 в день."}
-{"id":"errorCode:51767240818944","en":"The stamina treasure chest's weekly claim limit has been reached.","ru":"Достигнут недельный предел получений сундука с сокровищами за выносливость."}
-{"id":"errorCode:51771535786240","en":"Not enough stamina.","ru":"Недостаточно выносливости."}
+{"id":"errorCode:51745765982464","en":"This treasure chest cannot be claimed at the current multiplier.","ru":"При текущем множителе этот сундук с сокровищами нельзя получить."}
+{"id":"errorCode:51750060949760","en":"This treasure chest cannot be claimed right now.","ru":"Сейчас этот сундук с сокровищами нельзя получить."}
+{"id":"errorCode:51754355917056","en":"This treasure chest cannot be claimed right now.","ru":"Сейчас этот сундук с сокровищами нельзя получить."}
+{"id":"errorCode:51758650884352","en":"This treasure chest cannot be claimed right now.","ru":"Сейчас этот сундук с сокровищами нельзя получить."}
+{"id":"errorCode:51762945851648","en":"1The daily claim limit has been reached.","ru":"1Достигнут предел ежедневных получений."}
+{"id":"errorCode:51767240818944","en":"You've reached the weekly claim limit.","ru":"Достигнут недельный предел получений."}
+{"id":"errorCode:51771535786240","en":"Not enough Primordial Tide.","ru":"Недостаточно Первозданного прилива."}
 {"id":"errorCode:51775830753536","en":"This map has not been explored yet.","ru":"Эта карта ещё не исследована."}
-{"id":"errorCode:51780125720832","en":"No stamina treasure chest drop settings exist.","ru":"Настройки выпадения сундука с сокровищами за выносливость отсутствуют."}
-{"id":"errorCode:51784420688128","en":"The stamina treasure chest claim settings exceed the limit.","ru":"Настройки получения сундука с сокровищами за выносливость превышают предел."}
-{"id":"errorCode:51788715655424","en":"The stamina treasure chest claim method is not set.","ru":"Способ получения сундука с сокровищами за выносливость не задан."}
+{"id":"errorCode:51780125720832","en":"You can't claim this treasure chest right now.","ru":"Сейчас этот сундук с сокровищами получить нельзя."}
+{"id":"errorCode:51784420688128","en":"You can't claim this treasure chest right now.","ru":"Сейчас этот сундук с сокровищами получить нельзя."}
+{"id":"errorCode:51788715655424","en":"You can't claim this treasure chest right now.","ru":"Сейчас этот сундук с сокровищами получить нельзя."}
 {"id":"errorCode:51793010622720","en":"You are not on the map.","ru":"Вы не на карте."}
 {"id":"errorCode:51797305590016","en":"Invalid object.","ru":"Недопустимый объект."}
-{"id":"errorCode:51801600557312","en":"Invalid object Spawner settings.","ru":"Недопустимые настройки спавнера объектов."}
-{"id":"errorCode:51805895524608","en":"There is an error in the Spawner settings type.","ru":"Ошибка в типе настроек спавнера."}
+{"id":"errorCode:51801600557312","en":"This interactable is currently unavailable.","ru":"Этот объект взаимодействия сейчас недоступен."}
+{"id":"errorCode:51805895524608","en":"This interactable is currently unavailable.","ru":"Этот объект взаимодействия сейчас недоступен."}
 {"id":"errorCode:51810190491904","en":"You are inside the area.","ru":"Вы внутри области."}
 {"id":"errorCode:51814485459200","en":"You are outside the area.","ru":"Вы за пределами области."}
 {"id":"errorCode:51818780426496","en":"There is an error in the parameters.","ru":"Ошибка в параметрах."}
@@ -838,7 +760,7 @@
 {"id":"errorCode:55843164782848","en":"The quest is not complete.","ru":"Задание не выполнено."}
 {"id":"errorCode:55847459750144","en":"The quest prerequisites have not been met.","ru":"Условия задания не выполнены."}
 {"id":"errorCode:55851754717440","en":"No settings exist for the relevant quest.","ru":"Настройки для соответствующего задания отсутствуют."}
-{"id":"errorCode:55856049684736","en":"You have not accepted this quest.","ru":"Вы не приняли это задание."}
+{"id":"errorCode:55856049684736","en":"Related quest not found.","ru":"Связанное задание не найдено."}
 {"id":"errorCode:55860344652032","en":"No quest item settings exist.","ru":"Настройки предмета задания отсутствуют."}
 {"id":"errorCode:55864639619328","en":"There is an error in the quest item type.","ru":"Ошибка в типе предмета задания."}
 {"id":"errorCode:55868934586624","en":"The quest progress point does not exist.","ru":"Точка прогресса задания не существует."}
@@ -856,7 +778,6 @@
 {"id":"errorCode:55920474194176","en":"The item is not in the bag.","ru":"В сумке нет этого предмета."}
 {"id":"errorCode:55963423867136","en":"Cannot accept: there is no friend request from that player.","ru":"Невозможно принять: нет заявки в друзья от этого игрока."}
 {"id":"errorCode:55967718834432","en":"The relevant chat session does not exist.","ru":"Соответствующий сеанс чата не существует."}
-{"id":"errorCode:60129542144256","en":"Fish ID not found.","ru":"Идентификатор рыбы не найден."}
 {"id":"errorCode:60133837111552","en":"Invalid fishing rod and bait IDs.","ru":"Недопустимые идентификаторы удочки и приманки."}
 {"id":"errorCode:60138132078848","en":"Invalid fishing rod ID.","ru":"Недопустимый идентификатор удочки."}
 {"id":"errorCode:60142427046144","en":"The selected item is not a fishing rod.","ru":"Выбранный предмет не является удочкой."}
@@ -865,8 +786,6 @@
 {"id":"errorCode:60155311948032","en":"Invalid fish pond ID.","ru":"Недопустимый идентификатор рыбного пруда."}
 {"id":"errorCode:60159606915328","en":"No bait is set.","ru":"Приманка не установлена."}
 {"id":"errorCode:60163901882624","en":"There are no fish in the fish pond.","ru":"В рыбном пруду нет рыбы."}
-{"id":"errorCode:60168196849920","en":"Fishing time","ru":"Время рыбалки"}
-{"id":"errorCode:60172491817216","en":"The fishing encyclopedia event has no fish ID.","ru":"В событии рыболовного справочника нет идентификатора рыбы."}
 {"id":"errorCode:60176786784512","en":"The required cooking ingredient types and quantities do not match the settings.","ru":"Типы и количество необходимых кулинарных ингредиентов не соответствуют настройкам."}
 {"id":"errorCode:60181081751808","en":"The cooking ingredients are empty.","ru":"Кулинарные ингредиенты отсутствуют."}
 {"id":"errorCode:60185376719104","en":"The favorite cooking ingredient does not exist.","ru":"Избранный кулинарный ингредиент не существует."}
@@ -886,20 +805,14 @@
 {"id":"errorCode:60245506261248","en":"Not enough ingredients for this dish.","ru":"Недостаточно ингредиентов для этого блюда."}
 {"id":"errorCode:60249801228544","en":"The quality of ingredients for this dish is too low.","ru":"Качество ингредиентов для этого блюда слишком низкое."}
 {"id":"errorCode:60254096195840","en":"The required ingredients for cooking do not exist.","ru":"Необходимые для готовки ингредиенты отсутствуют."}
-{"id":"errorCode:60258391163136","en":"This spans multiple seasons.","ru":"Период охватывает несколько сезонов."}
 {"id":"errorCode:60262686130432","en":"Locked","ru":"Не разблокировано"}
 {"id":"errorCode:60266981097728","en":"No team has been set up.","ru":"Состав команды не задан."}
 {"id":"errorCode:60271276065024","en":"The point reward has already been claimed.","ru":"Награда за очки уже получена."}
 {"id":"errorCode:60275571032320","en":"Not enough points.","ru":"Недостаточно очков."}
 {"id":"errorCode:60279865999616","en":"The specified point reward does not exist.","ru":"Указанная награда за очки не существует."}
-{"id":"errorCode:60284160966912","en":"The floor challenge battle configuration does not exist.","ru":"Настройки боя на этаже не существует."}
-{"id":"errorCode:60288455934208","en":"The start and end times of the floor challenge battle span across weeks.","ru":"Время начала и окончания боя на этаже охватывает несколько недель."}
 {"id":"errorCode:60292750901504","en":"The fishing bait ID is incorrect.","ru":"Неверный ID рыболовной приманки."}
 {"id":"errorCode:60297045868800","en":"The selected item is not fishing bait.","ru":"Выбранный предмет не является рыболовной приманкой."}
-{"id":"errorCode:60301340836096","en":"The scene's world_city setting does not exist.","ru":"Настройка world_city для этой сцены не существует."}
-{"id":"errorCode:60305635803392","en":"Star Healing cannot be used in this scene.","ru":"В этой сцене нельзя использовать звёздное исцеление."}
 {"id":"errorCode:60309930770688","en":"Team setup data does not exist.","ru":"Данные состава команды отсутствуют."}
-{"id":"errorCode:60314225737984","en":"You have no Star Healing.","ru":"У вас нет звёздного исцеления."}
 {"id":"errorCode:60344290509056","en":"There is no need to switch between the same levels.","ru":"Нет необходимости переключаться между одинаковыми уровнями."}
 {"id":"errorCode:60348585476352","en":"The Star Vessel activity level is incorrect.","ru":"Неверный уровень активности Звёздного сосуда."}
 {"id":"errorCode:60352880443648","en":"Switching Star Vessel activity is still on cooldown.","ru":"Переключение активности Звёздного сосуда ещё на перезарядке."}
@@ -919,14 +832,14 @@
 {"id":"errorCode:60434484822272","en":"The Snack Pouch parameters are incorrect.","ru":"Неверные параметры мешочка лакомств."}
 {"id":"errorCode:60438779789568","en":"This item is not in the Snack Pouch.","ru":"Этого предмета нет в мешочке лакомств."}
 {"id":"errorCode:60443074756864","en":"A saddle cannot be crafted more than once.","ru":"Седло нельзя изготовить повторно."}
-{"id":"errorCode:60447369724160","en":"The number of Mount Treat Pouch categories exceeds the limit.","ru":"Количество категорий мешка лакомств для скакуна превышает лимит."}
+{"id":"errorCode:60447369724160","en":"You've reached the limit of treat types that can be placed in the Snack Pouch.","ru":"Достигнут предел типов лакомств, которые можно положить в Мешочек лакомств."}
 {"id":"errorCode:60451664691456","en":"The Mount Treat Pouch category is invalid.","ru":"Неверная категория мешка лакомств для скакуна."}
 {"id":"errorCode:60455959658752","en":"The Mount Treat Pouch slot ID is incorrect.","ru":"Неверный ID ячейки мешка лакомств для скакуна."}
 {"id":"errorCode:60460254626048","en":"The Mount Treat Pouch is out of treats.","ru":"В мешке лакомств для скакуна не хватает лакомств."}
-{"id":"errorCode:60464549593344","en":"The quantity of treats to add to the Mount Treat Pouch is 0.","ru":"Количество лакомств для добавления в мешок лакомств для скакуна: 0."}
-{"id":"errorCode:60468844560640","en":"The Mount Treat Pouch item subtype setting is incorrect.","ru":"Неверная настройка подтипа предметов мешка лакомств для скакуна."}
-{"id":"errorCode:60473139527936","en":"An achievement count was triggered from a non-client source.","ru":"Счётчик достижения был вызван не с клиента."}
-{"id":"errorCode:60516089200896","en":"An achievement count was triggered from a non-client source.","ru":"Счётчик достижения был вызван не с клиента."}
+{"id":"errorCode:60464549593344","en":"You can't add items to the Snack Pouch right now.","ru":"Сейчас нельзя добавить предметы в Мешочек лакомств."}
+{"id":"errorCode:60468844560640","en":"This item can't be placed in the Snack Pouch right now.","ru":"Этот предмет сейчас нельзя положить в Мешочек лакомств."}
+{"id":"errorCode:60473139527936","en":"You can't complete this action right now.","ru":"Сейчас это действие выполнить нельзя."}
+{"id":"errorCode:60516089200896","en":"You can't update this achievement's progress right now.","ru":"Сейчас обновить прогресс этого достижения нельзя."}
 {"id":"errorCode:60520384168192","en":"This achievement's configuration does not exist.","ru":"Настройка этого достижения отсутствует."}
 {"id":"errorCode:60524679135488","en":"The achievement reward cannot be claimed.","ru":"Награду за достижение нельзя получить."}
 {"id":"errorCode:60528974102784","en":"This achievement group's configuration does not exist.","ru":"Настройка этой группы достижений отсутствует."}
@@ -965,8 +878,8 @@
 {"id":"errorCode:60971355734272","en":"You do not own this Kibo part yet.","ru":"У вас ещё нет этой детали кибо."}
 {"id":"errorCode:60988535603456","en":"The tutorial group configuration is incorrect.","ru":"Неверная настройка группы обучения."}
 {"id":"errorCode:60992830570752","en":"The tutorial configuration is incorrect.","ru":"Неверная настройка обучения."}
-{"id":"errorCode:60997125538048","en":"The link between the tutorial group and its configuration is incorrect.","ru":"Неверная связь между группой обучения и её настройкой."}
-{"id":"errorCode:61001420505344","en":"Cannot skip because GM mode is not enabled.","ru":"Невозможно пропустить, так как режим GM не включён."}
+{"id":"errorCode:60997125538048","en":"The guide is temporarily unavailable.","ru":"Гид временно недоступен."}
+{"id":"errorCode:61001420505344","en":"You can't skip the guide in the current mode.","ru":"В текущем режиме пропустить гид нельзя."}
 {"id":"errorCode:61005715472640","en":"The tutorial skip parameters are incorrect.","ru":"Неверные параметры пропуска обучения."}
 {"id":"errorCode:61074434949376","en":"No character was submitted for team setup.","ru":"При формировании команды не был передан персонаж."}
 {"id":"errorCode:61078729916672","en":"The same character is already in the lineup.","ru":"Этот персонаж уже есть в составе."}
@@ -979,7 +892,6 @@
 {"id":"errorCode:61108794687744","en":"The custom lineup for the lineup feature is empty.","ru":"Пользовательский состав в функции составов пуст."}
 {"id":"errorCode:61113089655040","en":"The custom lineup for the lineup feature cannot be empty.","ru":"Пользовательский состав в функции составов не может быть пустым."}
 {"id":"errorCode:61418032333056","en":"The shop purchase information has expired.","ru":"Срок действия данных о покупке в магазине истёк."}
-{"id":"errorCode:61422327300352","en":"This is outside the purchase period.","ru":"Сейчас период покупки недоступен."}
 {"id":"errorCode:61426622267648","en":"The shop item has not been unlocked.","ru":"Товар магазина ещё не открыт."}
 {"id":"errorCode:61430917234944","en":"The shop has not been unlocked.","ru":"Магазин ещё не открыт."}
 {"id":"errorCode:61435212202240","en":"The shop stock limit has been exceeded.","ru":"Превышен лимит запасов магазина."}
@@ -989,20 +901,18 @@
 {"id":"errorCode:61452392071424","en":"The submission quantity for the purchased item is not set.","ru":"Количество для отправки купленного товара не задано."}
 {"id":"errorCode:61456687038720","en":"The purchase channel for the product is invalid.","ru":"Неверный канал покупки товара."}
 {"id":"errorCode:61460982006016","en":"The shop's purchase support setting does not exist.","ru":"Настройка поддержки покупок магазина не существует."}
-{"id":"errorCode:61465276973312","en":"The shop's World support setting does not exist.","ru":"Настройка поддержки мира для магазина не существует."}
 {"id":"errorCode:61632780697856","en":"This farmland has already been reclaimed.","ru":"Эта земля уже освоена."}
 {"id":"errorCode:61637075665152","en":"This farmland has not been reclaimed yet.","ru":"Эта земля ещё не освоена."}
-{"id":"errorCode:61641370632448","en":"Invalid seed ID.","ru":"Неверный ID семян."}
 {"id":"errorCode:61645665599744","en":"Crops are planted on this farmland.","ru":"На этой земле посажен урожай."}
 {"id":"errorCode:61649960567040","en":"No crops have been planted on this farmland yet.","ru":"На этой земле ещё не посажен урожай."}
 {"id":"errorCode:61654255534336","en":"This feature has not been unlocked.","ru":"Эта функция ещё не открыта."}
 {"id":"errorCode:61658550501632","en":"The corresponding seed ID was not found in the common item list.","ru":"Соответствующий ID семян не найден в общем списке предметов."}
 {"id":"errorCode:61662845468928","en":"The corresponding seed ID was not found in the seed list.","ru":"Соответствующий ID семян не найден в списке семян."}
 {"id":"errorCode:61667140436224","en":"The category in the common item list is not seeds.","ru":"Категория в общем списке предметов не относится к семенам."}
-{"id":"errorCode:61671435403520","en":"It is not yet harvest time for the farmland.","ru":"Для этой земли ещё не наступило время сбора урожая."}
-{"id":"errorCode:61675730370816","en":"The farmland cannot be auto-harvested by Kibo.","ru":"Кибо не может автоматически собрать урожай с этой земли."}
-{"id":"errorCode:61680025338112","en":"The farmland has enough water.","ru":"На этой земле достаточно воды."}
-{"id":"errorCode:61684320305408","en":"The farmland types do not match.","ru":"Типы земли не совпадают."}
+{"id":"errorCode:61671435403520","en":"This farmland can't be harvested right now.","ru":"На этой земле сейчас нельзя собрать урожай."}
+{"id":"errorCode:61675730370816","en":"Kibo can't harvest this farmland.","ru":"Кибо не может собрать урожай с этой земли."}
+{"id":"errorCode:61680025338112","en":"This farmland has already been watered.","ru":"Эта земля уже полита."}
+{"id":"errorCode:61684320305408","en":"This action isn't possible on this type of farmland.","ru":"Для этого типа земли такое действие недоступно."}
 {"id":"errorCode:61688615272704","en":"Seeds that require too large an area to grow cannot be placed in the Field Cabin.","ru":"Семена, для выращивания которых нужна слишком большая площадь, нельзя поместить в Полевую хижину."}
 {"id":"errorCode:61847529062656","en":"The next level for the gathering facility was not found.","ru":"Следующий уровень объекта сбора не найден."}
 {"id":"errorCode:61851824029952","en":"The world gathering setting was not found.","ru":"Настройка сбора в мире не найдена."}
@@ -1018,19 +928,17 @@
 {"id":"errorCode:62062277427456","en":"The number of lineups exceeds the limit.","ru":"Число составов превышает лимит."}
 {"id":"errorCode:62066572394752","en":"The lineup type does not exist.","ru":"Тип состава не существует."}
 {"id":"errorCode:62070867362048","en":"The currently selected character is not included in the lineup.","ru":"Выбранный управляемый персонаж не входит в состав."}
-{"id":"errorCode:62075162329344","en":"The team has been wiped out.","ru":"Команда полностью уничтожена."}
-{"id":"errorCode:62079457296640","en":"A character in the team is unable to fight.","ru":"Персонаж в команде не может сражаться."}
+{"id":"errorCode:62075162329344","en":"All characters in your team have been defeated.","ru":"Все персонажи отряда выведены из строя."}
+{"id":"errorCode:62079457296640","en":"A character in your team can't fight.","ru":"Персонаж отряда не может сражаться."}
 {"id":"errorCode:62083752263936","en":"You do not own this character.","ru":"У вас нет этого персонажа."}
 {"id":"errorCode:62088047231232","en":"This character is not included in the lineup.","ru":"Этот персонаж не входит в состав."}
-{"id":"errorCode:62092342198528","en":"The characters in the lineup are still alive.","ru":"Персонажи в составе ещё живы."}
-{"id":"errorCode:62096637165824","en":"The current lineup has been wiped out.","ru":"Текущий состав полностью уничтожен."}
+{"id":"errorCode:62092342198528","en":"This character hasn't been incapacitated yet.","ru":"Этот персонаж ещё не выведен из строя."}
+{"id":"errorCode:62096637165824","en":"All characters in your team have been defeated.","ru":"Все персонажи отряда выведены из строя."}
 {"id":"errorCode:62100932133120","en":"The current lineup feature does not exist.","ru":"Текущая функция составов не существует."}
 {"id":"errorCode:62105227100416","en":"The current lineup does not exist.","ru":"Текущий состав не существует."}
 {"id":"errorCode:62109522067712","en":"The current lineup ID does not exist.","ru":"Текущий ID состава не существует."}
 {"id":"errorCode:62148176773376","en":"This is already registered in the compendium and cannot be obtained again.","ru":"Это уже зарегистрировано в компендиуме и не может быть получено повторно."}
-{"id":"errorCode:62152471740672","en":"The compendium acquisition method does not exist.","ru":"Способ получения для компендиума не существует."}
 {"id":"errorCode:62156766707968","en":"You are too far from the book.","ru":"Вы слишком далеко от книги."}
-{"id":"errorCode:62161061675264","en":"You are too far from the NPC to obtain this book.","ru":"Вы слишком далеко от NPC, чтобы получить эту книгу."}
 {"id":"errorCode:62165356642560","en":"The compendium item setting does not exist.","ru":"Настройка предмета компендиума не существует."}
 {"id":"errorCode:62169651609856","en":"The Kibo Compendium data does not exist.","ru":"Данные Компендиума кибо не существуют."}
 {"id":"errorCode:62173946577152","en":"Your Kibo Compendium level is too low.","ru":"Недостаточный уровень Компендиума кибо."}
@@ -1047,7 +955,7 @@
 {"id":"errorCode:64875481006336","en":"The same item is placed on the wheel.","ru":"На колесе размещён тот же предмет."}
 {"id":"errorCode:64879775973632","en":"This wheel type does not exist.","ru":"Такой тип колеса не существует."}
 {"id":"errorCode:64884070940928","en":"The selected wheel position is incorrect.","ru":"Неверная позиция выбранного колеса."}
-{"id":"errorCode:64888365908224","en":"The wheel placement setting exceeds the limit.","ru":"Настройка размещения на колесе превышает лимит."}
+{"id":"errorCode:64888365908224","en":"There's a problem with the Mount Wheel data.","ru":"Данные Колеса скакунов содержат ошибку."}
 {"id":"errorCode:64939905515776","en":"The specified Ranch does not exist.","ru":"Указанный Загон не существует."}
 {"id":"errorCode:64944200483072","en":"The storage box in this Ranch is empty.","ru":"Ящик хранения в этом Загоне пуст."}
 {"id":"errorCode:64948495450368","en":"There are no drop items in this Ranch.","ru":"В этом Загоне нет выпадающих предметов."}
@@ -1059,30 +967,28 @@
 {"id":"errorCode:64974265254144","en":"The Ranch feature has not been unlocked.","ru":"Функция Загона ещё не открыта."}
 {"id":"errorCode:64978560221440","en":"The Kibo placement limit has been exceeded.","ru":"Превышен лимит размещения кибо."}
 {"id":"errorCode:64982855188736","en":"Kibo cannot be captured on battle maps.","ru":"На боевых картах нельзя ловить кибо."}
-{"id":"errorCode:64987150156032","en":"This Kibo's current HP is too high to capture.","ru":"Текущее здоровье кибо слишком высоко для поимки."}
+{"id":"errorCode:64987150156032","en":"This Kibo's current HP is too high to form a Starlink.","ru":"Текущее здоровье кибо слишком высоко для Звёздной связи."}
 {"id":"errorCode:64991445123328","en":"The Kibo is inside the Ranch.","ru":"Кибо находится внутри Загона."}
 {"id":"errorCode:64995740090624","en":"Starlink is already active in this dungeon.","ru":"Звёздная связь в этом подземелье уже активна."}
 {"id":"errorCode:65000035057920","en":"The daily Starlink limit for the Anomalous Star Nest has been reached 1 times.","ru":"Достигнут суточный лимит Звёздной связи в Гнезде аномальных звёзд: 1."}
 {"id":"errorCode:65004330025216","en":"The number of Starlinks is limited in the tutorial stage.","ru":"На обучающем этапе число Звёздных связей ограничено."}
-{"id":"errorCode:65025804861696","en":"Battlefield not found.","ru":"Поле боя не найдено."}
-{"id":"errorCode:65030099828992","en":"A player battlefield already exists.","ru":"Поле боя игрока уже существует."}
 {"id":"errorCode:65034394796288","en":"Monster settings not found.","ru":"Настройки монстра не найдены."}
 {"id":"errorCode:65038689763584","en":"This combat unit was not found.","ru":"Этот боевой юнит не найден."}
-{"id":"errorCode:65042984730880","en":"Kibo capture is still on cooldown.","ru":"Захват кибо ещё перезаряжается."}
-{"id":"errorCode:65047279698176","en":"This Kibo cannot be captured.","ru":"Этого кибо нельзя захватить."}
-{"id":"errorCode:65051574665472","en":"Invalid Kibo capture parameters.","ru":"Недопустимые параметры захвата кибо."}
+{"id":"errorCode:65042984730880","en":"This Kibo's Starlink cooldown hasn't ended yet.","ru":"Перезарядка Звёздной связи с этим кибо ещё не завершена."}
+{"id":"errorCode:65047279698176","en":"You can't form a Starlink with this Kibo.","ru":"С этим кибо нельзя установить Звёздную связь."}
+{"id":"errorCode:65051574665472","en":"There's a problem with the Kibo Starlink data.","ru":"Данные Звёздной связи кибо содержат ошибку."}
 {"id":"errorCode:65055869632768","en":"World event conditions are not met.","ru":"Условия мирового события не выполнены."}
 {"id":"errorCode:65068754534656","en":"The event has not started.","ru":"Событие ещё не началось."}
 {"id":"errorCode:65073049501952","en":"The setting does not exist.","ru":"Настройка не существует."}
 {"id":"errorCode:65077344469248","en":"The event is already complete.","ru":"Событие уже завершено."}
-{"id":"errorCode:65081639436544","en":"Event step is 0.","ru":"Этап события: 0."}
+{"id":"errorCode:65081639436544","en":"Data error.","ru":"Ошибка данных."}
 {"id":"errorCode:65085934403840","en":"An error occurred in the world event feature.","ru":"В функции мировых событий произошла ошибка."}
 {"id":"errorCode:65090229371136","en":"This cannot be used during combat.","ru":"Недоступно во время боя."}
 {"id":"errorCode:65094524338432","en":"This is not registered in the production queue.","ru":"Объект не зарегистрирован в очереди производства."}
 {"id":"errorCode:65098819305728","en":"The Kibo Egg state is invalid.","ru":"Недопустимое состояние яйца кибо."}
 {"id":"errorCode:65103114273024","en":"The selected item in the list has already been claimed.","ru":"Выбранный в списке предмет уже получен."}
 {"id":"errorCode:65107409240320","en":"Kibo cannot be assigned to this facility.","ru":"Кибо нельзя разместить на этом объекте."}
-{"id":"errorCode:65111704207616","en":"The Kibo Egg is not in the Normal state.","ru":"Яйцо кибо не находится в состоянии Normal."}
+{"id":"errorCode:65111704207616","en":"There's a problem with the Kibo Egg's state.","ru":"Состояние Яйца кибо содержит ошибку."}
 {"id":"errorCode:65115999174912","en":"The Kibo Egg has already hatched.","ru":"Яйцо кибо уже вылупилось."}
 {"id":"errorCode:65120294142208","en":"The Kibo Egg has not finished hatching yet.","ru":"Яйцо кибо ещё не вылупилось."}
 {"id":"errorCode:65124589109504","en":"The Kibo Egg is currently hatching.","ru":"Яйцо кибо сейчас вылупляется."}
@@ -1131,7 +1037,7 @@
 {"id":"errorCode:65760244269312","en":"The farm is currently unavailable.","ru":"Ферма сейчас недоступна."}
 {"id":"errorCode:65764539236608","en":"Name changing is currently unavailable.","ru":"Смена имени сейчас недоступна."}
 {"id":"errorCode:65768834203904","en":"Editing your self-introduction is currently unavailable.","ru":"Редактирование самопрезентации сейчас недоступно."}
-{"id":"errorCode:65773129171200","en":"Buying stamina is currently unavailable.","ru":"Покупка выносливости сейчас недоступна."}
+{"id":"errorCode:65773129171200","en":"Buying stamina is not yet unlocked.","ru":"Покупка выносливости ещё не открыта."}
 {"id":"errorCode:65777424138496","en":"Kibo Fight is currently unavailable.","ru":"Бой кибо сейчас недоступен."}
 {"id":"errorCode:65781719105792","en":"Renaming Kibo is currently unavailable.","ru":"Переименование кибо сейчас недоступно."}
 {"id":"errorCode:65786014073088","en":"Renaming teams is currently unavailable.","ru":"Переименование команд сейчас недоступно."}
@@ -1186,7 +1092,7 @@
 {"id":"errorCode:66430259167488","en":"The target is already in the team.","ru":"Цель уже в команде."}
 {"id":"errorCode:66434554134784","en":"The other party cannot respond right now. Please try again later.","ru":"Собеседник сейчас не может ответить. Попробуйте позже."}
 {"id":"errorCode:66438849102080","en":"This cannot be done on the Farm.","ru":"Это нельзя сделать на Ферме."}
-{"id":"errorCode:66443144069376","en":"Leader rights cannot be transferred in a Surprise Dungeon.","ru":"В Неожиданном подземелье нельзя передать права Лидера."}
+{"id":"errorCode:66443144069376","en":"Leader rights can't be transferred in an Emergency Commission.","ru":"В Срочном поручении нельзя передать права Лидера."}
 {"id":"errorCode:66447439036672","en":"Not all team members are ready.","ru":"Не все участники команды готовы."}
 {"id":"errorCode:66451734003968","en":"This action cannot be performed in an Anomalous Star Nest.","ru":"Это действие нельзя выполнить в Гнезде аномальных звёзд."}
 {"id":"errorCode:66456028971264","en":"The Player is offline.","ru":"Игрок не в сети."}
@@ -1195,7 +1101,7 @@
 {"id":"errorCode:66468913873152","en":"The other party has not unlocked this feature yet.","ru":"Собеседник ещё не открыл эту функцию."}
 {"id":"errorCode:66473208840448","en":"The team's objective has changed.","ru":"Цель команды изменилась."}
 {"id":"errorCode:66477503807744","en":"The other party has disabled invitations.","ru":"Собеседник отключил приём приглашений."}
-{"id":"errorCode:66481798775040","en":"The other party has deleted their account.","ru":"Собеседник удалил свою учётную запись."}
+{"id":"errorCode:66481798775040","en":"You can't invite this player right now.","ru":"Сейчас этого игрока пригласить нельзя."}
 {"id":"errorCode:66486093742336","en":"Matching cannot be done on the Farm.","ru":"Подбор нельзя выполнить на Ферме."}
 {"id":"errorCode:66490388709632","en":"The team is not recruiting.","ru":"Команда не набирает участников."}
 {"id":"errorCode:66494683676928","en":"Waiting for team member status synchronization.","ru":"Ожидание синхронизации состояния участников команды."}
@@ -1204,16 +1110,16 @@
 {"id":"errorCode:66640712564992","en":"Restrictions are in place on how party applications can be made.","ru":"На способ подачи заявок в отряд наложены ограничения."}
 {"id":"errorCode:66645007532288","en":"Party applications have a Star Knowledge Level requirement.","ru":"Для заявок в отряд действует ограничение по уровню звёздных знаний."}
 {"id":"errorCode:66649302499584","en":"Party applications have a dungeon difficulty restriction.","ru":"Для заявок в отряд действует ограничение по сложности подземелья."}
-{"id":"errorCode:67001489817856","en":"Redis operation failed.","ru":"Ошибка операции Redis."}
-{"id":"errorCode:68723771703552","en":"The specified Farm technology category was not found.","ru":"Указанная категория технологий Фермы не найдена."}
-{"id":"errorCode:68728066670848","en":"The specified technology skill was not found.","ru":"Указанный навык технологии не найден."}
-{"id":"errorCode:68732361638144","en":"The technology skill is not unlocked.","ru":"Навык технологии не открыт."}
+{"id":"errorCode:67001489817856","en":"This action could not be completed.","ru":"Выполнить это действие не удалось."}
+{"id":"errorCode:68723771703552","en":"This node is currently unavailable.","ru":"Этот узел сейчас недоступен."}
+{"id":"errorCode:68728066670848","en":"This node is currently unavailable.","ru":"Этот узел сейчас недоступен."}
+{"id":"errorCode:68732361638144","en":"This node is currently unavailable.","ru":"Этот узел сейчас недоступен."}
 {"id":"errorCode:68736656605440","en":"Not enough Insight points.","ru":"Недостаточно очков Познаний."}
 {"id":"errorCode:68740951572736","en":"The current Level is at its maximum.","ru":"Текущий Уровень достиг максимума."}
-{"id":"errorCode:68745246540032","en":"Configuration data for the technology list was not found.","ru":"Данные конфигурации списка технологий не найдены."}
-{"id":"errorCode:68749541507328","en":"The configuration ID for technology list assignment was not found.","ru":"ID конфигурации для распределения списка технологий не найден."}
-{"id":"errorCode:68753836474624","en":"The technology skill's requirements are not met.","ru":"Условия навыка технологии не выполнены."}
-{"id":"errorCode:68758131441920","en":"The technology is already unlocked.","ru":"Технология уже открыта."}
+{"id":"errorCode:68745246540032","en":"This node is currently unavailable.","ru":"Этот узел сейчас недоступен."}
+{"id":"errorCode:68749541507328","en":"This node is currently unavailable.","ru":"Этот узел сейчас недоступен."}
+{"id":"errorCode:68753836474624","en":"You don't meet this node's prerequisites.","ru":"Условия этого узла не выполнены."}
+{"id":"errorCode:68758131441920","en":"This node is already unlocked.","ru":"Этот узел уже открыт."}
 {"id":"errorCode:69148973465856","en":"The beginner quest does not exist.","ru":"Задание для новичков не существует."}
 {"id":"errorCode:69153268433152","en":"This beginner quest has already been accepted.","ru":"Это задание для новичков уже принято."}
 {"id":"errorCode:69157563400448","en":"This beginner quest has already been completed.","ru":"Это задание для новичков уже выполнено."}
@@ -1240,12 +1146,12 @@
 {"id":"errorCode:69329362092288","en":"The Kibo Potential Fruit level-up experience exceeds the maximum.","ru":"Опыт повышения уровня Плода потенциала кибо превышает максимум."}
 {"id":"errorCode:69333657059584","en":"The Kibo Potential Fruit does not exist.","ru":"Плод потенциала кибо не существует."}
 {"id":"errorCode:69337952026880","en":"The object does not exist.","ru":"Объект не существует."}
-{"id":"errorCode:69342246994176","en":"The world configuration for the Buff building was not found.","ru":"Конфигурация мира для здания Усиления не найдена."}
-{"id":"errorCode:69346541961472","en":"The build configuration for the Buff building was not found.","ru":"Конфигурация постройки для здания Усиления не найдена."}
-{"id":"errorCode:69350836928768","en":"The specified Buff building does not exist.","ru":"Указанное здание Усиления не существует."}
-{"id":"errorCode:69355131896064","en":"The Buff building is at maximum Level.","ru":"Здание Усиления достигло максимального Уровня."}
-{"id":"errorCode:69359426863360","en":"The Buff building already exists.","ru":"Здание Усиления уже существует."}
-{"id":"errorCode:69363721830656","en":"Not enough materials required for the Buff building.","ru":"Недостаточно материалов, необходимых для здания Усиления."}
+{"id":"errorCode:69342246994176","en":"This facility is currently unavailable.","ru":"Это сооружение сейчас недоступно."}
+{"id":"errorCode:69346541961472","en":"This facility is currently unavailable.","ru":"Это сооружение сейчас недоступно."}
+{"id":"errorCode:69350836928768","en":"This facility is currently unavailable.","ru":"Это сооружение сейчас недоступно."}
+{"id":"errorCode:69355131896064","en":"This facility is currently unavailable.","ru":"Это сооружение сейчас недоступно."}
+{"id":"errorCode:69359426863360","en":"This facility is currently unavailable.","ru":"Это сооружение сейчас недоступно."}
+{"id":"errorCode:69363721830656","en":"This facility is currently unavailable.","ru":"Это сооружение сейчас недоступно."}
 {"id":"errorCode:69578470195456","en":"Invalid ecology configuration.","ru":"Недопустимая конфигурация экологии."}
 {"id":"errorCode:69582765162752","en":"Invalid ecology template configuration.","ru":"Недопустимая конфигурация шаблона экологии."}
 {"id":"errorCode:69587060130048","en":"Invalid ecology data.","ru":"Недопустимые данные экологии."}
@@ -1256,22 +1162,21 @@
 {"id":"errorCode:75161927680256","en":"Level is already at maximum.","ru":"Уровень уже максимальный."}
 {"id":"errorCode:75166222647552","en":"Not enough progress.","ru":"Недостаточно прогресса."}
 {"id":"errorCode:77309411328256","en":"Select a target before using the medicine.","ru":"Перед использованием лекарства выберите цель."}
-{"id":"errorCode:77313706295552","en":"This medicine cannot be used until its cooldown ends.","ru":"Лекарство нельзя использовать до окончания перезарядки."}
+{"id":"errorCode:77313706295552","en":"This medicine is on cooldown.","ru":"Лекарство на перезарядке."}
 {"id":"errorCode:77318001262848","en":"This medicine can only be used in the specified mode.","ru":"Лекарство можно использовать только в указанном режиме."}
 {"id":"errorCode:77322296230144","en":"The target must be alive to use this medicine on them.","ru":"Цель должна быть жива, чтобы использовать на ней лекарство."}
-{"id":"errorCode:77326591197440","en":"The target must be incapacitated to use this medicine on them.","ru":"Цель должна быть недееспособна, чтобы использовать на ней лекарство."}
+{"id":"errorCode:77326591197440","en":"This medicine can only be used on incapacitated targets.","ru":"Это лекарство можно использовать только на выведенных из строя целях."}
 {"id":"errorCode:8164732829952","en":"This account is logged in on another device.","ru":"Этот аккаунт выполнил вход на другом устройстве."}
 {"id":"errorCode:8169027797248","en":"Server maintenance in progress.","ru":"Идёт техническое обслуживание сервера."}
-{"id":"errorCode:8173322764544","en":"The token has expired.","ru":"Срок действия токена истек."}
 {"id":"errorCode:8177617731840","en":"You are currently in the queue.","ru":"Вы находитесь в очереди."}
 {"id":"errorCode:8181912699136","en":"Reconnection failed.","ru":"Не удалось переподключиться."}
 {"id":"errorCode:8186207666432","en":"A duplicate login was detected.","ru":"Обнаружен повторный вход."}
 {"id":"errorCode:8190502633728","en":"This account is logged in on another device.","ru":"Этот аккаунт выполнил вход на другом устройстве."}
 {"id":"errorCode:8194797601024","en":"Disposed","ru":"Утилизировано"}
 {"id":"errorCode:8199092568320","en":"A game update was detected. Please restart the game to complete the update.","ru":"Обнаружено обновление игры. Перезапустите игру, чтобы завершить обновление."}
-{"id":"errorCode:85899345920256","en":"Insufficient GM parameters.","ru":"Недостаточно параметров GM."}
-{"id":"errorCode:85903640887552","en":"GM parameter count is below 2.","ru":"Количество параметров GM меньше 2."}
-{"id":"errorCode:85907935854848","en":"GM parameters are empty.","ru":"Параметры GM пусты."}
+{"id":"errorCode:85899345920256","en":"You can't perform this action right now.","ru":"Сейчас это действие выполнить нельзя."}
+{"id":"errorCode:85903640887552","en":"You can't perform this action right now.","ru":"Сейчас это действие выполнить нельзя."}
+{"id":"errorCode:85907935854848","en":"You can't perform this action right now.","ru":"Сейчас это действие выполнить нельзя."}
 {"id":"errorCode:90194313216256","en":"Event configuration not found.","ru":"Конфигурация события не найдена."}
 {"id":"errorCode:90198608183552","en":"The event has not started yet.","ru":"Событие ещё не началось."}
 {"id":"errorCode:90202903150848","en":"Unable to claim.","ru":"Невозможно получить."}
@@ -1302,30 +1207,30 @@
 {"id":"errorCode:90310277333248","en":"No travel party exists.","ru":"Отряд путешествия не существует."}
 {"id":"errorCode:90314572300544","en":"Rewards cannot be claimed in the current state.","ru":"Награды нельзя получить в текущем состоянии."}
 {"id":"errorCode:90318867267840","en":"This Kibo is on a journey and cannot be parted with.","ru":"Этот кибо в путешествии, с ним нельзя расстаться."}
-{"id":"errorCode:90323162235136","en":"The configuration for Blossom-Knit Bonds is invalid.","ru":"Конфигурация «Уз цветущей встречи» недопустима."}
-{"id":"errorCode:90327457202432","en":"The conditions for Blossom-Knit Bonds are not met.","ru":"Условия «Уз цветущей встречи» не выполнены."}
-{"id":"errorCode:90331752169728","en":"The Blossom-Knit Bonds event has not started.","ru":"Событие «Узы цветущей встречи» не началось."}
-{"id":"errorCode:90336047137024","en":"There is an error in the Blossom-Knit Bonds stage.","ru":"Ошибка на этапе «Уз цветущей встречи»."}
+{"id":"errorCode:90323162235136","en":"The event configuration is invalid.","ru":"Настройки события недопустимы."}
+{"id":"errorCode:90327457202432","en":"The event conditions are not met.","ru":"Условия события не выполнены."}
+{"id":"errorCode:90331752169728","en":"The event hasn't started yet.","ru":"Событие ещё не началось."}
+{"id":"errorCode:90336047137024","en":"There's an error in the event stage.","ru":"Ошибка на этапе события."}
 {"id":"errorCode:90340342104320","en":"Today's journeyed Action Points are exhausted.","ru":"Очки действий на сегодняшние странствия исчерпаны."}
 {"id":"errorCode:90344637071616","en":"Today's journey count has reached its limit.","ru":"Число сегодняшних странствий достигло предела."}
-{"id":"errorCode:90348932038912","en":"Not enough stamina. Xiaoyu is exhausted. Let's rest a little first!","ru":"Недостаточно выносливости. Сяоюй совсем вымоталась. Давайте сначала немного отдохнём!"}
-{"id":"errorCode:90353227006208","en":"Not enough experience for Blossom-Knit Bonds.","ru":"Недостаточно опыта для «Уз цветущей встречи»."}
-{"id":"errorCode:90357521973504","en":"The support character has not been unlocked.","ru":"Дополнительный персонаж ещё не разблокирован."}
-{"id":"errorCode:90361816940800","en":"The effect selection for Blossom-Knit Bonds is invalid.","ru":"Выбор эффекта для «Уз цветущей встречи» недопустим."}
-{"id":"errorCode:90366111908096","en":"Not enough Threads of Ties. Reach an ending to obtain Bondweaving ornaments.","ru":"Недостаточно нитей уз. Достигните финала, чтобы получить украшения плетения уз."}
-{"id":"errorCode:90370406875392","en":"You have not yet formed a bond with this character.","ru":"Вы ещё не связали узы с этим персонажем."}
-{"id":"errorCode:90374701842688","en":"Not enough Threads of Ties. Reach an ending to obtain Bondweaving ornaments.","ru":"Недостаточно нитей уз. Достигните финала, чтобы получить украшения плетения уз."}
-{"id":"errorCode:90378996809984","en":"Parameters for Blossom-Knit Bonds are invalid.","ru":"Параметры «Уз цветущей встречи» неверны."}
+{"id":"errorCode:90348932038912","en":"Not enough stamina to train.","ru":"Недостаточно выносливости для тренировки."}
+{"id":"errorCode:90353227006208","en":"Not enough experience for the event.","ru":"Недостаточно опыта для события."}
+{"id":"errorCode:90357521973504","en":"Support companions are not yet unlocked.","ru":"Соратники поддержки ещё не открыты."}
+{"id":"errorCode:90361816940800","en":"The event effect selection is invalid.","ru":"Выбор эффекта события недопустим."}
+{"id":"errorCode:90366111908096","en":"Not enough items. Reach an ending to obtain unlock items.","ru":"Недостаточно предметов. Достигните финала, чтобы получить предметы для открытия."}
+{"id":"errorCode:90370406875392","en":"This character is not unlocked.","ru":"Этот персонаж не открыт."}
+{"id":"errorCode:90374701842688","en":"Not enough items. Reach an ending to obtain unlock items.","ru":"Недостаточно предметов. Достигните финала, чтобы получить предметы для открытия."}
+{"id":"errorCode:90378996809984","en":"The event parameter request is invalid.","ru":"Запрос параметров события неверен."}
 {"id":"errorCode:90383291777280","en":"Early access is not possible.","ru":"Ранний доступ невозможен."}
 {"id":"errorCode:90387586744576","en":"Early access conditions are not met.","ru":"Условия раннего доступа не выполнены."}
-{"id":"errorCode:90391881711872","en":"Insufficient deposit required for purchasing at Chiyo's Shop.","ru":"Недостаточно задатка для покупки в магазине Тиё."}
-{"id":"errorCode:90396176679168","en":"Not enough remaining purchases left today at Chiyo's Shop.","ru":"Недостаточно оставшихся покупок на сегодня в магазине Тиё."}
-{"id":"errorCode:90400471646464","en":"Not enough training fees for the training content.","ru":"Недостаточно средств на обучение для тренировочного контента."}
-{"id":"errorCode:90404766613760","en":"The purchase count at Chiyo's Shop has reached its limit.","ru":"Достигнут предел покупок в магазине Тиё."}
-{"id":"errorCode:90409061581056","en":"An error occurred in the period information for the training content.","ru":"Ошибка в информации о периоде проведения тренировочного контента."}
-{"id":"errorCode:90413356548352","en":"It is not yet time to start the training content.","ru":"Ещё не время начинать тренировочный контент."}
-{"id":"errorCode:90417651515648","en":"The support character selection for the training content is invalid.","ru":"Выбор дополнительного персонажа для тренировочного контента недопустим."}
-{"id":"errorCode:90421946482944","en":"The event choice for the training content is invalid.","ru":"Выбор события для тренировочного контента недопустим."}
+{"id":"errorCode:90391881711872","en":"You do not have enough funds for the down payment.","ru":"Недостаточно средств для внесения задатка."}
+{"id":"errorCode:90396176679168","en":"You have reached the purchase limit for day 1.","ru":"Достигнут предел покупок на день 1."}
+{"id":"errorCode:90400471646464","en":"You do not have enough funds for training.","ru":"Недостаточно средств для тренировки."}
+{"id":"errorCode:90404766613760","en":"You have reached the purchase limit.","ru":"Достигнут предел покупок."}
+{"id":"errorCode:90409061581056","en":"An error occurred in the event's time information.","ru":"Произошла ошибка в информации о времени события."}
+{"id":"errorCode:90413356548352","en":"It is not yet time to start the event.","ru":"Ещё не время начинать событие."}
+{"id":"errorCode:90417651515648","en":"The event's support ally selection is invalid.","ru":"Выбор союзника поддержки для события недопустим."}
+{"id":"errorCode:90421946482944","en":"The event choice is invalid.","ru":"Выбор в событии недопустим."}
 {"id":"errorCode:90452011254016","en":"This is not the current start.","ru":"Это не текущий старт."}
 {"id":"errorCode:90456306221312","en":"Cannot save because the total ending score does not meet the requirement.","ru":"Невозможно сохранить: общий счёт финала не соответствует требованиям."}
 {"id":"errorCode:90460601188608","en":"Save parameters are invalid.","ru":"Параметры сохранения неверны."}
@@ -1340,15 +1245,14 @@
 {"id":"errorCode:90653874716928","en":"The time to clear the content is too short.","ru":"Время прохождения контента слишком мало."}
 {"id":"errorCode:90658169684224","en":"Failed to add the transformation Kibo.","ru":"Не удалось добавить кибо-перевёртыша."}
 {"id":"errorCode:90662464651520","en":"The transformation Kibo does not exist.","ru":"Кибо-перевёртыш не существует."}
-{"id":"errorCode:90666759618816","en":"obj parameters are invalid.","ru":"Параметры obj неверны."}
 {"id":"errorCode:90671054586112","en":"The farm's content failed review.","ru":"Содержимое фермы не прошло проверку."}
 {"id":"errorCode:90683939488000","en":"An error occurred in speed range detection.","ru":"Ошибка при определении диапазона скорости."}
 {"id":"errorCode:90838558310656","en":"The tutorial stage does not exist.","ru":"Обучающий этап не существует."}
 {"id":"errorCode:90842853277952","en":"The tutorial stage has not been unlocked.","ru":"Обучающий этап не разблокирован."}
 {"id":"errorCode:90847148245248","en":"There is a tutorial stage in progress.","ru":"Есть незавершённый обучающий этап."}
 {"id":"errorCode:90851443212544","en":"The tutorial stage type does not exist.","ru":"Тип обучающего этапа не существует."}
-{"id":"errorCode:90860033147136","en":"There is an error in the server spawner configuration.","ru":"Ошибка в конфигурации спавнера сервера."}
-{"id":"errorCode:90864328114432","en":"The interaction count with the spawner has reached its limit.","ru":"Достигнут предел взаимодействий со спавнером."}
+{"id":"errorCode:90860033147136","en":"You cannot interact with this in the current scene.","ru":"В текущей сцене с этим нельзя взаимодействовать."}
+{"id":"errorCode:90864328114432","en":"You have reached the interaction limit.","ru":"Достигнут предел взаимодействий."}
 {"id":"errorCode:90868623081728","en":"Failed to start the transformation.","ru":"Не удалось начать превращение."}
 {"id":"errorCode:90872918049024","en":"Parent mode has not started yet.","ru":"Родительский режим ещё не начат."}
 {"id":"errorCode:90877213016320","en":"Child mode has not been cleared.","ru":"Дочерний режим ещё не пройден."}
@@ -1360,8 +1264,7 @@
 {"id":"errorCode:90924457656576","en":"Failed to assign gs during server switch.","ru":"Не удалось назначить gs при переключении сервера."}
 {"id":"errorCode:90928752623872","en":"The server switch parameters are invalid.","ru":"Неверные параметры переключения сервера."}
 {"id":"errorCode:90933047591168","en":"Failed to move to the destination map.","ru":"Не удалось переместиться на целевой карте."}
-{"id":"errorCode:90937342558464","en":"The channel is full.","ru":"Канал заполнен."}
-{"id":"errorCode:90941637525760","en":"line not found.","ru":"Строка line не найдена."}
+{"id":"errorCode:90941637525760","en":"No available channel found.","ru":"Доступные каналы не найдены."}
 {"id":"errorCode:90945932493056","en":"Failed to create the public map.","ru":"Не удалось создать общедоступную карту."}
 {"id":"errorCode:90950227460352","en":"Failed to move to the public map at game start.","ru":"Не удалось переместиться на общедоступную карту при запуске игры."}
 {"id":"errorCode:90954522427648","en":"Failed to create the multiplayer map.","ru":"Не удалось создать многопользовательскую карту."}
@@ -1369,7 +1272,6 @@
 {"id":"errorCode:91010357002496","en":"The friend settings are invalid.","ru":"Неверные настройки друзей."}
 {"id":"errorCode:91014651969792","en":"Failed to search for Player info.","ru":"Не удалось найти информацию об игроке."}
 {"id":"errorCode:91018946937088","en":"The reported player's nickname is too long.","ru":"Никнейм игрока, на которого подаётся жалоба, слишком длинный."}
-{"id":"errorCode:91023241904384","en":"The report text is too long.","ru":"Текст жалобы слишком длинный."}
 {"id":"errorCode:91027536871680","en":"Failed to recommend friend candidates.","ru":"Не удалось подобрать кандидатов в друзья."}
 {"id":"errorCode:91031831838976","en":"Friend recommendations are being made too frequently.","ru":"Слишком частые рекомендации друзей."}
 {"id":"errorCode:91036126806272","en":"The chat message exceeds the character limit.","ru":"Сообщение в чате превышает лимит символов."}
@@ -1378,7 +1280,7 @@
 {"id":"errorCode:91049011708160","en":"Failed to sync chat.","ru":"Не удалось синхронизировать чат."}
 {"id":"errorCode:91053306675456","en":"Too much combat info was uploaded at the same time.","ru":"Одновременно загружено слишком много боевой информации."}
 {"id":"errorCode:91057601642752","en":"Select a report reason before submitting.","ru":"Выберите причину жалобы перед отправкой."}
-{"id":"errorCode:91061896610048","en":"The same target was reported again during the cooldown, so it was rejected.","ru":"Повторная жалоба на ту же цель во время перезарядки отклонена."}
+{"id":"errorCode:91061896610048","en":"Your report was rejected because the same feature was reported again during cooldown.","ru":"Жалоба отклонена: во время перезарядки вы повторно отправили жалобу через ту же функцию."}
 {"id":"errorCode:91066191577344","en":"The report reason contains inappropriate characters and cannot be submitted.","ru":"Причина жалобы содержит недопустимые символы и не может быть отправлена."}
 {"id":"errorCode:91070486544640","en":"Select a report reason before submitting.","ru":"Выберите причину жалобы перед отправкой."}
 {"id":"errorCode:91074781511936","en":"Invalid report entry type.","ru":"Неверный тип входа для жалобы."}
@@ -1397,7 +1299,7 @@
 {"id":"errorCode:91517163143424","en":"You are not in a channel.","ru":"Вы не находитесь в канале."}
 {"id":"errorCode:91521458110720","en":"You are not in a multiplayer dungeon.","ru":"Вы не находитесь в многопользовательском подземелье."}
 {"id":"errorCode:91525753078016","en":"This action cannot be performed on the Farm or during a stage.","ru":"Это действие нельзя выполнить на ферме или на этапе."}
-{"id":"errorCode:91912300134656","en":"The outfit change data is invalid, so setting validation failed.","ru":"Данные изменения костюма недействительны, проверка настроек не удалась."}
+{"id":"errorCode:91912300134656","en":"The selected outfit set cannot be used.","ru":"Выбранный комплект костюмов нельзя использовать."}
 {"id":"errorCode:92341796864256","en":"The number of stickers to add is 0.","ru":"Количество добавляемых стикеров: 0."}
 {"id":"errorCode:92346091831552","en":"Invalid sticker settings.","ru":"Неверные настройки стикеров."}
 {"id":"errorCode:92354681766144","en":"Invalid wheel index.","ru":"Неверный индекс колеса."}
@@ -1409,28 +1311,27 @@
 {"id":"errorCode:92380451569920","en":"The stickers placed on the wheel are duplicated.","ru":"Стикеры, размещённые на колесе, дублируются."}
 {"id":"errorCode:92771293593856","en":"Client speed hacking detected.","ru":"Обнаружено ускорение клиента."}
 {"id":"errorCode:92775588561152","en":"Client cheating detected.","ru":"Обнаружено мошенничество клиента."}
-{"id":"errorCode:92779883528448","en":"Gathering HP check failed.","ru":"Проверка HP при сборе не удалась."}
+{"id":"errorCode:92779883528448","en":"You cannot gather this target right now.","ru":"Сейчас эту цель нельзя собрать."}
 {"id":"errorCode:92784178495744","en":"Invalid gathering time.","ru":"Неверное время сбора."}
 {"id":"errorCode:92788473463040","en":"The number of gathering attacks is invalid.","ru":"Неверное количество атак при сборе."}
-{"id":"errorCode:92792768430336","en":"Gathering or attacking a non-Boss target.","ru":"Сбор или атака цели, не являющейся боссом."}
+{"id":"errorCode:92792768430336","en":"You cannot gather this target right now.","ru":"Сейчас эту цель нельзя собрать."}
 {"id":"errorCode:92797063397632","en":"The gathering attack tool is invalid.","ru":"Неверный инструмент атаки при сборе."}
 {"id":"errorCode:92801358364928","en":"The target is too far away to Starlink.","ru":"Цель слишком далеко для Звёздной связи."}
 {"id":"errorCode:92805653332224","en":"The Anomalous Star Nest feature is not unlocked yet.","ru":"Функция «Гнездо аномальных звёзд» ещё не разблокирована."}
 {"id":"errorCode:92809948299520","en":"Support members are not unlocked yet.","ru":"Поддерживающие члены ещё не разблокированы."}
 {"id":"errorCode:92814243266816","en":"Party recruitment update is on cooldown.","ru":"Обновление набора в группу на перезарядке."}
-{"id":"errorCode:92818538234112","en":"Abyss content is not unlocked yet.","ru":"Контент Бездны ещё не разблокирован."}
-{"id":"errorCode:92822833201408","en":"You cannot enter the Abyss from the current map.","ru":"С текущей карты нельзя войти в Бездну."}
-{"id":"errorCode:92827128168704","en":"Invalid Abyss mode.","ru":"Неверный режим Бездны."}
-{"id":"errorCode:92831423136000","en":"Invalid Abyss quest.","ru":"Неверное задание Бездны."}
+{"id":"errorCode:92818538234112","en":"Traces of the Heavenly Dao is not unlocked yet.","ru":"Следы небесного пути ещё не разблокированы."}
+{"id":"errorCode:92822833201408","en":"You cannot enter Traces of the Heavenly Dao from the current map.","ru":"С текущей карты нельзя войти в Следы небесного пути."}
+{"id":"errorCode:92827128168704","en":"This Traces of the Heavenly Dao mode is unavailable.","ru":"Этот режим Следов небесного пути недоступен."}
+{"id":"errorCode:92831423136000","en":"This Traces of the Heavenly Dao stage is unavailable.","ru":"Этот этап Следов небесного пути недоступен."}
 {"id":"errorCode:92835718103296","en":"The prerequisite mode has not been completed yet.","ru":"Предварительный режим ещё не завершён."}
 {"id":"errorCode:92840013070592","en":"The prerequisite stage has not been completed.","ru":"Предварительный этап ещё не пройден."}
 {"id":"errorCode:92844308037888","en":"The clear reward has already been claimed.","ru":"Награда за прохождение уже получена."}
 {"id":"errorCode:92848603005184","en":"The rank reward has already been claimed.","ru":"Награда за ранг уже получена."}
-{"id":"errorCode:92852897972480","en":"Invalid rank reward group.","ru":"Неверная группа наград за ранг."}
-{"id":"errorCode:92857192939776","en":"An invalid Abyss formation is set.","ru":"Установлен неверный состав для Бездны."}
-{"id":"errorCode:92861487907072","en":"Invalid Abyss dungeon ID.","ru":"Неверный ID подземелья Бездны."}
-{"id":"errorCode:92865782874368","en":"The number of players that can be brought into the Abyss exceeds the limit.","ru":"Превышен лимит игроков, которых можно взять в Бездну."}
-{"id":"errorCode:92870077841664","en":"There are no characters to bring into the Abyss.","ru":"Нет персонажей для отправки в Бездну."}
+{"id":"errorCode:92852897972480","en":"This rank reward is currently unavailable.","ru":"Эта награда за ранг сейчас недоступна."}
+{"id":"errorCode:92861487907072","en":"This Traces of the Heavenly Dao stage is currently unavailable.","ru":"Этот этап Следов небесного пути сейчас недоступен."}
+{"id":"errorCode:92865782874368","en":"The number of members joining this challenge exceeds the limit.","ru":"Число участников этого испытания превышает предел."}
+{"id":"errorCode:92870077841664","en":"A character who cannot join the challenge is selected.","ru":"Выбран персонаж, который не может участвовать в испытании."}
 {"id":"errorCode:92874372808960","en":"Deployed characters are duplicated.","ru":"Развёрнутые персонажи дублируются."}
 {"id":"errorCode:92878667776256","en":"Deployed Kibos are duplicated.","ru":"Развёрнутые кибо дублируются."}
 {"id":"errorCode:92882962743552","en":"The challenge team is empty.","ru":"Команда испытания пуста."}
@@ -1440,7 +1341,7 @@
 {"id":"errorCode:93205085290752","en":"Summoning is on cooldown.","ru":"Призыв на перезарядке."}
 {"id":"errorCode:93209380258048","en":"The lead Kibo has already been confirmed.","ru":"Ведущий кибо уже подтверждён."}
 {"id":"errorCode:93213675225344","en":"The current state does not match.","ru":"Текущее состояние не совпадает."}
-{"id":"errorCode:93217970192640","en":"You are not in the Kibo ring.","ru":"Вы не находитесь в кольце кибо."}
+{"id":"errorCode:93217970192640","en":"You are not in a Kibo Fight.","ru":"Вы не участвуете в Бое кибо."}
 {"id":"errorCode:93222265159936","en":"Insufficient action points.","ru":"Недостаточно очков действия."}
 {"id":"errorCode:93226560127232","en":"Cannot summon.","ru":"Невозможно призвать."}
 {"id":"errorCode:93230855094528","en":"The summoned Kibo does not exist.","ru":"Призванный кибо не существует."}
@@ -1453,4 +1354,4 @@
 {"id":"errorCode:93643171954944","en":"The character is not currently in the dorm scene.","ru":"Персонаж сейчас не находится в сцене общежития."}
 {"id":"errorCode:93647466922240","en":"You have not reached the ending.","ru":"Вы не достигли концовки."}
 {"id":"errorCode:93651761889536","en":"The ending reward has already been claimed.","ru":"Награда за концовку уже получена."}
-{"id":"errorCode:93656056856832","en":"Invalid ending ID.","ru":"Неверный идентификатор концовки."}
+{"id":"errorCode:93656056856832","en":"The selected ending is currently unavailable.","ru":"Выбранная концовка сейчас недоступна."}

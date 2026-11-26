@@ -1,42 +1,42 @@
 {"id":"skill_entry:1000727382528","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:1000727383040","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:1000727383296","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:1000727383552","en":"-4.5%","ru":"-4.5%"}
+{"id":"skill_entry:1000727383552","en":"4.5%","ru":"4.5%"}
 {"id":"skill_entry:1000727383553","en":"18%","ru":"18%"}
 {"id":"skill_entry:1005022349824","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:1005022350336","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:1005022350592","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:1005022350848","en":"-5%","ru":"-5%"}
+{"id":"skill_entry:1005022350848","en":"5%","ru":"5%"}
 {"id":"skill_entry:1005022350849","en":"20%","ru":"20%"}
 {"id":"skill_entry:1009317317120","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:1009317317632","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:1009317317888","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:1009317318144","en":"-5.5%","ru":"-5.5%"}
+{"id":"skill_entry:1009317318144","en":"5.5%","ru":"5.5%"}
 {"id":"skill_entry:1009317318145","en":"22%","ru":"22%"}
 {"id":"skill_entry:1013612284416","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1013612284928","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1013612285184","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1013612285440","en":"-1%","ru":"-1%"}
+{"id":"skill_entry:1013612285440","en":"1%","ru":"1%"}
 {"id":"skill_entry:1013612285441","en":"2.5%","ru":"2.5%"}
 {"id":"skill_entry:1017907251712","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1017907252224","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1017907252480","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1017907252736","en":"-1.5%","ru":"-1.5%"}
+{"id":"skill_entry:1017907252736","en":"1.5%","ru":"1.5%"}
 {"id":"skill_entry:1017907252737","en":"3%","ru":"3%"}
 {"id":"skill_entry:1022202219008","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1022202219520","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1022202219776","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1022202220032","en":"-2%","ru":"-2%"}
+{"id":"skill_entry:1022202220032","en":"2%","ru":"2%"}
 {"id":"skill_entry:1022202220033","en":"4%","ru":"4%"}
 {"id":"skill_entry:1026497186304","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1026497186816","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1026497187072","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1026497187328","en":"-2.5%","ru":"-2.5%"}
+{"id":"skill_entry:1026497187328","en":"2.5%","ru":"2.5%"}
 {"id":"skill_entry:1026497187329","en":"6%","ru":"6%"}
 {"id":"skill_entry:1030792153600","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1030792154112","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1030792154368","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1030792154624","en":"-3%","ru":"-3%"}
+{"id":"skill_entry:1030792154624","en":"3%","ru":"3%"}
 {"id":"skill_entry:1030792154625","en":"9%","ru":"9%"}
 {"id":"skill_entry:103079217664","en":"Fierce Strike","ru":"Яростный удар"}
 {"id":"skill_entry:103079218176","en":"ATK increases by a fixed percentage.","ru":"Сила атаки повышается на определённый процент."}
@@ -45,27 +45,27 @@
 {"id":"skill_entry:1035087120896","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1035087121408","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1035087121664","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1035087121920","en":"-3.5%","ru":"-3.5%"}
+{"id":"skill_entry:1035087121920","en":"3.5%","ru":"3.5%"}
 {"id":"skill_entry:1035087121921","en":"13%","ru":"13%"}
 {"id":"skill_entry:1039382088192","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1039382088704","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1039382088960","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1039382089216","en":"-4%","ru":"-4%"}
+{"id":"skill_entry:1039382089216","en":"4%","ru":"4%"}
 {"id":"skill_entry:1039382089217","en":"18.5%","ru":"18.5%"}
 {"id":"skill_entry:1043677055488","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1043677056000","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1043677056256","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1043677056512","en":"-4.5%","ru":"-4.5%"}
+{"id":"skill_entry:1043677056512","en":"4.5%","ru":"4.5%"}
 {"id":"skill_entry:1043677056513","en":"20%","ru":"20%"}
 {"id":"skill_entry:1047972022784","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1047972023296","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1047972023552","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1047972023808","en":"-5%","ru":"-5%"}
+{"id":"skill_entry:1047972023808","en":"5%","ru":"5%"}
 {"id":"skill_entry:1047972023809","en":"21%","ru":"21%"}
 {"id":"skill_entry:1052266990080","en":"Death Defiance","ru":"Вызов смерти"}
 {"id":"skill_entry:1052266990592","en":"DEF decreases and CRIT Rate increases.","ru":"Защита снижается, а шанс крита повышается."}
 {"id":"skill_entry:1052266990848","en":"DEF decreases by {0} and CRIT Rate increases by {1}.","ru":"Защита снижается на {0}, а шанс крита повышается на {1}."}
-{"id":"skill_entry:1052266991104","en":"-5.5%","ru":"-5.5%"}
+{"id":"skill_entry:1052266991104","en":"5.5%","ru":"5.5%"}
 {"id":"skill_entry:1052266991105","en":"22%","ru":"22%"}
 {"id":"skill_entry:1056561957376","en":"Desperate Ground","ru":"Отчаянный рубеж"}
 {"id":"skill_entry:1056561957888","en":"After a successful Perfect Dodge, ATK increases.","ru":"После успешного идеального уклона атака повышается."}
@@ -194,28 +194,28 @@
 {"id":"skill_entry:1181116009984","en":"3%","ru":"3%"}
 {"id":"skill_entry:1181116009985","en":"5%","ru":"5%"}
 {"id":"skill_entry:1185410976256","en":"Energy Supply","ru":"Пополнение энергии"}
-{"id":"skill_entry:1185410976768","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1185410977024","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1185410976768","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1185410977024","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1185410977280","en":"18%","ru":"18%"}
 {"id":"skill_entry:1185410977281","en":"14%","ru":"14%"}
 {"id":"skill_entry:1189705943552","en":"Energy Supply","ru":"Пополнение энергии"}
-{"id":"skill_entry:1189705944064","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1189705944320","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1189705944064","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1189705944320","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1189705944576","en":"22.5%","ru":"22.5%"}
 {"id":"skill_entry:1189705944577","en":"17.5%","ru":"17.5%"}
 {"id":"skill_entry:1194000910848","en":"Energy Supply","ru":"Пополнение энергии"}
-{"id":"skill_entry:1194000911360","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1194000911616","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1194000911360","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1194000911616","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1194000911872","en":"27%","ru":"27%"}
 {"id":"skill_entry:1194000911873","en":"21%","ru":"21%"}
 {"id":"skill_entry:1198295878144","en":"Energy Supply","ru":"Пополнение энергии"}
-{"id":"skill_entry:1198295878656","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1198295878912","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1198295878656","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1198295878912","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1198295879168","en":"31.5%","ru":"31.5%"}
 {"id":"skill_entry:1198295879169","en":"24.5%","ru":"24.5%"}
 {"id":"skill_entry:1202590845440","en":"Energy Supply","ru":"Пополнение энергии"}
-{"id":"skill_entry:1202590845952","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1202590846208","en":"For 6 sec after the equipping character activates an entry-type Starflash Skill, Break Efficiency of Charged Attacks increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «вход» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1202590845952","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1202590846208","en":"For 6 sec after the equipping character activates an on-field-type Starflash Skill, Charged Attack Break Efficiency increases by <color=#4d92e7>{0}</color>. When the equipping character consumes a Water Sigil or Nature Sigil, the whole team's Charged Attack DMG increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"В течение 6 сек. после активации экипированным персонажем навыка звёздной вспышки типа «появление на поле» эффективность прорыва заряженных атак повышается на <color=#4d92e7>{0}</color>. Когда экипированный персонаж расходует Водную печать или Печать природы, урон заряженных атак всей команды увеличивается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1202590846464","en":"36%","ru":"36%"}
 {"id":"skill_entry:1202590846465","en":"28%","ru":"28%"}
 {"id":"skill_entry:120259086848","en":"Fierce Strike","ru":"Яростный удар"}
@@ -461,28 +461,28 @@
 {"id":"skill_entry:167503727872","en":"DEF increased by {0}.","ru":"Защита повышается на {0}."}
 {"id":"skill_entry:167503728128","en":"275","ru":"275"}
 {"id":"skill_entry:1679332215296","en":"Call of the Spirits","ru":"Зов духов"}
-{"id":"skill_entry:1679332215808","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1679332216064","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1679332215808","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1679332216064","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1679332216320","en":"13%","ru":"13%"}
 {"id":"skill_entry:1679332216321","en":"13%","ru":"13%"}
 {"id":"skill_entry:1683627182592","en":"Call of the Spirits","ru":"Зов духов"}
-{"id":"skill_entry:1683627183104","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1683627183360","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1683627183104","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1683627183360","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1683627183616","en":"16.25%","ru":"16.25%"}
 {"id":"skill_entry:1683627183617","en":"16.25%","ru":"16.25%"}
 {"id":"skill_entry:1687922149888","en":"Call of the Spirits","ru":"Зов духов"}
-{"id":"skill_entry:1687922150400","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1687922150656","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1687922150400","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1687922150656","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1687922150912","en":"19.5%","ru":"19.5%"}
 {"id":"skill_entry:1687922150913","en":"19.5%","ru":"19.5%"}
 {"id":"skill_entry:1692217117184","en":"Call of the Spirits","ru":"Зов духов"}
-{"id":"skill_entry:1692217117696","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1692217117952","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1692217117696","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1692217117952","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1692217118208","en":"22.75%","ru":"22.75%"}
 {"id":"skill_entry:1692217118209","en":"22.75%","ru":"22.75%"}
 {"id":"skill_entry:1696512084480","en":"Call of the Spirits","ru":"Зов духов"}
-{"id":"skill_entry:1696512084992","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
-{"id":"skill_entry:1696512085248","en":"After the equipping character activates a deploy-type Starflash Skill, they restore the whole team's HP by <color=#4d92e7>{0}</color> of their own Max HP, and ATK increases by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки типа «установка» он восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от собственного максимума HP, а сила атаки повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1696512084992","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
+{"id":"skill_entry:1696512085248","en":"After the equipping character activates a persistent-type Starflash Skill, restores the whole team's HP by <color=#4d92e7>{0}</color> of the equipping character's Max HP and increases ATK by <color=#4d92e7>{1}</color> (duration: 24 sec).","ru":"После активации экипированным персонажем навыка звёздной вспышки длительного типа восстанавливает всей команде HP в размере <color=#4d92e7>{0}</color> от максимума HP экипированного персонажа и повышает силу атаки на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:1696512085504","en":"26%","ru":"26%"}
 {"id":"skill_entry:1696512085505","en":"26%","ru":"26%"}
 {"id":"skill_entry:1700807051776","en":"A Basket Full of Herbs","ru":"Полная корзина трав"}
@@ -1664,23 +1664,23 @@
 {"id":"skill_entry:3285649984768","en":"After the equipping character triggers a Starflash Skill, the whole team's DMG taken decreases by <color=#4d92e7>{0}</color> and DMG dealt increases by <color=#4d92e7>{1}</color> (duration: 24 sec.).","ru":"После активации навыка звёздной вспышки экипированным персонажем получаемый всей командой урон снижается на <color=#4d92e7>{0}</color>, а наносимый урон повышается на <color=#4d92e7>{1}</color> (длительность: 24 сек.)."}
 {"id":"skill_entry:3285649985024","en":"20%","ru":"20%"}
 {"id":"skill_entry:3285649985025","en":"20%","ru":"20%"}
-{"id":"skill_entry:3289944951296","en":"Whisper of the Night Owl","ru":"Шёпот ночной совы"}
+{"id":"skill_entry:3289944951296","en":"Voice of the Night Owl","ru":"Голос ночной совы"}
 {"id":"skill_entry:3289944951808","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3289944952064","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3289944952320","en":"0.03","ru":"0.03"}
-{"id":"skill_entry:3294239918592","en":"Whisper of the Night Owl","ru":"Шёпот ночной совы"}
+{"id":"skill_entry:3294239918592","en":"Voice of the Night Owl","ru":"Голос ночной совы"}
 {"id":"skill_entry:3294239919104","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3294239919360","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3294239919616","en":"0.0375","ru":"0.0375"}
-{"id":"skill_entry:3298534885888","en":"Whisper of the Night Owl","ru":"Шёпот ночной совы"}
+{"id":"skill_entry:3298534885888","en":"Voice of the Night Owl","ru":"Голос ночной совы"}
 {"id":"skill_entry:3298534886400","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3298534886656","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3298534886912","en":"0.045","ru":"0.045"}
-{"id":"skill_entry:3302829853184","en":"Whisper of the Night Owl","ru":"Шёпот ночной совы"}
+{"id":"skill_entry:3302829853184","en":"Voice of the Night Owl","ru":"Голос ночной совы"}
 {"id":"skill_entry:3302829853696","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3302829853952","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3302829854208","en":"0.0525","ru":"0.0525"}
-{"id":"skill_entry:3307124820480","en":"Whisper of the Night Owl","ru":"Шёпот ночной совы"}
+{"id":"skill_entry:3307124820480","en":"Voice of the Night Owl","ru":"Голос ночной совы"}
 {"id":"skill_entry:3307124820992","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3307124821248","en":"When the equipping character gains a Sigil on the field, they gain 1 stack(s) of \"Intuition\" (max 5 stacks). When a Starpolar Skill is triggered, all \"Intuition\" is consumed, and the whole team's EX CRIT Rate increases by <color=#4d92e7>{0}</color> per 1 stack(s) (duration: 24 sec.).","ru":"Когда экипированный персонаж получает печать на поле, он получает 1 стак(ов) «Интуиции» (макс. 5 стаков). При активации звёзднополярного навыка вся «Интуиция» расходуется, и шанс крита EX всей команды повышается на <color=#4d92e7>{0}</color> за каждые 1 стак(ов) (длительность: 24 сек.)."}
 {"id":"skill_entry:3307124821504","en":"0.06","ru":"0.06"}
@@ -2093,27 +2093,27 @@
 {"id":"skill_entry:369367190528","en":"Max HP increases by a fixed percentage.","ru":"Максимальное здоровье повышается на определённый процент."}
 {"id":"skill_entry:369367190784","en":"Max HP increased by {0}.","ru":"Максимальное здоровье повышается на {0}."}
 {"id":"skill_entry:369367191040","en":"0.365","ru":"0.365"}
-{"id":"skill_entry:3697966844416","en":"The Wind Is Calm Again Today","ru":"И сегодня ветер спокоен"}
+{"id":"skill_entry:3697966844416","en":"A Day of Calm","ru":"День затишья"}
 {"id":"skill_entry:3697966844928","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3697966845184","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3697966845440","en":"4.5%","ru":"4.5%"}
 {"id":"skill_entry:3697966845441","en":"4.5%","ru":"4.5%"}
-{"id":"skill_entry:3702261811712","en":"The Wind Is Calm Again Today","ru":"И сегодня ветер спокоен"}
+{"id":"skill_entry:3702261811712","en":"A Day of Calm","ru":"День затишья"}
 {"id":"skill_entry:3702261812224","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3702261812480","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3702261812736","en":"5.63%","ru":"5.63%"}
 {"id":"skill_entry:3702261812737","en":"5.63%","ru":"5.63%"}
-{"id":"skill_entry:3706556779008","en":"The Wind Is Calm Again Today","ru":"И сегодня ветер спокоен"}
+{"id":"skill_entry:3706556779008","en":"A Day of Calm","ru":"День затишья"}
 {"id":"skill_entry:3706556779520","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3706556779776","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3706556780032","en":"6.75%","ru":"6.75%"}
 {"id":"skill_entry:3706556780033","en":"6.75%","ru":"6.75%"}
-{"id":"skill_entry:3710851746304","en":"The Wind Is Calm Again Today","ru":"И сегодня ветер спокоен"}
+{"id":"skill_entry:3710851746304","en":"A Day of Calm","ru":"День затишья"}
 {"id":"skill_entry:3710851746816","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3710851747072","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3710851747328","en":"7.88%","ru":"7.88%"}
 {"id":"skill_entry:3710851747329","en":"7.88%","ru":"7.88%"}
-{"id":"skill_entry:3715146713600","en":"The Wind Is Calm Again Today","ru":"И сегодня ветер спокоен"}
+{"id":"skill_entry:3715146713600","en":"A Day of Calm","ru":"День затишья"}
 {"id":"skill_entry:3715146714112","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3715146714368","en":"After the wearer uses a Starecho Skill, the whole team's ATK increases by <color=#4d92e7>{0}</color> (duration: 15 seconds). While this effect is active, using a Starpolar Skill increases the whole team's damage dealt by <color=#4d92e7>{1}</color> (duration: 15 seconds).","ru":"После применения носителем навыка звёздного эха атака всей команды повышается на <color=#4d92e7>{0}</color> (длительность: 15 секунд). Если во время действия эффекта применить звёзднополярный навык, наносимый всей командой урон повышается на <color=#4d92e7>{1}</color> (длительность: 15 секунд)."}
 {"id":"skill_entry:3715146714624","en":"9%","ru":"9%"}
@@ -2498,23 +2498,23 @@
 {"id":"skill_entry:794568952832","en":"Energy recovery amplification.","ru":"Усиление восстановления энергии."}
 {"id":"skill_entry:794568953088","en":"Starpolar Charge recovery rate increases by {0}.","ru":"Скорость восстановления звёзднополярного заряда повышается на {0}."}
 {"id":"skill_entry:794568953344","en":"0.2","ru":"0.2"}
-{"id":"skill_entry:798863919616","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:798863919616","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:798863920128","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:798863920384","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:798863920640","en":"0.035","ru":"0.035"}
-{"id":"skill_entry:803158886912","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:803158886912","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:803158887424","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:803158887680","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:803158887936","en":"0.045","ru":"0.045"}
-{"id":"skill_entry:807453854208","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:807453854208","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:807453854720","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:807453854976","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:807453855232","en":"0.06","ru":"0.06"}
-{"id":"skill_entry:811748821504","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:811748821504","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:811748822016","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:811748822272","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:811748822528","en":"0.08","ru":"0.08"}
-{"id":"skill_entry:816043788800","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:816043788800","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:816043789312","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:816043789568","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:816043789824","en":"0.1","ru":"0.1"}
@@ -2522,43 +2522,43 @@
 {"id":"skill_entry:81604381696","en":"ATK increases by a fixed percentage.","ru":"Сила атаки повышается на определённый процент."}
 {"id":"skill_entry:81604381952","en":"ATK increased by {0}.","ru":"Сила атаки повышается на {0}."}
 {"id":"skill_entry:81604382208","en":"0.08","ru":"0.08"}
-{"id":"skill_entry:820338756096","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:820338756096","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:820338756608","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:820338756864","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:820338757120","en":"0.13","ru":"0.13"}
-{"id":"skill_entry:824633723392","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:824633723392","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:824633723904","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:824633724160","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:824633724416","en":"0.16","ru":"0.16"}
-{"id":"skill_entry:828928690688","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:828928690688","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:828928691200","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:828928691456","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:828928691712","en":"0.185","ru":"0.185"}
-{"id":"skill_entry:833223657984","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:833223657984","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:833223658496","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:833223658752","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:833223659008","en":"0.2","ru":"0.2"}
-{"id":"skill_entry:837518625280","en":"Pierce DMG Up","ru":"Рост урона пробития"}
+{"id":"skill_entry:837518625280","en":"Pierce","ru":"Пробитие"}
 {"id":"skill_entry:837518625792","en":"Damage amplification for Normal Attacks and Charged Attacks.","ru":"Усиление урона обычных и заряженных атак."}
 {"id":"skill_entry:837518626048","en":"Normal Attack and Charged Attack damage increases by {0}.","ru":"Урон обычных и заряженных атак повышается на {0}."}
 {"id":"skill_entry:837518626304","en":"0.22","ru":"0.22"}
-{"id":"skill_entry:841813592576","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:841813592576","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:841813593088","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:841813593344","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:841813593600","en":"0.035","ru":"0.035"}
-{"id":"skill_entry:846108559872","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:846108559872","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:846108560384","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:846108560640","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:846108560896","en":"0.045","ru":"0.045"}
-{"id":"skill_entry:850403527168","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:850403527168","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:850403527680","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:850403527936","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:850403528192","en":"0.06","ru":"0.06"}
-{"id":"skill_entry:854698494464","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:854698494464","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:854698494976","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:854698495232","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:854698495488","en":"0.08","ru":"0.08"}
-{"id":"skill_entry:858993461760","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:858993461760","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:858993462272","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:858993462528","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:858993462784","en":"0.1","ru":"0.1"}
@@ -2570,23 +2570,23 @@
 {"id":"skill_entry:8589937664","en":"ATK increases; dealing damage increases DMG amplification.","ru":"Сила атаки повышается, а при нанесении урона усиливается прибавка к урону."}
 {"id":"skill_entry:8589937920","en":"ATK increased by {0}.","ru":"Сила атаки повышается на {0}."}
 {"id":"skill_entry:8589938176","en":"50","ru":"50"}
-{"id":"skill_entry:863288429056","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:863288429056","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:863288429568","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:863288429824","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:863288430080","en":"0.13","ru":"0.13"}
-{"id":"skill_entry:867583396352","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:867583396352","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:867583396864","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:867583397120","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:867583397376","en":"0.16","ru":"0.16"}
-{"id":"skill_entry:871878363648","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:871878363648","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:871878364160","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:871878364416","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:871878364672","en":"0.185","ru":"0.185"}
-{"id":"skill_entry:876173330944","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:876173330944","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:876173331456","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:876173331712","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:876173331968","en":"0.2","ru":"0.2"}
-{"id":"skill_entry:880468298240","en":"Assault DMG Up","ru":"Рост урона натиска"}
+{"id":"skill_entry:880468298240","en":"Assault","ru":"Натиск"}
 {"id":"skill_entry:880468298752","en":"Damage amplification for Skills and Starpolar Skills.","ru":"Усиление урона навыков и звёзднополярных навыков."}
 {"id":"skill_entry:880468299008","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:880468299264","en":"0.22","ru":"0.22"}
@@ -2701,27 +2701,27 @@
 {"id":"skill_entry:970662611456","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:970662611968","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:970662612224","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:970662612480","en":"-1%","ru":"-1%"}
+{"id":"skill_entry:970662612480","en":"1%","ru":"1%"}
 {"id":"skill_entry:970662612481","en":"3.5%","ru":"3.5%"}
 {"id":"skill_entry:974957578752","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:974957579264","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:974957579520","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:974957579776","en":"-1.5%","ru":"-1.5%"}
+{"id":"skill_entry:974957579776","en":"1.5%","ru":"1.5%"}
 {"id":"skill_entry:974957579777","en":"4.5%","ru":"4.5%"}
 {"id":"skill_entry:979252546048","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:979252546560","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:979252546816","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:979252547072","en":"-2%","ru":"-2%"}
+{"id":"skill_entry:979252547072","en":"2%","ru":"2%"}
 {"id":"skill_entry:979252547073","en":"6%","ru":"6%"}
 {"id":"skill_entry:983547513344","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:983547513856","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:983547514112","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:983547514368","en":"-2.5%","ru":"-2.5%"}
+{"id":"skill_entry:983547514368","en":"2.5%","ru":"2.5%"}
 {"id":"skill_entry:983547514369","en":"8%","ru":"8%"}
 {"id":"skill_entry:987842480640","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:987842481152","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:987842481408","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:987842481664","en":"-3%","ru":"-3%"}
+{"id":"skill_entry:987842481664","en":"3%","ru":"3%"}
 {"id":"skill_entry:987842481665","en":"10.5%","ru":"10.5%"}
 {"id":"skill_entry:98784250368","en":"Fierce Strike","ru":"Яростный удар"}
 {"id":"skill_entry:98784250880","en":"ATK increases by a fixed percentage.","ru":"Сила атаки повышается на определённый процент."}
@@ -2730,10 +2730,10 @@
 {"id":"skill_entry:992137447936","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:992137448448","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:992137448704","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:992137448960","en":"-3.5%","ru":"-3.5%"}
+{"id":"skill_entry:992137448960","en":"3.5%","ru":"3.5%"}
 {"id":"skill_entry:992137448961","en":"13.5%","ru":"13.5%"}
 {"id":"skill_entry:996432415232","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:996432415744","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
 {"id":"skill_entry:996432416000","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
-{"id":"skill_entry:996432416256","en":"-4%","ru":"-4%"}
+{"id":"skill_entry:996432416256","en":"4%","ru":"4%"}
 {"id":"skill_entry:996432416257","en":"16%","ru":"16%"}
