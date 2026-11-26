@@ -26,7 +26,7 @@
 {"id":"home_exchange_order:4733075435028736","locale":"jp","text":"軟らかい木の買取"}
 {"id":"home_exchange_order:4733079729996032","locale":"jp","text":"繊維の買取"}
 {"id":"home_exchange_order:4733084024963328","locale":"jp","text":"マダラキノコの買取"}
-{"id":"home_exchange_order:4733088319930624","locale":"jp","text":"エイプル買取"}
+{"id":"home_exchange_order:4733088319930624","locale":"jp","text":"エイプルの買取"}
 {"id":"home_exchange_order:4733092614897920","locale":"jp","text":"ムーンベリーの買取"}
 {"id":"home_exchange_order:4733096909865216","locale":"jp","text":"ユースベリーの買取"}
 {"id":"home_exchange_order:4733101204832512","locale":"jp","text":"リッチモモの買取"}
@@ -88,7 +88,7 @@
 {"id":"home_exchange_order:4737499251343616","locale":"jp","text":"鋭いくちばしの大量買取"}
 {"id":"home_exchange_order:4737503546310912","locale":"jp","text":"鱗光の薄膜の大量買取"}
 {"id":"home_exchange_order:4737507841278208","locale":"jp","text":"在りし日の抜け殻の大量買取"}
-{"id":"home_exchange_order:4737512136245504","locale":"jp","text":"元素の砂大量買取"}
+{"id":"home_exchange_order:4737512136245504","locale":"jp","text":"元素の砂の大量買取"}
 {"id":"home_exchange_order:4737516431212800","locale":"jp","text":"凝結した晶核の大量買取"}
 {"id":"home_exchange_order:4737520726180096","locale":"jp","text":"不動のコアの大量買取"}
 {"id":"home_exchange_order:4737525021147392","locale":"jp","text":"空脈の葉の大量買取"}
@@ -107,7 +107,7 @@
 {"id":"home_exchange_order:4737598035591424","locale":"jp","text":"高級木製工芸品"}
 {"id":"home_exchange_order:4737602330558720","locale":"jp","text":"軽羽の冠の大量依頼"}
 {"id":"home_exchange_order:4737606625526016","locale":"jp","text":"高級鏡鉄工芸品"}
-{"id":"home_exchange_order:4737610920493312","locale":"jp","text":"高级皮革工芸品"}
+{"id":"home_exchange_order:4737610920493312","locale":"jp","text":"高級皮革工芸品"}
 {"id":"home_exchange_order:4737615215460608","locale":"jp","text":"チョノコ炉の大量依頼"}
 {"id":"home_exchange_order:4737619510427904","locale":"jp","text":"宝石箱の大量依頼"}
 {"id":"home_exchange_order:4737623805395200","locale":"jp","text":"森鏡の木鼓の大量依頼"}
@@ -210,7 +210,7 @@
 {"id":"home_exchange_order:4776025107988736","locale":"jp","text":"軟らかい木の買取"}
 {"id":"home_exchange_order:4776029402956032","locale":"jp","text":"繊維の買取"}
 {"id":"home_exchange_order:4776033697923328","locale":"jp","text":"マダラキノコの買取"}
-{"id":"home_exchange_order:4776037992890624","locale":"jp","text":"エイプル買取"}
+{"id":"home_exchange_order:4776037992890624","locale":"jp","text":"エイプルの買取"}
 {"id":"home_exchange_order:4776042287857920","locale":"jp","text":"ムーンベリーの買取"}
 {"id":"home_exchange_order:4776046582825216","locale":"jp","text":"ユースベリーの買取"}
 {"id":"home_exchange_order:4776050877792512","locale":"jp","text":"リッチモモの買取"}
@@ -272,7 +272,7 @@
 {"id":"home_exchange_order:4780448924303616","locale":"jp","text":"鋭いくちばしの大量買取"}
 {"id":"home_exchange_order:4780453219270912","locale":"jp","text":"鱗光の薄膜の大量買取"}
 {"id":"home_exchange_order:4780457514238208","locale":"jp","text":"在りし日の抜け殻の大量買取"}
-{"id":"home_exchange_order:4780461809205504","locale":"jp","text":"元素の砂大量買取"}
+{"id":"home_exchange_order:4780461809205504","locale":"jp","text":"元素の砂の大量買取"}
 {"id":"home_exchange_order:4780466104172800","locale":"jp","text":"凝結した晶核の大量買取"}
 {"id":"home_exchange_order:4780470399140096","locale":"jp","text":"不動のコアの大量買取"}
 {"id":"home_exchange_order:4780474694107392","locale":"jp","text":"空脈の葉の大量買取"}
@@ -291,7 +291,7 @@
 {"id":"home_exchange_order:4780547708551424","locale":"jp","text":"高級木製工芸品"}
 {"id":"home_exchange_order:4780552003518720","locale":"jp","text":"軽羽の冠の大量依頼"}
 {"id":"home_exchange_order:4780556298486016","locale":"jp","text":"高級鏡鉄工芸品"}
-{"id":"home_exchange_order:4780560593453312","locale":"jp","text":"高级皮革工芸品"}
+{"id":"home_exchange_order:4780560593453312","locale":"jp","text":"高級皮革工芸品"}
 {"id":"home_exchange_order:4780564888420608","locale":"jp","text":"チョノコ炉の大量依頼"}
 {"id":"home_exchange_order:4780569183387904","locale":"jp","text":"宝石箱の大量依頼"}
 {"id":"home_exchange_order:4780573478355200","locale":"jp","text":"森鏡の木鼓の大量依頼"}
@@ -394,7 +394,7 @@
 {"id":"home_exchange_order:4818974780948736","locale":"jp","text":"軟らかい木の買取"}
 {"id":"home_exchange_order:4818979075916032","locale":"jp","text":"繊維の買取"}
 {"id":"home_exchange_order:4818983370883328","locale":"jp","text":"マダラキノコの買取"}
-{"id":"home_exchange_order:4818987665850624","locale":"jp","text":"エイプル買取"}
+{"id":"home_exchange_order:4818987665850624","locale":"jp","text":"エイプルの買取"}
 {"id":"home_exchange_order:4818991960817920","locale":"jp","text":"ムーンベリーの買取"}
 {"id":"home_exchange_order:4818996255785216","locale":"jp","text":"ユースベリーの買取"}
 {"id":"home_exchange_order:4819000550752512","locale":"jp","text":"リッチモモの買取"}
@@ -456,7 +456,7 @@
 {"id":"home_exchange_order:4823398597263616","locale":"jp","text":"鋭いくちばしの大量買取"}
 {"id":"home_exchange_order:4823402892230912","locale":"jp","text":"鱗光の薄膜の大量買取"}
 {"id":"home_exchange_order:4823407187198208","locale":"jp","text":"在りし日の抜け殻の大量買取"}
-{"id":"home_exchange_order:4823411482165504","locale":"jp","text":"元素の砂大量買取"}
+{"id":"home_exchange_order:4823411482165504","locale":"jp","text":"元素の砂の大量買取"}
 {"id":"home_exchange_order:4823415777132800","locale":"jp","text":"凝結した晶核の大量買取"}
 {"id":"home_exchange_order:4823420072100096","locale":"jp","text":"不動のコアの大量買取"}
 {"id":"home_exchange_order:4823424367067392","locale":"jp","text":"空脈の葉の大量買取"}
@@ -475,7 +475,7 @@
 {"id":"home_exchange_order:4823497381511424","locale":"jp","text":"高級木製工芸品"}
 {"id":"home_exchange_order:4823501676478720","locale":"jp","text":"軽羽の冠の大量依頼"}
 {"id":"home_exchange_order:4823505971446016","locale":"jp","text":"高級鏡鉄工芸品"}
-{"id":"home_exchange_order:4823510266413312","locale":"jp","text":"高级皮革工芸品"}
+{"id":"home_exchange_order:4823510266413312","locale":"jp","text":"高級皮革工芸品"}
 {"id":"home_exchange_order:4823514561380608","locale":"jp","text":"チョノコ炉の大量依頼"}
 {"id":"home_exchange_order:4823518856347904","locale":"jp","text":"宝石箱の大量依頼"}
 {"id":"home_exchange_order:4823523151315200","locale":"jp","text":"森鏡の木鼓の大量依頼"}

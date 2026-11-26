@@ -165,7 +165,7 @@
 {"id":"world_spawner:15169824489728","locale":"jp","text":"ペブルス"}
 {"id":"world_spawner:15174119457024","locale":"jp","text":"アティオ"}
 {"id":"world_spawner:15178414424320","locale":"jp","text":"フーリィ"}
-{"id":"world_spawner:15182709391616","locale":"jp","text":"【出所不明テキスト】"}
+{"id":"world_spawner:15182709391616","locale":"jp","text":"マルモッコ"}
 {"id":"world_spawner:15187004358912","locale":"jp","text":"バングース"}
 {"id":"world_spawner:15195594293504","locale":"jp","text":"ゼリートン"}
 {"id":"world_spawner:15199889260800","locale":"jp","text":"センザロ"}
@@ -173,7 +173,7 @@
 {"id":"world_spawner:15212774162688","locale":"jp","text":"ツルネフィ"}
 {"id":"world_spawner:15217069129984","locale":"jp","text":"ネビュリオン"}
 {"id":"world_spawner:15221364097280","locale":"jp","text":"クロディーメ"}
-{"id":"world_spawner:15225659064576","locale":"jp","text":"チーモ"}
+{"id":"world_spawner:15225659064576","locale":"jp","text":"ディディ"}
 {"id":"world_spawner:15229954031872","locale":"jp","text":"メルッポ"}
 {"id":"world_spawner:15234248999168","locale":"jp","text":"キノカ"}
 {"id":"world_spawner:15238543966464","locale":"jp","text":"エラハティ"}
@@ -218,7 +218,7 @@
 {"id":"world_spawner:15406047691008","locale":"jp","text":"アズドラーン"}
 {"id":"world_spawner:15436112462080","locale":"jp","text":"るつぼ"}
 {"id":"world_spawner:15440407429376","locale":"jp","text":"怪しい者"}
-{"id":"world_spawner:1632087572736","locale":"jp","text":"ティナナのチーモ"}
+{"id":"world_spawner:1632087572736","locale":"jp","text":"ティナナのディディ"}
 {"id":"world_spawner:1636382540032","locale":"jp","text":"ウル"}
 {"id":"world_spawner:1675037245696","locale":"jp","text":"ムームゥト"}
 {"id":"world_spawner:1679332212992","locale":"jp","text":"ムームゥト"}
@@ -340,7 +340,7 @@
 {"id":"world_spawner:2362253487636736","locale":"jp","text":"普通のキボのタマゴ・氷"}
 {"id":"world_spawner:2362257782604032","locale":"jp","text":"普通のキボのタマゴ・風"}
 {"id":"world_spawner:2362262077571328","locale":"jp","text":"普通のキボのタマゴ・木"}
-{"id":"world_spawner:2362266372538624","locale":"jp","text":"普通のキボのタマゴ・土"}
+{"id":"world_spawner:2362266372538624","locale":"jp","text":"普通のキボのタマゴ・地"}
 {"id":"world_spawner:2362270667505920","locale":"jp","text":"普通のキボのタマゴ・雷"}
 {"id":"world_spawner:2362274962473216","locale":"jp","text":"普通のキボのタマゴ・光"}
 {"id":"world_spawner:2362279257440512","locale":"jp","text":"普通のキボのタマゴ・闇"}
@@ -357,7 +357,7 @@
 {"id":"world_spawner:2362326502080768","locale":"jp","text":"普通のキボのタマゴ・氷"}
 {"id":"world_spawner:2362330797048064","locale":"jp","text":"普通のキボのタマゴ・風"}
 {"id":"world_spawner:2362335092015360","locale":"jp","text":"普通のキボのタマゴ・木"}
-{"id":"world_spawner:2362339386982656","locale":"jp","text":"普通のキボのタマゴ・土"}
+{"id":"world_spawner:2362339386982656","locale":"jp","text":"普通のキボのタマゴ・地"}
 {"id":"world_spawner:2362343681949952","locale":"jp","text":"普通のキボのタマゴ・雷"}
 {"id":"world_spawner:2362347976917248","locale":"jp","text":"普通のキボのタマゴ・光"}
 {"id":"world_spawner:2362352271884544","locale":"jp","text":"普通のキボのタマゴ・闇"}
@@ -1172,7 +1172,7 @@
 {"id":"world_spawner:34378086468288768","locale":"jp","text":"チャラキ"}
 {"id":"world_spawner:34378090763256064","locale":"jp","text":"ククヤ"}
 {"id":"world_spawner:34378095058223360","locale":"jp","text":"ララカ"}
-{"id":"world_spawner:34378099353190656","locale":"jp","text":"燎炎"}
+{"id":"world_spawner:34378099353190656","locale":"jp","text":"フレイム"}
 {"id":"world_spawner:34378103648157952","locale":"jp","text":"アテナ"}
 {"id":"world_spawner:34378107943125248","locale":"jp","text":"ライラ"}
 {"id":"world_spawner:34378112238092544","locale":"jp","text":"テティ"}

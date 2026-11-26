@@ -25,7 +25,7 @@
 {"id":"game_events_cul_shop:150323855616","locale":"jp","text":"リラックスアロマ"}
 {"id":"game_events_cul_shop:150323855872","locale":"jp","text":"返し刀+25。\n柔らかな花の香りが心身を落ち着かせる。"}
 {"id":"game_events_cul_shop:154618822912","locale":"jp","text":"金麦パン"}
-{"id":"game_events_cul_shop:154618823168","locale":"jp","text":"集中+30。\n麦の香りが漂う、素朴な美味しさ。"}
+{"id":"game_events_cul_shop:154618823168","locale":"jp","text":"集中+30。\n麦の香りが漂う、素朴なおいしさ。"}
 {"id":"game_events_cul_shop:158913790208","locale":"jp","text":"ハニーローストコーン"}
 {"id":"game_events_cul_shop:158913790464","locale":"jp","text":"集中+30。修行時の集中消費量-20%、ユニ消費量+20%。\n効果は1日持続する。\n今回はどんな味のものが手に入るだろうか？"}
 {"id":"game_events_cul_shop:163208757504","locale":"jp","text":"クリーミーポテト"}
@@ -93,7 +93,7 @@
 {"id":"game_events_cul_shop:283467841792","locale":"jp","text":"幸運のお守り・特価"}
 {"id":"game_events_cul_shop:283467842048","locale":"jp","text":"全商品の価格に、ランダムで+5%、-10%、-20%のいずれかの変動が適用される。\n効果は2日間持続する。\nパリリがユニに関連する祝福を付与した。"}
 {"id":"game_events_cul_shop:287762809088","locale":"jp","text":"幸運のお守り・饗宴"}
-{"id":"game_events_cul_shop:287762809344","locale":"jp","text":"以下のうち、1つがランダムに発動：料理の購入上限+1、デザートの購入上限+1、または修行時の集中消費量+10%。\n効果は2日間持続する。\n結果は吉と出るか、凶と出るか？"}
+{"id":"game_events_cul_shop:287762809344","locale":"jp","text":"以下のうち、1つがランダムに発動：料理の購入上限+1、スイーツの購入上限+1、または修行時の集中消費量+10%。\n効果は2日間持続する。\n結果は吉と出るか、凶と出るか？"}
 {"id":"game_events_cul_shop:292057776384","locale":"jp","text":"パミーの物語・節約"}
 {"id":"game_events_cul_shop:292057776640","locale":"jp","text":"修行中、ユニの消費量-50%。\n効果は1日持続する。\nパミーが語る、鏡花州の商人が一文無しから成り上がった物語。"}
 {"id":"game_events_cul_shop:296352743680","locale":"jp","text":"パミーの物語・熟練"}
@@ -104,8 +104,8 @@
 {"id":"game_events_cul_shop:30064771584","locale":"jp","text":"危険な迷跡の森で狩猟を行うには、救援サービス付きの高級狩猟パスを購入する必要がある。\n遊歴イベント『高級狩猟・7』を解放する。\n必要な保証金：<cspace=-0.06em><b><color=#a95a4a>2,000</color></b></cspace>\n予想収穫：<cspace=-0.06em><b><color=#71a83f>12,000</color></b></cspace>"}
 {"id":"game_events_cul_shop:304942678272","locale":"jp","text":"パミーの物語・信用"}
 {"id":"game_events_cul_shop:304942678528","locale":"jp","text":"遊歴時のユニ獲得量+25%。\n効果は1日持続する。\nパミーが語る、働き者の小さなパミーがあちこちでアルバイトをする物語。"}
-{"id":"game_events_cul_shop:309237645568","locale":"jp","text":"幸運のお守り・縁結び"}
-{"id":"game_events_cul_shop:309237645824","locale":"jp","text":"絆値獲得量+300%。\n効果は1日持続する。\n「仙狐さま」の祝福が付いているよ～"}
+{"id":"game_events_cul_shop:309237645568","locale":"jp","text":"幸運のお守り・結縁"}
+{"id":"game_events_cul_shop:309237645824","locale":"jp","text":"絆値獲得量+300%。\n効果は1日持続する。\n『仙狐さま』の祝福が付いているよ～"}
 {"id":"game_events_cul_shop:313532612864","locale":"jp","text":"幸運のお守り・集中"}
 {"id":"game_events_cul_shop:313532613120","locale":"jp","text":"集中回復効果+20%。\n効果は3日間持続する。\n装備すると心が落ち着く。"}
 {"id":"game_events_cul_shop:317827580160","locale":"jp","text":"パミーの物語・臨戦"}
@@ -179,7 +179,7 @@
 {"id":"game_events_cul_shop:489626272000","locale":"jp","text":"リラックスアロマ"}
 {"id":"game_events_cul_shop:489626272256","locale":"jp","text":"返し刀+25。\n柔らかな花の香りが心身を落ち着かせる。"}
 {"id":"game_events_cul_shop:493921239296","locale":"jp","text":"金麦パン"}
-{"id":"game_events_cul_shop:493921239552","locale":"jp","text":"集中+30。\n麦の香りが漂う、素朴な美味しさ。"}
+{"id":"game_events_cul_shop:493921239552","locale":"jp","text":"集中+30。\n麦の香りが漂う、素朴なおいしさ。"}
 {"id":"game_events_cul_shop:498216206592","locale":"jp","text":"ハニーローストコーン"}
 {"id":"game_events_cul_shop:498216206848","locale":"jp","text":"集中+30。修行時の集中消費量-20%、ユニ消費量+20%。\n効果は1日持続する。\n今回はどんな味のものが手に入るだろうか？"}
 {"id":"game_events_cul_shop:502511173888","locale":"jp","text":"クリーミーポテト"}
@@ -225,7 +225,7 @@
 {"id":"game_events_cul_shop:622770258176","locale":"jp","text":"幸運のお守り・特価"}
 {"id":"game_events_cul_shop:622770258432","locale":"jp","text":"全商品の価格に、ランダムで+5%、-10%、-20%のいずれかの変動が適用される。\n効果は2日間持続する。\nパリリがユニに関連する祝福を付与した。"}
 {"id":"game_events_cul_shop:627065225472","locale":"jp","text":"幸運のお守り・饗宴"}
-{"id":"game_events_cul_shop:627065225728","locale":"jp","text":"以下のうち、1つがランダムに発動：料理の購入上限+1、デザートの購入上限+1、または修行時の集中消費量+10%。\n効果は2日間持続する。\n結果は吉と出るか、凶と出るか？"}
+{"id":"game_events_cul_shop:627065225728","locale":"jp","text":"以下のうち、1つがランダムに発動：料理の購入上限+1、スイーツの購入上限+1、または修行時の集中消費量+10%。\n効果は2日間持続する。\n結果は吉と出るか、凶と出るか？"}
 {"id":"game_events_cul_shop:631360192768","locale":"jp","text":"パミーの物語・節約"}
 {"id":"game_events_cul_shop:631360193024","locale":"jp","text":"修行中、ユニの消費量-50%。\n効果は1日持続する。\nパミーが語る、鏡花州の商人が一文無しから成り上がった物語。"}
 {"id":"game_events_cul_shop:635655160064","locale":"jp","text":"パミーの物語・熟練"}
@@ -236,8 +236,8 @@
 {"id":"game_events_cul_shop:644245094912","locale":"jp","text":"遊歴時のユニ獲得量+25%。\n効果は1日持続する。\nパミーが語る、働き者の小さなパミーがあちこちでアルバイトをする物語。"}
 {"id":"game_events_cul_shop:64424509696","locale":"jp","text":"巻藁・最上級"}
 {"id":"game_events_cul_shop:64424509952","locale":"jp","text":"居合修行時の全ステータス獲得量が追加で+1。集中消費量+1、ユニ消費量+200。\n居合修行に使う試し斬り用の巻藁を改良する。"}
-{"id":"game_events_cul_shop:648540061952","locale":"jp","text":"幸運のお守り・縁結び"}
-{"id":"game_events_cul_shop:648540062208","locale":"jp","text":"絆値獲得量+300%。\n効果は1日持続する。\n「仙狐さま」の祝福が付いているよ～"}
+{"id":"game_events_cul_shop:648540061952","locale":"jp","text":"幸運のお守り・結縁"}
+{"id":"game_events_cul_shop:648540062208","locale":"jp","text":"絆値獲得量+300%。\n効果は1日持続する。\n『仙狐さま』の祝福が付いているよ～"}
 {"id":"game_events_cul_shop:652835029248","locale":"jp","text":"幸運のお守り・集中"}
 {"id":"game_events_cul_shop:652835029504","locale":"jp","text":"集中回復効果+20%。\n効果は3日間持続する。\n装備すると心が落ち着く。"}
 {"id":"game_events_cul_shop:657129996544","locale":"jp","text":"パミーの物語・臨戦"}

@@ -4,14 +4,14 @@
 {"id":"common_item_type:1301375091456","locale":"jp","text":"鉱石"}
 {"id":"common_item_type:1309965026048","locale":"jp","text":"作物"}
 {"id":"common_item_type:1314259993344","locale":"jp","text":"果物"}
-{"id":"common_item_type:1318554960640","locale":"jp","text":"薬草"}
+{"id":"common_item_type:1318554960640","locale":"jp","text":"薬材"}
 {"id":"common_item_type:1322849927936","locale":"jp","text":"肉・卵・乳製品"}
 {"id":"common_item_type:1327144895232","locale":"jp","text":"魚類"}
 {"id":"common_item_type:1331439862528","locale":"jp","text":"種"}
 {"id":"common_item_type:1335734829824","locale":"jp","text":"素材：微粒子"}
 {"id":"common_item_type:1340029797120","locale":"jp","text":"ステラカード素材"}
 {"id":"common_item_type:1344324764416","locale":"jp","text":"革と布"}
-{"id":"common_item_type:1348619731712","locale":"jp","text":"花"}
+{"id":"common_item_type:1348619731712","locale":"jp","text":"草花"}
 {"id":"common_item_type:1352914699008","locale":"jp","text":"工芸品"}
 {"id":"common_item_type:1357209666304","locale":"jp","text":"現在は用途なし"}
 {"id":"common_item_type:1361504633600","locale":"jp","text":"料理の半製品"}
@@ -24,7 +24,7 @@
 {"id":"common_item_type:1546188227328","locale":"jp","text":"料理素材"}
 {"id":"common_item_type:1717986919168","locale":"jp","text":"キャラクター経験値素材"}
 {"id":"common_item_type:1726576853760","locale":"jp","text":"キボ経験値の実"}
-{"id":"common_item_type:1730871821056","locale":"jp","text":"霊子経験値素材"}
+{"id":"common_item_type:1730871821056","locale":"jp","text":"アニマ経験値素材"}
 {"id":"common_item_type:1735166788352","locale":"jp","text":"素材"}
 {"id":"common_item_type:1743756722944","locale":"jp","text":"農園ペット関連"}
 {"id":"common_item_type:1748051690240","locale":"jp","text":"農園ペット関連"}
@@ -33,7 +33,7 @@
 {"id":"common_item_type:1765231559424","locale":"jp","text":"潜在能力訓練素材"}
 {"id":"common_item_type:1803886265088","locale":"jp","text":"釣り竿"}
 {"id":"common_item_type:1808181232384","locale":"jp","text":"釣り餌"}
-{"id":"common_item_type:1821066134272","locale":"jp","text":"星賜"}
+{"id":"common_item_type:1821066134272","locale":"jp","text":"星祝"}
 {"id":"common_item_type:1846835938048","locale":"jp","text":"除去符"}
 {"id":"common_item_type:1851130905344","locale":"jp","text":"交換符"}
 {"id":"common_item_type:1889785611008","locale":"jp","text":"キャラクターの調律アイテム"}
@@ -63,7 +63,7 @@
 {"id":"common_item_type:3908420240128","locale":"jp","text":"活躍度"}
 {"id":"common_item_type:3912715207424","locale":"jp","text":"旅路のポイント"}
 {"id":"common_item_type:4209067950848","locale":"jp","text":"アニマ共通星アップ素材"}
-{"id":"common_item_type:429496730368","locale":"jp","text":"スタミナ回復薬"}
+{"id":"common_item_type:429496730368","locale":"jp","text":"スタミナポーション"}
 {"id":"common_item_type:42949673728","locale":"jp","text":"星アップ素材"}
 {"id":"common_item_type:4295401087697664","locale":"jp","text":"ダンジョン入場券"}
 {"id":"common_item_type:4724464026368","locale":"jp","text":"装備製作素材"}

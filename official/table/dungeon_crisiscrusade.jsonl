@@ -71,7 +71,7 @@
 {"id":"dungeon_crisiscrusade:44259637985792","locale":"jp","text":"うっかり迷い込んで"}
 {"id":"dungeon_crisiscrusade:44259637986560","locale":"jp","text":"推奨：Lv.50"}
 {"id":"dungeon_crisiscrusade:44259637988608","locale":"jp","text":"クオウ"}
-{"id":"dungeon_crisiscrusade:44259637988864","locale":"jp","text":"壁を乗り越えて遺跡で遊ぼうとしただけなのに、うっかりトカゲの巣に足を踏み入れてしまった！トリマンダにずっと追いかけられるし、上空からはスカイホークが見張られてるし！いま、遺跡のなかは混乱状態だ。事態が大きくなる前に、だれか助けてくれ！！！"}
+{"id":"dungeon_crisiscrusade:44259637988864","locale":"jp","text":"壁を乗り越えて遺跡で遊ぼうとしただけなのに、うっかりトカゲの巣に足を踏み入れてしまった！トリマンダにずっと追いかけられるし、上空からはスカイホークに見張られてるし！いま、遺跡のなかは混乱状態だ。事態が大きくなるまえに、だれか助けてくれ！！！"}
 {"id":"dungeon_crisiscrusade:44259637991680","locale":"jp","text":"すべての敵を倒す"}
 {"id":"dungeon_crisiscrusade:44671954846208","locale":"jp","text":"新人の初仕事"}
 {"id":"dungeon_crisiscrusade:44671954846976","locale":"jp","text":"推奨：Lv.60"}
@@ -86,7 +86,7 @@
 {"id":"dungeon_crisiscrusade:44680544780800","locale":"jp","text":"軽く脅すだけでいい"}
 {"id":"dungeon_crisiscrusade:44680544781568","locale":"jp","text":"推奨：Lv.60"}
 {"id":"dungeon_crisiscrusade:44680544783616","locale":"jp","text":"カイエ"}
-{"id":"dungeon_crisiscrusade:44680544783872","locale":"jp","text":"イノシシたちは、もともと子どもを守りたかっただけなんだろう。だが、数がどんどん増えている。このままじゃ、誰かが怪我しかねない。\nすこし脅かして、遠ざけるだけでいいのだが、頼めないだろうか？"}
+{"id":"dungeon_crisiscrusade:44680544783872","locale":"jp","text":"イノシシたちは、もともと子どもを守りたかっただけなんだろう。だが、数がどんどん増えている。このままじゃ、だれかが怪我しかねない。\nすこし脅かして、遠ざけるだけでいいのだが、頼めないだろうか？"}
 {"id":"dungeon_crisiscrusade:44680544786688","locale":"jp","text":"すべての敵を倒す"}
 {"id":"dungeon_crisiscrusade:44684839748096","locale":"jp","text":"好機を掴め"}
 {"id":"dungeon_crisiscrusade:44684839748864","locale":"jp","text":"推奨：Lv.60"}
@@ -136,7 +136,7 @@
 {"id":"dungeon_crisiscrusade:45131516346880","locale":"jp","text":"本の記載によれば"}
 {"id":"dungeon_crisiscrusade:45131516347648","locale":"jp","text":"推奨：Lv.70"}
 {"id":"dungeon_crisiscrusade:45131516349696","locale":"jp","text":"ノーマ"}
-{"id":"dungeon_crisiscrusade:45131516349952","locale":"jp","text":"『「<ruby=スターリンク>星絆</ruby>」の手引き』という本を読んだんだけど、『キボファイト』をするとキボと絆を結びやすくなる、って書いてあったんだ。"}
+{"id":"dungeon_crisiscrusade:45131516349952","locale":"jp","text":"『星絆の手引き』という本を読んだんだけど、『キボファイト』をするとキボと絆を結びやすくなる、って書いてあったんだ。"}
 {"id":"dungeon_crisiscrusade:45131516352768","locale":"jp","text":"すべての敵を倒す"}
 {"id":"dungeon_crisiscrusade:45135811314176","locale":"jp","text":"ちょっと笑っただけで"}
 {"id":"dungeon_crisiscrusade:45135811314944","locale":"jp","text":"推奨：Lv.70"}

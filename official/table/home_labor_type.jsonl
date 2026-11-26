@@ -31,7 +31,7 @@
 {"id":"home_labor_type:21474837248","locale":"jp","text":"種まき時に果樹以外の種を消費しない確率が{0}上昇する"}
 {"id":"home_labor_type:21474837249","locale":"jp","text":"収穫時に追加で果樹以外の種を獲得する確率が{0}上昇する"}
 {"id":"home_labor_type:21474837504","locale":"jp","text":"畑小屋に派遣すると種まきを手伝い、<color=#767770>{0}</color>の確率で果樹以外の種を消費しない"}
-{"id":"home_labor_type:21474837505","locale":"jp","text":"収穫を手伝う際、追加で果樹以外の種を獲得する確率が<color=#767770>{0}</color>上昇する"}
+{"id":"home_labor_type:21474837505","locale":"jp","text":"収穫を手伝う際、追加で果樹以外の種を獲得する確率が<color=#767770>{0}</color>上昇"}
 {"id":"home_labor_type:21474839040","locale":"jp","text":"畑小屋"}
 {"id":"home_labor_type:21474839552","locale":"jp","text":"畑小屋"}
 {"id":"home_labor_type:21474840064","locale":"jp","text":"畑小屋"}

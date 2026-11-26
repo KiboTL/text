@@ -6,13 +6,13 @@
 {"id":"game_events_cul_end:438086666240","locale":"jp","text":"「勇気」ステータスがSランクに達すると解放される。"}
 {"id":"game_events_cul_end:442381632000","locale":"jp","text":"縁解き"}
 {"id":"game_events_cul_end:442381632512","locale":"jp","text":"妖狐同士の競り合いも、自ずと縁を媒介にするものだ……"}
-{"id":"game_events_cul_end:442381633536","locale":"jp","text":"「縁結び」ステータスがSランクに達すると解放される。"}
+{"id":"game_events_cul_end:442381633536","locale":"jp","text":"「結縁」ステータスがSランクに達すると解放される。"}
 {"id":"game_events_cul_end:446676599296","locale":"jp","text":"陣破り"}
 {"id":"game_events_cul_end:446676599808","locale":"jp","text":"何気ない細部にこそ、制敵の術が隠されているのかもしれない……"}
 {"id":"game_events_cul_end:446676600832","locale":"jp","text":"「洞察」ステータスがSランクに達すると解放される。"}
 {"id":"game_events_cul_end:450971566592","locale":"jp","text":"根絶"}
 {"id":"game_events_cul_end:450971567104","locale":"jp","text":"相手を倒すだけでなく、今後二度と悪さができないようにしないと！"}
-{"id":"game_events_cul_end:450971568128","locale":"jp","text":"他のエンディングをクリアし、「法力」ステータスがSランクに達すると解放される。"}
+{"id":"game_events_cul_end:450971568128","locale":"jp","text":"他のエンディングを達成し、「法力」ステータスがSランクに達すると解放される。"}
 {"id":"game_events_cul_end:863288427008","locale":"jp","text":"抜刀"}
 {"id":"game_events_cul_end:863288427520","locale":"jp","text":"凶獣が襲来した。『朧影』の力を使うしかない……"}
 {"id":"game_events_cul_end:863288428544","locale":"jp","text":"修行方針「基本の構え」のストーリーをクリアすると解放される。"}
@@ -23,7 +23,7 @@
 {"id":"game_events_cul_end:871878362112","locale":"jp","text":"新しい宣伝……かえって逆効果だったかも？"}
 {"id":"game_events_cul_end:871878363136","locale":"jp","text":"「返し刀」ステータスがSランクに達すると解放される"}
 {"id":"game_events_cul_end:876173328896","locale":"jp","text":"納刀"}
-{"id":"game_events_cul_end:876173329408","locale":"jp","text":"心の迷いを無くしてはじめて、『朧影』の勢いを制御できる。"}
+{"id":"game_events_cul_end:876173329408","locale":"jp","text":"心の迷いをなくしてはじめて、『朧影』の勢いを制御できる。"}
 {"id":"game_events_cul_end:876173330432","locale":"jp","text":"「制敵」ステータスがSランクに達すると解放される"}
 {"id":"game_events_cul_end:880468296192","locale":"jp","text":"万物を剣とする"}
 {"id":"game_events_cul_end:880468296704","locale":"jp","text":"心眼が澄み渡れば、万物はすべて剣となる！"}

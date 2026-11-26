@@ -68,7 +68,7 @@
 {"id":"world_interact:2156073583104","locale":"jp","text":"依頼を確認"}
 {"id":"world_interact:219043332608","locale":"jp","text":"漁場_修復"}
 {"id":"world_interact:223338299904","locale":"jp","text":"採集小屋_修復"}
-{"id":"world_interact:25769803776512","locale":"jp","text":"{0}とインタラクト"}
+{"id":"world_interact:25769803776512","locale":"jp","text":"{0}と交流"}
 {"id":"world_interact:257698038272","locale":"jp","text":"畑小屋"}
 {"id":"world_interact:25769804288","locale":"jp","text":"撮影スポット"}
 {"id":"world_interact:261993005568","locale":"jp","text":"畑小屋"}
@@ -80,7 +80,7 @@
 {"id":"world_interact:296352743936","locale":"jp","text":"ワープ"}
 {"id":"world_interact:300647711232","locale":"jp","text":"調べる"}
 {"id":"world_interact:30064771584","locale":"jp","text":"機能ジャンプ"}
-{"id":"world_interact:309237645824","locale":"jp","text":"絶景スポット"}
+{"id":"world_interact:309237645824","locale":"jp","text":"撮影スポット"}
 {"id":"world_interact:313532613120","locale":"jp","text":"ワープ"}
 {"id":"world_interact:317827580416","locale":"jp","text":"依頼を確認"}
 {"id":"world_interact:322122547712","locale":"jp","text":"依頼を出す"}
@@ -90,7 +90,7 @@
 {"id":"world_interact:339302416896","locale":"jp","text":"採集設備_採集"}
 {"id":"world_interact:343597384192","locale":"jp","text":"採集設備_修復"}
 {"id":"world_interact:34359738880","locale":"jp","text":"ワープ"}
-{"id":"world_interact:34364033335808","locale":"jp","text":"ON"}
+{"id":"world_interact:34364033335808","locale":"jp","text":"開く"}
 {"id":"world_interact:34376918237696","locale":"jp","text":"ワープ"}
 {"id":"world_interact:347892351488","locale":"jp","text":"採集設備_採集"}
 {"id":"world_interact:352187318784","locale":"jp","text":"採集設備_修復"}
@@ -144,11 +144,11 @@
 {"id":"world_interact:506806141440","locale":"jp","text":"着替え"}
 {"id":"world_interact:515396076032","locale":"jp","text":"開く"}
 {"id":"world_interact:523986010624","locale":"jp","text":"修復する"}
-{"id":"world_interact:528280977920","locale":"jp","text":"ON"}
+{"id":"world_interact:528280977920","locale":"jp","text":"開く"}
 {"id":"world_interact:532575945216","locale":"jp","text":"？？？"}
 {"id":"world_interact:541165879808","locale":"jp","text":"調べる"}
 {"id":"world_interact:579820585472","locale":"jp","text":"ダンジョンに入る"}
-{"id":"world_interact:584115552768","locale":"jp","text":"試練に入る"}
+{"id":"world_interact:584115552768","locale":"jp","text":"試練開始"}
 {"id":"world_interact:605590389248","locale":"jp","text":"調べる"}
 {"id":"world_interact:648540062208","locale":"jp","text":"星輝霊木"}
 {"id":"world_interact:652835029504","locale":"jp","text":"星輝霊木成長"}

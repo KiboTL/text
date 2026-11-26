@@ -62,8 +62,8 @@
 {"id":"abbys_buff:9023730583864064","locale":"jp","text":"キャラクターが風属性EX、光属性EX、または火属性EXを発動した時、自身のEX強度が<color=#EF903D>75</color>上昇する（最大<color=#EF903D>5</color>スタック、効果時間：<color=#EF903D>15</color>秒）。"}
 {"id":"abbys_buff:9023730583864320","locale":"jp","text":"キャラクターが風属性EX、光属性EX、または火属性EXを発動した時、自身のEX強度が<color=#EF903D>75</color>上昇する（最大<color=#EF903D>5</color>スタック、効果時間：<color=#EF903D>15</color>秒）。"}
 {"id":"abbys_buff:9023734878831104","locale":"jp","text":"累積"}
-{"id":"abbys_buff:9023734878831360","locale":"jp","text":"キャラクターが通常攻撃またはチャージ攻撃を発動した時、自身の会心率が<color=#fff06d>2%</color>上昇し、会心ダメージが<color=#fff06d>4%</color>増加する（最大<color=#fff06d>6</color>スタック、効果時間：<color=#fff06d>12</color>秒）。"}
-{"id":"abbys_buff:9023734878831616","locale":"jp","text":"キャラクターが通常攻撃またはチャージ攻撃を発動した時、自身の会心率が<color=#fff06d>2%</color>上昇し、会心ダメージが<color=#fff06d>4%</color>増加する（最大<color=#fff06d>6</color>スタック、効果時間：<color=#fff06d>12</color>秒）。"}
+{"id":"abbys_buff:9023734878831360","locale":"jp","text":"キャラクターが通常攻撃またはチャージ攻撃を発動した時、自身の会心率が<color=#EF903D>2%</color>上昇し、会心ダメージが<color=#EF903D>4%</color>増加する（最大<color=#EF903D>6</color>スタック、効果時間：<color=#EF903D>12</color>秒）。"}
+{"id":"abbys_buff:9023734878831616","locale":"jp","text":"キャラクターが通常攻撃またはチャージ攻撃を発動した時、自身の会心率が<color=#EF903D>2%</color>上昇し、会心ダメージが<color=#EF903D>4%</color>増加する（最大<color=#EF903D>6</color>スタック、効果時間：<color=#EF903D>12</color>秒）。"}
 {"id":"abbys_buff:9023739173798400","locale":"jp","text":"奇技"}
 {"id":"abbys_buff:9023739173798656","locale":"jp","text":"キボ特殊スキルを発動した後、自身の与ダメージが<color=#EF903D>12%</color>増加する（効果時間：<color=#EF903D>24</color>秒）。"}
 {"id":"abbys_buff:9023739173798912","locale":"jp","text":"キボ特殊スキルを発動した後、自身の与ダメージが<color=#EF903D>12%</color>増加する（効果時間：<color=#EF903D>24</color>秒）。"}

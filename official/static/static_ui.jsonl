@@ -10,7 +10,7 @@
 {"id":"static:01132943","locale":"jp","text":"大型"}
 {"id":"static:0122D2D0","locale":"jp","text":"jp六个字六个字"}
 {"id":"static:01247419","locale":"jp","text":"2セット：会心+15%\\\n2セット：会心+15%"}
-{"id":"static:01285E09","locale":"jp","text":"お試しキャラクター"}
+{"id":"static:01285E09","locale":"jp","text":"お試し"}
 {"id":"static:01317419","locale":"jp","text":"jp01分30秒"}
 {"id":"static:0133E40B","locale":"jp","text":"近くに珍しいキボを発見"}
 {"id":"static:0144478B","locale":"jp","text":"～ 欲しいものリスト：15/30 ～"}
@@ -40,11 +40,11 @@
 {"id":"static:0294EDF7","locale":"jp","text":"最大段階のプレビュー"}
 {"id":"static:029E42B9","locale":"jp","text":"祭器の効果、上には金色の花と蔓の装飾があり、とても雅！祭器の効果、上には金色の花と蔓の装飾があり、とても雅！また泣く放甲の上に右フルネームの竜星"}
 {"id":"static:02A21777","locale":"jp","text":"イベントルール"}
-{"id":"static:02AABC10","locale":"jp","text":"【南の谷】絶景スポットの撮影完了"}
+{"id":"static:02AABC10","locale":"jp","text":"【芽吹の谷】撮影スポットの撮影完了"}
 {"id":"static:02AD5A5C","locale":"jp","text":"シリアルコードを入力"}
 {"id":"static:02B93B56","locale":"jp","text":"jp领取后可能获得的奖励如下，需消耗"}
-{"id":"static:02D9819D","locale":"jp","text":"ヒント"}
-{"id":"static:02D9819D+1","locale":"jp","text":"ヒント"}
+{"id":"static:02D9819D","locale":"jp","text":"確認"}
+{"id":"static:02D9819D+1","locale":"jp","text":"確認"}
 {"id":"static:02E3F002","locale":"jp","text":"リストから入れ替える対象を選択してください。"}
 {"id":"static:02E95730","locale":"jp","text":"香り付けに満月草をほんの少し加えた焼き魚。満月草は\n魚の生臭さをうまく消し、香ばしく焼けた魚の香りに\n森のしっとりとした清涼感を添え、サクサクとした"}
 {"id":"static:02F1C6EC","locale":"jp","text":"ノノとの絆"}
@@ -58,8 +58,8 @@
 {"id":"static:036E4E66","locale":"jp","text":"因子数が上限に達しました。因子の実を与えると、既存の因子と入れ替えることができます。"}
 {"id":"static:0375C9A7","locale":"jp","text":"支援"}
 {"id":"static:037661A1","locale":"jp","text":"Lv.24"}
-{"id":"static:037C2CB9","locale":"jp","text":"ギフトパックを使用"}
-{"id":"static:03813AE3","locale":"jp","text":"バッグ"}
+{"id":"static:037C2CB9","locale":"jp","text":"パック使用"}
+{"id":"static:03813AE3","locale":"jp","text":"クイックバッグ"}
 {"id":"static:039445AE","locale":"jp","text":"23秒後に再度準備を呼びかけることができます。"}
 {"id":"static:0398B981","locale":"jp","text":"異脈の星巣"}
 {"id":"static:03AF8168","locale":"jp","text":"旅はまだ終わらない、星々の物語は新たな章を待っている……旅はまだ終わらない、星々の物語は新た\\\nな章を待っている……"}
@@ -72,7 +72,7 @@
 {"id":"static:044DCBC4","locale":"jp","text":"スタート"}
 {"id":"static:047F7871","locale":"jp","text":"異彩"}
 {"id":"static:048AEB42","locale":"jp","text":"jp属性克制伤害"}
-{"id":"static:04F11051","locale":"jp","text":"使用後、キャラクターの最大HPの9%を回復し、さらにHPを4000回復する1"}
+{"id":"static:04F11051","locale":"jp","text":"キャラクターの最大HPの9%を回復し、さらにHPを4000回復する1"}
 {"id":"static:04FEBE01","locale":"jp","text":"'lv:'"}
 {"id":"static:0530287B","locale":"jp","text":"平原エリア"}
 {"id":"static:0537A64D","locale":"jp","text":"クイック選択"}
@@ -122,7 +122,7 @@
 {"id":"static:093F03A5","locale":"jp","text":"種族フィルター"}
 {"id":"static:093FE697","locale":"jp","text":"星識レベルが足りません"}
 {"id":"static:096BE24A","locale":"jp","text":"猟影の丘陵採石場は、風光明媚な丘陵地帯にあり、豊富な鉱物資源に恵まれています。\nこの採石場では、効率的かつ安全な石材の採掘に取り組み、地域の建設やインフラ整備を支えるとともに、環境保護と生態系の回復にも力を入れています。"}
-{"id":"static:097AA5CC","locale":"jp","text":"ピンクのボタンを押す"}
+{"id":"static:097AA5CC","locale":"jp","text":"ピンクボタン"}
 {"id":"static:099C4E2C","locale":"jp","text":"jp肥肥虾"}
 {"id":"static:099FAD1C","locale":"jp","text":"翌日"}
 {"id":"static:09C595B3+1","locale":"jp","text":"端末の温度が高すぎるため、画質を自動調整して負荷を軽減しました。"}
@@ -134,7 +134,7 @@
 {"id":"static:0A5ADA90","locale":"jp","text":"立ち去る"}
 {"id":"static:0A758826","locale":"jp","text":"調査ポイント"}
 {"id":"static:0A7AE79B","locale":"jp","text":"ステラカード"}
-{"id":"static:0A918992","locale":"jp","text":"プレイヤーマッチング"}
+{"id":"static:0A918992","locale":"jp","text":"マッチング"}
 {"id":"static:0A93AF89","locale":"jp","text":"小屋"}
 {"id":"static:0A9AD70B","locale":"jp","text":"fov"}
 {"id":"static:0AF0135F","locale":"jp","text":"バフ建築一覧"}
@@ -255,7 +255,7 @@
 {"id":"static:1278FDBD","locale":"jp","text":"キボ（3番目）"}
 {"id":"static:12795470","locale":"jp","text":"Dialogue option is an optiona 15-character option"}
 {"id":"static:12918B4E","locale":"jp","text":"建築に切り替え"}
-{"id":"static:12982FAE","locale":"jp","text":"'Space\n\n'"}
+{"id":"static:12982FAE","locale":"jp","text":"'Space\n\n\n'"}
 {"id":"static:12B942D8","locale":"jp","text":"殺意の剣気00000000000"}
 {"id":"static:12C19AB0","locale":"jp","text":"華麗なカゴ？？"}
 {"id":"static:12D317C1","locale":"jp","text":"メインストーリーを進め、星識レベルを上げると、より高いマップレベルが解放されます"}
@@ -266,7 +266,7 @@
 {"id":"static:1318633C","locale":"jp","text":"完了！"}
 {"id":"static:131F6F6B","locale":"jp","text":"露出"}
 {"id":"static:1327D7A0","locale":"jp","text":"チーム脱退"}
-{"id":"static:132BF2BE","locale":"jp","text":"'Q\n\n'"}
+{"id":"static:132BF2BE","locale":"jp","text":"'Q\n\n\n'"}
 {"id":"static:13333600","locale":"jp","text":"マーカー編集"}
 {"id":"static:133E95A5","locale":"jp","text":"MI_準備"}
 {"id":"static:133FD33A","locale":"jp","text":"星祝を完了すると以下のアイテムを消費します。一括で星祝を行いますか？"}
@@ -308,7 +308,7 @@
 {"id":"static:15659562","locale":"jp","text":"星が伝えし"}
 {"id":"static:15733C32","locale":"jp","text":"氷"}
 {"id":"static:157B23B0","locale":"jp","text":"能力アップ"}
-{"id":"static:15A46750","locale":"jp","text":"ウミィの流動的な性質は、『隙あらば入り込む』とはどういうことかをよく示している。空の壺や瓶を長いあいだ放置しておくと、いつの間にかウミィが湧いている……狭い環境への適応力においてウミィの右に出る者はいない。ウミィの流動的な性質は、『隙あらば入り込む』とはどういうことかをよく示している。空の壺や瓶を長いあいだ放置しておくと、いつの間にかウミィが湧いている……狭い環境への適応力においてウミィの右に出る者はいない。"}
+{"id":"static:15A46750","locale":"jp","text":"ウミィの流動的な性質は、『隙あらば入り込む』とはどういうことかをよく示している。空の壺や瓶を長いあいだ放置しておくと、いつの間にかウミィが湧いている……狭い環境への適応力においてウミィの右に出る者はいない。"}
 {"id":"static:15AB366D","locale":"jp","text":"キボファイトに招待されました"}
 {"id":"static:15D1541A","locale":"jp","text":"長押しでアイテムの詳細を確認"}
 {"id":"static:15D7AED3","locale":"jp","text":"採集物"}
@@ -332,7 +332,7 @@
 {"id":"static:16F9A5F3","locale":"jp","text":"スターリンクキボ"}
 {"id":"static:170C8932","locale":"jp","text":"注文所を1つ建設する "}
 {"id":"static:174F70FF","locale":"jp","text":"Lv.10-Lv.30"}
-{"id":"static:175111AF","locale":"jp","text":"ウミィの流動的な性質は、『隙あらば入り込む』とはどういうことかをよく示している。空の壺や瓶を長いあいだ放置しておくと、いつの間にかウミィが湧いている……狭い環境への適応力においてウミィの右に出る者はいない。ウミィの流動的な性質は、『隙あらば入り込む』とはどういうことかをよく示している。空の壺や瓶を長いあいだ放置しておくと、いつの間にかウミィが湧いている……狭い環境への適応力においてウミィの右に出る者はいない。"}
+{"id":"static:175111AF","locale":"jp","text":"ウミィの流動的な性質は、『隙あらば入り込む』とはどういうことかをよく示している。空の壺や瓶を長いあいだ放置しておくと、いつの間にかウミィが湧いている……狭い環境への適応力においてウミィの右に出る者はいない。"}
 {"id":"static:17541502","locale":"jp","text":"派遣条件"}
 {"id":"static:1759E163","locale":"jp","text":"テストテキスト"}
 {"id":"static:1759E163_1","locale":"jp","text":"テスト期間中限定"}
@@ -359,7 +359,7 @@
 {"id":"static:18FCEB13","locale":"jp","text":"キボ（2番目）"}
 {"id":"static:18FE9BB6","locale":"jp","text":"主人公のアクセサリーx1\nスタミナ薬x3"}
 {"id":"static:190E89AB","locale":"jp","text":"固定スキル"}
-{"id":"static:191E0942","locale":"jp","text":"試練に入る"}
+{"id":"static:191E0942","locale":"jp","text":"試練開始"}
 {"id":"static:192328FF","locale":"jp","text":"特殊ステータスを刻印"}
 {"id":"static:1941B1BC","locale":"jp","text":"血への渇望"}
 {"id":"static:19426BC8","locale":"jp","text":"未建設"}
@@ -387,7 +387,7 @@
 {"id":"static:19F8CD4D","locale":"jp","text":"絆レベル"}
 {"id":"static:19FCB9EB","locale":"jp","text":"時間"}
 {"id":"static:1A249A1B","locale":"jp","text":"基本アクション"}
-{"id":"static:1A32C172","locale":"jp","text":"プリセットに保存"}
+{"id":"static:1A32C172","locale":"jp","text":"保存"}
 {"id":"static:1A3DEE46","locale":"jp","text":"00000000000000000000000000000"}
 {"id":"static:1A431ECC","locale":"jp","text":"あなたの仲間たちはみんな特別な立場にあります……あれほど目立つ特徴なら、探すのは難しくないかもしれません。彼らが百酒「ソザンカ」の加護を受け、無事であることを祈ります。"}
 {"id":"static:1A50261E","locale":"jp","text":"Lv.15"}
@@ -419,7 +419,7 @@
 {"id":"static:1C0132F2","locale":"jp","text":"jp可解锁奇波栖息地"}
 {"id":"static:1C0E36C8","locale":"jp","text":"定量モード"}
 {"id":"static:1C2E8612","locale":"jp","text":"対戦プリセットを設定"}
-{"id":"static:1C517A31","locale":"jp","text":"スーパー野獣大先輩"}
+{"id":"static:1C517A31","locale":"jp","text":"スーパー大先輩"}
 {"id":"static:1C5C0F68","locale":"jp","text":"一時離脱"}
 {"id":"static:1C5FA1ED","locale":"jp","text":"新しい仲間が加わりました"}
 {"id":"static:1C77CB45","locale":"jp","text":"キャラクター選択"}
@@ -469,12 +469,12 @@
 {"id":"static:1FC508FB","locale":"jp","text":"外出中\\\nあとで戻ります"}
 {"id":"static:1FD104E5","locale":"jp","text":"先週の管理協力プレイヤー一覧"}
 {"id":"static:1FF34386","locale":"jp","text":"通常攻撃の3段目で範囲火炎ダメージを与え、命中した対象を燃やし、1秒ごとに攻撃力の30%のダメージを与える（8秒間）。"}
-{"id":"static:20083A6B","locale":"jp","text":"紫のボタンのSE"}
+{"id":"static:20083A6B","locale":"jp","text":"紫ボタンの効果音"}
 {"id":"static:2009FFD8","locale":"jp","text":"stackEffectHide"}
 {"id":"static:201757AE","locale":"jp","text":"PROMILIATRAVELOGUE"}
 {"id":"static:2030FEA0","locale":"jp","text":"キボ評価"}
 {"id":"static:206EFBCB","locale":"jp","text":"フレンド申請を送信しました。"}
-{"id":"static:20717C9D","locale":"jp","text":"空白部分を押して閉じる"}
+{"id":"static:20717C9D","locale":"jp","text":"空白部分をタップ"}
 {"id":"static:209070F7","locale":"jp","text":"MI_レベルアップ"}
 {"id":"static:2099860A","locale":"jp","text":"jp灵子预览"}
 {"id":"static:209DE650","locale":"jp","text":"未来予告"}
@@ -519,7 +519,7 @@
 {"id":"static:240DEC1F","locale":"jp","text":"解放成功"}
 {"id":"static:24105B3E","locale":"jp","text":"スキルオプション"}
 {"id":"static:24169E61","locale":"jp","text":"簡易ノード"}
-{"id":"static:241F131D","locale":"jp","text":"交換を確定"}
+{"id":"static:241F131D","locale":"jp","text":"交換"}
 {"id":"static:24299F22","locale":"jp","text":"jp拥有护盾时的"}
 {"id":"static:242D641E","locale":"jp","text":"サフィックス"}
 {"id":"static:2496AF30","locale":"jp","text":"50%"}
@@ -584,7 +584,7 @@
 {"id":"static:281A2AD1","locale":"jp","text":"討伐報酬"}
 {"id":"static:284E5BFA","locale":"jp","text":"入居"}
 {"id":"static:285003DC","locale":"jp","text":"Thanks for playing"}
-{"id":"static:28759B0E","locale":"jp","text":"スキル入れ替え！"}
+{"id":"static:28759B0E","locale":"jp","text":"スキル変更！"}
 {"id":"static:28818AC1","locale":"jp","text":"因子入れ替え"}
 {"id":"static:288F0C40","locale":"jp","text":"クリア"}
 {"id":"static:2896411B","locale":"jp","text":"レベル上限"}
@@ -701,7 +701,7 @@
 {"id":"static:30A2A61D","locale":"jp","text":"jp多属性克制效果叠加"}
 {"id":"static:30A4B140","locale":"jp","text":"レベル差による抑制"}
 {"id":"static:30AC1A33","locale":"jp","text":"獲得経験値："}
-{"id":"static:30ACC1AC","locale":"jp","text":"'MAX\n\n'"}
+{"id":"static:30ACC1AC","locale":"jp","text":"'MAX\n\n\n'"}
 {"id":"static:30CF3873","locale":"jp","text":"派遣へ"}
 {"id":"static:30D92BC2","locale":"jp","text":"キャラクター専用のテーマシーンとモーション"}
 {"id":"static:30E2A471","locale":"jp","text":"ゲーム内で星臨者の外見を変更できます"}
@@ -709,7 +709,7 @@
 {"id":"static:31648DA8","locale":"jp","text":"jp红点"}
 {"id":"static:3186527E","locale":"jp","text":"キャンセル"}
 {"id":"static:31878984","locale":"jp","text":"再挑戦"}
-{"id":"static:318ACBF5","locale":"jp","text":"現在の心得ポイント："}
+{"id":"static:318ACBF5","locale":"jp","text":"心得ポイント："}
 {"id":"static:31A24A4E","locale":"jp","text":"星の上限に到達"}
 {"id":"static:31D984DF","locale":"jp","text":"ZHSDIACI"}
 {"id":"static:31FF4649","locale":"jp","text":"［長押し］"}
@@ -746,7 +746,7 @@
 {"id":"static:33B86C56","locale":"jp","text":"材料を渡す"}
 {"id":"static:33CB7365","locale":"jp","text":"KIBONAME"}
 {"id":"static:34138884","locale":"jp","text":"購入へ"}
-{"id":"static:3429D62D","locale":"jp","text":"現在の入居"}
+{"id":"static:3429D62D","locale":"jp","text":"入居中"}
 {"id":"static:342A65B5","locale":"jp","text":"チームリスト"}
 {"id":"static:342DA47C","locale":"jp","text":"未所持"}
 {"id":"static:3452B70A","locale":"jp","text":"ワールドレベルを上げて、新たなキボの仲間たちを見つけましょう。"}
@@ -786,7 +786,7 @@
 {"id":"static:36E387A1","locale":"jp","text":"美しい旋律"}
 {"id":"static:36E9EBB8","locale":"jp","text":"チームに残る"}
 {"id":"static:36FB998C","locale":"jp","text":"テストテキスト"}
-{"id":"static:3711B0A8","locale":"jp","text":"メールをお気に入りに登録"}
+{"id":"static:3711B0A8","locale":"jp","text":"お気に入り登録"}
 {"id":"static:371A6D47","locale":"jp","text":"星脈の活性度を上げますか？今回はクールタイムが発生しません"}
 {"id":"static:37361B6B","locale":"jp","text":"お気に入りスタンプ"}
 {"id":"static:3736731F","locale":"jp","text":"関連コンテンツはまだ登録されていません"}
@@ -861,9 +861,9 @@
 {"id":"static:3C64FDD0","locale":"jp","text":"遭遇する可能性がある敵"}
 {"id":"static:3C69C28F","locale":"jp","text":"孵化キャンセル"}
 {"id":"static:3C840F45","locale":"jp","text":"おすすめカラー"}
-{"id":"static:3C9ED76C","locale":"jp","text":"願いのアイテム"}
+{"id":"static:3C9ED76C","locale":"jp","text":"ほしいアイテム"}
 {"id":"static:3CAB45A3","locale":"jp","text":"星識レベル不足、スターリンク後のキボLv."}
-{"id":"static:3CBC0694","locale":"jp","text":"上限に達しています。"}
+{"id":"static:3CBC0694","locale":"jp","text":"MAX"}
 {"id":"static:3CEC1FD7","locale":"jp","text":"受け取れる残りの報酬"}
 {"id":"static:3D03989C","locale":"jp","text":"ボーナス"}
 {"id":"static:3D4545D5","locale":"jp","text":"精算して退出"}
@@ -892,15 +892,15 @@
 {"id":"static:3EDDDD85","locale":"jp","text":"日"}
 {"id":"static:3EF50F73","locale":"jp","text":"jp每次检定失败后，有50%概率提升1点<quad\nsize=22\nwidth=1/><color=#A8D8B9>洞察</color>。"}
 {"id":"static:3EFBD3F5","locale":"jp","text":"キャラクターの満腹度自動回復設定"}
-{"id":"static:3EFC50E5","locale":"jp","text":"ボーナス"}
+{"id":"static:3EFC50E5","locale":"jp","text":"ステータス"}
 {"id":"static:3F1161A5","locale":"jp","text":"通常攻撃の3段目は範囲内に炎ダメージを与え、命中した対象を燃焼状態にする。通常攻撃の3段目は範囲内に炎ダメージを与え、命中した対象を燃焼状態にする。通常攻撃の3段目は範囲内に炎ダメージを与え、命中した対象を燃焼状態にする。通常攻撃の3段目は範囲内に炎ダメージを与え、命中した対象を燃焼状態にする"}
 {"id":"static:3F256E10","locale":"jp","text":"難易度"}
 {"id":"static:3F2ECC2B","locale":"jp","text":"まもなく開始"}
 {"id":"static:3F51EF0E","locale":"jp","text":"巣穴キボとスターリンクする"}
 {"id":"static:3F59C7D5","locale":"jp","text":"jp(获取宝箱需要消耗"}
 {"id":"static:3F739504","locale":"jp","text":"BATTLE  SKILL"}
-{"id":"static:3F7D9322","locale":"jp","text":"星5キャラクターを選択"}
-{"id":"static:3F82F690","locale":"jp","text":"星4キャラクターを1人選ぶ"}
+{"id":"static:3F7D9322","locale":"jp","text":"★5キャラクターを選択"}
+{"id":"static:3F82F690","locale":"jp","text":"★4キャラクターを1人選ぶ"}
 {"id":"static:3F89C982","locale":"jp","text":"移動方法"}
 {"id":"static:3F981012","locale":"jp","text":"推奨"}
 {"id":"static:3F981012+1","locale":"jp","text":"推奨"}
@@ -925,7 +925,7 @@
 {"id":"static:41529076","locale":"jp","text":"y"}
 {"id":"static:416FF5C8","locale":"jp","text":"jp搬出"}
 {"id":"static:41754CDC","locale":"jp","text":"パミーチーム調査報告<其一>"}
-{"id":"static:419A9311","locale":"jp","text":"運転条件"}
+{"id":"static:419A9311","locale":"jp","text":"騎乗条件"}
 {"id":"static:41A11CB5","locale":"jp","text":"jp小/中/大"}
 {"id":"static:41A35857","locale":"jp","text":"NPCラリー"}
 {"id":"static:41A45109","locale":"jp","text":"自然保護のしつけ"}
@@ -955,7 +955,7 @@
 {"id":"static:43DA1B86","locale":"jp","text":"シールド破壊の先鋒"}
 {"id":"static:43F50BFE","locale":"jp","text":"バチッと一閃"}
 {"id":"static:43FB3CFD","locale":"jp","text":"小屋にキボがいません"}
-{"id":"static:4403FCA0","locale":"jp","text":"クリア"}
+{"id":"static:4403FCA0","locale":"jp","text":"除去"}
 {"id":"static:441DBD37","locale":"jp","text":"報酬詳細"}
 {"id":"static:44223574","locale":"jp","text":"L O G I N"}
 {"id":"static:4422C323","locale":"jp","text":"プレイヤー名"}
@@ -1019,8 +1019,8 @@
 {"id":"static:482687EC","locale":"jp","text":"タイトルああタイトル"}
 {"id":"static:483C08C3","locale":"jp","text":"jp小体型"}
 {"id":"static:484D1522","locale":"jp","text":"初回クリア"}
-{"id":"static:485298D6","locale":"jp","text":"カラフルなボタンを押す"}
-{"id":"static:487F3949","locale":"jp","text":"キャラクター数"}
+{"id":"static:485298D6","locale":"jp","text":"虹色ボタン"}
+{"id":"static:487F3949","locale":"jp","text":"キャラ数"}
 {"id":"static:48884A0E","locale":"jp","text":"jp加入编队"}
 {"id":"static:48A3334B","locale":"jp","text":"シャルル村のハンター"}
 {"id":"static:48AC4797","locale":"jp","text":"現在"}
@@ -1049,7 +1049,7 @@
 {"id":"static:49E1EC70","locale":"jp","text":"クリア報酬："}
 {"id":"static:49E69BEF","locale":"jp","text":"豫州界遺跡"}
 {"id":"static:4A03A012","locale":"jp","text":"MOUNT"}
-{"id":"static:4A105634","locale":"jp","text":"通報理由を入力してください（最大150文字まで）。"}
+{"id":"static:4A105634","locale":"jp","text":"報告理由を入力してください（最大150文字まで）。"}
 {"id":"static:4A19AAE4","locale":"jp","text":"jp奇波动作"}
 {"id":"static:4A2B3BEF","locale":"jp","text":"専用スキル"}
 {"id":"static:4A3350A0","locale":"jp","text":"レンズクロップ調整"}
@@ -1058,7 +1058,7 @@
 {"id":"static:4A5887D5","locale":"jp","text":"jp采集管理"}
 {"id":"static:4A5F1B30","locale":"jp","text":"推奨属性："}
 {"id":"static:4A697948","locale":"jp","text":"キボがいません"}
-{"id":"static:4A6CAB78","locale":"jp","text":"通報理由"}
+{"id":"static:4A6CAB78","locale":"jp","text":"報告理由"}
 {"id":"static:4A731954","locale":"jp","text":"導きの道"}
 {"id":"static:4A7ECE96","locale":"jp","text":"装飾"}
 {"id":"static:4A9A45EC","locale":"jp","text":"素早く押して復活"}
@@ -1068,7 +1068,7 @@
 {"id":"static:4AF845A4","locale":"jp","text":"光"}
 {"id":"static:4B09F3A4","locale":"jp","text":"未装備"}
 {"id":"static:4B10B4A7","locale":"jp","text":"詳細"}
-{"id":"static:4B387238","locale":"jp","text":"【完璧な四喜丸子】使用後、指定した味方ユニットのHPを即座に最大HPの30%分回復し、さらにHPを300回復する。\n"}
+{"id":"static:4B387238","locale":"jp","text":"【完璧な四喜丸子】指定した味方キャラクターのHPを最大HPの30%分回復し、さらにHPを300回復する。\n"}
 {"id":"static:4B3EDBB3","locale":"jp","text":"プレイヤー名"}
 {"id":"static:4B4C9A5A+1","locale":"jp","text":"上昇率順に並べ替え"}
 {"id":"static:4B61CA2E","locale":"jp","text":"消費："}
@@ -1081,7 +1081,7 @@
 {"id":"static:4BA36D23","locale":"jp","text":"111111111111111"}
 {"id":"static:4BA77D77","locale":"jp","text":"この種類のマウントはまだありません"}
 {"id":"static:4BCC9A5A","locale":"jp","text":"詳細情報"}
-{"id":"static:4BE02EA1","locale":"jp","text":"アニマを1つ選択してピックアップ映照を行う"}
+{"id":"static:4BE02EA1","locale":"jp","text":"ピックアップに指定するアニマを1つ選ぶ"}
 {"id":"static:4BE8A11E","locale":"jp","text":"SE1"}
 {"id":"static:4BF9675B","locale":"jp","text":"一部の職種は、キボに農園施設で生産を行わせることでスコアを上げられます。上限に達すると、それ以上は上げられません。"}
 {"id":"static:4C0D361B","locale":"jp","text":"脱退済み"}
@@ -1124,7 +1124,7 @@
 {"id":"static:4EE984F0","locale":"jp","text":"今回消費する追加報酬回数：1"}
 {"id":"static:4EEAF2E4","locale":"jp","text":"種まき"}
 {"id":"static:4EEF8918","locale":"jp","text":"3P"}
-{"id":"static:4EF62A0D","locale":"jp","text":"先天因子変異\\xB7昇格"}
+{"id":"static:4EF62A0D","locale":"jp","text":"先天因子変異·昇格"}
 {"id":"static:4EFE9AA0","locale":"jp","text":"バッグ"}
 {"id":"static:4F061AAD","locale":"jp","text":"変更をキャンセル"}
 {"id":"static:4F199B62","locale":"jp","text":"星源の雫"}
@@ -1178,7 +1178,7 @@
 {"id":"static:53749B64","locale":"jp","text":"カスタマイズ"}
 {"id":"static:53A728FC","locale":"jp","text":"装着者がいません"}
 {"id":"static:53ADE37C","locale":"jp","text":"指定素材"}
-{"id":"static:53C8711C","locale":"jp","text":"最も近いものを追跡する"}
+{"id":"static:53C8711C","locale":"jp","text":"追跡する"}
 {"id":"static:53DD48F9","locale":"jp","text":"2セット：装備者の防御力が15%上昇する。装備者の効果命中が"}
 {"id":"static:53E4BE9B","locale":"jp","text":"はやく会いたいなあ、いつ帰ってくるの？"}
 {"id":"static:5406940D+1","locale":"jp","text":"プリセットに保存しました"}
@@ -1192,11 +1192,11 @@
 {"id":"static:54B464DE","locale":"jp","text":"パック内容"}
 {"id":"static:54D4899C","locale":"jp","text":"素材を回収場所に納品すると、注文報酬を獲得できます。納品する素材が多いほど、農園コインも多く獲得できます。\n1日に何度でも納品できます。"}
 {"id":"static:54DADEE4","locale":"jp","text":"合計50点に到達"}
-{"id":"static:54DB644C","locale":"jp","text":"蔓霊花"}
+{"id":"static:54DB644C","locale":"jp","text":"ツリフィ"}
 {"id":"static:54DC9AE9","locale":"jp","text":"チームメンバーの承認を待っています。"}
 {"id":"static:54E63F84","locale":"jp","text":"分解"}
 {"id":"static:54E68CDD","locale":"jp","text":"jp击败！"}
-{"id":"static:54F9F5AE","locale":"jp","text":"主人公を切り替える"}
+{"id":"static:54F9F5AE","locale":"jp","text":"切り替え"}
 {"id":"static:5510FD2C","locale":"jp","text":"\\xB7本日未解放\\xB7"}
 {"id":"static:5513149D","locale":"jp","text":"図鑑選択"}
 {"id":"static:551E964A","locale":"jp","text":"キボファイトを開始"}
@@ -1216,7 +1216,7 @@
 {"id":"static:55D4790C","locale":"jp","text":"jp数字"}
 {"id":"static:55DF3C44","locale":"jp","text":"シリーズ報酬"}
 {"id":"static:55E7D4A6","locale":"jp","text":"jp韭菜盒子"}
-{"id":"static:55E82833","locale":"jp","text":"試練ポイント"}
+{"id":"static:55E82833","locale":"jp","text":"試練スコア"}
 {"id":"static:55ECEF3F","locale":"jp","text":"畑仕事モード"}
 {"id":"static:55FE149C","locale":"jp","text":"霹靂一閃、霹靂一閃"}
 {"id":"static:562376D3","locale":"jp","text":"jp已使用贴纸"}
@@ -1336,7 +1336,7 @@
 {"id":"static:5E17A630","locale":"jp","text":"必要レベルに達していません"}
 {"id":"static:5E60E335","locale":"jp","text":"昨日の総収入"}
 {"id":"static:5E61E0DE","locale":"jp","text":"ドングリ日誌"}
-{"id":"static:5E628A5A","locale":"jp","text":"キボ小屋内で2匹の位置を入れ替えます。"}
+{"id":"static:5E628A5A","locale":"jp","text":"キボ小屋内で2体の位置を入れ替えます。"}
 {"id":"static:5E68152D","locale":"jp","text":"GENE  SKILL"}
 {"id":"static:5E8C25F6","locale":"jp","text":"チームを作成しました。"}
 {"id":"static:5EAF491D","locale":"jp","text":"この難易度を有効化"}
@@ -1355,7 +1355,7 @@
 {"id":"static:5F510057","locale":"jp","text":"ランク"}
 {"id":"static:5F579FA2","locale":"jp","text":"昇格"}
 {"id":"static:5F61D5EB","locale":"jp","text":"残り交換時間："}
-{"id":"static:5F8A70DB","locale":"jp","text":"アニマを1つ選んで指定観測を行う"}
+{"id":"static:5F8A70DB","locale":"jp","text":"ピックアップに指定するアニマを1つ選ぶ"}
 {"id":"static:5FB17797","locale":"jp","text":"jp与通用"}
 {"id":"static:5FD1CB10","locale":"jp","text":"星辞\\xB7星Ⅰ"}
 {"id":"static:5FDDB1B9","locale":"jp","text":"jp将从南方山谷处取回的 【火辣红果x5】\n将从南方山谷处取回的\n【火辣红果x5】"}
@@ -1440,8 +1440,8 @@
 {"id":"static:65EF8215","locale":"jp","text":"序章・第一幕"}
 {"id":"static:65F1664D","locale":"jp","text":"明日の予告"}
 {"id":"static:65F28455","locale":"jp","text":"前提ステージをクリアすると解放"}
-{"id":"static:66382D5F","locale":"jp","text":"派遣したキボが採集を開始しました"}
-{"id":"static:665E69C4","locale":"jp","text":"ステージの進行状況が失われます"}
+{"id":"static:66382D5F","locale":"jp","text":"キボを派遣すると採集を開始します"}
+{"id":"static:665E69C4","locale":"jp","text":"ステージ進捗を破棄"}
 {"id":"static:668C5922","locale":"jp","text":"SKILL"}
 {"id":"static:66987EBA","locale":"jp","text":"キボ因子"}
 {"id":"static:66A46291","locale":"jp","text":"キャラクターをレベルアップ"}
@@ -1456,7 +1456,7 @@
 {"id":"static:674950BB","locale":"jp","text":"jp符文名称"}
 {"id":"static:67930F4A","locale":"jp","text":"テストテキスト"}
 {"id":"static:67A3B8E1","locale":"jp","text":"ニックネームは7日に1回変更できます"}
-{"id":"static:67B401DD","locale":"jp","text":"星5キャラクターを選択"}
+{"id":"static:67B401DD","locale":"jp","text":"★5キャラクターを選択"}
 {"id":"static:67D016C3","locale":"jp","text":"初勝利報酬"}
 {"id":"static:67D4508D","locale":"jp","text":"消費済み"}
 {"id":"static:680CBDEA","locale":"jp","text":"騎乗タイプ"}
@@ -1466,7 +1466,7 @@
 {"id":"static:684E218A","locale":"jp","text":"第Ⅰ段階"}
 {"id":"static:6853FD9F","locale":"jp","text":"リズム音の再生調整"}
 {"id":"static:6868660C","locale":"jp","text":"jp无因子"}
-{"id":"static:6872C85B","locale":"jp","text":"キャバードを20匹捕獲（10/20）"}
+{"id":"static:6872C85B","locale":"jp","text":"キャバードを20体捕獲（10/20）"}
 {"id":"static:687A7E7F","locale":"jp","text":"読む"}
 {"id":"static:688C9A5F","locale":"jp","text":"ステージ内容を動的に追加"}
 {"id":"static:68905CF3","locale":"jp","text":"オンライン"}
@@ -1479,7 +1479,7 @@
 {"id":"static:68F9741E","locale":"jp","text":"職種\\xB7伐採"}
 {"id":"static:69221112","locale":"jp","text":"jp此处暂时无用"}
 {"id":"static:692E6C27","locale":"jp","text":"孵化中"}
-{"id":"static:6930057B","locale":"jp","text":"因子の果実"}
+{"id":"static:6930057B","locale":"jp","text":"因子の実"}
 {"id":"static:69469F64","locale":"jp","text":"キボファイトのマッチングを1回行い、さらにキボファイトのマッチングを1回行う"}
 {"id":"static:694F2B6C","locale":"jp","text":"装備推奨"}
 {"id":"static:694FC5EF","locale":"jp","text":"更新"}
@@ -1489,7 +1489,7 @@
 {"id":"static:699143B1","locale":"jp","text":"スキル"}
 {"id":"static:69AE9DFF","locale":"jp","text":"jp第五章挑战成功"}
 {"id":"static:69D00534","locale":"jp","text":"牧場ポイント"}
-{"id":"static:69D2660B","locale":"jp","text":"初心者おすすめ"}
+{"id":"static:69D2660B","locale":"jp","text":"おすすめ"}
 {"id":"static:69F2CB34","locale":"jp","text":"風"}
 {"id":"static:69FA973D","locale":"jp","text":"必修旅録\\xB7序"}
 {"id":"static:6A061313","locale":"jp","text":"MAX"}
@@ -1525,7 +1525,7 @@
 {"id":"static:6BFFD61D","locale":"jp","text":"必要数："}
 {"id":"static:6C2358F0","locale":"jp","text":"遠吠え平原"}
 {"id":"static:6C2B80E7","locale":"jp","text":"テストテキスト"}
-{"id":"static:6C2C8383","locale":"jp","text":"心得の技術ツリーを開く"}
+{"id":"static:6C2C8383","locale":"jp","text":"心得を開く"}
 {"id":"static:6C3427D7","locale":"jp","text":"10回観測"}
 {"id":"static:6C538458","locale":"jp","text":"敵の英雄を編集"}
 {"id":"static:6C619074","locale":"jp","text":"【未定】"}
@@ -1569,7 +1569,7 @@
 {"id":"static:6F912673","locale":"jp","text":"装備"}
 {"id":"static:6FC07888","locale":"jp","text":"Lv.4"}
 {"id":"static:6FF8B2F0","locale":"jp","text":"バフ資源ポイントを解放しました"}
-{"id":"static:700E986E","locale":"jp","text":"リストのループ"}
+{"id":"static:700E986E","locale":"jp","text":"ループ"}
 {"id":"static:701A03C0","locale":"jp","text":"現在のスコア"}
 {"id":"static:7022DAFB","locale":"jp","text":"モルフォーレ"}
 {"id":"static:703475D1","locale":"jp","text":"jp稍后再看"}
@@ -1581,12 +1581,12 @@
 {"id":"static:70D7FE93","locale":"jp","text":"試練の合計スコア"}
 {"id":"static:70F0F331","locale":"jp","text":"jp星脉节点"}
 {"id":"static:710533DD","locale":"jp","text":"Home"}
-{"id":"static:711E04CF","locale":"jp","text":"--------背景切り替え--------"}
+{"id":"static:711E04CF","locale":"jp","text":"--------背景切替--------"}
 {"id":"static:71572394","locale":"jp","text":"残りキボ"}
 {"id":"static:7173F809","locale":"jp","text":"拒否"}
 {"id":"static:7173FF34","locale":"jp","text":"jp普通模式"}
 {"id":"static:719170D2","locale":"jp","text":"星砂の祈願地"}
-{"id":"static:71A625BF","locale":"jp","text":"【菜鸡】の騎乗操縦の才能"}
+{"id":"static:71A625BF","locale":"jp","text":"【キャバード】の騎乗操縦の才能"}
 {"id":"static:71A68348","locale":"jp","text":"BUILDING"}
 {"id":"static:71B45B34","locale":"jp","text":"変異は元に戻せません。慎重に選択してください。"}
 {"id":"static:71C1F4CD","locale":"jp","text":"jp伊波杏树"}
@@ -1595,9 +1595,9 @@
 {"id":"static:71EAFE4F","locale":"jp","text":"現在のエリア"}
 {"id":"static:71F266CD","locale":"jp","text":"遊歴回数が上限まで回復："}
 {"id":"static:71FF7152","locale":"jp","text":"UI"}
-{"id":"static:7211E045","locale":"jp","text":"属性詳細"}
+{"id":"static:7211E045","locale":"jp","text":"ステータス"}
 {"id":"static:722188B8","locale":"jp","text":"農園"}
-{"id":"static:72283B97","locale":"jp","text":"この試合に再挑戦"}
+{"id":"static:72283B97","locale":"jp","text":"ステージやり直し"}
 {"id":"static:7229ECC6","locale":"jp","text":"回"}
 {"id":"static:7232D42C","locale":"jp","text":"種の管理"}
 {"id":"static:72699C60","locale":"jp","text":"キャラクターが臨階2に達すると解放"}
@@ -1624,7 +1624,7 @@
 {"id":"static:73D470FA","locale":"jp","text":"青銅のセット"}
 {"id":"static:73E39262","locale":"jp","text":"jp背包内种子"}
 {"id":"static:73E82552","locale":"jp","text":"ターゲット"}
-{"id":"static:73F00030","locale":"jp","text":"南の谷の探索度"}
+{"id":"static:73F00030","locale":"jp","text":"芽吹の谷の探索度"}
 {"id":"static:7413E872","locale":"jp","text":"Lv.3"}
 {"id":"static:741ACC93","locale":"jp","text":"一時停止中"}
 {"id":"static:742104EC","locale":"jp","text":"精錬"}
@@ -1683,20 +1683,20 @@
 {"id":"static:78118F5A","locale":"jp","text":"芽吹の谷-探索完了"}
 {"id":"static:781301CB","locale":"jp","text":"勇気"}
 {"id":"static:78135100","locale":"jp","text":"胸部"}
-{"id":"static:781FD5F9","locale":"jp","text":"期間限定クエスト"}
+{"id":"static:781FD5F9","locale":"jp","text":"クエスト"}
 {"id":"static:78391B5D","locale":"jp","text":"キボの満腹度+800"}
 {"id":"static:785ECAB6","locale":"jp","text":"成長後："}
 {"id":"static:786CCB51","locale":"jp","text":"募集情報を公開"}
 {"id":"static:78720FED","locale":"jp","text":"キボレベルアップ"}
 {"id":"static:787B5677","locale":"jp","text":"性別"}
-{"id":"static:787C9A8E","locale":"jp","text":"'E\n\n'"}
+{"id":"static:787C9A8E","locale":"jp","text":"'E\n\n\n'"}
 {"id":"static:789A9E7F","locale":"jp","text":"採集の心得"}
 {"id":"static:78B41BD8","locale":"jp","text":"職種経験値なし"}
 {"id":"static:78BC9108","locale":"jp","text":"スタック数"}
 {"id":"static:78BF126A","locale":"jp","text":"装備中"}
 {"id":"static:78BF126A+1","locale":"jp","text":"装備中"}
 {"id":"static:78C72C14","locale":"jp","text":"該当書籍なし"}
-{"id":"static:78D02E3E","locale":"jp","text":"プレミアム漫遊記を解放"}
+{"id":"static:78D02E3E","locale":"jp","text":"プレミアムを解放"}
 {"id":"static:78F38744","locale":"jp","text":"／戦闘スコア"}
 {"id":"static:78FA8E77","locale":"jp","text":"同種の素材がありません"}
 {"id":"static:78FE203E","locale":"jp","text":"推奨Lv.1000000000"}
@@ -1714,7 +1714,7 @@
 {"id":"static:798919DE","locale":"jp","text":"孤狼"}
 {"id":"static:799C23A5","locale":"jp","text":"jp经验果"}
 {"id":"static:799E0C1D","locale":"jp","text":"キャラクターのレベル上限"}
-{"id":"static:79AAF225","locale":"jp","text":"キボのボーナスを表示"}
+{"id":"static:79AAF225","locale":"jp","text":"ボーナスを表示"}
 {"id":"static:79B03DDE","locale":"jp","text":"主人公のアクセサリーx1\nスタミナ薬x3"}
 {"id":"static:79B5A656","locale":"jp","text":"回転"}
 {"id":"static:79C5BCC1","locale":"jp","text":"jp村"}
@@ -1731,7 +1731,7 @@
 {"id":"static:7ACAA29D","locale":"jp","text":"お別れしたいキボを選択してください。"}
 {"id":"static:7AD406D2","locale":"jp","text":"「ひげ」を2個集める"}
 {"id":"static:7B00C38F","locale":"jp","text":"パーティ参加申請"}
-{"id":"static:7B12E3CF","locale":"jp","text":"報酬ギフト"}
+{"id":"static:7B12E3CF","locale":"jp","text":"達成報酬"}
 {"id":"static:7B385D02","locale":"jp","text":"走る"}
 {"id":"static:7B494338","locale":"jp","text":"満腹度が不足しています。"}
 {"id":"static:7B52A934","locale":"jp","text":"ヘッドアクセサリー"}
@@ -1821,7 +1821,7 @@
 {"id":"static:811E6AA6","locale":"jp","text":"進化"}
 {"id":"static:81233D75","locale":"jp","text":"拒否済み"}
 {"id":"static:81251103","locale":"jp","text":"優れた遺伝子"}
-{"id":"static:81469CC7","locale":"jp","text":"使用後、指定した味方単体のHPを使用者のHP上限の30%分回復し、さらにHPを300回復する。"}
+{"id":"static:81469CC7","locale":"jp","text":"指定した味方単体のHPを使用者の最大HPの30%分回復し、さらにHPを300回復する。"}
 {"id":"static:81785B94","locale":"jp","text":"喚霊\\xB7蘇生"}
 {"id":"static:81C14E3A","locale":"jp","text":"攻撃力上昇"}
 {"id":"static:81C287D5","locale":"jp","text":"Lv.100 名前テキスト"}
@@ -1830,7 +1830,7 @@
 {"id":"static:822FAFAA","locale":"jp","text":"上限に達しました"}
 {"id":"static:823EA45C","locale":"jp","text":"jp地图"}
 {"id":"static:8244ECAC","locale":"jp","text":"BGMをオフ"}
-{"id":"static:825A003B","locale":"jp","text":"因子の数が上限に達しています。餌を与えると既存の因子を入れ替えられます"}
+{"id":"static:825A003B","locale":"jp","text":"因子を与えると、既存の因子と入れ替え可能"}
 {"id":"static:825A3D98","locale":"jp","text":"Shift"}
 {"id":"static:8266A6AE","locale":"jp","text":"スタンド"}
 {"id":"static:82849E6E","locale":"jp","text":"未発見"}
@@ -1878,7 +1878,7 @@
 {"id":"static:868F2614","locale":"jp","text":"Lv.10/20"}
 {"id":"static:86986461","locale":"jp","text":"下の空白部分をタップして閉じる"}
 {"id":"static:86AAFAA7","locale":"jp","text":"頭部"}
-{"id":"static:86C98449","locale":"jp","text":"キーを押して、機能に割り当てられます。"}
+{"id":"static:86C98449","locale":"jp","text":"割り当てるキーを押してください"}
 {"id":"static:86D3A394","locale":"jp","text":"通知ブロック\n"}
 {"id":"static:86D688A8","locale":"jp","text":"プロミリア大陸に来たばかりのあなたを助けるべく、【星臨者ガイドブック】が堂々登場！\n拠点づくり／キボとのスターリンク／強敵を倒す／秘密の発見……ガイドに従って少しずつ\nこの世界を探検しよう！"}
 {"id":"static:86E4B169","locale":"jp","text":"全速重複"}
@@ -2042,7 +2042,7 @@
 {"id":"static:91B24964","locale":"jp","text":"ページをめくり、最後まで読むと閉じられます"}
 {"id":"static:91B75372","locale":"jp","text":"20時間後に更新"}
 {"id":"static:91BD3195","locale":"jp","text":"jp晚上好！欢迎来到帕米邮局！"}
-{"id":"static:91BDB10F","locale":"jp","text":"入居を変更"}
+{"id":"static:91BDB10F","locale":"jp","text":"入居者を変更"}
 {"id":"static:91C3D032","locale":"jp","text":"～入居するキャラクターを選択してください～"}
 {"id":"static:91CDA373","locale":"jp","text":"回観測すると必ず獲得"}
 {"id":"static:91D87D47","locale":"jp","text":"試練ステージカード"}
@@ -2063,7 +2063,7 @@
 {"id":"static:92EF75A0","locale":"jp","text":"ローテーションリスト"}
 {"id":"static:9324785F","locale":"jp","text":"芽吹の谷"}
 {"id":"static:932B49B5","locale":"jp","text":"強化を確定"}
-{"id":"static:933AB3D6","locale":"jp","text":"ピンクのボタンのSE"}
+{"id":"static:933AB3D6","locale":"jp","text":"ピンクボタンの効果音"}
 {"id":"static:9346A8D2","locale":"jp","text":"通貨報酬："}
 {"id":"static:934DE64A","locale":"jp","text":"プラン4"}
 {"id":"static:934F5A55","locale":"jp","text":"ボス大迫力演出ignore"}
@@ -2073,7 +2073,7 @@
 {"id":"static:938C995C","locale":"jp","text":"Misson Success"}
 {"id":"static:9394A40D","locale":"jp","text":"行動開始"}
 {"id":"static:939AC226","locale":"jp","text":"寮：4/6"}
-{"id":"static:939D5345","locale":"jp","text":"渡す"}
+{"id":"static:939D5345","locale":"jp","text":"納品"}
 {"id":"static:93A4778A","locale":"jp","text":"購入後7日を超えた場合、またはメールボックスからアイテムを受け取った場合、\nまた\nアイテムを使用した場合は、\nキャンセル（返金）できません。\n保護者の同意がない未成年者による決済\n（支払い）は、キャンセルすることができます。<link=http://m.nexon.com/terms/60><color=#ffae3b><u>[キャンセル規定の確認]</u></color></link>"}
 {"id":"static:93CAF937","locale":"jp","text":"共通聖紋"}
 {"id":"static:93DA4C47","locale":"jp","text":"衝撃！低木剪定コンテスト優勝者の受賞資格剥奪！"}
@@ -2082,7 +2082,7 @@
 {"id":"static:945A47C4","locale":"jp","text":"jp可能获得（获得宝箱需要消耗\n)"}
 {"id":"static:946F5C8C","locale":"jp","text":"目"}
 {"id":"static:94730A42","locale":"jp","text":"このアイテムに対して"}
-{"id":"static:947D5155","locale":"jp","text":"ステータス上昇"}
+{"id":"static:947D5155","locale":"jp","text":"レベルアップ"}
 {"id":"static:948B2440","locale":"jp","text":"Lv.6"}
 {"id":"static:949934D9","locale":"jp","text":"jp超大"}
 {"id":"static:94C418BD","locale":"jp","text":"挑戦報酬："}
@@ -2095,9 +2095,9 @@
 {"id":"static:94F6D7E0","locale":"jp","text":"300"}
 {"id":"static:94FCFCF6","locale":"jp","text":"スターリンクアウラ"}
 {"id":"static:94FEBCFF","locale":"jp","text":"全選択"}
-{"id":"static:95024E12","locale":"jp","text":"乗り物の満腹度を自動回復するしきい値（％）"}
+{"id":"static:95024E12","locale":"jp","text":"乗りものの満腹度を自動回復するしきい値（％）"}
 {"id":"static:95064ACD","locale":"jp","text":"jp周常活跃"}
-{"id":"static:95390B1C","locale":"jp","text":"チュートリアルをスキップ"}
+{"id":"static:95390B1C","locale":"jp","text":"スキップ"}
 {"id":"static:953B855A","locale":"jp","text":"すべてのメール"}
 {"id":"static:953FA20E","locale":"jp","text":"jp又热又干燥"}
 {"id":"static:954F293F","locale":"jp","text":"おすすめの因子の実"}
@@ -2154,8 +2154,8 @@
 {"id":"static:986FFB30","locale":"jp","text":"選択済み："}
 {"id":"static:9875E246","locale":"jp","text":"後に報酬リセット"}
 {"id":"static:98AB49E4","locale":"jp","text":"一括装備"}
-{"id":"static:98C521BC","locale":"jp","text":"'Lv.60\n\n'"}
-{"id":"static:98C8D052","locale":"jp","text":"青のボタンを押す"}
+{"id":"static:98C521BC","locale":"jp","text":"'Lv.60\n\n\n'"}
+{"id":"static:98C8D052","locale":"jp","text":"青ボタン"}
 {"id":"static:98D8CCAC","locale":"jp","text":"雪晶石の聖剣<color=#3c749b>+3</color>"}
 {"id":"static:98F13708","locale":"jp","text":"20"}
 {"id":"static:98F364D4","locale":"jp","text":"料理開始"}
@@ -2169,7 +2169,7 @@
 {"id":"static:996D1992","locale":"jp","text":"xxx秒以内に相手を倒す"}
 {"id":"static:997C5C66","locale":"jp","text":"チームから追放"}
 {"id":"static:998B9032","locale":"jp","text":"地域の特産品"}
-{"id":"static:998CFC16","locale":"jp","text":"突破の上限："}
+{"id":"static:998CFC16","locale":"jp","text":"ランク："}
 {"id":"static:99B973A2","locale":"jp","text":"星識レベル27（<color=#2fbf4a>25</color>）以上が必要"}
 {"id":"static:99CF2825","locale":"jp","text":"寮の装飾"}
 {"id":"static:99FFC28E","locale":"jp","text":"厳選星満の果実の種"}
@@ -2187,7 +2187,7 @@
 {"id":"static:9B95BA68","locale":"jp","text":"反時計回りに回転"}
 {"id":"static:9BA80CCA","locale":"jp","text":"勝利！"}
 {"id":"static:9BBAE47A","locale":"jp","text":"塔登り・難易度3"}
-{"id":"static:9BC16613","locale":"jp","text":"乗り物の効果："}
+{"id":"static:9BC16613","locale":"jp","text":"乗りものの効果："}
 {"id":"static:9BD5FEE5","locale":"jp","text":"ショップで購入"}
 {"id":"static:9BDFE95F","locale":"jp","text":"ルーム"}
 {"id":"static:9BF6A489","locale":"jp","text":"いっぱいです！"}
@@ -2370,7 +2370,7 @@
 {"id":"static:AA4A2216","locale":"jp","text":"シーンを読み込み中です。しばらくお待ちください"}
 {"id":"static:AA527D8B","locale":"jp","text":"魚肉を加工"}
 {"id":"static:AA5DE111","locale":"jp","text":"今週のスターリンク可能回数"}
-{"id":"static:AA8104FB","locale":"jp","text":"指定観測の消耗素材"}
+{"id":"static:AA8104FB","locale":"jp","text":"指定の消耗素材"}
 {"id":"static:AA8343BA","locale":"jp","text":"HAIR"}
 {"id":"static:AA8FB77E","locale":"jp","text":"completed"}
 {"id":"static:AA9BF9C8","locale":"jp","text":"プレゼントできる贈りものはありません。"}
@@ -2413,12 +2413,12 @@
 {"id":"static:AD1BAAFA+1","locale":"jp","text":"報酬を獲得"}
 {"id":"static:AD231955","locale":"jp","text":"5秒後にシャルル村へ移動"}
 {"id":"static:AD32E604","locale":"jp","text":"NAME"}
-{"id":"static:AD3D9A39","locale":"jp","text":"芽吹の谷のトレーナー"}
+{"id":"static:AD3D9A39","locale":"jp","text":"芽吹の谷のファイター"}
 {"id":"static:AD46A96C","locale":"jp","text":"手がかり"}
 {"id":"static:AD649A70","locale":"jp","text":"招待済み。返信をお待ちください。"}
 {"id":"static:AD6F06DF","locale":"jp","text":"L-MOUSE"}
 {"id":"static:AD8842FC","locale":"jp","text":"今週受け取れる報酬回数：0／2"}
-{"id":"static:ADA58C43","locale":"jp","text":"シーンを切り替える"}
+{"id":"static:ADA58C43","locale":"jp","text":"背景切替"}
 {"id":"static:ADBF47F8","locale":"jp","text":"追加効果なし"}
 {"id":"static:ADCEC4DB","locale":"jp","text":"ZHUANGSHIZI"}
 {"id":"static:ADD71168","locale":"jp","text":"育成"}
@@ -2505,7 +2505,7 @@
 {"id":"static:B3495CC2","locale":"jp","text":"討伐\\xB7ハリネズミの巨獣"}
 {"id":"static:B35E6EA3","locale":"jp","text":"クエスト完了"}
 {"id":"static:B370CE69","locale":"jp","text":"jp属性被克伤害"}
-{"id":"static:B37410A1","locale":"jp","text":"赤のボタンのSE"}
+{"id":"static:B37410A1","locale":"jp","text":"赤ボタンの効果音"}
 {"id":"static:B393583E","locale":"jp","text":"jp伐木小屋"}
 {"id":"static:B3937D31","locale":"jp","text":"対決モードを選択"}
 {"id":"static:B3B4E798","locale":"jp","text":"Ⅱ-ステージ"}
@@ -2536,7 +2536,7 @@
 {"id":"static:B56CAAB2","locale":"jp","text":"任意の場所をタップして閉じる"}
 {"id":"static:B58C7549","locale":"jp","text":"追加"}
 {"id":"static:B59C67BF","locale":"jp","text":"1111"}
-{"id":"static:B5A23BFB","locale":"jp","text":"青のボタンのSE"}
+{"id":"static:B5A23BFB","locale":"jp","text":"青ボタンの効果音"}
 {"id":"static:B5B07535","locale":"jp","text":"接続が切断されました。"}
 {"id":"static:B5C5F45F","locale":"jp","text":"通常装備スキル"}
 {"id":"static:B5C744DB","locale":"jp","text":"飛んでくる短いアニメーション"}
@@ -2548,7 +2548,7 @@
 {"id":"static:B62D8DEE","locale":"jp","text":"購入後、以下の報酬を獲得"}
 {"id":"static:B66CF64A","locale":"jp","text":"ViewLast"}
 {"id":"static:B6948324","locale":"jp","text":"コグマ応援団"}
-{"id":"static:B6B37AB9","locale":"jp","text":"お楽しみに"}
+{"id":"static:B6B37AB9","locale":"jp","text":"乞うご期待"}
 {"id":"static:B6CE0021","locale":"jp","text":"配置"}
 {"id":"static:B6CE9792","locale":"jp","text":"署名内容"}
 {"id":"static:B6D1CDBF","locale":"jp","text":"支援"}
@@ -2570,7 +2570,7 @@
 {"id":"static:B8BACF8D","locale":"jp","text":"新発見"}
 {"id":"static:B8BC466E","locale":"jp","text":"外見変更："}
 {"id":"static:B8BEC8B5","locale":"jp","text":"ダンジョン残り時間：26:53"}
-{"id":"static:B8CE1C4F","locale":"jp","text":"騎乗可能"}
+{"id":"static:B8CE1C4F","locale":"jp","text":"MOUNT"}
 {"id":"static:B8CF0905","locale":"jp","text":"ランダムマッチング成功"}
 {"id":"static:B8F00A13","locale":"jp","text":"キボの牧場"}
 {"id":"static:B90C7559","locale":"jp","text":"続"}
@@ -2589,7 +2589,7 @@
 {"id":"static:B9ECE18C","locale":"jp","text":"T"}
 {"id":"static:B9F72C6F","locale":"jp","text":"X25"}
 {"id":"static:BA096533","locale":"jp","text":"1/3"}
-{"id":"static:BA0C5680","locale":"jp","text":"プリセットに保存"}
+{"id":"static:BA0C5680","locale":"jp","text":"保存"}
 {"id":"static:BA280CDA","locale":"jp","text":"サプライズ"}
 {"id":"static:BA2AE40B","locale":"jp","text":"jp河谷间隙之下"}
 {"id":"static:BA2CE384","locale":"jp","text":"変更へ"}
@@ -2612,7 +2612,7 @@
 {"id":"static:BAEE96BF","locale":"jp","text":"昇臨度"}
 {"id":"static:BAF0C7B1","locale":"jp","text":"jp左眼颜色"}
 {"id":"static:BB00491E","locale":"jp","text":"前提ストーリーをクリアすると解放"}
-{"id":"static:BB106506","locale":"jp","text":"イベントショップ"}
+{"id":"static:BB106506","locale":"jp","text":"ショップ"}
 {"id":"static:BB23F29E","locale":"jp","text":"称号を選択"}
 {"id":"static:BB3EA589+1","locale":"jp","text":"マルチ対戦"}
 {"id":"static:BB427000","locale":"jp","text":"所持奇宝"}
@@ -2645,7 +2645,7 @@
 {"id":"static:BCF4AE0C","locale":"jp","text":"解放条件"}
 {"id":"static:BD33523E","locale":"jp","text":"難易度Ⅱ"}
 {"id":"static:BD40094C","locale":"jp","text":"縁結びの約束を見る"}
-{"id":"static:BD7F9DF4","locale":"jp","text":"PET\n"}
+{"id":"static:BD7F9DF4","locale":"jp","text":"PET\n\n"}
 {"id":"static:BD8BCF45","locale":"jp","text":"出現率の"}
 {"id":"static:BDAD036B","locale":"jp","text":"HP+1200"}
 {"id":"static:BDAD24C8","locale":"jp","text":"乗りもの"}
@@ -2677,10 +2677,10 @@
 {"id":"static:BF6D2712","locale":"jp","text":"必要素材"}
 {"id":"static:BF78F822","locale":"jp","text":"回観測で入手"}
 {"id":"static:BF829D32","locale":"jp","text":"報酬はすべて受け取りました！"}
-{"id":"static:BF8F50C7","locale":"jp","text":"室外"}
+{"id":"static:BF8F50C7","locale":"jp","text":"散策中"}
 {"id":"static:BF9C5A7B","locale":"jp","text":"入手方法なし"}
 {"id":"static:BFB3EB0B","locale":"jp","text":"ゲームシステムの説明ゲームシステムの説明ゲームシステムの説明ゲームシステムの説明ゲームシステムの説明"}
-{"id":"static:BFF74409","locale":"jp","text":"通報する"}
+{"id":"static:BFF74409","locale":"jp","text":"報告する"}
 {"id":"static:C002B1CE","locale":"jp","text":"奇宝/星の意志"}
 {"id":"static:C00C5D64","locale":"jp","text":"絶望"}
 {"id":"static:C048A83F","locale":"jp","text":"餌やり"}
@@ -2723,7 +2723,7 @@
 {"id":"static:C279861E","locale":"jp","text":"雪晶石の聖剣+10"}
 {"id":"static:C27F0E6E","locale":"jp","text":"<size=50>Lv.</size><size=100>10</size>"}
 {"id":"static:C2850A36","locale":"jp","text":"jp帕米最害怕的生物排行前19位，有这显著的三角锥前肢令大多数智慧种族感到害怕"}
-{"id":"static:C28CACC0","locale":"jp","text":"\\xB7先天因子は入れ替え不可"}
+{"id":"static:C28CACC0","locale":"jp","text":"·先天因子は入れ替え不可"}
 {"id":"static:C29E4097","locale":"jp","text":"合成"}
 {"id":"static:C2D06DF0","locale":"jp","text":"//通常攻撃の3段目で範囲火炎ダメージを与え、命中した対象に燃焼効果を付与する。対象は毎秒攻撃力の30%のダメージを受ける（8秒間）。"}
 {"id":"static:C2D7F1AF","locale":"jp","text":"初めて"}
@@ -2792,7 +2792,7 @@
 {"id":"static:C78EE1B0","locale":"jp","text":"建築効果：農園内のキボのタマゴの孵化時間-10%（次のレベル：-15%）"}
 {"id":"static:C7C7F84D","locale":"jp","text":"殺意の剣気0000000000000000000"}
 {"id":"static:C7D50C92","locale":"jp","text":"断鳳崖"}
-{"id":"static:C7F5B956","locale":"jp","text":"おすすめトレーナー"}
+{"id":"static:C7F5B956","locale":"jp","text":"おすすめ"}
 {"id":"static:C81E728D","locale":"jp","text":"2"}
 {"id":"static:C81ED57F","locale":"jp","text":"'''/AZURPROMILIA/'"}
 {"id":"static:C82A9DAF","locale":"jp","text":"受取"}
@@ -2864,11 +2864,11 @@
 {"id":"static:CDD2779A","locale":"jp","text":"Azur Promilia"}
 {"id":"static:CDDF02EB","locale":"jp","text":"編成編集"}
 {"id":"static:CDF1544C","locale":"jp","text":"製作へ"}
-{"id":"static:CDF28844","locale":"jp","text":"変異効果を一時保存"}
+{"id":"static:CDF28844","locale":"jp","text":"一時保存"}
 {"id":"static:CE0CFB3D","locale":"jp","text":"所持合計数"}
 {"id":"static:CE1C7E1A","locale":"jp","text":"爆発"}
 {"id":"static:CE302DA7","locale":"jp","text":"注文所を建設する"}
-{"id":"static:CE459F65","locale":"jp","text":"村長の研究材料を集めるため、芽吹の谷の薬草を納品する必要がある。村長の研究材料を集めるため、芽吹の谷の薬草を納品する必要がある。\n芽吹の谷から持ち帰った\n【激辛エイプル5個】【古いパン1個】【ポポ草5個】を村長に渡す。"}
+{"id":"static:CE459F65","locale":"jp","text":"村長の研究材料を集めるため、芽吹の谷の薬草を納品する必要がある。\n芽吹の谷から持ち帰った\n【激辛エイプル5個】【古いパン1個】【ポポ草5個】を村長に渡す。"}
 {"id":"static:CE5DEB30","locale":"jp","text":"出発"}
 {"id":"static:CE875BAA","locale":"jp","text":"調整へ"}
 {"id":"static:CE8C2752","locale":"jp","text":"合成可能数：4"}
@@ -2937,7 +2937,7 @@
 {"id":"static:D3C12A0E","locale":"jp","text":"リスト内"}
 {"id":"static:D4BCBEC5","locale":"jp","text":"jp技能急速"}
 {"id":"static:D4C1236B","locale":"jp","text":"アクティブなノード数"}
-{"id":"static:D4CE8506","locale":"jp","text":"アニマを1つ選択してピックアップに設定します。選択後もいつでも変更可能で、天井のカウントには影響しません。"}
+{"id":"static:D4CE8506","locale":"jp","text":"ピックアップに指定するアニマを1つ選べます。選択はいつでも変更できます。★5獲得までの進捗はリセットされません。"}
 {"id":"static:D4E01528","locale":"jp","text":"次の回復：05分20秒    全回復：12時間35分"}
 {"id":"static:D4F32EF4","locale":"jp","text":"未定"}
 {"id":"static:D4FD4F7C","locale":"jp","text":"耕作中止"}
@@ -3070,7 +3070,7 @@
 {"id":"static:DF3BBD52","locale":"jp","text":"火"}
 {"id":"static:DF564DEF","locale":"jp","text":"装着者のステータスが上昇"}
 {"id":"static:DFAC151D","locale":"jp","text":"上級"}
-{"id":"static:DFB6BFA4","locale":"jp","text":"ピックアップ祈願"}
+{"id":"static:DFB6BFA4","locale":"jp","text":"ピックアップ"}
 {"id":"static:DFBC0551","locale":"jp","text":"jp锯木效率大师\\xB7II"}
 {"id":"static:DFBE3B52","locale":"jp","text":"本日の捕獲上限：0/5"}
 {"id":"static:DFCF28D0","locale":"jp","text":"G"}
@@ -3098,8 +3098,8 @@
 {"id":"static:E1230A47","locale":"jp","text":"1分30秒"}
 {"id":"static:E128A0A0","locale":"jp","text":"視点01"}
 {"id":"static:E14A780B","locale":"jp","text":"敵のレベル範囲"}
-{"id":"static:E1AA8F5C","locale":"jp","text":"このキャラクターはまだ獲得していません。"}
-{"id":"static:E1AA8F5D","locale":"jp","text":"このキャラクターはまだ獲得していません。"}
+{"id":"static:E1AA8F5C","locale":"jp","text":"キャラクター未入手"}
+{"id":"static:E1AA8F5D","locale":"jp","text":"このキボはまだ獲得していません。"}
 {"id":"static:E1C74B43","locale":"jp","text":"報酬の受け取りに必要な消費"}
 {"id":"static:E1CC1E4E","locale":"jp","text":"氷に閉ざされた群島で、鎌鼬の王が生態系に悪影響を及ぼしています。討伐して、住民たちがまたひえひえの実を採集できるようにしましょう！"}
 {"id":"static:E1DA4691","locale":"jp","text":"キャラクター編成"}
@@ -3148,7 +3148,7 @@
 {"id":"static:E4560CB6","locale":"jp","text":"普通以上の彫像の数が15個未満です。"}
 {"id":"static:E45EE7CE","locale":"jp","text":"03"}
 {"id":"static:E464236A","locale":"jp","text":"jp动作名称"}
-{"id":"static:E46C64F3","locale":"jp","text":"背景切り替え"}
+{"id":"static:E46C64F3","locale":"jp","text":"背景切替"}
 {"id":"static:E48103F3","locale":"jp","text":"イベント"}
 {"id":"static:E4919CEC","locale":"jp","text":"一部の職種は、キボに農園施設で生産を行わせることで評価を上げられます。上限に達すると、それ以上は上げられません。"}
 {"id":"static:E491D911","locale":"jp","text":"確率"}
@@ -3235,7 +3235,7 @@
 {"id":"static:E9B4DF56","locale":"jp","text":"山岳の要所に陣取り、堅い甲殻をまとう。角を突き合わせる闘いは彼らの名誉を懸けた戦いであり、衝突のたびに力と地位を競い合う。"}
 {"id":"static:E9E8054F","locale":"jp","text":"メール"}
 {"id":"static:EA15AE2B","locale":"jp","text":"選択肢"}
-{"id":"static:EA2E2D6C","locale":"jp","text":"使用後、チーム全員のHPを100回復"}
+{"id":"static:EA2E2D6C","locale":"jp","text":"チーム全員のHPを100回復する。"}
 {"id":"static:EA328DC7","locale":"jp","text":"現在の段階"}
 {"id":"static:EA35FE97","locale":"jp","text":"永久購入制限：1/1"}
 {"id":"static:EA683A45","locale":"jp","text":"自動スタック済み"}
@@ -3284,7 +3284,7 @@
 {"id":"static:ECFF77A8","locale":"jp","text":"使用する"}
 {"id":"static:ED43D228","locale":"jp","text":"敵情報"}
 {"id":"static:ED5A0EE2","locale":"jp","text":"アイテム名（数文字）"}
-{"id":"static:ED5C96FC","locale":"jp","text":"使用後、チーム全員のHPを100回復使用後、チーム全員のHPを100回復"}
+{"id":"static:ED5C96FC","locale":"jp","text":"チーム全員のHPを100回復する。チーム全員のHPを100回復する。"}
 {"id":"static:ED5F6285","locale":"jp","text":"<color=#96F9FF>キボホイールを開き</color>、キボのスキルを駆使して謎を解きましょう。"}
 {"id":"static:ED6652B3","locale":"jp","text":"先行解放"}
 {"id":"static:ED78401F","locale":"jp","text":"エリアレベル"}
@@ -3353,7 +3353,7 @@
 {"id":"static:F22768E6","locale":"jp","text":"x1600"}
 {"id":"static:F23A4CDE","locale":"jp","text":"完全成長に必要な水量  <size=24><color=#585c5b>200</color></size>"}
 {"id":"static:F23C5F60","locale":"jp","text":"MORE"}
-{"id":"static:F2535079","locale":"jp","text":"使用後、チーム全員のHPを100回復する。"}
+{"id":"static:F2535079","locale":"jp","text":"チーム全員のHPを100回復する。"}
 {"id":"static:F259FC6A","locale":"jp","text":"~建設~"}
 {"id":"static:F260AFC4","locale":"jp","text":"幽光の炎核\\xB7勇気を5個製作する"}
 {"id":"static:F26225BD","locale":"jp","text":"詳細"}
@@ -3391,7 +3391,7 @@
 {"id":"static:F4842DCB","locale":"jp","text":"vs"}
 {"id":"static:F48F10F4","locale":"jp","text":"参加できるチームが多く存在します。"}
 {"id":"static:F493DAB9","locale":"jp","text":"倍率"}
-{"id":"static:F4944B39","locale":"jp","text":"指定観測で50回観測すると、以下のキャラクターから1人を指定してチームに加えられます"}
+{"id":"static:F4944B39","locale":"jp","text":"50回観測すると、以下のキャラクターから1人を指定してチームに加えられます"}
 {"id":"static:F4B3D6E8","locale":"jp","text":"まだ装備を入手していません。"}
 {"id":"static:F4C701D9","locale":"jp","text":"jp装 备"}
 {"id":"static:F4CBE0C8","locale":"jp","text":"フレンド追加"}
@@ -3429,14 +3429,14 @@
 {"id":"static:F6C2363E","locale":"jp","text":"スキップしますか？"}
 {"id":"static:F6EBF8F5","locale":"jp","text":"有効"}
 {"id":"static:F6EDFE55","locale":"jp","text":"スキル詳細"}
-{"id":"static:F6F2572C","locale":"jp","text":"'UP\n\n'"}
+{"id":"static:F6F2572C","locale":"jp","text":"'UP\n\n\n'"}
 {"id":"static:F6F9D7A8","locale":"jp","text":"<color=#f45757>20</color>/10"}
 {"id":"static:F737DC80","locale":"jp","text":"毎週月・水・金曜日は2倍になります"}
 {"id":"static:F74F1E0B","locale":"jp","text":"獲得アイテム一覧"}
 {"id":"static:F760FF22","locale":"jp","text":"地元素の微粒子"}
 {"id":"static:F76C5B60","locale":"jp","text":"星閃"}
 {"id":"static:F76E2900","locale":"jp","text":"星臨者スキン"}
-{"id":"static:F79BC3E2","locale":"jp","text":"草タイプのキボを【3/20】匹集める"}
+{"id":"static:F79BC3E2","locale":"jp","text":"草タイプのキボを【3/20】体集める"}
 {"id":"static:F7A3A1D5","locale":"jp","text":"すべての前提能力を習得する必要があります。"}
 {"id":"static:F7C09C2D","locale":"jp","text":"雪晶石の聖剣2行の効果<color=#3c749b>+3</color>"}
 {"id":"static:F7C8E349","locale":"jp","text":"水車小屋（建築済み）・【金麦】の種まき時"}
@@ -3493,7 +3493,7 @@
 {"id":"static:FAD7C8A2","locale":"jp","text":"jp选中"}
 {"id":"static:FB0060BF","locale":"jp","text":"キ\nャ\nラ\n選\n択"}
 {"id":"static:FB180F39","locale":"jp","text":"（……初めて正式に記事が掲載された。しかも一面のトップ記事だ！　稼いだ給料でパンを半分買ったけど、食べたりしない。棚にしまって、腐っていくのを眺めるんだ。この幸せな時間を少しでも長く味わうために。）"}
-{"id":"static:FB18356F","locale":"jp","text":"アクティブにすると以下の報酬を獲得できます。"}
+{"id":"static:FB18356F","locale":"jp","text":"解放すると以下の報酬を獲得できます。"}
 {"id":"static:FB477D23","locale":"jp","text":"水車小屋（建築済み）・【金麦】の種まき時"}
 {"id":"static:FB4E0E9E","locale":"jp","text":"通常の報酬を受け取る"}
 {"id":"static:FB55339A","locale":"jp","text":"自動戦闘中"}
@@ -3544,7 +3544,7 @@
 {"id":"static:FE5BD9C2","locale":"jp","text":"jp灯光颜色"}
 {"id":"static:FE5C3684","locale":"jp","text":"F2"}
 {"id":"static:FE855FD8","locale":"jp","text":"キャラクターが見つかりませんでした。"}
-{"id":"static:FE939B73","locale":"jp","text":"通報対象"}
+{"id":"static:FE939B73","locale":"jp","text":"報告対象"}
 {"id":"static:FE95789C","locale":"jp","text":"素材を補充"}
 {"id":"static:FED84F9D","locale":"jp","text":"キボとのお別れは取り消せません。慎重に操作してください。"}
 {"id":"static:FEDF51BE","locale":"jp","text":"収穫"}
@@ -3559,7 +3559,7 @@
 {"id":"static:FFBF891A","locale":"jp","text":"アーカイブ室"}
 {"id":"static:FFCD9A60","locale":"jp","text":"20.0秒"}
 {"id":"static:FFD5F33D","locale":"jp","text":"強さ"}
-{"id":"static:FFF200F9","locale":"jp","text":"使用確認"}
+{"id":"static:FFF200F9","locale":"jp","text":"使用"}
 {"id":"static:FFF34219","locale":"jp","text":"同種の素材"}
 {"id":"static:RoleDecorate","locale":"jp","text":"CHARACTER"}
 {"id":"static:common_allFiltrate","locale":"jp","text":"すべてのフィルター"}

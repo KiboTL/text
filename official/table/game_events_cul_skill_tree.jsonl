@@ -8,8 +8,8 @@
 {"id":"game_events_cul_skill_tree:1305670061312","locale":"jp","text":"星極チャージの回復速度が30%上昇する。"}
 {"id":"game_events_cul_skill_tree:1309965028352","locale":"jp","text":"一縁一会"}
 {"id":"game_events_cul_skill_tree:1309965028608","locale":"jp","text":"星閃スキルが発動した後、そのたびにチーム全体の星極スキルのダメージが80%増加する（効果時間：15秒）。"}
-{"id":"game_events_cul_skill_tree:1314259995648","locale":"jp","text":"縁結びの精進"}
-{"id":"game_events_cul_skill_tree:1314259995904","locale":"jp","text":"縁結びがSに達した後、縁結び属性1につき星極チャージの回復速度がさらに0.03%上昇する（スタック可能）。"}
+{"id":"game_events_cul_skill_tree:1314259995648","locale":"jp","text":"結縁の精進"}
+{"id":"game_events_cul_skill_tree:1314259995904","locale":"jp","text":"縁結びがSに達した後、結縁属性1につき星極チャージの回復速度がさらに0.03%上昇する（スタック可能）。"}
 {"id":"game_events_cul_skill_tree:1722281888768","locale":"jp","text":"一を見て万を知るⅠ"}
 {"id":"game_events_cul_skill_tree:1722281889024","locale":"jp","text":"EX強度が20%上昇する。"}
 {"id":"game_events_cul_skill_tree:1726576856064","locale":"jp","text":"一を見て万を知るⅡ"}

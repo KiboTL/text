@@ -8,7 +8,7 @@
 {"id":"common_condition:262014479894528","locale":"jp","text":"{num}ポイント獲得する"}
 {"id":"common_condition:262018774861824","locale":"jp","text":"全イベントクエストを達成する"}
 {"id":"common_condition:262023069829120","locale":"jp","text":"星識レベルが{min}以上、{max}以下"}
-{"id":"common_condition:262027364796416","locale":"jp","text":"キャラクター死亡"}
+{"id":"common_condition:262027364796416","locale":"jp","text":"キャラクター戦闘不能"}
 {"id":"common_condition:262031659763712","locale":"jp","text":"戦場状態達成"}
 {"id":"common_condition:47278999996416","locale":"jp","text":"{sciencename}の研究を完了する"}
 {"id":"common_condition:47283294963712","locale":"jp","text":"農園拡張レベルが{value}になると解放"}

@@ -20,7 +20,7 @@
 {"id":"pc_button_hint:193273528576","locale":"jp","text":"農園本部 <actionkey>MainInput/PageHomeCenter</actionkey>"}
 {"id":"pc_button_hint:197568495872","locale":"jp","text":"<actionkey>PageHomeExchangeSell/PageHomeExchangeSellShift</actionkey> +<actionkey>UI/Click</actionkey> を<color=#96F9FF>長押し</color>すると半分を取り出す。<actionkey>PageHomeExchangeSell/PageHomeExchangeSellCtrl</actionkey> +<actionkey>UI/Click</actionkey> を<color=#96F9FF>長押し</color>すると全部取り出す。"}
 {"id":"pc_button_hint:201863463168","locale":"jp","text":"農園を離れる <actionkeyhold>GamepadUI/MainInput_LeaveHome</actionkeyhold>長押し"}
-{"id":"pc_button_hint:206158430464","locale":"jp","text":"<actionkey>MainInput/MainPetSkillRoulette</actionkey> を<color=#96F9FF>押す</color>とキボホイールが開き、より多くのキボスキルを素早く使用できる"}
+{"id":"pc_button_hint:206158430464","locale":"jp","text":"<actionkey>MainInput/MainPetSkillRoulette</actionkey>を<color=#96F9FF>押して</color>、キボホイールからほかのキボのスキルを選ぶ"}
 {"id":"pc_button_hint:210453397760","locale":"jp","text":"<actionkey>MainInput/MainPetSkill</actionkey> を<color=#96F9FF>押す</color>とキボスキルを使って謎解きできる"}
 {"id":"pc_button_hint:214748365056","locale":"jp","text":"ステラカードを切り替え <actionkey>RealTimePetCatch/MainMouseScroll</actionkey>"}
 {"id":"pc_button_hint:21474836736","locale":"jp","text":"耕作開始 <actionkey>MainInput/MainSkill</actionkey>"}
@@ -62,6 +62,6 @@
 {"id":"pc_button_hint:936302870784","locale":"jp","text":"召喚キャンセル<actionkey>UI/Cancel</actionkey>"}
 {"id":"pc_button_hint:940597838080","locale":"jp","text":"耕作を終了 <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
 {"id":"pc_button_hint:944892805376","locale":"jp","text":"配置キャンセル <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
-{"id":"pc_button_hint:94489280768","locale":"jp","text":"<color=#96F9FF>長押し</color><actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold>してキボホイールを開くと、より多くのキボスキルを素早く使用できる"}
+{"id":"pc_button_hint:94489280768","locale":"jp","text":"<actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold>を<color=#96F9FF>長押し</color>して、キボホイールからほかのキボのスキルを選ぶ"}
 {"id":"pc_button_hint:949187772672","locale":"jp","text":"寮を出る 長押し<actionkeyhold>GamepadUI/MainInput_LeaveHome</actionkeyhold>"}
 {"id":"pc_button_hint:98784248064","locale":"jp","text":"種を<color=#96F9FF>長押し</color>するとドラッグできる。<actionkey>PageBag/PageBagShift</actionkey> +<actionkey>UI/Click</actionkey> で種を半分取る"}

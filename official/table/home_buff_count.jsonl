@@ -1,8 +1,8 @@
 {"id":"home_buff_count:128853313848064","locale":"jp","text":"牧場の産出時間-{value}される。"}
 {"id":"home_buff_count:128857608815360","locale":"jp","text":"牧場の産出量が2倍になる確率が+{value}される。"}
 {"id":"home_buff_count:128861903782656","locale":"jp","text":"牧場で{name}系のアイテムの追加ドロップの確率が+{value}される。"}
-{"id":"home_buff_count:171802986808064","locale":"jp","text":"{name}で、すべてのアイテムの生産時間がx%短縮される。"}
-{"id":"home_buff_count:171807281775360","locale":"jp","text":"{name}で、すべてのアイテムの生産時間がx%短縮される。"}
+{"id":"home_buff_count:171802986808064","locale":"jp","text":"{name}で、すべてのアイテムの生産時間が{value}短縮される。"}
+{"id":"home_buff_count:171807281775360","locale":"jp","text":"{name}で、すべてのアイテムの生産時間が{value}短縮される。"}
 {"id":"home_buff_count:171815871709952","locale":"jp","text":"{name}で、生産完成後、生産量が2倍になる確率+{value}される。"}
 {"id":"home_buff_count:171820166677248","locale":"jp","text":"{name}で、特殊採集物のドロップ量が2倍になる確率が+{value}される。"}
 {"id":"home_buff_count:171824461644544","locale":"jp","text":"{name2011}で、{name2024}元素のアイテムの生産量が2倍になる確率が+{value}される。"}

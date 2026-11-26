@@ -1,5 +1,5 @@
 {"id":"ui_top_bar:1000727380736","locale":"jp","text":"スタンド"}
-{"id":"ui_top_bar:1073741824768","locale":"jp","text":"指定映照"}
+{"id":"ui_top_bar:1073741824768","locale":"jp","text":"ピックアップ"}
 {"id":"ui_top_bar:1082331759360","locale":"jp","text":"キボファイトセンター"}
 {"id":"ui_top_bar:111669150464","locale":"jp","text":"編成"}
 {"id":"ui_top_bar:115964117760","locale":"jp","text":"クイック編成"}
@@ -109,13 +109,13 @@
 {"id":"ui_top_bar:609885356800","locale":"jp","text":"キボファイト"}
 {"id":"ui_top_bar:622770258688","locale":"jp","text":"シングル挑戦"}
 {"id":"ui_top_bar:627065225984","locale":"jp","text":"潜在能力訓練"}
-{"id":"ui_top_bar:631360193280","locale":"jp","text":"キラキラ珍品"}
+{"id":"ui_top_bar:631360193280","locale":"jp","text":"煌めく珍品"}
 {"id":"ui_top_bar:635655160576","locale":"jp","text":"能力"}
 {"id":"ui_top_bar:639950127872","locale":"jp","text":"休憩"}
 {"id":"ui_top_bar:644245095168","locale":"jp","text":"縁起"}
 {"id":"ui_top_bar:64424510208","locale":"jp","text":"ワールドマップ"}
 {"id":"ui_top_bar:648540062464","locale":"jp","text":"展示台"}
-{"id":"ui_top_bar:652835029760","locale":"jp","text":"良き友"}
+{"id":"ui_top_bar:652835029760","locale":"jp","text":"よき友"}
 {"id":"ui_top_bar:657129997056","locale":"jp","text":"剣技"}
 {"id":"ui_top_bar:661424964352","locale":"jp","text":"試練"}
 {"id":"ui_top_bar:665719931648","locale":"jp","text":"試練"}
