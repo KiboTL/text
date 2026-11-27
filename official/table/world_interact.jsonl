@@ -36,7 +36,7 @@
 {"id":"world_interact:17678085390848","locale":"jp","text":"挑戦開始"}
 {"id":"world_interact:17682380358144","locale":"jp","text":"調べる"}
 {"id":"world_interact:17686675325440","locale":"jp","text":"キボ変身"}
-{"id":"world_interact:17690970292736","locale":"jp","text":"吊り橋を開ける"}
+{"id":"world_interact:17690970292736","locale":"jp","text":"跳ね橋を開ける"}
 {"id":"world_interact:17695265260032","locale":"jp","text":"修復する"}
 {"id":"world_interact:17703855194624","locale":"jp","text":"花びらに触れる"}
 {"id":"world_interact:17738214932992","locale":"jp","text":"歯車を回す"}
@@ -63,7 +63,7 @@
 {"id":"world_interact:21500606284288","locale":"jp","text":"収穫"}
 {"id":"world_interact:21504901251584","locale":"jp","text":"移植"}
 {"id":"world_interact:21509196218880","locale":"jp","text":"レベルアップ"}
-{"id":"world_interact:2151778615808","locale":"jp","text":"依頼を出す"}
+{"id":"world_interact:2151778615808","locale":"jp","text":"依頼"}
 {"id":"world_interact:21534966022656","locale":"jp","text":"Lv.MAX"}
 {"id":"world_interact:2156073583104","locale":"jp","text":"依頼を確認"}
 {"id":"world_interact:219043332608","locale":"jp","text":"漁場_修復"}
@@ -83,7 +83,7 @@
 {"id":"world_interact:309237645824","locale":"jp","text":"撮影スポット"}
 {"id":"world_interact:313532613120","locale":"jp","text":"ワープ"}
 {"id":"world_interact:317827580416","locale":"jp","text":"依頼を確認"}
-{"id":"world_interact:322122547712","locale":"jp","text":"依頼を出す"}
+{"id":"world_interact:322122547712","locale":"jp","text":"依頼"}
 {"id":"world_interact:326417515008","locale":"jp","text":"採集設備_修復"}
 {"id":"world_interact:330712482304","locale":"jp","text":"採集設備_採集"}
 {"id":"world_interact:335007449600","locale":"jp","text":"採集設備_修復"}

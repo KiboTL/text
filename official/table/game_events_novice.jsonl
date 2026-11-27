@@ -1,5 +1,5 @@
 {"id":"game_events_novice:42907152783771392","locale":"jp","text":"メインストーリーを進めてください。"}
-{"id":"game_events_novice:42907157078738688","locale":"jp","text":"メインストーリー[第一章Ⅲ]を完了する"}
+{"id":"game_events_novice:42907157078738688","locale":"jp","text":"メインストーリー「第一章Ⅲ」をクリアすると解放"}
 {"id":"game_events_novice:42907161373705984","locale":"jp","text":"星識レベル6で解放"}
 {"id":"game_events_novice:42907165668673280","locale":"jp","text":"星識レベル6で解放"}
 {"id":"game_events_novice:42907169963640576","locale":"jp","text":"星識レベル6で解放"}
@@ -8,7 +8,7 @@
 {"id":"game_events_novice:42907182848542464","locale":"jp","text":"星識レベル10で解放"}
 {"id":"game_events_novice:42907187143509760","locale":"jp","text":"星識レベル10で解放"}
 {"id":"game_events_novice:42907191438477056","locale":"jp","text":"星識レベル10で解放"}
-{"id":"game_events_novice:42907195733444352","locale":"jp","text":"[第一章Ⅶ]を完了し、エンカクと話すと解放"}
+{"id":"game_events_novice:42907195733444352","locale":"jp","text":"「第一章Ⅶ」をクリアし、エンカクと話すと解放"}
 {"id":"game_events_novice:42907200028411648","locale":"jp","text":"星識レベル18で解放"}
 {"id":"game_events_novice:42907204323378944","locale":"jp","text":"星識レベル22で解放"}
 {"id":"game_events_novice:42907208618346240","locale":"jp","text":"星識レベル22で解放"}

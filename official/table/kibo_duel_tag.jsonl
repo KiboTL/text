@@ -14,7 +14,7 @@
 {"id":"kibo_duel_tag:867583394816","locale":"jp","text":"フィールド上で瞬間的に大ダメージを与えたり、回復できるキボ。"}
 {"id":"kibo_duel_tag:871878361856","locale":"jp","text":"成長"}
 {"id":"kibo_duel_tag:871878362112","locale":"jp","text":"フィールド上で成長し続けるキボ。"}
-{"id":"kibo_duel_tag:876173329152","locale":"jp","text":"操作"}
+{"id":"kibo_duel_tag:876173329152","locale":"jp","text":"行動妨害"}
 {"id":"kibo_duel_tag:876173329408","locale":"jp","text":"敵に行動妨害効果を付与できるキボ。"}
 {"id":"kibo_duel_tag:880468296448","locale":"jp","text":"強化"}
 {"id":"kibo_duel_tag:880468296704","locale":"jp","text":"味方を強化できるキボ。"}
@@ -23,6 +23,6 @@
 {"id":"kibo_duel_tag:889058231040","locale":"jp","text":"チャージ"}
 {"id":"kibo_duel_tag:889058231296","locale":"jp","text":"味方のエネルギーを回復できるキボ。"}
 {"id":"kibo_duel_tag:893353198336","locale":"jp","text":"配置"}
-{"id":"kibo_duel_tag:893353198592","locale":"jp","text":"味方に配置コストを提供できるキボ。"}
+{"id":"kibo_duel_tag:893353198592","locale":"jp","text":"味方に配置コストを供給できるキボ。"}
 {"id":"kibo_duel_tag:897648165632","locale":"jp","text":"天候"}
 {"id":"kibo_duel_tag:897648165888","locale":"jp","text":"フィールド上の天候を変えられるキボ。"}

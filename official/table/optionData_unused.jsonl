@@ -1,7 +1,7 @@
 {"id":"optionData_unused:103079216640","locale":"jp","text":"戦闘操作"}
 {"id":"optionData_unused:103079216896","locale":"jp","text":"キボスキル"}
 {"id":"optionData_unused:107374183936","locale":"jp","text":"UI操作"}
-{"id":"optionData_unused:107374184192","locale":"jp","text":"所持品画面を開く"}
+{"id":"optionData_unused:107374184192","locale":"jp","text":"バッグ画面を開く"}
 {"id":"optionData_unused:111669151232","locale":"jp","text":"UI操作"}
 {"id":"optionData_unused:111669151488","locale":"jp","text":"チーム編成画面を開く"}
 {"id":"optionData_unused:115964118528","locale":"jp","text":"UI操作"}
@@ -25,8 +25,8 @@
 {"id":"optionData_unused:150323858432","locale":"jp","text":"30FPS|45FPS|60FPS"}
 {"id":"optionData_unused:154618824192","locale":"jp","text":"基本グラフィック"}
 {"id":"optionData_unused:154618824448","locale":"jp","text":"グラフィック全体品質"}
-{"id":"optionData_unused:154618825472","locale":"jp","text":"カスタマイズ|低|中|高|最高"}
-{"id":"optionData_unused:154618825728","locale":"jp","text":"カスタマイズ|低|中|高|最高"}
+{"id":"optionData_unused:154618825472","locale":"jp","text":"カスタム|低|中|高|最高"}
+{"id":"optionData_unused:154618825728","locale":"jp","text":"カスタム|低|中|高|最高"}
 {"id":"optionData_unused:163208758784","locale":"jp","text":"グラフィック詳細設定"}
 {"id":"optionData_unused:163208759040","locale":"jp","text":"レンダリング比率"}
 {"id":"optionData_unused:167503726080","locale":"jp","text":"カスタム設定"}

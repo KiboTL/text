@@ -1,7 +1,7 @@
-{"id":"home_exchange_order:4294971590967552","locale":"jp","text":"小さな大狼の石像の依頼"}
-{"id":"home_exchange_order:4728763287863552","locale":"jp","text":"風銅の収集"}
+{"id":"home_exchange_order:4294971590967552","locale":"jp","text":"小さな大狼石像の依頼"}
+{"id":"home_exchange_order:4728763287863552","locale":"jp","text":"風銅の調達"}
 {"id":"home_exchange_order:4728767582830848","locale":"jp","text":"片塵石の調達"}
-{"id":"home_exchange_order:4728771877798144","locale":"jp","text":"軟らかい木の収集"}
+{"id":"home_exchange_order:4728771877798144","locale":"jp","text":"軟らかい木の調達"}
 {"id":"home_exchange_order:4728776172765440","locale":"jp","text":"繊維の調達"}
 {"id":"home_exchange_order:4728780467732736","locale":"jp","text":"マダラキノコの調達"}
 {"id":"home_exchange_order:4728784762700032","locale":"jp","text":"エイプルの調達"}
@@ -13,11 +13,11 @@
 {"id":"home_exchange_order:4728810532503808","locale":"jp","text":"芳醇なミルクの調達"}
 {"id":"home_exchange_order:4728814827471104","locale":"jp","text":"ハチミツの調達"}
 {"id":"home_exchange_order:4728913611718912","locale":"jp","text":"軟らかい木板の供給"}
-{"id":"home_exchange_order:4728917906686208","locale":"jp","text":"片塵石ブロックの供給"}
+{"id":"home_exchange_order:4728917906686208","locale":"jp","text":"片塵石のブロックの供給"}
 {"id":"home_exchange_order:4728922201653504","locale":"jp","text":"風銅インゴットの供給"}
 {"id":"home_exchange_order:4728926496620800","locale":"jp","text":"木炭の供給"}
 {"id":"home_exchange_order:4728930791588096","locale":"jp","text":"キャベッコの木彫りの依頼"}
-{"id":"home_exchange_order:4728935086555392","locale":"jp","text":"小さな大狼の石像の依頼"}
+{"id":"home_exchange_order:4728935086555392","locale":"jp","text":"小さな大狼石像の依頼"}
 {"id":"home_exchange_order:4728939381522688","locale":"jp","text":"浮音の風鈴の依頼"}
 {"id":"home_exchange_order:4733058255159552","locale":"jp","text":"風銅の買取"}
 {"id":"home_exchange_order:4733062550126848","locale":"jp","text":"閃錫の買取"}
@@ -33,7 +33,7 @@
 {"id":"home_exchange_order:4733105499799808","locale":"jp","text":"チシキの買取"}
 {"id":"home_exchange_order:4733109794767104","locale":"jp","text":"獣肉の買取"}
 {"id":"home_exchange_order:4733114089734400","locale":"jp","text":"鳥肉の買取"}
-{"id":"home_exchange_order:4733118384701696","locale":"jp","text":"破れた獣皮の買取"}
+{"id":"home_exchange_order:4733118384701696","locale":"jp","text":"ぼろぼろの獣の皮の買取"}
 {"id":"home_exchange_order:4733122679668992","locale":"jp","text":"新鮮な卵の買取"}
 {"id":"home_exchange_order:4733126974636288","locale":"jp","text":"芳醇なミルクの買取"}
 {"id":"home_exchange_order:4733131269603584","locale":"jp","text":"ハチミツの買取"}
@@ -70,7 +70,7 @@
 {"id":"home_exchange_order:4737421941932288","locale":"jp","text":"獣肉の大量買取"}
 {"id":"home_exchange_order:4737426236899584","locale":"jp","text":"鳥肉の大量買取"}
 {"id":"home_exchange_order:4737430531866880","locale":"jp","text":"ぼろぼろの獣皮の大量買取"}
-{"id":"home_exchange_order:4737434826834176","locale":"jp","text":"綺麗な獣皮の大量買取"}
+{"id":"home_exchange_order:4737434826834176","locale":"jp","text":"綺麗な獣の皮の大量買取"}
 {"id":"home_exchange_order:4737439121801472","locale":"jp","text":"新鮮な卵の大量買取"}
 {"id":"home_exchange_order:4737443416768768","locale":"jp","text":"芳醇なミルクの大量買取"}
 {"id":"home_exchange_order:4737447711736064","locale":"jp","text":"ハチミツの大量買取"}
@@ -120,7 +120,7 @@
 {"id":"home_exchange_order:4741648189751552","locale":"jp","text":"風銅の超大量買取"}
 {"id":"home_exchange_order:4741652484718848","locale":"jp","text":"閃錫の超大量買取"}
 {"id":"home_exchange_order:4741656779686144","locale":"jp","text":"鏡鉄の超大量買取"}
-{"id":"home_exchange_order:4741661074653440","locale":"jp","text":"空鉄の大量買取"}
+{"id":"home_exchange_order:4741661074653440","locale":"jp","text":"空鉄の超大量買取"}
 {"id":"home_exchange_order:4741665369620736","locale":"jp","text":"片塵石の超大量買取"}
 {"id":"home_exchange_order:4741669664588032","locale":"jp","text":"堅岩石の超大量買取"}
 {"id":"home_exchange_order:4741673959555328","locale":"jp","text":"黄玉の超大量買取"}
@@ -136,8 +136,8 @@
 {"id":"home_exchange_order:4741716909228288","locale":"jp","text":"チシキの超大量買取"}
 {"id":"home_exchange_order:4741721204195584","locale":"jp","text":"獣肉の超大量買取"}
 {"id":"home_exchange_order:4741725499162880","locale":"jp","text":"鳥肉の超大量買取"}
-{"id":"home_exchange_order:4741729794130176","locale":"jp","text":"ぼろぼろの獣皮の超大量買取"}
-{"id":"home_exchange_order:4741734089097472","locale":"jp","text":"綺麗な獣皮の超大量買取"}
+{"id":"home_exchange_order:4741729794130176","locale":"jp","text":"ぼろぼろの獣の皮の超大量買取"}
+{"id":"home_exchange_order:4741734089097472","locale":"jp","text":"綺麗な獣の皮の超大量買取"}
 {"id":"home_exchange_order:4741738384064768","locale":"jp","text":"新鮮な卵の超大量買取"}
 {"id":"home_exchange_order:4741742679032064","locale":"jp","text":"芳醇なミルクの超大量買取"}
 {"id":"home_exchange_order:4741746973999360","locale":"jp","text":"ハチミツの超大量買取"}
@@ -172,7 +172,7 @@
 {"id":"home_exchange_order:4741871528050944","locale":"jp","text":"風銅インゴットの超大量供給"}
 {"id":"home_exchange_order:4741875823018240","locale":"jp","text":"青銅のインゴットの超大量供給"}
 {"id":"home_exchange_order:4741880117985536","locale":"jp","text":"鏡鉄のインゴットの超大量供給"}
-{"id":"home_exchange_order:4741884412952832","locale":"jp","text":"空鉄インゴットの大量供給"}
+{"id":"home_exchange_order:4741884412952832","locale":"jp","text":"空鉄インゴットの超大量供給"}
 {"id":"home_exchange_order:4741888707920128","locale":"jp","text":"月光麻の布地の超大量供給"}
 {"id":"home_exchange_order:4741893002887424","locale":"jp","text":"クモノワタの布地の超大量供給"}
 {"id":"home_exchange_order:4741897297854720","locale":"jp","text":"荒い革の超大量供給"}
@@ -183,9 +183,9 @@
 {"id":"home_exchange_order:4741918772691200","locale":"jp","text":"木材と鉱石の特級依頼"}
 {"id":"home_exchange_order:4741944542494976","locale":"jp","text":"花火工房の大量仕入れ"}
 {"id":"home_exchange_order:4741948837462272","locale":"jp","text":"花火工房の大量仕入れ"}
-{"id":"home_exchange_order:4771712960823552","locale":"jp","text":"風銅の収集"}
+{"id":"home_exchange_order:4771712960823552","locale":"jp","text":"風銅の調達"}
 {"id":"home_exchange_order:4771717255790848","locale":"jp","text":"片塵石の調達"}
-{"id":"home_exchange_order:4771721550758144","locale":"jp","text":"軟らかい木の収集"}
+{"id":"home_exchange_order:4771721550758144","locale":"jp","text":"軟らかい木の調達"}
 {"id":"home_exchange_order:4771725845725440","locale":"jp","text":"繊維の調達"}
 {"id":"home_exchange_order:4771730140692736","locale":"jp","text":"マダラキノコの調達"}
 {"id":"home_exchange_order:4771734435660032","locale":"jp","text":"エイプルの調達"}
@@ -197,11 +197,11 @@
 {"id":"home_exchange_order:4771760205463808","locale":"jp","text":"芳醇なミルクの調達"}
 {"id":"home_exchange_order:4771764500431104","locale":"jp","text":"ハチミツの調達"}
 {"id":"home_exchange_order:4771863284678912","locale":"jp","text":"軟らかい木板の供給"}
-{"id":"home_exchange_order:4771867579646208","locale":"jp","text":"片塵石ブロックの供給"}
+{"id":"home_exchange_order:4771867579646208","locale":"jp","text":"片塵石のブロックの供給"}
 {"id":"home_exchange_order:4771871874613504","locale":"jp","text":"風銅インゴットの供給"}
 {"id":"home_exchange_order:4771876169580800","locale":"jp","text":"木炭の供給"}
 {"id":"home_exchange_order:4771880464548096","locale":"jp","text":"キャベッコの木彫りの依頼"}
-{"id":"home_exchange_order:4771884759515392","locale":"jp","text":"小さな大狼の石像の依頼"}
+{"id":"home_exchange_order:4771884759515392","locale":"jp","text":"小さな大狼石像の依頼"}
 {"id":"home_exchange_order:4771889054482688","locale":"jp","text":"浮音の風鈴の依頼"}
 {"id":"home_exchange_order:4776007928119552","locale":"jp","text":"風銅の買取"}
 {"id":"home_exchange_order:4776012223086848","locale":"jp","text":"閃錫の買取"}
@@ -217,7 +217,7 @@
 {"id":"home_exchange_order:4776055172759808","locale":"jp","text":"チシキの買取"}
 {"id":"home_exchange_order:4776059467727104","locale":"jp","text":"獣肉の買取"}
 {"id":"home_exchange_order:4776063762694400","locale":"jp","text":"鳥肉の買取"}
-{"id":"home_exchange_order:4776068057661696","locale":"jp","text":"破れた獣皮の買取"}
+{"id":"home_exchange_order:4776068057661696","locale":"jp","text":"ぼろぼろの獣の皮の買取"}
 {"id":"home_exchange_order:4776072352628992","locale":"jp","text":"新鮮な卵の買取"}
 {"id":"home_exchange_order:4776076647596288","locale":"jp","text":"芳醇なミルクの買取"}
 {"id":"home_exchange_order:4776080942563584","locale":"jp","text":"ハチミツの買取"}
@@ -254,7 +254,7 @@
 {"id":"home_exchange_order:4780371614892288","locale":"jp","text":"獣肉の大量買取"}
 {"id":"home_exchange_order:4780375909859584","locale":"jp","text":"鳥肉の大量買取"}
 {"id":"home_exchange_order:4780380204826880","locale":"jp","text":"ぼろぼろの獣皮の大量買取"}
-{"id":"home_exchange_order:4780384499794176","locale":"jp","text":"綺麗な獣皮の大量買取"}
+{"id":"home_exchange_order:4780384499794176","locale":"jp","text":"綺麗な獣の皮の大量買取"}
 {"id":"home_exchange_order:4780388794761472","locale":"jp","text":"新鮮な卵の大量買取"}
 {"id":"home_exchange_order:4780393089728768","locale":"jp","text":"芳醇なミルクの大量買取"}
 {"id":"home_exchange_order:4780397384696064","locale":"jp","text":"ハチミツの大量買取"}
@@ -304,7 +304,7 @@
 {"id":"home_exchange_order:4784597862711552","locale":"jp","text":"風銅の超大量買取"}
 {"id":"home_exchange_order:4784602157678848","locale":"jp","text":"閃錫の超大量買取"}
 {"id":"home_exchange_order:4784606452646144","locale":"jp","text":"鏡鉄の超大量買取"}
-{"id":"home_exchange_order:4784610747613440","locale":"jp","text":"空鉄の大量買取"}
+{"id":"home_exchange_order:4784610747613440","locale":"jp","text":"空鉄の超大量買取"}
 {"id":"home_exchange_order:4784615042580736","locale":"jp","text":"片塵石の超大量買取"}
 {"id":"home_exchange_order:4784619337548032","locale":"jp","text":"堅岩石の超大量買取"}
 {"id":"home_exchange_order:4784623632515328","locale":"jp","text":"黄玉の超大量買取"}
@@ -320,8 +320,8 @@
 {"id":"home_exchange_order:4784666582188288","locale":"jp","text":"チシキの超大量買取"}
 {"id":"home_exchange_order:4784670877155584","locale":"jp","text":"獣肉の超大量買取"}
 {"id":"home_exchange_order:4784675172122880","locale":"jp","text":"鳥肉の超大量買取"}
-{"id":"home_exchange_order:4784679467090176","locale":"jp","text":"ぼろぼろの獣皮の超大量買取"}
-{"id":"home_exchange_order:4784683762057472","locale":"jp","text":"綺麗な獣皮の超大量買取"}
+{"id":"home_exchange_order:4784679467090176","locale":"jp","text":"ぼろぼろの獣の皮の超大量買取"}
+{"id":"home_exchange_order:4784683762057472","locale":"jp","text":"綺麗な獣の皮の超大量買取"}
 {"id":"home_exchange_order:4784688057024768","locale":"jp","text":"新鮮な卵の超大量買取"}
 {"id":"home_exchange_order:4784692351992064","locale":"jp","text":"芳醇なミルクの超大量買取"}
 {"id":"home_exchange_order:4784696646959360","locale":"jp","text":"ハチミツの超大量買取"}
@@ -356,7 +356,7 @@
 {"id":"home_exchange_order:4784821201010944","locale":"jp","text":"風銅インゴットの超大量供給"}
 {"id":"home_exchange_order:4784825495978240","locale":"jp","text":"青銅のインゴットの超大量供給"}
 {"id":"home_exchange_order:4784829790945536","locale":"jp","text":"鏡鉄のインゴットの超大量供給"}
-{"id":"home_exchange_order:4784834085912832","locale":"jp","text":"空鉄インゴットの大量供給"}
+{"id":"home_exchange_order:4784834085912832","locale":"jp","text":"空鉄インゴットの超大量供給"}
 {"id":"home_exchange_order:4784838380880128","locale":"jp","text":"月光麻の布地の超大量供給"}
 {"id":"home_exchange_order:4784842675847424","locale":"jp","text":"クモノワタの布地の超大量供給"}
 {"id":"home_exchange_order:4784846970814720","locale":"jp","text":"荒い革の超大量供給"}
@@ -367,9 +367,9 @@
 {"id":"home_exchange_order:4784868445651200","locale":"jp","text":"木材と鉱石の特級依頼"}
 {"id":"home_exchange_order:4784894215454976","locale":"jp","text":"花火工房の大量仕入れ"}
 {"id":"home_exchange_order:4784898510422272","locale":"jp","text":"花火工房の大量仕入れ"}
-{"id":"home_exchange_order:4814662633783552","locale":"jp","text":"風銅の収集"}
+{"id":"home_exchange_order:4814662633783552","locale":"jp","text":"風銅の調達"}
 {"id":"home_exchange_order:4814666928750848","locale":"jp","text":"片塵石の調達"}
-{"id":"home_exchange_order:4814671223718144","locale":"jp","text":"軟らかい木の収集"}
+{"id":"home_exchange_order:4814671223718144","locale":"jp","text":"軟らかい木の調達"}
 {"id":"home_exchange_order:4814675518685440","locale":"jp","text":"繊維の調達"}
 {"id":"home_exchange_order:4814679813652736","locale":"jp","text":"マダラキノコの調達"}
 {"id":"home_exchange_order:4814684108620032","locale":"jp","text":"エイプルの調達"}
@@ -381,11 +381,11 @@
 {"id":"home_exchange_order:4814709878423808","locale":"jp","text":"芳醇なミルクの調達"}
 {"id":"home_exchange_order:4814714173391104","locale":"jp","text":"ハチミツの調達"}
 {"id":"home_exchange_order:4814812957638912","locale":"jp","text":"軟らかい木板の供給"}
-{"id":"home_exchange_order:4814817252606208","locale":"jp","text":"片塵石ブロックの供給"}
+{"id":"home_exchange_order:4814817252606208","locale":"jp","text":"片塵石のブロックの供給"}
 {"id":"home_exchange_order:4814821547573504","locale":"jp","text":"風銅インゴットの供給"}
 {"id":"home_exchange_order:4814825842540800","locale":"jp","text":"木炭の供給"}
 {"id":"home_exchange_order:4814830137508096","locale":"jp","text":"キャベッコの木彫りの依頼"}
-{"id":"home_exchange_order:4814834432475392","locale":"jp","text":"小さな大狼の石像の依頼"}
+{"id":"home_exchange_order:4814834432475392","locale":"jp","text":"小さな大狼石像の依頼"}
 {"id":"home_exchange_order:4814838727442688","locale":"jp","text":"浮音の風鈴の依頼"}
 {"id":"home_exchange_order:4818957601079552","locale":"jp","text":"風銅の買取"}
 {"id":"home_exchange_order:4818961896046848","locale":"jp","text":"閃錫の買取"}
@@ -401,7 +401,7 @@
 {"id":"home_exchange_order:4819004845719808","locale":"jp","text":"チシキの買取"}
 {"id":"home_exchange_order:4819009140687104","locale":"jp","text":"獣肉の買取"}
 {"id":"home_exchange_order:4819013435654400","locale":"jp","text":"鳥肉の買取"}
-{"id":"home_exchange_order:4819017730621696","locale":"jp","text":"破れた獣皮の買取"}
+{"id":"home_exchange_order:4819017730621696","locale":"jp","text":"ぼろぼろの獣の皮の買取"}
 {"id":"home_exchange_order:4819022025588992","locale":"jp","text":"新鮮な卵の買取"}
 {"id":"home_exchange_order:4819026320556288","locale":"jp","text":"芳醇なミルクの買取"}
 {"id":"home_exchange_order:4819030615523584","locale":"jp","text":"ハチミツの買取"}
@@ -438,7 +438,7 @@
 {"id":"home_exchange_order:4823321287852288","locale":"jp","text":"獣肉の大量買取"}
 {"id":"home_exchange_order:4823325582819584","locale":"jp","text":"鳥肉の大量買取"}
 {"id":"home_exchange_order:4823329877786880","locale":"jp","text":"ぼろぼろの獣皮の大量買取"}
-{"id":"home_exchange_order:4823334172754176","locale":"jp","text":"綺麗な獣皮の大量買取"}
+{"id":"home_exchange_order:4823334172754176","locale":"jp","text":"綺麗な獣の皮の大量買取"}
 {"id":"home_exchange_order:4823338467721472","locale":"jp","text":"新鮮な卵の大量買取"}
 {"id":"home_exchange_order:4823342762688768","locale":"jp","text":"芳醇なミルクの大量買取"}
 {"id":"home_exchange_order:4823347057656064","locale":"jp","text":"ハチミツの大量買取"}
@@ -488,7 +488,7 @@
 {"id":"home_exchange_order:4827547535671552","locale":"jp","text":"風銅の超大量買取"}
 {"id":"home_exchange_order:4827551830638848","locale":"jp","text":"閃錫の超大量買取"}
 {"id":"home_exchange_order:4827556125606144","locale":"jp","text":"鏡鉄の超大量買取"}
-{"id":"home_exchange_order:4827560420573440","locale":"jp","text":"空鉄の大量買取"}
+{"id":"home_exchange_order:4827560420573440","locale":"jp","text":"空鉄の超大量買取"}
 {"id":"home_exchange_order:4827564715540736","locale":"jp","text":"片塵石の超大量買取"}
 {"id":"home_exchange_order:4827569010508032","locale":"jp","text":"堅岩石の超大量買取"}
 {"id":"home_exchange_order:4827573305475328","locale":"jp","text":"黄玉の超大量買取"}
@@ -504,8 +504,8 @@
 {"id":"home_exchange_order:4827616255148288","locale":"jp","text":"チシキの超大量買取"}
 {"id":"home_exchange_order:4827620550115584","locale":"jp","text":"獣肉の超大量買取"}
 {"id":"home_exchange_order:4827624845082880","locale":"jp","text":"鳥肉の超大量買取"}
-{"id":"home_exchange_order:4827629140050176","locale":"jp","text":"ぼろぼろの獣皮の超大量買取"}
-{"id":"home_exchange_order:4827633435017472","locale":"jp","text":"綺麗な獣皮の超大量買取"}
+{"id":"home_exchange_order:4827629140050176","locale":"jp","text":"ぼろぼろの獣の皮の超大量買取"}
+{"id":"home_exchange_order:4827633435017472","locale":"jp","text":"綺麗な獣の皮の超大量買取"}
 {"id":"home_exchange_order:4827637729984768","locale":"jp","text":"新鮮な卵の超大量買取"}
 {"id":"home_exchange_order:4827642024952064","locale":"jp","text":"芳醇なミルクの超大量買取"}
 {"id":"home_exchange_order:4827646319919360","locale":"jp","text":"ハチミツの超大量買取"}
@@ -540,7 +540,7 @@
 {"id":"home_exchange_order:4827770873970944","locale":"jp","text":"風銅インゴットの超大量供給"}
 {"id":"home_exchange_order:4827775168938240","locale":"jp","text":"青銅のインゴットの超大量供給"}
 {"id":"home_exchange_order:4827779463905536","locale":"jp","text":"鏡鉄のインゴットの超大量供給"}
-{"id":"home_exchange_order:4827783758872832","locale":"jp","text":"空鉄インゴットの大量供給"}
+{"id":"home_exchange_order:4827783758872832","locale":"jp","text":"空鉄インゴットの超大量供給"}
 {"id":"home_exchange_order:4827788053840128","locale":"jp","text":"月光麻の布地の超大量供給"}
 {"id":"home_exchange_order:4827792348807424","locale":"jp","text":"クモノワタの布地の超大量供給"}
 {"id":"home_exchange_order:4827796643774720","locale":"jp","text":"荒い革の超大量供給"}

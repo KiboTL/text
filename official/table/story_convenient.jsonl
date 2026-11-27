@@ -1201,7 +1201,7 @@
 {"id":"story_convenient:129537957404083968","locale":"jp","text":"ほかの催し？"}
 {"id":"story_convenient:129537957404084480","locale":"jp","text":"参加するだけで景品が……？"}
 {"id":"story_convenient:129537961699050752","locale":"jp","text":"小夕"}
-{"id":"story_convenient:129537961699051008","locale":"jp","text":"ええ、その通りです！\nちょうどキボを連れていますし、ぜひキボファイトに参加してみてください！"}
+{"id":"story_convenient:129537961699051008","locale":"jp","text":"ええ！ちょうどキボを連れていますし、\nぜひキボファイトに参加してみてください！"}
 {"id":"story_convenient:129537965994018048","locale":"jp","text":"小夕"}
 {"id":"story_convenient:129537965994018304","locale":"jp","text":"準備が完了したら、まず私とキボファイトをしてみましょう！"}
 {"id":"story_convenient:129538365425976576","locale":"jp","text":"小夕"}
@@ -3287,7 +3287,7 @@
 {"id":"story_convenient:130699733172749568","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:130699733172749824","locale":"jp","text":"（あれ、毛が落ちてる……まだ近くにいるのかな？もしかして、後ろに……？）"}
 {"id":"story_convenient:130784335438546176","locale":"jp","text":"ティティ"}
-{"id":"story_convenient:130784335438546432","locale":"jp","text":"それではまず、川辺から探してみましょうか。"}
+{"id":"story_convenient:130784335438546432","locale":"jp","text":"それではまず、平原の川辺で貝殻を探してみましょうか。"}
 {"id":"story_convenient:130784339733513472","locale":"jp","text":"ルミィ"}
 {"id":"story_convenient:130784339733513728","locale":"jp","text":"ふっふっふ！宝探しなら、このルミィさまにおまかせなのだ！"}
 {"id":"story_convenient:130788630405842176","locale":"jp","text":"ルミィ"}
@@ -3301,7 +3301,7 @@
 {"id":"story_convenient:130789489399301376","locale":"jp","text":"ルミィ"}
 {"id":"story_convenient:130789489399301632","locale":"jp","text":"うーん……まさか溶鉱炉に火がついちゃうとは……"}
 {"id":"story_convenient:130789493694268672","locale":"jp","text":"ティティ"}
-{"id":"story_convenient:130789493694268928","locale":"jp","text":"あの……チルルさんに聞いてみるというのはどうでしょうか？もしかしたら、あの木彫りのなかにこそ、探している答えがあるかもしれませんよ！"}
+{"id":"story_convenient:130789493694268928","locale":"jp","text":"あの……チルルさんに聞いてみるのはどうでしょうか？\nもしかしたら、あの木彫りのなかにこそ、\n探している答えがあるかもしれませんよ！"}
 {"id":"story_convenient:130911036973778176","locale":"jp","text":"リサ"}
 {"id":"story_convenient:130911036973778432","locale":"jp","text":"なんだか落ち着かないわ……"}
 {"id":"story_convenient:130911041268745472","locale":"jp","text":"{playerName}"}
@@ -3333,7 +3333,7 @@
 {"id":"story_convenient:130912351233770752","locale":"jp","text":"イザベル"}
 {"id":"story_convenient:130912351233771008","locale":"jp","text":"ここを取り返すのを手伝ってほしいの。"}
 {"id":"story_convenient:130912355528738048","locale":"jp","text":"イザベル"}
-{"id":"story_convenient:130912355528738304","locale":"jp","text":"もちろん、ただで頼むつもりはないわ。ちゃんと報酬も用意してるの――\nほら！半年かけて一粒ずつ貯めたペペアメよ！"}
+{"id":"story_convenient:130912355528738304","locale":"jp","text":"もちろん、ただで頼むつもりはないわ。ちゃんと報酬も用意してるの――\nほら！半朔かけて一粒ずつ貯めたペペアメよ！"}
 {"id":"story_convenient:130912359823705344","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:130912359823705600","locale":"jp","text":"半朔……それ、まだ食べられるのかな……"}
 {"id":"story_convenient:130912364118672640","locale":"jp","text":"イザベル"}
@@ -3822,7 +3822,7 @@
 {"id":"story_convenient:172018173258761472","locale":"jp","text":"メーツァ"}
 {"id":"story_convenient:172018173258761728","locale":"jp","text":"これだけ石材があれば、補強するには十分よ。"}
 {"id":"story_convenient:172018177553728768","locale":"jp","text":"メーツァ"}
-{"id":"story_convenient:172018177553729024","locale":"jp","text":"危険なヶ所はほとんど補強できたから\n嵐が来ても谷に大きな被害が出ることはないはず。"}
+{"id":"story_convenient:172018177553729024","locale":"jp","text":"危険な箇所はほとんど補強できたから\n嵐が来ても谷に大きな被害が出ることはないはず。"}
 {"id":"story_convenient:172018181848696064","locale":"jp","text":"メーツァ"}
 {"id":"story_convenient:172018181848696320","locale":"jp","text":"あとは帰って待つだけね……"}
 {"id":"story_convenient:172018186143663360","locale":"jp","text":"エラハティ"}
@@ -4154,7 +4154,7 @@
 {"id":"story_convenient:172099790522287360","locale":"jp","text":"アビィ"}
 {"id":"story_convenient:172099790522287616","locale":"jp","text":"アビィ、いっぱいはむはむした！\nでも、気づいたら、倉庫……からっぽになってて……"}
 {"id":"story_convenient:172099794817254656","locale":"jp","text":"アビィ"}
-{"id":"story_convenient:172099794817254912","locale":"jp","text":"お兄ちゃん、「心配ない」って言ってたけど……\n走ってどっか行っちゃった……ごめんなさい……"}
+{"id":"story_convenient:172099794817254912","locale":"jp","text":"ウーチおじさん、「心配ない」って言ってたけど……\n走ってどっか行っちゃった……ごめんなさい……"}
 {"id":"story_convenient:172099799112221952","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:172099799112222208","locale":"jp","text":"ウーチはアビィがたくさん食べるのを知らなかったし……\nまあ、しかたないよ。"}
 {"id":"story_convenient:172099803407189248","locale":"jp","text":"アビィ"}
@@ -4832,7 +4832,7 @@
 {"id":"story_convenient:214749253858231552","locale":"jp","text":"村長"}
 {"id":"story_convenient:214749253858231808","locale":"jp","text":"おぬしは、仲間が巨大な鳥に攫われて木の上で気絶してしまうような目に遭わなければいいのう。"}
 {"id":"story_convenient:214749258153198848","locale":"jp","text":"村長"}
-{"id":"story_convenient:214749258153199104","locale":"jp","text":"だが、もしそうなっても、仲間を縛り上げてズルズルと引きずってはいかんぞ。\nわしは当時の警備隊の隊長に三日三晩説明する羽目になったんじゃ……"}
+{"id":"story_convenient:214749258153199104","locale":"jp","text":"だが、もしそうなっても、仲間をまとめて縛って引きずって帰ってはいかんぞ。\nあのときは保安官に事情を説明するのに、ずいぶん時間がかかったんじゃ……"}
 {"id":"story_convenient:214750087081886976","locale":"jp","text":"エンカク"}
 {"id":"story_convenient:214750087081887232","locale":"jp","text":"おう！鍛冶の依頼か？"}
 {"id":"story_convenient:214750087081887488","locale":"jp","text":"眺めてるだけだよ。"}
@@ -4956,7 +4956,7 @@
 {"id":"story_convenient:214751830838609152","locale":"jp","text":"村長"}
 {"id":"story_convenient:214751830838609408","locale":"jp","text":"おぬしは、仲間が巨大な鳥に攫われて木の上で気絶してしまうような目に遭わなければいいのう。"}
 {"id":"story_convenient:214751835133576448","locale":"jp","text":"村長"}
-{"id":"story_convenient:214751835133576704","locale":"jp","text":"だが、もしそうなっても、仲間を縛り上げてズルズルと引きずってはいかんぞ。\nわしは当時の警備隊の隊長に三日三晩説明する羽目になったんじゃ……"}
+{"id":"story_convenient:214751835133576704","locale":"jp","text":"だが、もしそうなっても、仲間をまとめて縛って引きずって帰ってはいかんぞ。\nあのときは保安官に事情を説明するのに、ずいぶん時間がかかったんじゃ……"}
 {"id":"story_convenient:214752234565534976","locale":"jp","text":"チルル"}
 {"id":"story_convenient:214752234565535232","locale":"jp","text":"こ、こんにちは……木彫り、いかがですか……？"}
 {"id":"story_convenient:214752234565535488","locale":"jp","text":"この木彫り、どんな意味が込められてるの？"}
@@ -5220,7 +5220,7 @@
 {"id":"story_convenient:214764689970693376","locale":"jp","text":"ジュリリ"}
 {"id":"story_convenient:214764689970693632","locale":"jp","text":"革を買いにこられたんですか？"}
 {"id":"story_convenient:214764694265660672","locale":"jp","text":"ジュリリ"}
-{"id":"story_convenient:214764694265660928","locale":"jp","text":"私も露天巡りが好きなんです。\nここは錦朔の森のように生き生きとしていますから。"}
+{"id":"story_convenient:214764694265660928","locale":"jp","text":"私も露店巡りが好きなんです。\nここは錦朔の森のように生き生きとしていますから。"}
 {"id":"story_convenient:214764698560627968","locale":"jp","text":"ジュリリ"}
 {"id":"story_convenient:214764698560628224","locale":"jp","text":"もし革や布から服を作りたいのでしたら、お手伝いしますよ。"}
 {"id":"story_convenient:214765119467422976","locale":"jp","text":"ジュリリ"}
@@ -5930,11 +5930,11 @@
 {"id":"story_convenient:215180880891610368","locale":"jp","text":"ヴィエルナ"}
 {"id":"story_convenient:215180880891610624","locale":"jp","text":"ちなみに、どういったものを『珍奇』と定義するかというと……\n手にした際に自ずとわかる、そういうもののことをいう。\nほかの者にとっては、真価はわからんだろうな。"}
 {"id":"story_convenient:215180885186577664","locale":"jp","text":"ヴィエルナ"}
-{"id":"story_convenient:215180885186577920","locale":"jp","text":"待った……\nなんだって？いまハイエルフと言ったか？おい、だれがハイエルフだって！？"}
+{"id":"story_convenient:215180885186577920","locale":"jp","text":"そうか？ハイエルフより、『魔法学院の優等生』と呼ばれるほうが好きなんだが。"}
 {"id":"story_convenient:215180889481544960","locale":"jp","text":"ヴィエルナ"}
-{"id":"story_convenient:215180889481545216","locale":"jp","text":"自分はほかの種族より上だとうそぶき、\n高等であることを種族の名に入れるほど、傲慢で浅はかな連中と同列に扱うなど……"}
+{"id":"story_convenient:215180889481545216","locale":"jp","text":"だが、あと一歩だ……本当の首席には、まだ一歩及ばない……"}
 {"id":"story_convenient:215180893776512256","locale":"jp","text":"ヴィエルナ"}
-{"id":"story_convenient:215180893776512512","locale":"jp","text":"貴様……！"}
+{"id":"story_convenient:215180893776512512","locale":"jp","text":"いったい、なにが足りないんだろうな……"}
 {"id":"story_convenient:215180906661414144","locale":"jp","text":"ヴィエルナ"}
 {"id":"story_convenient:215180906661414400","locale":"jp","text":"そうか、それじゃ。"}
 {"id":"story_convenient:215181301798405376","locale":"jp","text":"フェルグット"}
@@ -6129,7 +6129,7 @@
 {"id":"story_convenient:215187748544316672","locale":"jp","text":"フランシスコ"}
 {"id":"story_convenient:215187748544316928","locale":"jp","text":"お目が高いですな。"}
 {"id":"story_convenient:215187752839283968","locale":"jp","text":"フランシスコ"}
-{"id":"story_convenient:215187752839284224","locale":"jp","text":"街で一番いいクロディーメの毛の毛布は、\nまさにここにあります。"}
+{"id":"story_convenient:215187752839284224","locale":"jp","text":"街で一番いいクロディーメの毛のカーペットは、\nまさにここにあります。"}
 {"id":"story_convenient:215187757134251264","locale":"jp","text":"フランシスコ"}
 {"id":"story_convenient:215187757134251520","locale":"jp","text":"そんなことまで聞きつけていたとは……"}
 {"id":"story_convenient:215187761429218560","locale":"jp","text":"フランシスコ"}
@@ -6598,7 +6598,7 @@
 {"id":"story_convenient:215208823948838144","locale":"jp","text":"キアラ"}
 {"id":"story_convenient:215208823948838400","locale":"jp","text":"本当に楽しみです……"}
 {"id":"story_convenient:215209648582558976","locale":"jp","text":"ファランタ"}
-{"id":"story_convenient:215209648582559232","locale":"jp","text":"久しぶりだ、イェクウ。\n鷹神が、君に風を追う力を授けんことを。"}
+{"id":"story_convenient:215209648582559232","locale":"jp","text":"力が必要なら、遠慮なく言ってくれ。\nイェクウの力になれるのは、我々にとって名誉なことだ。"}
 {"id":"story_convenient:215209648582559488","locale":"jp","text":"『鷹主』になる要領は……"}
 {"id":"story_convenient:215209648582560000","locale":"jp","text":"パモーラについて話してもいい？"}
 {"id":"story_convenient:215209648582560512","locale":"jp","text":"翼人の飛翔の儀は……"}
@@ -6709,7 +6709,7 @@
 {"id":"story_convenient:215217379523691776","locale":"jp","text":"チャル"}
 {"id":"story_convenient:215217379523692032","locale":"jp","text":"ティナナの屋台に新しいベリーは並んでいるかな……"}
 {"id":"story_convenient:215217809020421376","locale":"jp","text":"ラム"}
-{"id":"story_convenient:215217809020421632","locale":"jp","text":"ガヤックと力比べしてみようかな……"}
+{"id":"story_convenient:215217809020421632","locale":"jp","text":"力任せじゃだめだ。よく考えてから動かないと。"}
 {"id":"story_convenient:215218238517150976","locale":"jp","text":"ミレイ"}
 {"id":"story_convenient:215218238517151232","locale":"jp","text":"フリスにきたのははじめて？豊穫の庭に入ったことは？飛空船乗り場には行ってみた？"}
 {"id":"story_convenient:215218668013880576","locale":"jp","text":"アデル"}
@@ -7161,7 +7161,7 @@
 {"id":"story_convenient:215245726307845376","locale":"jp","text":"楚期"}
 {"id":"story_convenient:215245726307845632","locale":"jp","text":"帝国が、この時期に辰王朝とのフリスでの均衡を崩すとはな……"}
 {"id":"story_convenient:215245730602812672","locale":"jp","text":"楚期"}
-{"id":"story_convenient:215245730602812928","locale":"jp","text":"アルマンは勘の鋭い男だ。\nこの機会をつかんで、我々を街から締め出そうとするだろう。"}
+{"id":"story_convenient:215245730602812928","locale":"jp","text":"アルマンドは勘の鋭い男だ。\nこの機会をつかんで、我々を街から締め出そうとするだろう。"}
 {"id":"story_convenient:215245730602813184","locale":"jp","text":"どうするつもり？"}
 {"id":"story_convenient:215245734897779968","locale":"jp","text":"楚期"}
 {"id":"story_convenient:215245734897780224","locale":"jp","text":"なすべきことをするまでだ。\nゴヤード商会は手強いが、それは我が天江商会も同じこと。"}
@@ -7227,11 +7227,11 @@
 {"id":"story_convenient:215248741374887168","locale":"jp","text":"フェルグット"}
 {"id":"story_convenient:215248741374887424","locale":"jp","text":"……新たな旅へ出るときなのかもしれんな。"}
 {"id":"story_convenient:215249162281682176","locale":"jp","text":"ルミィ"}
-{"id":"story_convenient:215249162281682432","locale":"jp","text":"もう、決めたのか。オリヴァー。"}
+{"id":"story_convenient:215249162281682432","locale":"jp","text":"ここから先へ進めば、アヴァリアンに行けるのだ。"}
 {"id":"story_convenient:215249166576649472","locale":"jp","text":"ルミィ"}
-{"id":"story_convenient:215249166576649728","locale":"jp","text":"はい！クエンティンさん！"}
+{"id":"story_convenient:215249166576649728","locale":"jp","text":"ハイエルフの領地で、フリスよりずっと栄えてるぞ。"}
 {"id":"story_convenient:215249170871616768","locale":"jp","text":"ルミィ"}
-{"id":"story_convenient:215249170871617024","locale":"jp","text":"みんなと凶獣の戦いを見て、胸の炎に火がついたんです！"}
+{"id":"story_convenient:215249170871617024","locale":"jp","text":"でも……いま行く必要はないのだ！まずは目の前の用事を済ませよう！"}
 {"id":"story_convenient:215249591778411776","locale":"jp","text":"楊槐"}
 {"id":"story_convenient:215249591778412032","locale":"jp","text":"フリスが賑やかな地であるとはかねてより耳にしていた。"}
 {"id":"story_convenient:215249596073379072","locale":"jp","text":"楊槐"}
@@ -8658,7 +8658,7 @@
 {"id":"story_convenient:2190916942867465472","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:2190916942867465728","locale":"jp","text":"『はじまりの村』はこうでなくちゃ！"}
 {"id":"story_convenient:2190917368069227776","locale":"jp","text":"リリカ"}
-{"id":"story_convenient:2190917368069228032","locale":"jp","text":"さて、せっかく農園管理者になったことだし、\n 『畑仕事』のしかたをボスに教えておくね！"}
+{"id":"story_convenient:2190917368069228032","locale":"jp","text":"さて、せっかく農園管理者になったことだし、\n<color=#fed196>『畑仕事』</color>のしかたをボスに教えておくね！"}
 {"id":"story_convenient:2190917372364195072","locale":"jp","text":"リリカ"}
 {"id":"story_convenient:2190917372364195328","locale":"jp","text":"『畑仕事』ができるようになれば、\n自分でいろんな作物や食材を育てられるようになるよ！"}
 {"id":"story_convenient:2190917797565957376","locale":"jp","text":"リリカ"}
@@ -8832,7 +8832,7 @@
 {"id":"story_convenient:2190929836359288064","locale":"jp","text":"翼人長老・ザッハ"}
 {"id":"story_convenient:2190929836359288320","locale":"jp","text":"おぬしの尽力には感謝する……"}
 {"id":"story_convenient:2190929840654255360","locale":"jp","text":"翼人長老・ザッハ"}
-{"id":"story_convenient:2190929840654255616","locale":"jp","text":"じゃあどうする？"}
+{"id":"story_convenient:2190929840654255616","locale":"jp","text":"凶神に命を奪われた子らも、ようやく空で安らかに眠れるだろう。"}
 {"id":"story_convenient:2190930252971115776","locale":"jp","text":"チルル"}
 {"id":"story_convenient:2190930252971116032","locale":"jp","text":"ふふふ～ん♪"}
 {"id":"story_convenient:2190930257266083072","locale":"jp","text":"{playerName}"}
@@ -10023,7 +10023,7 @@
 {"id":"story_convenient:2191355905704985856","locale":"jp","text":"寒悠悠"}
 {"id":"story_convenient:2191355905704986112","locale":"jp","text":"神秘的？辰王朝じゃそれなりによく見るよ。\n 実際のところは、ただの大昔から伝わる工芸技術だしね。"}
 {"id":"story_convenient:2191355909999953152","locale":"jp","text":"寒悠悠"}
-{"id":"story_convenient:2191355909999953408","locale":"jp","text":"でもね、機関術は千変万化、なんでもできるの。\n いろいろな機関を組み合わせて、巧みに機能を実現する……\n すごく奥深い学問なんだから！"}
+{"id":"story_convenient:2191355909999953408","locale":"jp","text":"でもね、機関術は千変万化、なんでもできるの。\nいろいろな機関を組み合わせて、巧みに機能を実現する……\nすごく奥深い学問なんだから！"}
 {"id":"story_convenient:2191355914294920448","locale":"jp","text":"塗山小玉"}
 {"id":"story_convenient:2191355914294920704","locale":"jp","text":"悠悠って、機関術の話になるとほんとに楽しそうだよね。"}
 {"id":"story_convenient:2191355918589887744","locale":"jp","text":"寒悠悠"}
@@ -10456,7 +10456,7 @@
 {"id":"story_convenient:2233383440596600064","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:2233383440596600320","locale":"jp","text":"そんなことが？ちょっと見に行ってみるよ。"}
 {"id":"story_convenient:2233383857208427776","locale":"jp","text":"サトゥル"}
-{"id":"story_convenient:2233383857208428032","locale":"jp","text":"星臨者、最近フィルがいつもこそこそ鷹の連峰に出かけて、\n夜遅くにしか帰ってくるの。"}
+{"id":"story_convenient:2233383857208428032","locale":"jp","text":"星臨者さん、最近フィルがいつもこそこそ鷹の連峰に出かけて、\n夜遅くにしか帰ってくるの。"}
 {"id":"story_convenient:2233383861503395072","locale":"jp","text":"サトゥル"}
 {"id":"story_convenient:2233383861503395328","locale":"jp","text":"今度は昨日出かけたきり、まったく連絡がなくて……\n悪いけれど、探すのを手伝ってもらえない？"}
 {"id":"story_convenient:2233383865798362368","locale":"jp","text":"{playerName}"}
@@ -10510,7 +10510,7 @@
 {"id":"story_convenient:2233814225816388864","locale":"jp","text":"モモ"}
 {"id":"story_convenient:2233814225816389120","locale":"jp","text":"でも……ここの炉はもういっぱいだし……\nいい素材だけど、手が回らないかも……"}
 {"id":"story_convenient:2233814230111356160","locale":"jp","text":"エンカク"}
-{"id":"story_convenient:2233814230111356416","locale":"jp","text":"そうだ、星臨者！たしかお前さんの家にも炉があったはずだな？"}
+{"id":"story_convenient:2233814230111356416","locale":"jp","text":"そうだ、星臨者！たしかお前さんの家にも炉があったはずだな？この素材はお前さんに預けるぞ！"}
 {"id":"story_convenient:2233814234406323456","locale":"jp","text":"エンカク"}
 {"id":"story_convenient:2233814234406323712","locale":"jp","text":"ほら！これが儀式に使う武器の設計図だ。\nお前さんの腕の見せどころだぞ！"}
 {"id":"story_convenient:2233814238701290752","locale":"jp","text":"モモ"}
@@ -10871,7 +10871,7 @@
 {"id":"story_convenient:2233850745923307008","locale":"jp","text":"竜人の凶獣だと？\nまったく！なにがなんだか……！"}
 {"id":"story_convenient:2233850750218274048","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:2233850750218274304","locale":"jp","text":"とにかく、全力で迎え撃とう！"}
-{"id":"story_convenient:2233851149650232832","locale":"jp","text":"災厄にあらず、選別なり。破滅にあらず、昇華なり。\nNat Dehoken，faor selefaal\nnat aiivon，faor."}
+{"id":"story_convenient:2233851149650232832","locale":"jp","text":"災厄にあらず、選別なり。破滅にあらず、昇華なり。\nNat Dehoken, faor selefaal.\\Nnat aiivon, faor."}
 {"id":"story_convenient:2233851579146962176","locale":"jp","text":"テララ"}
 {"id":"story_convenient:2233851579146962432","locale":"jp","text":"うっわぁ、この高さ……\nミィティがここに立ったら、翼の羽根が逆立っちゃいそうだな。"}
 {"id":"story_convenient:2233851583441929472","locale":"jp","text":"ルミィ"}
@@ -11142,7 +11142,7 @@
 {"id":"story_convenient:2233881648213001728","locale":"jp","text":"「<ruby=星脈炉起動……>Kopaakh Awaka</ruby>」"}
 {"id":"story_convenient:2233882073414763776","locale":"jp","text":"ミィティ"}
 {"id":"story_convenient:2233882073414764032","locale":"jp","text":"あの大きな装置が回り出したわ！"}
-{"id":"story_convenient:2233882502911493632","locale":"jp","text":"「<ruby=警告！星脈炉故障！>Kor！Kopaakh inae fols.</ruby>」"}
+{"id":"story_convenient:2233882502911493632","locale":"jp","text":"「<ruby=警告！星脈炉故障！>Kor! Kopaakh inae fols.</ruby>」"}
 {"id":"story_convenient:2233882507206460928","locale":"jp","text":"「<ruby=フェイルセーフ起動、冷却プログラム開始>Naho Veky，Kraleyk Awaka……</ruby>」"}
 {"id":"story_convenient:2233882932408222976","locale":"jp","text":"テララ"}
 {"id":"story_convenient:2233882932408223232","locale":"jp","text":"うわああ――水浴びは嫌だ！\nミィティ、はやく上に走れって！"}
@@ -11660,7 +11660,7 @@
 {"id":"story_convenient:2233926311577912576","locale":"jp","text":"蘭香子"}
 {"id":"story_convenient:2233926311577912832","locale":"jp","text":"どうやら……広間にはもう、\n話を聞けそうな人はいないようですね……"}
 {"id":"story_convenient:2233926315872879872","locale":"jp","text":"ルミィ"}
-{"id":"story_convenient:2233926315872880128","locale":"jp","text":"中庭にも噂している人がいるはずだよ、\nちょっと見に行ってみよう！"}
+{"id":"story_convenient:2233926315872880128","locale":"jp","text":"中庭にも噂している人がいるはずなのだ。\n見に行ってみよう！"}
 {"id":"story_convenient:2233926320167847168","locale":"jp","text":"蘭香子"}
 {"id":"story_convenient:2233926320167847424","locale":"jp","text":"ひっ！ぜ、絶対に太陽の下に行かなければ\nいけませんか……？"}
 {"id":"story_convenient:2233926741074642176","locale":"jp","text":"ルミィ"}
@@ -11778,7 +11778,7 @@
 {"id":"story_convenient:2233933613022315776","locale":"jp","text":"蘭香子"}
 {"id":"story_convenient:2233933613022316032","locale":"jp","text":"どこから手をつけよう……"}
 {"id":"story_convenient:2233934042519045376","locale":"jp","text":"ルミィ"}
-{"id":"story_convenient:2233934042519045632","locale":"jp","text":"人が集まる場所には、根も葉もない噂がよく出回るよね。"}
+{"id":"story_convenient:2233934042519045632","locale":"jp","text":"人が集まる場所には、根も葉もない噂がよく出回るのだ。"}
 {"id":"story_convenient:2233934046814012672","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:2233934046814012928","locale":"jp","text":"普通の人にとって、領主邸は日常から遠い場所だから。"}
 {"id":"story_convenient:2233934051108979968","locale":"jp","text":"{playerName}"}
@@ -11939,7 +11939,7 @@
 {"id":"story_convenient:2234000189310371072","locale":"jp","text":"名無し"}
 {"id":"story_convenient:2234000189310371328","locale":"jp","text":"千代殿？"}
 {"id":"story_convenient:2234000193605338368","locale":"jp","text":"名無し"}
-{"id":"story_convenient:2234000193605338624","locale":"jp","text":"かような危地へ軽々と踏み入るな。ここは某が食い止める！"}
+{"id":"story_convenient:2234000193605338624","locale":"jp","text":"かような危地へ軽々に踏み入るな。ここは某が食い止める！"}
 {"id":"story_convenient:2234000197900305664","locale":"jp","text":"源千代"}
 {"id":"story_convenient:2234000197900305920","locale":"jp","text":"もう一度手合わせすると約束したはずです！"}
 {"id":"story_convenient:2234000202195272960","locale":"jp","text":"源千代"}
@@ -11957,11 +11957,11 @@
 {"id":"story_convenient:2234001473505592576","locale":"jp","text":"ルビーナ"}
 {"id":"story_convenient:2234001473505592832","locale":"jp","text":"研ぎ澄まされし魔剣使い？\nやっと姿を見せたのね！"}
 {"id":"story_convenient:2234001477800559872","locale":"jp","text":"フェルグット"}
-{"id":"story_convenient:2234001477800560128","locale":"jp","text":"ポイントの申告にも行かずに、引き返して来たというのか？"}
+{"id":"story_convenient:2234001477800560128","locale":"jp","text":"ポイントの清算にも行かずに、引き返して来たというのか？"}
 {"id":"story_convenient:2234001482095527168","locale":"jp","text":"源千代"}
 {"id":"story_convenient:2234001482095527424","locale":"jp","text":"元凶を突き止めたのです！\nあの赤蠍団の男は進化教団に唆され、狂化キボを解き放ったそうです！"}
 {"id":"story_convenient:2234001486390494464","locale":"jp","text":"エツィオ"}
-{"id":"story_convenient:2234001486390494720","locale":"jp","text":"チクショウ、やっぱりあのバカのしわざか！\nだがよ、手下の尻拭いをするのは首領の務めってもんだ……\nこれからさき、ペペアメが食えなくなったってやるしかねぇ！"}
+{"id":"story_convenient:2234001486390494720","locale":"jp","text":"チクショウ、やっぱりあのバカのしわざか！\nだがよ、子分の尻拭いをするのは親分の務めってもんだ……\nこれからさき、ペペアメが食えなくなったってやるしかねぇ！"}
 {"id":"story_convenient:2234001490685461760","locale":"jp","text":"名無し"}
 {"id":"story_convenient:2234001490685462016","locale":"jp","text":"ならば、某も手を貸そう！"}
 {"id":"story_convenient:2234001903002322176","locale":"jp","text":"源千代"}
@@ -12037,9 +12037,9 @@
 {"id":"story_convenient:2234244577244481280","locale":"jp","text":"はい。"}
 {"id":"story_convenient:2234244577244481792","locale":"jp","text":"いいえ"}
 {"id":"story_convenient:2234244581539448064","locale":"jp","text":"熱血ファイター"}
-{"id":"story_convenient:2234244581539448320","locale":"jp","text":"ルールはもうわかってるよな？\nレインエルと協力して、地面全体に種をまくんだ。"}
+{"id":"story_convenient:2234244581539448320","locale":"jp","text":"ルールはもうわかってるよな？\nレインエルと協力して、畑にまいた種に水をやるんだ。"}
 {"id":"story_convenient:2234244585834415360","locale":"jp","text":"熱血ファイター"}
-{"id":"story_convenient:2234244585834415616","locale":"jp","text":"種をまいた地面は踏んじゃいけない。それじゃ、挑戦開始だ！"}
+{"id":"story_convenient:2234244585834415616","locale":"jp","text":"水をやった場所は踏んじゃいけない。それじゃ、挑戦開始だ！"}
 {"id":"story_convenient:2234244590129382656","locale":"jp","text":"熱血ファイター"}
 {"id":"story_convenient:2234244590129382912","locale":"jp","text":"わかった。準備ができたら声をかけてくれよ。"}
 {"id":"story_convenient:2234244998151275776","locale":"jp","text":"熱血ファイター"}
@@ -12694,7 +12694,7 @@
 {"id":"story_convenient:2259200905624683776","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:2259200905624684032","locale":"jp","text":"ハルシィの性格は時々、手を焼くよね……"}
 {"id":"story_convenient:2259201335121413376","locale":"jp","text":"ハルシィたち"}
-{"id":"story_convenient:2259201335121413632","locale":"jp","text":"ふらら～ふらら！"}
+{"id":"story_convenient:2259201335121413632","locale":"jp","text":"フララ～フララ！"}
 {"id":"story_convenient:2259201339416380672","locale":"jp","text":"テララ"}
 {"id":"story_convenient:2259201339416380928","locale":"jp","text":"なんでそんなに怒ってるんだ！\nこら、しっぽを引っ張るなってば！"}
 {"id":"story_convenient:2259201343711347968","locale":"jp","text":"{playerName}"}
@@ -12858,7 +12858,7 @@
 {"id":"story_convenient:2581275563939333376","locale":"jp","text":"テララ"}
 {"id":"story_convenient:2581275563939333632","locale":"jp","text":"やっほー！手加減はなしだからな！"}
 {"id":"story_convenient:2581275606889006336","locale":"jp","text":"カラーカ"}
-{"id":"story_convenient:2581275606889006592","locale":"jp","text":"タ、タナの火祭りより……キボファイト、しませんか？"}
+{"id":"story_convenient:2581275606889006592","locale":"jp","text":"や、やあ。それじゃ……やってみるか。"}
 {"id":"story_convenient:2581275649838679296","locale":"jp","text":"ポーヤ"}
 {"id":"story_convenient:2581275649838679552","locale":"jp","text":"あなたの助けになるのなら、喜んでやるよ！"}
 {"id":"story_convenient:2581275692788352256","locale":"jp","text":"マルティナ"}
@@ -12914,11 +12914,11 @@
 {"id":"story_convenient:258127676223522048","locale":"jp","text":"バルロン"}
 {"id":"story_convenient:258127676223522304","locale":"jp","text":"願ってもないよ！思う存分、戦おう！"}
 {"id":"story_convenient:258133122242053376","locale":"jp","text":"コロコロ"}
-{"id":"story_convenient:258133122242053632","locale":"jp","text":"星臨者さま、こちらのキャバードは、キャバードの王からの紹介でやって来ました。\nどうやら、星臨者さまにお願いしたいことがあるようで……"}
+{"id":"story_convenient:258133122242053632","locale":"jp","text":"星臨者さま、こちらのキャバードは、キャバードキングからの紹介でやって来ました。\nどうやら、星臨者さまにお願いしたいことがあるようで……"}
 {"id":"story_convenient:258133126537020672","locale":"jp","text":"{playerName}"}
-{"id":"story_convenient:258133126537020928","locale":"jp","text":"えっ、キャバードの王ってまだいたの？"}
+{"id":"story_convenient:258133126537020928","locale":"jp","text":"えっ、キャバードキングってまだいたの？"}
 {"id":"story_convenient:258133130831987968","locale":"jp","text":"コロコロ"}
-{"id":"story_convenient:258133130831988224","locale":"jp","text":"ええ……どうやらキャバードの王はあなたの活躍を見て、\nまたキャバードを助けてほしいと思っているようなのです。"}
+{"id":"story_convenient:258133130831988224","locale":"jp","text":"ええ……どうやらキャバードキングはあなたの活躍を見て、\nまたキャバードを助けてほしいと思っているようなのです。"}
 {"id":"story_convenient:258133135126955264","locale":"jp","text":"キャバード"}
 {"id":"story_convenient:258133135126955520","locale":"jp","text":"コッコ、コケッコ！"}
 {"id":"story_convenient:258133135126955776","locale":"jp","text":"まあ、キャバードには優しくしないとね！"}
@@ -12928,11 +12928,11 @@
 {"id":"story_convenient:258133143716889856","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:258133143716890112","locale":"jp","text":"時間があるときにまた来るね。"}
 {"id":"story_convenient:258133981235512576","locale":"jp","text":"ルルカ"}
-{"id":"story_convenient:258133981235512832","locale":"jp","text":"星臨者さま、こちらのアルマロもキャバードの王から紹介されたのです。\nなにか難題にぶつかって、あなたに助けてほしいそうなのですが……"}
+{"id":"story_convenient:258133981235512832","locale":"jp","text":"星臨者さま、こちらのアルマロもキャバードキングから紹介されたのです。\nなにか難題にぶつかって、あなたに助けてほしいそうなのですが……"}
 {"id":"story_convenient:258133985530479872","locale":"jp","text":"{playerName}"}
-{"id":"story_convenient:258133985530480128","locale":"jp","text":"また、キャバードの王の紹介？"}
+{"id":"story_convenient:258133985530480128","locale":"jp","text":"また、キャバードキングの紹介？"}
 {"id":"story_convenient:258133989825447168","locale":"jp","text":"ルルカ"}
-{"id":"story_convenient:258133989825447424","locale":"jp","text":"はい、キャバードの王はあなたがいままで会ったなかで\n最も賢い人間だと言っていました。\nこの問題を解決できるのはあなただけなのです。"}
+{"id":"story_convenient:258133989825447424","locale":"jp","text":"はい、キャバードキングはあなたがいままで会ったなかで\n最も賢い人間だと言っていました。\nこの問題を解決できるのはあなただけなのです。"}
 {"id":"story_convenient:258133994120414464","locale":"jp","text":"アルマロ"}
 {"id":"story_convenient:258133994120414720","locale":"jp","text":"ワアワア！"}
 {"id":"story_convenient:258133994120414976","locale":"jp","text":"息抜きに、やってみよう――"}
@@ -12948,7 +12948,7 @@
 {"id":"story_convenient:258134840228971776","locale":"jp","text":"ルルカ"}
 {"id":"story_convenient:258134840228972032","locale":"jp","text":"星臨者さま、申し訳ありません。\nまた手をお借りしたいことがありまして……"}
 {"id":"story_convenient:258134844523939072","locale":"jp","text":"{playerName}"}
-{"id":"story_convenient:258134844523939328","locale":"jp","text":"キャバードの王の依頼だったりする？"}
+{"id":"story_convenient:258134844523939328","locale":"jp","text":"キャバードキングの依頼だったりする？"}
 {"id":"story_convenient:258134848818906368","locale":"jp","text":"ルルカ"}
 {"id":"story_convenient:258134848818906624","locale":"jp","text":"はい、このあたりのドゥルがあちこちに出没して、\nほかのキボたちに迷惑をかけているのです……"}
 {"id":"story_convenient:258134853113873664","locale":"jp","text":"ルルカ"}
@@ -12962,7 +12962,7 @@
 {"id":"story_convenient:258135269725701376","locale":"jp","text":"ルルカ"}
 {"id":"story_convenient:258135269725701632","locale":"jp","text":"さすが、星臨者さまです。\nこんなにはやくドゥルたちを連れ戻してくださるなんて。"}
 {"id":"story_convenient:258135274020668672","locale":"jp","text":"ルルカ"}
-{"id":"story_convenient:258135274020668928","locale":"jp","text":"これはキャバードの王に助けを求めたキボたちからの感謝の印です。\nどうぞお受け取りください。"}
+{"id":"story_convenient:258135274020668928","locale":"jp","text":"これはキャバードキングに助けを求めたキボたちからの感謝の印です。\nどうぞお受け取りください。"}
 {"id":"story_convenient:258135699222430976","locale":"jp","text":"リリカ"}
 {"id":"story_convenient:258135699222431232","locale":"jp","text":"ボス、いらっしゃい！ちょうどよかった。\nオイラ、すこし手伝ってほしいことがあって。"}
 {"id":"story_convenient:258135699222431488","locale":"jp","text":"なにかあったの？"}
@@ -12996,9 +12996,9 @@
 {"id":"story_convenient:258136141604062464","locale":"jp","text":"リリカ"}
 {"id":"story_convenient:258136141604062720","locale":"jp","text":"えっとね、図面によると、拡張すれば建築できるエリアが広くなって、\n農園もほんわかしてかわいいフリス風になるんだよ。"}
 {"id":"story_convenient:258136145899029760","locale":"jp","text":"リリカ"}
-{"id":"story_convenient:258136145899030016","locale":"jp","text":"でも、農園の拡張は勝手にはできないんだよ。\nボスが『農園拡張許可証』を用意してくれないとはじめられないんだ。"}
+{"id":"story_convenient:258136145899030016","locale":"jp","text":"でも、農園の拡張は勝手にはできないんだよ。\nボスが『農園拡張許可』を用意してくれないとはじめられないんだ。"}
 {"id":"story_convenient:258136150193997056","locale":"jp","text":"リリカ"}
-{"id":"story_convenient:258136150193997312","locale":"jp","text":"『農園拡張許可証』が用意できたら、またオイラに声をかけてね！"}
+{"id":"story_convenient:258136150193997312","locale":"jp","text":"『農園拡張許可』が用意できたら、またオイラに声をかけてね！"}
 {"id":"story_convenient:258136171668833536","locale":"jp","text":"リリカ"}
 {"id":"story_convenient:258136171668833792","locale":"jp","text":"任せて。楽しみにしててね。"}
 {"id":"story_convenient:258136558215890176","locale":"jp","text":"リリカ"}
@@ -13016,7 +13016,7 @@
 {"id":"story_convenient:258137430094251264","locale":"jp","text":"リリカ"}
 {"id":"story_convenient:258137430094251520","locale":"jp","text":"拡張すれば建築できる土地が広くなるし、\n農園も華やかで上品なロジニア風になるんだよ。楽しみだね。"}
 {"id":"story_convenient:258137434389218560","locale":"jp","text":"リリカ"}
-{"id":"story_convenient:258137434389218816","locale":"jp","text":"それじゃ、前と同じように『農園拡張許可証』を\n用意したら、また声をかけてね！"}
+{"id":"story_convenient:258137434389218816","locale":"jp","text":"それじゃ、前と同じように『農園拡張許可』を\n用意したら、また声をかけてね！"}
 {"id":"story_convenient:258137846706078976","locale":"jp","text":"リリカ"}
 {"id":"story_convenient:258137846706079232","locale":"jp","text":"完成！"}
 {"id":"story_convenient:258137851001046272","locale":"jp","text":"リリカ"}
@@ -13277,11 +13277,11 @@
 {"id":"story_convenient:258168779060544768","locale":"jp","text":"ティティ"}
 {"id":"story_convenient:258168779060545024","locale":"jp","text":"星臨者さまが忙しくされているあいだに\n新しい商売を考えていたんです！"}
 {"id":"story_convenient:258168783355512064","locale":"jp","text":"ティティ"}
-{"id":"story_convenient:258168783355512320","locale":"jp","text":"ふふっ、これはですね、私が貿易都市から学んだ\n新しい商売の形――その名も『交易所』！"}
+{"id":"story_convenient:258168783355512320","locale":"jp","text":"ふふっ、これはですね、私が貿易都市から学んだ\n新しい商売の形――その名も『取引所』！"}
 {"id":"story_convenient:258168787650479360","locale":"jp","text":"ティティ"}
 {"id":"story_convenient:258168787650479616","locale":"jp","text":"商品を作ってからお客さまを見つけるのではなく、\nお客さまからオーダーを受けてから、作るんです！"}
 {"id":"story_convenient:258168791945446656","locale":"jp","text":"ティティ"}
-{"id":"story_convenient:258168791945446912","locale":"jp","text":"これで、在庫切れや過剰生産は過去のものとなり、\nシャルル村の貿易は新たな一歩を踏み出すんです！"}
+{"id":"story_convenient:258168791945446912","locale":"jp","text":"これで、過剰生産や在庫の抱えすぎは過去のものとなり、\nシャルル村の貿易は新たな一歩を踏み出すんです！"}
 {"id":"story_convenient:258168791945447168","locale":"jp","text":"おもしろそうだけど……"}
 {"id":"story_convenient:258168791945447680","locale":"jp","text":"だれが作ることになるの？"}
 {"id":"story_convenient:258168796240413952","locale":"jp","text":"ティティ"}
@@ -13297,7 +13297,7 @@
 {"id":"story_convenient:258168817715250432","locale":"jp","text":"ティティ"}
 {"id":"story_convenient:258168817715250688","locale":"jp","text":"これを見れば、どの注文が儲かって、\nどの注文が損になるか、一目瞭然です！"}
 {"id":"story_convenient:258168822010217728","locale":"jp","text":"ティティ"}
-{"id":"story_convenient:258168822010217984","locale":"jp","text":"せっかくこんな素敵な交易所ができたんですから、\nさっそくひとつ注文を受けてみましょう！"}
+{"id":"story_convenient:258168822010217984","locale":"jp","text":"せっかくこんな素敵な取引所ができたんですから、\nさっそくひとつ注文を受けてみましょう！"}
 {"id":"story_convenient:258168826305185024","locale":"jp","text":"ティティ"}
 {"id":"story_convenient:258168826305185280","locale":"jp","text":"私の目にはもう、わくわくするような未来が\n手招きしているのが見えますよ。えへへ……"}
 {"id":"story_convenient:258169199967339776","locale":"jp","text":"リリカ"}
@@ -13431,7 +13431,7 @@
 {"id":"story_convenient:258182943862686976","locale":"jp","text":"メイプル"}
 {"id":"story_convenient:258182943862687232","locale":"jp","text":"（眠っていても、顔には笑みが浮かんでいる。起こそうか？）"}
 {"id":"story_convenient:258183373359416576","locale":"jp","text":"蘭香子"}
-{"id":"story_convenient:258183373359416832","locale":"jp","text":"眠って、おりません……仮眠、しているだけですぅ……"}
+{"id":"story_convenient:258183373359416832","locale":"jp","text":"眠って、おりません……目を閉じているだけですぅ……"}
 {"id":"story_convenient:258183802856146176","locale":"jp","text":"ペイペイ"}
 {"id":"story_convenient:258183802856146432","locale":"jp","text":"すぅ……すぅ……うぅむ……"}
 {"id":"story_convenient:258184232352875776","locale":"jp","text":"寒悠悠"}
@@ -14647,7 +14647,7 @@
 {"id":"story_convenient:258232765483320576","locale":"jp","text":"メイプル"}
 {"id":"story_convenient:258232765483320832","locale":"jp","text":"今日はなんだか調子がよさそうだね。\nいいことでもあったかにゃ？"}
 {"id":"story_convenient:258233194980050176","locale":"jp","text":"蘭香子"}
-{"id":"story_convenient:258233194980050432","locale":"jp","text":"……ひゃっ！？あ、星臨者さまだったのですね……"}
+{"id":"story_convenient:258233194980050432","locale":"jp","text":"……ひっ！？あっ、星臨大人だったのですね……"}
 {"id":"story_convenient:258233624476779776","locale":"jp","text":"ペイペイ"}
 {"id":"story_convenient:258233624476780032","locale":"jp","text":"ペイペイと遊びに来てくれたんですか？"}
 {"id":"story_convenient:258234483470238976","locale":"jp","text":"塗山小玉"}
@@ -14933,7 +14933,7 @@
 {"id":"story_convenient:344027335676134656","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:344027335676134912","locale":"jp","text":"えっと……考えすぎなんじゃないか？|えっと……考えすぎなんじゃない？"}
 {"id":"story_convenient:344027339971101952","locale":"jp","text":"マルティナ"}
-{"id":"story_convenient:344027339971102208","locale":"jp","text":"……どれだけ考えても、足りないわ。\n精霊たちの力は私たちの想像を超えるの。"}
+{"id":"story_convenient:344027339971102208","locale":"jp","text":"……どれだけ考えても、足りないわ。\\あの子たちの力は私たちの想像を超えるの。"}
 {"id":"story_convenient:344027743698027776","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:344027743698028032","locale":"jp","text":"これでもう大丈夫だと思う。"}
 {"id":"story_convenient:344028173194757376","locale":"jp","text":"マルティナ"}
@@ -15239,7 +15239,7 @@
 {"id":"story_convenient:344671988792427776","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:344671988792428032","locale":"jp","text":"これだけあれば十分だろう。モモに届けに行こう。"}
 {"id":"story_convenient:344672418289157376","locale":"jp","text":"{playerName}"}
-{"id":"story_convenient:344672418289157632","locale":"jp","text":"どうだ、このとても硬い風銅鉱で足りるか？|見て、このとても硬い風銅鉱で十分かな？"}
+{"id":"story_convenient:344672418289157632","locale":"jp","text":"このすごく硬い風銅鉱で十分かな？"}
 {"id":"story_convenient:344672422584124672","locale":"jp","text":"モモ"}
 {"id":"story_convenient:344672422584124928","locale":"jp","text":"すごい！これで民兵隊に新しいヘルメットを渡せるよ！"}
 {"id":"story_convenient:344672426879091968","locale":"jp","text":"モモ"}
@@ -15371,7 +15371,7 @@
 {"id":"story_convenient:344972636503147776","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:344972636503148032","locale":"jp","text":"カークの積み荷……なぜこんなところに？とにかく届けてやるか。|カークの積み荷……どうしてここに？とにかく届けてあげよう。"}
 {"id":"story_convenient:344973065999877376","locale":"jp","text":"カーク"}
-{"id":"story_convenient:344973065999877632","locale":"jp","text":"こ、これは……まさか生きてるうちに、もう一度キミに会えたね……ボクの荷物よ……"}
+{"id":"story_convenient:344973065999877632","locale":"jp","text":"こ、これは……まさか生きてるうちに、もう一度キミに会えるとは思わなかったよ……ボクの荷物よ……"}
 {"id":"story_convenient:344973070294844672","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:344973070294844928","locale":"jp","text":"（また荷物に向かって妙なことを言ってる……）"}
 {"id":"story_convenient:344973074589811968","locale":"jp","text":"カーク"}
@@ -15735,7 +15735,7 @@
 {"id":"story_convenient:345406861991740672","locale":"jp","text":"サララ"}
 {"id":"story_convenient:345406861991740928","locale":"jp","text":"本当にありがとうございます、星臨者さん。"}
 {"id":"story_convenient:345406866286707968","locale":"jp","text":"{playerName}"}
-{"id":"story_convenient:345406866286708224","locale":"jp","text":"僕もルルカに用事があるから。|私もルルカに用事があるから。"}
+{"id":"story_convenient:345406866286708224","locale":"jp","text":"たいしたことじゃないよ。"}
 {"id":"story_convenient:345406870581675264","locale":"jp","text":"サララ"}
 {"id":"story_convenient:345406870581675520","locale":"jp","text":"タペストリーが完成しましたら、ぜひうちに遊びに来てくださいませ！"}
 {"id":"story_convenient:345410723167339776","locale":"jp","text":"{playerName}"}
@@ -15833,7 +15833,7 @@
 {"id":"story_convenient:345444661998912768","locale":"jp","text":"キアラ"}
 {"id":"story_convenient:345444661998913024","locale":"jp","text":"鷹の連峰の近くに、イグネストが群れを成しています。\nしかも、ちょっとした不注意で火災を引き起こしかねない状況なのです。"}
 {"id":"story_convenient:345444666293880064","locale":"jp","text":"キアラ"}
-{"id":"story_convenient:345444666293880320","locale":"jp","text":"周囲の安全を守るため、どうか彼らを討伐していただきたいのです。"}
+{"id":"story_convenient:345444666293880320","locale":"jp","text":"周囲の安全を守るため、どうか彼らを追い払っていただきたいのです。"}
 {"id":"story_convenient:345444670588847360","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:345444670588847616","locale":"jp","text":"任せて。"}
 {"id":"story_convenient:345445082905707776","locale":"jp","text":"{playerName}"}
@@ -16191,7 +16191,7 @@
 {"id":"story_convenient:345534856312128768","locale":"jp","text":"キアラ"}
 {"id":"story_convenient:345534856312129024","locale":"jp","text":"いま、鷹の連峰の近くに、グラゴが群れを成しているのです。\nしかもそれは凶暴化しており、多くの風隠れ岩の翼人たちが襲われている状況です。"}
 {"id":"story_convenient:345534860607096064","locale":"jp","text":"キアラ"}
-{"id":"story_convenient:345534860607096320","locale":"jp","text":"民兵はすでに出動しているのですが、星臨者さまにも討伐をお願いしたく……"}
+{"id":"story_convenient:345534860607096320","locale":"jp","text":"翼衛戦士たちはすでに出ているのですが、星臨者さまにも助力いただければと……"}
 {"id":"story_convenient:345534864902063360","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:345534864902063616","locale":"jp","text":"任せて。"}
 {"id":"story_convenient:345535277218923776","locale":"jp","text":"{playerName}"}
@@ -16283,7 +16283,7 @@
 {"id":"story_convenient:345557185847100672","locale":"jp","text":"黒画面文字"}
 {"id":"story_convenient:345557185847100928","locale":"jp","text":"エーファは一心に料理へ取りかかる……"}
 {"id":"story_convenient:345557190142067968","locale":"jp","text":"エーファ"}
-{"id":"story_convenient:345557190142068224","locale":"jp","text":"できた！『山鳥と干しキノコの煮込み』だよ！"}
+{"id":"story_convenient:345557190142068224","locale":"jp","text":"できた！『キノコと若鶏の煮込み』だよ！"}
 {"id":"story_convenient:345557194437035264","locale":"jp","text":"リィン"}
 {"id":"story_convenient:345557194437035520","locale":"jp","text":"うわぁ、すごくおいしい香り！するするとした舌触りと繊細な食感……\n乾物で煮込んでるのに、山の幸の香りが鶏肉の旨味を引き立ててる！"}
 {"id":"story_convenient:345557198732002560","locale":"jp","text":"リィン"}
@@ -16824,7 +16824,7 @@
 {"id":"story_convenient:345643952776414464","locale":"jp","text":"シードロ"}
 {"id":"story_convenient:345643952776414720","locale":"jp","text":"！！！"}
 {"id":"story_convenient:345643957071381760","locale":"jp","text":"アンドレ"}
-{"id":"story_convenient:345643957071382016","locale":"jp","text":"シードろのやつ、どうやらもう戻ってはこなさそうだな……\nとにかく、これで怪しい影の件は解決だ。"}
+{"id":"story_convenient:345643957071382016","locale":"jp","text":"シードロのやつ、どうやらもう戻ってはこなさそうだな……\nとにかく、これで怪しい影の件は解決だ。"}
 {"id":"story_convenient:345643961366349056","locale":"jp","text":"アンドレ"}
 {"id":"story_convenient:345643961366349312","locale":"jp","text":"星臨者殿、助けてくれて感謝するよ。これは礼だ、受け取ってくれ。\nそれじゃ私は引き続き巡回に戻るとしよう。"}
 {"id":"story_convenient:345646516871890176","locale":"jp","text":"マーティン"}
@@ -17152,7 +17152,7 @@
 {"id":"story_convenient:345710941381330176","locale":"jp","text":"クライド"}
 {"id":"story_convenient:345710941381330432","locale":"jp","text":"【実装対象外／弗利斯随机任务OBS051-OBS060.xlsx】\n"}
 {"id":"story_convenient:345710945676297472","locale":"jp","text":"クライド"}
-{"id":"story_convenient:345710945676297728","locale":"jp","text":"その結果、次々と依頼が舞い込んできて、副業の方がどんどん忙しくなってきました……"}
+{"id":"story_convenient:345710945676297728","locale":"jp","text":"彼がほかの傭兵団にも私を紹介してくれたんです。その結果、次々と依頼が舞い込んできて、副業のほうがどんどん忙しくなってきました……"}
 {"id":"story_convenient:345710949971264768","locale":"jp","text":"クライド"}
 {"id":"story_convenient:345710949971265024","locale":"jp","text":"もちろん、稼ぎが増えるのは良いことですが、\nさすがに私ひとりでは手が回らなくなってきましてね。"}
 {"id":"story_convenient:345710954266232064","locale":"jp","text":"クライド"}
@@ -17242,7 +17242,7 @@
 {"id":"story_convenient:345724264369882368","locale":"jp","text":"パン"}
 {"id":"story_convenient:345724264369882624","locale":"jp","text":"すくなくとも、このことについては父さんは嘘をついてなかったみたいだな。"}
 {"id":"story_convenient:345724268664849664","locale":"jp","text":"パン"}
-{"id":"story_convenient:345724268664849920","locale":"jp","text":"焦らないで……ゆっくりね。"}
+{"id":"story_convenient:345724268664849920","locale":"jp","text":"ありがとう。"}
 {"id":"story_convenient:345728121250514176","locale":"jp","text":"レイナ"}
 {"id":"story_convenient:345728121250514432","locale":"jp","text":"星臨者さん……ちょっとお願いを聞いてもらえませんか？"}
 {"id":"story_convenient:345728125545481472","locale":"jp","text":"レイナ"}
@@ -18666,7 +18666,7 @@
 {"id":"story_convenient:346039935876204032","locale":"jp","text":"シフォン、危ない！"}
 {"id":"story_convenient:346040365372933376","locale":"jp","text":"ルミィ"}
 {"id":"story_convenient:346040365372933632","locale":"jp","text":"反撃のチャンス！"}
-{"id":"story_convenient:346040794869663232","locale":"jp","text":"パモーラは稲妻のように疾走し、空に一条の閃光を描いて、スパイトホーンとの距離を一気に広げた。\nだが怒れる凶神も侮れない。巨体は黒い矢のごとく、執拗に迫ってくる！\n立て続けに放たれた氷の棘が空中で激しく爆ぜ、氷片は刃のように長空を裂き、立ちこめる冷気は畏怖を誘った――\nそれでも危険はファランタを怯ませるどころか、彼女をいっそう冷静にした。彼女はそっとパモーラの背を叩く。\n上へ！左旋回！加速！\nもっとはやく、もうすぐ着く！\n前方に風が集まりつつあるのを感じた。そこはみんなが約束した地点――鷹神の鉤爪が、ここで凶神に致命の一撃を与えるのだ。\n「星臨者……あとは任せた！」"}
+{"id":"story_convenient:346040794869663232","locale":"jp","text":"パモーラは稲妻のように飛翔し、空に一条の閃光を描いて、スパイトホーンとの距離を一気に広げた。\nだが怒れる凶神も侮れない。巨体は黒い矢のごとく、執拗に迫ってくる！\n立て続けに放たれた氷の棘が空中で激しく爆ぜ、氷片は刃のように長空を裂き、立ちこめる冷気は畏怖を誘った――\nそれでも危険はファランタを怯ませるどころか、彼女をいっそう冷静にした。彼女はそっとパモーラの背を叩く。\n上へ！左旋回！加速！\nもっとはやく、もうすぐ着く！\n前方に風が集まりつつあるのを感じた。そこはみんなが約束した地点――鷹神の鉤爪が、ここで凶神に致命の一撃を与えるのだ。\n「星臨者……あとは任せた！」"}
 {"id":"story_convenient:346041653863122176","locale":"jp","text":"プレイヤー"}
 {"id":"story_convenient:346041653863122432","locale":"jp","text":"カタル、盾の手入れをしてるの？"}
 {"id":"story_convenient:346041658158089472","locale":"jp","text":"カタル"}
@@ -18878,13 +18878,13 @@
 {"id":"story_convenient:3522303121831232768","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:3522303121831233024","locale":"jp","text":"はじめての護衛なんだし、僕が案内するよ。|はじめての護衛なんだし、私が案内するよ。"}
 {"id":"story_convenient:3522303126126200064","locale":"jp","text":"ティティ"}
-{"id":"story_convenient:3522303126126200320","locale":"jp","text":"え、いいんですか！？やったぁ！"}
+{"id":"story_convenient:3522303126126200320","locale":"jp","text":"え、いいんですか！？ありがとうございます！"}
 {"id":"story_convenient:3522303130421167360","locale":"jp","text":"ノノ"}
 {"id":"story_convenient:3522303130421167616","locale":"jp","text":"じゃあ、入り口で待ち合わせ。星臨者、ひまになったら来て。"}
 {"id":"story_convenient:3522303542738027776","locale":"jp","text":"カタル"}
 {"id":"story_convenient:3522303542738028032","locale":"jp","text":"はぁ……すごく緊張する……でも、心の準備はできたよ。星臨者さんも準備できているなら……出発しよう！"}
 {"id":"story_convenient:3522303972234757376","locale":"jp","text":"ティティ"}
-{"id":"story_convenient:3522303972234757632","locale":"jp","text":"やったー、やっと村を出ました！"}
+{"id":"story_convenient:3522303972234757632","locale":"jp","text":"やっと村を出ました！"}
 {"id":"story_convenient:3522303976529724672","locale":"jp","text":"ノノ"}
 {"id":"story_convenient:3522303976529724928","locale":"jp","text":"ドゥル、死んだふりしてる。"}
 {"id":"story_convenient:3522303980824691968","locale":"jp","text":"ルミィ"}
@@ -18940,7 +18940,7 @@
 {"id":"story_convenient:3522307425388463360","locale":"jp","text":"ノノ"}
 {"id":"story_convenient:3522307425388463616","locale":"jp","text":"よいしょ、よいしょ……"}
 {"id":"story_convenient:3522307837705323776","locale":"jp","text":"ティティ"}
-{"id":"story_convenient:3522307837705324032","locale":"jp","text":"ツタが！"}
+{"id":"story_convenient:3522307837705324032","locale":"jp","text":"木の根が！"}
 {"id":"story_convenient:3522308267202053376","locale":"jp","text":"ノノ"}
 {"id":"story_convenient:3522308267202053632","locale":"jp","text":"これで大丈夫。"}
 {"id":"story_convenient:3522308696698782976","locale":"jp","text":"キングラーガ"}
@@ -19199,7 +19199,7 @@
 {"id":"story_convenient:420953614446495488","locale":"jp","text":"98012701"}
 {"id":"story_convenient:420953614446496000","locale":"jp","text":"2"}
 {"id":"story_convenient:420953614446497536","locale":"jp","text":"うぅ～なにも見えないぞ。\n入ったら絶対、迷子になっちゃうのだ。"}
-{"id":"story_convenient:420954043943224832","locale":"jp","text":"星臨者は彫像から3つの気配を感じた。そのなかから一体を仲間に選ぶことができるようだ。"}
+{"id":"story_convenient:420954043943224832","locale":"jp","text":"星臨者は彫像から3つの気配を感じた。そのなかから1体を選び、スターリンクで仲間にすることができるようだ。"}
 {"id":"story_convenient:420954043943225088","locale":"jp","text":"98012701"}
 {"id":"story_convenient:420954043943225600","locale":"jp","text":"2"}
 {"id":"story_convenient:420954043943227136","locale":"jp","text":"コホッ……うぅ、霧がすごく濃くなってきた……\n戻ったほうがいいな。"}
@@ -22281,7 +22281,7 @@
 {"id":"story_convenient:87105377031685376","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:87105377031685632","locale":"jp","text":"【実装対象外／【P3】新芽山谷_中支线_远地的音乐盒.xlsx】\n"}
 {"id":"story_convenient:87146179220997376","locale":"jp","text":"{playerName}"}
-{"id":"story_convenient:87146179220997632","locale":"jp","text":"ここは民兵隊が巡回するときによく使う拠点かな。\n薪を見た感じ、焚き火をしていた者はまだそれほど遠くには行ってないみたいだ。|ここは民兵隊が巡回するときによく使う拠点かな。\n薪を見た感じ、焚き火をしていただれかがはまだそれほど遠くには行ってないみたい。"}
+{"id":"story_convenient:87146179220997632","locale":"jp","text":"ここは民兵隊が巡回するときによく使う拠点かな。\n薪を見た感じ、焚き火をしていただれかはまだそれほど遠くには行ってないみたいだ。|ここは民兵隊が巡回するときによく使う拠点かな。\n薪を見た感じ、焚き火をしていただれかはまだそれほど遠くには行ってないみたい。"}
 {"id":"story_convenient:87146183515964672","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:87146183515964928","locale":"jp","text":"ウゾンが焚き火をしてたのかな？"}
 {"id":"story_convenient:87146187810931968","locale":"jp","text":"{playerName}"}
@@ -22738,7 +22738,7 @@
 {"id":"story_convenient:87962665388868864","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:87962665388869120","locale":"jp","text":"なんでこんなに捕食性のキボがたくさん集まってるのかな？"}
 {"id":"story_convenient:87962669683836160","locale":"jp","text":"シュネルフ&サラマンド"}
-{"id":"story_convenient:87962669683836416","locale":"jp","text":"え……？"}
+{"id":"story_convenient:87962669683836416","locale":"jp","text":"……？"}
 {"id":"story_convenient:87962673978803456","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:87962673978803712","locale":"jp","text":"まずい、食料を奪いに来たと思われてしまったみたい……"}
 {"id":"story_convenient:87962678273770752","locale":"jp","text":"ビリバー"}
@@ -22795,7 +22795,7 @@
 {"id":"story_convenient:87965255254148352","locale":"jp","text":"{playerName}"}
 {"id":"story_convenient:87965255254148608","locale":"jp","text":"いっそ、両立させる方法を考えようか？"}
 {"id":"story_convenient:87965658981074176","locale":"jp","text":"{playerName}"}
-{"id":"story_convenient:87965658981074432","locale":"jp","text":"そういえば……\n前にチルルに木彫りを見せたことがあったけど……"}
+{"id":"story_convenient:87965658981074432","locale":"jp","text":"そういえば……\n前にチルルのところで見かけた木彫りだけど……"}
 {"id":"story_convenient:87965663276041472","locale":"jp","text":"ビリバー"}
 {"id":"story_convenient:87965663276041728","locale":"jp","text":"フッシュ。"}
 {"id":"story_convenient:87965667571008768","locale":"jp","text":"{playerName}"}
@@ -22956,7 +22956,7 @@
 {"id":"story_convenient:88049475267855616","locale":"jp","text":"ライト"}
 {"id":"story_convenient:88049475267855872","locale":"jp","text":"ほんとに、手伝ってくれるのか……？"}
 {"id":"story_convenient:88049475267856128","locale":"jp","text":"もちろん！吉兆があるから、きっとうまくいくよ。"}
-{"id":"story_convenient:88049475267856640","locale":"jp","text":"実は白いスカイホークに会ってね。|実は白いスカイホークに会ったの。"}
+{"id":"story_convenient:88049475267856640","locale":"jp","text":"実は白いスカイホークに会ったんだ。"}
 {"id":"story_convenient:88049479562822912","locale":"jp","text":"ライト"}
 {"id":"story_convenient:88049479562823168","locale":"jp","text":"そこまで言うなら、僕も頑張らなきゃな……わかった、もうひと踏ん張りするよ。"}
 {"id":"story_convenient:88049483857790208","locale":"jp","text":"ライト"}
@@ -24685,7 +24685,7 @@
 {"id":"story_convenient:89344360662959360","locale":"jp","text":"ノノ"}
 {"id":"story_convenient:89344360662959616","locale":"jp","text":"よいしょ、よいしょ……"}
 {"id":"story_convenient:89344772979819776","locale":"jp","text":"ティティ"}
-{"id":"story_convenient:89344772979820032","locale":"jp","text":"ツタが！"}
+{"id":"story_convenient:89344772979820032","locale":"jp","text":"木の根が！"}
 {"id":"story_convenient:89345202476549376","locale":"jp","text":"ノノ"}
 {"id":"story_convenient:89345202476549632","locale":"jp","text":"これで大丈夫。"}
 {"id":"story_convenient:89345631973278976","locale":"jp","text":"ルミィ"}
@@ -24791,7 +24791,7 @@
 {"id":"story_convenient:89427670143599872","locale":"jp","text":"ファランタ"}
 {"id":"story_convenient:89427670143600128","locale":"jp","text":"飛翔の儀に参加する翼人よ、自分だけの『ソザンカのはしご』を築き上げるのだ。"}
 {"id":"story_convenient:89427674438567168","locale":"jp","text":"サトゥル"}
-{"id":"story_convenient:89427674438567424","locale":"jp","text":"気楽に構えて、ミィティ。この試練は、私たちが共に信仰するソザンカ様からのご加護があるんだからね。"}
+{"id":"story_convenient:89427674438567424","locale":"jp","text":"気楽に構えて、ミィティ。この試練は、私たちが信仰するソザンカさまからのご加護があるのだから。"}
 {"id":"story_convenient:89427678733534464","locale":"jp","text":"ミィティ"}
 {"id":"story_convenient:89427678733534720","locale":"jp","text":"よし、いよいよ最後の試練よ！"}
 {"id":"story_convenient:89427683028501760","locale":"jp","text":"ミィティ"}

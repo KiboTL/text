@@ -148,7 +148,7 @@
 {"id":"static:0B82A0FE","locale":"jp","text":"先行体験可能"}
 {"id":"static:0B84B7F4","locale":"jp","text":"今回のログイン中は再表示しない"}
 {"id":"static:0B852EEB","locale":"jp","text":"12月26日"}
-{"id":"static:0B8BC057","locale":"jp","text":"栗栗花には大きな計画がある。自分の農産物展に新芽の谷の良質な農産物をすべて並べるだけでなく、来場者が欲しいと思ったらすぐに買えるようにするのだ！　そのために販売用の農産物を懸命に集め始めたが、成果はあまり上がっていない…"}
+{"id":"static:0B8BC057","locale":"jp","text":"リリカには大きな計画がある。自分の農産物展に芽吹の谷の良質な農産物をすべて並べるだけでなく、来場者が欲しいと思ったらすぐに買えるようにするのだ！ そのために販売用の農産物を懸命に集め始めたが、成果はあまり上がっていない…"}
 {"id":"static:0BA92335","locale":"jp","text":"評判を確認"}
 {"id":"static:0BCE96DE","locale":"jp","text":"星識レベル30で解放"}
 {"id":"static:0BF60B32","locale":"jp","text":"数量"}
@@ -259,7 +259,7 @@
 {"id":"static:12B942D8","locale":"jp","text":"殺意の剣気00000000000"}
 {"id":"static:12C19AB0","locale":"jp","text":"華麗なカゴ？？"}
 {"id":"static:12D317C1","locale":"jp","text":"メインストーリーを進め、星識レベルを上げると、より高いマップレベルが解放されます"}
-{"id":"static:12E9FC0E","locale":"jp","text":"ホームレベル2に到達"}
+{"id":"static:12E9FC0E","locale":"jp","text":"農園レベル2に到達"}
 {"id":"static:12F1D7EF","locale":"jp","text":"終了"}
 {"id":"static:1307F6DC","locale":"jp","text":"テスト終了後にデータが削除されるクローズドβテスト版のため、最終的な品質を表すものではありません。"}
 {"id":"static:13182A01","locale":"jp","text":"獲得方法"}
@@ -398,7 +398,7 @@
 {"id":"static:1A928580","locale":"jp","text":"均衡・烈炎"}
 {"id":"static:1AA59442","locale":"jp","text":"ドングリ樹洞"}
 {"id":"static:1AAA8857","locale":"jp","text":"両目の色の統一を維持する"}
-{"id":"static:1AB59815","locale":"jp","text":"星賜装備成功"}
+{"id":"static:1AB59815","locale":"jp","text":"星祝装備成功"}
 {"id":"static:1ADF4E99","locale":"jp","text":"ファイトリーグ"}
 {"id":"static:1AF1C54C","locale":"jp","text":"録画をキャンセル"}
 {"id":"static:1B02A4E8","locale":"jp","text":"jp亲爱的玩家：\n您最近在XX系统中，获得了非常牛掰了不起网的佛不得了给力攒劲又难以描述的成就，我们特地给您发—个会进包的奖杯，让你可以装―装。以描述的成就，我们特地给您发—个会进包的奖杯，让你可以装―装。请最近在XX系统中，获得了非常牛掰了不起网的佛不得了给力攒劲又难以描述的成就，我们特地给您发—个会进包的奖杯，让你可以装―装。请查收会进包的奖杯，让你可以装―装。请查收会进包的奖杯，让你可以装―装。请查收\n会进包的奖杯，让你可以装―装。"}
@@ -414,7 +414,7 @@
 {"id":"static:1BC78FF0","locale":"jp","text":"jp请选择菜品！"}
 {"id":"static:1BCF60BE","locale":"jp","text":"おすすめ："}
 {"id":"static:1BD48949","locale":"jp","text":"jp无敌闪亮墨香"}
-{"id":"static:1BDD992D","locale":"jp","text":"ウミーの流動性は、どんな隙間にも入り込めることを証明している。空の壺や瓶を長く放置しておくと、いつの間にかウミーが湧いていることもあるらしい。"}
+{"id":"static:1BDD992D","locale":"jp","text":"ウミィの流動性は、どんな隙間にも入り込めることを証明している。空の壺や瓶を長く放置しておくと、いつの間にかウミィが湧いていることもあるらしい。"}
 {"id":"static:1BF939BC","locale":"jp","text":"探索レベルアップ"}
 {"id":"static:1C0132F2","locale":"jp","text":"jp可解锁奇波栖息地"}
 {"id":"static:1C0E36C8","locale":"jp","text":"定量モード"}
@@ -447,7 +447,7 @@
 {"id":"static:1EAE4BD2","locale":"jp","text":"おすすめのセット案"}
 {"id":"static:1EC3A56B","locale":"jp","text":"jp碎石场"}
 {"id":"static:1ECAD0CA","locale":"jp","text":"クエストの進行状況"}
-{"id":"static:1ED61EBA","locale":"jp","text":"野生のキボの素質上限"}
+{"id":"static:1ED61EBA","locale":"jp","text":"野生のキボの資質上限"}
 {"id":"static:1EE0DC8C","locale":"jp","text":"jp全部收回"}
 {"id":"static:1EE506BF","locale":"jp","text":"地"}
 {"id":"static:1EFA0182","locale":"jp","text":"jp食物储量已满，稍后恢复生产"}
@@ -508,8 +508,8 @@
 {"id":"static:23496EEB","locale":"jp","text":"－現在の進行状況－"}
 {"id":"static:2381F032","locale":"jp","text":"111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"}
 {"id":"static:238AE092","locale":"jp","text":"残り時間："}
-{"id":"static:239C9FD0","locale":"jp","text":"リリカには大きな計画がある――自分の農産物展に新芽の谷の良質な農産物をすべて並べるだけでなく、来場者が欲しいと思ったらすぐに買えるようにするのだ！　そのために販売用の農産物を懸命に集め始めたが、成果は、成果はほとんど上がっていない"}
-{"id":"static:23A2CAF5","locale":"jp","text":"初期聖器の選択"}
+{"id":"static:239C9FD0","locale":"jp","text":"リリカには大きな計画がある――自分の農産物展に芽吹の谷の良質な農産物をすべて並べるだけでなく、来場者が欲しいと思ったらすぐに買えるようにするのだ！ そのために販売用の農産物を懸命に集め始めたが、成果はほとんど上がっていない"}
+{"id":"static:23A2CAF5","locale":"jp","text":"初期祭器の選択"}
 {"id":"static:23D1BEBC","locale":"jp","text":"レアな星雨の果実"}
 {"id":"static:23E714A0","locale":"jp","text":"スタミナを30消費して討伐報酬を受け取りますか？"}
 {"id":"static:23E86A12","locale":"jp","text":"初回クリア報酬"}
@@ -588,8 +588,8 @@
 {"id":"static:28818AC1","locale":"jp","text":"因子入れ替え"}
 {"id":"static:288F0C40","locale":"jp","text":"クリア"}
 {"id":"static:2896411B","locale":"jp","text":"レベル上限"}
-{"id":"static:28AD6986","locale":"jp","text":"使用すると<color=#EF903D>【カエル】</color>が\n<color=#EF903D>【新芽の谷】</color>に大量出現する"}
-{"id":"static:28B9D22B","locale":"jp","text":"サーバー番号を入力"}
+{"id":"static:28AD6986","locale":"jp","text":"使用すると<color=#EF903D>【カエル】</color>が\n<color=#EF903D>【芽吹の谷】</color>に大量出現する"}
+{"id":"static:28B9D22B","locale":"jp","text":"チャンネル番号を入力"}
 {"id":"static:28BBA6A2","locale":"jp","text":"エデンの樹"}
 {"id":"static:28D32153","locale":"jp","text":"残り："}
 {"id":"static:28ED0957","locale":"jp","text":"SHENGJI"}
@@ -610,13 +610,13 @@
 {"id":"static:2A95BBAA","locale":"jp","text":"輝く"}
 {"id":"static:2AABE28E","locale":"jp","text":"本日受け取り済み"}
 {"id":"static:2AB01E41","locale":"jp","text":"一般"}
-{"id":"static:2AB87EB1","locale":"jp","text":"通常攻撃が命中すると、自身の攻撃力が4.5%増加する（12秒間、最大1スタック）。"}
+{"id":"static:2AB87EB1","locale":"jp","text":"通常攻撃が命中すると、自身の攻撃力が4.5%上昇する（12秒間、最大1スタック）。"}
 {"id":"static:2AB8FC53","locale":"jp","text":"この特別な生き物はまだ見つかっていません"}
 {"id":"static:2AD54078","locale":"jp","text":"jp冒险者你的名字是"}
 {"id":"static:2AD67442","locale":"jp","text":"jp新天赋解锁："}
 {"id":"static:2AD8CB94","locale":"jp","text":"スタミナ回復"}
-{"id":"static:2AE4D260","locale":"jp","text":"超レアな星雨の実"}
-{"id":"static:2AEEB134","locale":"jp","text":"リリカには大きな計画がある――自分の農産物展に新芽の\n谷の良質な農産物をすべて並べるだけでなく、来場者が欲しい\nと思ったらすぐに買えるようにするのだ！　そのために販売用の\n農産物を懸命に集め始めたが、成果はほとんど上がっていない"}
+{"id":"static:2AE4D260","locale":"jp","text":"超レアな星雨の果実"}
+{"id":"static:2AEEB134","locale":"jp","text":"リリカには大きな計画がある――自分の農産物展に芽吹の\n谷の良質な農産物をすべて並べるだけでなく、来場者が欲しい\nと思ったらすぐに買えるようにするのだ！ そのために販売用の\n農産物を懸命に集め始めたが、成果はほとんど上がっていない"}
 {"id":"static:2B01EB86","locale":"jp","text":"潜在能力の果実"}
 {"id":"static:2B256866","locale":"jp","text":"才能"}
 {"id":"static:2B30334A","locale":"jp","text":"出荷箱"}
@@ -669,7 +669,7 @@
 {"id":"static:2EAC6A6B","locale":"jp","text":"NEW RECORD！"}
 {"id":"static:2EACA079","locale":"jp","text":"時の流れを停止"}
 {"id":"static:2ED15420","locale":"jp","text":"入居済みのキャラクターのみ表示"}
-{"id":"static:2F114899","locale":"jp","text":"神獣\\xB7霊蝶のタイトル"}
+{"id":"static:2F114899","locale":"jp","text":"神獣·霊蝶のタイトル"}
 {"id":"static:2F188614","locale":"jp","text":"空白部分を押して続ける"}
 {"id":"static:2F34E625","locale":"jp","text":"臨時編成"}
 {"id":"static:2F363F9B","locale":"jp","text":"jp下一级效果"}
@@ -681,7 +681,7 @@
 {"id":"static:2FAA93F6","locale":"jp","text":"索"}
 {"id":"static:2FC7E1E7","locale":"jp","text":"キボスキン"}
 {"id":"static:2FCBCE2B","locale":"jp","text":"未解放"}
-{"id":"static:2FD59848","locale":"jp","text":"孵化したキボが色違いになる確率が上昇"}
+{"id":"static:2FD59848","locale":"jp","text":"孵化時に輝くキボが生まれる確率が上昇"}
 {"id":"static:2FD99BE2","locale":"jp","text":"jp自定义设置"}
 {"id":"static:2FE9C5F8","locale":"jp","text":"毎日解放"}
 {"id":"static:2FF02A2E","locale":"jp","text":"すべてのスキルポイントをリセットしますか？"}
@@ -710,7 +710,7 @@
 {"id":"static:3186527E","locale":"jp","text":"キャンセル"}
 {"id":"static:31878984","locale":"jp","text":"再挑戦"}
 {"id":"static:318ACBF5","locale":"jp","text":"心得ポイント："}
-{"id":"static:31A24A4E","locale":"jp","text":"星の上限に到達"}
+{"id":"static:31A24A4E","locale":"jp","text":"ランクMAX"}
 {"id":"static:31D984DF","locale":"jp","text":"ZHSDIACI"}
 {"id":"static:31FF4649","locale":"jp","text":"［長押し］"}
 {"id":"static:31FFB42A","locale":"jp","text":"10分以内に敵の領域を占領する"}
@@ -735,7 +735,7 @@
 {"id":"static:3318D100","locale":"jp","text":"今日のニュース"}
 {"id":"static:33232B0A","locale":"jp","text":"猫とケーキ"}
 {"id":"static:333E6BAF","locale":"jp","text":"採集可能量＋100"}
-{"id":"static:33642D1C","locale":"jp","text":"同名の未上限突破装備"}
+{"id":"static:33642D1C","locale":"jp","text":"同名の星ランク未強化装備"}
 {"id":"static:336F1333","locale":"jp","text":"jp阅读完成后可关闭"}
 {"id":"static:336F2AA3","locale":"jp","text":"基本ドロップ："}
 {"id":"static:33781E80","locale":"jp","text":"攻撃"}
@@ -752,7 +752,7 @@
 {"id":"static:3452B70A","locale":"jp","text":"ワールドレベルを上げて、新たなキボの仲間たちを見つけましょう。"}
 {"id":"static:3466D5F4","locale":"jp","text":"長押し"}
 {"id":"static:348148D6","locale":"jp","text":"農園内の建築"}
-{"id":"static:3489DDC5","locale":"jp","text":"プレビュー終了後に獲得可能"}
+{"id":"static:3489DDC5","locale":"jp","text":"お試しプレイ終了後に獲得可能"}
 {"id":"static:3492C08A","locale":"jp","text":"マップ難易度"}
 {"id":"static:34958745","locale":"jp","text":"未定"}
 {"id":"static:34AAC239","locale":"jp","text":"Lv.64モルフォーレ"}
@@ -820,7 +820,7 @@
 {"id":"static:397FA401","locale":"jp","text":"先に前提ノードを有効化する必要があります"}
 {"id":"static:398A0D4B","locale":"jp","text":"縁結び"}
 {"id":"static:398B7EF0","locale":"jp","text":"プレイヤー同士の1対1対戦"}
-{"id":"static:39996C7B","locale":"jp","text":"星識レベルが<color=ffa200>20</color>に達すると、レベル上限を解放できます"}
+{"id":"static:39996C7B","locale":"jp","text":"星識レベルが<color=#ffa200>20</color>に達すると、レベル上限を解放できます"}
 {"id":"static:39C24E56","locale":"jp","text":"jp弗里斯"}
 {"id":"static:39CB8693","locale":"jp","text":"探索記録をあと1つ解放すると、次の段階の報酬を獲得できます"}
 {"id":"static:39D6DF3F","locale":"jp","text":"-80%"}
@@ -869,7 +869,7 @@
 {"id":"static:3D4545D5","locale":"jp","text":"精算して退出"}
 {"id":"static:3D5A3D5D","locale":"jp","text":"普通以上の彫像数は15個未満"}
 {"id":"static:3D6CF024","locale":"jp","text":"80レベルで解放。10体の敵に、1ヒットごとに210%のダメージを与える。最大持続時間は8秒。持続時間と"}
-{"id":"static:3D720502","locale":"jp","text":"脱出中"}
+{"id":"static:3D720502","locale":"jp","text":"離脱中"}
 {"id":"static:3D8195BC","locale":"jp","text":"jp奇波蛋列表"}
 {"id":"static:3D904D5B","locale":"jp","text":"初対面Ⅱ"}
 {"id":"static:3DA4E2CF","locale":"jp","text":"切断済み"}
@@ -887,7 +887,7 @@
 {"id":"static:3E996A57","locale":"jp","text":"強化済み"}
 {"id":"static:3EA36AD6","locale":"jp","text":"チャットを削除"}
 {"id":"static:3EB737ED","locale":"jp","text":"ガチャの種類"}
-{"id":"static:3EBF595B","locale":"jp","text":"都市の吟遊詩家"}
+{"id":"static:3EBF595B","locale":"jp","text":"都市の吟遊詩人"}
 {"id":"static:3EC70002","locale":"jp","text":"MVP"}
 {"id":"static:3EDDDD85","locale":"jp","text":"日"}
 {"id":"static:3EF50F73","locale":"jp","text":"jp每次检定失败后，有50%概率提升1点<quad\nsize=22\nwidth=1/><color=#A8D8B9>洞察</color>。"}
@@ -911,7 +911,7 @@
 {"id":"static:3FE84C08","locale":"jp","text":"成"}
 {"id":"static:401EDD87","locale":"jp","text":"未"}
 {"id":"static:403C8DE5","locale":"jp","text":"jp已摆放的角色"}
-{"id":"static:4043C86A","locale":"jp","text":"聖器の聖紋"}
+{"id":"static:4043C86A","locale":"jp","text":"祭器の聖紋"}
 {"id":"static:405C7EC3","locale":"jp","text":"43B1A7​"}
 {"id":"static:40816F96","locale":"jp","text":"凝近を解除"}
 {"id":"static:408A6B0C","locale":"jp","text":"テストテキスト"}
@@ -989,7 +989,7 @@
 {"id":"static:4687EE5B","locale":"jp","text":"jp玛卡巴卡"}
 {"id":"static:469EB358","locale":"jp","text":"探"}
 {"id":"static:46A06D23","locale":"jp","text":"「人の好みは自由だけど……」"}
-{"id":"static:46B69033","locale":"jp","text":"受け取り可能"}
+{"id":"static:46B69033","locale":"jp","text":"受取可能"}
 {"id":"static:46BD72C0","locale":"jp","text":"jp进入灵魂"}
 {"id":"static:46C903F7","locale":"jp","text":"ファイトスキル"}
 {"id":"static:46CCCC09","locale":"jp","text":"元素タイプ"}
@@ -1044,7 +1044,7 @@
 {"id":"static:49AB15ED","locale":"jp","text":"倉庫がいっぱいです。"}
 {"id":"static:49B2C7B1","locale":"jp","text":"jp适合优先钓鱼的水域，这里的鱼数量众多，同时具有流动性.可惜鱼群的种类\n相对单调，但没关系，为了填报肚子的话就选择这里把"}
 {"id":"static:49D1963C","locale":"jp","text":"jp鸡仔仔崽"}
-{"id":"static:49D2E5A7","locale":"jp","text":"森彩霊蝶の縄張りに入りました"}
+{"id":"static:49D2E5A7","locale":"jp","text":"モルフォーレの縄張りに入りました"}
 {"id":"static:49DE5EC4","locale":"jp","text":"アニマ"}
 {"id":"static:49E1EC70","locale":"jp","text":"クリア報酬："}
 {"id":"static:49E69BEF","locale":"jp","text":"豫州界遺跡"}
@@ -1124,7 +1124,7 @@
 {"id":"static:4EE984F0","locale":"jp","text":"今回消費する追加報酬回数：1"}
 {"id":"static:4EEAF2E4","locale":"jp","text":"種まき"}
 {"id":"static:4EEF8918","locale":"jp","text":"3P"}
-{"id":"static:4EF62A0D","locale":"jp","text":"先天因子変異·昇格"}
+{"id":"static:4EF62A0D","locale":"jp","text":"先天因子変異\\xB7昇格"}
 {"id":"static:4EFE9AA0","locale":"jp","text":"バッグ"}
 {"id":"static:4F061AAD","locale":"jp","text":"変更をキャンセル"}
 {"id":"static:4F199B62","locale":"jp","text":"星源の雫"}
@@ -1159,7 +1159,7 @@
 {"id":"static:5206560A","locale":"jp","text":"V"}
 {"id":"static:522ADF0B","locale":"jp","text":"得点+20%"}
 {"id":"static:5242C6EA","locale":"jp","text":"のこぎり台はレベル2までアップグレード可能\nさらに多くの木材を生産できます。"}
-{"id":"static:5257E337","locale":"jp","text":"<color=#ffae3b>20</color>回観測すると、必ず5星キャラを獲得"}
+{"id":"static:5257E337","locale":"jp","text":"<color=#ffae3b>20</color>回観測すると、必ず★5キャラクターを獲得"}
 {"id":"static:5289492C","locale":"jp","text":"WORLD"}
 {"id":"static:529820EF","locale":"jp","text":"LEVEL UP"}
 {"id":"static:529B7D4A","locale":"jp","text":"チームメンバーが演出のスキップを要求しています。"}
@@ -1168,7 +1168,7 @@
 {"id":"static:52AE9C03","locale":"jp","text":"アニマ名"}
 {"id":"static:52D7F0DE","locale":"jp","text":"報酬条件"}
 {"id":"static:52DD9C3D","locale":"jp","text":"謎のタマゴ"}
-{"id":"static:52F699FC","locale":"jp","text":"もっと遠くへ！フリス都市国家を探索し、新たな景色を見届けよう。"}
+{"id":"static:52F699FC","locale":"jp","text":"もっと遠くへ！都市国家フリスを探索し、新たな景色を見届けよう。"}
 {"id":"static:531401AC","locale":"jp","text":"変更する"}
 {"id":"static:532A9A6C","locale":"jp","text":"装備スコア：83"}
 {"id":"static:534B9318","locale":"jp","text":"獲得可能"}
@@ -1181,7 +1181,7 @@
 {"id":"static:53C8711C","locale":"jp","text":"追跡する"}
 {"id":"static:53DD48F9","locale":"jp","text":"2セット：装備者の防御力が15%上昇する。装備者の効果命中が"}
 {"id":"static:53E4BE9B","locale":"jp","text":"はやく会いたいなあ、いつ帰ってくるの？"}
-{"id":"static:5406940D+1","locale":"jp","text":"プリセットに保存しました"}
+{"id":"static:5406940D+1","locale":"jp","text":"プリセットに保存"}
 {"id":"static:54105BDD","locale":"jp","text":"X2"}
 {"id":"static:54222BA7","locale":"jp","text":"必要なアイテムを投入してください。"}
 {"id":"static:548B3EDC","locale":"jp","text":"キボに切り替え"}
@@ -1397,7 +1397,7 @@
 {"id":"static:625FB26B+2","locale":"jp","text":"キャンセル"}
 {"id":"static:6265E221","locale":"jp","text":"メロウミーミーミーミーミーミーミーミーミーミーミーミーミー"}
 {"id":"static:6281D207","locale":"jp","text":"キボ非表示"}
-{"id":"static:629CF468","locale":"jp","text":"小玉には大きな計画がある――自分の農産物展に新芽の谷の良質な農産物をすべて並べるだけでなく、来場者が欲しいと思ったらすぐに買えるようにするのだ！　そのために販売用の農産物を懸命に集め始めたが、成果は、成果はほとんど上がっていない"}
+{"id":"static:629CF468","locale":"jp","text":"小玉には大きな計画がある――自分の農産物展に芽吹の谷の良質な農産物をすべて並べるだけでなく、来場者が欲しいと思ったらすぐに買えるようにするのだ！ そのために販売用の農産物を懸命に集め始めたが、成果はほとんど上がっていない"}
 {"id":"static:62B5A6F9","locale":"jp","text":"建築レベル3で解放"}
 {"id":"static:62CE0D9B","locale":"jp","text":"jp元气葩噜噜噜"}
 {"id":"static:63225F19","locale":"jp","text":"SELECT"}
@@ -1475,7 +1475,7 @@
 {"id":"static:68B6C810","locale":"jp","text":"完了"}
 {"id":"static:68E5696C","locale":"jp","text":"APPVER:'"}
 {"id":"static:68E69347","locale":"jp","text":"~作成~"}
-{"id":"static:68F414A8","locale":"jp","text":"毎年恒例のフリスアマチュア低木剪定コンテストが予定通り開催されたが、今回は驚くべき出来事が起きた。駆け出しの新人記者である筆者にとって、この天から降ってきたようなスクープはまさに天からの恵みであり、筆者はフォローグが餌に飛びつくように、跳ねるように現場へ駆けつけた。\nロージア帝国から来たパルムさんは、友人に誘われて今回のコンテストに参加し、作品『完璧な四角』で歴代最高得点を獲得し優勝を果たした。しかし祝福すべきだったその瞬間、彼は受賞直後、園芸ハサミを手に、二位作品の前に突進した。たった三回の剪定で、二位作品『踊るチモモ』が『つるつるの小玉』と化し、すべての枝が切り落とされ、低木は真ん丸な球体になってしまった。\n結果、パルムさんは他者作品への故意の破壊行為により、出場資格と優勝資格が剥奪された。\n大会後、本人にその動機を尋ねると、実はちょっと神経質で……と答えてくれた。\n「友人に誘われて出場したんだ。『あれを四角に刈ればユニが稼げる』と言われた。そう難しくないからすぐに終わったけど、隣の人が切ったものがね、どうしても我慢できなくて。余計な枝を見てモヤモヤしないのか？ああ、こっちは冷や汗が止まらないほど不快だった……」\n「黙れ！」\nインタビューの合間に、『踊るチモモ』の作者が駆け寄ってきて、\n「あれは小玉じゃなくてチモモだ！あの枝も余分なものじゃない！チモモの触手を抽象的に表現したものなんだ！」\n激しい言い争いに、周囲のほかの選手とコンテストを見に来た観客たちが次々と振り返った。おっと、また殴り合いが始まったようだ。これなら次号のネタには困らなそうだ。\nとにかく、優勝は実質三位だった――フリス在住の少年ポールに決定した。彼の作品は『燃ゆる芸術』と題されて、非常に独創的で園芸ハサミを使わず、炎で低木を剪定するという手法で作り上げたもの。青々と茂った低木に点在する焦げ跡は、炎の中で植物が引き裂かれた傷跡で、傷と共に上へ伸びる残された枝葉は、不屈の生命力を示し、見る者に強い衝撃を与えた。この作品はまさに、成長の痛みを最も具体的に表現したものだ。"}
+{"id":"static:68F414A8","locale":"jp","text":"毎年恒例のフリスアマチュア低木剪定コンテストが予定通り開催されたが、今回は驚くべき出来事が起きた。駆け出しの新人記者である筆者にとって、この天から降ってきたようなスクープはまさに天からの恵みであり、筆者はフォローグが餌に飛びつくように、跳ねるように現場へ駆けつけた。\nロージア帝国から来たパルムさんは、友人に誘われて今回のコンテストに参加し、作品『完璧な四角』で歴代最高得点を獲得し優勝を果たした。しかし祝福すべきだったその瞬間、彼は受賞直後、園芸ハサミを手に、二位作品の前に突進した。たった三回の剪定で、二位作品『踊る小桃』が『つるつるの小玉』と化し、すべての枝が切り落とされ、低木は真ん丸な球体になってしまった。\n結果、パルムさんは他者作品への故意の破壊行為により、出場資格と優勝資格が剥奪された。\n大会後、本人にその動機を尋ねると、実はちょっと神経質で……と答えてくれた。\n「友人に誘われて出場したんだ。『あれを四角に刈ればユニが稼げる』と言われた。そう難しくないからすぐに終わったけど、隣の人が切ったものがね、どうしても我慢できなくて。余計な枝を見てモヤモヤしないのか？ああ、こっちは冷や汗が止まらないほど不快だった……」\n「黙れ！」\nインタビューの合間に、『踊る小桃』の作者が駆け寄ってきて、\n「あれは小玉じゃなくて小桃だ！あの枝も余分なものじゃない！小桃の触手を抽象的に表現したものなんだ！」\n激しい言い争いに、周囲のほかの選手とコンテストを見に来た観客たちが次々と振り返った。おっと、また殴り合いが始まったようだ。これなら次号のネタには困らなそうだ。\nとにかく、優勝は実質三位だった――フリス在住の少年ポールに決定した。彼の作品は『燃ゆる芸術』と題されて、非常に独創的で園芸ハサミを使わず、炎で低木を剪定するという手法で作り上げたもの。青々と茂った低木に点在する焦げ跡は、炎の中で植物が引き裂かれた傷跡で、傷と共に上へ伸びる残された枝葉は、不屈の生命力を示し、見る者に強い衝撃を与えた。この作品はまさに、成長の痛みを最も具体的に表現したものだ。"}
 {"id":"static:68F9741E","locale":"jp","text":"職種\\xB7伐採"}
 {"id":"static:69221112","locale":"jp","text":"jp此处暂时无用"}
 {"id":"static:692E6C27","locale":"jp","text":"孵化中"}
@@ -1600,7 +1600,7 @@
 {"id":"static:72283B97","locale":"jp","text":"ステージやり直し"}
 {"id":"static:7229ECC6","locale":"jp","text":"回"}
 {"id":"static:7232D42C","locale":"jp","text":"種の管理"}
-{"id":"static:72699C60","locale":"jp","text":"キャラクターが臨階2に達すると解放"}
+{"id":"static:72699C60","locale":"jp","text":"キャラクターが昇臨2に達すると解放"}
 {"id":"static:7281B5A3","locale":"jp","text":"スターリンク不可"}
 {"id":"static:72BB9785","locale":"jp","text":"【金麦】の種をまくとき、15%の確率で種を消費しない。"}
 {"id":"static:72C1D458","locale":"jp","text":"対決スキル"}
@@ -1714,7 +1714,7 @@
 {"id":"static:798919DE","locale":"jp","text":"孤狼"}
 {"id":"static:799C23A5","locale":"jp","text":"jp经验果"}
 {"id":"static:799E0C1D","locale":"jp","text":"キャラクターのレベル上限"}
-{"id":"static:79AAF225","locale":"jp","text":"ボーナスを表示"}
+{"id":"static:79AAF225","locale":"jp","text":"ボーナス"}
 {"id":"static:79B03DDE","locale":"jp","text":"主人公のアクセサリーx1\nスタミナ薬x3"}
 {"id":"static:79B5A656","locale":"jp","text":"回転"}
 {"id":"static:79C5BCC1","locale":"jp","text":"jp村"}
@@ -1766,7 +1766,7 @@
 {"id":"static:7D32BB78","locale":"jp","text":"jp未选中"}
 {"id":"static:7D35A453","locale":"jp","text":"大量"}
 {"id":"static:7D5FA506","locale":"jp","text":"jp当 前 暂 无 进 行 中 的 会 话"}
-{"id":"static:7D9F2A61","locale":"jp","text":"I段：攻撃力が<color=#ffae3b>8%</color>アップし、敵のブレイク状態の継続時間が<color=#ffae3b>100%</color>増加する。該当状態の敵に会心ダメージを与えた時、隕石を召喚し攻撃力の<color=#ffae3b>1400%</color>のダメージを与える。クールタイムは<color=#ffae3b>6</color>秒。隕石を召喚し攻撃力の"}
+{"id":"static:7D9F2A61","locale":"jp","text":"I段：攻撃力が<color=#ffae3b>8%</color>上昇し、敵のブレイク状態の持続時間が<color=#ffae3b>100%</color>延長する。該当状態の敵に会心ダメージを与えた時、隕石を召喚し攻撃力の<color=#ffae3b>1400%</color>のダメージを与える。クールタイムは<color=#ffae3b>6</color>秒。"}
 {"id":"static:7DA8F641","locale":"jp","text":"キボファイトや危機討伐など、新コンテンツが続々登場予定！"}
 {"id":"static:7DAF775D","locale":"jp","text":"jp属性克制笔记"}
 {"id":"static:7DB1B67D","locale":"jp","text":"密林の小パンダ"}
@@ -1837,7 +1837,7 @@
 {"id":"static:82931AFC","locale":"jp","text":"59/60"}
 {"id":"static:82962A88","locale":"jp","text":"シャル\\xB7エンシス"}
 {"id":"static:8296DF05","locale":"jp","text":"ステージギミック"}
-{"id":"static:82CAD191","locale":"jp","text":"重撃ダメージが50%上昇。重撃発動後、キャラの属性に対応する刻印を1つ改行する"}
+{"id":"static:82CAD191","locale":"jp","text":"チャージ攻撃ダメージが50%上昇。チャージ攻撃発動後、キャラの属性に対応する刻印を1つ改行する"}
 {"id":"static:82D9312C","locale":"jp","text":"jp天赋名字"}
 {"id":"static:830738A0","locale":"jp","text":"必要経験値"}
 {"id":"static:8311DC6C","locale":"jp","text":"<size=12>x</size>26"}
@@ -1882,7 +1882,7 @@
 {"id":"static:86D3A394","locale":"jp","text":"通知ブロック\n"}
 {"id":"static:86D688A8","locale":"jp","text":"プロミリア大陸に来たばかりのあなたを助けるべく、【星臨者ガイドブック】が堂々登場！\n拠点づくり／キボとのスターリンク／強敵を倒す／秘密の発見……ガイドに従って少しずつ\nこの世界を探検しよう！"}
 {"id":"static:86E4B169","locale":"jp","text":"全速重複"}
-{"id":"static:86F18C80","locale":"jp","text":"キボを成長させる"}
+{"id":"static:86F18C80","locale":"jp","text":"キボを進化させる"}
 {"id":"static:8736E1B0","locale":"jp","text":"09:50後に退出します。"}
 {"id":"static:8748BFB3","locale":"jp","text":"寮の装飾を獲得"}
 {"id":"static:874B9368","locale":"jp","text":"ラズベリー x 5"}
@@ -2205,7 +2205,7 @@
 {"id":"static:9CFA84CB","locale":"jp","text":"カメラ距離："}
 {"id":"static:9D5E42C0","locale":"jp","text":"'''Up to seven characters '''"}
 {"id":"static:9D5ED678","locale":"jp","text":"B"}
-{"id":"static:9D8EB4B2","locale":"jp","text":"成体期"}
+{"id":"static:9D8EB4B2","locale":"jp","text":"成熟期"}
 {"id":"static:9DC2CDD4","locale":"jp","text":"有効化済みポイント"}
 {"id":"static:9DCBF642","locale":"jp","text":"1111111111111"}
 {"id":"static:9DD4E461","locale":"jp","text":"X"}
@@ -2306,7 +2306,7 @@
 {"id":"static:A56A24F0","locale":"jp","text":"ステージシミュレーター"}
 {"id":"static:A5A60458","locale":"jp","text":"jp找找乌咪藏在哪?"}
 {"id":"static:A5B02B88","locale":"jp","text":"鎌鼬の王（ボス）を倒す"}
-{"id":"static:A5CB8EE1","locale":"jp","text":"通常攻撃時、10%の確率で自身の物理防御力が10%増加する。5秒間持続する。"}
+{"id":"static:A5CB8EE1","locale":"jp","text":"通常攻撃時、10%の確率で自身の物理防御力が10%上昇する。5秒間持続する。"}
 {"id":"static:A5F3C6A1","locale":"jp","text":"K"}
 {"id":"static:A5FFBA77","locale":"jp","text":"ボーナスはありません"}
 {"id":"static:A620810B","locale":"jp","text":"アイテム名"}
@@ -2425,7 +2425,7 @@
 {"id":"static:ADDA8D59","locale":"jp","text":"今日の残り回数"}
 {"id":"static:ADEB3981","locale":"jp","text":"jp星赐\\xB7菜鸡力"}
 {"id":"static:ADEF8EEA","locale":"jp","text":"孵化を中止"}
-{"id":"static:ADF6C034","locale":"jp","text":"都市の吟遊詩家ルーキー"}
+{"id":"static:ADF6C034","locale":"jp","text":"都市の吟遊詩人ルーキー"}
 {"id":"static:ADF6FCDB","locale":"jp","text":"Lv.5"}
 {"id":"static:AE0DB8E4","locale":"jp","text":"情景を編集"}
 {"id":"static:AE1347AF","locale":"jp","text":"獲得へ"}
@@ -2719,11 +2719,11 @@
 {"id":"static:C224B5A5","locale":"jp","text":"マウントから降りる"}
 {"id":"static:C233A5FC","locale":"jp","text":"アニマ未装備"}
 {"id":"static:C247ADC7","locale":"jp","text":"未読メール"}
-{"id":"static:C25021DA","locale":"jp","text":"親密度▼"}
+{"id":"static:C25021DA","locale":"jp","text":"好感度▼"}
 {"id":"static:C279861E","locale":"jp","text":"雪晶石の聖剣+10"}
 {"id":"static:C27F0E6E","locale":"jp","text":"<size=50>Lv.</size><size=100>10</size>"}
 {"id":"static:C2850A36","locale":"jp","text":"jp帕米最害怕的生物排行前19位，有这显著的三角锥前肢令大多数智慧种族感到害怕"}
-{"id":"static:C28CACC0","locale":"jp","text":"·先天因子は入れ替え不可"}
+{"id":"static:C28CACC0","locale":"jp","text":"\\xB7先天因子は入れ替え不可"}
 {"id":"static:C29E4097","locale":"jp","text":"合成"}
 {"id":"static:C2D06DF0","locale":"jp","text":"//通常攻撃の3段目で範囲火炎ダメージを与え、命中した対象に燃焼効果を付与する。対象は毎秒攻撃力の30%のダメージを受ける（8秒間）。"}
 {"id":"static:C2D7F1AF","locale":"jp","text":"初めて"}
@@ -2899,7 +2899,7 @@
 {"id":"static:D0749AAB","locale":"jp","text":"SUCCESS"}
 {"id":"static:D076902B","locale":"jp","text":"同調"}
 {"id":"static:D082B2D3","locale":"jp","text":"以下すべての報酬を獲得"}
-{"id":"static:D09075FB","locale":"jp","text":"MI_MI_MI_都市の吟遊詩家"}
+{"id":"static:D09075FB","locale":"jp","text":"MI_MI_MI_都市の吟遊詩人"}
 {"id":"static:D09154E4","locale":"jp","text":"モンスターを倒す-"}
 {"id":"static:D096E8AA","locale":"jp","text":"野菜サラダ"}
 {"id":"static:D09B367B","locale":"jp","text":"クエストへ向かう"}
@@ -2912,7 +2912,7 @@
 {"id":"static:D1805749","locale":"jp","text":"キャラクターとアニマ"}
 {"id":"static:D18AC191","locale":"jp","text":"報酬の受け取りに必要な消費"}
 {"id":"static:D18FFC69","locale":"jp","text":"ブロックリストは空です"}
-{"id":"static:D1AEB74F","locale":"jp","text":"出荷の追加増加幅"}
+{"id":"static:D1AEB74F","locale":"jp","text":"出荷時の追加上昇幅"}
 {"id":"static:D1B3623B","locale":"jp","text":"HereIsServer"}
 {"id":"static:D1B7D5C2","locale":"jp","text":"敵のレベル"}
 {"id":"static:D1D5F473","locale":"jp","text":"通常攻撃の3段目で範囲火炎ダメージを与え、命中したターゲットを炎上させる。毎秒攻撃力の30%のダメージを与える。効果時間8秒。"}
@@ -2983,7 +2983,7 @@
 {"id":"static:D83D5389","locale":"jp","text":"討伐\\xB7キングラーガ"}
 {"id":"static:D83E7DD6","locale":"jp","text":"専用"}
 {"id":"static:D84CE27F","locale":"jp","text":"在庫 156/600"}
-{"id":"static:D84FF70C","locale":"jp","text":"専用演出："}
+{"id":"static:D84FF70C","locale":"jp","text":"固有演出："}
 {"id":"static:D8592BD6","locale":"jp","text":"所持済み"}
 {"id":"static:D8AABA03","locale":"jp","text":"装飾"}
 {"id":"static:D8C2E90D","locale":"jp","text":"-フィールドでこのキボとスターリンクすると、この図鑑が解放されます-"}
@@ -3190,7 +3190,7 @@
 {"id":"static:E69CA2D0","locale":"jp","text":"孵化開始"}
 {"id":"static:E6A8E1EB","locale":"jp","text":"アズールプロミリアアズールプロミリア"}
 {"id":"static:E6AA2A22","locale":"jp","text":"jp星临名笺"}
-{"id":"static:E6EB7C49","locale":"jp","text":"ギフト名は最大九文字"}
+{"id":"static:E6EB7C49","locale":"jp","text":"パック名は最大9文字"}
 {"id":"static:E6FDDAE2","locale":"jp","text":"jp基础图像"}
 {"id":"static:E7001887","locale":"jp","text":"矢で周囲の自然元素を集中させ、風元素を呼び集める。エネルギーを放ち魔法の矢を形成して、攻撃力の910%の風属性ダメージを与える。命中した敵に被ダメージアップ効果を付与し、受けるダメージが10%増加する（12秒間）。"}
 {"id":"static:E705F37E","locale":"jp","text":"時間を調整"}
@@ -3203,7 +3203,7 @@
 {"id":"static:E76C4927","locale":"jp","text":"キボの因子の品質"}
 {"id":"static:E774F642","locale":"jp","text":"建物をアップグレード"}
 {"id":"static:E77B9028","locale":"jp","text":"勢中刀\\xB7百斬一瞬"}
-{"id":"static:E7BBA992","locale":"jp","text":"通常攻撃が命中した時、一定時間攻撃力がアップする。"}
+{"id":"static:E7BBA992","locale":"jp","text":"通常攻撃が命中した時、一定時間攻撃力が上昇する。"}
 {"id":"static:E7C23911","locale":"jp","text":"ライティングのパラメータ"}
 {"id":"static:E7CF0E00","locale":"jp","text":"過去の収入"}
 {"id":"static:E7E35CF1","locale":"jp","text":"MI_未建設"}
@@ -3238,7 +3238,7 @@
 {"id":"static:EA2E2D6C","locale":"jp","text":"チーム全員のHPを100回復する。"}
 {"id":"static:EA328DC7","locale":"jp","text":"現在の段階"}
 {"id":"static:EA35FE97","locale":"jp","text":"永久購入制限：1/1"}
-{"id":"static:EA683A45","locale":"jp","text":"自動スタック済み"}
+{"id":"static:EA683A45","locale":"jp","text":"自動スタック機能"}
 {"id":"static:EA8DF8F2","locale":"jp","text":"jp奇波表情"}
 {"id":"static:EA8FAD39","locale":"jp","text":"所持済み："}
 {"id":"static:EAA2D12D","locale":"jp","text":"EYE"}
@@ -3263,7 +3263,7 @@
 {"id":"static:EBC9D9E6","locale":"jp","text":"素材"}
 {"id":"static:EBECF7F6","locale":"jp","text":"チェストアクセサリー"}
 {"id":"static:EBF14411","locale":"jp","text":"名もなき指輪"}
-{"id":"static:EBF7F167","locale":"jp","text":"ギフトパックショップ"}
+{"id":"static:EBF7F167","locale":"jp","text":"パックショップ"}
 {"id":"static:EC02815D","locale":"jp","text":"名前変更"}
 {"id":"static:EC02815D+1","locale":"jp","text":"名前変更"}
 {"id":"static:EC211F7C","locale":"jp","text":"ADD"}
@@ -3402,7 +3402,7 @@
 {"id":"static:F510B97D","locale":"jp","text":"TINY HERO"}
 {"id":"static:F51ACA64","locale":"jp","text":"討伐開始"}
 {"id":"static:F528DB39","locale":"jp","text":"メロウミーミーミーミーミーミーミーミーミーミーミーミーミーミーミーミー"}
-{"id":"static:F5391A8D","locale":"jp","text":"10体の敵に、一撃ごとに210%のダメージを与える。最大8秒間持続。持続時間に比例して、ダメージは最大900%までアップする。ボスを攻撃する時、攻撃力が30%アップする。"}
+{"id":"static:F5391A8D","locale":"jp","text":"10体の敵に、一撃ごとに210%のダメージを与える。最大8秒間持続。持続時間に比例して、ダメージは最大900%まで増加する。ボスを攻撃する時、攻撃力が30%上昇する。"}
 {"id":"static:F542E296","locale":"jp","text":"SSS"}
 {"id":"static:F549FCCE","locale":"jp","text":"ステージ報酬"}
 {"id":"static:F55F8880","locale":"jp","text":"jp没有任何道具哦"}
@@ -3422,8 +3422,8 @@
 {"id":"static:F6891880","locale":"jp","text":"砕けた記憶の間"}
 {"id":"static:F68D5C7C","locale":"jp","text":"一括回収！"}
 {"id":"static:F6924652","locale":"jp","text":"テストテキスト"}
-{"id":"static:F6A20A36","locale":"jp","text":"入手 - 叢雲村の名声クエストで交換"}
-{"id":"static:F6A2B0B0","locale":"jp","text":"操作ペット"}
+{"id":"static:F6A20A36","locale":"jp","text":"入手 - 紫雲村の評判クエストで交換"}
+{"id":"static:F6A2B0B0","locale":"jp","text":"キボ操作"}
 {"id":"static:F6A99DD8","locale":"jp","text":"昨日の収入"}
 {"id":"static:F6B5A813","locale":"jp","text":"安定レベル"}
 {"id":"static:F6C2363E","locale":"jp","text":"スキップしますか？"}
@@ -3441,7 +3441,7 @@
 {"id":"static:F7C09C2D","locale":"jp","text":"雪晶石の聖剣2行の効果<color=#3c749b>+3</color>"}
 {"id":"static:F7C8E349","locale":"jp","text":"水車小屋（建築済み）・【金麦】の種まき時"}
 {"id":"static:F7D21160","locale":"jp","text":"マイバッグ"}
-{"id":"static:F7DE3418","locale":"jp","text":"レアリティを引き継ぐ同名の装備を選択してください。"}
+{"id":"static:F7DE3418","locale":"jp","text":"継承を行う同名装備を選択してください。"}
 {"id":"static:F7E68BDE","locale":"jp","text":"よく使う項目"}
 {"id":"static:F7EC2DCD","locale":"jp","text":"ラーガ剣"}
 {"id":"static:F7F82B9C","locale":"jp","text":"新コンテンツ予告"}
@@ -3469,7 +3469,7 @@
 {"id":"static:F97304A7","locale":"jp","text":"jp卷一"}
 {"id":"static:F973B7FF","locale":"jp","text":"jp秘奥"}
 {"id":"static:F97EA3E7","locale":"jp","text":"MI_受取可能"}
-{"id":"static:F9AB6596","locale":"jp","text":"物理防御"}
+{"id":"static:F9AB6596","locale":"jp","text":"物理防御力"}
 {"id":"static:F9B76169","locale":"jp","text":"レアな星雨の果実"}
 {"id":"static:F9CF3914","locale":"jp","text":"エリートモンスター"}
 {"id":"static:FA112B5B","locale":"jp","text":"外見切り替え"}

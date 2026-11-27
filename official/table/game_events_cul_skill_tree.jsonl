@@ -9,7 +9,7 @@
 {"id":"game_events_cul_skill_tree:1309965028352","locale":"jp","text":"一縁一会"}
 {"id":"game_events_cul_skill_tree:1309965028608","locale":"jp","text":"星閃スキルが発動した後、そのたびにチーム全体の星極スキルのダメージが80%増加する（効果時間：15秒）。"}
 {"id":"game_events_cul_skill_tree:1314259995648","locale":"jp","text":"結縁の精進"}
-{"id":"game_events_cul_skill_tree:1314259995904","locale":"jp","text":"縁結びがSに達した後、結縁属性1につき星極チャージの回復速度がさらに0.03%上昇する（スタック可能）。"}
+{"id":"game_events_cul_skill_tree:1314259995904","locale":"jp","text":"縁結びがSに達した後、結縁1につき星極チャージの回復速度がさらに0.03%上昇する（スタック可能）。"}
 {"id":"game_events_cul_skill_tree:1722281888768","locale":"jp","text":"一を見て万を知るⅠ"}
 {"id":"game_events_cul_skill_tree:1722281889024","locale":"jp","text":"EX強度が20%上昇する。"}
 {"id":"game_events_cul_skill_tree:1726576856064","locale":"jp","text":"一を見て万を知るⅡ"}
@@ -70,7 +70,7 @@
 {"id":"game_events_cul_skill_tree:3036541881600","locale":"jp","text":"星響スキルを発動した後、自身の防御貫通が10%上昇する（効果時間：24秒）。"}
 {"id":"game_events_cul_skill_tree:3040836847616","locale":"jp","text":"現在の修行方針が「居合」である。"}
 {"id":"game_events_cul_skill_tree:3040836848640","locale":"jp","text":"溢れる鋒芒Ⅱ"}
-{"id":"game_events_cul_skill_tree:3040836848896","locale":"jp","text":"チャージ攻撃または星極スキルを発動した後、自身の防御貫通が20%上昇する（効果時間：24秒、「溢れる鋒芒I」の効果とスタック可能）。"}
+{"id":"game_events_cul_skill_tree:3040836848896","locale":"jp","text":"チャージ攻撃または星極スキルを発動した後、自身の防御貫通が20%上昇する（効果時間：24秒、「溢れる鋒芒Ⅰ」の効果とスタック可能）。"}
 {"id":"game_events_cul_skill_tree:3045131814912","locale":"jp","text":"現在の修行方針が「居合」である、または「ルビーナ」のサポートレベルが最大である。"}
 {"id":"game_events_cul_skill_tree:3045131815936","locale":"jp","text":"極焔乱舞！星墜閃！"}
 {"id":"game_events_cul_skill_tree:3045131816192","locale":"jp","text":"「源千代」が通常攻撃の最終段、チャージ攻撃、星響スキル、または星極スキルを発動した後、チーム全体の与ダメージが15%増加する（効果時間：24秒、発動方法ごとにスタック可能）。"}
@@ -112,7 +112,7 @@
 {"id":"game_events_cul_skill_tree:3895535340800","locale":"jp","text":"星響スキルがエネミーに命中した後、そのエネミーの被ブレイク効率が15%上昇する（効果時間：24秒）。"}
 {"id":"game_events_cul_skill_tree:3899830306816","locale":"jp","text":"現在の修行方針が「制敵」である。"}
 {"id":"game_events_cul_skill_tree:3899830307840","locale":"jp","text":"破竹の勢いⅡ"}
-{"id":"game_events_cul_skill_tree:3899830308096","locale":"jp","text":"チャージ攻撃または星響スキルがエネミーに命中した後、そのエネミーの被ブレイク効率が30%上昇する（効果時間：24秒、「破竹の勢いI」の効果とスタック可能）。"}
+{"id":"game_events_cul_skill_tree:3899830308096","locale":"jp","text":"チャージ攻撃または星響スキルがエネミーに命中した後、そのエネミーの被ブレイク効率が30%上昇する（効果時間：24秒、「破竹の勢いⅠ」の効果とスタック可能）。"}
 {"id":"game_events_cul_skill_tree:3904125274112","locale":"jp","text":"現在の修行方針が「制敵」である、または「名無し」のサポートレベルが最大である。"}
 {"id":"game_events_cul_skill_tree:3904125275136","locale":"jp","text":"納刀"}
 {"id":"game_events_cul_skill_tree:3904125275392","locale":"jp","text":"「源千代」の攻撃がエネミーに命中した時、そのエネミーがブレイク中の被ダメージが100%増加する（効果時間：24秒）。"}

@@ -15,7 +15,7 @@
 {"id":"common_condition:47287589931008","locale":"jp","text":"{techName}心得レベルが{level}に達すると解放"}
 {"id":"common_condition:47291884898304","locale":"jp","text":"{techType}レベルが{level}に達すると解放"}
 {"id":"common_condition:47296179865600","locale":"jp","text":"ノード「{techType}」を解放"}
-{"id":"common_condition:51707111278592","locale":"jp","text":"農園【{name}】が{level}レベルに到達"}
+{"id":"common_condition:51707111278592","locale":"jp","text":"農園【{name}】がレベル{level}に到達"}
 {"id":"common_condition:51719996180480","locale":"jp","text":"{0}を解放"}
 {"id":"common_condition:51732881082368","locale":"jp","text":"クエスト「{0}」をクリア"}
 {"id":"common_condition:51887499905024","locale":"jp","text":"所持済み"}
@@ -31,12 +31,12 @@
 {"id":"common_condition:56251186677760","locale":"jp","text":"1つの寮にあるすべての家具を解放（課金専用、未定）"}
 {"id":"common_condition:56255481645056","locale":"jp","text":"寮内で1名のキャラクターと交流する"}
 {"id":"common_condition:56259776612352","locale":"jp","text":"注文を300件完了する"}
-{"id":"common_condition:56315611187200","locale":"jp","text":"★{0}で難易度{1}の{2}をクリアする"}
-{"id":"common_condition:56319906154496","locale":"jp","text":"難易度{0}の{1}を{2}回クリアする"}
+{"id":"common_condition:56315611187200","locale":"jp","text":"★{0}で{1} ・難易度{2}をクリアする"}
+{"id":"common_condition:56319906154496","locale":"jp","text":"{0}・難易度{1}を{2}回クリアする"}
 {"id":"common_condition:56324201121792","locale":"jp","text":"指定のデイリー依頼を{0}回クリアする"}
 {"id":"common_condition:56328496089088","locale":"jp","text":"指定のデイリー依頼を★{0}で{1}回クリアする"}
 {"id":"common_condition:56332791056384","locale":"jp","text":"難易度{0}のすべてのデイリー依頼をクリアする"}
-{"id":"common_condition:56337086023680","locale":"jp","text":"★{0}で難易度{1}の{2}をクリアする"}
+{"id":"common_condition:56337086023680","locale":"jp","text":"★{0}で{1} ・難易度{2}をクリアする"}
 {"id":"common_condition:56358560860160","locale":"jp","text":"未解放"}
 {"id":"common_condition:8607114463232","locale":"jp","text":"必要星識レベル {playerlevel}"}
 {"id":"common_condition:8619999365120","locale":"jp","text":"クエスト「{name}」をクリアする"}

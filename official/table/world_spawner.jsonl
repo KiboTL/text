@@ -329,7 +329,7 @@
 {"id":"world_spawner:2233382994176","locale":"jp","text":"ウッデル"}
 {"id":"world_spawner:2237677961472","locale":"jp","text":"バインデスト"}
 {"id":"world_spawner:2276336961847552","locale":"jp","text":"フリスの行商"}
-{"id":"world_spawner:2276341256814848","locale":"jp","text":"立ち止まって辺りを見回している者"}
+{"id":"world_spawner:2276341256814848","locale":"jp","text":"辺りを見回している者"}
 {"id":"world_spawner:2276345551782144","locale":"jp","text":"怪しい行商"}
 {"id":"world_spawner:2276349846749440","locale":"jp","text":"赤蠍団のメンバー"}
 {"id":"world_spawner:2362232012800256","locale":"jp","text":"装飾用のタマゴ"}
@@ -999,7 +999,7 @@
 {"id":"world_spawner:302056459993344","locale":"jp","text":"密猟者"}
 {"id":"world_spawner:302060754960640","locale":"jp","text":"ホルン"}
 {"id":"world_spawner:302065049927936","locale":"jp","text":"ウンディーネ"}
-{"id":"world_spawner:302069344895232","locale":"jp","text":"ホーレンの子分"}
+{"id":"world_spawner:302069344895232","locale":"jp","text":"ホルンの子分"}
 {"id":"world_spawner:302073639862528","locale":"jp","text":"アイオ"}
 {"id":"world_spawner:302077934829824","locale":"jp","text":"ラリー"}
 {"id":"world_spawner:302082229797120","locale":"jp","text":"ラリーの護衛"}
@@ -1077,7 +1077,7 @@
 {"id":"world_spawner:3045226302144768","locale":"jp","text":"農民"}
 {"id":"world_spawner:3045230597112064","locale":"jp","text":"冒険家"}
 {"id":"world_spawner:3045234892079360","locale":"jp","text":"行商"}
-{"id":"world_spawner:3045239187046656","locale":"jp","text":"男主人公"}
+{"id":"world_spawner:3045239187046656","locale":"jp","text":"星臨者"}
 {"id":"world_spawner:3045243482013952","locale":"jp","text":"如夢"}
 {"id":"world_spawner:3045247776981248","locale":"jp","text":"如憶"}
 {"id":"world_spawner:3045252071948544","locale":"jp","text":"佩蘭"}
@@ -1108,7 +1108,7 @@
 {"id":"world_spawner:3045359446130944","locale":"jp","text":"密猟者"}
 {"id":"world_spawner:3045363741098240","locale":"jp","text":"ホルン"}
 {"id":"world_spawner:3045368036065536","locale":"jp","text":"ウンディーネ"}
-{"id":"world_spawner:3045372331032832","locale":"jp","text":"ホーレンの子分"}
+{"id":"world_spawner:3045372331032832","locale":"jp","text":"ホルンの子分"}
 {"id":"world_spawner:3045376626000128","locale":"jp","text":"アイオ"}
 {"id":"world_spawner:3045380920967424","locale":"jp","text":"ラリー"}
 {"id":"world_spawner:3045385215934720","locale":"jp","text":"ラリーの護衛"}

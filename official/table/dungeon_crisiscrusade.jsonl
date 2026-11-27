@@ -1,5 +1,5 @@
 {"id":"dungeon_crisiscrusade:129282810577408","locale":"jp","text":"緊急の懸賞"}
-{"id":"dungeon_crisiscrusade:129282810578176","locale":"jp","text":"推奨レベル：Lv.20"}
+{"id":"dungeon_crisiscrusade:129282810578176","locale":"jp","text":"推奨：Lv.20"}
 {"id":"dungeon_crisiscrusade:129282810580224","locale":"jp","text":"アヒ"}
 {"id":"dungeon_crisiscrusade:129282810580480","locale":"jp","text":"地下遺跡に危険なキボが現れました！突然、そいつらが通りすがりの村民を襲ったんですよ！\nこんなのひどすぎますよ、なんとかしてこらしめてやらなければ！\n約束します、もしこの依頼をやり遂げてくれたら報酬はしっかりお渡しします！"}
 {"id":"dungeon_crisiscrusade:129282810583296","locale":"jp","text":"すべての敵を倒す"}
@@ -29,16 +29,16 @@
 {"id":"dungeon_crisiscrusade:131430294228480","locale":"jp","text":"夜のモルフォーレはまばゆすぎる。目標は確認ずみだ。応援を求む。"}
 {"id":"dungeon_crisiscrusade:131430294231296","locale":"jp","text":"すべての敵を倒す"}
 {"id":"dungeon_crisiscrusade:43383464657408","locale":"jp","text":"うるさすぎる"}
-{"id":"dungeon_crisiscrusade:43383464658176","locale":"jp","text":"推奨レベル：Lv.20"}
+{"id":"dungeon_crisiscrusade:43383464658176","locale":"jp","text":"推奨：Lv.20"}
 {"id":"dungeon_crisiscrusade:43383464660224","locale":"jp","text":"トゥラゴ"}
 {"id":"dungeon_crisiscrusade:43383464660480","locale":"jp","text":"最近、巨樹遺跡近くの野営地に駐屯して周りに異変がないか見張っているんだけど、おかしなことが起きてる。\n遺跡に住んでるキボの生活リズムが乱れてるみたいなんだ！\n昼間は静かなのに、夜になるとめちゃくちゃ暴れ回ってるんだよ。有り余ったエネルギーを発散しまくってるみたいで、うるさくて眠れやしなくて……\nだれでもいい、あいつらをおとなしくさせてよ！"}
 {"id":"dungeon_crisiscrusade:43383464663296","locale":"jp","text":"すべての敵を倒す"}
 {"id":"dungeon_crisiscrusade:43387759624704","locale":"jp","text":"危険な輸送ルート"}
-{"id":"dungeon_crisiscrusade:43387759625472","locale":"jp","text":"推奨レベル：Lv.20"}
+{"id":"dungeon_crisiscrusade:43387759625472","locale":"jp","text":"推奨：Lv.20"}
 {"id":"dungeon_crisiscrusade:43387759627520","locale":"jp","text":"マルティナ"}
 {"id":"dungeon_crisiscrusade:43387759627776","locale":"jp","text":"むこうの遺跡でとてもよさそうなものを見つけたの。無事に持って帰れたなら、村長に研究してもらえるかもしれないわ！\nけれど、行く手にキボたちがいて、無事に持って帰るには、好奇心旺盛すぎるキボを追い払わなきゃいけないわ。\nこの任務はあなたにお願いしたいの。手のかかる連中だからなるべく仲間をたくさん連れていってね。"}
 {"id":"dungeon_crisiscrusade:43387759630592","locale":"jp","text":"すべての敵を倒す"}
-{"id":"dungeon_crisiscrusade:43812961387008","locale":"jp","text":"自然保護のしつけ"}
+{"id":"dungeon_crisiscrusade:43812961387008","locale":"jp","text":"薬草畑を守って"}
 {"id":"dungeon_crisiscrusade:43812961387776","locale":"jp","text":"推奨：Lv.30"}
 {"id":"dungeon_crisiscrusade:43812961389824","locale":"jp","text":"トゥラゴ"}
 {"id":"dungeon_crisiscrusade:43812961390080","locale":"jp","text":"巨樹遺跡あたりの土は肥沃で、植物の生育に適した場所だ。それで豊作を夢見て薬草畑を開墾したんだけど……\nその美しい夢はキボたちのせいで台無しよ。草を食べ、火を噴き、風を起こし、地面を掘り、氷を作って……\nしかも薬草も食べてるから、いつもより元気になってるの。\n私はぜんぜん怒ってなんかないけど。ただ、みっちり懲らしめてくれると嬉しいわ！"}
@@ -198,8 +198,8 @@
 {"id":"dungeon_crisiscrusade:45569603013888","locale":"jp","text":"ロンク"}
 {"id":"dungeon_crisiscrusade:45569603014144","locale":"jp","text":"ハイエルフの森の環境に問題が発生している。\n豊穣の女神の活動範囲が拡大しているため、討伐は慎重に行うこと。目的はルートの復旧であり、騒ぎを大きくすることではない。腕の立つ者を求む。報酬ははずむ。"}
 {"id":"dungeon_crisiscrusade:45569603016960","locale":"jp","text":"すべての敵を倒す"}
-{"id":"dungeon_crisiscrusade:86333137617408","locale":"jp","text":"桟橋が壊れた"}
-{"id":"dungeon_crisiscrusade:86333137618176","locale":"jp","text":"推奨レベル：Lv.20"}
+{"id":"dungeon_crisiscrusade:86333137617408","locale":"jp","text":"桟橋の大ピンチ！"}
+{"id":"dungeon_crisiscrusade:86333137618176","locale":"jp","text":"推奨：Lv.20"}
 {"id":"dungeon_crisiscrusade:86333137620224","locale":"jp","text":"ラニ"}
 {"id":"dungeon_crisiscrusade:86333137620480","locale":"jp","text":"今朝、網を上げて島へ戻ってきたときのことだ。船を寄せようとしたら、船着き場が全部イノシシどもに荒らされていた。\nみんなに迷惑をかけるのは気が引けるが、もしあのキボたちを片付けてくれるなら、今日獲れたての魚をご馳走しよう。"}
 {"id":"dungeon_crisiscrusade:86333137623296","locale":"jp","text":"すべての敵を倒す"}

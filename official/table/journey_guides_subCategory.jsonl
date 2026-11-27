@@ -14,8 +14,8 @@
 {"id":"journey_guides_subCategory:17184164152064","locale":"jp","text":"取引所にアイテムを納品して、輝くコインと交換しよう"}
 {"id":"journey_guides_subCategory:17188459118848","locale":"jp","text":"輝くコインを使用"}
 {"id":"journey_guides_subCategory:17188459119360","locale":"jp","text":"「農園本部」-「煌めく珍品」で、輝くコインを使用して必要な商品を購入しよう"}
-{"id":"journey_guides_subCategory:17192754086144","locale":"jp","text":"採集施設"}
-{"id":"journey_guides_subCategory:17192754086656","locale":"jp","text":"採集施設を建設してキボを配置すると、各種素材を産出できます。また、フィールドで増強施設を建設すると、農園内の採集施設からより多くの素材を産出できるようになります。"}
+{"id":"journey_guides_subCategory:17192754086144","locale":"jp","text":"採集設備"}
+{"id":"journey_guides_subCategory:17192754086656","locale":"jp","text":"採集設備を建設してキボを配置すると、各種素材を産出できます。また、フィールドバフ施設を建設すると、農園内の採集設備からより多くの素材を産出できるようになります。"}
 {"id":"journey_guides_subCategory:17197049053440","locale":"jp","text":"作物の栽培"}
 {"id":"journey_guides_subCategory:17197049053952","locale":"jp","text":"農園で畑を開墾し作物を栽培すると、製作や料理に使用する素材を獲得できます"}
 {"id":"journey_guides_subCategory:17201344020736","locale":"jp","text":"果樹の植え付け"}
@@ -30,7 +30,7 @@
 {"id":"journey_guides_subCategory:17218523890432","locale":"jp","text":"「農園本部」-「煌めく珍品」で、輝くコインを使用してトーテムを購入・アップグレードできます。購入後はステータスを強化できます。"}
 {"id":"journey_guides_subCategory:17222818857216","locale":"jp","text":"各種レシピを解放"}
 {"id":"journey_guides_subCategory:17222818857728","locale":"jp","text":"星識レベルを上げたりしてレシピを解放すると、農園の施設で対応するアイテムを製造できるようになります。"}
-{"id":"journey_guides_subCategory:21479131447552","locale":"jp","text":"キボレベルアップ"}
+{"id":"journey_guides_subCategory:21479131447552","locale":"jp","text":"キボを育てる"}
 {"id":"journey_guides_subCategory:21479131448064","locale":"jp","text":"戦闘、または「キボ」-「エサやり」画面でキボに経験値の果実を与えると経験値を獲得し、キボのレベルと戦闘ステータスを強化できます。"}
 {"id":"journey_guides_subCategory:21483426414848","locale":"jp","text":"キボ因子を育成する"}
 {"id":"journey_guides_subCategory:21483426415360","locale":"jp","text":"「キボ」-「エサやり」画面でキボに因子の実を与えて対応する因子を獲得するか、キボを出撃させて原初の潮を消費しキボの因子変異を発生させることで、キボの戦闘ステータスを強化できます。"}
@@ -53,12 +53,12 @@
 {"id":"journey_guides_subCategory:8594229559552","locale":"jp","text":"キャラクターレベルアップ"}
 {"id":"journey_guides_subCategory:8594229560064","locale":"jp","text":"「キャラクター」-「詳細」-「レベルアップ」機能でキャラクターレベルを上げると、キャラクターのステータスを強化できます"}
 {"id":"journey_guides_subCategory:8598524526848","locale":"jp","text":"アニマレベルアップ"}
-{"id":"journey_guides_subCategory:8598524527360","locale":"jp","text":"「キャラクター」-「装備」画面でアニマを装備してアニマレベルを上げると、キャラクターの属性ボーナスを強化し、アニマ効果を獲得できます"}
+{"id":"journey_guides_subCategory:8598524527360","locale":"jp","text":"「キャラクター」-「装備」画面でアニマを装備してアニマレベルを上げると、キャラクターのステータスが上がり、アニマの効果を獲得できます"}
 {"id":"journey_guides_subCategory:8602819494144","locale":"jp","text":"星祝昇臨度をアップ"}
-{"id":"journey_guides_subCategory:8602819494656","locale":"jp","text":"「キャラクター」-「星祝」画面でキャラクターの星祝レベルを上げると、キャラクターの属性ボーナスを強化し、キャラクタースキルレベルを上げることができます"}
+{"id":"journey_guides_subCategory:8602819494656","locale":"jp","text":"「キャラクター」-「星祝」画面でキャラクターの星祝レベルを上げると、キャラクターのステータスが上がり、キャラクタースキルレベルを上げることができます"}
 {"id":"journey_guides_subCategory:8607114461440","locale":"jp","text":"より強力な装備を獲得"}
-{"id":"journey_guides_subCategory:8607114461952","locale":"jp","text":"「装備品の獲得」や「農園の武器工房」などのコンテンツでより強い装備を獲得すると、装備の属性ボーナスを強化し、装備効果を獲得できます"}
+{"id":"journey_guides_subCategory:8607114461952","locale":"jp","text":"「装備品の獲得」や「農園の武器工房」などのコンテンツでより強い装備を獲得すると、装備のステータスが上がり、装備の効果を獲得できます"}
 {"id":"journey_guides_subCategory:8611409428736","locale":"jp","text":"装備強化"}
-{"id":"journey_guides_subCategory:8611409429248","locale":"jp","text":"「キャラクター」-「装備」-「装備変更」-「強化」機能で装備を強化すると、装備の属性ボーナスを強化できます"}
+{"id":"journey_guides_subCategory:8611409429248","locale":"jp","text":"「キャラクター」-「装備」-「装備変更」-「強化」機能で装備を強化すると、装備のステータスが上がります"}
 {"id":"journey_guides_subCategory:8615704396032","locale":"jp","text":"装備ランクアップ"}
 {"id":"journey_guides_subCategory:8615704396544","locale":"jp","text":"「キャラクター」-「装備」-「装備変更」-「強化」機能で装備をランクアップさせると、装備のオプションを解放できます"}
