@@ -601,7 +601,7 @@
 {"id":"words:-2840109934462522390","en":"Head to Destination","ru":"Направиться к цели"}
 {"id":"words:-2842368359029148788","en":"Sort","ru":"Сортировать"}
 {"id":"words:-2845821987548327194","en":"Unequip All","ru":"Снять всё"}
-{"id":"words:-2857328311570169206","en":"Activate a Starecho Skill and summon a Wood Coffin {0}/{1}","ru":"Активировать Навык звёздного эха и призвать Древесный гроб {0}/{1}"}
+{"id":"words:-2857328311570169206","en":"Activate a Starecho Skill and summon a Wooden Coffin {0}/{1}","ru":"Активировать Навык звёздного эха и призвать Деревянный гроб {0}/{1}"}
 {"id":"words:-2859025535825889329","en":"Voice pack download complete. Use {language}?","ru":"Загрузка голосового пакета завершена. Использовать {language}?"}
 {"id":"words:-2861011201339349251","en":"Paused","ru":"Пауза"}
 {"id":"words:-2862636067254255887","en":"Unlock Premium","ru":"Открыть премиум"}
@@ -1968,7 +1968,7 @@
 {"id":"words:-7051532905267733712","en":"Kibo's growth requirements are not met.","ru":"Условия развития кибо не выполнены."}
 {"id":"words:-7052174124163167667","en":"No phone number entered.","ru":"Номер телефона не введён."}
 {"id":"words:-7052943943607882395","en":"Type","ru":"Тип"}
-{"id":"words:-705449905659181397","en":"While the Wood Coffin is on the field, trigger Normal Attacks up to the 4th hit to strengthen the Wood Coffin by 1 stage {0}/{1}","ru":"Пока Древесный гроб находится на поле, выполните Обычные атаки до 4-го удара, чтобы усилить Древесный гроб на 1 ступень {0}/{1}"}
+{"id":"words:-705449905659181397","en":"While the Wooden Coffin is on the field, trigger Normal Attacks up to the 4th hit to strengthen the Wooden Coffin by 1 stage {0}/{1}","ru":"Пока Деревянный гроб находится на поле, выполните Обычные атаки до 4-го удара, чтобы усилить Деревянный гроб на 1 ступень {0}/{1}"}
 {"id":"words:-7055525970769493479","en":"Remove Kibo","ru":"Убрать кибо"}
 {"id":"words:-7062367225823074365","en":"Prefix","ru":"Префикс"}
 {"id":"words:-7069344923891884541","en":"Activate stage 2 of the enhanced skill {0}/{1}","ru":"Активируйте ступень 2 усиленного навыка {0}/{1}"}
@@ -2662,7 +2662,7 @@
 {"id":"words:-9172845317709117467","en":"View Player Details","ru":"Просмотреть данные игрока"}
 {"id":"words:-9173249250154575260","en":"Tracked Target","ru":"Отслеживаемая цель"}
 {"id":"words:-9176447389518794950","en":"Move to Equipment","ru":"Перейти к снаряжению"}
-{"id":"words:-9178477750930899288","en":"Activate a Starecho Skill to summon Wood Coffin: Initial Form {0}/{1}","ru":"Активируйте навык звёздного эха, чтобы призвать древесный гроб: начальная форма {0}/{1}"}
+{"id":"words:-9178477750930899288","en":"Activate a Starecho Skill to summon Wooden Coffin: Initial Form {0}/{1}","ru":"Активируйте навык звёздного эха, чтобы призвать деревянный гроб: начальная форма {0}/{1}"}
 {"id":"words:-9183291323385591679","en":"Single","ru":"Одиночный"}
 {"id":"words:-9183923426459488275","en":"The ground has the NotWalkable flag set.","ru":"На земле установлен флаг NotWalkable."}
 {"id":"words:-9188099398147438137","en":"Some Elemental Particles have reached their limit. Claim them anyway?\nThe overflow will be lost.","ru":"Некоторые элементарные частицы достигли предела. Всё равно получить их?\nИзбыток будет утрачен."}
@@ -5357,7 +5357,7 @@
 {"id":"words:92211415519565065","en":"Defend the Center","ru":"Защищайте центр"}
 {"id":"words:9221947915414902622","en":"Current Target HP: {0}","ru":"Текущее целевое здоровье: {0}"}
 {"id":"words:930008757778867430","en":"You cannot start the challenge in your current state.","ru":"В текущем состоянии начать испытание нельзя."}
-{"id":"words:931857235025609389","en":"Activate the Starpolar Skill to summon the Wood Coffin again. {0}/{1}","ru":"Активируйте звёзднополярный навык, чтобы вновь призвать древесный гроб. {0}/{1}"}
+{"id":"words:931857235025609389","en":"Activate the Starpolar Skill to summon the Wooden Coffin again. {0}/{1}","ru":"Активируйте звёзднополярный навык, чтобы вновь призвать деревянный гроб. {0}/{1}"}
 {"id":"words:937431875539741976","en":"Earnable by completing consecutive quests","ru":"Получается за выполнение серии заданий"}
 {"id":"words:937482158529914189","en":"There are no more opponents in explored areas.","ru":"В исследованных областях больше нет противников."}
 {"id":"words:947734288486307037","en":"All set. Let the Expedition begin!","ru":"Всё готово. Начнём поход!"}

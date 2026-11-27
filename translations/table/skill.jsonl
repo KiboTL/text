@@ -1352,7 +1352,7 @@
 {"id":"skill:2177690152994048","en":"Thunderlight Sweep","ru":"Громовой размах"}
 {"id":"skill:2177694447961344","en":"Hyper Plasma Cannon","ru":"Гиперплазменная пушка"}
 {"id":"skill:2177724512732416","en":"Thunder Summon","ru":"Призыв грома"}
-{"id":"skill:2177728807699712","en":"3Chain Lightning Strike","ru":"3Серия ударов молнии"}
+{"id":"skill:2177728807699712","en":"Triple Lightning Strike","ru":"Тройной удар молнии"}
 {"id":"skill:2177733102667008","en":"Thunderstorm","ru":"Гроза"}
 {"id":"skill:2177737397634304","en":"Thunderclap of Ten Thousand Might","ru":"Раскат грома десяти тысяч сил"}
 {"id":"skill:2177767462405376","en":"Lightning Spear","ru":"Громовое копьё"}
@@ -1374,7 +1374,7 @@
 {"id":"skill:2181847681336576","en":"Radiant Orb","ru":"Сияющая сфера"}
 {"id":"skill:21818485403288832","en":"Light Body Rapid Fire","ru":"Скорострельный световой снаряд"}
 {"id":"skill:21818489698256128","en":"Light Body Pursuit","ru":"Преследование светового снаряда"}
-{"id":"skill:2181851976303872","en":"Radiance Brilliant","ru":"Ослепительное сияние"}
+{"id":"skill:2181851976303872","en":"Brilliant Radiance","ru":"Ослепительное сияние"}
 {"id":"skill:2181856271271168","en":"Gleam Volley","ru":"Залп сияния"}
 {"id":"skill:2181860566238464","en":"Descending Light","ru":"Нисходящий свет"}
 {"id":"skill:2181864861205760","en":"Gleam Slash","ru":"Сияющий разрез"}
@@ -1385,7 +1385,7 @@
 {"id":"skill:2181950760551680","en":"Light Spear Array","ru":"Строй световых копий"}
 {"id":"skill:2181955055518976","en":"Radiant Whirlwind","ru":"Сияющий вихрь"}
 {"id":"skill:2181963645453568","en":"Homing Light Body","ru":"Самонаводящееся световое тело"}
-{"id":"skill:2181967940420864","en":"Charge Glow Star","ru":"Заряженная звезда сияния"}
+{"id":"skill:2181967940420864","en":"Charged Radiant Star","ru":"Заряженная сияющая звезда"}
 {"id":"skill:2181972235388160","en":"Ban - Boss","ru":"Ban - Босс"}
 {"id":"skill:2181989415257344","en":"Radiance Strike","ru":"Сияющий удар"}
 {"id":"skill:2182062429701376","en":"Penetrating Laser","ru":"Проникающий лазер"}
@@ -1420,7 +1420,7 @@
 {"id":"skill:2186219958043904","en":"Ghostfire Burst","ru":"Вспышка призрачного огня"}
 {"id":"skill:2186224253011200","en":"Dark Star","ru":"Тёмная звезда"}
 {"id":"skill:2186228547978496","en":"Charged Dark Star","ru":"Заряженная тёмная звезда"}
-{"id":"skill:2186232842945792","en":"Comet Cannonball","ru":"Кометы ядро"}
+{"id":"skill:2186232842945792","en":"Comet Cannonball","ru":"Ядро кометы"}
 {"id":"skill:2186237137913088","en":"Dark Star Shatter","ru":"Раскол тёмной звезды"}
 {"id":"skill:2186241432880384","en":"Starbloom Scatter Shot","ru":"Рассеянный звёздный залп"}
 {"id":"skill:2186245727847680","en":"Star Single-Polar Cannon","ru":"Однополярная звёздная пушка"}
@@ -2473,11 +2473,11 @@
 {"id":"skill:43383722354935040","en":"Passive Skill - Energy Recovery","ru":"Пассивный навык — восстановление энергии"}
 {"id":"skill:43383726649902336","en":"Undying Jade Light","ru":"Неугасимый свет нефрита"}
 {"id":"skill:43383730944869632","en":"Passive Skill2","ru":"Пассивный навык2"}
-{"id":"skill:43385186938782976","en":"Annhilate Soul","ru":"Аннигиляция души"}
-{"id":"skill:43385191233750272","en":"Annhilate Soul","ru":"Аннигиляция души"}
-{"id":"skill:43385195528717568","en":"Annhilate Soul","ru":"Аннигиляция души"}
-{"id":"skill:43385199823684864","en":"Annhilate Soul","ru":"Аннигиляция души"}
-{"id":"skill:43385204118652160","en":"Annhilate Soul","ru":"Аннигиляция души"}
+{"id":"skill:43385186938782976","en":"Annihilate Soul","ru":"Аннигиляция души"}
+{"id":"skill:43385191233750272","en":"Annihilate Soul","ru":"Аннигиляция души"}
+{"id":"skill:43385195528717568","en":"Annihilate Soul","ru":"Аннигиляция души"}
+{"id":"skill:43385199823684864","en":"Annihilate Soul","ru":"Аннигиляция души"}
+{"id":"skill:43385204118652160","en":"Annihilate Soul","ru":"Аннигиляция души"}
 {"id":"skill:43385225593488640","en":"Skill2 - Charged Attack","ru":"Навык 2 — заряженная атака"}
 {"id":"skill:43385229888455936","en":"Plunging Attack","ru":"Атака в падении"}
 {"id":"skill:43385234183423232","en":"Frozen Coffin","ru":"Морозный гроб"}
