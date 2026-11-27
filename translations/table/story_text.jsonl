@@ -561,7 +561,7 @@
 {"id":"story_text:129540126362567424","en":"Diletta","ru":"Дилетта"}
 {"id":"story_text:129540126362567680","en":"Thank you. I'll treasure it always!","ru":"Спасибо. Я буду беречь их всегда!"}
 {"id":"story_text:129540130657534720","en":"Sophia","ru":"София"}
-{"id":"story_text:129540130657534976","en":"That's right, I must thank this little guide and {playerName}you as well.","ru":"Точно, нужно ещё поблагодарить этого маленького гида и {playerName}тебя."}
+{"id":"story_text:129540130657534976","en":"That's right, I must thank this little guide and you too, {playerName}.","ru":"Точно, нужно ещё поблагодарить этого маленького гида и тебя, {playerName}."}
 {"id":"story_text:129540134952502016","en":"Mokyun","ru":"Мокюн"}
 {"id":"story_text:129540134952502272","en":"Mokyun!","ru":"Мокюн!"}
 {"id":"story_text:129540139247469312","en":"Sophia","ru":"София"}
@@ -865,7 +865,7 @@
 {"id":"story_text:129839910784860928","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:129839910784861184","en":"Polly, calm down. Let's investigate a bit more before we act.\nThat boy just said he's very scary, too.","ru":"Полли, успокойся. Давай сначала ещё немного разузнаем, прежде чем действовать.\nТот мальчик ведь тоже сказал, что он очень страшный человек."}
 {"id":"story_text:129839915079828224","en":"Polly","ru":"Полли"}
-{"id":"story_text:129839915079828480","en":"{playerName}...I'm going to talk to him right now!\nI can't let this cruelty go on!","ru":"{playerName}...Я пойду поговорю с ним прямо сейчас!\nЯ не могу пройти мимо такой жестокости!"}
+{"id":"story_text:129839915079828480","en":"{playerName}... I'm going to talk to him right now!\nI can't let this cruelty go on!","ru":"{playerName}... Я пойду поговорю с ним прямо сейчас!\nЯ не могу пройти мимо такой жестокости!"}
 {"id":"story_text:129839919374795520","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:129839919374795776","en":"Wait...!","ru":"Подожди...!"}
 {"id":"story_text:129840301626884864","en":"Polly","ru":"Полли"}
@@ -1504,7 +1504,7 @@
 {"id":"story_text:130186497465778944","en":"Han Youyou","ru":"Хань Юю"}
 {"id":"story_text:130186497465779200","en":"Anyway, that's this matter wrapped up!","ru":"Как бы то ни было, дело закрыто!"}
 {"id":"story_text:130186501760746240","en":"Han Youyou","ru":"Хань Юю"}
-{"id":"story_text:130186501760746496","en":"Hey,{playerName} if something this fun happens again, call me next time too!","ru":"Слушай,{playerName} если снова случится что-то настолько весёлое, зови меня в следующий раз!"}
+{"id":"story_text:130186501760746496","en":"Hey, {playerName}, if something this fun happens again, call me next time too!","ru":"Слушай, {playerName}, если снова случится что-то настолько весёлое, зови меня в следующий раз!"}
 {"id":"story_text:130610389263057664","en":"Lilika","ru":"Лилика"}
 {"id":"story_text:130610389263057920","en":"Ugh... what should I do...","ru":"Угх... что же делать..."}
 {"id":"story_text:130610393558024960","en":"{playerName}","ru":"{playerName}"}
@@ -1785,7 +1785,7 @@
 {"id":"story_text:130739255461806848","en":"？？？","ru":"？？？"}
 {"id":"story_text:130739255461807104","en":"Kuuu! Uuu!!!","ru":"Кууу! Ууу!!!"}
 {"id":"story_text:130739259756774144","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
-{"id":"story_text:130739259756774400","en":"{playerName}!I'm gonna get mad, you know!","ru":"{playerName}!Я же рассержусь, знаешь ли!"}
+{"id":"story_text:130739259756774400","en":"{playerName}! I'm gonna get mad, you know!","ru":"{playerName}! Я же рассержусь, знаешь ли!"}
 {"id":"story_text:130739264051741440","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
 {"id":"story_text:130739264051741696","en":"Hurry and give me the Peach Blossom Cake! Today you have to play with me all day,\nand at the end take me to Meimei House,\nor I won't forgive you!","ru":"Скорее доставай Персиковый пирог! Сегодня ты весь день должен(на) со мной играть,\nа в конце отвести меня в Дом Мэймэй,\nили я не прощу!"}
 {"id":"story_text:130739264051742208","en":"You're late, and yet...","ru":"Ты опоздала, и при этом..."}
@@ -3196,7 +3196,7 @@
 {"id":"story_text:130783918826717952","en":"Nono","ru":"Ноно"}
 {"id":"story_text:130783918826718208","en":"Tiffy's right.","ru":"Тиффи права."}
 {"id":"story_text:130783923121685248","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_text:130783923121685504","en":"So then...{playerName}Starborn, do you have any good ideas?","ru":"Итак...{playerName}Звездорождённый, у тебя есть хорошая идея?"}
+{"id":"story_text:130783923121685504","en":"So then, {playerName}, do you have any good ideas?","ru":"Итак, {playerName}, есть какие-нибудь идеи?"}
 {"id":"story_text:130783927416652544","en":"Lumi","ru":"Луми"}
 {"id":"story_text:130783927416652800","en":"My nose is all stuffed up!","ru":"У меня нос заложен!"}
 {"id":"story_text:130783927416653312","en":"Should we search from the plains?","ru":"Может, поискать с равнины?"}
@@ -3623,7 +3623,7 @@
 {"id":"story_text:131257649424499456","en":"Matilda","ru":"Матильда"}
 {"id":"story_text:131257649424499712","en":"Oh my, I never expected to run into you here, {playerName}.\nI heard music from outside and came to see... and isn't this Lindeanna's Kibo!?","ru":"Ох, не ожидала встретить вас здесь, {playerName}.\nУслышала музыку снаружи и пришла посмотреть... а это же кибо Линдеанны!?"}
 {"id":"story_text:131257653719466752","en":"Lulu","ru":"Лулу"}
-{"id":"story_text:131257653719467008","en":"Yes, actually, I found it over by the wine cellar.\nSince you were also curious about why this little one came to Fleece, {playerName}I thought I'd bring you here.","ru":"Да, вообще-то я нашла его возле винного погреба.\nРаз уж вы тоже хотели узнать, зачем этот малыш пришёл во Флис,{playerName}я решила вас проводить."}
+{"id":"story_text:131257653719467008","en":"Yes, actually, I found it over by the wine cellar.\nI thought I'd bring you here, {playerName}, since you were also curious about why this little one came to Fleece.","ru":"Да, вообще-то я нашла его возле винного погреба.\nЯ решила привести вас сюда, {playerName}, ведь вы тоже хотели узнать, зачем этот малыш пришёл во Флис."}
 {"id":"story_text:131257658014434048","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:131257658014434304","en":"Popo said something like... this Flogure believes it's a 'piece of mail,'\nand it thinks it needs to be 'delivered' to a recipient...","ru":"Попо сказал, что... этот флогур считает себя «почтовым отправлением»\nи думает, будто его нужно «доставить» получателю..."}
 {"id":"story_text:131257662309401344","en":"Matilda","ru":"Матильда"}
@@ -5647,7 +5647,7 @@
 {"id":"story_text:172322295598023424","en":"Large Kibo","ru":"Большой кибо"}
 {"id":"story_text:172322295598023680","en":"Gao!","ru":"Гао!"}
 {"id":"story_text:172322299892990720","en":"Shalle","ru":"Шалль"}
-{"id":"story_text:172322299892990976","en":"{playerName}...my lord!","ru":"{playerName}...господин!"}
+{"id":"story_text:172322299892990976","en":"{playerName}-sama!","ru":"{playerName}-сама!"}
 {"id":"story_text:172322304187958016","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:172322304187958272","en":"Shalle, get out of the way!","ru":"Шалль, отойди!"}
 {"id":"story_text:172322308482925312","en":"Shalle","ru":"Шалль"}
@@ -5846,7 +5846,7 @@
 {"id":"story_text:172325370794607360","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:172325370794607616","en":"Aren't you going to eat?","ru":"Ты не будешь есть?"}
 {"id":"story_text:172325375089574656","en":"Shalle","ru":"Шалль"}
-{"id":"story_text:172325375089574912","en":"I'm, um...{playerName}waiting for you to eat first,\n","ru":"Я, эм...{playerName}жду, когда вы первым попробуете,\n"}
+{"id":"story_text:172325375089574912","en":"I'm, um... waiting for you to try it first, {playerName}.\n","ru":"Я, эм... жду, пока вы попробуете раньше меня, {playerName}.\n"}
 {"id":"story_text:172325379384541952","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:172325379384542208","en":"I was waiting too, you know.|I was waiting too, you know.","ru":"Я тоже ждал, знаешь ли.|Я тоже ждала, знаешь ли."}
 {"id":"story_text:172325383679509248","en":"Shalle","ru":"Шалль"}
@@ -6303,9 +6303,9 @@
 {"id":"story_text:189068871301334528","en":"Distract Luruka.","ru":"Отвлечь Луруку."}
 {"id":"story_text:189068871301335040","en":"Drink the medicine in Abby's place.","ru":"Выпить лекарство вместо Эбби."}
 {"id":"story_text:189068875596301056","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:189068875596301312","en":"{playerName}...What's the matter? You're flailing your arms and legs about.\nIf you're feeling unwell, I can give you some medicine.","ru":"{playerName}...Что случилось? Вы так размахиваете руками и ногами.\nЕсли вам нехорошо, я дам вам лекарство."}
+{"id":"story_text:189068875596301312","en":"{playerName}... What's the matter? You're flailing your arms and legs about.\nIf you're feeling unwell, I can give you some medicine.","ru":"{playerName}... Что случилось? Вы так размахиваете руками и ногами.\nЕсли вам нехорошо, я дам вам лекарство."}
 {"id":"story_text:189068879891268352","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:189068879891268608","en":"{playerName}...You're staring so intently at the medicinal dish.\nCould it be you want some?\nBut this was prepared for Abby.","ru":"{playerName}...Вы так пристально смотрите на лечебное блюдо.\nНеужели вы его хотите?\nНо оно приготовлено для Эбби."}
+{"id":"story_text:189068879891268608","en":"{playerName}... You're staring so intently at the medicinal dish.\nCould it be you want some?\nBut this was prepared for Abby.","ru":"{playerName}... Вы так пристально смотрите на лечебное блюдо.\nНеужели вы его хотите?\nНо оно приготовлено для Эбби."}
 {"id":"story_text:189068884186235648","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:189068884186235904","en":"Sorry, Abby. It didn't work.","ru":"Прости, Эбби. Не получилось."}
 {"id":"story_text:189068888481202944","en":"Abby","ru":"Эбби"}
@@ -7106,7 +7106,7 @@
 {"id":"story_text:189108737187775232","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
 {"id":"story_text:189108737187775488","en":"S-so what! They were offerings to the Immortal Fox anyway!\nBesides, I'm going to be an Immortal Fox myself someday.","ru":"Н-ну и что! Они ведь всё равно были подношением Бессмертной лисе!\nК тому же я и сама когда-нибудь стану Бессмертной лисой."}
 {"id":"story_text:189108741482742528","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
-{"id":"story_text:189108741482742784","en":"Oh, you...{playerName}\nDon't interrupt me—let me finish the story!","ru":"Ох ты ж...{playerName}\nНе перебивай, дай досказать!"}
+{"id":"story_text:189108741482742784","en":"Oh, {playerName}...\nDon't interrupt me—let me finish the story!","ru":"Ох, {playerName}...\nНе перебивай, дай досказать!"}
 {"id":"story_text:189108745777709824","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
 {"id":"story_text:189108745777710080","en":"And then, over the next few Shuo, every time she came to pray in the peach grove,\nI'd snuggle up beside her... and eventually we became friends.","ru":"А потом, за несколько шо, каждый раз, когда она приходила молиться в персиковую рощу,\nя прижималась к ней... и в конце концов мы подружились."}
 {"id":"story_text:189108750072677120","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
@@ -7666,7 +7666,7 @@
 {"id":"story_text:189116438064136960","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:189116438064137216","en":"Guo Xiaobao!","ru":"Го Сяобао!"}
 {"id":"story_text:189116442359104256","en":"Guo Xiaobao","ru":"Го Сяобао"}
-{"id":"story_text:189116442359104512","en":"Huh?{playerName}Oh, it's you!\nWhat are you doing here?","ru":"А?{playerName}А, это ты!\nЧто ты здесь делаешь?"}
+{"id":"story_text:189116442359104512","en":"Huh? If it isn't {playerName}!\nWhat are you doing here?","ru":"Ой, {playerName}!\nЧто ты здесь делаешь?"}
 {"id":"story_text:189116446654071552","en":"Guo Xiaobao","ru":"Го Сяобао"}
 {"id":"story_text:189116446654071808","en":"Ha, sorry.\nDid I wake you up?","ru":"Ха, прости.\nЯ тебя разбудил?"}
 {"id":"story_text:189116450949038848","en":"{playerName}","ru":"{playerName}"}
@@ -9454,7 +9454,7 @@
 {"id":"story_text:262426809637798656","en":"Faridah","ru":"Фарида"}
 {"id":"story_text:262426809637798912","en":"But to become the Grand Master of Sprout Valley,\n you must defeat me.","ru":"Но чтобы стать Гранд-мастером Долины Ростков,\n тебе придётся победить меня."}
 {"id":"story_text:262426813932765952","en":"Faridah","ru":"Фарида"}
-{"id":"story_text:262426813932766208","en":"{playerName}Are you ready to fight?","ru":"{playerName}Ты готов к бою?"}
+{"id":"story_text:262426813932766208","en":"{playerName}, are you ready to fight?","ru":"{playerName}, ты готов к бою?"}
 {"id":"story_text:262426818227733248","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:262426818227733504","en":"I'm ready!","ru":"Я готов!"}
 {"id":"story_text:262426822522700544","en":"Faridah","ru":"Фарида"}
@@ -9516,7 +9516,7 @@
 {"id":"story_text:262466331926856448","en":"Shiroro","ru":"Сироро"}
 {"id":"story_text:262466331926856704","en":"The reason I said that is...","ru":"Я сказал это потому, что..."}
 {"id":"story_text:262466336221823744","en":"Shiroro","ru":"Сироро"}
-{"id":"story_text:262466336221824000","en":"Becoming «the strongest» isn't easy, after all.\n I want {playerName}to reach the top, but\n I worry that pride might get the better of you and you'll take a fall...","ru":"Стать «сильнейшим» всё-таки непросто.\n Я хочу, чтобы {playerName}добрались до вершины, но\n боюсь, как бы гордыня не сыграла с вами злую шутку и вы не упали..."}
+{"id":"story_text:262466336221824000","en":"Becoming «the strongest» isn't easy, after all.\nI want you to reach the top, {playerName}, but\nI worry that pride might get the better of you and you'll take a fall...","ru":"Стать «сильнейшим» всё-таки непросто.\nЯ хочу, чтобы вы добрались до вершины, {playerName}, но\nбоюсь, как бы гордыня не сыграла с вами злую шутку и вы не упали..."}
 {"id":"story_text:262466340516791040","en":"Shiroro","ru":"Сироро"}
 {"id":"story_text:262466340516791296","en":"A-anyway, I believe you can do it for sure!\n And I look forward to seeing your passion for fights\n set all of Fleece ablaze!","ru":"В-в общем, я верю, что у вас обязательно получится!\n И я с нетерпением жду, как ваша страсть к боям\n зажжёт весь Флис!"}
 {"id":"story_text:262466744243716864","en":"Shalle","ru":"Шалль"}
@@ -9590,9 +9590,9 @@
 {"id":"story_text:262468475115537152","en":"Komugi","ru":"Комуги"}
 {"id":"story_text:262468475115537408","en":"So many people were inspired by your enthusiasm and joined in,\nthat I gradually started thinking maybe this title actually does suit you after all...","ru":"Столько людей вдохновились твоим энтузиазмом и присоединились,\nчто я постепенно начала думать, что этот титул, может, и вправду тебе подходит..."}
 {"id":"story_text:262468479410504448","en":"Komugi","ru":"Комуги"}
-{"id":"story_text:262468479410504704","en":"But {playerName}don't worry.\nIf you beat me from now on, you'll get a new title!","ru":"Но {playerName}не волнуйся.\nЕсли победишь меня, получишь новый титул!"}
+{"id":"story_text:262468479410504704","en":"But don't worry, {playerName}.\nIf you beat me from now on, you'll get a new title!","ru":"Но не волнуйся, {playerName}.\nЕсли победишь меня, получишь новый титул!"}
 {"id":"story_text:262468891727364864","en":"Komugi","ru":"Комуги"}
-{"id":"story_text:262468891727365120","en":"Amazing! {playerName}You've already walked quite a long way down\nthe road to becoming the strongest.","ru":"Потрясающе! {playerName}Ты уже прошёл немалый путь\nк тому, чтобы стать сильнейшим."}
+{"id":"story_text:262468891727365120","en":"Amazing! {playerName}, you've already walked quite a long way down\nthe road to becoming the strongest.","ru":"Потрясающе! {playerName}, ты уже прошёл немалый путь\nк тому, чтобы стать сильнейшим."}
 {"id":"story_text:262468896022332160","en":"Komugi","ru":"Комуги"}
 {"id":"story_text:262468896022332416","en":"I'm sure becoming the strongest in Fleece is only a matter of time for you!","ru":"Уверена, стать сильнейшим во Флисе для тебя — лишь вопрос времени!"}
 {"id":"story_text:262468900317299456","en":"Komugi","ru":"Комуги"}
@@ -9614,7 +9614,7 @@
 {"id":"story_text:262469325519061760","en":"Maple","ru":"Мейпл"}
 {"id":"story_text:262469325519062016","en":"You're sooo humble, meow. And you're about to become the strongest in Fleece.","ru":"Ты тако-о-ой скромный, мяу. А ведь скоро станешь сильнейшим во Флисе."}
 {"id":"story_text:262469329814029056","en":"Maple","ru":"Мейпл"}
-{"id":"story_text:262469329814029312","en":"Did you know,\n? On the way here, so many fighters {playerName}were inspired by your passion, meow!","ru":"Знаешь,\n? Пока ты шёл сюда, столько бойцов {playerName}вдохновились твоей страстью, мяу!"}
+{"id":"story_text:262469329814029312","en":"Did you know?\nOn the way here, so many fighters were inspired by your passion, {playerName}, meow!","ru":"Знаешь?\nПока ты шёл сюда, столько бойцов вдохновились твоим энтузиазмом, {playerName}, мяу!"}
 {"id":"story_text:262469334108996352","en":"Maple","ru":"Мейпл"}
 {"id":"story_text:262469334108996608","en":"I feel like even Maple's idol aura is about to lose out...","ru":"Мне кажется, даже айдол-аура Мейпл вот-вот проиграет..."}
 {"id":"story_text:262469338403963648","en":"Maple","ru":"Мейпл"}
@@ -9784,7 +9784,7 @@
 {"id":"story_text:300690703342633728","en":"Nono","ru":"Ноно"}
 {"id":"story_text:300690703342633984","en":"If one try fails, try again.","ru":"Если не вышло с одного раза, пробуй ещё раз."}
 {"id":"story_text:300690707637601024","en":"Nono","ru":"Ноно"}
-{"id":"story_text:300690707637601280","en":"The treasure that comes out, {playerName}we split evenly.","ru":"Сокровище, что появится, {playerName}поделим поровну."}
+{"id":"story_text:300690707637601280","en":"We'll split any treasure we find evenly, {playerName}.","ru":"Всё сокровище, которое найдём, поделим поровну, {playerName}."}
 {"id":"story_text:300690711932568320","en":"Nono","ru":"Ноно"}
 {"id":"story_text:300690711932568576","en":"Because we're treasure-hunting partners.","ru":"Потому что мы напарники в поисках сокровищ."}
 {"id":"story_text:300690716227535872","en":"Nono wears her usual expressionless face.\nBut the intimidating presence radiating from her eyes was enough to make the Chishiki tremble.","ru":"Ноно сохраняет своё обычное бесстрастное лицо.\nНо исходящее из её глаз устрашающее давление заставило даже Тисики задрожать."}
@@ -11570,7 +11570,7 @@
 {"id":"story_text:307176125434430464","en":"Ah, you're right. A shooting star...","ru":"А, точно. Падающая звезда..."}
 {"id":"story_text:307176125434430976","en":"I gotta make a wish too!|I gotta make a wish too!","ru":"Мне тоже надо загадать желание!|Мне тоже надо загадать желание!"}
 {"id":"story_text:307176129729397504","en":"Nono","ru":"Ноно"}
-{"id":"story_text:307176129729397760","en":"Hm......{playerName}your request...... Nono will help too......","ru":"М-м...... {playerName}твоя просьба...... Ноно тоже поможет..."}
+{"id":"story_text:307176129729397760","en":"Hmm... {playerName}'s request... Nono will help too...","ru":"М-м... {playerName}, твоя просьба... Ноно тоже поможет..."}
 {"id":"story_text:307176134024364800","en":"Nono","ru":"Ноно"}
 {"id":"story_text:307176134024365056","en":"The Pammy's voice beside you fades, turning into drowsiness.\nDon't worry. The time to explore together and grant wishes will go on and on from here.","ru":"Голос памми рядом стихает, сменяясь дремотой.\nНе волнуйся. Время исследовать вместе и исполнять желания будет длиться и дальше."}
 {"id":"story_text:307261960355840768","en":"Ruby","ru":"Руби"}
@@ -17061,7 +17061,7 @@
 {"id":"story_text:43384134671794944","en":"Tinana","ru":"Тинана"}
 {"id":"story_text:43384134671795200","en":"Have a safe trip!\nMay Sozanka bless you.","ru":"Счастливого пути!\nДа хранит тебя Содзанка."}
 {"id":"story_text:43384138966762240","en":"Terara","ru":"Терара"}
-{"id":"story_text:43384138966762496","en":"That's just what I wanted to hear!\nOh, right, we're going to look for{playerName} our friends who got separated.\nUm, there was one with little ears and one who's tall, and...?","ru":"Вот и славно!\nАх да, мы собираемся искать{playerName} наших друзей, с которыми разминулись.\nЭ-э, там был кто-то с маленькими ушами и кто-то высокий, и...?"}
+{"id":"story_text:43384138966762496","en":"That's just what I wanted to hear!\nOh, right, we're going to look for your missing friends, {playerName}.\nUm, there was one with little ears and one who's tall, and...?","ru":"Вот и славно!\nАх да, мы собираемся искать твоих пропавших друзей, {playerName}.\nЭ-э, там был кто-то с маленькими ушами и кто-то высокий, и...?"}
 {"id":"story_text:43384143261729536","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43384143261729792","en":"One with long ears and a little girl. And there's a blue dragon too.\nI think they all fell somewhere in the valley...","ru":"Один с длинными ушами и маленькая девочка. А ещё есть синий дракон.\nДумаю, все они упали куда-то в долине..."}
 {"id":"story_text:43384147556696832","en":"Terara","ru":"Терара"}
@@ -17185,7 +17185,7 @@
 {"id":"story_text:43386075997012736","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43386075997012992","en":"But Ur is supposed to be wary of strangers...","ru":"Но разве Ур не должен быть осторожным с чужаками..."}
 {"id":"story_text:43386080291980032","en":"Terara","ru":"Терара"}
-{"id":"story_text:43386080291980288","en":"He is, but...\nUr was the one who found{playerName}that day, so maybe you two just get along!","ru":"Так-то оно так...\nно ведь Ур нашёл{playerName}в тот день, так что, может, вы просто поладили!"}
+{"id":"story_text:43386080291980288","en":"He is, but...\nUr was the one who found you that day, {playerName}, so maybe you two just get along!","ru":"Так-то оно так...\nНо ведь в тот день тебя нашёл именно Ур, {playerName}. Может, вы просто поладили!"}
 {"id":"story_text:43386084586947328","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43386084586947584","en":"Thank you, Ur.","ru":"Спасибо, Ур."}
 {"id":"story_text:43386093176881920","en":"Ur","ru":"Ур"}
@@ -17249,7 +17249,7 @@
 {"id":"story_text:43386582803153664","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43386582803153920","en":"Each of them was a great hero who led the civilization of their era forward.","ru":"Каждый из них был великим героем, который вёл вперёд цивилизацию своей эпохи."}
 {"id":"story_text:43386587098120960","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43386587098121216","en":"And according to the Great Sage's Prophecy, the 8th Starborn is the one who will bring rebirth and hope to this world—\nand that is {playerName}standing before you right now!","ru":"А согласно Пророчеству Великого мудреца, 8-й Звездорождённый — тот, кто принесёт в этот мир возрождение и надежду,\nи это {playerName}стоит сейчас перед вами!"}
+{"id":"story_text:43386587098121216","en":"And according to the Great Sage's Prophecy, the 8th Starborn is the one who will bring rebirth and hope to this world—\nand that is {playerName}, standing before you right now!","ru":"А согласно Пророчеству Великого мудреца, 8-й Звездорождённый — тот, кто принесёт в этот мир возрождение и надежду.\nИ вот {playerName}, прямо перед вами!"}
 {"id":"story_text:43386591393088256","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43386591393088512","en":"Amazing...","ru":"Потрясающе..."}
 {"id":"story_text:43386595688055552","en":"Terara","ru":"Терара"}
@@ -17264,7 +17264,7 @@
 {"id":"story_text:43386608572957440","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43386608572957696","en":"I see...|I see...","ru":"Вот оно что...|Вот оно что..."}
 {"id":"story_text:43386612867924736","en":"Terara","ru":"Терара"}
-{"id":"story_text:43386612867924992","en":"Then let's head to the Statue of the Great Wolf!\nThat's where I found{playerName}you. If they fell with us, they might be nearby!","ru":"Тогда давайте пойдём к Статуе Великого волка!\nТам я нашла{playerName}тебя. Если они упали вместе с нами, они могут быть поблизости!"}
+{"id":"story_text:43386612867924992","en":"Then let's head to the Statue of the Great Wolf!\nThat's where I found you, {playerName}. If they fell with us, they might be nearby!","ru":"Тогда давайте пойдём к Статуе Великого волка!\nТам я тебя и нашла, {playerName}. Если они упали вместе с нами, они могут быть поблизости!"}
 {"id":"story_text:43386617162892032","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43386617162892288","en":"Yeah yeah, that's exactly right.\nAfter we fell, I was frantic chasing after you two, so I had no time to go back and look...","ru":"Ага-ага, всё именно так.\nПосле падения я изо всех сил бросилась за вами и не успела вернуться на поиски..."}
 {"id":"story_text:43386621457859328","en":"Ur","ru":"Ур"}
@@ -22363,7 +22363,7 @@
 {"id":"story_text:43462646673965824","en":"Rational Winged Elder","ru":"Рассудительный крылатый старейшина"}
 {"id":"story_text:43462646673966080","en":"Indeed, you speak the truth.","ru":"Воистину так."}
 {"id":"story_text:43462650968933120","en":"Faridah","ru":"Фарида"}
-{"id":"story_text:43462650968933376","en":"Then tell us, esteemed Yekuu,{playerName}why do you seek our aid?","ru":"Тогда скажи нам, досточтимый Йекуу,{playerName}почему ты ищешь нашей помощи?"}
+{"id":"story_text:43462650968933376","en":"Then tell us, esteemed Yekuu {playerName}. Why do you seek our aid?","ru":"Тогда скажи нам, досточтимый Йекуу {playerName}, зачем ты просишь нас о помощи?"}
 {"id":"story_text:43462650968933888","en":"Because I care about everyone.","ru":"Потому что вы все мне дороги."}
 {"id":"story_text:43462650968934400","en":"I want to be a hero.|I want to be a hero.","ru":"Я хочу стать героем.|Я хочу стать героиней."}
 {"id":"story_text:43462650968934912","en":"Because I hate Dire Beasts.","ru":"Потому что я ненавижу Лютых зверей."}
@@ -24438,7 +24438,7 @@
 {"id":"story_text:43503801050596096","en":"？？？","ru":"？？？"}
 {"id":"story_text:43503801050596352","en":"A new era has arrived...\nYet still, no one has ever wished for the true sky.","ru":"Новая эпоха наступила...\nНо до сих пор никто не пожелал истинного неба."}
 {"id":"story_text:43503805345563392","en":"？？？","ru":"？？？"}
-{"id":"story_text:43503805345563648","en":"{playerName}...I shall remember that name.","ru":"{playerName}...Я запомню это имя."}
+{"id":"story_text:43503805345563648","en":"{playerName}... I shall remember that name.","ru":"{playerName}... Я запомню это имя."}
 {"id":"story_text:43503809640530688","en":"？？？","ru":"？？？"}
 {"id":"story_text:43503809640530944","en":"If the radiance of your Karma has poured down from the highest heavens...\nthen this encounter is no coincidence.","ru":"Если сияние твоей Кармы излилось с высочайших небес...\nто эта встреча не случайна."}
 {"id":"story_text:43503813935497984","en":"？？？","ru":"？？？"}
@@ -26233,7 +26233,7 @@
 {"id":"story_text:43540909568033536","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43540909568033792","en":"Village Chief, do you mean that a Starborn visited this village a hundred years ago as well?","ru":"Староста, вы хотите сказать, что Звездорождённый приходил в эту деревню и сто лет назад?"}
 {"id":"story_text:43540913863000832","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43540913863001088","en":"Is that the friend you mentioned before,{playerName}the one who's so much like...?","ru":"Это тот друг, о котором вы говорили раньше,{playerName}тот, что так похож на...?"}
+{"id":"story_text:43540913863001088","en":"Is that the friend you mentioned before, the one who's so much like {playerName}?","ru":"Это тот друг, о котором вы говорили раньше, тот, что так похож на {playerName}?"}
 {"id":"story_text:43540918157968128","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540918157968384","en":"Indeed.","ru":"Именно."}
 {"id":"story_text:43540922452935424","en":"Lumi","ru":"Луми"}
@@ -26971,7 +26971,7 @@
 {"id":"story_text:43568655056765696","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43568655056765952","en":"Honestly...","ru":"Вот же..."}
 {"id":"story_text:43568659351732992","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43568659351733248","en":"Hehe, {playerName}I think what you mean is surely...\nthe one from when we fought before—","ru":"Хе-хе, {playerName}думаю, ты хочешь сказать, что...\nто, что мы делали в прошлый раз, когда сражались, —"}
+{"id":"story_text:43568659351733248","en":"Hehe, {playerName}, I think you mean...\nthe one from when we fought before—","ru":"Хе-хе, {playerName}, думаю, ты имеешь в виду...\nто, что мы делали в прошлый раз, когда сражались, —"}
 {"id":"story_text:43568663646700288","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43568663646700544","en":"Ah, the defenses and tools we made back then...","ru":"Ах, защитные укрепления и снаряды, что мы сделали тогда..."}
 {"id":"story_text:43568667941667584","en":"{playerName}","ru":"{playerName}"}
@@ -28894,7 +28894,7 @@
 {"id":"story_text:43626190438662912","en":"Faridah","ru":"Фарида"}
 {"id":"story_text:43626190438663168","en":"Warriors! Support Yekuu and clear the way!","ru":"Воины! Прикройте Йекуу и расчистите путь!"}
 {"id":"story_text:43626194733630208","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43626194733630464","en":"Let's go!{playerName}!","ru":"Вперёд!{playerName}!"}
+{"id":"story_text:43626194733630464","en":"Let's go, {playerName}!","ru":"Вперёд, {playerName}!"}
 {"id":"story_text:43626199028597504","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43626199028597760","en":"Haaaah!!","ru":"Хаааа!!"}
 {"id":"story_text:43626203323564800","en":"Luruka","ru":"Лурука"}
@@ -31816,7 +31816,7 @@
 {"id":"story_text:43819846219072256","en":"Nanacha","ru":"Нанача"}
 {"id":"story_text:43819846219072512","en":"Is this your first time in Fleece, everyone?\nDo you wish to meet the Lord?","ru":"Вы впервые во Флисе, господа?\nЖелаете встретиться с лордом?"}
 {"id":"story_text:43819850514039552","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43819850514039808","en":"Ugh...{playerName}I'll leave this to you!","ru":"Эх...{playerName}Оставляю это вам!"}
+{"id":"story_text:43819850514039808","en":"Ugh... {playerName}! I'll leave this to you!","ru":"Эх... {playerName}! Оставляю это вам!"}
 {"id":"story_text:43819850514040320","en":"We have business with the Lord...","ru":"У нас дело к лорду..."}
 {"id":"story_text:43819850514040832","en":"My friends and I are merchants...|We are merchants...","ru":"Мы с companions — торговцы...|Мы торговцы..."}
 {"id":"story_text:43819854809006848","en":"Cathbelle","ru":"Кэтбелль"}
@@ -31882,7 +31882,7 @@
 {"id":"story_text:43821130414293760","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43821130414294016","en":"Mmm! So sweet! This is the taste of happiness, it is!","ru":"У-у! Как сладко! Вот он, вкус счастья!"}
 {"id":"story_text:43821134709261056","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43821134709261312","en":"{playerName}You should try some too!","ru":"{playerName}Ты тоже попробуй!"}
+{"id":"story_text:43821134709261312","en":"{playerName}, you should try some too!","ru":"{playerName}, ты тоже попробуй!"}
 {"id":"story_text:43821139004228352","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43821139004228608","en":"Okay... munch!","ru":"Ладно... хрум!"}
 {"id":"story_text:43821143299195648","en":"{playerName}","ru":"{playerName}"}
@@ -32062,7 +32062,7 @@
 {"id":"story_text:43822685192454912","en":"Lord Helwen","ru":"Лорд Хелвен"}
 {"id":"story_text:43822685192455168","en":"At that time, you may come with me.\nThere, all the truth should come to light as well.","ru":"Тогда можете пойти со мной.\nТам должна раскрыться и вся правда."}
 {"id":"story_text:43822689487422208","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43822689487422464","en":"{playerName}What do you think...?","ru":"{playerName}А вы как считаете...?"}
+{"id":"story_text:43822689487422464","en":"{playerName}, what do you think...?","ru":"{playerName}, а вы как считаете...?"}
 {"id":"story_text:43822689487422976","en":"Wait until the Goldwheat Festival ends.","ru":"Подождать, пока закончится Праздник золотой пшеницы."}
 {"id":"story_text:43822689487423488","en":"Find another way to get close to Aeolian.","ru":"Найти другой способ приблизиться к Эолиану."}
 {"id":"story_text:43822693782389504","en":"Lord Helwen","ru":"Лорд Хелвен"}
@@ -32595,7 +32595,7 @@
 {"id":"story_text:43825034539565824","en":"Jeff","ru":"Джефф"}
 {"id":"story_text:43825034539566080","en":"Shell, you say?\nWe don't do bartering here, so payment must be in Yuni.","ru":"Ракушка, говорите?\nМы не ведём обмен товарами, так что оплата только в юни."}
 {"id":"story_text:43825038834533120","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43825038834533376","en":"Allow me to cover this.{playerName}You've only just left Sprout Valley,\nso naturally you wouldn't have any Yuni.","ru":"Позвольте мне заплатить.{playerName}Вы ведь только что покинули Долину Ростков,\nтак что юни у вас, разумеется, нет."}
+{"id":"story_text:43825038834533376","en":"Allow me to cover this. {playerName}, you've only just left Sprout Valley,\nso naturally you wouldn't have any Yuni.","ru":"Позвольте мне заплатить. Вы ведь только что покинули Долину Ростков, {playerName},\nтак что юни у вас, разумеется, нет."}
 {"id":"story_text:43825038834533888","en":"I don't want to be a freeloader!","ru":"Я не хочу быть нахлебником!"}
 {"id":"story_text:43825038834534400","en":"I want to make Abby happy!|I want to make Abby happy!","ru":"Я хочу, чтобы Эбби была счастлива!|Я хочу, чтобы Эбби была счастлива!"}
 {"id":"story_text:43825047424467712","en":"Lumi","ru":"Луми"}
@@ -33124,7 +33124,7 @@
 {"id":"story_text:43831172047831808","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43831172047832064","en":"Yes, leave it to me.","ru":"Да, предоставьте это мне."}
 {"id":"story_text:43831176342799104","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43831176342799360","en":"No, no! Lumi-sama is coming on an adventure with {playerName}you too~!\nI just can't stop wondering what's become of that ghost village down below!","ru":"Не хочу, не хочу! Луми-сама тоже идёт с {playerName}тобой в приключение~!\nМне просто не терпится узнать, что стало с той деревней призраков внизу!"}
+{"id":"story_text:43831176342799360","en":"No, no! Lumi-sama is coming on an adventure with you too, {playerName}~!\nI just can't stop wondering what's become of that ghost village down below!","ru":"Не хочу, не хочу! Луми-сама тоже идёт с тобой в приключение, {playerName}~!\nМне просто не терпится узнать, что стало с той деревней призраков внизу!"}
 {"id":"story_text:43831180637766400","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43831180637766656","en":"Lumi… Honestly, there's no helping you.","ru":"Луми… Честное слово, с тобой сладу нет."}
 {"id":"story_text:43831184932733696","en":"Lumi","ru":"Луми"}
@@ -33895,7 +33895,7 @@
 {"id":"story_text:43843116351881984","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43843116351882240","en":"Just now, when I joined the two halves of the jade bracelet, I saw Xiangzi's memories...|Just now, when I joined the two halves of the jade bracelet, I saw your memories...","ru":"Только что, когда я соединил две половинки нефритового браслета, я увидел воспоминания Сянцзы...|Только что, когда я соединила две половинки нефритового браслета, я увидела твои воспоминания..."}
 {"id":"story_text:43843120646849280","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
-{"id":"story_text:43843120646849536","en":"You saw memories?\n{playerName}Wait, could it be that you're a practitioner of the immortal arts?\nYou might be even more amazing than me!","ru":"Ты увидел воспоминания?\n{playerName}Погоди, ты, часом, не владеешь искусством бессмертных?\nТы, может, даже круче меня!"}
+{"id":"story_text:43843120646849536","en":"You saw memories?\nWait, {playerName}, could it be that you're a practitioner of the immortal arts?\nYou might be even more amazing than me!","ru":"Ты увидел воспоминания?\nПогоди, {playerName}, ты, часом, не владеешь искусством бессмертных?\nТы, может, даже круче меня!"}
 {"id":"story_text:43843459949265664","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
 {"id":"story_text:43843459949265920","en":"Impossible...","ru":"Не может быть..."}
 {"id":"story_text:43843464244232960","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
@@ -34063,11 +34063,11 @@
 {"id":"story_text:43846913102971648","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43846913102971904","en":"Xiangzi... are you okay?","ru":"Сянцзы… ты в порядке?"}
 {"id":"story_text:43846917397938944","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
-{"id":"story_text:43846917397939200","en":"{playerName}Sir...\nDid you come to save me?","ru":"{playerName}Господин...\nНеужели вы пришли меня спасти?"}
+{"id":"story_text:43846917397939200","en":"Lord {playerName}...\nDid you come to save me?","ru":"Господин {playerName}...\nНеужели вы пришли меня спасти?"}
 {"id":"story_text:43846921692906240","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43846921692906496","en":"...Sir?","ru":"…Господин?"}
 {"id":"story_text:43846925987873536","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
-{"id":"story_text:43846925987873792","en":"Ohh... Not only did you recover the jade bracelet,\nbut you saved me when I was in danger...\n{playerName}Sir, you are my life's savior!","ru":"У-у… Вы не только вернули нефритовый браслет,\nно и спасли меня в опасный момент…\n{playerName}Господин, вы мой спаситель!"}
+{"id":"story_text:43846925987873792","en":"Ohh... Not only did you recover the jade bracelet,\nbut you saved me when I was in danger...\nLord {playerName}, you saved my life!","ru":"У-у… Вы не только вернули нефритовый браслет,\nно и спасли меня в опасный момент…\nГосподин {playerName}, вы спасли мне жизнь!"}
 {"id":"story_text:43846930282840832","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43846930282841088","en":"You're exaggerating.\nI wonder why the Kibo attacked you...?","ru":"Ты преувеличиваешь.\nИнтересно, почему на тебя напали кибо…?"}
 {"id":"story_text:43846934577808128","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
@@ -34505,7 +34505,7 @@
 {"id":"story_text:43849953939817472","en":"Sigh, understood...\nNo matter what I say, you'll charge right in without hesitation anyway...","ru":"Эх, понятно...\nЧто бы я ни говорила, вы всё равно без колебаний броситесь вперёд..."}
 {"id":"story_text:43849958234784512","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43849958234784768","en":"But from now on, please put your own safety first!\nIs that clear?","ru":"Но с этого момента ставьте свою безопасность превыше всего!\nВам ясно?"}
-{"id":"story_text:43849962529751808","en":"{playerName}& Lumi","ru":"{playerName} и Луми"}
+{"id":"story_text:43849962529751808","en":"{playerName} & Lumi","ru":"{playerName} и Луми"}
 {"id":"story_text:43849962529752064","en":"Okaaay.","ru":"Хорошо-о."}
 {"id":"story_text:43849966824719104","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43849966824719360","en":"And this person here is...","ru":"И ещё, эта особа..."}
@@ -34838,7 +34838,7 @@
 {"id":"story_text:43851311149482752","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43851311149483008","en":"Lumi, the Lord has done a great deal for us.\nWe should repay him to the best of our ability.","ru":"Луми, Лорд сделал для нас очень многое.\nМы должны отблагодарить его, насколько в наших силах."}
 {"id":"story_text:43851315444450048","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43851315444450304","en":"I have no objections.\n{playerName}What about you?","ru":"Я не против.\n{playerName}А вы как?"}
+{"id":"story_text:43851315444450304","en":"I have no objections.\nWhat about you, {playerName}?","ru":"Я не против.\nА вы как, {playerName}?"}
 {"id":"story_text:43851315444450816","en":"I'm fine with it too.|I'm fine with it too.","ru":"Я тоже не против.|Я тоже не против."}
 {"id":"story_text:43851315444451328","en":"I'm against it, actually.|I'm against it, actually.","ru":"Я, пожалуй, против.|Я, пожалуй, против."}
 {"id":"story_text:43851319739417344","en":"Komugi","ru":"Комуги"}
@@ -34848,7 +34848,7 @@
 {"id":"story_text:43851328329351936","en":"Cathbelle","ru":"Кэтбелль"}
 {"id":"story_text:43851328329352192","en":"If needed, after I escort the Lord to Harvest Hall,\nI will return at once. Please, leave it to me.","ru":"Если потребуется, после того как я провожу Лорда в Зал урожая,\nя сразу же вернусь. Прошу, положитесь на меня."}
 {"id":"story_text:43851332624319232","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43851332624319488","en":"{playerName}While patrolling the city, we can also check on the Evolution Cult's movements,\nso I really think we should...","ru":"{playerName}Во время обхода города мы сможем также проверить, чем занимается Культ эволюции,\nтак что я всё же считаю, что нам стоит..."}
+{"id":"story_text:43851332624319488","en":"{playerName}, while patrolling the city, we can also check on the Evolution Cult's movements,\nso I really think we should...","ru":"{playerName}, во время обхода города мы сможем также проверить, чем занимается Культ эволюции,\nтак что я всё же считаю, что нам стоит..."}
 {"id":"story_text:43851336919286528","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43851336919286784","en":"Yeah, you're right... Let's all go together after all.","ru":"Да, ты права... Давайте всё-таки пойдём все вместе."}
 {"id":"story_text:43851341214253824","en":"Lord Helwen","ru":"Лорд Хелвен"}
@@ -35016,7 +35016,7 @@
 {"id":"story_text:43852934647120640","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43852934647120896","en":"That... I don't know either.\nMy mission is only to escort you there safely.","ru":"Это... я и сама не знаю.\nМоя задача — лишь благополучно доставить вас туда."}
 {"id":"story_text:43852938942087936","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43852938942088192","en":"You surely have a more important role awaiting you,{playerName}-sama.\nThe elders are probably making plans with the future in mind.","ru":"У вас наверняка есть более важная миссия,{playerName}-сама.\nСтарейшины, должно быть, строят планы, заглядывая далеко вперёд."}
+{"id":"story_text:43852938942088192","en":"You surely have a more important role awaiting you, {playerName}-sama.\nThe elders are probably making plans with the future in mind.","ru":"У вас наверняка есть более важная миссия, {playerName}-сама.\nСтарейшины, должно быть, строят планы, заглядывая далеко вперёд."}
 {"id":"story_text:43852943237055232","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43852943237055488","en":"After my escort duty is done,\nI may be given a new assignment and sent somewhere far away I've never been...","ru":"Когда моя миссия сопровождения закончится,\nмне могут поручить новое задание и отправить в далёкие незнакомые места..."}
 {"id":"story_text:43852947532022528","en":"Symphoria","ru":"Симфория"}
@@ -35031,7 +35031,7 @@
 {"id":"story_text:43852960416924416","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43852960416924672","en":"Huh? Chiffon, are you blushing?","ru":"Ой? Шифон, ты что, покраснела?"}
 {"id":"story_text:43852964711891712","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43852964711891968","en":"N-not at all!\nIt's just that{playerName}-sama, I never expected you to say something like that to me,\nso...","ru":"Н-ничего подобного!\nПросто я... я и не думала,{playerName}что ты, -сама, скажешь мне такое,\nвот и всё."}
+{"id":"story_text:43852964711891968","en":"N-not at all!\nIt's just that I never expected you to say something like that to me, {playerName}-sama,\nso...","ru":"Н-ничего подобного!\nПросто я... не ожидала, что вы скажете мне такое, {playerName}-сама,\nвот и всё."}
 {"id":"story_text:43852969006859008","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43852969006859264","en":"I was surprised, but it made me very happy...\nI promise I'll never let you down while I'm by your side.","ru":"Я удивилась, но мне было очень приятно...\nОбещаю, пока я рядом с вами, я вас ни за что не подведу."}
 {"id":"story_text:43852973301826304","en":"{playerName}","ru":"{playerName}"}
@@ -35049,9 +35049,9 @@
 {"id":"story_text:43852999071630080","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43852999071630336","en":"And that's precisely why it's so important to take breathers like this\nand enjoy the journey to the fullest, isn't it?","ru":"И именно поэтому так важно время от времени переводить дух\nи сполна наслаждаться путешествием, верно?"}
 {"id":"story_text:43853003366597376","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43853003366597632","en":"Perhaps I should treasure this moment more—\nthis time I get to spend with{playerName}-sama\nright now.","ru":"Возможно, мне стоит сильнее ценить именно этот миг —\nвремя, которое я могу провести{playerName}с вами, -сама,\nпрямо сейчас."}
+{"id":"story_text:43853003366597632","en":"Perhaps I should treasure this moment more—\nthis time I get to spend with {playerName}-sama\nright now.","ru":"Может, мне стоит больше ценить этот миг, {playerName}-сама,\nведь я могу побыть рядом с вами\nпрямо сейчас."}
 {"id":"story_text:43853338374046464","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43853338374046720","en":"Oh,{playerName}look over there!","ru":"Ах,{playerName}смотри туда!"}
+{"id":"story_text:43853338374046720","en":"Oh, {playerName}! Look over there!","ru":"Ах, {playerName}! Смотри туда!"}
 {"id":"story_text:43853342669013760","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43853342669014016","en":"They're acting all sneaky. Looks like a suspicious person...","ru":"Кто-то там крадётся. Похоже на подозрительного типа..."}
 {"id":"story_text:43853342669014528","en":"Maybe they're afraid of heights?","ru":"Может, боится высоты?"}
@@ -35643,7 +35643,7 @@
 {"id":"story_text:43858956191269632","en":"Morwyn","ru":"Морвин"}
 {"id":"story_text:43858956191269888","en":"To recreate an Avalian specialty using only the ingredients Shalle remembered...\n You have quite a talent for cooking, for a human.","ru":"Воссоздать авалианское фирменное блюдо, используя лишь ингредиенты, которые запомнила Шалль...\n Для человека у тебя неплохой кулинарный талант."}
 {"id":"story_text:43858960486236928","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43858960486237184","en":"Hmph!{playerName} This is nothing compared to what is still to come!\n Go on, show these two even more of your skill!","ru":"Хм!{playerName} Это ещё далеко не всё, на что ты способен!\n Давай, покажи этим двоим, на что ещё ты годишься!"}
+{"id":"story_text:43858960486237184","en":"Hmph! {playerName} can do a lot more than that!\nGo on, show these two even more of your skill!","ru":"Хм! {playerName}, это ещё далеко не всё, на что ты способен!\nДавай, покажи этим двоим, что ещё умеешь!"}
 {"id":"story_text:43858964781204224","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43858964781204480","en":"{playerName}, what shall we do next?","ru":"{playerName}, что будем делать дальше?"}
 {"id":"story_text:43858969076171520","en":"{playerName}","ru":"{playerName}"}
@@ -35991,7 +35991,7 @@
 {"id":"story_text:43862821661836032","en":"Morwyn","ru":"Морвин"}
 {"id":"story_text:43862821661836288","en":"To think you actually pulled it off...","ru":"Надо же, ты и правда справился(ась)..."}
 {"id":"story_text:43862825956803328","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43862825956803584","en":"Didn't I tell you?\n{playerName}is no ordinary person—there's nothing they can't do!","ru":"Разве я не говорил(а)?\n{playerName} не простой человек — для этого(й) нет ничего невозможного!"}
+{"id":"story_text:43862825956803584","en":"Didn't I tell you?\n{playerName} is no ordinary person—there's nothing they can't do!","ru":"Я же говорила!\n{playerName} — человек необыкновенный. Всё по плечу!"}
 {"id":"story_text:43862830251770624","en":"Morwyn","ru":"Морвин"}
 {"id":"story_text:43862830251770880","en":"……","ru":"……"}
 {"id":"story_text:43862834546737920","en":"{playerName}","ru":"{playerName}"}
@@ -36025,7 +36025,7 @@
 {"id":"story_text:43862894676280064","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43862894676280320","en":"Well...\nI think it'd be nice if you became friends with Symphoria.","ru":"Ну...\nДумаю, было бы здорово, если бы ты подружилась с Симфорией."}
 {"id":"story_text:43862898971247360","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43862898971247616","en":"{playerName}My... that's...","ru":"{playerName}Господин... это..."}
+{"id":"story_text:43862898971247616","en":"{playerName}-sama... That's...","ru":"{playerName}-сама... Это..."}
 {"id":"story_text:43862903266214656","en":"Morwyn","ru":"Морвин"}
 {"id":"story_text:43862903266214912","en":"Friends...? That is your wish?","ru":"Друзья...? Это и есть твоё желание?"}
 {"id":"story_text:43862907561181952","en":"{playerName}","ru":"{playerName}"}
@@ -36063,7 +36063,7 @@
 {"id":"story_text:43862971985691392","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43862971985691648","en":"Thank Ren.\nMorwyn, please accept my apology.","ru":"Спасибо Рену.\nМорвин, прошу, прими мои извинения."}
 {"id":"story_text:43862976280658688","en":"Morwyn","ru":"Морвин"}
-{"id":"story_text:43862976280658944","en":"{playerName}...You truly are an extraordinary human.\nHow about we share dinner to commemorate today?","ru":"{playerName}...Ты и правда необычный человек.\nМожет, отпразднуем сегодняшний день совместным ужином?"}
+{"id":"story_text:43862976280658944","en":"{playerName}... You truly are an extraordinary human.\nHow about we share dinner to commemorate today?","ru":"{playerName}... Ты и правда необычный человек.\nМожет, отпразднуем сегодняшний день совместным ужином?"}
 {"id":"story_text:43862980575625984","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43862980575626240","en":"Of course. We're comrades now.","ru":"Конечно. Теперь мы союзники."}
 {"id":"story_text:43862984870593280","en":"Morwyn","ru":"Морвин"}
@@ -36188,7 +36188,7 @@
 {"id":"story_text:43863435842159360","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43863435842159616","en":"And I thought I'd misjudged you. You just show your true colors like that, don't you?\n{playerName} is not merchandise!","ru":"А я-то думала, что ошиблась в тебе. Ты так быстро показываешь своё истинное лицо.\n{playerName} — не товар!"}
 {"id":"story_text:43863440137126656","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43863440137126912","en":"That's right!{playerName}'s worth can't be measured in money!","ru":"Верно!{playerName} нельзя оценить деньгами!"}
+{"id":"story_text:43863440137126912","en":"That's right! {playerName}'s worth can't be measured in money!","ru":"Верно! {playerName} нельзя оценить деньгами!"}
 {"id":"story_text:43863444432093952","en":"Shalle","ru":"Шалль"}
 {"id":"story_text:43863444432094208","en":"Shouldn't we hear what they have to say?\nForcing them isn't right.","ru":"Разве мы не должны выслушать самого человека?\nПринуждать нехорошо."}
 {"id":"story_text:43863448727061248","en":"Symphoria","ru":"Симфория"}
@@ -36263,7 +36263,7 @@
 {"id":"story_text:43864157396665088","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43864157396665344","en":"It's Komugi and the others!","ru":"Это Комуги и остальные!"}
 {"id":"story_text:43864161691632384","en":"Terara","ru":"Терара"}
-{"id":"story_text:43864161691632640","en":"Hey!{playerName}!","ru":"Эй!{playerName}!"}
+{"id":"story_text:43864161691632640","en":"Hey! {playerName}!","ru":"Эй! {playerName}!"}
 {"id":"story_text:43864165986599680","en":"Terara","ru":"Терара"}
 {"id":"story_text:43864165986599936","en":"What a huge noise!\nEveryone in town is saying an airship crashed!\nSo I hurried over to help!","ru":"Какой страшный грохот!\nВесь город говорит, что воздушный корабль рухнул!\nЯ сразу примчалась на помощь!"}
 {"id":"story_text:43864170281566976","en":"Anais","ru":"Анаис"}
@@ -36385,7 +36385,7 @@
 {"id":"story_text:43866803096519424","en":"Komugi","ru":"Комуги"}
 {"id":"story_text:43866803096519680","en":"Everyone... let's head back to the Lord's Manor for now.\nThere's no point in standing here glaring at each other.\nI have to report the situation to Grandmother.","ru":"Все... давайте пока вернёмся в усадьбу лорда.\nНет смысла стоять здесь и сверлить друг друга взглядами.\nМне нужно доложить обо всём бабушке."}
 {"id":"story_text:43866807391486720","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43866807391486976","en":"You're leaving already?\nI can't stand letting them say whatever they want like this.\nCome on,{playerName}. You say something to them too!","ru":"Уже уходите?\nНевыносимо слушать, как они говорят что вздумается.\nНу же,{playerName}. Скажи им тоже что-нибудь!"}
+{"id":"story_text:43866807391486976","en":"You're leaving already?\nI can't stand letting them say whatever they want like this.\nCome on, {playerName}. You say something to them too!","ru":"Уже уходите?\nНевыносимо слушать, как они говорят что вздумается.\nНу же, {playerName}. Скажи им тоже что-нибудь!"}
 {"id":"story_text:43866807391487488","en":"Let's do as Komugi says.","ru":"Давайте сделаем, как говорит Комуги."}
 {"id":"story_text:43866807391488000","en":"I think I saw it too.|I think I saw it too.","ru":"Кажется, я тоже это видела.|Кажется, я тоже это видел."}
 {"id":"story_text:43866811686454016","en":"{playerName}","ru":"{playerName}"}
@@ -37101,7 +37101,7 @@
 {"id":"story_text:43873438820991744","en":"Komugi","ru":"Комуги"}
 {"id":"story_text:43873438820992000","en":"But even if it's still just speculation for now,\nI have to tell Grandmother about this!","ru":"Но даже если сейчас это пока только догадки,\nя должна рассказать об этом бабушке!"}
 {"id":"story_text:43873443115959040","en":"Symphoria","ru":"Симфория"}
-{"id":"story_text:43873443115959296","en":"Yes,{playerName}, let's go too!","ru":"Да,{playerName}, пойдём и мы!"}
+{"id":"story_text:43873443115959296","en":"Yes, {playerName}, let's go too!","ru":"Да, {playerName}, пойдём и мы!"}
 {"id":"story_text:43873524720337664","en":"Terara","ru":"Терара"}
 {"id":"story_text:43873524720337920","en":"Ugh... I'm starving...\nAre you done talking? When do we eat?","ru":"Уу... есть хочу...\nВы уже договорили? Когда едим?"}
 {"id":"story_text:43873529015304960","en":"Lumi","ru":"Луми"}
@@ -37324,7 +37324,7 @@
 {"id":"story_text:43876127470519040","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43876127470519296","en":"Yeah, the misunderstanding's cleared up now, so it's fine.","ru":"Да, недоразумение уже разрешилось, так что всё в порядке."}
 {"id":"story_text:43876131765486336","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43876131765486592","en":"Ooh~{playerName}Looks like you cleaned everything up!\nThe famous ghost hunter wasn't any help at all, huh?","ru":"О-о~{playerName}Похоже, ты со всем разобрался!\nА знаменитый охотник на призраков совсем не пригодился, да?"}
+{"id":"story_text:43876131765486592","en":"Ooh~ Looks like you cleaned everything up, {playerName}!\nThe famous ghost hunter wasn't any help at all, huh?","ru":"О-о~ Похоже, ты со всем разобрался, {playerName}!\nА знаменитый охотник на призраков совсем не пригодился, да?"}
 {"id":"story_text:43876136060453632","en":"Han Youyou","ru":"Хань Юю"}
 {"id":"story_text:43876136060453888","en":"Kuh! I just wasn't mentally prepared earlier, that's all...","ru":"Кх! Просто раньше я была не готова морально, вот и всё..."}
 {"id":"story_text:43876140355420928","en":"Han Youyou","ru":"Хань Юю"}
@@ -37386,7 +37386,7 @@
 {"id":"story_text:43877411665740544","en":"Morwyn","ru":"Морвин"}
 {"id":"story_text:43877411665740800","en":"If the Imperial Knight's words are true,\nwe need to make our preparations quickly as well.","ru":"Если слова рыцаря Империи верны,\nнам тоже нужно поскорее всё подготовить."}
 {"id":"story_text:43901871504491264","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43901871504491520","en":"Another trap!{playerName}!I'll smash this cage to pieces!","ru":"Опять ловушка!{playerName}!Я разобью эту клетку вдребезги!"}
+{"id":"story_text:43901871504491520","en":"Another trap! {playerName}! I'll smash this cage to pieces!","ru":"Опять ловушка! {playerName}! Я разобью эту клетку вдребезги!"}
 {"id":"story_text:44368738744533760","en":"Han Youyou","ru":"Хань Юю"}
 {"id":"story_text:44368738744534016","en":"You just waltz right in without a care, huh?","ru":"Ты, я смотрю, заходишь без раздумий?"}
 {"id":"story_text:44368743039501056","en":"Han Youyou","ru":"Хань Юю"}
@@ -38004,7 +38004,7 @@
 {"id":"story_text:85993452948423680","en":"My... grilled meat!","ru":"Моё... жареное мясо!"}
 {"id":"story_text:85993457243390976","en":"Thud!","ru":"Бум!"}
 {"id":"story_text:85993461538358016","en":"Terara","ru":"Терара"}
-{"id":"story_text:85993461538358272","en":"Ow...{playerName}! Punching me while I'm asleep is a dirty trick!","ru":"Ой...{playerName}! Бить спящего — это нечестно!"}
+{"id":"story_text:85993461538358272","en":"Ow... {playerName}! Punching me while I'm asleep is a dirty trick!","ru":"Ой... {playerName}! Бить спящего — это нечестно!"}
 {"id":"story_text:85993465833325312","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:85993465833325568","en":"I didn't. You just stumbled in your sleep.","ru":"Я этого не делал. Ты просто споткнулась во сне."}
 {"id":"story_text:85993470128292608","en":"Terara","ru":"Терара"}
@@ -38129,7 +38129,7 @@
 {"id":"story_text:86802581837316864","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:86802581837317120","en":"Hm? S-something's... my head...","ru":"А? Ч-что-то... голова..."}
 {"id":"story_text:86802586132284160","en":"？？？","ru":"？？？"}
-{"id":"story_text:86802586132284416","en":"Coo coo coo!{playerName}! How dare you do that, coo!","ru":"Ко-ко-ко!{playerName}! Как ты посмел, ко-ко!"}
+{"id":"story_text:86802586132284416","en":"Coo coo coo! {playerName}! How dare you do that, coo!","ru":"Ко-ко-ко! {playerName}! Как ты посмел, ко-ко!"}
 {"id":"story_text:86802590427251456","en":"？？？","ru":"？？？"}
 {"id":"story_text:86802590427251712","en":"As punishment—I'll turn you into a Cabbird, coo!","ru":"В наказание—я превращу тебя в капустокрыла, ко-ко!"}
 {"id":"story_text:86802594722218752","en":"{playerName}","ru":"{playerName}"}
@@ -38257,7 +38257,7 @@
 {"id":"story_text:86806052170892288","en":"Sc-scary Zhujin, coo! R-run, coo!","ru":"С-страшный Чжуцзинь, ко-ко! Б-бежим, ко-ко!"}
 {"id":"story_text:86806056465859584","en":"Wham!","ru":"Бум!"}
 {"id":"story_text:86806447307883264","en":"Terara","ru":"Терара"}
-{"id":"story_text:86806447307883520","en":"Hey... hey!{playerName}! Wake up!","ru":"Эй... эй!{playerName}! Просыпайся!"}
+{"id":"story_text:86806447307883520","en":"Hey... hey! {playerName}! Wake up!","ru":"Эй... эй! {playerName}! Просыпайся!"}
 {"id":"story_text:86806447307884032","en":"Hm...? Terara?","ru":"Хм...? Терара?"}
 {"id":"story_text:86806451602850560","en":"Terara","ru":"Терара"}
 {"id":"story_text:86806451602850816","en":"...Finally awake, huh...","ru":"...Наконец-то очнулся..."}
@@ -38563,7 +38563,7 @@
 {"id":"story_text:87016905000354560","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:87016905000354816","en":"(Th-this is...!? What an overwhelming presence...!)","ru":"(Э-это...!? Что за устрашающая сила...!)"}
 {"id":"story_text:87016909295321856","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:87016909295322112","en":"...Oh?{playerName} It's you. Ho ho, do you have business with me?","ru":"...О?{playerName} Это ты. Хо-хо, у тебя ко мне дело?"}
+{"id":"story_text:87016909295322112","en":"...Oh? It's you, {playerName}. Ho ho, do you have business with me?","ru":"...О? Это ты, {playerName}. Хо-хо, у тебя ко мне дело?"}
 {"id":"story_text:87016913590289152","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:87016913590289408","en":"Actually... I came to deliver this in place of Enkaku.| Actually... I came to deliver this in place of Enkaku.","ru":"По правде говоря... я пришёл доставить это вместо Энкаку.| По правде говоря... я пришёл доставить это вместо Энкаку."}
 {"id":"story_text:87017330202116864","en":"Village Chief","ru":"Староста"}
@@ -38647,7 +38647,7 @@
 {"id":"story_text:87017832713290496","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:87017832713290752","en":"Now that I think about it, I do believe I buried it at the foot of the Totem Pole.\nA fine chance to try out my new boots—I'll go fetch it on a stroll.","ru":"Вот теперь припоминаю, кажется, я зарыл его у подножия Тотемного столба.\nОтличный повод разносить новые сапоги — прогуляюсь и заберу его."}
 {"id":"story_text:87017837008257792","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:87017837008258048","en":"Come,{playerName} let us go together.","ru":"Пойдём,{playerName} прогуляемся вместе."}
+{"id":"story_text:87017837008258048","en":"Come, {playerName}, let us go together.","ru":"Пойдём, {playerName}, прогуляемся вместе."}
 {"id":"story_text:87019048189035264","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:87019048189035520","en":"Enkaku's craftsmanship just keeps getting better.\nThese are comfortable to walk in.","ru":"Мастерство Энкаку всё растёт.\nВ них так удобно ходить."}
 {"id":"story_text:87019052484002560","en":"Village Chief","ru":"Староста"}
@@ -38657,7 +38657,7 @@
 {"id":"story_text:87019061073937152","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:87019061073937408","en":"Were you eavesdropping on my praise? Ho ho...","ru":"Ты подслушивал, как я тебя хвалю? Хо-хо..."}
 {"id":"story_text:87019065368904448","en":"Enkaku","ru":"Энкаку"}
-{"id":"story_text:87019065368904704","en":"Hey! Village Chief,{playerName} where are you headed?","ru":"Эй! Староста,{playerName} куда вы направляетесь?"}
+{"id":"story_text:87019065368904704","en":"Hey, village chief! {playerName}! Where are you two headed?","ru":"Эй, староста! {playerName}! Куда вы направляетесь?"}
 {"id":"story_text:87019069663871744","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:87019069663872000","en":"We're off to the Howling Plains with {playerName}.\nTo finish that treasure hunt from before.","ru":"Мы идём на Воющие равнины с {playerName}.\nЧтобы завершить тот поиск сокровищ."}
 {"id":"story_text:87019073958839040","en":"Enkaku","ru":"Энкаку"}
@@ -38701,7 +38701,7 @@
 {"id":"story_text:87019911477461760","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:87019911477462016","en":"But as for which totem pole exactly...\nSigh, an old man's memory is a fuzzy thing...","ru":"Но вот под каким именно тотемным столбом...\nЭх, память старика — штука туманная..."}
 {"id":"story_text:87019915772429056","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:87019915772429312","en":"{playerName}Do you remember the clue Kirk mentioned?","ru":"{playerName}Помнишь подсказку, о которой говорил Кирк?"}
+{"id":"story_text:87019915772429312","en":"{playerName}, do you remember the clue Kirk mentioned?","ru":"{playerName}, помнишь подсказку, о которой говорил Кирк?"}
 {"id":"story_text:87019920067396352","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:87019920067396608","en":"Let me think... \"Call Tana within the Elder Spirits' embrace\"?","ru":"Так... «Воззови к Тане в объятиях Древних духов»?"}
 {"id":"story_text:87019924362363648","en":"Village Chief","ru":"Староста"}
@@ -39582,7 +39582,7 @@
 {"id":"story_text:88012109052379904","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:88012109052380160","en":"Huh?","ru":"А?"}
 {"id":"story_text:88012113347347200","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:88012113347347456","en":"But I've made a new medicine! Here, drink up—it's a tonic for building stamina.\n{playerName}If it's you, you might even be able to fly!\nGo on, try it! Go on!","ru":"Но я приготовила новое лекарство! Вот, выпейте — это тоник для бодрости.\n{playerName}А вдруг вы даже сможете летать!\nНу же, попробуйте! Давайте!"}
+{"id":"story_text:88012113347347456","en":"But I've made a new medicine! Here, drink up—it's a tonic for building stamina.\nYou might even be able to fly, {playerName}!\nGo on, try it! Go on!","ru":"Но я приготовила новое лекарство! Вот, выпейте — это тоник для бодрости.\nА вдруг вы даже сможете летать, {playerName}!\nНу же, попробуйте! Давайте!"}
 {"id":"story_text:88012117642314496","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:88012117642314752","en":"Huh? That's a bit... n-no, I'll pass!","ru":"А? Это как-то... н-нет, пожалуй, не буду!"}
 {"id":"story_text:88047263359697664","en":"{playerName}","ru":"{playerName}"}
@@ -43043,7 +43043,7 @@
 {"id":"story_text:89636830755948032","en":"Lightning struck?","ru":"Молния ударила?"}
 {"id":"story_text:89636830755948544","en":"Is this about Melt Lake last night?","ru":"Это про Озеро Мелт-Лейк прошлой ночью?"}
 {"id":"story_text:89636835050914560","en":"Wolf","ru":"Вольф"}
-{"id":"story_text:89636835050914816","en":"Did you{playerName} see them too? Those eyes glowing in the pitch darkness and lightning!","ru":"Ты{playerName} тоже это видала? Глаза, светившиеся в кромешной тьме под вспышками молний!"}
+{"id":"story_text:89636835050914816","en":"Did you see them too, {playerName}? Those eyes glowing in the pitch darkness and lightning!","ru":"Ты тоже это видала, {playerName}? Глаза, светившиеся в кромешной тьме под вспышками молний!"}
 {"id":"story_text:89636839345881856","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:89636839345882112","en":"Glowing eyes? I'm not sure I follow.","ru":"Светящиеся глаза? Не уверен, что понимаю."}
 {"id":"story_text:89636843640849152","en":"Leon","ru":"Леон"}
@@ -43457,7 +43457,7 @@
 {"id":"story_text:89683645899473664","en":"Lumi","ru":"Луми"}
 {"id":"story_text:89683645899473920","en":"Oh, I can see her! It really is Amalthea!","ru":"О, я её вижу! Это и правда Амальтея!"}
 {"id":"story_text:89683650194440960","en":"Shiroro","ru":"Сироро"}
-{"id":"story_text:89683650194441216","en":"To think you could pinpoint her location from the anomaly reports alone...{playerName}really are amazing!","ru":"Подумать только, определить её местоположение по одним лишь сообщениям об аномалиях...{playerName}и правда потрясающие!"}
+{"id":"story_text:89683650194441216","en":"To think you could pinpoint her location from the anomaly reports alone... You're amazing, {playerName}!","ru":"Подумать только, определить её местоположение по одним лишь сообщениям об аномалиях... Вы и правда удивительны, {playerName}!"}
 {"id":"story_text:89683654489408256","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:89683654489408512","en":"I still don't understand... Why did Amalthea make the crops grow so abnormally?\nAnd why did she come to Trailwood Forest...?|I still don't understand... Why did Amalthea make the crops grow so abnormally?\nAnd why did she come to Trailwood Forest...?","ru":"Но всё равно непонятно... Зачем Амальтея заставила посевы так разрастись?\nИ почему она пришла в Лес Затерянных Троп?..|Но всё равно непонятно... Зачем Амальтея заставила посевы так разрастись?\nИ почему она пришла в Лес Затерянных Троп?.."}
 {"id":"story_text:89683658784375552","en":"Lumi","ru":"Луми"}

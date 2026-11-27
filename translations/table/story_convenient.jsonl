@@ -644,7 +644,7 @@
 {"id":"story_convenient:129239448587076864","en":"Pat","ru":"Пэт"}
 {"id":"story_convenient:129239448587077120","en":"Ahaha... yeah, I guess so.","ru":"Ахаха... да, пожалуй."}
 {"id":"story_convenient:129239452882044160","en":"Francisco","ru":"Франциско"}
-{"id":"story_convenient:129239452882044416","en":"{playerName}Truly, thank you so much.\nI don't know what would have happened without you.","ru":"{playerName}Право, огромное вам спасибо.\nЯ не знаю, что было бы без вас."}
+{"id":"story_convenient:129239452882044416","en":"{playerName}, thank you so much.\nI don't know what would have happened without you.","ru":"{playerName}, огромное вам спасибо.\nЯ не знаю, что было бы без вас."}
 {"id":"story_convenient:129239457177011456","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:129239457177011712","en":"You're welcome.","ru":"Не за что."}
 {"id":"story_convenient:129239461471978752","en":"Francisco","ru":"Франциско"}
@@ -7384,7 +7384,7 @@
 {"id":"story_convenient:2190871025372103936","en":"Lumi","ru":"Луми"}
 {"id":"story_convenient:2190871025372104192","en":"That kid over there looks like they're in trouble.\nMaybe Mofunga wants us to help them.","ru":"Та малышка вон там, кажется, в беде.\nМожет, Мофунга хочет, чтобы мы ей помогли."}
 {"id":"story_convenient:2190871068321776896","en":"Lumi","ru":"Луми"}
-{"id":"story_convenient:2190871068321777152","en":"{playerName}You really can't help yourself, can you?\nYou're always taking on other people's troubles.","ru":"{playerName}Ну и любительница ты помогать, да?\nВечно берёшь на себя чужие заботы."}
+{"id":"story_convenient:2190871068321777152","en":"{playerName}, you really can't help yourself, can you?\nYou're always taking on other people's troubles.","ru":"{playerName}, ну и любишь же ты помогать!\nВечно берёшь на себя чужие заботы."}
 {"id":"story_convenient:2190871072616744192","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:2190871072616744448","en":"...Aren't you curious what a dress made from Featherleaf would look like?","ru":"...Разве тебе не интересно, как будет выглядеть платье из перистого листа?"}
 {"id":"story_convenient:2190871076911711488","en":"Lumi","ru":"Луми"}
@@ -9006,7 +9006,7 @@
 {"id":"story_convenient:2190935406931870976","en":"Terara","ru":"Терара"}
 {"id":"story_convenient:2190935406931871232","en":"One more spot! I can finally see the end in sight!","ru":"Ещё одно место! Наконец-то виден конец!"}
 {"id":"story_convenient:2190935411226838272","en":"Lumi","ru":"Луми"}
-{"id":"story_convenient:2190935411226838528","en":"{playerName}Even you look exhausted now.\nThis is really no different from doing farm work.","ru":"{playerName}Даже у тебя усталый вид.\nЭто ведь ничем не отличается от работы на ферме."}
+{"id":"story_convenient:2190935411226838528","en":"Even you look exhausted, {playerName}.\nThis is really no different from doing farm work.","ru":"Даже у тебя усталый вид, {playerName}.\nЭто ведь ничем не отличается от работы на ферме."}
 {"id":"story_convenient:2190935415521805568","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:2190935415521805824","en":"Coming from Lumi, who just flies around all day...","ru":"Слышать такое от Луми, что только и делает, что летает весь день..."}
 {"id":"story_convenient:2190935836428600576","en":"Village Chief","ru":"Староста"}
@@ -9084,7 +9084,7 @@
 {"id":"story_convenient:2190944048406070528","en":"Luruka","ru":"Лурука"}
 {"id":"story_convenient:2190944048406070784","en":"Let me know when you're ready.","ru":"Как будете готовы, скажите мне."}
 {"id":"story_convenient:2190944426363192576","en":"Lumi","ru":"Луми"}
-{"id":"story_convenient:2190944426363192832","en":"Hmph,{playerName}don't go crying when it's time to say goodbye, all right?","ru":"Хм,{playerName}только не вздумай плакать на прощание, ладно?"}
+{"id":"story_convenient:2190944426363192832","en":"Hmph, {playerName}, don't go crying when it's time to say goodbye, all right?","ru":"Хм, {playerName}, только не вздумай плакать на прощание, ладно?"}
 {"id":"story_convenient:2190944430658159872","en":"Symphoria","ru":"Симфория"}
 {"id":"story_convenient:2190944430658160128","en":"Lumi...! Lord Starborn, tears are proof of courage too...\nThere's no need to be embarrassed!","ru":"Луми...! Господин Звездорождённый, слёзы — тоже доказательство мужества...\nНе стоит этого стесняться!"}
 {"id":"story_convenient:2190944434953127168","en":"{playerName}","ru":"{playerName}"}
@@ -9661,7 +9661,7 @@
 {"id":"story_convenient:2191328400734422272","en":"Lumi","ru":"Луми"}
 {"id":"story_convenient:2191328400734422528","en":"We've finally made it!\nOh, right, {playerName}, where did you go with Lily yesterday?","ru":"Наконец-то мы на месте!\nАх да, {playerName}, куда вы вчера ходили с Лили?"}
 {"id":"story_convenient:2191328405029389568","en":"Lily","ru":"Лили"}
-{"id":"story_convenient:2191328405029389824","en":"I was, um...{playerName}talking with you about...\nKnight's Insight!","ru":"Я, э-э...{playerName}как раз с тобой говорила...\nо познаниях рыцаря!"}
+{"id":"story_convenient:2191328405029389824","en":"{playerName} and I were, um... talking about...\nKnight's Insight!","ru":"Мы с {playerName}, э-э... говорили...\nо познаниях рыцаря!"}
 {"id":"story_convenient:2191328409324356864","en":"Terara","ru":"Терара"}
 {"id":"story_convenient:2191328409324357120","en":"The city... gates... city gates...","ru":"Городские... ворота... городские ворота..."}
 {"id":"story_convenient:2191328413619324160","en":"Lily","ru":"Лили"}
@@ -10161,7 +10161,7 @@
 {"id":"story_convenient:2191362773357692160","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:2191362773357692416","en":"It's hard not to mind when you're staring at me the whole time...","ru":"Трудно не обращать внимания, когда ты смотришь на меня всё время..."}
 {"id":"story_convenient:2191362777652659456","en":"Lumi","ru":"Луми"}
-{"id":"story_convenient:2191362777652659712","en":"Let me say this now!{playerName}After you see how amazing\nis, don't even think about poaching!","ru":"Скажу сразу!{playerName}После того как ты узнаешь, насколько\n хорош, даже не думай переманивать!"}
+{"id":"story_convenient:2191362777652659712","en":"Let me say this now! When you see how amazing {playerName} is,\ndon't even think about poaching!","ru":"Скажу сразу! Даже когда увидишь {playerName} в деле,\nне вздумай переманивать!"}
 {"id":"story_convenient:2191362781947626752","en":"Morwyn","ru":"Морвин"}
 {"id":"story_convenient:2191362781947627008","en":"Hmm? Then I'll take my time and see\nwhether you're truly worth all that.","ru":"Хм? Тогда я не спеша выясню,\nдействительно ли ты этого стоишь."}
 {"id":"story_convenient:2191363185674552576","en":"Shalle","ru":"Шалль"}
@@ -11510,7 +11510,7 @@
 {"id":"story_convenient:2233919877716903168","en":"Enthusiastic Resident","ru":"Увлечённый житель"}
 {"id":"story_convenient:2233919877716903424","en":"Just wait! Tonight I'll bring everything over!","ru":"Погодите! Сегодня вечером всё принесу!"}
 {"id":"story_convenient:2233920298623698176","en":"Eins","ru":"Эйнс"}
-{"id":"story_convenient:2233920298623698432","en":"Phew...{playerName}.\nYou came at just the right time.","ru":"Фух...{playerName}.\nТы пришёл очень кстати."}
+{"id":"story_convenient:2233920298623698432","en":"Phew... {playerName}.\nYou came at just the right time.","ru":"Фух... {playerName}.\nТы пришёл очень кстати."}
 {"id":"story_convenient:2233920302918665472","en":"Eins","ru":"Эйнс"}
 {"id":"story_convenient:2233920302918665728","en":"I just showed the kids a few magic tricks.\nThey loved them!","ru":"Я только что показал детям несколько фокусов.\nВсе были в восторге!"}
 {"id":"story_convenient:2233920307213632768","en":"Eins","ru":"Эйнс"}
@@ -12428,7 +12428,7 @@
 {"id":"story_convenient:2259181153070089472","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:2259181153070089728","en":"Great Instructor! We're here to help!","ru":"Великий инструктор! Мы пришли на помощь!"}
 {"id":"story_convenient:2259181157365056768","en":"Great Instructor","ru":"Великий инструктор"}
-{"id":"story_convenient:2259181157365057024","en":"You... {playerName}Oh, it's you.\nWho is this girl?","ru":"Ты... {playerName}А, это ты.\nА это что за барышня?"}
+{"id":"story_convenient:2259181157365057024","en":"You... {playerName}?\nWho's this young lady?","ru":"Ты... {playerName}?\nА это что за барышня?"}
 {"id":"story_convenient:2259181161660024064","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
 {"id":"story_convenient:2259181161660024320","en":"I... I'm the Immortal Fox who protects this fortress!","ru":"Я... я Бессмертная лиса, что охраняет эту крепость!"}
 {"id":"story_convenient:2259181165954991360","en":"Great Instructor","ru":"Великий инструктор"}
@@ -13030,7 +13030,7 @@
 {"id":"story_convenient:258149017916015872","en":"Ur","ru":"Ур"}
 {"id":"story_convenient:258149017916016128","en":"Woof!","ru":"Гав!"}
 {"id":"story_convenient:258149022210983168","en":"Terara","ru":"Терара"}
-{"id":"story_convenient:258149022210983424","en":"Right, right~?{playerName} You get it!\nOh, hey, why don't you enter the Starshine Fight League?","ru":"Верно, верно~?{playerName} Ты понимаешь!\nО, слушай, почему бы тебе не участвовать в Боевой лиге «Звёздный блеск»?"}
+{"id":"story_convenient:258149022210983424","en":"Right, right~? You get it, {playerName}!\nOh, hey, why don't you enter the Starshine Fight League?","ru":"Вот-вот! Ты меня понимаешь, {playerName}!\nО, слушай, почему бы тебе не участвовать в Боевой лиге «Звёздный блеск»?"}
 {"id":"story_convenient:258149026505950464","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:258149026505950720","en":"What's the Starshine Fight League?","ru":"Что такое Боевая лига «Звёздный блеск»?"}
 {"id":"story_convenient:258149030800917760","en":"Terara","ru":"Терара"}
@@ -13048,7 +13048,7 @@
 {"id":"story_convenient:258149056570721536","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:258149056570721792","en":"That's so like you, Terara!","ru":"Это так похоже на Терару!"}
 {"id":"story_convenient:258149060865688832","en":"Terara","ru":"Терара"}
-{"id":"story_convenient:258149060865689088","en":"So what do you think?{playerName}Interested?","ru":"Ну что думаешь?{playerName}Интересно?"}
+{"id":"story_convenient:258149060865689088","en":"So what do you think, {playerName}? Interested?","ru":"Ну что думаешь, {playerName}? Интересно?"}
 {"id":"story_convenient:258149060865689344","en":"Yeah, I'd like to try!","ru":"Да, хочу попробовать!"}
 {"id":"story_convenient:258149060865689856","en":"Let me think about it.","ru":"Дай мне подумать."}
 {"id":"story_convenient:258149065160656128","en":"Terara","ru":"Терара"}
@@ -13056,7 +13056,7 @@
 {"id":"story_convenient:258149069455623424","en":"Terara","ru":"Терара"}
 {"id":"story_convenient:258149069455623680","en":"Got it! Whenever you want in, just let me know!","ru":"Понятно! Как только захочешь участвовать, просто скажи!"}
 {"id":"story_convenient:258149443117778176","en":"Terara","ru":"Терара"}
-{"id":"story_convenient:258149443117778432","en":"Whoa!{playerName}, you're amazing!","ru":"Ух ты!{playerName}, ты просто молодец!"}
+{"id":"story_convenient:258149443117778432","en":"Whoa! {playerName}, you're amazing!","ru":"Ух ты! {playerName}, ты просто молодец!"}
 {"id":"story_convenient:258149443117778688","en":"You know it~!","ru":"Ещё бы~!"}
 {"id":"story_convenient:258149443117779200","en":"Wait, have I already become the Kibo Fight Champion?","ru":"Погоди, я уже стала чемпионом кибо-боёв?"}
 {"id":"story_convenient:258149447412745472","en":"Terara","ru":"Терара"}
