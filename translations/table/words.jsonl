@@ -1018,7 +1018,7 @@
 {"id":"words:-3983498169275507707","en":"Press the unlock button","ru":"Нажмите кнопку разблокировки"}
 {"id":"words:-3985008232771042296","en":"Not enough Sourcefruit","ru":"Недостаточно Плодов истока"}
 {"id":"words:-3988398303138056368","en":"Single/Multiplayer Mode","ru":"Одиночный/Многопользовательский режим"}
-{"id":"words:-3994390440856852786","en":"View 01","ru":"Вид 01"}
+{"id":"words:-3994390440856852786","en":"View 01","ru":"Ракурс 01"}
 {"id":"words:-3996485416963733471","en":"Repair Totem","ru":"Починка тотема"}
 {"id":"words:-4001276493078614158","en":"You cannot do that in the current situation.","ru":"Сейчас это действие недоступно."}
 {"id":"words:-4006966064483902223","en":"Please enter a redemption code.","ru":"Введите код активации."}
@@ -4188,7 +4188,7 @@
 {"id":"words:5792730549836999015","en":"Selected {0} of this marker type.","ru":"Выбрано {0} маркеров этого типа."}
 {"id":"words:5792967410867208156","en":"Delete all read mail?","ru":"Удалить всю прочитанную почту?"}
 {"id":"words:5793550860954614467","en":"Rotate clockwise","ru":"Повернуть по часовой стрелке"}
-{"id":"words:5803158186649192002","en":"Viewpoint {0}","ru":"Точка обзора {0}"}
+{"id":"words:5803158186649192002","en":"View {0}","ru":"Ракурс {0}"}
 {"id":"words:5803914635305925273","en":"First, select the Kibo you want to part with.","ru":"Сначала выберите кибо, с которым хотите расстаться."}
 {"id":"words:5809548681039359726","en":"You are operating too quickly. Please try again later.","ru":"Слишком быстрые действия. Попробуйте позже."}
 {"id":"words:5819633629646440210","en":"Exit \"Blades Sing! Hunting Festival\"? Current progress will be saved automatically.","ru":"Выйти из «Звон клинков! Праздник охоты»? Текущий прогресс сохранится автоматически."}
@@ -4283,7 +4283,7 @@
 {"id":"words:6089756769929086443","en":"Cannot feed: this Kibo's Potential is at maximum.","ru":"Невозможно покормить: Потенциал этого кибо достиг максимума."}
 {"id":"words:6109103906924122553","en":"Scale Family","ru":"Семейство чешуйчатых"}
 {"id":"words:6112789685694221010","en":"Matching has already started. Failed to leave the team. Please try again later.","ru":"Подбор уже начат. Не удалось покинуть команду. Попробуйте позже."}
-{"id":"words:611467115230629956","en":"View 01","ru":"Вид 01"}
+{"id":"words:611467115230629956","en":"View 01","ru":"Ракурс 01"}
 {"id":"words:6129571423954714773","en":"Observe 1 times","ru":"Наблюдение ×1"}
 {"id":"words:6133058058271341191","en":"Please move to [%s]-[%s].","ru":"Пожалуйста, переместитесь в [%s]-[%s]."}
 {"id":"words:6134850397370316073","en":"Begin Subjugation","ru":"Начать истребление"}

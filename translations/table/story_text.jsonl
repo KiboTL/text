@@ -17401,7 +17401,7 @@
 {"id":"story_text:4339121290674701056","en":"？？？","ru":"？？？"}
 {"id":"story_text:4339121290674701312","en":"The disaster... has not ended...","ru":"Бедствие... ещё не кончилось..."}
 {"id":"story_text:4339121294969668352","en":"？？？","ru":"？？？"}
-{"id":"story_text:4339121294969668608","en":"Together with Sharl...","ru":"Вместе с Шарлем..."}
+{"id": "story_text:4339121294969668608", "en": "Together with Charlulu...", "ru": "Вместе с Шарлем..."}
 {"id":"story_text:4339121299264635648","en":"？？？","ru":"？？？"}
 {"id":"story_text:4339121299264635904","en":"You who came from the azure sky...","ru":"Ты, пришедший(ая) из лазурного неба..."}
 {"id":"story_text:4339121303559602944","en":"？？？","ru":"？？？"}
@@ -17481,7 +17481,7 @@
 {"id":"story_text:43391268612473600","en":"？？？","ru":"？？？"}
 {"id":"story_text:43391268612473856","en":"The calamity... has not ended...","ru":"Бедствие... не окончено..."}
 {"id":"story_text:43391272907440896","en":"？？？","ru":"？？？"}
-{"id":"story_text:43391272907441152","en":"Together with Sharl...","ru":"Вместе с Шарлем..."}
+{"id": "story_text:43391272907441152", "en": "Together with Charlulu...", "ru": "Вместе с Шарлем..."}
 {"id":"story_text:43391277202408192","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43391277202408448","en":"Where... am I?","ru":"Где... я?"}
 {"id":"story_text:43391281497375488","en":"Terara","ru":"Терара"}
@@ -17895,7 +17895,7 @@
 {"id":"story_text:43396362443686656","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43396362443686912","en":"I asked Uchi to tidy up...\nSeems that's not finished yet.","ru":"Я попросил Ути прибраться...\nВидать, ещё не закончил."}
 {"id":"story_text:43396366738653952","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43396366738654208","en":"There's an old hut that was built here years ago.\nHow about we make that your home?\nThe village needs a base too, after all.","ru":"Там есть старый домик, построенный давным-давно.\nМожет, сделать его твоим домом?\nДеревне ведь тоже нужна база."}
+{"id":"story_text:43396366738654208","en":"There's an old hut over there.\nHow about making it your home?\nYou'll need a base in the village, after all.","ru":"Там есть старый домик, построенный давным-давно.\nМожет, сделать его твоим домом?\nТебе ведь тоже нужна своя база в деревне."}
 {"id":"story_text:43396366738654720","en":"Are you sure I can have it?","ru":"Вы правда мне его отдадите?"}
 {"id":"story_text:43396366738655232","en":"Thank you! Now I can make fields!","ru":"Спасибо! Теперь я смогу развести поля!"}
 {"id":"story_text:43396366738655744","en":"Is it really okay for me to call it home?","ru":"Можно ли мне называть его домом?"}
@@ -18125,13 +18125,13 @@
 {"id":"story_text:43397723948319488","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43397723948319744","en":"Just as the Elder Spirit said,\nI'm still far too inexperienced as a shaman.","ru":"Как и говорил Древний дух,\nя всё ещё слишком неопытна как шаман."}
 {"id":"story_text:43397728243286784","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43397728243287040","en":"Have you heard?\nThe village's name comes from...\nLord Sharl, the first shaman and the village's founder.","ru":"Вы слышали?\nНазвание деревни происходит от...\nЛорда Шарля, первого шамана и основателя деревни."}
+{"id": "story_text:43397728243287040", "en": "Have you heard?\nThe village's name comes from...\nLord Charlulu, the first shaman and the village's founder.", "ru": "Вы слышали?\nНазвание деревни происходит от...\nЛорда Шарля, первого шамана и основателя деревни."}
 {"id":"story_text:43397732538254080","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43397732538254336","en":"Lord Sharl led the Furrians,\novercame countless hardships in Sprout Valley, and laid the foundation of Charlulu Village.","ru":"Лорд Шарль вёл за собой фуррианцев,\nпреодолел множество невзгод в Долине Ростков и заложил основу деревни Шарлулу."}
+{"id": "story_text:43397732538254336", "en": "Lord Charlulu led the Furrians,\novercame countless hardships in Sprout Valley, and laid the foundation of Charlulu Village.", "ru": "Лорд Шарль вёл за собой фуррианцев,\nпреодолел множество невзгод в Долине Ростков и заложил основу деревни Шарлулу."}
 {"id":"story_text:43397736833221376","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43397736833221632","en":"Brave, great, and kindhearted...\nLord Sharl's legend is still told in the village to this day.","ru":"Храбрый, великий и добросердечный...\nЛегенды о Лорде Шарле до сих пор передаются в деревне из уст в уста."}
+{"id": "story_text:43397736833221632", "en": "Brave, great, and kindhearted...\nLord Charlulu's legend is still told in the village to this day.", "ru": "Храбрый, великий и добросердечный...\nЛегенды о Лорде Шарле до сих пор передаются в деревне из уст в уста."}
 {"id":"story_text:43397741128188672","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43397741128188928","en":"As this village's shaman, I carry on Lord Sharl's will...\nBut right now, I don't think I could ever lead the village.","ru":"Как шаман этой деревни, я продолжаю волю Лорда Шарля...\nНо сейчас я вряд ли смогу вести за собой деревню."}
+{"id": "story_text:43397741128188928", "en": "As this village's shaman, I carry on Lord Charlulu's will...\nBut right now, I don't think I could ever lead the village.", "ru": "Как шаман этой деревни, я продолжаю волю Лорда Шарля...\nНо сейчас я вряд ли смогу вести за собой деревню."}
 {"id":"story_text:43397745423155968","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43397745423156224","en":"I can't even hold a proper conversation with the Elder Spirit...","ru":"Я даже нормально поговорить с Древним духом не могу..."}
 {"id":"story_text:43397745423156736","en":"You're doing your best, Luruka.","ru":"Ты стараешься, Лурука."}
@@ -18146,9 +18146,9 @@
 {"id":"story_text:43397762603025152","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43397762603025408","en":"Is the Tana Fire Festival some kind of moon ritual?","ru":"Огненный фестиваль Таны — это ритуал, связанный с луной?"}
 {"id":"story_text:43397766897992448","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43397766897992704","en":"Yes. It's an important ceremony the village holds once every One Moon.\nActually, it's said that Tana was once Lord Sharl's Kibo—\na Fennwolf blessed by the Great Wolf.","ru":"Да. Это важный обряд, который деревня проводит раз в Одну луну.\nГоворят, Тана когда-то была кибо Лорда Шарля —\nфеннвольфом, благословлённым Великим волком."}
+{"id": "story_text:43397766897992704", "en": "Yes. It's an important ceremony the village holds once every One Moon.\nActually, it's said that Tana was once Lord Charlulu's Kibo—\na Fennwolf blessed by the Great Wolf.", "ru": "Да. Это важный обряд, который деревня проводит раз в Одну луну.\nГоворят, Тана когда-то была кибо Лорда Шарля —\nфеннвольфом, благословлённым Великим волком."}
 {"id":"story_text:43397771192959744","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43397771192960000","en":"When the village had only just been founded,\nTana is said to have defeated the Ravening Beast and saved Lord Sharl and everyone in the village.\nWe owe the village we have today to Tana.","ru":"Когда деревня только-только появилась,\nТана, по преданию, победила Хищного зверя и спасла Лорда Шарля и всех жителей.\nСегодняшняя деревня существует благодаря Тане."}
+{"id": "story_text:43397771192960000", "en": "When the village had only just been founded,\nTana is said to have defeated the Ravening Beast and saved Lord Charlulu and everyone in the village.\nWe owe the village we have today to Tana.", "ru": "Когда деревня только-только появилась,\nТана, по преданию, победила Хищного зверя и спасла Лорда Шарля и всех жителей.\nСегодняшняя деревня существует благодаря Тане."}
 {"id":"story_text:43397775487927040","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43397775487927296","en":"The Tana Fire Festival is a rite to honor Tana and give thanks for the Great Wolf's blessing.","ru":"Огненный фестиваль Таны — это обряд почитания Таны и благодарности за благословение Великого волка."}
 {"id":"story_text:43397779782894336","en":"Luruka","ru":"Лурука"}
@@ -18426,7 +18426,7 @@
 {"id":"story_text:43407125631730432","en":"Terara","ru":"Терара"}
 {"id":"story_text:43407125631730688","en":"Wait a minute...\nNow that I think about it, I've heard the village elders talk about this.","ru":"Погоди-ка...\nВот теперь вспомнила, старики в деревне об этом говорили."}
 {"id":"story_text:43407129926697728","en":"Terara","ru":"Терара"}
-{"id":"story_text:43407129926697984","en":"They say Windward Forest is the path our ancestors took during the great migration.\nBack then, the great Shaman Sharl led the tribe.\nApparently, it was incredibly hard until they settled in this valley.","ru":"Говорят, Лес Ветров — это путь, которым прошли наши предки во время великого переселения.\nТогда племя вёл великий шаман Шарль.\nГоворят, было очень тяжело, пока они не обосновались в этой долине."}
+{"id": "story_text:43407129926697984", "en": "They say Windward Forest is the path our ancestors took during the great migration.\nBack then, the great Shaman Charlulu led the tribe.\nApparently, it was incredibly hard until they settled in this valley.", "ru": "Говорят, Лес Ветров — это путь, которым прошли наши предки во время великого переселения.\nТогда племя вёл великий шаман Шарль.\nГоворят, было очень тяжело, пока они не обосновались в этой долине."}
 {"id":"story_text:43407134221665024","en":"Terara","ru":"Терара"}
 {"id":"story_text:43407134221665280","en":"If what the Starborn saw wasn't just a hallucination...\nThen you saw our ancestors from a Hundred Years ago!","ru":"Если то, что видел Звездорождённый, не просто галлюцинация...\nТогда получается, ты видел наших предков из Сто лет назад!"}
 {"id":"story_text:43407138516632320","en":"Terara","ru":"Терара"}
@@ -21465,7 +21465,7 @@
 {"id":"story_text:43453549933232896","en":"？？？","ru":"？？？"}
 {"id":"story_text:43453549933233152","en":"There now. Will you listen to my story?","ru":"Вот так. Послушаешь мою историю?"}
 {"id":"story_text:43453554228200192","en":"？？？","ru":"？？？"}
-{"id":"story_text:43453554228200448","en":"I am Shallul. I fled the Empire with my companions...","ru":"Я Шаллул. Я бежала из Империи вместе со своими спутниками..."}
+{"id": "story_text:43453554228200448", "en": "I am Charlulu. I fled the Empire with my companions...", "ru": "Я Шаллул. Я бежала из Империи вместе со своими спутниками..."}
 {"id":"story_text:43453558523167488","en":"？？？","ru":"？？？"}
 {"id":"story_text:43453558523167744","en":"It was such a grueling journey.\nWe struggled and suffered, fleeing without pause so death could not catch us.","ru":"Это был очень тяжёлый путь.\nМы страдали и боролись, без остановки бежали от смерти по пятам."}
 {"id":"story_text:43453562818134784","en":"？？？","ru":"？？？"}
@@ -24640,7 +24640,7 @@
 {"id":"story_text:43506378030973696","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43506378030973952","en":"But now the Barrier is broken, and evil claws and fangs threaten this land once more.","ru":"Но теперь Барьер разрушен, и злые когти и клыки вновь угрожают этой земле."}
 {"id":"story_text:43506382325940992","en":"Tinana","ru":"Тинана"}
-{"id":"story_text:43506382325941248","en":"Grandma used to say so. Long ago, when the village fought a great battle against the Dire Beasts...\nthe Shaman of that time, Lord Sharl, called the Great Wolf and protected everyone.","ru":"Бабушка мне говорила. Давным-давно, когда деревня билась в великой битве с Лютыми зверями...\nШаман того времени, лорд Шарль, призвал Великого волка и защитил всех."}
+{"id": "story_text:43506382325941248", "en": "Grandma used to say so. Long ago, when the village fought a great battle against the Dire Beasts...\nthe Shaman of that time, Lord Charlulu, called the Great Wolf and protected everyone.", "ru": "Бабушка мне говорила. Давным-давно, когда деревня билась в великой битве с Лютыми зверями...\nШаман того времени, лорд Шарль, призвал Великого волка и защитил всех."}
 {"id":"story_text:43506386620908288","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43506386620908544","en":"Yes... that was a Hundred Years ago now.\nAt a great cost in blood and sacrifice, many of our ancestors' souls returned to\nPuçe in that battle.","ru":"Да... это было Сто лет назад.\nЦеной большой крови и жертв, в той битве многие души наших предков вернулись в\nПче."}
 {"id":"story_text:43506390915875584","en":"Village Chief","ru":"Староста"}
@@ -24658,7 +24658,7 @@
 {"id":"story_text:43506416685679360","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43506416685679616","en":"\"In the midst of that crisis...\"","ru":"«В разгар той беды...»"}
 {"id":"story_text:43506420980646656","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43506420980646912","en":"\"The great Shaman Sharl and her soul-friend Tana\noffered a prayer to the Great Wolf with all their heart and soul.\"","ru":"«Великий Шаман Шарль и её верная подруга души Тана\nвсем сердцем и всей душой вознесли молитву Великому волку»."}
+{"id": "story_text:43506420980646912", "en": "\"The great Shaman Charlulu and her soul-friend Tana\noffered a prayer to the Great Wolf with all their heart and soul.\"", "ru": "«Великий Шаман Шарль и её верная подруга души Тана\nвсем сердцем и всей душой вознесли молитву Великому волку»."}
 {"id":"story_text:43506425275613952","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43506425275614208","en":"\"They swore to fight to the very end for family, kin, and all life in the valley.\nThey vowed to strike down the Calamity at the cost of their own lives.\"","ru":"«Они поклялись сражаться до конца за семью, сородичей и всё живое в долине.\nОни дали обет сразить бедствие ценой собственных жизней»."}
 {"id":"story_text:43506429570581248","en":"Village Chief","ru":"Староста"}
@@ -24762,7 +24762,7 @@
 {"id":"story_text:43507271384171264","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43507271384171520","en":"Yes. I will give it my all!","ru":"Да. Я приложу все силы!"}
 {"id":"story_text:43507275679138560","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43507275679138816","en":"As the Shaman who inherits Lord Sharl's will...\nno matter what happens, I will protect Charlulu Village and everyone here!","ru":"Как шаман, наследующий волю лорда Шарля...\nчто бы ни случилось, я защищу деревню Шарлулу и всех её жителей!"}
+{"id": "story_text:43507275679138816", "en": "As the Shaman who inherits Lord Charlulu's will...\nno matter what happens, I will protect Charlulu Village and everyone here!", "ru": "Как шаман, наследующий волю лорда Шарля...\nчто бы ни случилось, я защищу деревню Шарлулу и всех её жителей!"}
 {"id":"story_text:43507279974105856","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43507279974106112","en":"Luruka... Is this also the will of Sozanka?","ru":"Лурука... Неужели и это воля Содзанки?"}
 {"id":"story_text:43507284269073152","en":"Village Chief","ru":"Староста"}
@@ -24782,7 +24782,7 @@
 {"id":"story_text:43507314333844224","en":"Terara","ru":"Терара"}
 {"id":"story_text:43507314333844480","en":"Luruka, can you really summon the Great Wolf?!","ru":"Лурука, ты правда сможешь призвать Великого волка?!"}
 {"id":"story_text:43507318628811520","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43507318628811776","en":"I don't know... but I'm going to do my best.\nI have to carry on Lord Sharl's will...!","ru":"Не знаю... но я сделаю всё, что смогу.\nЯ должна продолжить волю лорда Шарля...!"}
+{"id": "story_text:43507318628811776", "en": "I don't know... but I'm going to do my best.\nI have to carry on Lord Charlulu's will...!", "ru": "Не знаю... но я сделаю всё, что смогу.\nЯ должна продолжить волю лорда Шарля...!"}
 {"id":"story_text:43508452500177664","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43508452500177920","en":"Uuu~! Heavy, heavy, so hea-vy! Starborn! Hurry and help me~!","ru":"Ууу~! Тяжело, тяжело, о-очень тяжело! Звездорождённый! Скорей помоги~!"}
 {"id":"story_text:43508456795144960","en":"Katalua","ru":"Каталуа"}
@@ -24804,7 +24804,7 @@
 {"id":"story_text:43508491154883328","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43508491154883584","en":"Your family?","ru":"Твоя семья?"}
 {"id":"story_text:43508495449850624","en":"Katalua","ru":"Каталуа"}
-{"id":"story_text:43508495449850880","en":"Yeah, my whole family are famous warriors in Charlulu Village!\nMy grandpa protected the village alongside Lord Sharl and the Village Chief since it was founded...\nThat was a hundred years ago now, though.","ru":"Да, вся моя семья — знаменитые воины в деревне Шарлулу!\nМой дедушка защищал деревню вместе с лордом Шарлем и старостой с самого её основания...\nПравда, это было сто лет назад."}
+{"id": "story_text:43508495449850880", "en": "Yeah, my whole family are famous warriors in Charlulu Village!\nMy grandpa protected the village alongside Lord Charlulu and the Village Chief since it was founded...\nThat was a hundred years ago now, though.", "ru": "Да, вся моя семья — знаменитые воины в деревне Шарлулу!\nМой дедушка защищал деревню вместе с лордом Шарлем и старостой с самого её основания...\nПравда, это было сто лет назад."}
 {"id":"story_text:43508499744817920","en":"Katalua","ru":"Каталуа"}
 {"id":"story_text:43508499744818176","en":"The Clan of the Crooked Horn follows the Shaman...\nand fights the Ravening Beast until only the last one remains. It's my clan's most sacred oath...","ru":"Клан Кривого Рога следует за шаманом...\nи сражается с Хищным зверем, пока не останется последний воин. Это священная клятва моего клана..."}
 {"id":"story_text:43508504039785216","en":"Katalua","ru":"Каталуа"}
@@ -25185,11 +25185,11 @@
 {"id":"story_text:4352047870925341440","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:4352047870925341696","en":"An evil presence covered the sky, and Tana's radiance was lost...","ru":"Злая сила заволокла небо, и сияние Таны померкло..."}
 {"id":"story_text:4352047875220308736","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:4352047875220308992","en":"The White Wolf left Lord Sharl's side too...","ru":"Белая волчица тоже покинула лорда Шарля..."}
+{"id": "story_text:4352047875220308992", "en": "The White Wolf left Lord Charlulu's side too...", "ru": "Белая волчица тоже покинула лорда Шарля..."}
 {"id":"story_text:4352047879515276032","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:4352047879515276288","en":"And only the shaman was left trembling with grief.","ru":"И лишь шаман остался дрожать от горя."}
 {"id":"story_text:4352047883810243328","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:4352047883810243584","en":"I can understand Lord Sharl's suffering as if it were my own...","ru":"Я понимаю страдания лорда Шарля так, словно это мои собственные..."}
+{"id": "story_text:4352047883810243584", "en": "I can understand Lord Charlulu's suffering as if it were my own...", "ru": "Я понимаю страдания лорда Шарля так, словно это мои собственные..."}
 {"id":"story_text:4352047888105210624","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:4352047888105210880","en":"When faced with a great calamity,\nall feeling drained away, and I despaired at my own helplessness.","ru":"Когда я столкнулась с великим бедствием,\nчувства поблёкли, и я отчаялась из-за собственного бессилия."}
 {"id":"story_text:4352047892400177920","en":"Luruka","ru":"Лурука"}
@@ -25197,7 +25197,7 @@
 {"id":"story_text:4352047896695145216","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:4352047896695145472","en":"But now I do...\nThe revelation is surely coming true in this valley right now...","ru":"Но теперь понимаю...\nНаверняка сейчас, в этой долине, откровение становится явью..."}
 {"id":"story_text:4352047900990112512","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:4352047900990112768","en":"Lord Sharl and the White Wolf must have wanted to tell me this.","ru":"Лорд Шарль и Белая волчица, должно быть, хотели сказать мне вот что."}
+{"id": "story_text:4352047900990112768", "en": "Lord Charlulu and the White Wolf must have wanted to tell me this.", "ru": "Лорд Шарль и Белая волчица, должно быть, хотели сказать мне вот что."}
 {"id":"story_text:4352047905285079808","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:4352047905285080064","en":"That calamity is approaching. Grow quickly and guide the village, without a moment's delay...","ru":"Что бедствие близко. Расти как можно скорее и веди деревню, не теряя ни мгновения..."}
 {"id":"story_text:4352047909580047104","en":"Luruka","ru":"Лурука"}
@@ -25289,7 +25289,7 @@
 {"id":"story_text:43520547128083200","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43520547128083456","en":"Furrian culture is totally different from what I imagined, too...\nNow this Great Fairy is getting excited for the Fire Festival!","ru":"И культура фуррианцев совсем не такая, как я думала...\nТеперь даже эта Великая фея ждёт Праздник огня с нетерпением!"}
 {"id":"story_text:43520551423050496","en":"{playerName}","ru":"{playerName}"}
-{"id":"story_text:43520551423050752","en":"The Fire Festival also honors Tana, doesn't it?\nThe wolf who was Shallul's companion.","ru":"Праздник огня ведь ещё и в честь Таны,\nволчицы, которая была спутницей Шаллула?"}
+{"id": "story_text:43520551423050752", "en": "The Fire Festival also honors Tana, doesn't it?\nThe wolf who was Charlulu's companion.", "ru": "Праздник огня ведь ещё и в честь Таны,\nволчицы, которая была спутницей Шаллула?"}
 {"id":"story_text:43520555718017792","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43520555718018048","en":"Yes. They say she was a strong and beautiful White Wolf.","ru":"Да. Говорят, она была сильной и прекрасной Белой волчицей."}
 {"id":"story_text:43520560012985088","en":"Luruka","ru":"Лурука"}
@@ -25389,7 +25389,7 @@
 {"id":"story_text:43520757581480704","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43520757581480960","en":"The Village Chief told me all of it—","ru":"Староста рассказал мне обо всём—"}
 {"id":"story_text:43520761876448000","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43520761876448256","en":"\"You are a descendant of Lord Sozanka.\nYou will inherit the shaman's power and guide the people as the great shaman, Lord Sharl, once did.\"","ru":"«Ты — потомок владыки Содзанки.\nТы унаследуешь силу шамана и поведёшь людей, как некогда великий шаман лорд Шарль»."}
+{"id": "story_text:43520761876448256", "en": "\"You are a descendant of Lord Sozanka.\nYou will inherit the shaman's power and guide the people as the great shaman, Lord Charlulu, once did.\"", "ru": "«Ты — потомок владыки Содзанки.\nТы унаследуешь силу шамана и поведёшь людей, как некогда великий шаман лорд Шарль»."}
 {"id":"story_text:43520766171415296","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43520766171415552","en":"I believed those words and kept myself from ever wavering.\nUntil today, I've tried my best to fulfill my duty as shaman.","ru":"Я поверила этим словам и старалась никогда не сомневаться.\nДо сегодняшнего дня я изо всех сил старалась исполнить свой долг шамана."}
 {"id":"story_text:43520770466382592","en":"Luruka","ru":"Лурука"}
@@ -25401,21 +25401,21 @@
 {"id":"story_text:43520779056317184","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43520779056317440","en":"I am trying to look ahead... but...","ru":"Я стараюсь смотреть в будущее... но..."}
 {"id":"story_text:43520783351284480","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43520783351284736","en":"The truth is, I received a revelation from Lord Sharl and Tana...","ru":"На самом деле мне было откровение от лорда Шарля и Таны..."}
+{"id": "story_text:43520783351284736", "en": "The truth is, I received a revelation from Lord Charlulu and Tana...", "ru": "На самом деле мне было откровение от лорда Шарля и Таны..."}
 {"id":"story_text:43520787646251776","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43520787646252032","en":"A strange, somehow nostalgic scene appeared in my mind, like a dream...","ru":"В моём сознании возникло странное, чем-то родное видение, словно сон..."}
 {"id":"story_text:43520791941219072","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43520791941219328","en":"In that revelation... I saw someone's memories.","ru":"В этом откровении... я увидела чьи-то воспоминания."}
 {"id":"story_text:43520796236186368","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43520796236186624","en":"Perhaps it was something that happened long ago to Shallul, the great shaman,\nand the <ruby=Tana>White Wolf</ruby>.","ru":"Возможно, давным-давно так случилось с великим шаманом Шаллулом\nи <ruby=Тана>Белой волчицей</ruby>."}
+{"id": "story_text:43520796236186624", "en": "Perhaps it was something that happened long ago to Charlulu, the great shaman,\nand the <ruby=Tana>White Wolf</ruby>.", "ru": "Возможно, давным-давно так случилось с великим шаманом Шаллулом\nи <ruby=Тана>Белой волчицей</ruby>."}
 {"id":"story_text:43520800531153664","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43520800531153920","en":"They stayed close, supported each other, and were bound by a precious bond.","ru":"Они держались вместе, поддерживали друг друга и были связаны драгоценными узами."}
 {"id":"story_text:43520804826120960","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43520804826121216","en":"In the revelation, Lord Sharl always repeats the same words—","ru":"В откровении лорд Шарль всегда повторяет одни и те же слова—"}
+{"id": "story_text:43520804826121216", "en": "In the revelation, Lord Charlulu always repeats the same words—", "ru": "В откровении лорд Шарль всегда повторяет одни и те же слова—"}
 {"id":"story_text:43520809121088256","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43520809121088512","en":"\"Protect the bloodline, protect this haven. Never again... will I let my companions be sacrificed.\"","ru":"«Защищать род, защищать эту землю покоя. И больше никогда... не позволять приносить в жертву товарищей»."}
 {"id":"story_text:43520813416055552","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43520813416055808","en":"It must be a warning from Lord Sharl, so that I never forget my duty.","ru":"Наверное, это предостережение от лорда Шарля, чтобы я не забывала о своём долге."}
+{"id": "story_text:43520813416055808", "en": "It must be a warning from Lord Charlulu, so that I never forget my duty.", "ru": "Наверное, это предостережение от лорда Шарля, чтобы я не забывала о своём долге."}
 {"id":"story_text:43520907905336064","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43520907905336320","en":"On a night like this, even the early Jinshuo night wind doesn't feel cold.","ru":"В такую ночь даже ранний ночной ветер Цзиньшо не кажется холодным."}
 {"id":"story_text:43520912200303360","en":"Luruka","ru":"Лурука"}
@@ -25667,9 +25667,9 @@
 {"id":"story_text:43524867865182976","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43524867865183232","en":"The village was still new back then.\nRudaris came from beyond the valley at the head of a horde of <ruby=Dire Beasts>Ravening Beasts</ruby> and attacked us.","ru":"Тогда наша деревня ещё только появилась.\nИз-за пределов долины явился Рударис с целой ордой <ruby=Лютые звери>хищных зверей</ruby> и напал на нас."}
 {"id":"story_text:43524872160150272","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43524872160150528","en":"Under the command of the great Shaman Shallul... we fought for our lives.","ru":"Под началом великого Шамана Шаллула... мы сражались не на жизнь, а на смерть."}
+{"id": "story_text:43524872160150528", "en": "Under the command of the great Shaman Charlulu... we fought for our lives.", "ru": "Под началом великого Шамана Шаллула... мы сражались не на жизнь, а на смерть."}
 {"id":"story_text:43524876455117568","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43524876455117824","en":"The nightmare Luruka saw is likely the very Calamity that Shallul endured a Hundred Years ago.","ru":"Скорее всего, кошмар, который видит Лурука, — само то бедствие, что пережил Шаллул Сто лет назад."}
+{"id": "story_text:43524876455117824", "en": "The nightmare Luruka saw is likely the very Calamity that Charlulu endured a Hundred Years ago.", "ru": "Скорее всего, кошмар, который видит Лурука, — само то бедствие, что пережил Шаллул Сто лет назад."}
 {"id":"story_text:43524880750084864","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43524880750085120","en":"Now the signs of Calamity have appeared once more.\nThe Dire Beast sealed away for a Hundred Years may break free of its cocoon and revive...","ru":"Ныне вновь явились знамения бедствия.\nЛютый зверь, запечатанный Сто лет назад, может разорвать кокон и пробудиться..."}
 {"id":"story_text:43524885045052160","en":"{playerName}","ru":"{playerName}"}
@@ -25679,7 +25679,7 @@
 {"id":"story_text:43524893634986752","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43524893634987008","en":"Could it be... is that why you were trying to call the Great Wolf?","ru":"Может... ради этого вы и пытались призвать Великого волка?"}
 {"id":"story_text:43524897929954048","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43524897929954304","en":"Indeed. A Hundred Years ago, Shallul summoned the Great Wolf,\nand we barely managed to overcome Rudaris...","ru":"Именно. Сто лет назад Шаллул призвал Великого волка,\nи мы едва сумели одолеть Рудариса..."}
+{"id": "story_text:43524897929954304", "en": "Indeed. A Hundred Years ago, Charlulu summoned the Great Wolf,\nand we barely managed to overcome Rudaris...", "ru": "Именно. Сто лет назад Шаллул призвал Великого волка,\nи мы едва сумели одолеть Рудариса..."}
 {"id":"story_text:43524902224921344","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43524902224921600","en":"But even so, we never found a way to defeat it completely.\nIn the end, we had no choice but to borrow Karmana's power and seal it deep in the valley... in the Forbidden Zone.","ru":"Но даже так мы не нашли способа одолеть его окончательно.\nВ конце концов пришлось одолжить силу Карманы и запечатать его в глубине долины... в Запретной зоне."}
 {"id":"story_text:43524906519888640","en":"Village Chief","ru":"Староста"}
@@ -25739,7 +25739,7 @@
 {"id":"story_text:43525018189038336","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43525018189038592","en":"Good grief... Is this what they call fate?\nAfter a Hundred Years, we'll fight as one village once more...","ru":"Вот ведь... Видать, такая судьба.\nСпустя Сто лет деревне вновь предстоит сражаться всем вместе..."}
 {"id":"story_text:43525022484005632","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43525022484005888","en":"Shallul, I can only hope this is the future you wished for...","ru":"Шаллул, хотел бы я, чтобы это было то будущее, которое ты желал..."}
+{"id": "story_text:43525022484005888", "en": "Charlulu, I can only hope this is the future you wished for...", "ru": "Шаллул, хотел бы я, чтобы это было то будущее, которое ты желал..."}
 {"id":"story_text:43525026778972928","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43525026778973184","en":"I saw a village engulfed in flames... and Luruka weeping.","ru":"Я видел деревню в огне... и плачущую Луруку."}
 {"id":"story_text:43525031073940224","en":"{playerName}","ru":"{playerName}"}
@@ -26038,57 +26038,57 @@
 {"id":"story_text:43536833644069888","en":"{playerName}, you're the only one who can save Luruka...\nNow, take her hand.","ru":"{playerName}, только ты можешь спасти Луруку...\nА теперь возьми её за руку."}
 {"id":"story_text:43536837939036928","en":"Metsa","ru":"Метса"}
 {"id":"story_text:43536837939037184","en":"\"<ruby=The winds of old remember all>Ion venht lal fronoare iluya tvenwa.</ruby>\"","ru":"«<ruby=Ветра минувшего помнят всё>Ion venht lal fronoare iluya tvenwa.</ruby>»"}
-{"id":"story_text:43540235258168064","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540235258168064", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540235258168320","en":"Danhalei! Tana! Look at that! It's an envoy from the Sea of Clouds!","ru":"Данхалей! Тана! Взгляните! Это посланник из Моря облаков!"}
 {"id":"story_text:43540239553135360","en":"Tana","ru":"Тана"}
 {"id":"story_text:43540239553135616","en":"Whuff.","ru":"Ваф."}
 {"id":"story_text:43540243848102656","en":"Danhalei","ru":"Данхалей"}
 {"id":"story_text:43540243848102912","en":"Hahaha! Out in the wider world, they call that a Shooting Star.\nIf you make a wish, it's said to come true.","ru":"Ха-ха-ха! В большом мире это называют Падающей звездой.\nГоворят, если загадать желание, оно исполнится."}
-{"id":"story_text:43540248143069952","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540248143069952", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540248143070208","en":"Wishes come true...? Then I must hurry and make one!","ru":"Желания исполняются...? Тогда мне нужно поскорее загадать!"}
 {"id":"story_text:43540252438037248","en":"Danhalei","ru":"Данхалей"}
 {"id":"story_text:43540252438037504","en":"Aye. But a Shooting Star vanishes in an instant.\nNo one can ever catch one.","ru":"Ага. Но Падающая звезда исчезает в одно мгновение.\nНикому её не поймать."}
-{"id":"story_text:43540256733004544","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540256733004544", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540256733004800","en":"May our kin build a new home on this land...\nAnd may hardship never come to us for all eternity.","ru":"Пусть наши сородичи построят на этой земле новый дом...\nИ пусть беды не коснутся нас вовеки."}
-{"id":"story_text:43540261027971840","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540261027971840", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540261027972096","en":"Danhalei! Is the shooting star still there?","ru":"Данхалей! Звезда всё ещё там?"}
 {"id":"story_text:43540265322939136","en":"Danhalei","ru":"Данхалей"}
 {"id":"story_text:43540265322939392","en":"Hm... strange. That shooting star is flying awfully slowly.\nMaybe it really is listening to your wish.","ru":"Хм... странно. Эта падающая звезда летит на удивление медленно.\nМожет, она и правда внимает твоему желанию."}
-{"id":"story_text:43540269617906432","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540269617906432", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540269617906688","en":"Yes! The Elder Spirits will surely carry my voice to it.","ru":"Да! Древние духи непременно донесут до неё мой голос."}
-{"id":"story_text:43540273912873728","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540273912873728", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540273912873984","en":"Now, there's no time to rest yet. I must lay the village's foundations as quickly as possible,\nso everyone can live without worry.","ru":"Так, отдыхать ещё рано. Нужно как можно скорее заложить основы деревни,\nчтобы все могли жить спокойно."}
 {"id":"story_text:43540278207841024","en":"？？？","ru":"？？？"}
 {"id":"story_text:43540278207841280","en":"Woof!","ru":"Гав!"}
-{"id":"story_text:43540282502808320","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540282502808320", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540282502808576","en":"Everything... it's all my fault...","ru":"Всё... во всём виноват я..."}
-{"id":"story_text:43540286797775616","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540286797775616", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540286797775872","en":"Everyone trusted me so much...\nAnd all I wanted was to save them...","ru":"Все так верили в меня...\nА я ведь только хотел всех спасти..."}
-{"id":"story_text:43540291092742912","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540291092742912", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540291092743168","en":"I couldn't do anything. The Calamity rained down, and Rudaris too—","ru":"Я ничего не смог сделать. Бедствие обрушилось, а за ним и Рударис—"}
-{"id":"story_text:43540295387710208","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540295387710208", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540295387710464","en":"I couldn't even defeat that horrible Dire Beast...","ru":"Я так и не смогла одолеть того ужасного Лютого зверя..."}
-{"id":"story_text:43540299682677504","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540299682677504", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540299682677760","en":"Even Tana... gave her life for me...","ru":"Даже Тана... отдала за меня жизнь..."}
-{"id":"story_text:43540303977644800","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540303977644800", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540303977645056","en":"All because... I am weak and powerless...","ru":"Всё... из-за того, что я слаба и беспомощна..."}
-{"id":"story_text:43540308272612096","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43540308272612096", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43540308272612352","en":"I let everyone down...","ru":"Я всех подвела..."}
 {"id":"story_text:43540312567579392","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43540312567579648","en":"No. Luruka, none of this is your fault!","ru":"Нет. Лурука, ты ни в чём не виновата!"}
 {"id":"story_text:43540316862546688","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43540316862546944","en":"Don't let the nightmare deceive you! These aren't Luruka's memories!","ru":"Не дай кошмару тебя обмануть! Это не воспоминания Луруки!"}
-{"id":"story_text:435403172920427264","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:435403172920427264", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:435403172920427520","en":"Why... why did it come to this...","ru":"Почему... почему всё так вышло..."}
-{"id":"story_text:435403177215394560","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:435403177215394560", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:435403177215394816","en":"Why does everyone... sacrifice themselves...","ru":"Почему все... жертвуют собой..."}
-{"id":"story_text:435403181510361856","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:435403181510361856", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:435403181510362112","en":"I promised I would protect them...","ru":"Я же обещала, что защищу их..."}
-{"id":"story_text:435403185805329152","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:435403185805329152", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:435403185805329408","en":"Karmana...","ru":"Кармана..."}
-{"id":"story_text:435403190100296448","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:435403190100296448", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:435403190100296704","en":"In the name of Sozanka's Shaman, I offer all that I am...","ru":"Именем шамана Содзанки я отдаю всё, что есть во мне..."}
-{"id":"story_text:435403194395263744","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:435403194395263744", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:435403194395264000","en":"Grant me the power to return the beast of calamity from the abyss to Puçe!","ru":"Даруй мне силу вернуть в Пче зверя бедствий, что явился из бездны!"}
 {"id":"story_text:43540321157513984","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43540321157514240","en":"You don't need to blame yourself! Everyone is waiting for you to wake up!|You don't need to blame yourself! Everyone is waiting for you to wake up!","ru":"Тебе не за что себя винить! Все ждут, когда ты проснёшься!|Тебе не за что себя винить! Все ждут, когда ты проснёшься!"}
@@ -26112,7 +26112,7 @@
 {"id":"story_text:43540359812219904","en":"Ah, Lord Starborn.","ru":"Ах, господин Звездорождённый."}
 {"id":"story_text:435403602417156864","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:435403602417157120","en":"Luruka!! Stay with me, open your eyes, Luruka!","ru":"Лурука!! Держись, открой глаза, Лурука!"}
-{"id":"story_text:435403606712124160","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:435403606712124160", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:435403606712124416","en":"Thank goodness... my star... you've finally reached me...","ru":"Как хорошо... моя звезда... ты наконец добралась до меня..."}
 {"id":"story_text:43540364107186944","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43540364107187200","en":"Luruka, I— |Luruka, I—","ru":"Лурука, я... |Лурука, я..."}
@@ -26127,9 +26127,9 @@
 {"id":"story_text:43540681934766848","en":"Metsa","ru":"Метса"}
 {"id":"story_text:43540681934767104","en":"No, not yet. But when you entered her Spirit World,\nher face twisted in pain for a moment.\nSo... were you able to see her memories?","ru":"Нет, ещё нет. Но когда ты вошёл в её духовный мир,\nна миг её лицо исказилось от боли.\nТак... ты смог увидеть её воспоминания?"}
 {"id":"story_text:43540686229734144","en":"{playerName}","ru":"{playerName}"}
-{"id":"story_text:43540686229734400","en":"Yes, but... it was supposed to be Luruka's dream,\nyet Sharl, the shaman of a hundred years ago, appeared.","ru":"Да, но... это же был сон Луруки,\nа появился Шарль, шаман столетней давности."}
+{"id": "story_text:43540686229734400", "en": "Yes, but... it was supposed to be Luruka's dream,\nyet Charlulu, the shaman of a hundred years ago, appeared.", "ru": "Да, но... это же был сон Луруки,\nа появился Шарль, шаман столетней давности."}
 {"id":"story_text:43540690524701440","en":"{playerName}","ru":"{playerName}"}
-{"id":"story_text:43540690524701696","en":"And... Sharl looked exactly like Luruka. What on earth does that mean?|And... Sharl looked exactly like Luruka. What on earth does that mean?","ru":"И ещё... Шаллул была точь-в-точь как Лурука. Что всё это значит?|И ещё... Шаллул была точь-в-точь как Лурука. Что всё это значит?"}
+{"id": "story_text:43540690524701696", "en": "And... Charlulu looked exactly like Luruka. What on earth does that mean?|And... Charlulu looked exactly like Luruka. What on earth does that mean?", "ru": "И ещё... Шаллул была точь-в-точь как Лурука. Что всё это значит?|И ещё... Шаллул была точь-в-точь как Лурука. Что всё это значит?"}
 {"id":"story_text:43540694819668736","en":"Metsa","ru":"Метса"}
 {"id":"story_text:43540694819668992","en":"……","ru":"……"}
 {"id":"story_text:43540699114636032","en":"Village Chief","ru":"Староста"}
@@ -26169,11 +26169,11 @@
 {"id":"story_text:43540772129080064","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540772129080320","en":"How am I to tell them...","ru":"Как же мне им это рассказать..."}
 {"id":"story_text:43540776424047360","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43540776424047616","en":"She's not Luruka... Her real name is Shallul.","ru":"Она не Лурука... Её настоящее имя — Шаллул."}
+{"id": "story_text:43540776424047616", "en": "She's not Luruka... Her real name is Charlulu.", "ru": "Она не Лурука... Её настоящее имя — Шаллул."}
 {"id":"story_text:43540780719014656","en":"Terara","ru":"Терара"}
-{"id":"story_text:43540780719014912","en":"Shallul...","ru":"Шаллул..."}
+{"id": "story_text:43540780719014912", "en": "Charlulu...", "ru": "Шаллул..."}
 {"id":"story_text:43540785013981952","en":"Lumi","ru":"Луми"}
-{"id":"story_text:43540785013982208","en":"Shallul... You mean the legendary shaman?\nThe hero who saved this village?","ru":"Шаллул... Ты о той легендарной шаманке?\nГероине, спасшей эту деревню?"}
+{"id": "story_text:43540785013982208", "en": "Charlulu... You mean the legendary shaman?\nThe hero who saved this village?", "ru": "Шаллул... Ты о той легендарной шаманке?\nГероине, спасшей эту деревню?"}
 {"id":"story_text:43540789308949248","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540789308949504","en":"Indeed. But the legend is false.\nIt is nothing but a fabrication we wove to hide the truth and make the past forgotten...","ru":"Именно. Но легенда — ложь.\nВсего лишь вымысел, созданный нами, чтобы скрыть правду и заставить всех забыть прошлое..."}
 {"id":"story_text:43540793603916544","en":"Symphoria","ru":"Симфория"}
@@ -26181,7 +26181,7 @@
 {"id":"story_text:43540797898883840","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540797898884096","en":"It was a hundred years ago, when the whole village fought Rudaris.\nEven then, we tried to summon the Great Wolf through the Fire Festival.","ru":"Сто лет назад, когда вся деревня сражалась с Рударисом.\nУже тогда мы пытались призвать Великого волка на Празднике огня."}
 {"id":"story_text:43540802193851136","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43540802193851392","en":"To hold Rudaris back, Shallul borrowed the power of Karmana.","ru":"Чтобы сдержать Рудариса, Шаллул одолжила силу Карманы."}
+{"id": "story_text:43540802193851392", "en": "To hold Rudaris back, Charlulu borrowed the power of Karmana.", "ru": "Чтобы сдержать Рудариса, Шаллул одолжила силу Карманы."}
 {"id":"story_text:43540806488818432","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540806488818688","en":"But the Great Wolf never answered the summons, and the Fire Festival ended in failure.","ru":"Но Великий волк так и не откликнулся на зов, и Праздник огня закончился неудачей."}
 {"id":"story_text:43540810783785728","en":"Village Chief","ru":"Староста"}
@@ -26189,7 +26189,7 @@
 {"id":"story_text:43540815078753024","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540815078753280","en":"But because of that, the wolves were all sacrificed... and Tana lost her life as well.","ru":"Но из-за этого все волки погибли... и Тана тоже лишилась жизни."}
 {"id":"story_text:43540819373720320","en":"{playerName}","ru":"{playerName}"}
-{"id":"story_text:43540819373720576","en":"Tana... That's Shallul's partner, the Fennwolf who stayed by her side.","ru":"Тана... Это же напарница Шаллул — феннвольф, что был рядом с ней."}
+{"id": "story_text:43540819373720576", "en": "Tana... That's Charlulu's partner, the Fennwolf who stayed by her side.", "ru": "Тана... Это же напарница Шаллул — феннвольф, что был рядом с ней."}
 {"id":"story_text:43540823668687616","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43540823668687872","en":"The mysterious white wolf I've seen so many times in this valley looked exactly like the Tana from my dreams...","ru":"Та загадочная белая волчица, которую я столько раз видел в этой долине, была точь-в-точь как Тана из моих снов..."}
 {"id":"story_text:43540827963654912","en":"Village Chief","ru":"Староста"}
@@ -26201,11 +26201,11 @@
 {"id":"story_text:43540840848556800","en":"Metsa","ru":"Метса"}
 {"id":"story_text:43540840848557056","en":"To seal Rudaris, I had no choice but to cling to one last hope...","ru":"Чтобы запечатать Рудариса, мне оставалось лишь ухватиться за последнюю надежду..."}
 {"id":"story_text:43540845143524096","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43540845143524352","en":"I linked Shallul with Karmana, and with that karma,\nI made her very life... into the cocoon that seals Rudaris.","ru":"Я связала Шаллул с Карманой, и этой кармой,\nя обратила её жизнь... в кокон, запечатывающий Рудариса."}
+{"id": "story_text:43540845143524352", "en": "I linked Charlulu with Karmana, and with that karma,\nI made her very life... into the cocoon that seals Rudaris.", "ru": "Я связала Шаллул с Карманой, и этой кармой,\nя обратила её жизнь... в кокон, запечатывающий Рудариса."}
 {"id":"story_text:43540849438491392","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540849438491648","en":"But even with Karmana's power, Rudaris could not be fully sealed.","ru":"Но даже с силой Карманы Рудариса не удалось запечатать полностью."}
 {"id":"story_text:43540853733458688","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43540853733458944","en":"If the seal is ever broken, Shallul's life will end as well...","ru":"Если печать будет разрушена, жизнь Шаллул тоже угаснет..."}
+{"id": "story_text:43540853733458944", "en": "If the seal is ever broken, Charlulu's life will end as well...", "ru": "Если печать будет разрушена, жизнь Шаллул тоже угаснет..."}
 {"id":"story_text:43540858028425984","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43540858028426240","en":"Then Luruka is still...","ru":"Значит, Лурука до сих пор..."}
 {"id":"story_text:43540862323393280","en":"Metsa","ru":"Метса"}
@@ -26221,13 +26221,13 @@
 {"id":"story_text:43540883798229760","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540883798230016","en":"A hundred years ago, when we were at our wits' end,\na mysterious visitor came to us.","ru":"Сто лет назад, когда мы не знали, что делать,\nк нам пришёл загадочный гость."}
 {"id":"story_text:43540888093197056","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43540888093197312","en":"That one said they could sustain Shallul's life.\nWe agreed to their offer and could only gamble on hope.","ru":"Тот сказал, что сможет поддержать жизнь Шаллул.\nМы согласились на это предложение и могли лишь положиться на надежду."}
+{"id": "story_text:43540888093197312", "en": "That one said they could sustain Charlulu's life.\nWe agreed to their offer and could only gamble on hope.", "ru": "Тот сказал, что сможет поддержать жизнь Шаллул.\nМы согласились на это предложение и могли лишь положиться на надежду."}
 {"id":"story_text:43540892388164352","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43540892388164608","en":"And so Shallul was taken away, and for a hundred years we never saw her again...","ru":"Так Шаллул забрали, и сто лет мы её не видели..."}
+{"id": "story_text:43540892388164608", "en": "And so Charlulu was taken away, and for a hundred years we never saw her again...", "ru": "Так Шаллул забрали, и сто лет мы её не видели..."}
 {"id":"story_text:43540896683131648","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43540896683131904","en":"The seal on Rudaris holds. Shallul must still be alive somewhere.\nWe had no choice but to believe it.","ru":"Печать Рудариса не разрушена. Шаллул наверняка где-то жива.\nНам оставалось только верить в это."}
+{"id": "story_text:43540896683131904", "en": "The seal on Rudaris holds. Charlulu must still be alive somewhere.\nWe had no choice but to believe it.", "ru": "Печать Рудариса не разрушена. Шаллул наверняка где-то жива.\nНам оставалось только верить в это."}
 {"id":"story_text:43540900978098944","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43540900978099200","en":"Two Shuo ago, Shallul appeared again before the Great Wolf's statue.\nOnly then did we know that what that visitor had said was true.","ru":"Два шо назад Шаллул вновь предстала перед статуей Великого волка.\nТолько тогда мы поняли, что тот гость говорил правду."}
+{"id": "story_text:43540900978099200", "en": "Two Shuo ago, Charlulu appeared again before the Great Wolf's statue.\nOnly then did we know that what that visitor had said was true.", "ru": "Два шо назад Шаллул вновь предстала перед статуей Великого волка.\nТолько тогда мы поняли, что тот гость говорил правду."}
 {"id":"story_text:43540905273066240","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540905273066496","en":"Looking back now... that strange visitor also called themselves\nby this name — 'Starborn.'","ru":"Оглядываясь назад... тот странный гость тоже называл себя\nтак — «Звездорождённый»."}
 {"id":"story_text:43540909568033536","en":"Symphoria","ru":"Симфория"}
@@ -26255,7 +26255,7 @@
 {"id":"story_text:43540965402608384","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43540965402608640","en":"If word got out that the valley is still under the shadow of disaster,\nour Hundred Years of peace would crumble in an instant.","ru":"Если бы люди узнали, что долина до сих пор под тенью беды,\nнаши Сто лет спокойной жизни рухнули бы в один миг."}
 {"id":"story_text:43540969697575680","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43540969697575936","en":"This village is the home Sharl built at the cost of his life.\nI cannot let the Furrian children live in fear.\nTo protect them, this was the only way.","ru":"Эта деревня — дом, который Шарль построил ценой своей жизни.\nЯ не могу позволить детям-фуррианцам жить в страхе.\nЧтобы защитить их, иного пути не было."}
+{"id": "story_text:43540969697575936", "en": "This village is the home Charlulu built at the cost of his life.\nI cannot let the Furrian children live in fear.\nTo protect them, this was the only way.", "ru": "Эта деревня — дом, который Шарль построил ценой своей жизни.\nЯ не могу позволить детям-фуррианцам жить в страхе.\nЧтобы защитить их, иного пути не было."}
 {"id":"story_text:43540973992542976","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43540973992543232","en":"No...","ru":"Не может быть..."}
 {"id":"story_text:43540982582477568","en":"{playerName}","ru":"{playerName}"}
@@ -26503,17 +26503,17 @@
 {"id":"story_text:43558368610091776","en":"Terara","ru":"Терара"}
 {"id":"story_text:43558368610092032","en":"But! What about Luruka?!\nIf Rudaris' seal is broken, Luruka will...","ru":"Но! Как же Лурука?!\nЕсли печать Рудариса будет разрушена, Лурука..."}
 {"id":"story_text:43558372905059072","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43558372905059328","en":"This is also Sharl's wish...","ru":"Это также желание Шарля..."}
+{"id": "story_text:43558372905059328", "en": "This is also Charlulu's wish...", "ru": "Это также желание Шарля..."}
 {"id":"story_text:43558377200026368","en":"Terara","ru":"Терара"}
 {"id":"story_text:43558377200026624","en":"What did you say?","ru":"Что ты сказала?"}
 {"id":"story_text:43558381494993664","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43558381494993920","en":"A hundred years ago, I made a promise with Sharl...\nIf that child's life can no longer maintain the seal,\nwe would leave this valley and build a new home.","ru":"Сто лет назад я дал обещание Шарлю...\nЕсли жизнь этой девочки больше не сможет поддерживать печать,\nмы покинем эту долину и построим новый дом."}
+{"id": "story_text:43558381494993920", "en": "A hundred years ago, I made a promise with Charlulu...\nIf that child's life can no longer maintain the seal,\nwe would leave this valley and build a new home.", "ru": "Сто лет назад я дал обещание Шарлю...\nЕсли жизнь этой девочки больше не сможет поддерживать печать,\nмы покинем эту долину и построим новый дом."}
 {"id":"story_text:43558385789960960","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43558385789961216","en":"Sharl did not wish for you all to become sacrifices...\nThat was her strongest wish.","ru":"Шарль не хотел бы, чтобы вы стали жертвами...\nЭто было её самым сильным желанием."}
+{"id": "story_text:43558385789961216", "en": "Charlulu did not wish for you all to become sacrifices...\nThat was her strongest wish.", "ru": "Шарль не хотел бы, чтобы вы стали жертвами...\nЭто было её самым сильным желанием."}
 {"id":"story_text:43558390084928256","en":"Terara","ru":"Терара"}
 {"id":"story_text:43558390084928512","en":"That… I won't do it!","ru":"Я… Я так не хочу!"}
 {"id":"story_text:43558394379895552","en":"Terara","ru":"Терара"}
-{"id":"story_text:43558394379895808","en":"That kid isn't Sharl!\nShe's Luruka! My little sister! There's no way I'd abandon her!","ru":"Эта девочка не Шарль!\nОна Лурука! Моя младшая сестрёнка! Я ни за что её не брошу!"}
+{"id": "story_text:43558394379895808", "en": "That kid isn't Charlulu!\nShe's Luruka! My little sister! There's no way I'd abandon her!", "ru": "Эта девочка не Шарль!\nОна Лурука! Моя младшая сестрёнка! Я ни за что её не брошу!"}
 {"id":"story_text:43558398674862848","en":"Terara","ru":"Терара"}
 {"id":"story_text:43558398674863104","en":"And this village too... it may look tiny from the outside,\nbut to me, this place is everything!","ru":"И эта деревня... пусть снаружи она кажется крошечной,\nдля меня здесь — это всё!"}
 {"id":"story_text:43558402969830144","en":"Terara","ru":"Терара"}
@@ -26592,7 +26592,7 @@
 {"id":"story_text:43558557588652800","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43558557588653056","en":"……","ru":"……"}
 {"id":"story_text:43558561883620096","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43558561883620352","en":"Sharl...\nI hope our decision... is not the wrong one.","ru":"Шарль...\nНадеюсь, наше решение... не окажется ошибкой."}
+{"id": "story_text:43558561883620352", "en": "Charlulu...\nI hope our decision... is not the wrong one.", "ru": "Шарль...\nНадеюсь, наше решение... не окажется ошибкой."}
 {"id":"story_text:43559133114270464","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43559133114270720","en":"Wolf-Tail Girl! Calm down!","ru":"Девушка с волчьим хвостом! Успокойся!"}
 {"id":"story_text:43559137409237760","en":"Terara","ru":"Терара"}
@@ -26631,7 +26631,7 @@
 {"id":"story_text:43560855396156160","en":"Metsa","ru":"Метса"}
 {"id":"story_text:43560855396156416","en":"I see. So the Village Chief has made up his mind.","ru":"Вот как. Значит, староста решился."}
 {"id":"story_text:43560859691123456","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43560859691123712","en":"Don't blame him. He was Shallul's comrade in arms.\nAnd now he has to go through that child's death all over again...\nNo one is suffering more from this decision than he is.","ru":"Не осуждай его. Он был боевым товарищем Шаллула.\nА теперь ему снова придётся пережить смерть той девочки...\nНикто не страдает от этого решения больше, чем он сам."}
+{"id": "story_text:43560859691123712", "en": "Don't blame him. He was Charlulu's comrade in arms.\nAnd now he has to go through that child's death all over again...\nNo one is suffering more from this decision than he is.", "ru": "Не осуждай его. Он был боевым товарищем Шаллула.\nА теперь ему снова придётся пережить смерть той девочки...\nНикто не страдает от этого решения больше, чем он сам."}
 {"id":"story_text:43560863986090752","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43560863986091008","en":"Metsa, isn't there another way?","ru":"Метса, нет разве другого способа?"}
 {"id":"story_text:43560868281058048","en":"Metsa","ru":"Метса"}
@@ -27203,7 +27203,7 @@
 {"id":"story_text:43571640059036416","en":"Kirk","ru":"Кирк"}
 {"id":"story_text:43571640059036672","en":"Chiruru's right... Our village is in a real crisis, and we've lived here all our lives.\nRunning away with our tails between our legs is just too uncool!","ru":"Тируру права... Наша деревня в настоящей беде, а мы ведь всю жизнь здесь живём.\nПоджав хвост и сбежав, мы бы выглядели совсем не круто!"}
 {"id":"story_text:43571644354003712","en":"Kirk","ru":"Кирк"}
-{"id":"story_text:43571644354003968","en":"Village Chief and Lord Sharl sacrificed so much to protect Charlulu Village.\nI want to... I want to be of help too...","ru":"Староста и Лорд Шарль принесли столько жертв, чтобы защитить деревню Шарлулу.\nЯ тоже... я тоже хочу помочь..."}
+{"id": "story_text:43571644354003968", "en": "Village Chief and Lord Charlulu sacrificed so much to protect Charlulu Village.\nI want to... I want to be of help too...", "ru": "Староста и Лорд Шарль принесли столько жертв, чтобы защитить деревню Шарлулу.\nЯ тоже... я тоже хочу помочь..."}
 {"id":"story_text:43571648648971008","en":"Kirk","ru":"Кирк"}
 {"id":"story_text:43571648648971264","en":"Besides, if old man Kuka is really like the rumors say,\nthen even in Puçe, he'd probably call me useless!","ru":"К тому же, если старина Кука и правда такой, как говорят,\nто даже в Пче он наверняка обзовёт меня бесполезным!"}
 {"id":"story_text:43571652943938304","en":"Kirk","ru":"Кирк"}
@@ -27411,7 +27411,7 @@
 {"id":"story_text:43577253581292288","en":"Terara","ru":"Терара"}
 {"id":"story_text:43577253581292544","en":"To tell the truth, I've been really unsure lately...","ru":"Честно говоря, в последнее время я правда теряюсь..."}
 {"id":"story_text:43577257876259584","en":"Terara","ru":"Терара"}
-{"id":"story_text:43577257876259840","en":"Luruka is my little sister, and yet...\nshe's also Sharl, the great Shaman who founded the village, right?\nI just can't believe it...","ru":"Лурука ведь моя сестра...\nно ещё и Шалл, великий Шаман, основавший деревню, верно?\nВ такое просто не верится..."}
+{"id": "story_text:43577257876259840", "en": "Luruka is my little sister, and yet...\nshe's also Charlulu, the great Shaman who founded the village, right?\nI just can't believe it...", "ru": "Лурука ведь моя сестра...\nно ещё и Шалл, великий Шаман, основавший деревню, верно?\nВ такое просто не верится..."}
 {"id":"story_text:43577262171226880","en":"Terara","ru":"Терара"}
 {"id":"story_text:43577262171227136","en":"She's carrying a role I can barely understand...\nbearing all the pain and suffering on her own.","ru":"Она несёт на себе роль, которую мне и не понять...\nи в одиночку выдерживает всю боль и все страдания."}
 {"id":"story_text:43577266466194176","en":"Terara","ru":"Терара"}
@@ -27542,7 +27542,7 @@
 {"id":"story_text:43578052445209344","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43578052445209600","en":"Metsa...","ru":"Метса..."}
 {"id":"story_text:43578056740176640","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43578056740176896","en":"On that night a hundred years ago, I too could only stand by in silence\nas Shallul sacrificed herself...","ru":"В ту ночь сто лет назад я тоже могла лишь молча стоять и смотреть,\nкак Шаллул приносит себя в жертву..."}
+{"id": "story_text:43578056740176896", "en": "On that night a hundred years ago, I too could only stand by in silence\nas Charlulu sacrificed herself...", "ru": "В ту ночь сто лет назад я тоже могла лишь молча стоять и смотреть,\nкак Шаллул приносит себя в жертву..."}
 {"id":"story_text:43578061035143936","en":"Metsa","ru":"Метса"}
 {"id":"story_text:43578061035144192","en":"To protect everyone...Even if that was what she wanted,\nit wasn't right to make her carry it all alone.","ru":"Чтобы защитить всех...Даже если это было её желанием,\nвзваливать всё на одну не было правильно."}
 {"id":"story_text:43578065330111232","en":"Metsa","ru":"Метса"}
@@ -27556,7 +27556,7 @@
 {"id":"story_text:43578082509980416","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43578082509980672","en":"From this Base, I can see your resolve,\nand the sparks of hope that gathered over a hundred years...","ru":"С этой базы видно вашу решимость,\nи искры надежды, что собирались сто лет..."}
 {"id":"story_text:43578086804947712","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43578086804947968","en":"Young one, would you let an old man\njoin you in the fight to protect Shallul and the village?","ru":"Юная, позволишь ли ты старику\nприсоединиться к вашей битве за Шаллул и деревню?"}
+{"id": "story_text:43578086804947968", "en": "Young one, would you let an old man\njoin you in the fight to protect Charlulu and the village?", "ru": "Юная, позволишь ли ты старику\nприсоединиться к вашей битве за Шаллул и деревню?"}
 {"id":"story_text:43578091099915008","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43578091099915264","en":"Of course. Let's all fight together with all our strength!","ru":"Конечно. Давайте все вместе сражаться изо всех сил!"}
 {"id":"story_text:43578095394882304","en":"Metsa","ru":"Метса"}
@@ -28030,12 +28030,12 @@
 {"id":"story_text:435999756762743552","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:435999756762743808","en":"Like someone is pulling me up... so peaceful, so comforting...","ru":"Будто кто-то вытягивает меня наверх... так спокойно, так хорошо..."}
 {"id":"story_text:435999761057710848","en":"Terana","ru":"Терана"}
-{"id":"story_text:435999761057711104","en":"Shallul! Look at the western sky!","ru":"Шаллул! Взгляни на западное небо!"}
-{"id":"story_text:435999765352678144","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:435999761057711104", "en": "Charlulu! Look at the western sky!", "ru": "Шаллул! Взгляни на западное небо!"}
+{"id": "story_text:435999765352678144", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:435999765352678400","en":"Is that... a star falling from the heavens?\nA blue... shooting star?","ru":"Неужели... с небес падает звезда?\nГолубая... падающая звезда?"}
 {"id":"story_text:435999769647645440","en":"Danhalei","ru":"Данхалей"}
 {"id":"story_text:435999769647645696","en":"Hmm, legend has it that\nif you pray to a star falling from the sky, your wish will come true.","ru":"Хм, по преданию,\nесли помолиться падающей с неба звезде, она исполнит твоё желание."}
-{"id":"story_text:435999773942612736","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:435999773942612736", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:435999773942612992","en":"A wish... Has my wish... come true?","ru":"Желание... Неужели моё желание... исполнилось?"}
 {"id":"story_text:435999799712416512","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:435999799712416768","en":"The voices of the Elder Spirits... are fading away...","ru":"Голоса Древних духов... удаляются..."}
@@ -28279,13 +28279,13 @@
 {"id":"story_text:43604728487085056","en":"Please...someone, tell me...","ru":"Прошу... кто-нибудь, скажите мне..."}
 {"id":"story_text:43604732782052096","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43604732782052352","en":"How can I save everyone...?","ru":"Как мне спасти всех...?"}
-{"id":"story_text:43604737077019392","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43604737077019392", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43604737077019648","en":"As I thought, you cannot do it...just like a Hundred Years ago.","ru":"Как я и думал, тебе это не под силу... так же, как и Сто лет назад."}
-{"id":"story_text:43604741371986688","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43604741371986688", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43604741371986944","en":"Sacrificing yourself changes nothing...","ru":"Самопожертвование ничего не изменит..."}
-{"id":"story_text:43604745666953984","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43604745666953984", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43604745666954240","en":"I (you) forced Tana and the wolves to make sacrifices...","ru":"Я (ты) вынудил(а) Тану и волков принести жертвы..."}
-{"id":"story_text:43604749961921280","en":"Shallul","ru":"Шаллул"}
+{"id": "story_text:43604749961921280", "en": "Charlulu", "ru": "Шаллул"}
 {"id":"story_text:43604749961921536","en":"You (I) should bear all the retribution!","ru":"Ты (я) должен(на) понести всю расплату!"}
 {"id":"story_text:43604754256888576","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43604754256888832","en":"Yes...you're right...","ru":"Да... ты прав..."}
@@ -28324,7 +28324,7 @@
 {"id":"story_text:43605965437666048","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43605965437666304","en":"Thank you...\nfor always guiding me and helping me.","ru":"Спасибо...\nза то, что всегда вела меня и помогала мне."}
 {"id":"story_text:43605969732633344","en":"Tana","ru":"Тана"}
-{"id":"story_text:43605969732633600","en":"Sharl, do you still remember our promise?","ru":"Шарль, ты ещё помнишь наше обещание?"}
+{"id": "story_text:43605969732633600", "en": "Charlulu, do you still remember our promise?", "ru": "Шарль, ты ещё помнишь наше обещание?"}
 {"id":"story_text:43605974027600640","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43605974027600896","en":"Our promise...","ru":"Обещание..."}
 {"id":"story_text:43605978322567936","en":"Tana","ru":"Тана"}
@@ -28354,7 +28354,7 @@
 {"id":"story_text:43606029862175488","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43606029862175744","en":"Tana, this is my promise to you...\nour promise...","ru":"Тана, вот моё обещание тебе...\nнаше обещание..."}
 {"id":"story_text:43606034157142784","en":"Tana","ru":"Тана"}
-{"id":"story_text:43606034157143040","en":"Sharl... remember that promise.\nNothing is over yet.","ru":"Шарль... вспомни то обещание.\nЕщё ничего не кончено."}
+{"id": "story_text:43606034157143040", "en": "Charlulu... remember that promise.\nNothing is over yet.", "ru": "Шарль... вспомни то обещание.\nЕщё ничего не кончено."}
 {"id":"story_text:43606038452110080","en":"Tana","ru":"Тана"}
 {"id":"story_text:43606038452110336","en":"The pain of a hundred years ago was not meaningless.\nEven our sacrifice has meaning.","ru":"Боль столетней давности не была напрасной.\nИ наша жертва имеет смысл."}
 {"id":"story_text:43606042747077376","en":"Tana","ru":"Тана"}
@@ -28398,7 +28398,7 @@
 {"id":"story_text:43606124351456000","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43606124351456256","en":"I'm... not the same as I was a hundred years ago.\nBecause I'm not alone!","ru":"Я... уже не та, что сто лет назад.\nВедь я не одна!"}
 {"id":"story_text:43606377754526464","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43606377754526720","en":"No matter who I am... whether Sharl or Luruka!","ru":"Кем бы я ни была... Шарль или Лурука!"}
+{"id": "story_text:43606377754526720", "en": "No matter who I am... whether Charlulu or Luruka!", "ru": "Кем бы я ни была... Шарль или Лурука!"}
 {"id":"story_text:43606382049493760","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43606382049494016","en":"Even the weak \"me\" from back then!\nWith everyone by my side, I'm not afraid anymore!","ru":"Даже та слабая «я» из прошлого!\nС вами, со всеми, мне больше не страшно!"}
 {"id":"story_text:43606386344461056","en":"Luruka","ru":"Лурука"}
@@ -28683,19 +28683,19 @@
 {"id":"story_text:43616294834012928","en":"Terara","ru":"Терара"}
 {"id":"story_text:43616294834013184","en":"What are you saying, Luruka?\nIf the seal breaks, you'll die!","ru":"Что ты говоришь, Лурука?!\nЕсли печать разрушится, ты умрёшь!"}
 {"id":"story_text:43616299128980224","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43616299128980480","en":"Sharl... it's you, isn't it?","ru":"Шарль... это ты, верно?"}
+{"id": "story_text:43616299128980480", "en": "Charlulu... it's you, isn't it?", "ru": "Шарль... это ты, верно?"}
 {"id":"story_text:43616303423947520","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43616303423947776","en":"Metsa, thank you for always helping me...","ru":"Метса, спасибо, что всегда мне помогала..."}
 {"id":"story_text:43616307718914816","en":"Metsa","ru":"Метса"}
 {"id":"story_text:43616307718915072","en":"You remembered. And so you came here...\nAre you going to bear everything alone again? Like a hundred years ago...","ru":"Ты вспомнила. И потому пришла сюда...\nТы снова собираешься взвалить всё на себя? Как сто лет назад..."}
 {"id":"story_text:43616312013882112","en":"Terara","ru":"Терара"}
-{"id":"story_text:43616312013882368","en":"Sharl...? So you got your memories back?\nThen what about me...?","ru":"Шарль...? Значит, ты всё вспомнила?\nТогда что же я...?"}
+{"id": "story_text:43616312013882368", "en": "Charlulu...? So you got your memories back?\nThen what about me...?", "ru": "Шарль...? Значит, ты всё вспомнила?\nТогда что же я...?"}
 {"id":"story_text:43616316308849408","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43616316308849664","en":"Big Sister, I'm sorry I worried you.\nBut it's all right. I haven't changed. I'm still your little sister...","ru":"Старшая сестра, прости, что заставила тебя волноваться.\nНо всё хорошо. Я не изменилась. Я по-прежнему твоя младшая сестра..."}
 {"id":"story_text:43616320603816704","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43616320603816960","en":"I am Sharl, but I am also Luruka.","ru":"Я Шарль, но в то же время и Лурука."}
+{"id": "story_text:43616320603816960", "en": "I am Charlulu, but I am also Luruka.", "ru": "Я Шарль, но в то же время и Лурука."}
 {"id":"story_text:43616329193751296","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43616329193751552","en":"Metsa, Luruka won't make the same choice Sharl did.","ru":"Метса, Лурука не сделает того же выбора, что и Шарль."}
+{"id": "story_text:43616329193751552", "en": "Metsa, Luruka won't make the same choice Charlulu did.", "ru": "Метса, Лурука не сделает того же выбора, что и Шарль."}
 {"id":"story_text:43616333488718592","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43616333488718848","en":"I understand now...\nThat I'm never fighting alone...","ru":"Теперь я поняла...\nЧто я вовсе не сражаюсь в одиночку..."}
 {"id":"story_text:43616337783685888","en":"Luruka","ru":"Лурука"}
@@ -28772,7 +28772,7 @@
 {"id":"story_text:43623591983448832","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43623591983449088","en":"Tana...Tana...Is that you?","ru":"Тана...Тана...Это ты?"}
 {"id":"story_text:43623596278416128","en":"Tana","ru":"Тана"}
-{"id":"story_text:43623596278416384","en":"We meet again...Shallul.","ru":"Снова встретились...Шаллул."}
+{"id": "story_text:43623596278416384", "en": "We meet again...Charlulu.", "ru": "Снова встретились...Шаллул."}
 {"id":"story_text:43623600573383424","en":"Tana","ru":"Тана"}
 {"id":"story_text:43623600573383680","en":"You haven't changed. Just like a hundred years ago...brave and kind.","ru":"Ты не изменилась. Совсем как сто лет назад...смелая и добрая."}
 {"id":"story_text:43623604868350720","en":"Tana","ru":"Тана"}
@@ -28782,7 +28782,7 @@
 {"id":"story_text:43623613458285312","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43623613458285568","en":"The Great Wolf did not answer my wishes after all.\nBecause I am so inexperienced, I put everyone through this...","ru":"Великий волк так и не ответил на мои молитвы.\nИз-за моей неопытности все оказались в такой беде..."}
 {"id":"story_text:43623617753252608","en":"Tana","ru":"Тана"}
-{"id":"story_text:43623617753252864","en":"No, Shallul. A wolf does not act alone...","ru":"Нет, Шаллул. Волк не действует в одиночку..."}
+{"id": "story_text:43623617753252864", "en": "No, Charlulu. A wolf does not act alone...", "ru": "Нет, Шаллул. Волк не действует в одиночку..."}
 {"id":"story_text:43623622048219904","en":"Tana","ru":"Тана"}
 {"id":"story_text:43623622048220160","en":"We are family who share life and death from birth.","ru":"Мы — семья, что делит жизнь и смерть с самого рождения."}
 {"id":"story_text:43623626343187200","en":"Tana","ru":"Тана"}
@@ -29046,7 +29046,7 @@
 {"id":"story_text:43629596347728640","en":"Metsa","ru":"Метса"}
 {"id":"story_text:43629596347728896","en":"A black Stella Card...\nTo think such a thing existed.","ru":"Чёрная карта «Стелла»...\nНе думала, что такое бывает."}
 {"id":"story_text:43629600642695936","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43629600642696192","en":"Sharl, are you feeling all right?","ru":"Шарль, как твоё самочувствие?"}
+{"id": "story_text:43629600642696192", "en": "Charlulu, are you feeling all right?", "ru": "Шарль, как твоё самочувствие?"}
 {"id":"story_text:43629604937663232","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43629604937663488","en":"Me? Don't worry, I'm fine!","ru":"Я? Не волнуйтесь, со мной всё хорошо!"}
 {"id":"story_text:43629609232630528","en":"Metsa","ru":"Метса"}
@@ -29064,7 +29064,7 @@
 {"id":"story_text:43629635002434304","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43629635002434560","en":"This time, for certain... I'll live and keep that promise.\nSo I can see the future through, together with everyone in the valley!","ru":"Теперь уж точно... я буду жить и исполню это обещание.\nЧтобы вместе со всеми в долине увидеть будущее!"}
 {"id":"story_text:43629639297401600","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43629639297401856","en":"Sharl...","ru":"Шарль..."}
+{"id": "story_text:43629639297401856", "en": "Charlulu...", "ru": "Шарль..."}
 {"id":"story_text:43629643592368896","en":"Lumi","ru":"Луми"}
 {"id":"story_text:43629643592369152","en":"Hey, hey, why is everyone making such solemn faces?","ru":"Эй-эй, чего это у всех такие серьёзные лица?"}
 {"id":"story_text:43629647887336192","en":"Lumi","ru":"Луми"}
@@ -29191,7 +29191,7 @@
 {"id":"story_text:43631292859810560","en":"Village Chief","ru":"Староста"}
 {"id":"story_text:43631292859810816","en":"Ho ho... Of course they are.\nI'll leave the rest to you, Luruka...","ru":"Хо-хо... Конечно.\nОстальное я оставляю тебе, Лурука..."}
 {"id":"story_text:43631297154777856","en":"Village Chief","ru":"Староста"}
-{"id":"story_text:43631297154778112","en":"No... I heard you've remembered everything.\nShould I call you Sharl from now on...?","ru":"Нет... Я слышал, ты всё вспомнила.\nТеперь мне звать тебя Шарль...?"}
+{"id": "story_text:43631297154778112", "en": "No... I heard you've remembered everything.\nShould I call you Charlulu from now on...?", "ru": "Нет... Я слышал, ты всё вспомнила.\nТеперь мне звать тебя Шарль...?"}
 {"id":"story_text:43631301449745152","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43631301449745408","en":"No, please keep calling me Luruka...\nI love this name that everyone gave me.","ru":"Нет, прошу, зовите меня по-прежнему Лурукой...\nЯ очень люблю это имя, которое дали мне вы."}
 {"id":"story_text:43631305744712448","en":"Village Chief","ru":"Староста"}
@@ -29259,7 +29259,7 @@
 {"id":"story_text:43632164738171648","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43632164738171904","en":"I too... have so much I want to tell you, Metsa...","ru":"Мне ведь тоже... так много хочется тебе сказать, Метса..."}
 {"id":"story_text:43632169033138944","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43632169033139200","en":"Sharl, it's I who should be thanking you.\nA hundred years ago, it was because you sealed Rudaris that\nYggdrasil's barrier was also protected.","ru":"Шарль, это мне следует благодарить тебя.\nСто лет назад именно благодаря тому, что ты запечатала Рудариса,\nудалось защитить и Барьер Иггдрасиля."}
+{"id": "story_text:43632169033139200", "en": "Charlulu, it's I who should be thanking you.\nA hundred years ago, it was because you sealed Rudaris that\nYggdrasil's barrier was also protected.", "ru": "Шарль, это мне следует благодарить тебя.\nСто лет назад именно благодаря тому, что ты запечатала Рудариса,\nудалось защитить и Барьер Иггдрасиля."}
 {"id":"story_text:43632173328106240","en":"Metsa","ru":"Метса"}
 {"id":"story_text:43632173328106496","en":"I helped the village partly for my own sake as well.\nWe're comrades who fought together, aren't we?\nPlease, don't try to carry everything alone.","ru":"Я помогла деревне отчасти и ради себя самой.\nМы ведь товарищи, что сражались вместе.\nПрошу, не взваливай всё на себя в одиночку."}
 {"id":"story_text:43632177623073536","en":"Metsa","ru":"Метса"}
@@ -29321,7 +29321,7 @@
 {"id":"story_text:43632306472092416","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43632306472092672","en":"I see...","ru":"Вот как..."}
 {"id":"story_text:43632310767059712","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43632310767059968","en":"Shallul...no, Luruka.\nOnce I've checked on the sapling, I'll come visit Charlulu Village again.\nI'll be counting on you then.","ru":"Шаллул...нет, Лурука.\nКак только проверю состояние саженца, я снова навещу деревню Шарлулу.\nТогда уж прими меня как следует."}
+{"id": "story_text:43632310767059968", "en": "Charlulu...no, Luruka.\nOnce I've checked on the sapling, I'll come visit Charlulu Village again.\nI'll be counting on you then.", "ru": "Шаллул...нет, Лурука.\nКак только проверю состояние саженца, я снова навещу деревню Шарлулу.\nТогда уж прими меня как следует."}
 {"id":"story_text:43632315062027008","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43632315062027264","en":"Hehe… Yes! I'll look forward to it!\nYou're always welcome here!","ru":"Хе-хе… Да! Буду с нетерпением ждать!\nЗдесь тебе всегда рады!"}
 {"id":"story_text:43632327946928896","en":"Luruka","ru":"Лурука"}
@@ -29329,7 +29329,7 @@
 {"id":"story_text:43632332241896192","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43632332241896448","en":"If you hadn't been there, I would have long since...","ru":"Если бы не ты, я бы давно..."}
 {"id":"story_text:43632336536863488","en":"Metsa","ru":"Метса"}
-{"id":"story_text:43632336536863744","en":"Shallul...do you still remember when we first met?","ru":"Шаллул...ты ещё помнишь, как мы впервые встретились?"}
+{"id": "story_text:43632336536863744", "en": "Charlulu...do you still remember when we first met?", "ru": "Шаллул...ты ещё помнишь, как мы впервые встретились?"}
 {"id":"story_text:43632340831830784","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43632340831831040","en":"Of course! Back then, I went out to gather herbs and wandered deep into the forest...\nYou were the one who saved me after I lost consciousness from the poisonous mist...","ru":"Конечно! Тогда я вышла собрать травы и забрела в самую глубь леса...\nИ ты спасла меня, когда я потеряла сознание от ядовитого тумана..."}
 {"id":"story_text:43632345126798080","en":"Metsa","ru":"Метса"}
@@ -29375,7 +29375,7 @@
 {"id":"story_text:43632641479541504","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43632641479541760","en":"If everyone hadn't been at my side, we could never have defeated Rudaris...","ru":"Если бы вы все не были рядом, нам ни за что не одолеть Рудариса..."}
 {"id":"story_text:43632645774508800","en":"Luruka","ru":"Лурука"}
-{"id":"story_text:43632645774509056","en":"Maybe I wasn't the one protecting Charlulu Village after all...\nMaybe everyone has been protecting me,\nthe one named Shallul...","ru":"Может, это вовсе не я охраняла деревню Шарлулу...\nА может, все эти годы вы,\nвсе, защищали меня — ту, что носит имя Шаллул..."}
+{"id": "story_text:43632645774509056", "en": "Maybe I wasn't the one protecting Charlulu Village after all...\nMaybe everyone has been protecting me,\nthe one named Charlulu...", "ru": "Может, это вовсе не я охраняла деревню Шарлулу...\nА может, все эти годы вы,\nвсе, защищали меня — ту, что носит имя Шаллул..."}
 {"id":"story_text:43632650069476096","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_text:43632650069476352","en":"I'm glad you feel that way.","ru":"Я рад, что ты так думаешь."}
 {"id":"story_text:43632654364443392","en":"Luruka","ru":"Лурука"}
@@ -29409,7 +29409,7 @@
 {"id":"story_text:43632714493985536","en":"Symphoria","ru":"Симфория"}
 {"id":"story_text:43632714493985792","en":"Lumi, the purpose of this festival isn't the food...","ru":"Луми, цель этого праздника вовсе не еда..."}
 {"id":"story_text:43632718788952832","en":"Terara","ru":"Терара"}
-{"id":"story_text:43632718788953088","en":"Lulu...ahem!\nWhat were you and Lord Sharl talking about?","ru":"Лулу...кхм!\nО чём это вы с лордом Шарлем говорили?"}
+{"id": "story_text:43632718788953088", "en": "Lulu...ahem!\nWhat were you and Lord Charlulu talking about?", "ru": "Лулу...кхм!\nО чём это вы с лордом Шарлем говорили?"}
 {"id":"story_text:43632723083920128","en":"Luruka","ru":"Лурука"}
 {"id":"story_text:43632723083920384","en":"Oh, big sister, honestly.\nJust call me Luruka.","ru":"Ох, старшая сестра, ну что ты.\nЗови меня просто Лурука."}
 {"id":"story_text:43632727378887424","en":"Terara","ru":"Терара"}

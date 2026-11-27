@@ -751,7 +751,7 @@
 {"id":"task_step:7340099109888","en":"Bring the materials to the forge and report in. Enkaku suggests that the Starborn try crafting some ceremonial weapons as well.","ru":"Отнесите материалы в кузницу и отчитайтесь. Энкаку предлагает Звездорождённому тоже попробовать изготовить несколько ритуальных оружий."}
 {"id":"task_step:7344394077184","en":"Craft ceremonial weapons at the Farm.","ru":"Изготовьте ритуальное оружие на Ферме."}
 {"id":"task_step:7348689044480","en":"Your skill earned Enkaku's recognition, and he even said he wanted to take the Starborn as a disciple.","ru":"Ваше мастерство получило признание Энкаку, и он даже сказал, что хотел бы взять Звездорождённого в ученики."}
-{"id":"task_step:7352984011776","en":"Tinana and Ruta need fruit to offer to the ancestors of Shallul, and they are asking the Starborn for help.","ru":"Тинане и Руте нужны фрукты для подношения предкам Шаллула, и они просят Звездорождённого о помощи."}
+{"id": "task_step:7352984011776", "en": "Tinana and Ruta need fruit to offer to the ancestors of Charlulu, and they are asking the Starborn for help.", "ru": "Тинане и Руте нужны фрукты для подношения предкам Шаллула, и они просят Звездорождённого о помощи."}
 {"id":"task_step:7357278979072","en":"Gather the required ingredients.","ru":"Собрать необходимые ингредиенты."}
 {"id":"task_step:7361573946368","en":"Deliver the gathered ingredients to Tinana.","ru":"Доставить собранные ингредиенты Тинане."}
 {"id":"task_step:7365868913664","en":"Kirk is struggling with crafting an undying bonfire...","ru":"Кирк бьётся над созданием неугасимого костра..."}

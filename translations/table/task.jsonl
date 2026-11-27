@@ -59,8 +59,8 @@
 {"id":"task:1730880410224896","en":"Terara is hosting the Kibo Fight Tournament and wants the Starborn to take part.","ru":"Терара проводит Турнир кибо-боёв и хочет, чтобы Звездорождённый принял в нём участие."}
 {"id":"task:1735171082553344","en":"The Peach Blossom Charm's Fated Encounter","ru":"Судьбоносная встреча с Персиковым талисманом"}
 {"id":"task:1735175377520640","en":"The Peach Blossom Charm's Fated Encounter","ru":"Судьбоносная встреча с Персиковым талисманом"}
-{"id":"task:2147487942969344","en":"For You, the Starlight","ru":"Тебе — звёздный свет"}
-{"id":"task:2147487942969600","en":"For You, the Starlight","ru":"Тебе — звёздный свет"}
+{"id":"task:2147487942969344","en":"Starlight for You","ru":"Звёздный свет для тебя"}
+{"id":"task:2147487942969600","en":"Starlight for You","ru":"Звёздный свет для тебя"}
 {"id":"task:2147492237936640","en":"Cabbird Trouble!","ru":"Вот так капустокрыл!"}
 {"id":"task:2147492237936896","en":"Why was Flame being chased by Cabbirds? Ask him what happened.","ru":"Почему Флэйма преследовали капустокрылы? Спроси, что с ним случилось."}
 {"id":"task:2147530892642304","en":"Ruins Sleeping Beneath the Crystal Remains","ru":"Руины, спящие в Кристальных останках"}
@@ -145,9 +145,9 @@
 {"id":"task:438219808180480","en":"I can sense Sunya's presence from the Raikoumo. Let's find a way to stop it before it causes any more harm.","ru":"От Райкоумо исходит присутствие Суньи. Нужно остановить его, пока он не натворил новых бед."}
 {"id":"task:438228398114816","en":"The Ghost Sinks Here","ru":"Здесь покоится призрак"}
 {"id":"task:438228398115072","en":"The Ghost Sinks Here","ru":"Здесь покоится призрак"}
-{"id":"task:438236988049408","en":"Beneath the Gathering Storm","ru":"Под сенью грозовых туч"}
+{"id":"task:438236988049408","en":"Beneath the Storm Clouds","ru":"Под грозовыми тучами"}
 {"id":"task:438236988049664","en":"An airship has crashed on the outskirts of Fleece and is burning fiercely. Head to the crash site at once and assess the damage.","ru":"Воздушный корабль рухнул на окраине Флиса и яростно полыхает. Немедленно отправляйтесь к месту крушения и оцените ущерб."}
-{"id":"task:438241283016704","en":"Beneath the Stormclouds","ru":"Под грозовыми облаками"}
+{"id":"task:438241283016704","en":"Beneath the Storm Clouds","ru":"Под грозовыми тучами"}
 {"id":"task:438241283016960","en":"An airship has crashed on the outskirts of Fleece and is burning fiercely. Head to the crash site at once and assess the damage.","ru":"Воздушный корабль рухнул на окраине Флиса и яростно полыхает. Немедленно отправляйтесь к месту крушения и оцените ущерб."}
 {"id":"task:446680893753344","en":"Tower of the Dragon Who Chased the Sun","ru":"Башня дракона, что гнался за солнцем"}
 {"id":"task:446680893753600","en":"A tower that predates legend itself. They say the remains of a Dragonborn who perished chasing the sun are buried here...","ru":"Башня, существовавшая ещё до легенд. Говорят, здесь погребены останки драконорождённого, погибшего в погоне за солнцем..."}
@@ -211,7 +211,7 @@
 {"id":"task:455356727691520","en":"All preparations are complete. The battle with the Evolution Cult is close at hand. For the sake of their loved ones and the homeland they share, the valley's residents have gathered at the Starborn's side, honed their blades and their resolve, and begun the counterattack!","ru":"Подготовка завершена. Битва с Культом эволюции уже близка. Ради близких и родной долины её жители собрались вокруг Звездорождённого, закалили мечи и дух и начали контрнаступление!"}
 {"id":"task:455361022658560","en":"Star of the Promised Wish","ru":"Звезда заветного желания"}
 {"id":"task:455361022658816","en":"At last the party broke into the Sunya Vortex, and there before them rose the Grand Altar enfolding the Sunya Core. Destroy it, and the threat of the Karma Drainers would end… but could it really be that simple?","ru":"Наконец отряд прорвался внутрь Вихря Суньи, и перед ним предстал Великий алтарь, объемлющий Ядро Суньи. Уничтожьте его — и угроза Похитителей кармы исчезнет… но неужели всё окажется так просто?"}
-{"id":"task:455365317625856","en":"Your Starlight","ru":"Тебе — сияние звезды"}
+{"id":"task:455365317625856","en":"Starlight for You","ru":"Звёздный свет для тебя"}
 {"id":"task:455365317626112","en":"Head to Zootle Plaza with Luruka and check on the Tana Fire Festival preparations.","ru":"Отправляйтесь вместе с Лурукой на Площадь Зутль и проверьте, как идёт подготовка к Огненному фестивалю Таны."}
 {"id":"task:455382497495040","en":"When the Full Moon Shatters","ru":"Когда раскалывается полная луна"}
 {"id":"task:455382497495296","en":"An ominous evil had crept quietly into the valley. The only solution was to recreate the festival of a Hundred Years ago—and summon the Great Wolf. The villagers, filled with fighting spirit, threw themselves eagerly into preparing the Fire Festival. Yet when Tana rose full into the sky, a sinister murk faintly showed through the light that poured down…","ru":"Зловещая сила тихо проникла в долину. Единственное решение — воссоздать праздник, что проводился Сто лет назад, и призвать Великого волка. Исполненные боевого духа сельчане с воодушевлением взялись за подготовку к Празднику огня. Но когда Тана взошла полной в небо, в изливавшемся от неё свете смутно проглядывала зловещая муть…"}

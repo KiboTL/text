@@ -212,7 +212,7 @@
 {"id":"journey_task_target:17395077110301696","en":"Raise 5 Anima to Level 100","ru":"Повысить 5 анимы до уровня 100"}
 {"id":"journey_task_target:17395077110301952","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
 {"id":"journey_task_target:17395081405268736","en":"Radiant Memories I","ru":"Сияющие воспоминания I"}
-{"id":"journey_task_target:17395081405268992","en":"Level up Anima 1 times","ru":"Повысить уровень анимы 1 раз"}
+{"id":"journey_task_target:17395081405268992","en":"Level up an Anima once","ru":"Повысить уровень анимы 1 раз"}
 {"id":"journey_task_target:17395081405269248","en":"The strings of memory ring ever louder, filled with the power of the Star Vessel.","ru":"Струны памяти звучат всё громче, наполняясь силой Звёздного сосуда."}
 {"id":"journey_task_target:17395085700236032","en":"Embracing Memories","ru":"Обнимая воспоминания"}
 {"id":"journey_task_target:17395085700236288","en":"Equip an Anima to any character","ru":"Экипируйте аниму любому персонажу"}
@@ -781,13 +781,13 @@
 {"id":"journey_task_target:8718869510227200","en":"To craft a Radiant Stella Card, you need Starlight Ore, plus Spiderfluff cloth and Mirror Iron Ingots. Give it a try.","ru":"Чтобы создать сияющую Карту звёзд, помимо Звёздной руды нужны ткань из Паутинного пуха и слитки Зеркального железа. Попробуйте сделать."}
 {"id":"journey_task_target:8718869510228736","en":"The Farm has no Resonance Stone Platform","ru":"На ферме нет Резонансной каменной платформы"}
 {"id":"journey_task_target:8718873805193984","en":"Farm Expansion: Dormitory","ru":"Расширение фермы: общежитие"}
-{"id":"journey_task_target:8718873805194240","en":"Build 1 rooms of the Sharl-style Dormitory on the Farm","ru":"Постройте 1 комнат общежития в стиле Шарля на ферме"}
+{"id": "journey_task_target:8718873805194240", "en": "Build 1 rooms of the Charlulu-style Dormitory on the Farm", "ru": "Постройте 1 комнат общежития в стиле Шарля на ферме"}
 {"id":"journey_task_target:8718873805194496","en":"Guests occasionally visit the Farm. Prepare a comfortable place for them to rest.","ru":"На ферму время от времени наведываются гости. Подготовьте для них уютное место для отдыха."}
 {"id":"journey_task_target:8718873805196032","en":"There is no Workbench on the Farm","ru":"На ферме нет Верстака"}
 {"id":"journey_task_target:8718878100161280","en":"Move into the Dormitory","ru":"Заселение в общежитие"}
-{"id":"journey_task_target:8718878100161536","en":"Move any character into the Sharl-style Dormitory","ru":"Поселите любого персонажа в общежитие в стиле Шарля"}
+{"id": "journey_task_target:8718878100161536", "en": "Move any character into the Charlulu-style Dormitory", "ru": "Поселите любого персонажа в общежитие в стиле Шарля"}
 {"id":"journey_task_target:8718878100161792","en":"Guests occasionally visit the Farm. Prepare a comfortable place for them to rest.","ru":"На ферму время от времени наведываются гости. Подготовьте для них уютное место для отдыха."}
-{"id":"journey_task_target:8718878100163328","en":"The farm has no Sharl-style dormitory.","ru":"На ферме нет общежития в стиле Шаллула."}
+{"id": "journey_task_target:8718878100163328", "en": "The farm has no Charlulu-style dormitory.", "ru": "На ферме нет общежития в стиле Шаллула."}
 {"id":"journey_task_target:8718882395128576","en":"Farm Expansion: Elemental Furnace","ru":"Расширение фермы: элементальная печь"}
 {"id":"journey_task_target:8718882395128832","en":"Build and place an Elemental Stone Furnace on the farm.","ru":"Постройте и разместите элементальную каменную печь на ферме."}
 {"id":"journey_task_target:8718882395129088","en":"Put the Elemental Furnace to good use. It should be a big help in getting stronger!","ru":"Хорошенько используйте элементальную печь. Она здорово поможет вам стать сильнее!"}

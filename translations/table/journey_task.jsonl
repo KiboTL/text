@@ -295,7 +295,7 @@
 {"id":"journey_task:171820166679552","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:171820166679808","en":"The Dreamcatcher","ru":"Ловец снов"}
 {"id":"journey_task:171824461644800","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
-{"id":"journey_task:171824461645056","en":"Starlight Upon You","ru":"Да озарит тебя сияние звёзд"}
+{"id":"journey_task:171824461645056","en":"Starlight for You","ru":"Звёздный свет для тебя"}
 {"id":"journey_task:171824461646848","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:171824461647104","en":"Bonds of Closeness - Abby","ru":"Узы близости · Эбби"}
 {"id":"journey_task:171828756612096","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
@@ -311,7 +311,7 @@
 {"id":"journey_task:171841641516032","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:171841641516288","en":"The Phantom of the Manor","ru":"Призрак усадьбы"}
 {"id":"journey_task:172232483537920","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
-{"id":"journey_task:172232483538176","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:172232483538176","en":"The Wolf's Guidance","ru":"Волчье руководство"}
 {"id":"journey_task:172232483539968","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:172232483540224","en":"Main Story Commission·1","ru":"Поручение основной сюжетной линии·1"}
 {"id":"journey_task:172236778505216","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
@@ -343,15 +343,15 @@
 {"id":"journey_task:172262548311040","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:172262548311296","en":"Main Story Commission·8","ru":"Поручение основной сюжетной линии·8"}
 {"id":"journey_task:172266843276288","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
-{"id":"journey_task:172266843276544","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:172266843276544","en":"The Wolf's Guidance","ru":"Волчье руководство"}
 {"id":"journey_task:172266843278336","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:172266843278592","en":"Silver Splendor","ru":"Серебряное сияние"}
 {"id":"journey_task:172271138243584","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
-{"id":"journey_task:172271138243840","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:172271138243840","en":"The Wolf's Guidance","ru":"Волчье руководство"}
 {"id":"journey_task:172271138245632","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:172271138245888","en":"Thousand Hammers, Hundred Refinements","ru":"Тысяча молотов, сто закалок"}
 {"id":"journey_task:172275433210880","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
-{"id":"journey_task:172275433211136","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:172275433211136","en":"The Wolf's Guidance","ru":"Волчье руководство"}
 {"id":"journey_task:172275433212928","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:172275433213184","en":"Crystal Extraction","ru":"Извлечение кристаллов"}
 {"id":"journey_task:172279728178176","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
@@ -840,7 +840,7 @@
 {"id":"journey_task:300707840265216","en":"Great Adventurer","ru":"Великий искатель приключений"}
 {"id":"journey_task:300707840265472","en":"Defeat Boss Frogremi","ru":"Победите босса Фрогреми"}
 {"id":"journey_task:300712135230464","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}
-{"id":"journey_task:300712135230720","en":"The Wolf's Guidance","ru":"Направление волка"}
+{"id":"journey_task:300712135230720","en":"The Wolf's Guidance","ru":"Волчье руководство"}
 {"id":"journey_task:300712135232512","en":"Great Adventurer","ru":"Великий искатель приключений"}
 {"id":"journey_task:300712135232768","en":"Victory over Giganshaura","ru":"Одержите победу над Гигансёурой"}
 {"id":"journey_task:300716430197760","en":"Unlocks after completing the main quest \"{0}\"","ru":"Открывается после завершения основного задания «{0}»"}

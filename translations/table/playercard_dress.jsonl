@@ -198,11 +198,11 @@
 {"id":"playercard_dress:43568148252672","en":"Obtained by unlocking Abby's Tuning \"Big-Eater Abby\"","ru":"Получается при открытии настройки Эбби «Обжора Эбби»"}
 {"id":"playercard_dress:43568148252928","en":"\"How long was Abby sleeping? Were you with Abby the whole time...?\"","ru":"«Эбби долго проспала? Ты всё время был рядом с Эбби...?»"}
 {"id":"playercard_dress:43568148254976","en":"\"How long was Abby sleeping? Were you with Abby the whole time...?\"\nObtained by unlocking Abby's Tuning \"Abby the Big Eater\"","ru":"«Эбби долго проспала? Ты всё время был рядом с Эбби...?»\nПолучается при открытии настройки Эбби «Эбби — обжора»"}
-{"id":"playercard_dress:43572443218432","en":"Shallul's Fang","ru":"Клык Шаллула"}
-{"id":"playercard_dress:43572443219712","en":"Icon \"Shallul's Fang\"","ru":"Иконка «Клык Шаллула»"}
-{"id":"playercard_dress:43572443219968","en":"Obtained by unlocking Terara's Tuning \"Shallul's Fang\"","ru":"Получается при открытии настройки Терары «Клык Шаллула»"}
+{"id": "playercard_dress:43572443218432", "en": "Charlulu's Fang", "ru": "Клык Шаллула"}
+{"id": "playercard_dress:43572443219712", "en": "Icon \"Charlulu's Fang\"", "ru": "Иконка «Клык Шаллула»"}
+{"id": "playercard_dress:43572443219968", "en": "Obtained by unlocking Terara's Tuning \"Charlulu's Fang\"", "ru": "Получается при открытии настройки Терары «Клык Шаллула»"}
 {"id":"playercard_dress:43572443220224","en":"\"How's that, did I surprise you? Getting right up close before you know it... That's a hunter's skill!\"","ru":"«Ну что, удивился? Подкрасться вплотную, пока не заметили... Вот это и есть мастерство охотника!»"}
-{"id":"playercard_dress:43572443222272","en":"\"Hehe, surprised? Getting right up close before you know it... That's a hunter's skill!\"\nObtained by unlocking Terara's Tuning \"Shallul's Fang\"","ru":"«Хе-хе, удивился? Подкрасться вплотную, пока не заметили... Вот это и есть мастерство охотника!»\nПолучается при открытии настройки Терары «Клык Шаллула»"}
+{"id": "playercard_dress:43572443222272", "en": "\"Hehe, surprised? Getting right up close before you know it... That's a hunter's skill!\"\nObtained by unlocking Terara's Tuning \"Charlulu's Fang\"", "ru": "«Хе-хе, удивился? Подкрасться вплотную, пока не заметили... Вот это и есть мастерство охотника!»\nПолучается при открытии настройки Терары «Клык Шаллула»"}
 {"id":"playercard_dress:43576738185728","en":"Until All Is at Peace","ru":"Пока всё не утихнет"}
 {"id":"playercard_dress:43576738187008","en":"Icon: \"Until All Is at Peace\"","ru":"Иконка «Пока всё не успокоится»"}
 {"id":"playercard_dress:43576738187264","en":"Obtained by unlocking Luruka's Tuning \"Until All Is at Peace\"","ru":"Получается при открытии настройки Луруки «Пока всё не успокоится»"}

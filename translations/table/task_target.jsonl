@@ -601,7 +601,7 @@
 {"id":"task_target:42967746182382080","en":"Move forward","ru":"Двигаться вперёд"}
 {"id":"task_target:42967750477349376","en":"Follow the wolf pack's tracks","ru":"Идти по следам волчьей стаи"}
 {"id":"task_target:42967754772316672","en":"Approach the Shaman's apparition","ru":"Приблизиться к призраку шамана"}
-{"id":"task_target:42967759067283968","en":"Hear \"Shallul's\" sorrowful plea","ru":"Услышать горестную мольбу «Шаллула»"}
+{"id": "task_target:42967759067283968", "en": "Hear \"Charlulu's\" sorrowful plea", "ru": "Услышать горестную мольбу «Шаллула»"}
 {"id":"task_target:42992622633472","en":"Search for the Stellar Stone","ru":"Искать Звёздный камень"}
 {"id":"task_target:4299262263808","en":"Defeat Mystelf","ru":"Победить Мистельфа"}
 {"id":"task_target:4303557231104","en":"Defeat Mystelf","ru":"Победить Мистельфа"}

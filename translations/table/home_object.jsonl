@@ -159,7 +159,7 @@
 {"id":"home_object:44040594653440","en":"Wood Elf Lantern","ru":"Фонарь лесного эльфа"}
 {"id":"home_object:44044889620736","en":"Wood Elf Water Basin","ru":"Водная чаша лесного эльфа"}
 {"id":"home_object:44049184588032","en":"Metsa Flower Basket","ru":"Цветочная корзина Метсы"}
-{"id":"home_object:44053479555328","en":"Shallul-Style Dorm","ru":"Общежитие в стиле Шаллула"}
+{"id": "home_object:44053479555328", "en": "Charlulu-Style Dorm", "ru": "Общежитие в стиле Шаллула"}
 {"id":"home_object:44057774522624","en":"Grown Pepe","ru":"Выросший пепе"}
 {"id":"home_object:44062069489920","en":"Unripe Pepe","ru":"Незрелый пепе"}
 {"id":"home_object:44066364457216","en":"Mature Pepe","ru":"Зрелый пепе"}
@@ -212,8 +212,8 @@
 {"id":"home_object:44422846742784","en":"Source Vein Tree - Growing","ru":"Дерево исходной жилы — рост"}
 {"id":"home_object:44427141710080","en":"Source Vein Tree - Mature","ru":"Дерево исходной жилы — созревание"}
 {"id":"home_object:8680128905472","en":"Elemental Stone Furnace","ru":"Печь элементальных камней"}
-{"id":"home_object:8684423872768","en":"Shallul - Owl Totem","ru":"Шаллул — тотем совы"}
-{"id":"home_object:8688718840064","en":"Shallul - Kibo Shrine","ru":"Шаллул — святилище кибо"}
+{"id": "home_object:8684423872768", "en": "Charlulu - Owl Totem", "ru": "Шаллул — тотем совы"}
+{"id": "home_object:8688718840064", "en": "Charlulu - Kibo Shrine", "ru": "Шаллул — святилище кибо"}
 {"id":"home_object:8693013807360","en":"Armor Crafting Bench","ru":"Стол для ковки брони"}
 {"id":"home_object:8710193676544","en":"Field","ru":"Поле"}
 {"id":"home_object:8714488643840","en":"Field Cabin","ru":"Полевая хижина"}
@@ -227,23 +227,23 @@
 {"id":"home_object:8748848382208","en":"Armor Workshop","ru":"Бронная мастерская"}
 {"id":"home_object:8757438316800","en":"Kitchen","ru":"Кухня"}
 {"id":"home_object:8783208120576","en":"Fertile Soil","ru":"Плодородная почва"}
-{"id":"home_object:9023726289152","en":"Shallul - Boat","ru":"Шаллул — лодка"}
-{"id":"home_object:9028021256448","en":"Shallul - Bonfire","ru":"Шаллул — костёр"}
-{"id":"home_object:9032316223744","en":"Shallul - Brazier","ru":"Шаллул — жаровня"}
-{"id":"home_object:9036611191040","en":"Shallul - Cart","ru":"Шаллул — телега"}
-{"id":"home_object:9040906158336","en":"Shallul - Drum","ru":"Шаллул — барабан"}
-{"id":"home_object:9045201125632","en":"Shallul - Fish Stall","ru":"Шаллул — рыбная лавка"}
-{"id":"home_object:9049496092928","en":"Shallul - Flowers 1","ru":"Шаллул — цветы 1"}
-{"id":"home_object:9053791060224","en":"Shallul - Flowers 2","ru":"Шаллул — цветы 2"}
-{"id":"home_object:9058086027520","en":"Shallul - Flowers 3","ru":"Шаллул — цветы 3"}
-{"id":"home_object:9062380994816","en":"Shallul - Grain","ru":"Шаллул — зерно"}
-{"id":"home_object:9066675962112","en":"Shallul - Rocking Horse","ru":"Шаллул — лошадка-качалка"}
-{"id":"home_object:9070970929408","en":"Shallul - Streetlamp 1","ru":"Шаллул — фонарь 1"}
-{"id":"home_object:9075265896704","en":"Shallul - Streetlamp 2","ru":"Шаллул — фонарь 2"}
-{"id":"home_object:9079560864000","en":"Shallul - Streetlamp 3","ru":"Шаллул — фонарь 3"}
-{"id":"home_object:9083855831296","en":"Shallul - Logs","ru":"Шаллул — брёвна"}
-{"id":"home_object:9088150798592","en":"Shallul - Mushroom Stump","ru":"Шаллул — грибной пень"}
+{"id": "home_object:9023726289152", "en": "Charlulu - Boat", "ru": "Шаллул — лодка"}
+{"id": "home_object:9028021256448", "en": "Charlulu - Bonfire", "ru": "Шаллул — костёр"}
+{"id": "home_object:9032316223744", "en": "Charlulu - Brazier", "ru": "Шаллул — жаровня"}
+{"id": "home_object:9036611191040", "en": "Charlulu - Cart", "ru": "Шаллул — телега"}
+{"id": "home_object:9040906158336", "en": "Charlulu - Drum", "ru": "Шаллул — барабан"}
+{"id": "home_object:9045201125632", "en": "Charlulu - Fish Stall", "ru": "Шаллул — рыбная лавка"}
+{"id": "home_object:9049496092928", "en": "Charlulu - Flowers 1", "ru": "Шаллул — цветы 1"}
+{"id": "home_object:9053791060224", "en": "Charlulu - Flowers 2", "ru": "Шаллул — цветы 2"}
+{"id": "home_object:9058086027520", "en": "Charlulu - Flowers 3", "ru": "Шаллул — цветы 3"}
+{"id": "home_object:9062380994816", "en": "Charlulu - Grain", "ru": "Шаллул — зерно"}
+{"id": "home_object:9066675962112", "en": "Charlulu - Rocking Horse", "ru": "Шаллул — лошадка-качалка"}
+{"id": "home_object:9070970929408", "en": "Charlulu - Streetlamp 1", "ru": "Шаллул — фонарь 1"}
+{"id": "home_object:9075265896704", "en": "Charlulu - Streetlamp 2", "ru": "Шаллул — фонарь 2"}
+{"id": "home_object:9079560864000", "en": "Charlulu - Streetlamp 3", "ru": "Шаллул — фонарь 3"}
+{"id": "home_object:9083855831296", "en": "Charlulu - Logs", "ru": "Шаллул — брёвна"}
+{"id": "home_object:9088150798592", "en": "Charlulu - Mushroom Stump", "ru": "Шаллул — грибной пень"}
 {"id":"home_object:9092445765888","en":"Hatching Stand","ru":"Стенд вылупления"}
-{"id":"home_object:9096740733184","en":"Shallul - Wolf Totem","ru":"Шаллул — тотем волка"}
+{"id": "home_object:9096740733184", "en": "Charlulu - Wolf Totem", "ru": "Шаллул — тотем волка"}
 {"id":"home_object:9101035700480","en":"Cooking Pot","ru":"Котелок"}
 {"id":"home_object:9105330667776","en":"Starlink Stone Pedestal","ru":"Каменный пьедестал звёздной связи"}

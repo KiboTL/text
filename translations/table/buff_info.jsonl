@@ -2301,7 +2301,7 @@
 {"id":"buff_info:463861987000975872","en":"Mountain Terrain","ru":"Горная местность"}
 {"id":"buff_info:463861987000976128","en":"DEF Penetration Up","ru":"Повышение пробивания защиты"}
 {"id":"buff_info:463861987000976896","en":"Mountain Terrain","ru":"Горная местность"}
-{"id":"buff_info:463862008475812352","en":"Shallul's Fang","ru":"Клык Шаллула"}
+{"id": "buff_info:463862008475812352", "en": "Charlulu's Fang", "ru": "Клык Шаллула"}
 {"id":"buff_info:463862008475812608","en":"EX Intensity Up","ru":"Повышение интенсивности EX"}
 {"id":"buff_info:463865534643962368","en":"Shaman's Prayer","ru":"Молитва шамана"}
 {"id":"buff_info:463865534643962624","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
