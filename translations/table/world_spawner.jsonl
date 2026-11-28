@@ -329,7 +329,7 @@
 {"id":"world_spawner:2233382994176","en":"Weddel","ru":"Веддел"}
 {"id":"world_spawner:2237677961472","en":"Bindest","ru":"Биндест"}
 {"id":"world_spawner:2276336961847552","en":"Fleece Peddler","ru":"Коробейник из Флиса"}
-{"id":"world_spawner:2276341256814848","en":"Someone Stopped and Looking Around","ru":"Остановившийся и оглядывающийся"}
+{"id":"world_spawner:2276341256814848","en":"Someone Looking Around","ru":"Прохожий, оглядывающийся по сторонам"}
 {"id":"world_spawner:2276345551782144","en":"Suspicious Peddler","ru":"Подозрительный коробейник"}
 {"id":"world_spawner:2276349846749440","en":"Red Scorpion Member","ru":"Член «Красного скорпиона»"}
 {"id":"world_spawner:2362232012800256","en":"Decorative Egg","ru":"Декоративное яйцо"}
@@ -1077,7 +1077,7 @@
 {"id":"world_spawner:3045226302144768","en":"Farmer","ru":"Фермер"}
 {"id":"world_spawner:3045230597112064","en":"Adventurer","ru":"Искатель приключений"}
 {"id":"world_spawner:3045234892079360","en":"Peddler","ru":"Коробейник"}
-{"id":"world_spawner:3045239187046656","en":"Male Protagonist","ru":"Протагонист-мужчина"}
+{"id":"world_spawner:3045239187046656","en":"Starborn","ru":"Звездорождённый"}
 {"id":"world_spawner:3045243482013952","en":"Rumeng","ru":"Жумэн"}
 {"id":"world_spawner:3045247776981248","en":"Ruyi","ru":"Жуи"}
 {"id":"world_spawner:3045252071948544","en":"Peilan","ru":"Пэйлань"}

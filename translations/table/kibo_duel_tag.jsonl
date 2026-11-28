@@ -14,7 +14,7 @@
 {"id":"kibo_duel_tag:867583394816","en":"A Kibo that can deal massive damage or heal instantly on the field.","ru":"Кибо, способный мгновенно нанести огромный урон или вылечить на поле."}
 {"id":"kibo_duel_tag:871878361856","en":"Growth","ru":"Рост"}
 {"id":"kibo_duel_tag:871878362112","en":"A Kibo that keeps growing on the field.","ru":"Кибо, который продолжает расти на поле."}
-{"id":"kibo_duel_tag:876173329152","en":"Control","ru":"Контроль"}
+{"id":"kibo_duel_tag:876173329152","en":"Action Disruption","ru":"Нарушение действий"}
 {"id":"kibo_duel_tag:876173329408","en":"A Kibo that can inflict action-disrupting effects on enemies.","ru":"Кибо, способный накладывать на врагов эффекты, нарушающие действия."}
 {"id":"kibo_duel_tag:880468296448","en":"Enhance","ru":"Усиление"}
 {"id":"kibo_duel_tag:880468296704","en":"A Kibo that can strengthen allies.","ru":"Кибо, способный усиливать союзников."}
@@ -23,6 +23,6 @@
 {"id":"kibo_duel_tag:889058231040","en":"Charge","ru":"Заряд"}
 {"id":"kibo_duel_tag:889058231296","en":"A Kibo that can restore allies' Energy.","ru":"Кибо, способный восстанавливать энергию союзников."}
 {"id":"kibo_duel_tag:893353198336","en":"Deployment","ru":"Размещение"}
-{"id":"kibo_duel_tag:893353198592","en":"A Kibo that can provide Deployment Cost to allies.","ru":"Кибо, способный давать союзникам стоимость размещения."}
+{"id":"kibo_duel_tag:893353198592","en":"A Kibo that can supply Deployment Cost to allies.","ru":"Кибо, способный снабжать союзников стоимостью размещения."}
 {"id":"kibo_duel_tag:897648165632","en":"Weather","ru":"Погода"}
 {"id":"kibo_duel_tag:897648165888","en":"A Kibo that can change the weather on the field.","ru":"Кибо, способный менять погоду на поле."}

@@ -202,7 +202,7 @@
 {"id":"errorCode:43950400340224","en":"The corresponding color settings were not found.","ru":"Соответствующие настройки цвета не найдены."}
 {"id":"errorCode:43954695307520","en":"Costume and weapon IDs cannot be set to 0.","ru":"ID костюма и оружия нельзя установить в 0."}
 {"id":"errorCode:43958990274816","en":"The outfit part type is incorrect.","ru":"Неверный тип части наряда."}
-{"id":"errorCode:43963285242112","en":"The outfit is not unlocked.","ru":"Наряд не разблокирован."}
+{"id":"errorCode:43963285242112","en":"The outfit feature is not unlocked.","ru":"Функция нарядов не разблокирована."}
 {"id":"errorCode:4398046511360","en":"There is an error in the request parameters.","ru":"Ошибка в параметрах запроса."}
 {"id":"errorCode:44023414784256","en":"The dungeon is unavailable.","ru":"Подземелье недоступно."}
 {"id":"errorCode:4402341478656","en":"Invalid player ID.","ru":"Неверный идентификатор игрока."}
@@ -241,7 +241,7 @@
 {"id":"errorCode:44156558770432","en":"The unlock requirements for the Hyper-Mutated Kibo have not been met.","ru":"Условия разблокировки гипермутировавшего кибо не выполнены."}
 {"id":"errorCode:44160853737728","en":"An error occurred in the summon parameter type.","ru":"Ошибка типа параметра призыва."}
 {"id":"errorCode:44165148705024","en":"An error occurred in the summon logic.","ru":"Ошибка логики призыва."}
-{"id":"errorCode:44169443672320","en":"You have exceeded the summonable quantity.","ru":"Превышено доступное количество призыва."}
+{"id":"errorCode:44169443672320","en":"You have exceeded the summon limit.","ru":"Превышен предел доступных призывов."}
 {"id":"errorCode:44178033606912","en":"You have exceeded the hand order limit for summoning.","ru":"Превышен лимит порядка карт в руке для призыва."}
 {"id":"errorCode:44182328574208","en":"You have exceeded the target switching limit for summoning.","ru":"Превышен лимит переключения целей для призыва."}
 {"id":"errorCode:44186623541504","en":"You have exceeded the map content state limit.","ru":"Превышен лимит состояния контента карты."}
@@ -417,8 +417,8 @@
 {"id":"errorCode:45376329482496","en":"Collection is in progress.","ru":"Идёт сбор."}
 {"id":"errorCode:45380624449792","en":"Another Field Cabin is already placed in this area.","ru":"В этой области уже установлена другая полевая хижина."}
 {"id":"errorCode:45384919417088","en":"No Field Cabin is placed in this area.","ru":"В этой области не установлена полевая хижина."}
-{"id":"errorCode:45389214384384","en":"The Kibo is already assigned to the hub.","ru":"Кибо уже назначен в центр."}
-{"id":"errorCode:45393509351680","en":"The Kibo is not assigned to the hub.","ru":"Кибо не назначен в центр."}
+{"id":"errorCode:45389214384384","en":"Kibo is already assigned to the Farm Headquarters.","ru":"Кибо уже назначен в фермерский штаб."}
+{"id":"errorCode:45393509351680","en":"Kibo is not assigned to the Farm Headquarters.","ru":"Кибо не назначен в фермерский штаб."}
 {"id":"errorCode:45397804318976","en":"The Farm Headquarters is currently unavailable.","ru":"Фермерский штаб сейчас недоступен."}
 {"id":"errorCode:45402099286272","en":"The Farm Headquarters is full.","ru":"Фермерский штаб заполнен."}
 {"id":"errorCode:45406394253568","en":"Construction parameters for the farm facility are not set.","ru":"Параметры строительства фермерского сооружения не заданы."}
@@ -770,7 +770,7 @@
 {"id":"errorCode:55886114455808","en":"The random map ID does not exist.","ru":"Идентификатор случайной карты не существует."}
 {"id":"errorCode:55890409423104","en":"The random area does not meet the exploration conditions.","ru":"Случайная область не соответствует условиям исследования."}
 {"id":"errorCode:55894704390400","en":"There is an error in the item delivery parameters.","ru":"Ошибка в параметрах сдачи предметов."}
-{"id":"errorCode:55898999357696","en":"Not enough items were submitted.","ru":"Сдано недостаточно предметов."}
+{"id":"errorCode:55898999357696","en":"Not enough items were delivered.","ru":"Сдано недостаточно предметов."}
 {"id":"errorCode:55903294324992","en":"There is an error in the type-based item delivery parameters.","ru":"Ошибка в параметрах сдачи предметов по типу."}
 {"id":"errorCode:55907589292288","en":"There is an error in the item selection delivery parameters.","ru":"Ошибка в параметрах сдачи выбранных предметов."}
 {"id":"errorCode:55911884259584","en":"Tracking operation failed (track/untrack).","ru":"Не удалось выполнить операцию отслеживания (отслеживать/не отслеживать)."}
@@ -1195,7 +1195,7 @@
 {"id":"errorCode:90258737725696","en":"Unable to claim because the event reward state is invalid.","ru":"Невозможно получить награду: состояние награды за событие недопустимо."}
 {"id":"errorCode:90263032692992","en":"Event type does not match.","ru":"Тип события не совпадает."}
 {"id":"errorCode:90267327660288","en":"An error occurred in the item delivery event data.","ru":"В данных события сдачи предметов произошла ошибка."}
-{"id":"errorCode:90271622627584","en":"Items cannot be submitted right now.","ru":"Сейчас нельзя сдать предметы."}
+{"id":"errorCode:90271622627584","en":"Items cannot be delivered right now.","ru":"Сейчас нельзя сдать предметы."}
 {"id":"errorCode:90275917594880","en":"Invalid operation.","ru":"Недопустимая операция."}
 {"id":"errorCode:90280212562176","en":"Invalid travel party configuration.","ru":"Недопустимая конфигурация отряда путешествия."}
 {"id":"errorCode:90284507529472","en":"Send at least 1 Kibo on a journey.","ru":"Отправьте в путешествие хотя бы 1 кибо."}
@@ -1217,9 +1217,9 @@
 {"id":"errorCode:90353227006208","en":"Not enough experience for the event.","ru":"Недостаточно опыта для события."}
 {"id":"errorCode:90357521973504","en":"Support companions are not yet unlocked.","ru":"Соратники поддержки ещё не открыты."}
 {"id":"errorCode:90361816940800","en":"The event effect selection is invalid.","ru":"Выбор эффекта события недопустим."}
-{"id":"errorCode:90366111908096","en":"Not enough items. Reach an ending to obtain unlock items.","ru":"Недостаточно предметов. Достигните финала, чтобы получить предметы для открытия."}
+{"id":"errorCode:90366111908096","en":"Not enough items. Please reach an ending to obtain them.","ru":"Недостаточно предметов. Достигните финала, чтобы получить их."}
 {"id":"errorCode:90370406875392","en":"This character is not unlocked.","ru":"Этот персонаж не открыт."}
-{"id":"errorCode:90374701842688","en":"Not enough items. Reach an ending to obtain unlock items.","ru":"Недостаточно предметов. Достигните финала, чтобы получить предметы для открытия."}
+{"id":"errorCode:90374701842688","en":"Not enough items. Please reach an ending to obtain them.","ru":"Недостаточно предметов. Достигните финала, чтобы получить их."}
 {"id":"errorCode:90378996809984","en":"The event parameter request is invalid.","ru":"Запрос параметров события неверен."}
 {"id":"errorCode:90383291777280","en":"Early access is not possible.","ru":"Ранний доступ невозможен."}
 {"id":"errorCode:90387586744576","en":"Early access conditions are not met.","ru":"Условия раннего доступа не выполнены."}

@@ -148,7 +148,7 @@
 {"id":"static:0B82A0FE","en":"Early Access Available","ru":"Доступен ранний доступ"}
 {"id":"static:0B84B7F4","en":"Don't show again during this login","ru":"Не показывать при этом входе"}
 {"id":"static:0B852EEB","en":"12/26","ru":"12/26"}
-{"id":"static:0B8BC057","en":"Lilihua has a big plan. She will not only display all of Sprout Valley's finest produce at her farm exhibition, but also let visitors buy whatever they want on the spot! She has started gathering produce for sale with great effort, but the results are less than impressive…","ru":"У Ли Lihua грандиозный план. Она собирается не только выставить на своей сельскохозяйственной выставке все лучшие продукты Долины ростков, но и позволить посетителям сразу купить всё, что им понравится! Ради этого она начала усердно собирать продукты на продажу, но результаты пока скромные…"}
+{"id":"static:0B8BC057","en":"Lilika has a big plan. She will not only display all of Sprout Valley's finest produce at her farm exhibition, but also let visitors buy whatever they want on the spot! She has started gathering produce for sale with great effort, but the results are less than impressive…","ru":"У Лилики грандиозный план. Она собирается не только выставить на своей сельскохозяйственной выставке все лучшие продукты Долины Ростков, но и позволить посетителям сразу купить всё, что им понравится! Ради этого она начала усердно собирать продукты на продажу, но результаты пока скромные…"}
 {"id":"static:0BA92335","en":"Check Reputation","ru":"Проверить репутацию"}
 {"id":"static:0BCE96DE","en":"Unlocks at Star Knowledge Level 30","ru":"Открывается на уровне звёздных знаний 30"}
 {"id":"static:0BF60B32","en":"Quantity","ru":"Количество"}
@@ -259,7 +259,7 @@
 {"id":"static:12B942D8","en":"Murderous Sword Aura00000000000","ru":"Убийственная аура клинка00000000000"}
 {"id":"static:12C19AB0","en":"Gorgeous Basket??","ru":"Роскошная корзина??"}
 {"id":"static:12D317C1","en":"Progress the main story and raise your Star Knowledge Level to unlock higher Map Levels.","ru":"Проходите основной сюжет и повышайте уровень звёздных знаний, чтобы открывать более высокие уровни карты."}
-{"id":"static:12E9FC0E","en":"Reach Home Level 2","ru":"Достигните уровня дома 2"}
+{"id":"static:12E9FC0E","en":"Reach Farm Level 2","ru":"Достигните уровня фермы 2"}
 {"id":"static:12F1D7EF","en":"End","ru":"Завершить"}
 {"id":"static:1307F6DC","en":"This is a closed beta version where data will be deleted after the test ends, so it does not represent final quality.","ru":"Это закрытая бета-версия, данные которой будут удалены после завершения теста, поэтому она не отражает итоговое качество."}
 {"id":"static:13182A01","en":"How to Obtain","ru":"Способ получения"}
@@ -398,7 +398,7 @@
 {"id":"static:1A928580","en":"Balance · Blazing Flame","ru":"Равновесие · Пламенный вихрь"}
 {"id":"static:1AA59442","en":"Acorn Tree Hollow","ru":"Дупло в дубе"}
 {"id":"static:1AAA8857","en":"Keep both eyes the same color","ru":"Сохранить единый цвет обоих глаз"}
-{"id":"static:1AB59815","en":"Star Gift Equipment successful","ru":"Звёздный дар снаряжения успешен"}
+{"id":"static:1AB59815","en":"Star Blessing Equipment successful","ru":"Звёздное благословение снаряжения успешно"}
 {"id":"static:1ADF4E99","en":"Kibo Fight League","ru":"Лига боёв кибо"}
 {"id":"static:1AF1C54C","en":"Cancel Recording","ru":"Отменить запись"}
 {"id":"static:1B02A4E8","en":"Dear player:\nYou recently achieved something in the XX system that is so incredibly awesome, amazing, fantastic, utterly awesome, and indescribable that we've specially sent you a trophy that goes straight into your bag so you can show off. Please check your bag for the trophy so you can show off.\n The trophy goes straight into your bag so you can show off.","ru":"Дорогой игрок:\nВы недавно достигли в системе XX настолько невероятного, потрясающего, фантастического, сногсшибательного и неописуемого достижения, что мы специально отправили вам трофей, который сразу попадёт в сумку, чтобы вы могли похвастаться. Пожалуйста, проверьте сумку — трофей уже там, чтобы вы могли похвастаться.\n Трофей сразу попадёт в сумку, чтобы вы могли похвастаться."}
@@ -414,7 +414,7 @@
 {"id":"static:1BC78FF0","en":"Please select a dish!","ru":"Выберите блюдо!"}
 {"id":"static:1BCF60BE","en":"Recommended:","ru":"Рекомендуется:"}
 {"id":"static:1BD48949","en":"Invincible Shining Ink Fragrance","ru":"Непобедимый сияющий чернильный аромат"}
-{"id":"static:1BDD992D","en":"Umi's fluidity proves that it can seep into any gap. It's said that if you leave an empty jar or bottle lying around long enough, Umi may quietly gather inside.","ru":"Текучий умей проникает в любую щель. Говорят, если надолго оставить пустой кувшин или бутылку, в них незаметно может собраться умей."}
+{"id":"static:1BDD992D","en":"Umi's fluidity proves that it can seep into any gap. It's said that if you leave an empty jar or bottle lying around long enough, Umi may quietly gather inside.","ru":"Текучий Уми проникает в любую щель. Говорят, если надолго оставить пустой кувшин или бутылку, в них незаметно может собраться Уми."}
 {"id":"static:1BF939BC","en":"Exploration Level Up","ru":"Повышение уровня исследования"}
 {"id":"static:1C0132F2","en":"Unlocks Kibo habitat","ru":"Открывает среду обитания кибо"}
 {"id":"static:1C0E36C8","en":"Quantitative Mode","ru":"Количественный режим"}
@@ -447,7 +447,7 @@
 {"id":"static:1EAE4BD2","en":"Recommended Set Ideas","ru":"Рекомендуемые варианты комплектов"}
 {"id":"static:1EC3A56B","en":"Stone Crushing Yard","ru":"Каменоломня"}
 {"id":"static:1ECAD0CA","en":"Quest Progress","ru":"Прогресс задания"}
-{"id":"static:1ED61EBA","en":"Wild Kibo Aptitude Cap","ru":"Предел способностей дикого кибо"}
+{"id":"static:1ED61EBA","en":"Wild Kibo Aptitude Cap","ru":"Предел одарённости дикого кибо"}
 {"id":"static:1EE0DC8C","en":"Recall All","ru":"Отозвать всех"}
 {"id":"static:1EE506BF","en":"Earth","ru":"Земля"}
 {"id":"static:1EFA0182","en":"Food storage is full; production will resume later","ru":"Запас еды заполнен; производство возобновится позже"}
@@ -508,8 +508,8 @@
 {"id":"static:23496EEB","en":"-Current Progress-","ru":"-Текущий прогресс-"}
 {"id":"static:2381F032","en":"111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111","ru":"111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"}
 {"id":"static:238AE092","en":"Time Remaining:","ru":"Оставшееся время:"}
-{"id":"static:239C9FD0","en":"Lilika has a big plan—not only will she display all the finest produce from Sprout Valley at her own agricultural exhibition, but visitors will also be able to buy whatever they want on the spot! To that end, she set about eagerly gathering produce for sale, but the results, the results have barely amounted to anything","ru":"У Лилики грандиозный план: она не только выставит на своей сельскохозяйственной выставке всю лучшую продукцию Долины ростков, но и позволит посетителям сразу купить всё, что им захочется! Ради этого она начала усердно собирать продукцию на продажу, но результаты, результаты почти не растут."}
-{"id":"static:23A2CAF5","en":"Initial Sacred Artifact Selection","ru":"Выбор начального священного артефакта"}
+{"id":"static:239C9FD0","en":"Lilika has a big plan—not only will she display all the finest produce from Sprout Valley at her own agricultural exhibition, but visitors will also be able to buy whatever they want on the spot! To that end, she set about eagerly gathering produce for sale, but the results have barely amounted to anything","ru":"У Лилики грандиозный план: она не только выставит на своей сельскохозяйственной выставке всю лучшую продукцию Долины Ростков, но и позволит посетителям сразу купить всё, что им захочется! Ради этого она начала усердно собирать продукцию на продажу, но результаты почти не растут."}
+{"id":"static:23A2CAF5","en":"Initial Ritual Vessel Selection","ru":"Выбор начального ритуального сосуда"}
 {"id":"static:23D1BEBC","en":"Rare Starfall Fruit","ru":"Редкий плод звездопада"}
 {"id":"static:23E714A0","en":"Spend 30 Stamina to claim the defeat reward?","ru":"Потратить 30 выносливости, чтобы получить награду за победу?"}
 {"id":"static:23E86A12","en":"First Clear Reward","ru":"Награда за первое прохождение"}
@@ -589,7 +589,7 @@
 {"id":"static:288F0C40","en":"Clear","ru":"Завершить"}
 {"id":"static:2896411B","en":"Level Cap","ru":"Предел уровня"}
 {"id":"static:28AD6986","en":"Use to make lots of <color=#EF903D>frogs</color> appear\nin <color=#EF903D>Sprout Valley</color>.","ru":"При использовании в <color=#EF903D>Долине Ростков</color>\nпоявится много <color=#EF903D>лягушек</color>."}
-{"id":"static:28B9D22B","en":"Enter Server Number","ru":"Введите номер сервера"}
+{"id":"static:28B9D22B","en":"Enter Channel Number","ru":"Введите номер канала"}
 {"id":"static:28BBA6A2","en":"Tree of Eden","ru":"Древо Эдема"}
 {"id":"static:28D32153","en":"Remaining:","ru":"Осталось:"}
 {"id":"static:28ED0957","en":"SHENGJI","ru":"ШЭНЦЗИ"}
@@ -610,13 +610,13 @@
 {"id":"static:2A95BBAA","en":"Shining","ru":"Сияющий"}
 {"id":"static:2AABE28E","en":"Claimed Today","ru":"Получено сегодня"}
 {"id":"static:2AB01E41","en":"Common","ru":"Обычный"}
-{"id":"static:2AB87EB1","en":"When a Normal Attack hits, own Attack increases by 4.5% (for 12 sec, up to 1 stacks).","ru":"При попадании обычной атакой сила атаки повышается на 4.5% (на 12 сек., максимум 1 уровней)."}
+{"id":"static:2AB87EB1","en":"When a Normal Attack hits, own Attack increases by 4.5% (for 12 sec, up to 1 stack).","ru":"При попадании обычной атакой сила атаки повышается на 4.5% (на 12 сек., максимум 1 уровень)."}
 {"id":"static:2AB8FC53","en":"This special creature has not yet been found.","ru":"Это особое существо ещё не найдено."}
 {"id":"static:2AD54078","en":"Adventurer, your name is","ru":"Искатель приключений, ваше имя —"}
 {"id":"static:2AD67442","en":"New talent unlocked:","ru":"Открыт новый талант:"}
 {"id":"static:2AD8CB94","en":"Stamina Recovery","ru":"Восстановление выносливости"}
 {"id":"static:2AE4D260","en":"Ultra-rare Starshower Fruit","ru":"Ультраредкий плод звездопада"}
-{"id":"static:2AEEB134","en":"Lilika has a big plan—not only will she display all the finest produce from Sprout\nValley at her own agricultural exhibition, but visitors will also be able to buy whatever they\nwant on the spot! To that end, she set about eagerly gathering\nproduce for sale, but the results have barely amounted to anything","ru":"У Лилики грандиозный план: она не только выставит на своей сельскохозяйственной выставке всю лучшую продукцию\nДолины ростков, но и позволит посетителям сразу купить всё, что им\nзахочется! Ради этого она начала усердно собирать\nпродукцию на продажу, но результаты почти не растут."}
+{"id":"static:2AEEB134","en":"Lilika has a big plan—not only will she display all the finest produce from Sprout\nValley at her own agricultural exhibition, but visitors will also be able to buy whatever they\nwant on the spot! To that end, she set about eagerly gathering\nproduce for sale, but the results have barely amounted to anything","ru":"У Лилики грандиозный план: она не только выставит на своей сельскохозяйственной выставке всю лучшую продукцию\nДолины Ростков, но и позволит посетителям сразу купить всё, что им\nзахочется! Ради этого она начала усердно собирать\nпродукцию на продажу, но результаты почти не растут."}
 {"id":"static:2B01EB86","en":"Potential Berry","ru":"Ягода потенциала"}
 {"id":"static:2B256866","en":"Talent","ru":"Талант"}
 {"id":"static:2B30334A","en":"Shipping Crate","ru":"Ящик для отправки"}
@@ -681,7 +681,7 @@
 {"id":"static:2FAA93F6","en":"Search","ru":"Поиск"}
 {"id":"static:2FC7E1E7","en":"Kibo Skin","ru":"Облик кибо"}
 {"id":"static:2FCBCE2B","en":"Not Unlocked","ru":"Не разблокировано"}
-{"id":"static:2FD59848","en":"Increases the chance that hatched Kibos will be a different color","ru":"Повышает шанс, что вылупившийся кибо будет другого цвета"}
+{"id":"static:2FD59848","en":"Increases the chance that a Shining Kibo will hatch","ru":"Повышает шанс, что при вылуплении появится сияющий кибо"}
 {"id":"static:2FD99BE2","en":"Custom Settings","ru":"Пользовательские настройки"}
 {"id":"static:2FE9C5F8","en":"Unlocks Daily","ru":"Открывается ежедневно"}
 {"id":"static:2FF02A2E","en":"Reset all skill points?","ru":"Сбросить все очки навыков?"}
@@ -710,7 +710,7 @@
 {"id":"static:3186527E","en":"Cancel","ru":"Отмена"}
 {"id":"static:31878984","en":"Retry","ru":"Повторить"}
 {"id":"static:318ACBF5","en":"Insight Points:","ru":"Очки познаний:"}
-{"id":"static:31A24A4E","en":"Star Cap Reached","ru":"Достигнут предел звёзд"}
+{"id":"static:31A24A4E","en":"Rank MAX","ru":"Ранг MAX"}
 {"id":"static:31D984DF","en":"ZHSDIACI","ru":"ZHSDIACI"}
 {"id":"static:31FF4649","en":"[Hold]","ru":"[Удержание]"}
 {"id":"static:31FFB42A","en":"Occupy the enemy's territory within 10 min.","ru":"Захватить территорию противника за 10 мин."}
@@ -735,7 +735,7 @@
 {"id":"static:3318D100","en":"Today's News","ru":"Новости дня"}
 {"id":"static:33232B0A","en":"Cat and Cake","ru":"Кошка и торт"}
 {"id":"static:333E6BAF","en":"Gatherable Amount +100","ru":"Количество для сбора +100"}
-{"id":"static:33642D1C","en":"Same-name equipment not at max limit break","ru":"Одноимённое снаряжение, не достигшее предельного прорыва"}
+{"id":"static:33642D1C","en":"Same-name equipment with unstrengthened Star Rank","ru":"Одноимённое снаряжение с неусиленным звёздным рангом"}
 {"id":"static:336F1333","en":"You can close this after reading","ru":"Можно закрыть после прочтения"}
 {"id":"static:336F2AA3","en":"Basic Drops:","ru":"Базовый дроп:"}
 {"id":"static:33781E80","en":"Attack","ru":"Атака"}
@@ -752,7 +752,7 @@
 {"id":"static:3452B70A","en":"Raise your World Level to discover new Kibo companions.","ru":"Повышайте уровень мира, чтобы находить новых кибо-товарищей."}
 {"id":"static:3466D5F4","en":"Hold","ru":"Удержание"}
 {"id":"static:348148D6","en":"Buildings on the Farm","ru":"Постройки на ферме"}
-{"id":"static:3489DDC5","en":"Obtainable after preview ends","ru":"Можно получить после окончания предпросмотра"}
+{"id":"static:3489DDC5","en":"Obtainable after the trial play ends","ru":"Можно получить после окончания пробной игры"}
 {"id":"static:3492C08A","en":"Map Difficulty","ru":"Сложность карты"}
 {"id":"static:34958745","en":"TBD","ru":"Не определено"}
 {"id":"static:34AAC239","en":"Lv.64 Phantomfly","ru":"Ур.64 Призракрыл"}
@@ -820,7 +820,7 @@
 {"id":"static:397FA401","en":"You must activate the prerequisite node first","ru":"Сначала необходимо активировать предварительный узел"}
 {"id":"static:398A0D4B","en":"Bondweaving","ru":"Плетение уз"}
 {"id":"static:398B7EF0","en":"Player 1 vs 1 battles","ru":"Битвы игроков 1 против 1"}
-{"id":"static:39996C7B","en":"When Star Knowledge Level reaches <color=ffa200>20</color>, the level cap can be unlocked","ru":"Когда уровень звёздных знаний достигает <color=ffa200>20</color>, можно открыть предельный уровень"}
+{"id":"static:39996C7B","en":"When Star Knowledge Level reaches <color=#ffa200>20</color>, the level cap can be unlocked","ru":"Когда уровень звёздных знаний достигает <color=#ffa200>20</color>, можно открыть предельный уровень"}
 {"id":"static:39C24E56","en":"Freeley","ru":"Фрили"}
 {"id":"static:39CB8693","en":"Unlock 1 more exploration records to receive the next stage's rewards","ru":"Откройте ещё 1 записей исследования, чтобы получить награды следующего этапа"}
 {"id":"static:39D6DF3F","en":"-80%","ru":"-80%"}
@@ -911,7 +911,7 @@
 {"id":"static:3FE84C08","en":"Adult","ru":"Взрослый"}
 {"id":"static:401EDD87","en":"Juvenile","ru":"Молодой"}
 {"id":"static:403C8DE5","en":"Placed Characters","ru":"Размещённые персонажи"}
-{"id":"static:4043C86A","en":"Sacred Artifact's Sacred Crest","ru":"Священная печать священного артефакта"}
+{"id":"static:4043C86A","en":"Ritual Vessel's Sacred Crest","ru":"Священная печать ритуального сосуда"}
 {"id":"static:405C7EC3","en":"43B1A7​","ru":"43B1A7​"}
 {"id":"static:40816F96","en":"Clear Focus","ru":"Снять фокус"}
 {"id":"static:408A6B0C","en":"Test text","ru":"Тестовый текст"}
@@ -1044,7 +1044,7 @@
 {"id":"static:49AB15ED","en":"Storage is full.","ru":"Хранилище заполнено."}
 {"id":"static:49B2C7B1","en":"A fishing spot ideal for prioritizing, with abundant, flowing water. Unfortunately, the variety of fish\n is rather limited, but no matter—if the goal is to fill your belly, this is the place to choose.","ru":"Водоём, который стоит выбрать для рыбалки в первую очередь: здесь много воды и она подвижна. К сожалению, виды рыб\n довольно однообразны, но ничего — если цель набить живот, выбирайте это место."}
 {"id":"static:49D1963C","en":"Chicken Chick Chick","ru":"Цыплёнок-цыплёнок-цыплёнок"}
-{"id":"static:49D2E5A7","en":"You have entered the Forest Spirit Butterfly's territory.","ru":"Вы вошли на территорию лесной бабочки-духа."}
+{"id":"static:49D2E5A7","en":"You have entered the Phantomfly's territory.","ru":"Вы вошли на территорию Призракрыла."}
 {"id":"static:49DE5EC4","en":"Anima","ru":"Анима"}
 {"id":"static:49E1EC70","en":"Clear Reward:","ru":"Награда за прохождение:"}
 {"id":"static:49E69BEF","en":"Yuzhou Boundary Ruins","ru":"Руины границы Юйчжоу"}
@@ -1159,7 +1159,7 @@
 {"id":"static:5206560A","en":"V","ru":"V"}
 {"id":"static:522ADF0B","en":"Score +20%","ru":"Счёт +20%"}
 {"id":"static:5242C6EA","en":"The sawmill can be upgraded to level 2\n to produce more wood.","ru":"Пилораму можно улучшить до уровня 2\n, чтобы производить больше древесины."}
-{"id":"static:5257E337","en":"Observe <color=#ffae3b>20</color> times to guarantee a 5-star character","ru":"Совершите наблюдение <color=#ffae3b>20</color> раз, чтобы гарантированно получить персонажа 5 звезды"}
+{"id":"static:5257E337","en":"Observe <color=#ffae3b>20</color> times to guarantee a ★5 character","ru":"Совершите наблюдение <color=#ffae3b>20</color> раз, чтобы гарантированно получить персонажа ★5"}
 {"id":"static:5289492C","en":"WORLD","ru":"МИР"}
 {"id":"static:529820EF","en":"LEVEL UP","ru":"ПОВЫШЕНИЕ УРОВНЯ"}
 {"id":"static:529B7D4A","en":"A team member is requesting to skip the cutscene.","ru":"Участник команды просит пропустить кат-сцену."}
@@ -1397,7 +1397,7 @@
 {"id":"static:625FB26B+2","en":"Cancel","ru":"Отмена"}
 {"id":"static:6265E221","en":"Mellowmie-mie-mie-mie-mie-mie-mie-mie-mie-mie-mie-mie-mie","ru":"Меллоуми-ми-ми-ми-ми-ми-ми-ми-ми-ми-ми-ми-ми"}
 {"id":"static:6281D207","en":"Hide Kibo","ru":"Скрыть кибо"}
-{"id":"static:629CF468","en":"Xiaoyu has a grand plan: not only to display all the finest produce of the Valley of Sprouts at her own agricultural exhibition, but also to let visitors buy whatever they want on the spot! To that end, she began working hard to gather produce for sale, but the results were... the results were hardly any.","ru":"У Сяоюй грандиозный план: не только выставить все лучшие плоды Долины ростков на собственной сельскохозяйственной выставке, но и позволить посетителям сразу купить всё, что они захотят! Ради этого она начала усердно собирать урожай на продажу, но результат оказался... результат оказался почти нулевым."}
+{"id":"static:629CF468","en":"Xiaoyu has a grand plan: not only to display all the finest produce of Sprout Valley at her own agricultural exhibition, but also to let visitors buy whatever they want on the spot! To that end, she began working hard to gather produce for sale, but the results were hardly any.","ru":"У Сяоюй грандиозный план: не только выставить все лучшие плоды Долины Ростков на собственной сельскохозяйственной выставке, но и позволить посетителям сразу купить всё, что они захотят! Ради этого она начала усердно собирать урожай на продажу, но результат оказался почти нулевым."}
 {"id":"static:62B5A6F9","en":"Unlocked at Building Level 3","ru":"Открывается на уровне строительства 3"}
 {"id":"static:62CE0D9B","en":"Energetic Parurururu","ru":"Бодрый Паруруруру"}
 {"id":"static:63225F19","en":"SELECT","ru":"SELECT"}
@@ -1600,7 +1600,7 @@
 {"id":"static:72283B97","en":"Retry Stage","ru":"Повторить этап"}
 {"id":"static:7229ECC6","en":"times","ru":"раз"}
 {"id":"static:7232D42C","en":"Seed Management","ru":"Управление семенами"}
-{"id":"static:72699C60","en":"Unlocked when the character reaches Ascension 2","ru":"Открывается при достижении персонажем возвышения 2"}
+{"id":"static:72699C60","en":"Unlocked when the character reaches Ascension 2","ru":"Открывается при достижении персонажем Вознесения 2"}
 {"id":"static:7281B5A3","en":"Starlink Unavailable","ru":"Звёздная связь недоступна"}
 {"id":"static:72BB9785","en":"When sowing Goldwheat seeds, there is a 15% chance not to consume a seed.","ru":"При посеве семян золотой пшеницы с вероятностью 15% семя не расходуется."}
 {"id":"static:72C1D458","en":"Confrontation Skill","ru":"Навык противостояния"}
@@ -1714,7 +1714,7 @@
 {"id":"static:798919DE","en":"Lone Wolf","ru":"Одинокий волк"}
 {"id":"static:799C23A5","en":"EXP Fruit","ru":"Фрукт опыта"}
 {"id":"static:799E0C1D","en":"Character Level Cap","ru":"Предел уровня персонажа"}
-{"id":"static:79AAF225","en":"Show Bonuses","ru":"Показать бонусы"}
+{"id":"static:79AAF225","en":"Bonuses","ru":"Бонусы"}
 {"id":"static:79B03DDE","en":"Protagonist's Accessory x1\nStamina Potion x3","ru":"Аксессуар главного героя x1\nЗелье выносливости x3"}
 {"id":"static:79B5A656","en":"Rotate","ru":"Поворот"}
 {"id":"static:79C5BCC1","en":"Village","ru":"Деревня"}
@@ -1766,7 +1766,7 @@
 {"id":"static:7D32BB78","en":"Not selected","ru":"Не выбрано"}
 {"id":"static:7D35A453","en":"Massive","ru":"Огромный"}
 {"id":"static:7D5FA506","en":"No  ongoing  conversations","ru":"Нет  активных  диалогов"}
-{"id":"static:7D9F2A61","en":"Tier I: ATK increases by <color=#ffae3b>8%</color>, and enemies' Break duration increases by <color=#ffae3b>100%</color>. When dealing Crit DMG to an enemy in that state, summons a meteor that deals damage equal to <color=#ffae3b>1400%</color> of ATK. Cooldown: <color=#ffae3b>6</color> sec. Summons a meteor that deals ATK","ru":"Уровень I: сила атаки повышается на <color=#ffae3b>8%</color>, а длительность состояния прорыва у врагов увеличивается на <color=#ffae3b>100%</color>. При нанесении крит. урона врагу в этом состоянии призывает метеор, наносящий урон в размере <color=#ffae3b>1400%</color> от силы атаки. Перезарядка: <color=#ffae3b>6</color> сек. Призывает метеор, наносящий урон от силы атаки"}
+{"id":"static:7D9F2A61","en":"Tier I: ATK increases by <color=#ffae3b>8%</color>, and enemies' Break duration increases by <color=#ffae3b>100%</color>. When dealing Crit DMG to an enemy in that state, summons a meteor that deals damage equal to <color=#ffae3b>1400%</color> of ATK. Cooldown: <color=#ffae3b>6</color> sec.","ru":"Уровень I: сила атаки повышается на <color=#ffae3b>8%</color>, а длительность состояния прорыва у врагов увеличивается на <color=#ffae3b>100%</color>. При нанесении крит. урона врагу в этом состоянии призывает метеор, наносящий урон в размере <color=#ffae3b>1400%</color> от силы атаки. Перезарядка: <color=#ffae3b>6</color> сек."}
 {"id":"static:7DA8F641","en":"New content like Kibo Fight and Crisis Subjugation is coming one after another!","ru":"Новый контент, такой как Бой кибо и Подавление кризиса, будет появляться один за другим!"}
 {"id":"static:7DAF775D","en":"Attribute Counter Notes","ru":"Заметки о противостоянии стихий"}
 {"id":"static:7DB1B67D","en":"Jungle Red Panda","ru":"Лесная малая панда"}
@@ -1837,7 +1837,7 @@
 {"id":"static:82931AFC","en":"59/60","ru":"59/60"}
 {"id":"static:82962A88","en":"Shalle Ensis","ru":"Шалль Энсис"}
 {"id":"static:8296DF05","en":"Stage Gimmick","ru":"Механика уровня"}
-{"id":"static:82CAD191","en":"Heavy Attack DMG increased by 50%. After using a Heavy Attack, apply 1 Sigil corresponding to the character's element.","ru":"Урон тяжёлой атаки повышен на 50%. После применения тяжёлой атаки наложить 1 печать, соответствующую элементу персонажа."}
+{"id":"static:82CAD191","en":"Charged Attack DMG increased by 50%. After using a Charged Attack, apply 1 Sigil corresponding to the character's element.","ru":"Урон заряженной атаки повышен на 50%. После применения заряженной атаки наложить 1 печать, соответствующую элементу персонажа."}
 {"id":"static:82D9312C","en":"Talent Name","ru":"Название таланта"}
 {"id":"static:830738A0","en":"EXP Required","ru":"Требуемый опыт"}
 {"id":"static:8311DC6C","en":"<size=12>x</size>26","ru":"<size=12>x</size>26"}
@@ -1882,7 +1882,7 @@
 {"id":"static:86D3A394","en":"Blocked Notifications\n","ru":"Заблокированные уведомления\n"}
 {"id":"static:86D688A8","en":"The [Starborn Guidebook] is here to help you as you arrive on the Promilia Continent!\nBuilding your base / Starlink with Kibo / Defeating powerful foes / Discovering secrets... Follow the guide and explore\nthis world step by step!","ru":"[Путеводитель Звездорождённого] здесь, чтобы помочь вам, только что прибывшим на континент Промилия!\nОбустройство базы / Звёздная связь с кибо / Победа над сильными врагами / Раскрытие тайн… Следуйте путеводителю и шаг за шагом исследуйте\nэтот мир!"}
 {"id":"static:86E4B169","en":"Full Speed Duplicate","ru":"Дублирование на полной скорости"}
-{"id":"static:86F18C80","en":"Raise Kibo","ru":"Развивать кибо"}
+{"id":"static:86F18C80","en":"Evolve Kibo","ru":"Эволюционировать кибо"}
 {"id":"static:8736E1B0","en":"Leaving in 09:50.","ru":"Выход через 09:50."}
 {"id":"static:8748BFB3","en":"Obtain Dorm Decor","ru":"Получить украшение общежития"}
 {"id":"static:874B9368","en":"Raspberry x 5","ru":"Малина x 5"}
@@ -2205,7 +2205,7 @@
 {"id":"static:9CFA84CB","en":"Camera Distance:","ru":"Дистанция камеры:"}
 {"id":"static:9D5E42C0","en":"Up to seven characters","ru":"До семи символов"}
 {"id":"static:9D5ED678","en":"B","ru":"B"}
-{"id":"static:9D8EB4B2","en":"Adult Form","ru":"Взрослая форма"}
+{"id":"static:9D8EB4B2","en":"Mature Form","ru":"Зрелая форма"}
 {"id":"static:9DC2CDD4","en":"Activated Points","ru":"Активированные точки"}
 {"id":"static:9DCBF642","en":"1111111111111","ru":"1111111111111"}
 {"id":"static:9DD4E461","en":"X","ru":"X"}
@@ -2306,7 +2306,7 @@
 {"id":"static:A56A24F0","en":"Stage Simulator","ru":"Симулятор сцены"}
 {"id":"static:A5A60458","en":"Can you find where Umi is hiding?","ru":"Сможешь найти, где спряталась Уми?"}
 {"id":"static:A5B02B88","en":"Defeat the King of Kamaitachi (Boss)","ru":"Победите короля камаитати (босса)"}
-{"id":"static:A5CB8EE1","en":"On Normal Attack, there is a 10% chance to increase your own Physical Defense by 10%. Lasts 5 seconds.","ru":"При обычной атаке с вероятностью 10% увеличивает собственную физическую защиту на 10%. Длится 5 сек."}
+{"id":"static:A5CB8EE1","en":"On Normal Attack, there is a 10% chance to increase your own Physical DEF by 10%. Lasts 5 seconds.","ru":"При обычной атаке с вероятностью 10% повышает собственную физическую защиту на 10%. Длится 5 сек."}
 {"id":"static:A5F3C6A1","en":"K","ru":"K"}
 {"id":"static:A5FFBA77","en":"No bonus","ru":"Без бонуса"}
 {"id":"static:A620810B","en":"Item Name","ru":"Название предмета"}
@@ -2359,7 +2359,7 @@
 {"id":"static:A98A66BD","en":"Tutorial stages can be challenged as many times as you like!","ru":"Обучающие этапы можно проходить сколько угодно раз!"}
 {"id":"static:A9945AE2","en":"All orders for the current period are complete","ru":"Все заказы текущего периода выполнены"}
 {"id":"static:A9BCE2EC","en":"High-five","ru":"Дай пять"}
-{"id":"static:A9C277B8","en":"Add All","ru":"Добавить всё"}
+{"id":"static:A9C277B8","en":"All","ru":"Всё"}
 {"id":"static:A9CA6502","en":"The challenge will begin shortly. Press [Accept] to enter the dungeon and prepare.","ru":"Испытание скоро начнётся. Нажмите [Принять], чтобы войти в подземелье и подготовиться."}
 {"id":"static:AA05FD09","en":"Standard","ru":"Общий"}
 {"id":"static:AA126DDD","en":"Myth","ru":"Миф"}
@@ -2912,7 +2912,7 @@
 {"id":"static:D1805749","en":"Characters & Anima","ru":"Персонажи и анима"}
 {"id":"static:D18AC191","en":"Required consumption to claim rewards","ru":"Расход, необходимый для получения наград"}
 {"id":"static:D18FFC69","en":"Block list is empty","ru":"Список блокировок пуст"}
-{"id":"static:D1AEB74F","en":"Additional Shipping Increase","ru":"Дополнительный прирост отгрузки"}
+{"id":"static:D1AEB74F","en":"Additional Increase on Shipping","ru":"Дополнительный прирост при отгрузке"}
 {"id":"static:D1B3623B","en":"HereIsServer","ru":"HereIsServer"}
 {"id":"static:D1B7D5C2","en":"Enemy Level","ru":"Уровень противника"}
 {"id":"static:D1D5F473","en":"The 3 hit of a Normal Attack deals area fire damage and sets hit targets ablaze, dealing damage equal to 30% of ATK per second. Lasts 8 seconds.","ru":"3-й удар обычной атаки наносит огненный урон по области и поджигает задетые цели, нанося урон, равный 30% от атаки, каждую секунду. Длится 8 секунд."}
@@ -3190,7 +3190,7 @@
 {"id":"static:E69CA2D0","en":"Start Hatching","ru":"Начать вылупление"}
 {"id":"static:E6A8E1EB","en":"Azur PromiliaAzur Promilia","ru":"Azur PromiliaAzur Promilia"}
 {"id":"static:E6AA2A22","en":"Starlight Name Card","ru":"Звёздная именная карточка"}
-{"id":"static:E6EB7C49","en":"Gift name can be up to nine characters","ru":"Название подарка — не более девяти символов"}
+{"id":"static:E6EB7C49","en":"Pack name can be up to 9 characters","ru":"Название набора — не более 9 символов"}
 {"id":"static:E6FDDAE2","en":"Base Image","ru":"Базовое изображение"}
 {"id":"static:E7001887","en":"Concentrate the surrounding natural elements with an arrow to draw in Wind Element. Release energy to form a magic arrow and deal Wind Attribute DMG equal to 910% of ATK. Inflicts the hit enemy with a DMG Taken Up effect, increasing DMG taken by 10% (for 12s).","ru":"Стрела концентрирует природные элементы вокруг, собирая элементарную энергию ветра. Высвободите энергию, чтобы создать магическую стрелу и нанести ветряной урон в размере 910% от силы атаки. Поражённый противник получает эффект повышения получаемого урона: урон увеличивается на 10% (в течение 12 сек.)."}
 {"id":"static:E705F37E","en":"Adjust Time","ru":"Настроить время"}
@@ -3238,7 +3238,7 @@
 {"id":"static:EA2E2D6C","en":"Restores 100 HP to all team members.","ru":"Восстанавливает 100 HP всем членам команды."}
 {"id":"static:EA328DC7","en":"Current Stage","ru":"Текущий этап"}
 {"id":"static:EA35FE97","en":"Permanent Purchase Limit: 1/1","ru":"Лимит постоянных покупок: 1/1"}
-{"id":"static:EA683A45","en":"Auto-Stacked","ru":"Автоматически накоплено"}
+{"id":"static:EA683A45","en":"Auto-Stack Feature","ru":"Функция автонакопления"}
 {"id":"static:EA8DF8F2","en":"Kibo Emote","ru":"Эмоция кибо"}
 {"id":"static:EA8FAD39","en":"Owned:","ru":"В наличии:"}
 {"id":"static:EAA2D12D","en":"EYE","ru":"ГЛАЗ"}
@@ -3263,7 +3263,7 @@
 {"id":"static:EBC9D9E6","en":"Material","ru":"Материал"}
 {"id":"static:EBECF7F6","en":"Chest Accessories","ru":"Аксессуары для сундуков"}
 {"id":"static:EBF14411","en":"Nameless Ring","ru":"Безымянное кольцо"}
-{"id":"static:EBF7F167","en":"Gift Pack Shop","ru":"Магазин подарочных наборов"}
+{"id":"static:EBF7F167","en":"Pack Shop","ru":"Магазин наборов"}
 {"id":"static:EC02815D","en":"Rename","ru":"Переименовать"}
 {"id":"static:EC02815D+1","en":"Rename","ru":"Переименовать"}
 {"id":"static:EC211F7C","en":"ADD","ru":"ДОБАВИТЬ"}
@@ -3422,8 +3422,8 @@
 {"id":"static:F6891880","en":"Chamber of Shattered Memories","ru":"Зал разбитых воспоминаний"}
 {"id":"static:F68D5C7C","en":"Collect All!","ru":"Собрать всё!"}
 {"id":"static:F6924652","en":"Test text","ru":"Тестовый текст"}
-{"id":"static:F6A20A36","en":"Obtain — Exchange in the Congyun Village Reputation Quest","ru":"Получение — обмен в задании репутации деревни Цунъюнь"}
-{"id":"static:F6A2B0B0","en":"Controlled Pet","ru":"Управляемый питомец"}
+{"id":"static:F6A20A36","en":"Obtain — Exchange in the Ziyun Village Reputation Quest","ru":"Получение — обмен в задании репутации деревни Цзыюнь"}
+{"id":"static:F6A2B0B0","en":"Kibo Controls","ru":"Управление кибо"}
 {"id":"static:F6A99DD8","en":"Yesterday's Income","ru":"Вчерашний доход"}
 {"id":"static:F6B5A813","en":"Stability Level","ru":"Уровень стабильности"}
 {"id":"static:F6C2363E","en":"Skip?","ru":"Пропустить?"}
@@ -3441,7 +3441,7 @@
 {"id":"static:F7C09C2D","en":"Snow Crystal Sacred Sword: Effect on 2 lines<color=#3c749b>+3</color>","ru":"Священный меч снежного кристалла: эффект в 2 строк<color=#3c749b>+3</color>"}
 {"id":"static:F7C8E349","en":"Watermill (Built) — When sowing Goldwheat seeds","ru":"Водяная мельница (построена) — при посеве золотой пшеницы"}
 {"id":"static:F7D21160","en":"My Bag","ru":"Моя сумка"}
-{"id":"static:F7DE3418","en":"Select equipment of the same name to inherit its rarity.","ru":"Выберите снаряжение с тем же названием, чтобы унаследовать его редкость."}
+{"id":"static:F7DE3418","en":"Select equipment of the same name to perform inheritance.","ru":"Выберите снаряжение с тем же названием для наследования."}
 {"id":"static:F7E68BDE","en":"Frequently Used","ru":"Часто используемое"}
 {"id":"static:F7EC2DCD","en":"Raga Sword","ru":"Меч раги"}
 {"id":"static:F7F82B9C","en":"New Content Preview","ru":"Анонс нового контента"}

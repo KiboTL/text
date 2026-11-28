@@ -1,7 +1,7 @@
 {"id":"egg_affix:12884902144","en":"Common Shiny Chance +","ru":"Шанс обычного Сияющего +"}
 {"id":"egg_affix:12884902656","en":"<color=#62749d> Shiny</color>","ru":"<color=#62749d> Сияющий</color>"}
 {"id":"egg_affix:12884902912","en":"Increases the chance of hatching a Shiny Kibo.","ru":"Повышает шанс вылупления Сияющего кибо."}
-{"id":"egg_affix:17179869440","en":"Shiny Guaranteed","ru":"Сияющий гарантирован"}
+{"id":"egg_affix:17179869440","en":"Common Shiny Guaranteed","ru":"Обычный Сияющий гарантирован"}
 {"id":"egg_affix:17179869952","en":"<color=#62749d> Shiny</color>","ru":"<color=#62749d> Сияющий</color>"}
 {"id":"egg_affix:17179870208","en":"Hatches a Shiny Kibo.","ru":"Вылупляется Сияющий кибо."}
 {"id":"egg_affix:21474836736","en":"Radiant Chance +","ru":"Шанс Лучистого +"}
@@ -10,10 +10,10 @@
 {"id":"egg_affix:25769804032","en":"Radiant Guaranteed","ru":"Лучистый гарантирован"}
 {"id":"egg_affix:25769804544","en":"<color=#6d5c4e> Radiant</color>","ru":"<color=#6d5c4e> Лучистый</color>"}
 {"id":"egg_affix:25769804800","en":"Hatches a Radiant Kibo.","ru":"Вылупляется Лучистый кибо."}
-{"id":"egg_affix:30064771328","en":"Starshine Chance +","ru":"Шанс Звёздного сияния +"}
+{"id":"egg_affix:30064771328","en":"Common Starshine Chance +","ru":"Шанс обычного Звёздного сияния +"}
 {"id":"egg_affix:30064771840","en":"<color=#615a7e> Starshine</color>","ru":"<color=#615a7e> Звёздное сияние</color>"}
 {"id":"egg_affix:30064772096","en":"Increases the chance of hatching a Starshine Kibo.","ru":"Повышает шанс вылупления кибо со Звёздным сиянием."}
-{"id":"egg_affix:34359738624","en":"Starshine Guaranteed","ru":"Звёздное сияние гарантировано"}
+{"id":"egg_affix:34359738624","en":"Common Starshine Guaranteed","ru":"Обычное Звёздное сияние гарантировано"}
 {"id":"egg_affix:34359739136","en":"<color=#615a7e> Starshine</color>","ru":"<color=#615a7e> Звёздное сияние</color>"}
 {"id":"egg_affix:34359739392","en":"Hatches a Starshine Kibo.","ru":"Вылупляется кибо со Звёздным сиянием."}
 {"id":"egg_affix:38654705920","en":"Rare Shiny Chance +","ru":"Шанс редкого Сияющего +"}

@@ -1,5 +1,5 @@
 {"id":"game_events_novice:42907152783771392","en":"Progress through the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
-{"id":"game_events_novice:42907157078738688","en":"Complete Main Story [Chapter 1-Ⅲ]","ru":"Завершить основной сюжет [Глава 1-Ⅲ]"}
+{"id":"game_events_novice:42907157078738688","en":"Unlocked after clearing Main Story \"Chapter 1-Ⅲ\"","ru":"Открывается после прохождения основного сюжета «Глава 1-Ⅲ»"}
 {"id":"game_events_novice:42907161373705984","en":"Unlocked at Star Knowledge Level 6","ru":"Открывается на Уровне звёздных знаний 6"}
 {"id":"game_events_novice:42907165668673280","en":"Unlocked at Star Knowledge Level 6","ru":"Открывается на Уровне звёздных знаний 6"}
 {"id":"game_events_novice:42907169963640576","en":"Unlocked at Star Knowledge Level 6","ru":"Открывается на Уровне звёздных знаний 6"}
@@ -8,7 +8,7 @@
 {"id":"game_events_novice:42907182848542464","en":"Unlocked at Star Knowledge Level 10","ru":"Открывается на Уровне звёздных знаний 10"}
 {"id":"game_events_novice:42907187143509760","en":"Unlocked at Star Knowledge Level 10","ru":"Открывается на Уровне звёздных знаний 10"}
 {"id":"game_events_novice:42907191438477056","en":"Unlocked at Star Knowledge Level 10","ru":"Открывается на Уровне звёздных знаний 10"}
-{"id":"game_events_novice:42907195733444352","en":"Unlocked after completing [Chapter 1-Ⅶ] and speaking with Enkaku","ru":"Открывается после завершения [Главы 1-Ⅶ] и разговора с Энкаку"}
+{"id":"game_events_novice:42907195733444352","en":"Unlocked after clearing \"Chapter 1-Ⅶ\" and speaking with Enkaku","ru":"Открывается после прохождения «Главы 1-Ⅶ» и разговора с Энкаку"}
 {"id":"game_events_novice:42907200028411648","en":"Unlocked at Star Knowledge Level 18","ru":"Открывается на Уровне звёздных знаний 18"}
 {"id":"game_events_novice:42907204323378944","en":"Unlocked at Star Knowledge Level 22","ru":"Открывается на Уровне звёздных знаний 22"}
 {"id":"game_events_novice:42907208618346240","en":"Unlocked at Star Knowledge Level 22","ru":"Открывается на Уровне звёздных знаний 22"}

@@ -49,8 +49,8 @@
 {"id":"home_object:2791977850503424","en":"Totem - Light5","ru":"Тотем — свет5"}
 {"id":"home_object:2791982145470720","en":"Totem - Dark4","ru":"Тотем — тьма4"}
 {"id":"home_object:2791986440438016","en":"Totem - Dark5","ru":"Тотем — тьма5"}
-{"id":"home_object:2791990735405312","en":"Totem - Life4","ru":"Тотем — жизнь4"}
-{"id":"home_object:2791995030372608","en":"Totem - Life5","ru":"Тотем — жизнь5"}
+{"id":"home_object:2791990735405312","en":"Totem - HP4","ru":"Тотем — HP4"}
+{"id":"home_object:2791995030372608","en":"Totem - HP5","ru":"Тотем — HP5"}
 {"id":"home_object:42949672960256","en":"Seeds","ru":"Семена"}
 {"id":"home_object:42996917600512","en":"Goldwheat Sprout","ru":"Росток золотой пшеницы"}
 {"id":"home_object:43001212567808","en":"Goldwheat - Growth Period","ru":"Золотая пшеница — период роста"}
@@ -105,9 +105,9 @@
 {"id":"home_object:43727062040832","en":"Flammule Seedling","ru":"Рассада фламмуля"}
 {"id":"home_object:43731357008128","en":"Mature Flammule","ru":"Зрелый фламмуль"}
 {"id":"home_object:4376571674880","en":"Ore Smelter","ru":"Плавильня руды"}
-{"id":"home_object:43770011713792","en":"Moonwoven Flax Seedling","ru":"Рассада лунного льна"}
-{"id":"home_object:43774306681088","en":"Grown Moonwoven Flax","ru":"Выросший лунный лён"}
-{"id":"home_object:43778601648384","en":"Mature Moonwoven Flax","ru":"Зрелый лунный лён"}
+{"id":"home_object:43770011713792","en":"Moonlight Hemp Seedling","ru":"Рассада лунной конопли"}
+{"id":"home_object:43774306681088","en":"Grown Moonlight Hemp","ru":"Выросшая лунная конопля"}
+{"id":"home_object:43778601648384","en":"Mature Moonlight Hemp","ru":"Зрелая лунная конопля"}
 {"id":"home_object:4380866642176","en":"Workbench","ru":"Верстак"}
 {"id":"home_object:43812961386752","en":"Spiderfluff Seedling","ru":"Рассада паутинного пуха"}
 {"id":"home_object:43817256354048","en":"Grown Spiderfluff","ru":"Выросший паутинный пух"}
@@ -165,7 +165,7 @@
 {"id":"home_object:44066364457216","en":"Mature Pepe","ru":"Зрелый пепе"}
 {"id":"home_object:4406636445952","en":"Weapon Crafting Bench","ru":"Стол для ковки оружия"}
 {"id":"home_object:44074954391808","en":"Fleece-Style Dorm","ru":"Общежитие в стиле Флиса"}
-{"id":"home_object:44079249359104","en":"Metsa Draw Shower Curtain","ru":"Метса: задёрнуть занавеску для душа"}
+{"id":"home_object:44079249359104","en":"Metsa - Drawn Shower Curtain","ru":"Метса — задёрнутая занавеска для душа"}
 {"id":"home_object:44083544326400","en":"Elemental Star Wedge","ru":"Элементальный звёздный клин"}
 {"id":"home_object:4410931413248","en":"Alchemy Bench","ru":"Алхимический стол"}
 {"id":"home_object:4415226380544","en":"Spinning Wheel","ru":"Прялка"}

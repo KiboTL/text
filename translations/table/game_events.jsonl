@@ -9,7 +9,7 @@
 {"id":"game_events:1503242848568064","en":"Morning Dew Gift","ru":"Дар утренней росы"}
 {"id":"game_events:1503242848570368","en":"Advance the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
 {"id":"game_events:1503242848573696","en":"01.01-12.05","ru":"01.01-12.05"}
-{"id":"game_events:1503242848574208","en":"Morning light filters through the leaves, where sparkling dew gathers.\nSketchboard in hand and pockets full of surprises, Korokoro captures this gift the journey has given.\nLog in every day to receive a modest gift, light as a drop of dew.","ru":"Утренний свет проникает сквозь листву, и на листьях собирается сверкающая роса.\nКорокоро с дощечкой для набросков в руках и карманами, полными сюрпризов, запечатлевает этот дар, преподнесённый путешествием.\nВходите в игру каждый день, чтобы получать скромный, словно капля росы, подарок."}
+{"id":"game_events:1503242848574208","en":"Morning light filters through the leaves, where the morning dew sparkles.\nSketchboard in hand and pockets full of surprises, Korokoro captures this gift the journey has given.\nLog in every day to receive a modest gift, light as a drop of morning dew.","ru":"Утренний свет проникает сквозь листву, и на листьях собирается сверкающая роса.\nКорокоро с дощечкой для набросков в руках и карманами, полными сюрпризов, запечатлевает этот дар, преподнесённый путешествием.\nВходите в игру каждый день, чтобы получать скромный, словно капля росы, подарок."}
 {"id":"game_events:17184164152064","en":"Primordial Starlight","ru":"Изначальный звёздный свет"}
 {"id":"game_events:17184164154368","en":"Advance the main story quest.","ru":"Продвиньтесь по сюжетному заданию."}
 {"id":"game_events:17184164157696","en":"Permanent Event","ru":"Постоянное событие"}
@@ -22,9 +22,9 @@
 {"id":"game_events:257702332733696","en":"01.03-10.07","ru":"01.03-10.07"}
 {"id":"game_events:257702332734208","en":"The Peach Blossom Charm brought you greetings from Qinghua Township.\nBut it also carried bothersome news: the Practice Test is approaching...","ru":"Персиковый талисман принёс привет из Цинхуа.\nНо вместе с ним пришла и неприятная весть: испытание практики уже близко..."}
 {"id":"game_events:257706627695360","en":"Blades Sing! Hunting Festival","ru":"Звон клинков! Праздник охоты"}
-{"id":"game_events:257706627697664","en":"Complete the main story \"Beneath the Storm Clouds\"","ru":"Завершите основную историю «Под грозовыми тучами»"}
+{"id":"game_events:257706627697664","en":"Complete the main story quest \"Beneath the Storm Clouds\"","ru":"Завершите основную историю «Под грозовыми тучами»"}
 {"id":"game_events:257706627700992","en":"01.03-10.07","ru":"01.03-10.07"}
-{"id":"game_events:257706627701504","en":"The Calamity Beast Hunt Festival is in full swing in Fleece.\nPlacing 1st in the festival earns a reward of one million Yuni. Chiyo is determined to claim it no matter what!","ru":"В Флисе вовсю идёт Фестиваль охоты на бедственных зверей.\nЗа 1-е место на фестивале полагается награда в миллион юни. Тиё твёрдо намерена её заполучить!"}
+{"id":"game_events:257706627701504","en":"The Calamity Beast Hunt Festival is in full swing in Fleece.\nPlacing 1st in the festival earns a reward of 1,000,000 Yuni. Chiyo is determined to claim it no matter what!","ru":"В Флисе вовсю идёт Фестиваль охоты на бедственных зверей.\nЗа 1-е место на фестивале полагается награда в миллион юни. Тиё твёрдо намерена её заполучить!"}
 {"id":"game_events:300652005688064","en":"Little Xia Training","ru":"Воспитание маленького ся"}
 {"id":"game_events:300652005690368","en":"Advance the main story.","ru":"Продвиньтесь по основной истории."}
 {"id":"game_events:300652005693696","en":"Permanent Event","ru":"Постоянное событие"}

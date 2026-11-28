@@ -14,7 +14,7 @@
 {"id":"buff_info:131031300353033728","en":"Bleed","ru":"Кровотечение"}
 {"id":"buff_info:1314259993088","en":"EX","ru":"EX"}
 {"id":"buff_info:132303465371140608","en":"ATK Up","ru":"Повышение атаки"}
-{"id":"buff_info:132303465371140864","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:132303465371140864","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
 {"id":"buff_info:132303465371141632","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:132303469666107904","en":"Purification","ru":"Очищение"}
 {"id":"buff_info:132303469666108160","en":"Purification","ru":"Очищение"}
@@ -41,18 +41,18 @@
 {"id":"buff_info:1332655595202806528","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:1332655646742413824","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:1332655646742414080","en":"ATK Up","ru":"Повышение атаки"}
-{"id":"buff_info:1332655659627315712","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:1332655659627315712","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:1332655659627315968","en":"DEF decreases.","ru":"Снижает защиту."}
-{"id":"buff_info:1332655659627316736","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:1332655659627316736","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:1334515096998642176","en":"Attack Boost","ru":"Усиление атаки"}
 {"id":"buff_info:1334515096998642432","en":"Raises ATK by 30%.","ru":"Повышает атаку на 30%."}
 {"id":"buff_info:1334515096998643200","en":"ATK Up","ru":"Повышение силы атаки"}
 {"id":"buff_info:1334519808577765888","en":"Iron Wall","ru":"Железная стена"}
 {"id":"buff_info:1334519808577766144","en":"Iron Wall","ru":"Железная стена"}
 {"id":"buff_info:1334519808577766912","en":"Physical DEF Up","ru":"Повышение физической защиты"}
-{"id":"buff_info:1335575949625786880","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:1335575949625786880","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:1335575949625787136","en":"DEF decreases.","ru":"Снижает защиту."}
-{"id":"buff_info:1335575949625787904","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:1335575949625787904","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:1511828488704","en":"Ice Sigil-DEF Penetration","ru":"Ледяная печать — пробитие защиты"}
 {"id":"buff_info:1511828488960","en":"Ice Sigil-DEF Penetration","ru":"Ледяная печать — пробитие защиты"}
 {"id":"buff_info:1718288141636338176","en":"Bleed","ru":"Кровотечение"}
@@ -99,25 +99,25 @@
 {"id":"buff_info:1941325218304","en":"Dark Sigil-Elemental DMG Up","ru":"Тёмная печать — повышение стихийного урона"}
 {"id":"buff_info:1941325218560","en":"Dark Sigil-Elemental DMG Up","ru":"Тёмная печать — повышение стихийного урона"}
 {"id":"buff_info:2061760404329071104","en":"Garden Wind","ru":"Ветер Сада"}
-{"id":"buff_info:2061760404329071360","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
+{"id":"buff_info:2061760404329071360","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
 {"id":"buff_info:2061760404329072128","en":"Garden Wind","ru":"Ветер Сада"}
 {"id":"buff_info:2061760408624038400","en":"Garden Wind","ru":"Ветер Сада"}
 {"id":"buff_info:2061760408624038656","en":"Increases Wind DMG.","ru":"Увеличивает ветряной урон."}
 {"id":"buff_info:2061867782806438400","en":"Shaman's Prayer","ru":"Молитва шамана"}
 {"id":"buff_info:2061867782806438656","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
 {"id":"buff_info:2061867782806439424","en":"Shaman's Prayer","ru":"Молитва шамана"}
-{"id":"buff_info:2062108296680047104","en":"DMG Taken Down","ru":"Понижение получаемого урона"}
-{"id":"buff_info:2062108296680047360","en":"DMG Taken Down","ru":"Понижение получаемого урона"}
-{"id":"buff_info:2062108296680048128","en":"DMG Taken Down","ru":"Снижение получаемого урона"}
+{"id":"buff_info:2062108296680047104","en":"DMG Reduction","ru":"Понижение получаемого урона"}
+{"id":"buff_info:2062108296680047360","en":"DMG Reduction","ru":"Понижение получаемого урона"}
+{"id":"buff_info:2062108296680048128","en":"DMG Reduction","ru":"Снижение получаемого урона"}
 {"id":"buff_info:2062116903794508288","en":"Let's Play!","ru":"Давай поиграем!"}
 {"id":"buff_info:2062116903794508544","en":"Increases Fire DMG.","ru":"Увеличивает огненный урон."}
 {"id":"buff_info:2062116903794509312","en":"Let's Play!","ru":"Давай поиграем!"}
-{"id":"buff_info:2062189986958017024","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:2062189986958017024","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:2062189986958017280","en":"DEF decreases.","ru":"Снижает защиту."}
-{"id":"buff_info:2062189986958018048","en":"DEF is reduced.","ru":"Защита снижается."}
-{"id":"buff_info:2062258633420308992","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:2062189986958018048","en":"DEF Down","ru":"Защита снижается."}
+{"id":"buff_info:2062258633420308992","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:2062258633420309248","en":"DEF decreases.","ru":"Снижает защиту."}
-{"id":"buff_info:2062258633420310016","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:2062258633420310016","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:2062258637715276288","en":"Burn","ru":"Горение"}
 {"id":"buff_info:2062258637715276544","en":"Continuous Burning Damage","ru":"Непрерывный урон горением"}
 {"id":"buff_info:2062258637715277312","en":"Burn","ru":"Горение"}
@@ -131,16 +131,16 @@
 {"id":"buff_info:2147509718451487232","en":"Full Power","ru":"Полная мощность"}
 {"id":"buff_info:2147509718451487488","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:2147509718451488256","en":"ATK Up","ru":"Повышение силы атаки"}
-{"id":"buff_info:2147509735631356416","en":"Increases Fire Attribute damage.","ru":"Повышает урон огненного атрибута."}
+{"id":"buff_info:2147509735631356416","en":"Fire Attribute DMG Up","ru":"Повышение урона огненного атрибута"}
 {"id":"buff_info:2147509735631356672","en":"Increases Fire DMG.","ru":"Увеличивает огненный урон."}
 {"id":"buff_info:2147509735631357440","en":"Fire DMG Up","ru":"Увеличение огненного урона"}
 {"id":"buff_info:2147513991943946752","en":"Scorching Fire Wheel","ru":"Знойное огненное колесо"}
 {"id":"buff_info:2147513991943947008","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:2147513991943947776","en":"ATK Up","ru":"Повышение силы атаки"}
-{"id":"buff_info:2147514030598652416","en":"Increases Fire Attribute damage.","ru":"Повышает урон огненного атрибута."}
+{"id":"buff_info:2147514030598652416","en":"Fire Attribute DMG Up","ru":"Повышение урона огненного атрибута"}
 {"id":"buff_info:2147514030598652672","en":"Increases Fire DMG.","ru":"Увеличивает огненный урон."}
 {"id":"buff_info:2147514030598653440","en":"Fire DMG Up","ru":"Увеличение огненного урона"}
-{"id":"buff_info:2147514060663423488","en":"Increases Fire Attribute damage.","ru":"Повышает урон огненного атрибута."}
+{"id":"buff_info:2147514060663423488","en":"Fire Attribute DMG Up","ru":"Повышение урона огненного атрибута"}
 {"id":"buff_info:2147514060663423744","en":"Increases Fire DMG.","ru":"Увеличивает огненный урон."}
 {"id":"buff_info:2147514060663424512","en":"Fire DMG Up","ru":"Увеличение огненного урона"}
 {"id":"buff_info:2147569573115724288","en":"Mofunga's Sweep","ru":"Зачистка Мофунги"}
@@ -187,7 +187,7 @@
 {"id":"buff_info:2147677041787405824","en":"CRIT Rate Up","ru":"Повышение шанса крита"}
 {"id":"buff_info:2147689870854717952","en":"Nature Attribute DMG Up","ru":"Повышение урона природы"}
 {"id":"buff_info:2147689870854718208","en":"Nature Attribute DMG Up","ru":"Повышение урона природы"}
-{"id":"buff_info:2147689870854718976","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
+{"id":"buff_info:2147689870854718976","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
 {"id":"buff_info:2147702734281769472","en":"DEF Up","ru":"Повышение защиты"}
 {"id":"buff_info:2147702734281769728","en":"DEF Up","ru":"Повышение защиты"}
 {"id":"buff_info:2147702734281770496","en":"DEF Up","ru":"Повышение защиты"}
@@ -324,7 +324,7 @@
 {"id":"buff_info:2148381317639702016","en":"Nature Attribute DMG taken increases.","ru":"Получаемый урон природы повышается."}
 {"id":"buff_info:2148381339114537472","en":"Forest Guardian's Bind","ru":"Оковы лесного защитника"}
 {"id":"buff_info:2148381339114537728","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
-{"id":"buff_info:2148381339114538496","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
+{"id":"buff_info:2148381339114538496","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
 {"id":"buff_info:2148398484623983104","en":"Gururugas","ru":"Гуруругас"}
 {"id":"buff_info:2148398484623983360","en":"Physical DEF decreases.","ru":"Физическая защита снижается."}
 {"id":"buff_info:2148398484623984128","en":"Physical DEF Down","ru":"Снижение физ. защиты"}
@@ -337,7 +337,7 @@
 {"id":"buff_info:2148398501803852288","en":"Gururugas","ru":"Гуруругас"}
 {"id":"buff_info:2148398501803852544","en":"Movement speed is reduced.","ru":"Скорость передвижения снижается."}
 {"id":"buff_info:2148398501803853312","en":"Movement Speed Down","ru":"Снижение скорости передвижения"}
-{"id":"buff_info:2148398549048492544","en":"Dark Element RES decreases.","ru":"Сопротивление тёмному элементу снижается."}
+{"id":"buff_info:2148398549048492544","en":"Dark Element RES Down","ru":"Снижение сопротивления тёмному элементу"}
 {"id":"buff_info:2148398549048492800","en":"Decreases Dark Resistance.","ru":"Снижает сопротивление тьме."}
 {"id":"buff_info:2148428553690022400","en":"Dark Galaxy","ru":"Тёмная галактика"}
 {"id":"buff_info:2148428553690022656","en":"Dark DMG taken increases.","ru":"Получаемый тёмный урон повышается."}
@@ -402,9 +402,9 @@
 {"id":"buff_info:2149047063340384768","en":"Water DMG Up","ru":"Повышение водного урона"}
 {"id":"buff_info:2149047063340385024","en":"Water DMG Up","ru":"Водный урон повышен"}
 {"id":"buff_info:2149047063340385792","en":"Water DMG Up","ru":"Водный урон повышен"}
-{"id":"buff_info:2149047080520253952","en":"Light DMG increases.","ru":"Светлый урон повышается."}
-{"id":"buff_info:2149047080520254208","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
-{"id":"buff_info:2149047080520254976","en":"Light Element DMG increases.","ru":"Урон светлого элемента повышается."}
+{"id":"buff_info:2149047080520253952","en":"Light DMG Up","ru":"Повышение светлого урона"}
+{"id":"buff_info:2149047080520254208","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:2149047080520254976","en":"Light Element DMG Up","ru":"Повышение урона светлого элемента"}
 {"id":"buff_info:2149051323947942400","en":"Pikarin's Dance: Shield","ru":"Танец Пикарина: щит"}
 {"id":"buff_info:2149051323947942656","en":"HP Shield","ru":"Щит здоровья"}
 {"id":"buff_info:2149051323947943424","en":"HP Shield","ru":"Щит HP"}
@@ -490,11 +490,11 @@
 {"id":"buff_info:2150228153576981248","en":"DMG Taken Up","ru":"Получаемый урон повышен"}
 {"id":"buff_info:2150228153576982016","en":"DMG Taken Up","ru":"Получаемый урон повышен"}
 {"id":"buff_info:2150550280419148288","en":"Blue Crystal","ru":"Синий кристалл"}
-{"id":"buff_info:2150550280419148544","en":"Attack decreases.","ru":"Атака снижается."}
-{"id":"buff_info:2150550280419149312","en":"Attack decreases.","ru":"Атака снижается."}
+{"id":"buff_info:2150550280419148544","en":"Attack Down","ru":"Снижение атаки"}
+{"id":"buff_info:2150550280419149312","en":"Attack Down","ru":"Снижение атаки"}
 {"id":"buff_info:2150554639810953728","en":"Blue Crystal","ru":"Синий кристалл"}
-{"id":"buff_info:2150554639810953984","en":"Attack decreases.","ru":"Атака снижается."}
-{"id":"buff_info:2150554639810954752","en":"Attack decreases.","ru":"Атака снижается."}
+{"id":"buff_info:2150554639810953984","en":"Attack Down","ru":"Снижение атаки"}
+{"id":"buff_info:2150554639810954752","en":"Attack Down","ru":"Снижение атаки"}
 {"id":"buff_info:2150709172734263808","en":"Blessing of Leidos","ru":"Благословение Лейдоса"}
 {"id":"buff_info:2150709172734264064","en":"Removes debuffs and increases Nature DMG.","ru":"Снимает ослабления и повышает урон природы."}
 {"id":"buff_info:2150709172734264832","en":"Removes debuffs and increases Nature DMG.","ru":"Снимает ослабления и повышает урон природы."}
@@ -510,7 +510,7 @@
 {"id":"buff_info:2150773872121610752","en":"Crit Rate Up","ru":"Повышение крит. шанса"}
 {"id":"buff_info:2150773872121611008","en":"CRIT Rate Up","ru":"Повышение шанса крита"}
 {"id":"buff_info:2150773872121611776","en":"CRIT Rate Up","ru":"Повышение шанса крита"}
-{"id":"buff_info:2150773876416578048","en":"Crit DMG increases.","ru":"Критический урон повышается."}
+{"id":"buff_info:2150773876416578048","en":"Crit DMG Up","ru":"Повышение крит. урона"}
 {"id":"buff_info:2150773876416578304","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
 {"id":"buff_info:2150773876416579072","en":"Crit DMG Up","ru":"Повышение крит. урона"}
 {"id":"buff_info:2150992657755668992","en":"10-Spice Glide","ru":"10-острый скользящий удар"}
@@ -592,11 +592,11 @@
 {"id":"buff_info:218616463886385920","en":"DMG taken increases.","ru":"Получаемый урон повышается."}
 {"id":"buff_info:218616463886386688","en":"DMG taken increases.","ru":"Получаемый урон повышается."}
 {"id":"buff_info:2190433321472","en":"EX","ru":"EX"}
-{"id":"buff_info:219043804542403072","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
-{"id":"buff_info:219043804542403328","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:219043804542403072","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:219043804542403328","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
 {"id":"buff_info:219043804542404096","en":"Fire Attribute DMG taken increases.","ru":"Получаемый урон огненного атрибута повышается."}
-{"id":"buff_info:219043817427304960","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
-{"id":"buff_info:219043817427305216","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:219043817427304960","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:219043817427305216","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
 {"id":"buff_info:219043817427305984","en":"Fire Attribute DMG taken increases.","ru":"Получаемый урон огненного атрибута повышается."}
 {"id":"buff_info:219043821722272256","en":"Water Element Resistance Down","ru":"Снижение сопротивления водному элементу"}
 {"id":"buff_info:219043821722272512","en":"Water Element Resistance Down","ru":"Снижение сопротивления водному элементу"}
@@ -713,7 +713,7 @@
 {"id":"buff_info:2191124394082829056","en":"Decreases Dark Resistance.","ru":"Снижает сопротивление тьме."}
 {"id":"buff_info:2191124394082829824","en":"Darkflame Erosion","ru":"Тёмнопламенная эрозия"}
 {"id":"buff_info:2191124398377796096","en":"Darkflame Erosion","ru":"Тёмнопламенная эрозия"}
-{"id":"buff_info:2191124398377796352","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:2191124398377796352","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
 {"id":"buff_info:2191124398377797120","en":"Darkflame Erosion","ru":"Тёмнопламенная эрозия"}
 {"id":"buff_info:2191127834351632896","en":"Lord of the Sky","ru":"Владыка небес"}
 {"id":"buff_info:2191127834351633152","en":"Defense Penetration","ru":"Пробивание защиты"}
@@ -734,7 +734,7 @@
 {"id":"buff_info:2191137274689749760","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:2191137274689750528","en":"Great Wolf Descension","ru":"Нисхождение Великого волка"}
 {"id":"buff_info:2191138571769872896","en":"Super Luck","ru":"Суперудача"}
-{"id":"buff_info:2191138571769873152","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:2191138571769873152","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
 {"id":"buff_info:2191138571769873920","en":"Unstoppable Inspiration","ru":"Неудержимое озарение"}
 {"id":"buff_info:2191138576064840192","en":"Super Luck","ru":"Суперудача"}
 {"id":"buff_info:2191138576064840448","en":"Special Skill DMG increases.","ru":"Урон особого навыка повышается."}
@@ -810,7 +810,7 @@
 {"id":"buff_info:2233468901855855104","en":"No leisure","ru":"без досуга"}
 {"id":"buff_info:2233468901855855360","en":"Resistance Up","ru":"Повышение сопротивления"}
 {"id":"buff_info:2233473201118118400","en":"Prudent","ru":"Осмотрительность"}
-{"id":"buff_info:2233473201118118656","en":"Attack decreases.","ru":"Атака снижается."}
+{"id":"buff_info:2233473201118118656","en":"Attack Down","ru":"Снижение атаки"}
 {"id":"buff_info:2233473205413085696","en":"Prudent","ru":"Осмотрительность"}
 {"id":"buff_info:2233473205413085952","en":"DEF Up","ru":"Повышение защиты"}
 {"id":"buff_info:2233473214003020288","en":"Prudent","ru":"Осмотрительность"}
@@ -836,57 +836,57 @@
 {"id":"buff_info:2233503265889190400","en":"Fire Affinity","ru":"Огненное созвучие"}
 {"id":"buff_info:2233503265889190656","en":"Nature Attribute Resistance Up","ru":"Повышение сопротивления стихии природы"}
 {"id":"buff_info:2233503270184157696","en":"Fire Affinity","ru":"Огненное созвучие"}
-{"id":"buff_info:2233503270184157952","en":"Lowers Water Element resistance.","ru":"Понижает сопротивление водному элементу."}
+{"id":"buff_info:2233503270184157952","en":"Water Element Resistance Down","ru":"Понижает сопротивление водному элементу."}
 {"id":"buff_info:2233503274479124992","en":"Fire Affinity","ru":"Огненное созвучие"}
-{"id":"buff_info:2233503274479125248","en":"Lowers Earth Attribute resistance.","ru":"Понижает сопротивление земному атрибуту."}
+{"id":"buff_info:2233503274479125248","en":"Earth Attribute Resistance Down","ru":"Понижает сопротивление земному атрибуту."}
 {"id":"buff_info:2233507556561519104","en":"Water Resonance","ru":"Водный отклик"}
 {"id":"buff_info:2233507556561519360","en":"Fire Attribute Resistance Up","ru":"Повышение сопротивления огненному атрибуту"}
 {"id":"buff_info:2233507560856486400","en":"Water Resonance","ru":"Водный отклик"}
 {"id":"buff_info:2233507560856486656","en":"Earth Attribute Resistance Up","ru":"Повышение сопротивления земному атрибуту"}
 {"id":"buff_info:2233507565151453696","en":"Water Resonance","ru":"Водный отклик"}
-{"id":"buff_info:2233507565151453952","en":"Nature Attribute Resistance decreases.","ru":"Сопротивление природе снижается."}
+{"id":"buff_info:2233507565151453952","en":"Nature Resistance Down","ru":"Сопротивление природе снижается."}
 {"id":"buff_info:2233507569446420992","en":"Water Resonance","ru":"Водный отклик"}
-{"id":"buff_info:2233507569446421248","en":"Lowers Thunder resistance.","ru":"Понижает сопротивление грому."}
+{"id":"buff_info:2233507569446421248","en":"Thunder Resistance Down","ru":"Понижает сопротивление грому."}
 {"id":"buff_info:2233511851528815104","en":"Ice Resonance","ru":"Ледяной отклик"}
 {"id":"buff_info:2233511851528815360","en":"Nature Attribute Resistance Up","ru":"Повышение сопротивления стихии природы"}
 {"id":"buff_info:2233511855823782400","en":"Ice Resonance","ru":"Ледяной отклик"}
 {"id":"buff_info:2233511855823782656","en":"Thunder Resistance Up","ru":"Повышение сопротивления грому"}
 {"id":"buff_info:2233511860118749696","en":"Ice Resonance","ru":"Ледяной отклик"}
-{"id":"buff_info:2233511860118749952","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:2233511860118749952","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
 {"id":"buff_info:2233511864413716992","en":"Ice Resonance","ru":"Ледяной отклик"}
-{"id":"buff_info:2233511864413717248","en":"Lowers Wind Attribute resistance.","ru":"Понижает сопротивление ветряному атрибуту."}
+{"id":"buff_info:2233511864413717248","en":"Wind Attribute Resistance Down","ru":"Понижает сопротивление ветряному атрибуту."}
 {"id":"buff_info:2233516146496111104","en":"Wind Resonance","ru":"Резонанс ветра"}
 {"id":"buff_info:2233516146496111360","en":"Ice Attribute Resistance Up","ru":"Повышение сопротивления ледяному атрибуту"}
 {"id":"buff_info:2233516150791078400","en":"Wind Resonance","ru":"Резонанс ветра"}
 {"id":"buff_info:2233516150791078656","en":"Earth Attribute Resistance Up","ru":"Повышение сопротивления земному атрибуту"}
 {"id":"buff_info:2233516155086045696","en":"Wind Resonance","ru":"Резонанс ветра"}
-{"id":"buff_info:2233516155086045952","en":"Nature Attribute Resistance decreases.","ru":"Сопротивление природе снижается."}
+{"id":"buff_info:2233516155086045952","en":"Nature Resistance Down","ru":"Сопротивление природе снижается."}
 {"id":"buff_info:2233516159381012992","en":"Wind Resonance","ru":"Резонанс ветра"}
-{"id":"buff_info:2233516159381013248","en":"Lowers Thunder resistance.","ru":"Понижает сопротивление грому."}
+{"id":"buff_info:2233516159381013248","en":"Thunder Resistance Down","ru":"Понижает сопротивление грому."}
 {"id":"buff_info:2233520441463407104","en":"Nature Affinity","ru":"Созвучие природы"}
 {"id":"buff_info:2233520441463407360","en":"Water Element Resistance Up","ru":"Повышение сопротивления водному элементу"}
 {"id":"buff_info:2233520445758374400","en":"Nature Affinity","ru":"Созвучие природы"}
 {"id":"buff_info:2233520445758374656","en":"Wind Attribute Resistance Up","ru":"Повышение сопротивления ветряному атрибуту"}
 {"id":"buff_info:2233520450053341696","en":"Nature Affinity","ru":"Созвучие природы"}
-{"id":"buff_info:2233520450053341952","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:2233520450053341952","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
 {"id":"buff_info:2233520454348308992","en":"Nature Affinity","ru":"Созвучие природы"}
-{"id":"buff_info:2233520454348309248","en":"Lowers Ice attribute resistance.","ru":"Понижает сопротивление ледяному атрибуту."}
+{"id":"buff_info:2233520454348309248","en":"Ice Attribute Resistance Down","ru":"Понижает сопротивление ледяному атрибуту."}
 {"id":"buff_info:2233524736430703104","en":"Earth Affinity","ru":"Земное родство"}
 {"id":"buff_info:2233524736430703360","en":"Fire Attribute Resistance Up","ru":"Повышение сопротивления огненному атрибуту"}
 {"id":"buff_info:2233524740725670400","en":"Earth Affinity","ru":"Земное родство"}
 {"id":"buff_info:2233524740725670656","en":"Thunder Resistance Up","ru":"Повышение сопротивления грому"}
 {"id":"buff_info:2233524745020637696","en":"Earth Affinity","ru":"Земное родство"}
-{"id":"buff_info:2233524745020637952","en":"Lowers Water Element resistance.","ru":"Понижает сопротивление водному элементу."}
+{"id":"buff_info:2233524745020637952","en":"Water Element Resistance Down","ru":"Понижает сопротивление водному элементу."}
 {"id":"buff_info:2233524749315604992","en":"Earth Affinity","ru":"Земное родство"}
-{"id":"buff_info:2233524749315605248","en":"Lowers Wind Attribute resistance.","ru":"Понижает сопротивление ветряному атрибуту."}
+{"id":"buff_info:2233524749315605248","en":"Wind Attribute Resistance Down","ru":"Понижает сопротивление ветряному атрибуту."}
 {"id":"buff_info:2233529031397999104","en":"Thunder Affinity","ru":"Громовое родство"}
 {"id":"buff_info:2233529031397999360","en":"Water Element Resistance Up","ru":"Повышение сопротивления водному элементу"}
 {"id":"buff_info:2233529035692966400","en":"Thunder Affinity","ru":"Громовое родство"}
 {"id":"buff_info:2233529035692966656","en":"Wind Attribute Resistance Up","ru":"Повышение сопротивления ветряному атрибуту"}
 {"id":"buff_info:2233529039987933696","en":"Thunder Affinity","ru":"Громовое родство"}
-{"id":"buff_info:2233529039987933952","en":"Lowers Ice attribute resistance.","ru":"Понижает сопротивление ледяному атрибуту."}
+{"id":"buff_info:2233529039987933952","en":"Ice Attribute Resistance Down","ru":"Понижает сопротивление ледяному атрибуту."}
 {"id":"buff_info:2233529044282900992","en":"Thunder Affinity","ru":"Громовое родство"}
-{"id":"buff_info:2233529044282901248","en":"Lowers Earth Attribute resistance.","ru":"Понижает сопротивление земному атрибуту."}
+{"id":"buff_info:2233529044282901248","en":"Earth Attribute Resistance Down","ru":"Понижает сопротивление земному атрибуту."}
 {"id":"buff_info:2233533326365295104","en":"Light Resonance","ru":"Световая восприимчивость"}
 {"id":"buff_info:2233533326365295360","en":"Dark DMG increases.","ru":"Тёмный урон повышается."}
 {"id":"buff_info:2233533330660262400","en":"Light Resonance","ru":"Световая восприимчивость"}
@@ -894,7 +894,7 @@
 {"id":"buff_info:2233537621332591104","en":"Dark Affinity","ru":"Сродство с тьмой"}
 {"id":"buff_info:2233537621332591360","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
 {"id":"buff_info:2233537625627558400","en":"Dark Affinity","ru":"Сродство с тьмой"}
-{"id":"buff_info:2233537625627558656","en":"Lowers Light Element resistance.","ru":"Понижает сопротивление светлому элементу."}
+{"id":"buff_info:2233537625627558656","en":"Light Element Resistance Down","ru":"Понижает сопротивление светлому элементу."}
 {"id":"buff_info:2233541916299887104","en":"Encouragement","ru":"Воодушевление"}
 {"id":"buff_info:2233541916299887360","en":"DMG increases.","ru":"Урон повышается."}
 {"id":"buff_info:2233541924889821696","en":"Encouragement","ru":"Воодушевление"}
@@ -904,7 +904,7 @@
 {"id":"buff_info:2233550506234479104","en":"Rapid Combustion","ru":"Бурное горение"}
 {"id":"buff_info:2233550506234479360","en":"Increases Fire DMG.","ru":"Увеличивает огненный урон."}
 {"id":"buff_info:2233554801201775104","en":"Scorching Heat","ru":"Зной"}
-{"id":"buff_info:2233554801201775360","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:2233554801201775360","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
 {"id":"buff_info:2233563386841399808","en":"Damage Transfer","ru":"Перенос урона"}
 {"id":"buff_info:2233563386841400064","en":"Resistance increases.","ru":"Сопротивление повышается."}
 {"id":"buff_info:2233563391136367104","en":"Damage Transfer","ru":"Перенос урона"}
@@ -946,13 +946,13 @@
 {"id":"buff_info:2233675055991095808","en":"Fortify","ru":"Укрепление"}
 {"id":"buff_info:2233675055991096064","en":"DEF increases.","ru":"Защита повышается."}
 {"id":"buff_info:2233683650220655104","en":"Flash and Thunder","ru":"Гроза и молния"}
-{"id":"buff_info:2233683650220655360","en":"Increases Thunder DMG.","ru":"Повышает громовый урон."}
+{"id":"buff_info:2233683650220655360","en":"Thunder DMG Up","ru":"Повышение громового урона"}
 {"id":"buff_info:2233683654515622400","en":"Flash and Thunder","ru":"Гроза и молния"}
 {"id":"buff_info:2233683654515622656","en":"Crit DMG Up","ru":"Повышение крит. урона"}
 {"id":"buff_info:2233687945187951104","en":"Voltaic Surge","ru":"Вольтовый прилив"}
 {"id":"buff_info:2233687945187951360","en":"Increases CRIT Rate.","ru":"Повышает шанс крита."}
 {"id":"buff_info:2233687949482918400","en":"Voltaic Surge","ru":"Вольтовый прилив"}
-{"id":"buff_info:2233687949482918656","en":"Increases Thunder DMG.","ru":"Повышает громовый урон."}
+{"id":"buff_info:2233687949482918656","en":"Thunder DMG Up","ru":"Повышение громового урона"}
 {"id":"buff_info:2233692235860279808","en":"Healing","ru":"Исцеление"}
 {"id":"buff_info:2233692235860280064","en":"If HP is below 30% when damage is taken, restore HP 1 times.","ru":"Если при получении урона HP ниже 30%, HP восстанавливается 1 раз(а)."}
 {"id":"buff_info:2233709424319398400","en":"Adaptation","ru":"Адаптация"}
@@ -970,7 +970,7 @@
 {"id":"buff_info:2233735194123174400","en":"Water Tide Erosion","ru":"Эрозия водного прилива"}
 {"id":"buff_info:2233735194123174656","en":"Resistance decreases.","ru":"Сопротивление снижается."}
 {"id":"buff_info:2233735198418141696","en":"Water Tide Erosion","ru":"Эрозия водного прилива"}
-{"id":"buff_info:2233735198418141952","en":"Lowers Water Element resistance.","ru":"Понижает сопротивление водному элементу."}
+{"id":"buff_info:2233735198418141952","en":"Water Element Resistance Down","ru":"Понижает сопротивление водному элементу."}
 {"id":"buff_info:2233739489090470400","en":"Structural Destruction","ru":"Разрушение структуры"}
 {"id":"buff_info:2233739489090470656","en":"Movement speed is reduced.","ru":"Скорость передвижения снижается."}
 {"id":"buff_info:2233739493385437696","en":"Structural Destruction","ru":"Разрушение структуры"}
@@ -998,7 +998,7 @@
 {"id":"buff_info:2233782430173495808","en":"Swiftness","ru":"быстрота"}
 {"id":"buff_info:2233782430173496064","en":"Reduces cooldown.","ru":"Сокращает время восстановления."}
 {"id":"buff_info:2233786725140791808","en":"Resonant Field","ru":"Резонансное поле"}
-{"id":"buff_info:2233786725140792064","en":"Increases Thunder DMG.","ru":"Повышает громовый урон."}
+{"id":"buff_info:2233786725140792064","en":"Thunder DMG Up","ru":"Повышение громового урона"}
 {"id":"buff_info:2233791024403055104","en":"Instant Shelter","ru":"Мгновенное убежище"}
 {"id":"buff_info:2233791024403055360","en":"Resistance increases.","ru":"Сопротивление повышается."}
 {"id":"buff_info:2233795319370351104","en":"Excitement","ru":"Возбуждение"}
@@ -1030,7 +1030,7 @@
 {"id":"buff_info:2233859743879791104","en":"Fearless","ru":"Бесстрашие"}
 {"id":"buff_info:2233859743879791360","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:2233859748174758400","en":"Fearless","ru":"Бесстрашие"}
-{"id":"buff_info:2233859748174758656","en":"Attack decreases.","ru":"Атака снижается."}
+{"id":"buff_info:2233859748174758656","en":"Attack Down","ru":"Снижение атаки"}
 {"id":"buff_info:2233864034552119808","en":"Water Protection","ru":"Водная защита"}
 {"id":"buff_info:2233864034552120064","en":"Water Element Resistance increases.","ru":"Сопротивление водному элементу повышается."}
 {"id":"buff_info:2233872628781679104","en":"Ardor","ru":"Пыл"}
@@ -1040,35 +1040,35 @@
 {"id":"buff_info:2233881223011238400","en":"Unrest","ru":"Смятение"}
 {"id":"buff_info:2233881223011238656","en":"Reduces Crit DMG.","ru":"Снижает крит. урон."}
 {"id":"buff_info:2233885517978534400","en":"Fire Activation","ru":"Огненное проявление"}
-{"id":"buff_info:2233885517978534656","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:2233885517978534656","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
 {"id":"buff_info:2233885522273501696","en":"Fire Activation","ru":"Огненное проявление"}
 {"id":"buff_info:2233885522273501952","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:2233889812945830400","en":"Water Flourish","ru":"Водное усиление"}
-{"id":"buff_info:2233889812945830656","en":"Lowers Water Element resistance.","ru":"Понижает сопротивление водному элементу."}
+{"id":"buff_info:2233889812945830656","en":"Water Element Resistance Down","ru":"Понижает сопротивление водному элементу."}
 {"id":"buff_info:2233889817240797696","en":"Water Flourish","ru":"Водное усиление"}
 {"id":"buff_info:2233889817240797952","en":"Increases Max HP.","ru":"Макс. HP повышается."}
 {"id":"buff_info:2233894107913126400","en":"Ice Flourish","ru":"Ледяное усиление"}
-{"id":"buff_info:2233894107913126656","en":"Lowers Ice attribute resistance.","ru":"Понижает сопротивление ледяному атрибуту."}
+{"id":"buff_info:2233894107913126656","en":"Ice Attribute Resistance Down","ru":"Понижает сопротивление ледяному атрибуту."}
 {"id":"buff_info:2233894112208093696","en":"Ice Flourish","ru":"Ледяное усиление"}
 {"id":"buff_info:2233894112208093952","en":"Increases CRIT Rate.","ru":"Повышает шанс крита."}
 {"id":"buff_info:2233898402880422400","en":"Wind Exertion","ru":"Проявление ветра"}
-{"id":"buff_info:2233898402880422656","en":"Lowers Wind Attribute resistance.","ru":"Понижает сопротивление ветряному атрибуту."}
+{"id":"buff_info:2233898402880422656","en":"Wind Attribute Resistance Down","ru":"Понижает сопротивление ветряному атрибуту."}
 {"id":"buff_info:2233898407175389696","en":"Wind Exertion","ru":"Проявление ветра"}
 {"id":"buff_info:2233898407175389952","en":"Crit DMG Up","ru":"Повышение крит. урона"}
 {"id":"buff_info:2233902697847718400","en":"Nature Proficiency","ru":"Мастерство природы"}
-{"id":"buff_info:2233902697847718656","en":"Nature Attribute Resistance decreases.","ru":"Сопротивление природе снижается."}
+{"id":"buff_info:2233902697847718656","en":"Nature Resistance Down","ru":"Сопротивление природе снижается."}
 {"id":"buff_info:2233902702142685696","en":"Nature Proficiency","ru":"Мастерство природы"}
 {"id":"buff_info:2233902702142685952","en":"DMG increases.","ru":"Урон повышается."}
 {"id":"buff_info:2233906992815014400","en":"Earth Attunement","ru":"Земное усиление"}
-{"id":"buff_info:2233906992815014656","en":"Lowers Earth Attribute resistance.","ru":"Понижает сопротивление земному атрибуту."}
+{"id":"buff_info:2233906992815014656","en":"Earth Attribute Resistance Down","ru":"Понижает сопротивление земному атрибуту."}
 {"id":"buff_info:2233906997109981696","en":"Earth Attunement","ru":"Земное усиление"}
 {"id":"buff_info:2233906997109981952","en":"Crit DMG Up","ru":"Повышение крит. урона"}
 {"id":"buff_info:2233911287782310400","en":"Thunder Unleashed","ru":"Раскрытие грома"}
-{"id":"buff_info:2233911287782310656","en":"Lowers Thunder resistance.","ru":"Понижает сопротивление грому."}
+{"id":"buff_info:2233911287782310656","en":"Thunder Resistance Down","ru":"Понижает сопротивление грому."}
 {"id":"buff_info:2233911292077277696","en":"Thunder Unleashed","ru":"Раскрытие грома"}
 {"id":"buff_info:2233911292077277952","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:2233915582749606400","en":"Light Manifestation","ru":"Проявление света"}
-{"id":"buff_info:2233915582749606656","en":"Lowers Light Element resistance.","ru":"Понижает сопротивление светлому элементу."}
+{"id":"buff_info:2233915582749606656","en":"Light Element Resistance Down","ru":"Понижает сопротивление светлому элементу."}
 {"id":"buff_info:2233915587044573696","en":"Light Manifestation","ru":"Проявление света"}
 {"id":"buff_info:2233915587044573952","en":"Increases Max HP.","ru":"Макс. HP повышается."}
 {"id":"buff_info:2233919877716902400","en":"Dark Might","ru":"Мощь тьмы"}
@@ -1110,13 +1110,13 @@
 {"id":"buff_info:2233958528127599104","en":"Dark Resistance","ru":"Сопротивление тьме"}
 {"id":"buff_info:2233958528127599360","en":"Raises Dark element resistance.","ru":"Повышает сопротивление тёмному элементу."}
 {"id":"buff_info:2233958532422566400","en":"Dark Resistance","ru":"Сопротивление тьме"}
-{"id":"buff_info:2233958532422566656","en":"Attack decreases.","ru":"Атака снижается."}
+{"id":"buff_info:2233958532422566656","en":"Attack Down","ru":"Снижение атаки"}
 {"id":"buff_info:2233984297931375104","en":"Vigor","ru":"Бодрость"}
 {"id":"buff_info:2233984297931375360","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:2233988588603703808","en":"Recuperation","ru":"Выздоровление"}
 {"id":"buff_info:2233988588603704064","en":"After leaving the field, restores HP when HP is below 30%.","ru":"После ухода с поля восстанавливает HP, если HP ниже 30%."}
 {"id":"buff_info:2234117441917551104","en":"Sacred Retribution","ru":"Священная кара"}
-{"id":"buff_info:2234117441917551360","en":"Lowers Light Element resistance.","ru":"Понижает сопротивление светлому элементу."}
+{"id":"buff_info:2234117441917551360","en":"Light Element Resistance Down","ru":"Понижает сопротивление светлому элементу."}
 {"id":"buff_info:2234117441917552128","en":"Sacred Retribution","ru":"Священная кара"}
 {"id":"buff_info:2234130335409373696","en":"Bond","ru":"Узы"}
 {"id":"buff_info:2234130335409373952","en":"Increases Fire DMG.","ru":"Увеличивает огненный урон."}
@@ -1262,12 +1262,12 @@
 {"id":"buff_info:2319467023434240","en":"Attack Down Lv. 3","ru":"Понижение атаки + (большое)"}
 {"id":"buff_info:2319467023434496","en":"Attack Down Lv. 3","ru":"Понижение атаки + (большое)"}
 {"id":"buff_info:2319467023435264","en":"Attack Down Lv. 3","ru":"Понижение атаки + (большое)"}
-{"id":"buff_info:2319471318401536","en":"Attack decreases.","ru":"Атака снижается."}
-{"id":"buff_info:2319471318401792","en":"Attack decreases.","ru":"Атака снижается."}
-{"id":"buff_info:2319471318402560","en":"Attack decreases.","ru":"Атака снижается."}
-{"id":"buff_info:2319475613368832","en":"Attack decreases.","ru":"Атака снижается."}
-{"id":"buff_info:2319475613369088","en":"Attack decreases.","ru":"Атака снижается."}
-{"id":"buff_info:2319475613369856","en":"Attack decreases.","ru":"Атака снижается."}
+{"id":"buff_info:2319471318401536","en":"Attack Down","ru":"Снижение атаки"}
+{"id":"buff_info:2319471318401792","en":"Attack Down","ru":"Снижение атаки"}
+{"id":"buff_info:2319471318402560","en":"Attack Down","ru":"Снижение атаки"}
+{"id":"buff_info:2319475613368832","en":"Attack Down","ru":"Снижение атаки"}
+{"id":"buff_info:2319475613369088","en":"Attack Down","ru":"Снижение атаки"}
+{"id":"buff_info:2319475613369856","en":"Attack Down","ru":"Снижение атаки"}
 {"id":"buff_info:2319479908336128","en":"Physical Defense Down Lv. 1","ru":"Понижение физической защиты + (малое)"}
 {"id":"buff_info:2319479908336384","en":"Physical Defense Down Lv. 1","ru":"Понижение физической защиты + (малое)"}
 {"id":"buff_info:2319479908337152","en":"Physical Defense Down Lv. 1","ru":"Понижение физической защиты + (малое)"}
@@ -1280,60 +1280,60 @@
 {"id":"buff_info:2319492793238016","en":"Magic Defense Down Lv. 3","ru":"Понижение магической защиты + (большое)"}
 {"id":"buff_info:2319492793238272","en":"Magic Defense Down Lv. 3","ru":"Понижение магической защиты + (большое)"}
 {"id":"buff_info:2319492793239040","en":"Magic Defense Down Lv. 3","ru":"Понижение магической защиты + (большое)"}
-{"id":"buff_info:2319497088205312","en":"Fire Damage Taken Up Lv. 1","ru":"Повышение получаемого огненного урона + (малое)"}
-{"id":"buff_info:2319497088205568","en":"Fire Damage Taken Up Lv. 1","ru":"Повышение получаемого огненного урона + (малое)"}
-{"id":"buff_info:2319497088206336","en":"Fire Damage Taken Up Lv. 1","ru":"Повышение получаемого огненного урона + (малое)"}
-{"id":"buff_info:2319501383172608","en":"Fire Damage Taken Up Lv. 3","ru":"Повышение получаемого огненного урона + (большое)"}
-{"id":"buff_info:2319501383172864","en":"Fire Damage Taken Up Lv. 3","ru":"Повышение получаемого огненного урона + (большое)"}
-{"id":"buff_info:2319501383173632","en":"Fire Damage Taken Up Lv. 3","ru":"Повышение получаемого огненного урона + (большое)"}
-{"id":"buff_info:2319505678139904","en":"Water Damage Taken Up Lv. 1","ru":"Повышение получаемого водного урона + (малое)"}
-{"id":"buff_info:2319505678140160","en":"Water Damage Taken Up Lv. 1","ru":"Повышение получаемого водного урона + (малое)"}
-{"id":"buff_info:2319505678140928","en":"Water Damage Taken Up Lv. 1","ru":"Повышение получаемого водного урона + (малое)"}
-{"id":"buff_info:2319509973107200","en":"Water Damage Taken Up Lv. 3","ru":"Повышение получаемого водного урона + (большое)"}
-{"id":"buff_info:2319509973107456","en":"Water Damage Taken Up Lv. 3","ru":"Повышение получаемого водного урона + (большое)"}
-{"id":"buff_info:2319509973108224","en":"Water Damage Taken Up Lv. 3","ru":"Повышение получаемого водного урона + (большое)"}
-{"id":"buff_info:2319514268074496","en":"Ice Damage Taken Up Lv. 1","ru":"Повышение получаемого ледяного урона + (малое)"}
-{"id":"buff_info:2319514268074752","en":"Ice Damage Taken Up Lv. 1","ru":"Повышение получаемого ледяного урона + (малое)"}
-{"id":"buff_info:2319514268075520","en":"Ice Damage Taken Up Lv. 1","ru":"Повышение получаемого ледяного урона + (малое)"}
-{"id":"buff_info:2319518563041792","en":"Ice Damage Taken Up Lv. 3","ru":"Повышение получаемого ледяного урона + (большое)"}
-{"id":"buff_info:2319518563042048","en":"Ice Damage Taken Up Lv. 3","ru":"Повышение получаемого ледяного урона + (большое)"}
-{"id":"buff_info:2319518563042816","en":"Ice Damage Taken Up Lv. 3","ru":"Повышение получаемого ледяного урона + (большое)"}
-{"id":"buff_info:2319522858009088","en":"Wind Damage Taken Up Lv. 1","ru":"Повышение получаемого ветряного урона + (малое)"}
-{"id":"buff_info:2319522858009344","en":"Wind Damage Taken Up Lv. 1","ru":"Повышение получаемого ветряного урона + (малое)"}
-{"id":"buff_info:2319522858010112","en":"Wind Damage Taken Up Lv. 1","ru":"Повышение получаемого ветряного урона + (малое)"}
-{"id":"buff_info:2319527152976384","en":"Wind Damage Taken Up Lv. 3","ru":"Повышение получаемого ветряного урона + (большое)"}
-{"id":"buff_info:2319527152976640","en":"Wind Damage Taken Up Lv. 3","ru":"Повышение получаемого ветряного урона + (большое)"}
-{"id":"buff_info:2319527152977408","en":"Wind Damage Taken Up Lv. 3","ru":"Повышение получаемого ветряного урона + (большое)"}
-{"id":"buff_info:2319531447943680","en":"Nature Damage Taken Up Lv. 1","ru":"Повышение получаемого урона природы + (малое)"}
-{"id":"buff_info:2319531447943936","en":"Nature Damage Taken Up Lv. 1","ru":"Повышение получаемого урона природы + (малое)"}
-{"id":"buff_info:2319531447944704","en":"Nature Damage Taken Up Lv. 1","ru":"Повышение получаемого урона природы + (малое)"}
-{"id":"buff_info:2319535742910976","en":"Nature Damage Taken Up Lv. 3","ru":"Повышение получаемого урона природы + (большое)"}
-{"id":"buff_info:2319535742911232","en":"Nature Damage Taken Up Lv. 3","ru":"Повышение получаемого урона природы + (большое)"}
-{"id":"buff_info:2319535742912000","en":"Nature Damage Taken Up Lv. 3","ru":"Повышение получаемого урона природы + (большое)"}
-{"id":"buff_info:2319540037878272","en":"Earth Damage Taken Up Lv. 1","ru":"Повышение получаемого земляного урона + (малое)"}
-{"id":"buff_info:2319540037878528","en":"Earth Damage Taken Up Lv. 1","ru":"Повышение получаемого земляного урона + (малое)"}
-{"id":"buff_info:2319540037879296","en":"Earth Damage Taken Up Lv. 1","ru":"Повышение получаемого земляного урона + (малое)"}
-{"id":"buff_info:2319544332845568","en":"Earth Damage Taken Up Lv. 3","ru":"Повышение получаемого земляного урона + (большое)"}
-{"id":"buff_info:2319544332845824","en":"Earth Damage Taken Up Lv. 3","ru":"Повышение получаемого земляного урона + (большое)"}
-{"id":"buff_info:2319544332846592","en":"Earth Damage Taken Up Lv. 3","ru":"Повышение получаемого земляного урона + (большое)"}
-{"id":"buff_info:2319548627812864","en":"Thunder Damage Taken Up Lv. 1","ru":"Повышение получаемого громового урона + (малое)"}
-{"id":"buff_info:2319548627813120","en":"Thunder Damage Taken Up Lv. 1","ru":"Повышение получаемого громового урона + (малое)"}
-{"id":"buff_info:2319548627813888","en":"Thunder Damage Taken Up Lv. 1","ru":"Повышение получаемого громового урона + (малое)"}
-{"id":"buff_info:2319552922780160","en":"Thunder Damage Taken Up Lv. 3","ru":"Повышение получаемого громового урона + (большое)"}
-{"id":"buff_info:2319552922780416","en":"Thunder Damage Taken Up Lv. 3","ru":"Повышение получаемого громового урона + (большое)"}
-{"id":"buff_info:2319552922781184","en":"Thunder Damage Taken Up Lv. 3","ru":"Повышение получаемого громового урона + (большое)"}
-{"id":"buff_info:2319557217747456","en":"Light Damage Taken Up Lv. 1","ru":"Повышение получаемого светлого урона + (малое)"}
-{"id":"buff_info:2319557217747712","en":"Light Damage Taken Up Lv. 1","ru":"Повышение получаемого светлого урона + (малое)"}
-{"id":"buff_info:2319557217748480","en":"Light Damage Taken Up Lv. 1","ru":"Повышение получаемого светлого урона + (малое)"}
-{"id":"buff_info:2319561512714752","en":"Light Damage Taken Up Lv. 3","ru":"Повышение получаемого светлого урона + (большое)"}
-{"id":"buff_info:2319561512715008","en":"Light Damage Taken Up Lv. 3","ru":"Повышение получаемого светлого урона + (большое)"}
-{"id":"buff_info:2319561512715776","en":"Light Damage Taken Up Lv. 3","ru":"Повышение получаемого светлого урона + (большое)"}
-{"id":"buff_info:2319565807682048","en":"Dark Damage Taken Up Lv. 1","ru":"Повышение получаемого тёмного урона + (малое)"}
-{"id":"buff_info:2319565807682304","en":"Dark Damage Taken Up Lv. 1","ru":"Повышение получаемого тёмного урона + (малое)"}
-{"id":"buff_info:2319565807683072","en":"Dark Damage Taken Up Lv. 1","ru":"Повышение получаемого тёмного урона + (малое)"}
-{"id":"buff_info:2319570102649344","en":"Dark Damage Taken Up Lv. 3","ru":"Повышение получаемого тёмного урона + (большое)"}
-{"id":"buff_info:2319570102649600","en":"Dark Damage Taken Up Lv. 3","ru":"Повышение получаемого тёмного урона + (большое)"}
-{"id":"buff_info:2319570102650368","en":"Dark Damage Taken Up Lv. 3","ru":"Повышение получаемого тёмного урона + (большое)"}
+{"id":"buff_info:2319497088205312","en":"Fire Damage Taken + (Minor)","ru":"Получаемый огненный урон + (малый)"}
+{"id":"buff_info:2319497088205568","en":"Fire Damage Taken + (Minor)","ru":"Получаемый огненный урон + (малый)"}
+{"id":"buff_info:2319497088206336","en":"Fire Damage Taken + (Minor)","ru":"Получаемый огненный урон + (малый)"}
+{"id":"buff_info:2319501383172608","en":"Fire Damage Taken + (Major)","ru":"Получаемый огненный урон + (большой)"}
+{"id":"buff_info:2319501383172864","en":"Fire Damage Taken + (Major)","ru":"Получаемый огненный урон + (большой)"}
+{"id":"buff_info:2319501383173632","en":"Fire Damage Taken + (Major)","ru":"Получаемый огненный урон + (большой)"}
+{"id":"buff_info:2319505678139904","en":"Water Damage Taken + (Minor)","ru":"Получаемый водный урон + (малый)"}
+{"id":"buff_info:2319505678140160","en":"Water Damage Taken + (Minor)","ru":"Получаемый водный урон + (малый)"}
+{"id":"buff_info:2319505678140928","en":"Water Damage Taken + (Minor)","ru":"Получаемый водный урон + (малый)"}
+{"id":"buff_info:2319509973107200","en":"Water Damage Taken + (Major)","ru":"Получаемый водный урон + (большой)"}
+{"id":"buff_info:2319509973107456","en":"Water Damage Taken + (Major)","ru":"Получаемый водный урон + (большой)"}
+{"id":"buff_info:2319509973108224","en":"Water Damage Taken + (Major)","ru":"Получаемый водный урон + (большой)"}
+{"id":"buff_info:2319514268074496","en":"Ice Damage Taken + (Minor)","ru":"Получаемый ледяной урон + (малый)"}
+{"id":"buff_info:2319514268074752","en":"Ice Damage Taken + (Minor)","ru":"Получаемый ледяной урон + (малый)"}
+{"id":"buff_info:2319514268075520","en":"Ice Damage Taken + (Minor)","ru":"Получаемый ледяной урон + (малый)"}
+{"id":"buff_info:2319518563041792","en":"Ice Damage Taken + (Major)","ru":"Получаемый ледяной урон + (большой)"}
+{"id":"buff_info:2319518563042048","en":"Ice Damage Taken + (Major)","ru":"Получаемый ледяной урон + (большой)"}
+{"id":"buff_info:2319518563042816","en":"Ice Damage Taken + (Major)","ru":"Получаемый ледяной урон + (большой)"}
+{"id":"buff_info:2319522858009088","en":"Wind DMG Taken Up (Small)","ru":"Повышение получаемого ветряного урона (малое)"}
+{"id":"buff_info:2319522858009344","en":"Wind DMG Taken Up (Small)","ru":"Повышение получаемого ветряного урона (малое)"}
+{"id":"buff_info:2319522858010112","en":"Wind DMG Taken Up (Small)","ru":"Повышение получаемого ветряного урона (малое)"}
+{"id":"buff_info:2319527152976384","en":"Wind DMG Taken Up (Large)","ru":"Повышение получаемого ветряного урона (большое)"}
+{"id":"buff_info:2319527152976640","en":"Wind DMG Taken Up (Large)","ru":"Повышение получаемого ветряного урона (большое)"}
+{"id":"buff_info:2319527152977408","en":"Wind DMG Taken Up (Large)","ru":"Повышение получаемого ветряного урона (большое)"}
+{"id":"buff_info:2319531447943680","en":"Nature DMG Taken Up (Small)","ru":"Повышение получаемого урона природы (малое)"}
+{"id":"buff_info:2319531447943936","en":"Nature DMG Taken Up (Small)","ru":"Повышение получаемого урона природы (малое)"}
+{"id":"buff_info:2319531447944704","en":"Nature DMG Taken Up (Small)","ru":"Повышение получаемого урона природы (малое)"}
+{"id":"buff_info:2319535742910976","en":"Nature DMG Taken Up (Large)","ru":"Повышение получаемого урона природы (большое)"}
+{"id":"buff_info:2319535742911232","en":"Nature DMG Taken Up (Large)","ru":"Повышение получаемого урона природы (большое)"}
+{"id":"buff_info:2319535742912000","en":"Nature DMG Taken Up (Large)","ru":"Повышение получаемого урона природы (большое)"}
+{"id":"buff_info:2319540037878272","en":"Earth DMG Taken Up (Small)","ru":"Повышение получаемого земляного урона (малое)"}
+{"id":"buff_info:2319540037878528","en":"Earth DMG Taken Up (Small)","ru":"Повышение получаемого земляного урона (малое)"}
+{"id":"buff_info:2319540037879296","en":"Earth DMG Taken Up (Small)","ru":"Повышение получаемого земляного урона (малое)"}
+{"id":"buff_info:2319544332845568","en":"Earth DMG Taken Up (Large)","ru":"Повышение получаемого земляного урона (большое)"}
+{"id":"buff_info:2319544332845824","en":"Earth DMG Taken Up (Large)","ru":"Повышение получаемого земляного урона (большое)"}
+{"id":"buff_info:2319544332846592","en":"Earth DMG Taken Up (Large)","ru":"Повышение получаемого земляного урона (большое)"}
+{"id":"buff_info:2319548627812864","en":"Thunder DMG Taken Up (Small)","ru":"Повышение получаемого громового урона (малое)"}
+{"id":"buff_info:2319548627813120","en":"Thunder DMG Taken Up (Small)","ru":"Повышение получаемого громового урона (малое)"}
+{"id":"buff_info:2319548627813888","en":"Thunder DMG Taken Up (Small)","ru":"Повышение получаемого громового урона (малое)"}
+{"id":"buff_info:2319552922780160","en":"Thunder DMG Taken Up (Large)","ru":"Повышение получаемого громового урона (большое)"}
+{"id":"buff_info:2319552922780416","en":"Thunder DMG Taken Up (Large)","ru":"Повышение получаемого громового урона (большое)"}
+{"id":"buff_info:2319552922781184","en":"Thunder DMG Taken Up (Large)","ru":"Повышение получаемого громового урона (большое)"}
+{"id":"buff_info:2319557217747456","en":"Light DMG Taken Up (Small)","ru":"Повышение получаемого светлого урона (малое)"}
+{"id":"buff_info:2319557217747712","en":"Light DMG Taken Up (Small)","ru":"Повышение получаемого светлого урона (малое)"}
+{"id":"buff_info:2319557217748480","en":"Light DMG Taken Up (Small)","ru":"Повышение получаемого светлого урона (малое)"}
+{"id":"buff_info:2319561512714752","en":"Light DMG Taken Up (Large)","ru":"Повышение получаемого светлого урона (большое)"}
+{"id":"buff_info:2319561512715008","en":"Light DMG Taken Up (Large)","ru":"Повышение получаемого светлого урона (большое)"}
+{"id":"buff_info:2319561512715776","en":"Light DMG Taken Up (Large)","ru":"Повышение получаемого светлого урона (большое)"}
+{"id":"buff_info:2319565807682048","en":"Dark DMG Taken Up (Small)","ru":"Повышение получаемого тёмного урона (малое)"}
+{"id":"buff_info:2319565807682304","en":"Dark DMG Taken Up (Small)","ru":"Повышение получаемого тёмного урона (малое)"}
+{"id":"buff_info:2319565807683072","en":"Dark DMG Taken Up (Small)","ru":"Повышение получаемого тёмного урона (малое)"}
+{"id":"buff_info:2319570102649344","en":"Dark DMG Taken Up (Large)","ru":"Повышение получаемого тёмного урона (большое)"}
+{"id":"buff_info:2319570102649600","en":"Dark DMG Taken Up (Large)","ru":"Повышение получаемого тёмного урона (большое)"}
+{"id":"buff_info:2319570102650368","en":"Dark DMG Taken Up (Large)","ru":"Повышение получаемого тёмного урона (большое)"}
 {"id":"buff_info:2319574397616640","en":"Damage Taken Up Lv. 1","ru":"Повышение получаемого урона + (малое)"}
 {"id":"buff_info:2319574397616896","en":"Damage Taken Up Lv. 1","ru":"Повышение получаемого урона + (малое)"}
 {"id":"buff_info:2319574397617664","en":"Damage Taken Increase Lv. 1","ru":"Увеличение получаемого урона + (малое)"}
@@ -1423,7 +1423,7 @@
 {"id":"buff_info:236267868939878912","en":"Water Splash","ru":"Водный всплеск"}
 {"id":"buff_info:236267868939879168","en":"Each time you use a skill, fire 2 extra water orbs in a coordinated attack, dealing <color=#02a0e9> Water Element DMG </color>.","ru":"Каждый раз при использовании навыка выпускает 2 дополнительных водяных сфер в совместной атаке, нанося <color=#02a0e9> Водный элемент урона </color>."}
 {"id":"buff_info:236268298436608512","en":"Raging Waves","ru":"Бушующие волны"}
-{"id":"buff_info:236268298436608768","en":"Each time you use a skill, continuously summon water pillars around yourself, dealing <color=#02a0e9> Water Element DMG </color> to enemies (duration: 5 sec).","ru":"Каждый раз при использовании навыка непрерывно призывает вокруг себя водяные столбы, нанося <color=#02a0e9> Водный элемент урона </color> целям (длительность: 5 сек)."}
+{"id":"buff_info:236268298436608768","en":"While attacking, continuously summon water pillars around yourself, dealing <color=#02a0e9> Water Element DMG </color> to enemies (duration: 5 sec).","ru":"При атаке непрерывно призывает вокруг себя водяные столбы, нанося <color=#02a0e9> Водный элемент урона </color> целям (длительность: 5 сек)."}
 {"id":"buff_info:236268727933338112","en":"Water Shield","ru":"Водяной щит"}
 {"id":"buff_info:236268727933338368","en":"Grants self a Shield equal to 10% of Max HP.","ru":"Даёт себе щит в размере 10% от макс. HP."}
 {"id":"buff_info:236309530122650112","en":"Ice Thorn: Launch","ru":"Ледяной шип: запуск"}
@@ -1467,7 +1467,7 @@
 {"id":"buff_info:236439667631718912","en":"Stone Spike Splash","ru":"Всплеск каменных шипов"}
 {"id":"buff_info:236439667631719168","en":"Each time you use a skill, thrust stone spikes from the ground to attack enemies, dealing <color=#d58a6c> Earth Attribute DMG </color>.","ru":"Каждый раз при использовании навыка вырывает из земли каменные шипы, атакуя цели и нанося <color=#d58a6c> Земной атрибут урона </color>."}
 {"id":"buff_info:236481328814490112","en":"Triple Thunder Orb","ru":"Тройная громовая сфера"}
-{"id":"buff_info:236481328814490368","en":"Every 15 sec, release 3 Thunder Orbs and set them spinning around yourself. The orbs disappear after hitting an enemy and deal <color=#6f75d4> Thunder DMG </color>.","ru":"Каждые 15 сек выпускает 3 громовых сфер и раскручивает их вокруг себя. Сферы исчезают после попадания в цель и наносят <color=#6f75d4> Громовый урон </color>."}
+{"id":"buff_info:236481328814490368","en":"Every 15 sec, release 3 Thunder Orbs and set them spinning around yourself. The orbs disappear after hitting an enemy and deal <color=#6f75d4> Thunder DMG </color>.","ru":"Каждые 15 сек выпускает 3 громовых сферы и раскручивает их вокруг себя. Сферы исчезают после попадания в цель и наносят <color=#6f75d4> Громовый урон </color>."}
 {"id":"buff_info:236481758311219712","en":"Chain Lightning Strike","ru":"Цепной громовой удар"}
 {"id":"buff_info:236481758311219968","en":"When you deal damage, Chain Lightning erupts between the enemy hit and yourself. It leaps to nearby enemies, dealing <color=#6f75d4> Thunder DMG </color>, and leaps 1 additional times for every 1 enemies present. Up to 5 times maximum.","ru":"При нанесении урона между поражённой целью и вами возникает «Цепная молния». Она перескакивает на ближайшие цели, нанося <color=#6f75d4> Громовый урон </color>, и совершает ещё 1 перескоков за каждые 1 целей. Максимум 5 раз."}
 {"id":"buff_info:236482196397883904","en":"Frost Domain","ru":"Морозная область"}
@@ -1548,39 +1548,39 @@
 {"id":"buff_info:236614051893871360","en":"Raises Dark element resistance","ru":"Повышает сопротивление тёмному элементу"}
 {"id":"buff_info:236614477095633408","en":"Fire's Wrath","ru":"Гнев огня"}
 {"id":"buff_info:236614477095633664","en":"Increases Fire Attribute DMG taken by 25%.","ru":"Увеличивает получаемый огненный урон на 25%."}
-{"id":"buff_info:236614481390600704","en":"Lowers Fire Attribute resistance.","ru":"Понижает сопротивление огненному атрибуту."}
-{"id":"buff_info:236614481390600960","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:236614481390600704","en":"Fire Attribute Resistance Down","ru":"Понижает сопротивление огненному атрибуту."}
+{"id":"buff_info:236614481390600960","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
 {"id":"buff_info:236614906592363008","en":"Water's Wrath","ru":"Гнев воды"}
 {"id":"buff_info:236614906592363264","en":"Increases Water Element DMG taken by 25%.","ru":"Увеличивает получаемый водный урон на 25%."}
-{"id":"buff_info:236614910887330304","en":"Lowers Water Element resistance.","ru":"Понижает сопротивление водному элементу."}
-{"id":"buff_info:236614910887330560","en":"Lowers Water Element resistance.","ru":"Понижает сопротивление водному элементу."}
+{"id":"buff_info:236614910887330304","en":"Water Element Resistance Down","ru":"Понижает сопротивление водному элементу."}
+{"id":"buff_info:236614910887330560","en":"Water Element Resistance Down","ru":"Понижает сопротивление водному элементу."}
 {"id":"buff_info:236615336089092608","en":"Ice's Wrath","ru":"Гнев льда"}
 {"id":"buff_info:236615336089092864","en":"Increases Ice attribute DMG taken by 25%.","ru":"Увеличивает получаемый ледяной урон на 25%."}
-{"id":"buff_info:236615340384059904","en":"Lowers Ice attribute resistance.","ru":"Понижает сопротивление ледяному атрибуту."}
-{"id":"buff_info:236615340384060160","en":"Lowers Ice attribute resistance.","ru":"Понижает сопротивление ледяному атрибуту."}
+{"id":"buff_info:236615340384059904","en":"Ice Attribute Resistance Down","ru":"Понижает сопротивление ледяному атрибуту."}
+{"id":"buff_info:236615340384060160","en":"Ice Attribute Resistance Down","ru":"Понижает сопротивление ледяному атрибуту."}
 {"id":"buff_info:236615765585822208","en":"Nature's Wrath","ru":"Гнев природы"}
 {"id":"buff_info:236615765585822464","en":"Increases Nature Attribute DMG taken by 25%.","ru":"Увеличивает получаемый урон природы на 25%."}
-{"id":"buff_info:236615769880789504","en":"Lowers Nature Attribute resistance.","ru":"Понижает сопротивление природе."}
-{"id":"buff_info:236615769880789760","en":"Nature Attribute Resistance decreases.","ru":"Сопротивление природе снижается."}
+{"id":"buff_info:236615769880789504","en":"Nature Resistance Down","ru":"Понижает сопротивление природе."}
+{"id":"buff_info:236615769880789760","en":"Nature Resistance Down","ru":"Сопротивление природе снижается."}
 {"id":"buff_info:236616195082551808","en":"Earth's Wrath","ru":"Гнев земли"}
 {"id":"buff_info:236616195082552064","en":"Increases Earth Attribute DMG taken by 25%.","ru":"Увеличивает получаемый земной урон на 25%."}
-{"id":"buff_info:236616199377519104","en":"Lowers Earth Attribute resistance.","ru":"Понижает сопротивление земному атрибуту."}
-{"id":"buff_info:236616199377519360","en":"Lowers Earth Attribute resistance.","ru":"Понижает сопротивление земному атрибуту."}
+{"id":"buff_info:236616199377519104","en":"Earth Attribute Resistance Down","ru":"Понижает сопротивление земному атрибуту."}
+{"id":"buff_info:236616199377519360","en":"Earth Attribute Resistance Down","ru":"Понижает сопротивление земному атрибуту."}
 {"id":"buff_info:236616624579281408","en":"Wind's Wrath","ru":"Гнев ветра"}
 {"id":"buff_info:236616624579281664","en":"Increases Wind Attribute DMG taken by 25%.","ru":"Увеличивает получаемый ветряной урон на 25%."}
-{"id":"buff_info:236616628874248704","en":"Lowers Wind Attribute resistance.","ru":"Понижает сопротивление ветряному атрибуту."}
-{"id":"buff_info:236616628874248960","en":"Lowers Wind Attribute resistance.","ru":"Понижает сопротивление ветряному атрибуту."}
+{"id":"buff_info:236616628874248704","en":"Wind Attribute Resistance Down","ru":"Понижает сопротивление ветряному атрибуту."}
+{"id":"buff_info:236616628874248960","en":"Wind Attribute Resistance Down","ru":"Понижает сопротивление ветряному атрибуту."}
 {"id":"buff_info:236617054076011008","en":"Thunder's Wrath","ru":"Гнев грома"}
 {"id":"buff_info:236617054076011264","en":"Increases Thunder DMG taken by 25%.","ru":"Увеличивает получаемый громовый урон на 25%."}
-{"id":"buff_info:236617058370978304","en":"Lowers Thunder resistance.","ru":"Понижает сопротивление грому."}
-{"id":"buff_info:236617058370978560","en":"Lowers Thunder resistance.","ru":"Понижает сопротивление грому."}
+{"id":"buff_info:236617058370978304","en":"Thunder Resistance Down","ru":"Понижает сопротивление грому."}
+{"id":"buff_info:236617058370978560","en":"Thunder Resistance Down","ru":"Понижает сопротивление грому."}
 {"id":"buff_info:236617483572740608","en":"Light's Wrath","ru":"Гнев света"}
 {"id":"buff_info:236617483572740864","en":"Increases Light Element DMG taken by 25%.","ru":"Увеличивает получаемый урон светлым элементом на 25%."}
-{"id":"buff_info:236617487867707904","en":"Lowers Light Element resistance.","ru":"Понижает сопротивление светлому элементу."}
-{"id":"buff_info:236617487867708160","en":"Lowers Light Element resistance.","ru":"Понижает сопротивление светлому элементу."}
+{"id":"buff_info:236617487867707904","en":"Light Element Resistance Down","ru":"Понижает сопротивление светлому элементу."}
+{"id":"buff_info:236617487867708160","en":"Light Element Resistance Down","ru":"Понижает сопротивление светлому элементу."}
 {"id":"buff_info:236617913069470208","en":"Dark's Wrath","ru":"Гнев тьмы"}
 {"id":"buff_info:236617913069470464","en":"Increases Dark element DMG taken by 25%.","ru":"Увеличивает получаемый тёмный урон на 25%."}
-{"id":"buff_info:236617917364437504","en":"Lowers Dark element resistance.","ru":"Понижает сопротивление тёмному элементу."}
+{"id":"buff_info:236617917364437504","en":"Dark Element Resistance Down","ru":"Понижает сопротивление тёмному элементу."}
 {"id":"buff_info:236617917364437760","en":"Decreases Dark Resistance.","ru":"Снижает сопротивление тьме."}
 {"id":"buff_info:236618784947831296","en":"Avenger","ru":"Мститель"}
 {"id":"buff_info:236618784947831552","en":"Raises DEF by 7%.","ru":"Повышает защиту на 7%."}
@@ -1874,13 +1874,13 @@
 {"id":"buff_info:2581283977780265472","en":"DEF Boost from Cooking 20","ru":"Повышение защиты от готовки 20"}
 {"id":"buff_info:2581283977780265728","en":"Increases the whole team's DEF by 77 (Duration: 5 min).","ru":"Увеличивает защиту всего отряда на 77 (длительность: 5 мин.)."}
 {"id":"buff_info:2581284407276995072","en":"DEF Boost from Food 21","ru":"Повышение защиты от еды 21"}
-{"id":"buff_info:2581284407276995328","en":"Increases the DEF of the entire team by 84 (duration: 5 min).","ru":"Повышает защиту всей команды на 84 (длительность: 5 мин)."}
+{"id":"buff_info:2581284407276995328","en":"Increases the whole team's DEF by 84 (Duration: 5 min).","ru":"Увеличивает защиту всего отряда на 84 (длительность: 5 мин.)."}
 {"id":"buff_info:2581284836773724672","en":"DEF Boost from Food 22","ru":"Повышение защиты от еды 22"}
-{"id":"buff_info:2581284836773724928","en":"Increases the DEF of the entire team by 72 (duration: 5 min).","ru":"Повышает защиту всей команды на 72 (длительность: 5 мин)."}
+{"id":"buff_info:2581284836773724928","en":"Increases the whole team's DEF by 72 (Duration: 5 min).","ru":"Увеличивает защиту всего отряда на 72 (длительность: 5 мин.)."}
 {"id":"buff_info:2581285266270454272","en":"DEF Boost from Food 23","ru":"Повышение защиты от еды 23"}
 {"id":"buff_info:2581285266270454528","en":"Increases the whole team's DEF by 76 (Duration: 5 min).","ru":"Увеличивает защиту всего отряда на 76 (длительность: 5 мин.)."}
 {"id":"buff_info:2581285695767183872","en":"DEF Boost from Food 24","ru":"Повышение защиты от еды 24"}
-{"id":"buff_info:2581285695767184128","en":"Increases the DEF of the entire team by 80 (duration: 5 min).","ru":"Повышает защиту всей команды на 80 (длительность: 5 мин)."}
+{"id":"buff_info:2581285695767184128","en":"Increases the whole team's DEF by 80 (Duration: 5 min).","ru":"Увеличивает защиту всего отряда на 80 (длительность: 5 мин.)."}
 {"id":"buff_info:2581286125263913472","en":"Food Effect: DEF +25","ru":"Эффект еды: защита +25"}
 {"id":"buff_info:2581286125263913728","en":"Food Effect: DEF +25","ru":"Эффект еды: защита +25"}
 {"id":"buff_info:2581286554760643072","en":"Food Effect: DEF +35","ru":"Эффект еды: защита +35"}
@@ -2094,7 +2094,7 @@
 {"id":"buff_info:433805466561151744","en":"Increases EX Intensity","ru":"Повышает интенсивность EX"}
 {"id":"buff_info:433805466561152512","en":"Star Bath Rain","ru":"Дождь омовения звёзд"}
 {"id":"buff_info:433805505215857152","en":"Treasure Signpost","ru":"Путеводный знак сокровищ"}
-{"id":"buff_info:433805505215857408","en":"Fire Attribute Resistance decreases.","ru":"Сопротивление огненному атрибуту снижается."}
+{"id":"buff_info:433805505215857408","en":"Fire Attribute Resistance Down","ru":"Сопротивление огненному атрибуту снижается."}
 {"id":"buff_info:433805505215858176","en":"Treasure Signpost","ru":"Путеводный знак сокровищ"}
 {"id":"buff_info:433805530985660928","en":"Treasure Found!","ru":"Сокровище найдено!"}
 {"id":"buff_info:433805530985661184","en":"Increases Fire DMG.","ru":"Увеличивает огненный урон."}
@@ -2118,7 +2118,7 @@
 {"id":"buff_info:433823522603663872","en":"Yin-Yang Harmony","ru":"Гармония инь и ян"}
 {"id":"buff_info:433823522603664128","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:433823522603664896","en":"Yin-Yang Harmony","ru":"Гармония инь-ян"}
-{"id":"buff_info:433823526898631168","en":"Increases Fire Attribute DMG.","ru":"Увеличивает огненный урон."}
+{"id":"buff_info:433823526898631168","en":"Fire Attribute DMG Increase","ru":"Увеличивает огненный урон."}
 {"id":"buff_info:433823526898631424","en":"Increases Fire DMG.","ru":"Увеличивает огненный урон."}
 {"id":"buff_info:433823526898632192","en":"Fire DMG Up","ru":"Увеличение огненного урона"}
 {"id":"buff_info:433823582733206016","en":"Flood Dragon Plays with Pearl","ru":"Игра дракона с жемчужиной"}
@@ -2145,7 +2145,7 @@
 {"id":"buff_info:433826958577501696","en":"Full of Energy!","ru":"Полон сил!"}
 {"id":"buff_info:433826997232206336","en":"Tuning 1: DEF Down","ru":"Настройка 1: снижение защиты"}
 {"id":"buff_info:433826997232206592","en":"DEF decreases.","ru":"Снижает защиту."}
-{"id":"buff_info:433826997232207360","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:433826997232207360","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:433827001527173632","en":"Tuning 4: Crit DMG Up","ru":"Настройка 4: повышение крит. урона"}
 {"id":"buff_info:433827001527173888","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
 {"id":"buff_info:433835535627190784","en":"Jade Light Undying","ru":"Неугасающий нефритовый свет"}
@@ -2157,9 +2157,9 @@
 {"id":"buff_info:433852376193958400","en":"Take Courage","ru":"Набраться смелости"}
 {"id":"buff_info:433852376193958656","en":"Increases the whole team's Dark DMG.","ru":"Увеличивает тёмный урон всего отряда."}
 {"id":"buff_info:433852376193959424","en":"Take Courage","ru":"Набраться смелости"}
-{"id":"buff_info:433852427733565952","en":"Immunity","ru":"Иммунитет"}
+{"id":"buff_info:433852427733565952","en":"Poison Immunity","ru":"Иммунитет к яду"}
 {"id":"buff_info:433852427733566208","en":"EX CRIT Rate increases","ru":"Шанс крита EX повышается"}
-{"id":"buff_info:433852427733566976","en":"Immunity","ru":"Иммунитет"}
+{"id":"buff_info:433852427733566976","en":"Poison Immunity","ru":"Иммунитет к яду"}
 {"id":"buff_info:433852432028533248","en":"Take Courage","ru":"Набраться смелости"}
 {"id":"buff_info:433852432028533504","en":"Increases the whole team's Ice attribute DMG.","ru":"Увеличивает ледяной урон всего отряда."}
 {"id":"buff_info:433852483568140800","en":"Take Courage","ru":"Набраться смелости"}
@@ -2173,7 +2173,7 @@
 {"id":"buff_info:438092685736149504","en":"Wind Attribute Resistance Down","ru":"Понижение ветряного сопротивления"}
 {"id":"buff_info:438092685736149760","en":"Wind Attribute Resistance Down","ru":"Снижение сопротивления ветряному атрибуту"}
 {"id":"buff_info:438092685736150528","en":"Wind Attribute DMG taken increases.","ru":"Получаемый урон ветряного атрибута повышается."}
-{"id":"buff_info:438092694326084096","en":"Increases Wind Attribute DMG.","ru":"Увеличивает ветряной урон."}
+{"id":"buff_info:438092694326084096","en":"Wind Attribute DMG Increase","ru":"Увеличивает ветряной урон."}
 {"id":"buff_info:438092694326084352","en":"Increases Wind DMG.","ru":"Увеличивает ветряной урон."}
 {"id":"buff_info:438092694326085120","en":"Wind DMG Up","ru":"Увеличение ветряного урона"}
 {"id":"buff_info:438092711505953280","en":"ATK Up","ru":"Повышение атаки"}
@@ -2200,7 +2200,7 @@
 {"id":"buff_info:442391973769249280","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
 {"id":"buff_info:442391973769249536","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
 {"id":"buff_info:442391973769250304","en":"Crit DMG Up","ru":"Повышение крит. урона"}
-{"id":"buff_info:442392008128987648","en":"Increases DMG dealt.","ru":"Повышает наносимый урон."}
+{"id":"buff_info:442392008128987648","en":"DMG Dealt Increase","ru":"Повышает наносимый урон."}
 {"id":"buff_info:442392008128987904","en":"Increases DMG dealt.","ru":"Увеличивает наносимый урон."}
 {"id":"buff_info:442392021013889536","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
 {"id":"buff_info:442392021013889792","en":"Tuning 1: After using a Starpolar Skill, Crit DMG increases by 20% (duration: 15 sec).","ru":"Настройка 1: после применения звёзднополярного навыка крит. урон повышается на 20% (длительность: 15 сек.)."}
@@ -2208,13 +2208,13 @@
 {"id":"buff_info:442392025308856832","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:442392025308857088","en":"Fixed String 2: After the final strike of a Starpolar Skill, own ATK increases by 10% (lasts 30 sec).","ru":"Струна 2: после финального удара звёзднополярного навыка собственная атака повышается на 10% (длится 30 сек.)."}
 {"id":"buff_info:442392025308857856","en":"ATK Up","ru":"Повышение атаки"}
-{"id":"buff_info:442392085438398976","en":"Increases DMG dealt.","ru":"Повышает наносимый урон."}
+{"id":"buff_info:442392085438398976","en":"DMG Dealt Increase","ru":"Повышает наносимый урон."}
 {"id":"buff_info:442392085438399232","en":"Increases DMG dealt.","ru":"Увеличивает наносимый урон."}
 {"id":"buff_info:442392124093104640","en":"DEF Penetration Up","ru":"Повышение пробивания защиты"}
 {"id":"buff_info:442392124093104896","en":"DEF Penetration Up","ru":"Повышение пробивания защиты"}
-{"id":"buff_info:446682156471681536","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:446682156471681536","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:446682156471681792","en":"DEF decreases.","ru":"Снижает защиту."}
-{"id":"buff_info:446682156471682560","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:446682156471682560","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:446682190831419904","en":"CRIT Rate Up","ru":"Повышение шанса крита"}
 {"id":"buff_info:446682190831420160","en":"CRIT Rate Up","ru":"Повышение шанса крита"}
 {"id":"buff_info:446682190831420928","en":"CRIT Rate Up","ru":"Повышение шанса крита"}
@@ -2247,44 +2247,44 @@
 {"id":"buff_info:459567015410009600","en":"Whisper of Wind","ru":"Шёпот ветра"}
 {"id":"buff_info:459571190118220288","en":"Thorns","ru":"Шипы"}
 {"id":"buff_info:459571190118220544","en":"DEF decreases.","ru":"Снижает защиту."}
-{"id":"buff_info:459571190118221312","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:459571190118221312","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:459571233067893248","en":"Emerald Prayer","ru":"Изумрудная молитва"}
-{"id":"buff_info:459571233067893504","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
+{"id":"buff_info:459571233067893504","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
 {"id":"buff_info:459571233067894272","en":"Emerald Prayer","ru":"Изумрудная молитва"}
 {"id":"buff_info:459571237362860544","en":"Emerald Prayer","ru":"Изумрудная молитва"}
 {"id":"buff_info:459571237362860800","en":"Increases Wind DMG.","ru":"Увеличивает ветряной урон."}
 {"id":"buff_info:459571293197435392","en":"Branches Reaching for Craving","ru":"Ветви, тянущиеся к жажде"}
-{"id":"buff_info:459571293197435648","en":"Lowers Wind Attribute resistance.","ru":"Понижает сопротивление ветряному атрибуту."}
+{"id":"buff_info:459571293197435648","en":"Wind Attribute Resistance Down","ru":"Понижает сопротивление ветряному атрибуту."}
 {"id":"buff_info:459571293197436416","en":"Wind Attribute DMG taken increases.","ru":"Получаемый урон ветряного атрибута повышается."}
 {"id":"buff_info:459571297492402688","en":"Branches Reaching for Craving","ru":"Ветви, тянущиеся к жажде"}
 {"id":"buff_info:459571297492402944","en":"Nature Attribute Resistance decreases.","ru":"Сопротивление природе снижается."}
 {"id":"buff_info:459571297492403712","en":"Nature Attribute DMG taken increases.","ru":"Получаемый урон природы повышается."}
 {"id":"buff_info:459571310377304576","en":"Emerald Prayer","ru":"Изумрудная молитва"}
-{"id":"buff_info:459571310377304832","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
+{"id":"buff_info:459571310377304832","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
 {"id":"buff_info:459571310377305600","en":"Emerald Prayer","ru":"Изумрудная молитва"}
 {"id":"buff_info:459571314672271872","en":"Emerald Prayer","ru":"Изумрудная молитва"}
 {"id":"buff_info:459571314672272128","en":"Increases Wind DMG.","ru":"Увеличивает ветряной урон."}
 {"id":"buff_info:459571318967239168","en":"Fruit Brought by Years","ru":"Плод, принесённый годами"}
-{"id":"buff_info:459571318967239424","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
-{"id":"buff_info:459571318967240192","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
+{"id":"buff_info:459571318967239424","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
+{"id":"buff_info:459571318967240192","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
 {"id":"buff_info:459571344737042944","en":"Fruit Brought by Years","ru":"Плод, принесённый годами"}
 {"id":"buff_info:459571344737043200","en":"Increases Wind DMG.","ru":"Увеличивает ветряной урон."}
 {"id":"buff_info:459571344737043968","en":"Wind DMG Up","ru":"Увеличение ветряного урона"}
 {"id":"buff_info:459571361916912128","en":"Thorns","ru":"Шипы"}
 {"id":"buff_info:459571361916912384","en":"DEF decreases.","ru":"Снижает защиту."}
-{"id":"buff_info:459571361916913152","en":"DEF is reduced.","ru":"Защита снижается."}
+{"id":"buff_info:459571361916913152","en":"DEF Down","ru":"Защита снижается."}
 {"id":"buff_info:459575218797543936","en":"Spirit Dragon's Breath","ru":"Дыхание духа-дракона"}
 {"id":"buff_info:459575218797544192","en":"Break Efficiency Up","ru":"Повышение эффективности прорыва"}
 {"id":"buff_info:459575218797544960","en":"Spirit Dragon's Breath","ru":"Дыхание духа-дракона"}
 {"id":"buff_info:459575510855320064","en":"Hungry Dragon's Breath","ru":"Дыхание голодного дракона"}
 {"id":"buff_info:459575510855320320","en":"DEF decreases.","ru":"Снижает защиту."}
 {"id":"buff_info:459575510855321088","en":"Hungry Dragon's Breath","ru":"Дыхание голодного дракона"}
-{"id":"buff_info:459576112150741504","en":"Abby Goes Gururu","ru":"Эбби: гуруру"}
-{"id":"buff_info:459576112150741760","en":"DMG Taken Down","ru":"Понижение получаемого урона"}
-{"id":"buff_info:459576112150742528","en":"Abby Goes Gururu","ru":"Эбби: гуруру"}
-{"id":"buff_info:459576133625577984","en":"Abby Pounces","ru":"Эбби прыгает"}
+{"id":"buff_info:459576112150741504","en":"Abby's Grumble","ru":"Эбби: урчание"}
+{"id":"buff_info:459576112150741760","en":"DMG Reduction","ru":"Понижение получаемого урона"}
+{"id":"buff_info:459576112150742528","en":"Abby's Grumble","ru":"Эбби: урчание"}
+{"id":"buff_info:459576133625577984","en":"Abby's Bite","ru":"Эбби кусает"}
 {"id":"buff_info:459576133625578240","en":"DMG Amplification","ru":"Усиление урона"}
-{"id":"buff_info:459576133625579008","en":"Abby Pounces","ru":"Эбби прыгает"}
+{"id":"buff_info:459576133625579008","en":"Abby's Bite","ru":"Эбби кусает"}
 {"id":"buff_info:459576155100414464","en":"Gluttonous Abby","ru":"Прожорливая Эбби"}
 {"id":"buff_info:459576155100414720","en":"Charged Attack DMG Amplification","ru":"Усиление урона заряженной атаки"}
 {"id":"buff_info:459576155100415488","en":"Gluttonous Abby","ru":"Прожорливая Эбби"}
@@ -2318,9 +2318,9 @@
 {"id":"buff_info:463866230428664320","en":"Crit DMG","ru":"Крит. урон"}
 {"id":"buff_info:463866230428664576","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
 {"id":"buff_info:463866230428665344","en":"Crit DMG Up","ru":"Повышение крит. урона"}
-{"id":"buff_info:463866239018598912","en":"DMG Taken Down","ru":"Понижение получаемого урона"}
-{"id":"buff_info:463866239018599168","en":"DMG Taken Down","ru":"Понижение получаемого урона"}
-{"id":"buff_info:463866239018599936","en":"DMG Taken Down","ru":"Снижение получаемого урона"}
+{"id":"buff_info:463866239018598912","en":"DMG Reduction","ru":"Понижение получаемого урона"}
+{"id":"buff_info:463866239018599168","en":"DMG Reduction","ru":"Понижение получаемого урона"}
+{"id":"buff_info:463866239018599936","en":"DMG Reduction","ru":"Снижение получаемого урона"}
 {"id":"buff_info:463866260493435392","en":"Water Element Resistance Down","ru":"Понижение водного сопротивления"}
 {"id":"buff_info:463866260493435648","en":"Water Element DMG reduction is lowered.","ru":"Снижение водного урона уменьшается."}
 {"id":"buff_info:463866260493436416","en":"Water Element DMG reduction is lowered.","ru":"Снижение водного урона уменьшается."}
@@ -2395,22 +2395,22 @@
 {"id":"buff_info:468160802587673344","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:468160802587674112","en":"Pegasus Knight","ru":"рыцарь на пегасе"}
 {"id":"buff_info:468161902099300864","en":"Crowned with Loyalty","ru":"Увенчанный верностью"}
-{"id":"buff_info:468161902099301120","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:468161902099301120","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
 {"id":"buff_info:468161902099301888","en":"Crowned with Loyalty","ru":"Увенчанный верностью"}
 {"id":"buff_info:476745896751530496","en":"Flight","ru":"Полёт"}
 {"id":"buff_info:476745896751530752","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
 {"id":"buff_info:476745896751531520","en":"Flight","ru":"Полёт"}
 {"id":"buff_info:476747855256617472","en":"Sigil","ru":"Печать"}
-{"id":"buff_info:476747855256617728","en":"Break Efficiency increases and DMG taken increases.","ru":"Эффективность прорыва повышается, а получаемый урон увеличивается."}
+{"id":"buff_info:476747855256617728","en":"While in Break state, DMG taken increases.","ru":"Во время состояния прорыва получаемый урон повышается."}
 {"id":"buff_info:476747855256618496","en":"Sigil","ru":"Печать"}
 {"id":"buff_info:476747863846552064","en":"DMG Taken Amplification","ru":"Усиление получаемого урона"}
 {"id":"buff_info:476747863846552320","en":"DMG taken increases.","ru":"Получаемый урон повышается."}
 {"id":"buff_info:476747863846553088","en":"DMG taken increases.","ru":"Получаемый урон повышается."}
-{"id":"buff_info:476748100069753344","en":"A Blade Is Honed by the Wind","ru":"Клинок оттачивается ветром"}
+{"id":"buff_info:476748100069753344","en":"A Blade Honed by the Wind","ru":"Клинок, отточенный ветром"}
 {"id":"buff_info:476748100069753600","en":"DMG taken increases.","ru":"Получаемый урон повышается."}
 {"id":"buff_info:476748100069754368","en":"DMG taken increases.","ru":"Получаемый урон повышается."}
-{"id":"buff_info:476748108659687936","en":"Wind Attribute Resistance decreases.","ru":"Сопротивление ветряному атрибуту снижается."}
-{"id":"buff_info:476748108659688192","en":"Lowers Wind Attribute resistance.","ru":"Понижает сопротивление ветряному атрибуту."}
+{"id":"buff_info:476748108659687936","en":"Wind Attribute Resistance Down","ru":"Снижение сопротивления ветряному атрибуту"}
+{"id":"buff_info:476748108659688192","en":"Wind Attribute Resistance Down","ru":"Понижает сопротивление ветряному атрибуту."}
 {"id":"buff_info:476748108659688960","en":"Wind Attribute DMG taken increases.","ru":"Получаемый урон ветряного атрибута повышается."}
 {"id":"buff_info:476748112954655232","en":"Thunder Resistance Down","ru":"Снижение сопротивления грому"}
 {"id":"buff_info:476748112954655488","en":"Thunder Resistance Down","ru":"Снижение сопротивления грому"}
@@ -2421,9 +2421,9 @@
 {"id":"buff_info:481041800350401024","en":"Maid's Farewell","ru":"Проводы горничной"}
 {"id":"buff_info:481041800350401280","en":"CRIT Rate Up After a Break","ru":"Повышение шанса крита после прорыва"}
 {"id":"buff_info:481041800350402048","en":"Maid's Farewell","ru":"Проводы горничной"}
-{"id":"buff_info:481041830415172096","en":"Is There Anything I Can Help With?","ru":"Могу я чем-нибудь помочь?"}
+{"id":"buff_info:481041830415172096","en":"Allow Me to Greet Your Lordship","ru":"Позвольте поприветствовать вашу светлость"}
 {"id":"buff_info:481041830415172352","en":"Break Efficiency Up","ru":"Повышение эффективности прорыва"}
-{"id":"buff_info:481041830415173120","en":"Is There Anything I Can Help With?","ru":"Могу я чем-нибудь помочь?"}
+{"id":"buff_info:481041830415173120","en":"Allow Me to Greet Your Lordship","ru":"Позвольте поприветствовать вашу светлость"}
 {"id":"buff_info:481041843300073984","en":"Incoming Break Efficiency Boost","ru":"Повышение получаемой эффективности оглушения"}
 {"id":"buff_info:481041843300074240","en":"Incoming Break Efficiency Boost","ru":"Повышение получаемой эффективности оглушения"}
 {"id":"buff_info:481041843300075008","en":"Incoming Break Efficiency Boost","ru":"Повышение получаемой эффективности оглушения"}
@@ -2433,7 +2433,7 @@
 {"id":"buff_info:481041864774910464","en":"Brute Strength","ru":"Небывалая сила"}
 {"id":"buff_info:481041864774910720","en":"Break Efficiency Up","ru":"Повышение эффективности прорыва"}
 {"id":"buff_info:481041864774911488","en":"Brute Strength","ru":"Небывалая сила"}
-{"id":"buff_info:481041869069877760","en":"Allow Me to Greet You","ru":"Позвольте поприветствовать вас"}
+{"id":"buff_info:481041869069877760","en":"May I Be of Assistance?","ru":"Могу я чем-нибудь помочь?"}
 {"id":"buff_info:481041869069878016","en":"Thunder DMG increases by 9% and DMG reduction increases by 25%.","ru":"Громовый урон повышается на 9%, а снижение урона — на 25%."}
 {"id":"buff_info:481041869069878784","en":"Thunder DMG Up","ru":"Громовый урон повышен"}
 {"id":"buff_info:481045317928616448","en":"Rear Support","ru":"Тыловая поддержка"}
@@ -2452,7 +2452,7 @@
 {"id":"buff_info:481046692318151424","en":"Increases Charged Attack DMG.","ru":"Увеличивает урон заряженной атаки."}
 {"id":"buff_info:481046692318152192","en":"Rubitz of the Great Plains","ru":"Рубиц великих равнин"}
 {"id":"buff_info:481046713792987648","en":"Detective Signa","ru":"Детектив Сигна"}
-{"id":"buff_info:481046713792987904","en":"Lowers Light Element resistance.","ru":"Понижает сопротивление светлому элементу."}
+{"id":"buff_info:481046713792987904","en":"Light Element Resistance Down","ru":"Понижает сопротивление светлому элементу."}
 {"id":"buff_info:481046713792988672","en":"Light Element DMG taken increases.","ru":"Получаемый урон светлого элемента повышается."}
 {"id":"buff_info:481046726677889536","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:481046726677889792","en":"ATK Up","ru":"Повышение атаки"}
@@ -2794,8 +2794,8 @@
 {"id":"buff_info:81630595104376320","en":"Wind DMG Up","ru":"Увеличение ветряного урона"}
 {"id":"buff_info:81632325976195584","en":"Charged Attack CRIT Rate Up","ru":"Шанс крита заряженной атаки повышен"}
 {"id":"buff_info:81632325976195840","en":"Charged Attack CRIT Rate Up","ru":"Шанс крита заряженной атаки повышен"}
-{"id":"buff_info:81632733998088704","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
-{"id":"buff_info:81632733998088960","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:81632733998088704","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:81632733998088960","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
 {"id":"buff_info:81633163494818304","en":"Increases Charged Attack DMG.","ru":"Увеличивает урон заряженной атаки."}
 {"id":"buff_info:81633163494818560","en":"Increases Charged Attack DMG (max 6 stacks).","ru":"Увеличивает урон заряженной атаки (макс. 6 стак.)."}
 {"id":"buff_info:81634022488277504","en":"Increases CRIT Rate.","ru":"Повышает шанс крита."}
@@ -2863,17 +2863,17 @@
 {"id":"buff_info:81640890140983808","en":"Thunder DMG Up","ru":"Громовый урон повышен"}
 {"id":"buff_info:81640890140984064","en":"Thunder DMG Up","ru":"Громовый урон повышен"}
 {"id":"buff_info:81640890140984832","en":"Thunder DMG Up","ru":"Громовый урон повышен"}
-{"id":"buff_info:81641319637713408","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
-{"id":"buff_info:81641319637713664","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
-{"id":"buff_info:81641319637714432","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
+{"id":"buff_info:81641319637713408","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
+{"id":"buff_info:81641319637713664","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
+{"id":"buff_info:81641319637714432","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
 {"id":"buff_info:81641749134443008","en":"Earth DMG Up","ru":"Земной урон повышен"}
 {"id":"buff_info:81641749134443264","en":"Earth DMG Up","ru":"Земной урон повышен"}
 {"id":"buff_info:81641749134444032","en":"Earth DMG Up","ru":"Земной урон повышен"}
 {"id":"buff_info:81642182926139904","en":"Max HP Up","ru":"Макс. HP повышено"}
 {"id":"buff_info:81642182926140160","en":"HP Recovery","ru":"Восстановление HP"}
 {"id":"buff_info:81642182926140928","en":"HP Recovery","ru":"Восстановление HP"}
-{"id":"buff_info:81642608127902208","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
-{"id":"buff_info:81642608127902464","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:81642608127902208","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:81642608127902464","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
 {"id":"buff_info:81643041919599104","en":"Normal Attack DMG Up","ru":"Увеличение урона обычной атаки"}
 {"id":"buff_info:81643041919599360","en":"Normal Attack DMG Up","ru":"Увеличение урона обычной атаки"}
 {"id":"buff_info:81643041919600128","en":"Normal Attack DMG Up","ru":"Увеличение урона обычной атаки"}
@@ -2905,8 +2905,8 @@
 {"id":"buff_info:81646920275067648","en":"Increases whole team's Dark DMG (3 stacks)","ru":"Увеличивает тёмный урон всего отряда (3 стак.)"}
 {"id":"buff_info:81647336886895104","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:81647336886895360","en":"Increases whole team's ATK (5 stacks)","ru":"Повышает атаку всего отряда (5 стак.)"}
-{"id":"buff_info:81647779268526592","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
-{"id":"buff_info:81647779268526848","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:81647779268526592","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:81647779268526848","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
 {"id":"buff_info:81647787858461184","en":"Increases Charged Attack DMG.","ru":"Увеличивает урон заряженной атаки."}
 {"id":"buff_info:81647787858461440","en":"Increases Charged Attack DMG.","ru":"Увеличивает урон заряженной атаки."}
 {"id":"buff_info:81648195880354304","en":"Increases CRIT Rate","ru":"Повышает шанс крита"}
@@ -2925,7 +2925,7 @@
 {"id":"buff_info:81649067758715392","en":"CRIT Rate increases","ru":"Шанс крита повышается"}
 {"id":"buff_info:81649067758715648","en":"Increases CRIT Rate","ru":"Повышает шанс крита"}
 {"id":"buff_info:81649067758716416","en":"CRIT Rate Up","ru":"Повышение шанса крита"}
-{"id":"buff_info:81649484370543104","en":"DMG dealt increases.","ru":"Наносимый урон повышается."}
+{"id":"buff_info:81649484370543104","en":"DMG Dealt Increase","ru":"Наносимый урон повышается."}
 {"id":"buff_info:81649484370543360","en":"DMG Dealt Increase (3 stack)","ru":"Повышение наносимого урона (3 ст.)"}
 {"id":"buff_info:81649913867272704","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:81649913867272960","en":"ATK Up","ru":"Повышение атаки"}
@@ -2934,7 +2934,7 @@
 {"id":"buff_info:81650343364002560","en":"Increases whole team's EX Intensity","ru":"Повышает интенсивность EX всего отряда"}
 {"id":"buff_info:81650772860731904","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:81650772860732160","en":"ATK Up","ru":"Повышение атаки"}
-{"id":"buff_info:81650772860732928","en":"DMG Taken Down","ru":"Снижение получаемого урона"}
+{"id":"buff_info:81650772860732928","en":"DMG Reduction","ru":"Снижение получаемого урона"}
 {"id":"buff_info:81650781450666496","en":"Party-wide DMG Amplification Increase","ru":"Повышение усиления урона всего отряда"}
 {"id":"buff_info:81650781450666752","en":"Party-wide DMG Amplification Increase","ru":"Повышение усиления урона всего отряда"}
 {"id":"buff_info:81650781450667520","en":"DMG Amplification","ru":"Усиление урона"}
@@ -2950,15 +2950,15 @@
 {"id":"buff_info:81652061350921728","en":"EX Intensity Up","ru":"Повышение интенсивности EX"}
 {"id":"buff_info:81652490847650304","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:81652490847650560","en":"ATK Up","ru":"Повышение атаки"}
-{"id":"buff_info:81652933229281792","en":"DMG dealt increases.","ru":"Наносимый урон повышается."}
+{"id":"buff_info:81652933229281792","en":"DMG Dealt Increase","ru":"Наносимый урон повышается."}
 {"id":"buff_info:81652933229282048","en":"Increases DMG dealt.","ru":"Увеличивает наносимый урон."}
-{"id":"buff_info:81652937524249088","en":"DMG dealt increases.","ru":"Наносимый урон повышается."}
+{"id":"buff_info:81652937524249088","en":"DMG Dealt Increase","ru":"Наносимый урон повышается."}
 {"id":"buff_info:81652937524249344","en":"Increases DMG dealt.","ru":"Увеличивает наносимый урон."}
-{"id":"buff_info:81652941819216384","en":"DMG dealt increases.","ru":"Наносимый урон повышается."}
+{"id":"buff_info:81652941819216384","en":"DMG Dealt Increase","ru":"Наносимый урон повышается."}
 {"id":"buff_info:81652941819216640","en":"Increases DMG dealt.","ru":"Увеличивает наносимый урон."}
-{"id":"buff_info:81652946114183680","en":"DMG dealt increases.","ru":"Наносимый урон повышается."}
+{"id":"buff_info:81652946114183680","en":"DMG Dealt Increase","ru":"Наносимый урон повышается."}
 {"id":"buff_info:81652946114183936","en":"Increases DMG dealt.","ru":"Увеличивает наносимый урон."}
-{"id":"buff_info:81652958999085568","en":"DMG dealt increases.","ru":"Наносимый урон повышается."}
+{"id":"buff_info:81652958999085568","en":"DMG Dealt Increase","ru":"Наносимый урон повышается."}
 {"id":"buff_info:81652958999085824","en":"Increases DMG dealt.","ru":"Увеличивает наносимый урон."}
 {"id":"buff_info:81653349841109504","en":"DEF Up","ru":"Повышение защиты"}
 {"id":"buff_info:81653349841109760","en":"DEF Up","ru":"Защита повышена"}
@@ -2994,26 +2994,26 @@
 {"id":"buff_info:81657211016709632","en":"Healing Effect Up","ru":"Эффект лечения повышен"}
 {"id":"buff_info:81657640513438208","en":"Starpolar Charge Recovery Rate Up","ru":"Повышение скорости восстановления звёзднополярного заряда"}
 {"id":"buff_info:81657640513438464","en":"Starpolar Charge Recovery Rate Up","ru":"Скорость восстановления звёзднополярного заряда повышена"}
-{"id":"buff_info:81658070010167808","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
+{"id":"buff_info:81658070010167808","en":"Crit DMG Increase","ru":"Крит. урон повышается."}
 {"id":"buff_info:81658070010168064","en":"Increases Crit DMG.","ru":"Повышает крит. урон."}
 {"id":"buff_info:81658070010168832","en":"Crit DMG Up","ru":"Повышение крит. урона"}
 {"id":"buff_info:81658499506897408","en":"DEF Penetration Rate","ru":"Пробитие защиты"}
 {"id":"buff_info:81658499506897664","en":"DEF Penetration Rate","ru":"Пробитие защиты"}
 {"id":"buff_info:81658499506898432","en":"DEF Penetration Rate","ru":"Пробитие защиты"}
-{"id":"buff_info:81658929003627008","en":"DMG dealt increases.","ru":"Наносимый урон повышается."}
+{"id":"buff_info:81658929003627008","en":"DMG Dealt Increase","ru":"Наносимый урон повышается."}
 {"id":"buff_info:81658929003627264","en":"Increases DMG dealt.","ru":"Увеличивает наносимый урон."}
 {"id":"buff_info:81658929003628032","en":"DMG Dealt Up","ru":"Увеличение наносимого урона"}
 {"id":"buff_info:81659362795323904","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:81659362795324160","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:81659362795324928","en":"ATK Up","ru":"Повышение атаки"}
-{"id":"buff_info:81659371385258496","en":"DMG dealt increases.","ru":"Наносимый урон повышается."}
+{"id":"buff_info:81659371385258496","en":"DMG Dealt Increase","ru":"Наносимый урон повышается."}
 {"id":"buff_info:81659371385258752","en":"Increases DMG dealt.","ru":"Увеличивает наносимый урон."}
 {"id":"buff_info:81659371385259520","en":"DMG Dealt Up","ru":"Увеличение наносимого урона"}
 {"id":"buff_info:854702993029726720","en":"Inspire","ru":"Воодушевление"}
 {"id":"buff_info:854702993029726976","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:854702993029727744","en":"Ring of Starlight","ru":"Кольцо звёздного сияния"}
 {"id":"buff_info:854703525605671424","en":"Break","ru":"Прорыв"}
-{"id":"buff_info:854703525605671680","en":"Break Efficiency increases.","ru":"Эффективность прорыва повышается."}
+{"id":"buff_info:854703525605671680","en":"Break Efficiency Up","ru":"Повышение эффективности прорыва"}
 {"id":"buff_info:854703525605672448","en":"Break State","ru":"Состояние прорыва"}
 {"id":"buff_info:854703598620115456","en":"Defense Penetration","ru":"Пробивание защиты"}
 {"id":"buff_info:854703598620115712","en":"Defense Penetration","ru":"Пробивание защиты"}
@@ -3040,15 +3040,15 @@
 {"id":"buff_info:854708202825057024","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:854708202825057792","en":"Ring of Starlight","ru":"Кольцо звёздного сияния"}
 {"id":"buff_info:854708293019369984","en":"Break","ru":"Прорыв"}
-{"id":"buff_info:854708293019370240","en":"Increases Break Efficiency","ru":"Повышает эффективность прорыва"}
+{"id":"buff_info:854708293019370240","en":"Break Efficiency Up","ru":"Повышение эффективности прорыва"}
 {"id":"buff_info:854708293019371008","en":"Break State","ru":"Состояние прорыва"}
 {"id":"buff_info:854708361738846720","en":"Break","ru":"Прорыв"}
-{"id":"buff_info:854708361738846976","en":"Increases Break Efficiency","ru":"Повышает эффективность прорыва"}
+{"id":"buff_info:854708361738846976","en":"Break Efficiency Up","ru":"Повышение эффективности прорыва"}
 {"id":"buff_info:854708361738847744","en":"Break State","ru":"Состояние прорыва"}
 {"id":"buff_info:854708542127473152","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:854708542127473408","en":"ATK Up","ru":"Повышение атаки"}
 {"id":"buff_info:854708542127474176","en":"Star Resonance","ru":"Звёздный отзвук"}
-{"id":"buff_info:854708559307342336","en":"Defense decreases.","ru":"Защита снижается."}
+{"id":"buff_info:854708559307342336","en":"Defense Down","ru":"Снижение защиты"}
 {"id":"buff_info:854708559307342592","en":"DEF decreases.","ru":"Снижает защиту."}
 {"id":"buff_info:854708559307343360","en":"Star Resonance","ru":"Звёздный отзвук"}
 {"id":"buff_info:854712119835230720","en":"Clang Clang Clang!","ru":"Дзынь-дзынь-дзынь!"}
@@ -3076,11 +3076,11 @@
 {"id":"buff_info:854734195967132416","en":"EX Intensity Up","ru":"Повышает интенсивность EX"}
 {"id":"buff_info:854734195967133184","en":"Synchro Intensity increases","ru":"Интенсивность синхронизации повышается"}
 {"id":"buff_info:854734200262099456","en":"Meow's Fighting Spirit","ru":"Боевой дух Мяу"}
-{"id":"buff_info:854734200262099712","en":"Increases Light DMG.","ru":"Увеличивает светлый урон."}
-{"id":"buff_info:854734200262100480","en":"Light Element DMG increases.","ru":"Урон светлого элемента повышается."}
+{"id":"buff_info:854734200262099712","en":"Light Element DMG Increase","ru":"Увеличивает светлый урон."}
+{"id":"buff_info:854734200262100480","en":"Light Element DMG Up","ru":"Повышение урона светлого элемента"}
 {"id":"buff_info:854734204557066752","en":"Meow's Fighting Spirit","ru":"Боевой дух Мяу"}
-{"id":"buff_info:854734204557067008","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
-{"id":"buff_info:854734204557067776","en":"Increases Nature DMG.","ru":"Увеличивает урон природы."}
+{"id":"buff_info:854734204557067008","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
+{"id":"buff_info:854734204557067776","en":"Nature DMG Increase","ru":"Увеличивает урон природы."}
 {"id":"buff_info:854734573924254208","en":"Meow Meow Rush","ru":"Мяу-мяу натиск"}
 {"id":"buff_info:854734573924254464","en":"Exclusive follow-up attack","ru":"Особая дополнительная атака"}
 {"id":"buff_info:854734573924255232","en":"Meow Meow Rush","ru":"Мяу-мяу натиск"}

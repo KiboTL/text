@@ -1,12 +1,12 @@
 {"id":"game_events_cul_mood:4299262264064","en":"Downcast","ru":"Уныние"}
 {"id":"game_events_cul_mood:4299262264320","en":"When your mood is down, training effectiveness is reduced by <color=#e7782d>20%.</color>","ru":"Когда настроение подавленное, эффект тренировки снижается на <color=#e7782d>20%.</color>"}
 {"id":"game_events_cul_mood:4303557231360","en":"Calm","ru":"Спокойствие"}
-{"id":"game_events_cul_mood:4303557231616","en":"When your mood is calm, training effectiveness is unchanged.","ru":"Когда настроение спокойное, эффект тренировки не меняется."}
+{"id":"game_events_cul_mood:4303557231616","en":"When your mood is peaceful, training effectiveness is unchanged.","ru":"Когда настроение безмятежное, эффект тренировки не меняется."}
 {"id":"game_events_cul_mood:4307852198656","en":"Happy","ru":"Радость"}
 {"id":"game_events_cul_mood:4307852198912","en":"When your mood is good, training effectiveness is boosted by <color=#479939>20%.</color>","ru":"Когда настроение хорошее, эффект тренировки повышается на <color=#479939>20%.</color>"}
 {"id":"game_events_cul_mood:4312147165952","en":"Downcast","ru":"Уныние"}
 {"id":"game_events_cul_mood:4312147166208","en":"When your mood is down, training effectiveness is reduced by <color=#e7782d>20%.</color>","ru":"Когда настроение подавленное, эффект тренировки снижается на <color=#e7782d>20%.</color>"}
 {"id":"game_events_cul_mood:4316442133248","en":"Calm","ru":"Спокойствие"}
-{"id":"game_events_cul_mood:4316442133504","en":"When your mood is calm, training effectiveness is unchanged.","ru":"Когда настроение спокойное, эффект тренировки не меняется."}
+{"id":"game_events_cul_mood:4316442133504","en":"When your mood is peaceful, training effectiveness is unchanged.","ru":"Когда настроение безмятежное, эффект тренировки не меняется."}
 {"id":"game_events_cul_mood:4320737100544","en":"Happy","ru":"Радость"}
 {"id":"game_events_cul_mood:4320737100800","en":"When your mood is good, training effectiveness is boosted by <color=#479939>20%.</color>","ru":"Когда настроение хорошее, эффект тренировки повышается на <color=#479939>20%.</color>"}

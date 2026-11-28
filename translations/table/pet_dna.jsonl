@@ -64,9 +64,9 @@
 {"id":"pet_dna:2285304853561600","en":"Rational · Normal","ru":"Рассудительный · Обычный"}
 {"id":"pet_dna:2285309148528896","en":"Rational · Fine","ru":"Рассудительный · Хороший"}
 {"id":"pet_dna:2285313443496192","en":"Rational · Excellent","ru":"Рассудительный · Отличный"}
-{"id":"pet_dna:2285317738463488","en":"Persistent · Normal","ru":"Упорный · Обычный"}
-{"id":"pet_dna:2285322033430784","en":"Tenacity · Fine","ru":"Упорство · Отличное"}
-{"id":"pet_dna:2285326328398080","en":"Tenacity · Superior","ru":"Упорство · Превосходное"}
+{"id":"pet_dna:2285317738463488","en":"Tenacious · Normal","ru":"Упорный · Обычный"}
+{"id":"pet_dna:2285322033430784","en":"Tenacious · Fine","ru":"Упорный · Хороший"}
+{"id":"pet_dna:2285326328398080","en":"Tenacious · Excellent","ru":"Упорный · Отличный"}
 {"id":"pet_dna:2285330623365376","en":"Unyielding · Common","ru":"Непреклонность · Обычное"}
 {"id":"pet_dna:2285334918332672","en":"Unyielding · Fine","ru":"Непреклонность · Отличное"}
 {"id":"pet_dna:2285339213299968","en":"Unyielding · Superior","ru":"Непреклонность · Превосходное"}
@@ -79,21 +79,21 @@
 {"id":"pet_dna:2289221863735552","en":"Agility · Common","ru":"Ловкость · Обычное"}
 {"id":"pet_dna:2289226158702848","en":"Agility · Fine","ru":"Ловкость · Отличное"}
 {"id":"pet_dna:2289230453670144","en":"Agility · Superior","ru":"Ловкость · Превосходное"}
-{"id":"pet_dna:2289234748637440","en":"Fearless · Common","ru":"Бесстрашие · Обычное"}
-{"id":"pet_dna:2289239043604736","en":"Fearless · Fine","ru":"Бесстрашие · Отличное"}
-{"id":"pet_dna:2289243338572032","en":"Fearless · Superior","ru":"Бесстрашие · Превосходное"}
+{"id":"pet_dna:2289234748637440","en":"Bold · Normal","ru":"Отважный · Обычный"}
+{"id":"pet_dna:2289239043604736","en":"Bold · Fine","ru":"Отважный · Хороший"}
+{"id":"pet_dna:2289243338572032","en":"Bold · Excellent","ru":"Отважный · Отличный"}
 {"id":"pet_dna:2289247633539328","en":"Calm · Common","ru":"Спокойствие · Обычное"}
 {"id":"pet_dna:2289251928506624","en":"Calm · Fine","ru":"Спокойствие · Отличное"}
 {"id":"pet_dna:2289256223473920","en":"Calm · Superior","ru":"Спокойствие · Превосходное"}
-{"id":"pet_dna:2289260518441216","en":"Competitive · Common","ru":"Азартность · Обычное"}
-{"id":"pet_dna:2289264813408512","en":"Competitive · Fine","ru":"Азартность · Отличное"}
-{"id":"pet_dna:2289269108375808","en":"Competitive · Superior","ru":"Азартность · Превосходное"}
+{"id":"pet_dna:2289260518441216","en":"Competitive · Normal","ru":"Азартный · Обычный"}
+{"id":"pet_dna:2289264813408512","en":"Competitive · Fine","ru":"Азартный · Хороший"}
+{"id":"pet_dna:2289269108375808","en":"Competitive · Excellent","ru":"Азартный · Отличный"}
 {"id":"pet_dna:2289273403343104","en":"Poise · Common","ru":"Осанка · Обычное"}
 {"id":"pet_dna:2289277698310400","en":"Poise · Fine","ru":"Осанка · Отличное"}
 {"id":"pet_dna:2289281993277696","en":"Poise · Superior","ru":"Осанка · Превосходное"}
-{"id":"pet_dna:2289286288244992","en":"Shrewd · Common","ru":"Хваткость · Обычное"}
-{"id":"pet_dna:2289290583212288","en":"Shrewd · Fine","ru":"Хваткость · Отличное"}
-{"id":"pet_dna:2289294878179584","en":"Shrewd · Superior","ru":"Хваткость · Превосходное"}
+{"id":"pet_dna:2289286288244992","en":"Diligent · Normal","ru":"Усердный · Обычный"}
+{"id":"pet_dna:2289290583212288","en":"Diligent · Fine","ru":"Усердный · Хороший"}
+{"id":"pet_dna:2289294878179584","en":"Diligent · Excellent","ru":"Усердный · Отличный"}
 {"id":"pet_dna:2289299173146880","en":"Sincere · Common","ru":"Искренность · Обычное"}
 {"id":"pet_dna:2289303468114176","en":"Sincere · Fine","ru":"Искренность · Отличное"}
 {"id":"pet_dna:2289307763081472","en":"Sincere · Superior","ru":"Искренность · Превосходное"}
@@ -106,9 +106,9 @@
 {"id":"pet_dna:2289337827852544","en":"Excitement: Normal","ru":"Возбуждение: обычное"}
 {"id":"pet_dna:2289342122819840","en":"Excitement: Fine","ru":"Возбуждение: хорошее"}
 {"id":"pet_dna:2289346417787136","en":"Excitement: Excellent","ru":"Возбуждение: отличное"}
-{"id":"pet_dna:2289350712754432","en":"Carefree: Normal","ru":"Беспечность: обычная"}
-{"id":"pet_dna:2289355007721728","en":"Carefree: Fine","ru":"Беспечность: хорошая"}
-{"id":"pet_dna:2289359302689024","en":"Carefree: Excellent","ru":"Беспечность: отличная"}
+{"id":"pet_dna:2289350712754432","en":"Lighthearted · Normal","ru":"Беспечный · Обычный"}
+{"id":"pet_dna:2289355007721728","en":"Lighthearted · Fine","ru":"Беспечный · Хороший"}
+{"id":"pet_dna:2289359302689024","en":"Lighthearted · Excellent","ru":"Беспечный · Отличный"}
 {"id":"pet_dna:2289363597656320","en":"Warrior: Normal","ru":"Воин: обычный"}
 {"id":"pet_dna:2289367892623616","en":"Warrior: Fine","ru":"Воин: хороший"}
 {"id":"pet_dna:2289372187590912","en":"Warrior: Excellent","ru":"Воин: отличный"}
@@ -127,15 +127,15 @@
 {"id":"pet_dna:2289428022165760","en":"Composed: Normal","ru":"Невозмутимость: обычная"}
 {"id":"pet_dna:2289432317133056","en":"Composed: Fine","ru":"Невозмутимость: хорошая"}
 {"id":"pet_dna:2289436612100352","en":"Composed: Excellent","ru":"Невозмутимость: отличная"}
-{"id":"pet_dna:2289440907067648","en":"Vigorous: Normal","ru":"Удаль: обычная"}
-{"id":"pet_dna:2289445202034944","en":"Vigorous: Fine","ru":"Удаль: хорошая"}
-{"id":"pet_dna:2289449497002240","en":"Vigorous: Excellent","ru":"Удаль: отличная"}
-{"id":"pet_dna:2289453791969536","en":"Resolute: Normal","ru":"Стойкость: обычная"}
-{"id":"pet_dna:2289458086936832","en":"Resolute: Fine","ru":"Стойкость: хорошая"}
-{"id":"pet_dna:2289462381904128","en":"Resolute: Excellent","ru":"Стойкость: отличная"}
-{"id":"pet_dna:2289466676871424","en":"Vitality - Normal","ru":"бодрость — обычная"}
-{"id":"pet_dna:2289470971838720","en":"Vitality - Good","ru":"бодрость — хорошая"}
-{"id":"pet_dna:2289475266806016","en":"Vitality - Excellent","ru":"бодрость — отличная"}
+{"id":"pet_dna:2289440907067648","en":"Valiant · Normal","ru":"Доблестный · Обычный"}
+{"id":"pet_dna:2289445202034944","en":"Valiant · Fine","ru":"Доблестный · Хороший"}
+{"id":"pet_dna:2289449497002240","en":"Valiant · Excellent","ru":"Доблестный · Отличный"}
+{"id":"pet_dna:2289453791969536","en":"Unyielding · Normal","ru":"Несгибаемый · Обычный"}
+{"id":"pet_dna:2289458086936832","en":"Unyielding · Fine","ru":"Несгибаемый · Хороший"}
+{"id":"pet_dna:2289462381904128","en":"Unyielding · Excellent","ru":"Несгибаемый · Отличный"}
+{"id":"pet_dna:2289466676871424","en":"Robust · Normal","ru":"Крепкий · Обычный"}
+{"id":"pet_dna:2289470971838720","en":"Robust · Fine","ru":"Крепкий · Хороший"}
+{"id":"pet_dna:2289475266806016","en":"Robust · Excellent","ru":"Крепкий · Отличный"}
 {"id":"pet_dna:2289479561773312","en":"Simple - Normal","ru":"простота — обычная"}
 {"id":"pet_dna:2289483856740608","en":"Simple - Good","ru":"простота — хорошая"}
 {"id":"pet_dna:2289488151707904","en":"Simple - Excellent","ru":"простота — отличная"}
@@ -148,8 +148,8 @@
 {"id":"pet_dna:2289518216478976","en":"Harmonious - Normal","ru":"лад — обычный"}
 {"id":"pet_dna:2289522511446272","en":"Harmonious - Good","ru":"лад — хороший"}
 {"id":"pet_dna:2289526806413568","en":"Harmonious - Excellent","ru":"лад — отличный"}
-{"id":"pet_dna:2289531101380864","en":"Friendly - Normal","ru":"дружелюбие — обычное"}
-{"id":"pet_dna:2289535396348160","en":"Friendly - Good","ru":"дружелюбие — хорошее"}
+{"id":"pet_dna:2289531101380864","en":"Friendly · Normal","ru":"Дружелюбный · Обычный"}
+{"id":"pet_dna:2289535396348160","en":"Friendly · Fine","ru":"Дружелюбный · Хороший"}
 {"id":"pet_dna:2289539691315456","en":"Friendly - Excellent","ru":"дружелюбие — отличное"}
 {"id":"pet_dna:2289543986282752","en":"Keen - Normal","ru":"зоркость — обычная"}
 {"id":"pet_dna:2289548281250048","en":"Keen - Good","ru":"зоркость — хорошая"}
@@ -157,9 +157,9 @@
 {"id":"pet_dna:2289556871184640","en":"Spirited - Normal","ru":"задор — обычный"}
 {"id":"pet_dna:2289561166151936","en":"Spirited - Good","ru":"задор — хороший"}
 {"id":"pet_dna:2289565461119232","en":"Spirited - Excellent","ru":"задор — отличный"}
-{"id":"pet_dna:2289569756086528","en":"Compassionate - Normal","ru":"отзывчивость — обычная"}
-{"id":"pet_dna:2289574051053824","en":"Compassionate - Good","ru":"отзывчивость — хорошая"}
-{"id":"pet_dna:2289578346021120","en":"Compassionate - Excellent","ru":"отзывчивость — отличная"}
+{"id":"pet_dna:2289569756086528","en":"Gentle - Normal","ru":"мягкость — обычная"}
+{"id":"pet_dna:2289574051053824","en":"Gentle - Good","ru":"мягкость — хорошая"}
+{"id":"pet_dna:2289578346021120","en":"Gentle - Excellent","ru":"мягкость — отличная"}
 {"id":"pet_dna:2289582640988416","en":"Robust - Normal","ru":"мощь — обычная"}
 {"id":"pet_dna:2289586935955712","en":"Robust - Good","ru":"мощь — хорошая"}
 {"id":"pet_dna:2289591230923008","en":"Robust - Excellent","ru":"мощь — отличная"}

@@ -140,8 +140,8 @@
 {"id":"task_target:1383018519154656768","en":"Go inform the townsfolk on the street","ru":"Пойти оповестить горожан на улице"}
 {"id":"task_target:1383018523449623040","en":"Go inform the townsfolk along the canal","ru":"Пойти оповестить горожан у канала"}
 {"id":"task_target:1383018523449624064","en":"Go inform the townsfolk along the canal","ru":"Пойти оповестить горожан у канала"}
-{"id":"task_target:138301855351439872","en":"All set! Wait for the ball to begin!","ru":"Всё готово! Ждём начала бала!"}
-{"id":"task_target:138301855351440896","en":"All set! Wait for the ball to begin!","ru":"Всё готово! Ждём начала бала!"}
+{"id":"task_target:138301855351439872","en":"All set! Wait for the dress rehearsal to begin!","ru":"Всё готово! Ждём начала генеральной репетиции!"}
+{"id":"task_target:138301855351440896","en":"All set! Wait for the dress rehearsal to begin!","ru":"Всё готово! Ждём начала генеральной репетиции!"}
 {"id":"task_target:138301859646407168","en":"Find Xiaoyu","ru":"Найти Сяоюй"}
 {"id":"task_target:138301859646408192","en":"Find Xiaoyu","ru":"Найти Сяоюй"}
 {"id":"task_target:138301863941374464","en":"Follow Xiaoyu","ru":"Следовать за Сяоюй"}
@@ -160,7 +160,7 @@
 {"id":"task_target:138727886042433024","en":"Hide","ru":"Спрятаться"}
 {"id":"task_target:138727890337399296","en":"Find Abby","ru":"Найти Эбби"}
 {"id":"task_target:138727890337400320","en":"Find Abby","ru":"Найти Эбби"}
-{"id":"task_target:138727894632366592","en":"Go to Instructor Ral","ru":"Навестить инструктора Рала"}
+{"id":"task_target:138727894632366592","en":"Go to Captain Ral","ru":"Навестить капитана Рала"}
 {"id":"task_target:138727894632367616","en":"Rehabilitation training","ru":"Реабилитация"}
 {"id":"task_target:138727898927333888","en":"Fill Abby's belly","ru":"Накормить Эбби"}
 {"id":"task_target:138727898927334912","en":"Talk to Granny Luma","ru":"Поговорить с бабушкой Лумой"}
@@ -206,7 +206,7 @@
 {"id":"task_target:138728349898900992","en":"Record of the troublemakers","ru":"Записи о негодниках"}
 {"id":"task_target:138728354193867264","en":"Approach the Sparkle","ru":"Подойти к Блеску"}
 {"id":"task_target:138728354193868288","en":"The secret of being good","ru":"Секрет послушания"}
-{"id":"task_target:138728358488834560","en":"Abby the \"good girl\"","ru":"Эбби — «хорошая девочка»"}
+{"id":"task_target:138728358488834560","en":"Find Abby the \"good girl\"","ru":"Найти Эбби — «хорошую девочку»"}
 {"id":"task_target:138728358488835584","en":"Abby the \"good girl\"","ru":"Эбби — «хорошая девочка»"}
 {"id":"task_target:138728362783801856","en":"Where is this place?","ru":"Где это место?"}
 {"id":"task_target:138728362783802880","en":"Where is this place?","ru":"Где это место?"}
@@ -243,8 +243,8 @@
 {"id":"task_target:146030623230788096","en":"Head to the Farm","ru":"Отправиться на ферму"}
 {"id":"task_target:146030627525755392","en":"Cook 1 normal-quality Juicy Tomato Omelettes in the Cooking Pot on the Farm.","ru":"Приготовьте 1 омлет(ов) с сочным томатом обычного качества в котелке на ферме."}
 {"id":"task_target:146030631820722688","en":"Talk to Shalle and give her 1 Juicy Tomato Omelettes.","ru":"Поговорите с Шалль и отдайте ей 1 омлет(ов) с сочным томатом."}
-{"id":"task_target:146030631820723712","en":"Serve a meal","ru":"Угостить блюдом"}
-{"id":"task_target:146030631820724224","en":"Serve a meal","ru":"Угостить блюдом"}
+{"id":"task_target:146030631820723712","en":"Taste-test Shalle's Juicy Tomato Omelette","ru":"Попробовать омлет с сочным томатом у Шалль"}
+{"id":"task_target:146030631820724224","en":"Taste-test Shalle's Juicy Tomato Omelette","ru":"Попробовать омлет с сочным томатом у Шалль"}
 {"id":"task_target:146030636115689984","en":"Talk to Shalle","ru":"Поговорить с Шалль"}
 {"id":"task_target:146031039842615808","en":"Talk to Shalle","ru":"Поговорите с Шалль"}
 {"id":"task_target:146031039842616832","en":"Shalle","ru":"Шалль"}
@@ -374,13 +374,13 @@
 {"id":"task_target:171846825538487808","en":"Clear the trial","ru":"Пройдите испытание"}
 {"id":"task_target:1718468259679830528","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:1718468259679831552","en":"Talk","ru":"Поговорить"}
-{"id":"task_target:171846829833454080","en":"Kibo Fight the Passionate Fighter","ru":"Бой кибо со страстным бойцом"}
+{"id":"task_target:171846829833454080","en":"Kibo Fight the Hot-Blooded Fighter","ru":"Бой кибо со вспыльчивым бойцом"}
 {"id":"task_target:171846829833455104","en":"Kibo Fight","ru":"Бой кибо"}
 {"id":"task_target:1718468302629503488","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:1718468302629504512","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:171846838423388672","en":"Clear the trial","ru":"Пройдите испытание"}
 {"id":"task_target:171846838423389696","en":"Clear the trial","ru":"Пройдите испытание"}
-{"id":"task_target:171846842718355968","en":"Kibo Fight the Prudent Fighter","ru":"Бой кибо с осмотрительным бойцом"}
+{"id":"task_target:171846842718355968","en":"Kibo Fight the Stoic Fighter","ru":"Бой кибо с невозмутимым бойцом"}
 {"id":"task_target:171846842718356992","en":"Kibo Fight","ru":"Бой кибо"}
 {"id":"task_target:171846847013323264","en":"Head to the plateau","ru":"Отправляйтесь на возвышенность"}
 {"id":"task_target:171846847013324288","en":"Head to the plateau","ru":"Отправляйтесь на возвышенность"}
@@ -437,8 +437,8 @@
 {"id":"task_target:172658123385865728","en":"Craft an Exchange at the Workbench and place it on the Farm.","ru":"Изготовь Торговую лавку на Верстаке и установи её на ферме."}
 {"id":"task_target:172658127680832000","en":"Sell products 1 time(s).","ru":"Продай товаров 1 раз(-а)."}
 {"id":"task_target:172658127680833024","en":"Sell products 1 time(s).","ru":"Продай товаров 1 раз(-а)."}
-{"id":"task_target:172658131975799296","en":"Complete 1 Order(s) at the Exchange.","ru":"Выполни заказы в Торговой лавке 1 раз."}
-{"id":"task_target:172658131975800320","en":"Complete 1 Order(s) at the Exchange.","ru":"Выполни заказы в Торговой лавке 1 раз."}
+{"id":"task_target:172658131975799296","en":"Complete 1 order on the Order Board","ru":"Выполни 1 заказ на Доске заказов"}
+{"id":"task_target:172658131975800320","en":"Complete 1 order on the Order Board","ru":"Выполни 1 заказ на Доске заказов"}
 {"id":"task_target:173088045317227008","en":"Terara's Invitation","ru":"Приглашение Терары"}
 {"id":"task_target:173088045317228032","en":"Talk","ru":"Говорить"}
 {"id":"task_target:214748798591697408","en":"Go to the Village Chief's house and find the Village Chief.","ru":"Отправляйся к дому старосты и найди старосту."}
@@ -1399,7 +1399,7 @@
 {"id":"task_target:5587752452608","en":"Prepare to set out","ru":"Подготовься к выходу"}
 {"id":"task_target:55881819488768","en":"Go outside and investigate","ru":"Выйди наружу и осмотрись"}
 {"id":"task_target:55881819489792","en":"Purify the Sunya Corruption and open the Treasure Chest","ru":"Очисти скверну Суньи и открой сундук с сокровищами"}
-{"id":"task_target:55886114456064","en":"Purify the areas corrupted by Sunya","ru":"Очисти заражённые Суньей места"}
+{"id":"task_target:55886114456064","en":"Purify the areas eroded by Sunya","ru":"Очисти заражённые Суньей места"}
 {"id":"task_target:55886114457088","en":"Open the Treasure Chest","ru":"Открыть сундук с сокровищами"}
 {"id":"task_target:5592047419904","en":"Head to the Statue of the Great Wolf","ru":"Отправляйся к Статуе Великого волка"}
 {"id":"task_target:5592047420928","en":"Examine the statue","ru":"Осмотреть статую"}
@@ -1529,7 +1529,7 @@
 {"id":"task_target:6558415061504","en":"Gather materials and give them to Luruka","ru":"Собрать материалы и отдать их Луруке"}
 {"id":"task_target:6558415062528","en":"Give","ru":"Отдать"}
 {"id":"task_target:6558415063040","en":"Search for medicinal ingredients, then give the materials you collect to Luruka.\nIn Luruka's hands, these materials will become a potent medicine to wake the militia.","ru":"Найти лекарственные ингредиенты и отдать собранные материалы Луруке.\nВ руках Луруки эти материалы станут сильнодействующим лекарством, способным разбудить ополченцев."}
-{"id":"task_target:6571299963392","en":"Give Martina the medicine","ru":"Дать Мартине лекарство"}
+{"id":"task_target:6571299963392","en":"Give Martina the Wake-Up Medicine","ru":"Дать Мартине Бодрящее снадобье"}
 {"id":"task_target:6571299964416","en":"Administer the medicine","ru":"Дать лекарство"}
 {"id":"task_target:6571299964928","en":"Give Martina the waking draught.\nA complex, potent burst of flavor may be enough to rouse her from her dreams.","ru":"Дать Мартине пробуждающий отвар.\nСложный и резкий вкус, возможно, сумеет вырвать её из сна."}
 {"id":"task_target:6575594930688","en":"Search for the suspicious campsite","ru":"Найти подозрительный лагерь"}
@@ -1706,7 +1706,7 @@
 {"id":"task_target:73577084749312","en":"Gather","ru":"Собрать"}
 {"id":"task_target:7361573945856","en":"Give Tinana 3 Stancia","ru":"Передать Тинане станцию: 3 шт."}
 {"id":"task_target:7361573946880","en":"Give the ingredients to Tinana.","ru":"Передать ингредиенты Тинане."}
-{"id":"task_target:7361573947392","en":"Give the ingredients to Tinana.","ru":"Передать ингредиенты Тинане."}
+{"id":"task_target:7361573947392","en":"Give Stancia to Tinana.","ru":"Передать Станцию Тинане."}
 {"id":"task_target:7365868913152","en":"Talk to Kirk","ru":"Поговорить с Кирком"}
 {"id":"task_target:7365868914176","en":"Kirk's Worries","ru":"Заботы Кирка"}
 {"id":"task_target:7370163880448","en":"Gather Frazier materials","ru":"Собрать материалы фрейзера"}
@@ -1875,7 +1875,7 @@
 {"id":"task_target:86758786055800320","en":"Ask about the prize","ru":"Спросить о призе"}
 {"id":"task_target:86758790350766592","en":"Have a Kibo Fight with Xiao Xi","ru":"Провести Бой кибо с Сяо Си"}
 {"id":"task_target:86758790350767616","en":"Kibo Fight","ru":"Бой кибо"}
-{"id":"task_target:86758794645733888","en":"Collect your reward","ru":"Получить награду"}
+{"id":"task_target:86758794645733888","en":"Collect your prize","ru":"Получить приз"}
 {"id":"task_target:86758794645734912","en":"Collect your reward","ru":"Получить награду"}
 {"id":"task_target:86758798940701184","en":"Ask Sophia","ru":"Спросить Софию"}
 {"id":"task_target:86758798940702208","en":"Talk to Sophia","ru":"Поговорить с Софией"}
@@ -1894,7 +1894,7 @@
 {"id":"task_target:86760491157816832","en":"Investigate","ru":"Осмотреть"}
 {"id":"task_target:86760495452783104","en":"Help Polly","ru":"Помогите Полли"}
 {"id":"task_target:86760495452784128","en":"Talk","ru":"Поговорить"}
-{"id":"task_target:86760499747750400","en":"Rescue the trapped Bluda","ru":"Спасите пойманную Блуду"}
+{"id":"task_target:86760499747750400","en":"Rescue Bluda buried under fallen leaves","ru":"Спасите Блуду, засыпанную опавшими листьями"}
 {"id":"task_target:86760499747751424","en":"Blow away the pile of fallen leaves","ru":"Сдуйте кучу опавших листьев"}
 {"id":"task_target:86760504042717696","en":"Search Cascade Lake","ru":"Обыщите Озеро Каскад"}
 {"id":"task_target:86760504042718720","en":"Investigate","ru":"Осмотреть"}
@@ -2024,7 +2024,7 @@
 {"id":"task_target:87191293557474816","en":"Defeat Bomark","ru":"Одолейте Бомарка"}
 {"id":"task_target:87191297852441088","en":"Examine the stones on the shore","ru":"Осмотрите камни на берегу"}
 {"id":"task_target:87191297852442112","en":"Investigate","ru":"Исследовать"}
-{"id":"task_target:87191302147408384","en":"Give softwood to Rubina","ru":"Отдайте Руби мягкую древесину"}
+{"id":"task_target:87191302147408384","en":"Give softwood to Ruby","ru":"Отдайте Руби мягкую древесину"}
 {"id":"task_target:87191302147409408","en":"Give","ru":"Отдать"}
 {"id":"task_target:87191302147409920","en":"Deliver 10 Softwood","ru":"Передайте мягкую древесину: 10 шт."}
 {"id":"task_target:87191306442375680","en":"Install Rubina's device","ru":"Установите устройство Руби"}
@@ -2127,9 +2127,9 @@
 {"id":"task_target:88476785859102208","en":"Fight","ru":"Бой"}
 {"id":"task_target:88476790154068480","en":"Pick up the Boaraga's tusk.","ru":"Подбери клык Боараги."}
 {"id":"task_target:88476790154069504","en":"Pick up the Boaraga's tusk.","ru":"Подбери клык Боараги."}
-{"id":"task_target:88476794449035776","en":"Give the boar's tusk to Wolff.","ru":"Отдай клык кабана Вольфу."}
+{"id":"task_target:88476794449035776","en":"Give the Boaraga to Wolff.","ru":"Отдай Боарагу Вольфу."}
 {"id":"task_target:88476794449036800","en":"Give","ru":"Отдать"}
-{"id":"task_target:88476794449037312","en":"Give the boar's tusk to Wolff.","ru":"Отдай клык кабана Вольфу."}
+{"id":"task_target:88476794449037312","en":"Give the Boaraga to Wolff.","ru":"Отдай Боарагу Вольфу."}
 {"id":"task_target:88476798744003072","en":"Break through the fence.","ru":"Прорвись сквозь ограду."}
 {"id":"task_target:88476798744004096","en":"Break through the fence.","ru":"Прорвись сквозь ограду."}
 {"id":"task_target:88476803038970368","en":"Enter the orchard.","ru":"Войди во фруктовый сад."}
@@ -2246,8 +2246,8 @@
 {"id":"task_target:88491393042875904","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:88491397337842176","en":"Chase the Downybrinny.","ru":"Погнаться за Пухобринни."}
 {"id":"task_target:88491397337843200","en":"Follow","ru":"Преследовать"}
-{"id":"task_target:88491401632809472","en":"Open the Crown of the Bushes.","ru":"Открыть Корону зарослей."}
-{"id":"task_target:88491401632810496","en":"Open the Crown of the Bushes.","ru":"Открыть Корону зарослей"}
+{"id":"task_target:88491401632809472","en":"Open the Crown of Blossoms.","ru":"Открыть Венец цветения."}
+{"id":"task_target:88491401632810496","en":"Open the Crown of Blossoms.","ru":"Открыть Венец цветения"}
 {"id":"task_target:88491788179866112","en":"Talk to Tiffy.","ru":"Поговорить с Тиффи."}
 {"id":"task_target:88491788179867136","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:88491792474833408","en":"Talk to Tiffy and Nono.","ru":"Поговорить с Тиффи и Ноно."}
@@ -2332,7 +2332,7 @@
 {"id":"task_target:9028021257728","en":"Head to defend the Sacred Tree Wedge","ru":"Отправляйтесь защищать Клин священного древа"}
 {"id":"task_target:9032316224000","en":"Head to the Karmana base","ru":"Отправляйтесь на базу Карманы"}
 {"id":"task_target:9036611191296","en":"Defend the Sacred Tree Wedge at the Karmana base","ru":"Защитите Клин священного древа на базе Карманы"}
-{"id":"task_target:9040906158592","en":"Head to the divine hawk base","ru":"Отправляйтесь на базу Божественного ястреба"}
+{"id":"task_target:9040906158592","en":"Head to the Hawk God base","ru":"Отправляйтесь на базу Ястребиного бога"}
 {"id":"task_target:9045201125888","en":"Defend the Sacred Tree Wedge at the Hawk God base","ru":"Защитите Клин священного древа на базе Ястребиного бога"}
 {"id":"task_target:9049496093184","en":"Ask the Village Chief about the front line","ru":"Расспросите Старосту о положении на передовой"}
 {"id":"task_target:9049496094208","en":"Talk","ru":"Поговорить"}
@@ -2492,10 +2492,10 @@
 {"id":"task_target:92773058825160192","en":"Hand over Duststone","ru":"Отдать Пылекамень"}
 {"id":"task_target:92773058825160704","en":"Give Duststone to Bilibird.","ru":"Отдать Пылекамень Билибёрду."}
 {"id":"task_target:92773063120126464","en":"Collect Softwood","ru":"Собрать Мягкую древесину"}
-{"id":"task_target:92773063120127488","en":"Deliver Softwood","ru":"Сдать Мягкую древесину"}
+{"id":"task_target:92773063120127488","en":"Hand over Softwood","ru":"Передать Мягкую древесину"}
 {"id":"task_target:92773063120128000","en":"Hand Softwood to Bilibird.","ru":"Отдать Мягкую древесину Билибёрду."}
 {"id":"task_target:92773067415093760","en":"Collect Fiber","ru":"Собрать Волокно"}
-{"id":"task_target:92773067415094784","en":"Deliver Fiber","ru":"Сдать Волокно"}
+{"id":"task_target:92773067415094784","en":"Hand over Fiber","ru":"Передать Волокно"}
 {"id":"task_target:92773067415095296","en":"Hand Fiber to Bilibird.","ru":"Отдать Волокно Билибёрду."}
 {"id":"task_target:92773071710061056","en":"Talk to Bilibird","ru":"Поговорить с Билибёрдом"}
 {"id":"task_target:92773071710062080","en":"Talk","ru":"Поговорить"}
@@ -2773,8 +2773,8 @@
 {"id":"task_target:92776061007299072","en":"Give the gathered materials to Tasha","ru":"Отдать собранные материалы Таше"}
 {"id":"task_target:92776061007300096","en":"Give","ru":"Отдать"}
 {"id":"task_target:92776061007300608","en":"Give the materials to Tasha.","ru":"Отдать материалы Таше."}
-{"id":"task_target:92776069597233664","en":"Head to the Crown of the Bushes","ru":"Отправиться к Короне зарослей"}
-{"id":"task_target:92776069597234688","en":"Head to the Crown of the Bushes","ru":"Отправиться к Короне зарослей"}
+{"id":"task_target:92776069597233664","en":"Head to the Crown of Blossoms","ru":"Отправиться к Венцу цветения"}
+{"id":"task_target:92776069597234688","en":"Head to the Crown of Blossoms","ru":"Отправиться к Венцу цветения"}
 {"id":"task_target:92776073892200960","en":"Give the materials to Tasha","ru":"Отдать материалы Таше"}
 {"id":"task_target:92776073892201984","en":"Give","ru":"Отдать"}
 {"id":"task_target:92776073892202496","en":"Give the Kaduria to Tasha.","ru":"Отдать кадурию Таше."}
@@ -2789,10 +2789,10 @@
 {"id":"task_target:92779028829701632","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:92779033124667904","en":"Obtain Wimbles","ru":"Получить вимбели"}
 {"id":"task_target:92779033124668928","en":"Gather","ru":"Собрать"}
-{"id":"task_target:92779037419635200","en":"Villagers gathering Hallucion Dust","ru":"Сельчане, собирающие Пыльцу галлюциона"}
+{"id":"task_target:92779037419635200","en":"Go see the villagers gathering Hallucion Powder","ru":"Сходить посмотреть на сельчан, собирающих Порошок галлюциона"}
 {"id":"task_target:92779037419636224","en":"Talk","ru":"Поговорить"}
-{"id":"task_target:927790417146020352","en":"Villagers gathering Pure Crystal","ru":"Сельчане, собирающие Чистый кристалл"}
-{"id":"task_target:92779041714602496","en":"Villagers gathering Pure Water","ru":"Сельчане, собирающие чистую воду"}
+{"id":"task_target:927790417146020352","en":"Check on the villagers gathering Pure Crystal","ru":"Проведать сельчан, собирающих Чистый кристалл"}
+{"id":"task_target:92779041714602496","en":"Go see the villagers gathering Pure Water","ru":"Сходить посмотреть на сельчан, собирающих чистую воду"}
 {"id":"task_target:92779046009569792","en":"Check on the villager gathering soil","ru":"Проверить сельчанина, собирающего землю"}
 {"id":"task_target:92779458326430208","en":"Head to the Garden of Evergreen","ru":"Отправиться в Вечнозелёный сад"}
 {"id":"task_target:92779462621397504","en":"Follow the Faundi","ru":"Идти за фаунди"}
@@ -2803,8 +2803,8 @@
 {"id":"task_target:92779484096233984","en":"Proceed ahead","ru":"Идти вперёд"}
 {"id":"task_target:92779488391201280","en":"Talk to Metsa","ru":"Поговорить с Метсой"}
 {"id":"task_target:92779492686168576","en":"Pour in the materials","ru":"Влить материалы"}
-{"id":"task_target:92779492686169600","en":"Water","ru":"Полить"}
-{"id":"task_target:92779492686170112","en":"Pour 1 Wimbles, 1 Hallucion Dust, 1 Pure Crystal, 1 Pure Water, and 1 Crimson Heat Soil onto the Yggdrasil sapling","ru":"Влить в саженец Иггдрасиля вимбели (1 шт.), Пыльцу галлюциона (1 шт.), Чистый кристалл (1 шт.), Чистую воду (1 шт.) и красную жгучую землю (1 шт.)"}
+{"id":"task_target:92779492686169600","en":"Pour materials","ru":"Влить материалы"}
+{"id":"task_target:92779492686170112","en":"Pour 1 Wimble, 1 Hallucion Powder, 1 Pure Crystal, 1 Pure Water, and 1 Crimson Heat Soil onto the Yggdrasil sapling","ru":"Влить в саженец Иггдрасиля вимбель (1 шт.), Порошок галлюциона (1 шт.), Чистый кристалл (1 шт.), Чистую воду (1 шт.) и красную жгучую землю (1 шт.)"}
 {"id":"task_target:92779496981135872","en":"Talk to Metsa","ru":"Поговорить с Метсой"}
 {"id":"task_target:92779496981136896","en":"Talk","ru":"Поговорить"}
 {"id":"task_target:936308157632741888","en":"Head to the village gate","ru":"Направиться к воротам деревни"}
@@ -2917,7 +2917,7 @@
 {"id":"task_target:99214199804134912","en":"Interact with Nyibat","ru":"Пообщаться с Ниибатом"}
 {"id":"task_target:99214204099101184","en":"Defeat the Harshee","ru":"Победить Харши"}
 {"id":"task_target:99214208394068480","en":"Ask the Village Chief about the current state of Mistveil Forest","ru":"Расспросить старосту о том, что происходит в Туманном лесу"}
-{"id":"task_target:99214208394069504","en":"Check on the state of Mistveil Forest","ru":"Проверить, что творится в Туманном лесу"}
+{"id":"task_target:99214208394069504","en":"Discuss the state of Mistveil Forest","ru":"Обсудить, что творится в Туманном лесу"}
 {"id":"task_target:99214607826027008","en":"Talk to Jils","ru":"Поговорить с Джилсом"}
 {"id":"task_target:99214607826028032","en":"Jils","ru":"Джилс"}
 {"id":"task_target:99214612120994304","en":"Head to the giant wheat","ru":"Направиться к гигантской пшенице"}

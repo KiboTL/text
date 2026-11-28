@@ -139,7 +139,7 @@
 {"id":"task_item:1932889902023424","en":"Made in the traditional style of Charlulu Village, it carries Zora's feelings for her friend.","ru":"Изготовлен в традиционном стиле деревни Шарлулу и хранит чувства Зоры к её другу."}
 {"id":"task_item:1932889902024448","en":"Quest Item","ru":"Предмет задания"}
 {"id":"task_item:1932894196990208","en":"Cliffside Apple","ru":"Прибрежное яблоко"}
-{"id":"task_item:1932894196990464","en":"A red fruit that grows on sheer cliffs.","ru":"Красный плод, растущий на отвесных скалах."}
+{"id":"task_item:1932894196990464","en":"An apple that grows on sheer cliffs.","ru":"Яблоко, растущее на отвесных скалах."}
 {"id":"task_item:1932894196990720","en":"It looks much like an ordinary apple, but because it has been exposed to the strong winds that sweep through the cliffs for many years, its skin is especially tough and its flesh firmer than a normal apple's.","ru":"С виду он очень похож на обычное яблоко, но из-за многолетнего воздействия сильных ветров, проносящихся над скалами, его кожица особенно прочная, а мякоть плотнее, чем у обычного яблока."}
 {"id":"task_item:1932894196991744","en":"Quest Item","ru":"Предмет задания"}
 {"id":"task_item:1932898491957504","en":"Sweet Rich Peach","ru":"Сладкий сочный персик"}
@@ -917,11 +917,11 @@
 {"id":"task_item:1933727420645888","en":"A business permit officially certified by the city-state of Fleece.","ru":"Торговое разрешение, официально заверенное городом-государством Флис."}
 {"id":"task_item:1933727420646144","en":"A business license officially certified by the city-state of Fleece. Holding this license allows you to conduct commercial activities in Fleece.","ru":"Торговая лицензия, официально заверенная городом-государством Флис. Обладая этой лицензией, можно вести коммерческую деятельность во Флисе."}
 {"id":"task_item:1933727420647168","en":"Quest Item","ru":"Предмет задания"}
-{"id":"task_item:1933731715612928","en":"Jade Bracelet - Half","ru":"Нефритовый браслет — половина"}
+{"id":"task_item:1933731715612928","en":"Half Jade Bracelet","ru":"Нефритовый браслет — половина"}
 {"id":"task_item:1933731715613184","en":"One half of a jade bracelet found deep within Lampblack Mine.","ru":"Половинка нефритового браслета, найденная в глубине Рудника «Лампичная сажа»."}
-{"id":"task_item:1933731715613440","en":"A jade bracelet discovered deep within Lampblack Mine. It is already broken, with only half remaining, and the whereabouts of the other half are unknown.","ru":"Нефритовый браслет, обнаруженный в глубине Рудника «Лампичная сажа». Он уже повреждён: осталась лишь половина, а где другая — неизвестно."}
+{"id":"task_item:1933731715613440","en":"A jade bracelet discovered deep within Lampblack Mine. It is broken, with only half remaining. The whereabouts of the other half are unknown.","ru":"Нефритовый браслет, обнаруженный в глубине Рудника «Лампичная сажа». Он повреждён: осталась лишь половина. Где другая — неизвестно."}
 {"id":"task_item:1933731715614464","en":"Quest Item","ru":"Предмет задания"}
-{"id":"task_item:1933736010580224","en":"Jade Bracelet - Complete","ru":"Нефритовый браслет — целый"}
+{"id":"task_item:1933736010580224","en":"Restored Jade Bracelet","ru":"Восстановленный нефритовый браслет"}
 {"id":"task_item:1933736010580480","en":"The bracelet General Lan left to Lan Xiangzi.","ru":"Браслет, который генерал Лань оставил Лань Сянцзы."}
 {"id":"task_item:1933736010580736","en":"The bracelet General Lan left to Lan Xiangzi. Even though it has now been restored, the days gone by will never return.","ru":"Браслет, который генерал Лань оставил Лань Сянцзы. Пусть теперь он восстановлен, минувшие дни уже не вернуть."}
 {"id":"task_item:1933736010581760","en":"Quest Item","ru":"Предмет задания"}
@@ -1134,7 +1134,7 @@
 {"id":"task_item:1934006593520128","en":"Give it to Lilika to use for Farm Expansion.","ru":"Отдайте Лилике, чтобы использовать для расширения фермы."}
 {"id":"task_item:1934006593520384","en":"Following an investigation, the Starborn's Farm Expansion is approved!","ru":"По итогам проверки расширение фермы Звездорождённого одобрено!"}
 {"id":"task_item:1934006593521408","en":"Quest Item","ru":"Предмет задания"}
-{"id":"task_item:1934010888487168","en":"\"Blade and Claw, Decisive Battle at the Peak of Cloudpray Mountains!\"","ru":"«Клинок и клык — решающая битва на вершине Гор Молитвенных облаков!»"}
+{"id":"task_item:1934010888487168","en":"\"Blade and Claw — Decisive Battle at the Peak of Cloudpray Mountains!\"","ru":"«Клинок и клык — решающая битва на вершине Гор Молитвенных облаков!»"}
 {"id":"task_item:1934010888487424","en":"A book.","ru":"Книга."}
 {"id":"task_item:1934010888487680","en":"The finest sword of Qiyun clashes mightily with the finest demon of Qiyun!","ru":"Лучший меч Циюня сходится в яростной схватке с сильнейшим демоном Циюня!"}
 {"id":"task_item:1934010888488704","en":"Quest Item","ru":"Предмет задания"}

@@ -144,7 +144,7 @@
 {"id":"game_events_cul_eventoption:859427250899200","en":"Examine the stone and search for clues.","ru":"Осмотреть камень и поискать улики."}
 {"id":"game_events_cul_eventoption:859431545866240","en":"Courage Check","ru":"Проверка смелости"}
 {"id":"game_events_cul_eventoption:859431545866496","en":"Even with all these stones, there's nothing to fear. Just search them one by one!","ru":"Даже если камней много, бояться нечего. Просто ищи их по одному!"}
-{"id":"game_events_cul_eventoption:859435840833536","en":"Trial of Courage-<color=#ac4b5b>High</color>","ru":"Испытание смелости-<color=#ac4b5b>Высокое</color>"}
+{"id":"game_events_cul_eventoption:859435840833536","en":"Courage Check-<color=#ac4b5b>High</color>","ru":"Проверка храбрости-<color=#ac4b5b>Высокая</color>"}
 {"id":"game_events_cul_eventoption:859435840833792","en":"Even a sturdy gate holds no fear. With these fists...","ru":"Даже крепкие врата не внушают страха. Этими кулаками..."}
 {"id":"game_events_cul_eventoption:859852452661248","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:859856747628544","en":"All fear is born from a lack of strength.","ru":"Весь страх рождается от недостатка силы."}
@@ -159,14 +159,14 @@
 {"id":"game_events_cul_eventoption:860715741087744","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:860715741088000","en":"Observe the daily life of 2 Screine.","ru":"Наблюдать за повседневной жизнью скрэйнов: 2."}
 {"id":"game_events_cul_eventoption:860720036055040","en":"Take 2 of them to Anais.","ru":"Отвести 2 к Анаис."}
-{"id":"game_events_cul_eventoption:860724331022336","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:860724331022336","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:860724331022592","en":"Check whether 2 of them long for something.","ru":"Проверить, не жаждет ли чего-нибудь 2 из них."}
 {"id":"game_events_cul_eventoption:861140942850048","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:861145237817344","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:861145237817600","en":"Analyze the clues and trace the key's whereabouts.","ru":"Проанализировать улики и выяснить, где находится ключ."}
 {"id":"game_events_cul_eventoption:861149532784640","en":"Courage Check","ru":"Проверка смелости"}
 {"id":"game_events_cul_eventoption:861149532784896","en":"Smash the chains with your fists!","ru":"Разбить цепи кулаками!"}
-{"id":"game_events_cul_eventoption:861153827751936","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:861153827751936","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:861153827752192","en":"The core of the problem isn't the chains, but the bond between the two.","ru":"Суть проблемы не в цепях, а в узах между ними."}
 {"id":"game_events_cul_eventoption:861570439579648","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:861574734546944","en":"Exercise and diet together with Clodime.","ru":"Заниматься спортом и худеть вместе с Клодиме."}
@@ -174,7 +174,7 @@
 {"id":"game_events_cul_eventoption:861999936309248","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:862004231276544","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:862004231276800","en":"Investigate the whereabouts of the crispy cake.","ru":"Расследовать, куда пропал хрустящий пирог."}
-{"id":"game_events_cul_eventoption:862008526243840","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:862008526243840","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:862008526244096","en":"Use the power of bonds to find the crispy cake.","ru":"Использовать силу уз, чтобы найти хрустящий пирог."}
 {"id":"game_events_cul_eventoption:862429433038848","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:862433728006144","en":"Choose the kabedon plan.","ru":"Выбрать план с кабедоном."}
@@ -190,10 +190,10 @@
 {"id":"game_events_cul_eventoption:863288426498048","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:863292721465344","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:863292721465600","en":"Help Joyce sort out the sequence of events.","ru":"Помочь Джойс разобраться в череде событий."}
-{"id":"game_events_cul_eventoption:863297016432640","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:863297016432640","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:863297016432896","en":"Check the bond between Joyce and her pen pal.","ru":"Проверить узы между Джойс и её подругой по переписке."}
 {"id":"game_events_cul_eventoption:863717923227648","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:863722218194944","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:863722218194944","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:863722218195200","en":"Use the power of bonds to find Liz's house.","ru":"Использовать силу уз, чтобы найти дом Лиз."}
 {"id":"game_events_cul_eventoption:863726513162240","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:863726513162496","en":"Analyze whether Liz's parents previously mentioned the features of the new home.","ru":"Проанализировать, упоминали ли родители Лиз раньше приметы нового дома."}
@@ -211,26 +211,26 @@
 {"id":"game_events_cul_eventoption:865015003351040","en":"Solve the problem by forceful means.","ru":"Решить проблему силой."}
 {"id":"game_events_cul_eventoption:865019298318336","en":"Solve the problem the way a sensible person would.","ru":"Решить проблему по-житейски разумно."}
 {"id":"game_events_cul_eventoption:865435910146048","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:865440205113344","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:865440205113344","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:865440205113600","en":"Check the bond between Anne and her friend.","ru":"Проверить узы между Анне и её подругой."}
 {"id":"game_events_cul_eventoption:865444500080640","en":"I really should focus on studying first.","ru":"Всё-таки сначала надо как следует учиться."}
-{"id":"game_events_cul_eventoption:865448795047936","en":"Try a solo debut and aim to be an idol.","ru":"Попробовать сольный дебют и стать идолом."}
+{"id":"game_events_cul_eventoption:865448795047936","en":"Take on a solo adventure and aim to become a lone hero!","ru":"Отправься в одиночное приключение и стань одиноким героем!"}
 {"id":"game_events_cul_eventoption:865865406875648","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:865869701842944","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:865869701843200","en":"Focus and observe the portrait.","ru":"Сосредоточиться и рассмотреть портрет."}
-{"id":"game_events_cul_eventoption:865873996810240","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:865873996810240","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:865873996810496","en":"Check the bond flowing between Katarina and her husband.","ru":"Проверить узы между Катариной и её мужем."}
 {"id":"game_events_cul_eventoption:865878291777536","en":"Courage Check","ru":"Проверка смелости"}
 {"id":"game_events_cul_eventoption:865878291777792","en":"Go with Katarina to her husband and confirm the truth.","ru":"Вместе с Катариной пойти к её мужу и выяснить правду."}
 {"id":"game_events_cul_eventoption:866294903605248","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:866299198572544","en":"If a fox spirit can become human... maybe Mii could too?","ru":"Если лиса-оборотень может стать человеком... может, и Мии тоже сможет?"}
-{"id":"game_events_cul_eventoption:866303493539840","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:866303493539840","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:866303493540096","en":"Check the bond between Claire and Starmy.","ru":"Проверить узы между Клэр и Старми."}
 {"id":"game_events_cul_eventoption:866307788507136","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:866307788507392","en":"Find the blue-haired girl and observe her closely.","ru":"Найти синеволосую девушку и внимательно за ней понаблюдать."}
 {"id":"game_events_cul_eventoption:866724400334848","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:866728695302144","en":"Hand it over to Shiroro.","ru":"Отдать Сироро."}
-{"id":"game_events_cul_eventoption:866732990269440","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:866732990269440","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:866732990269696","en":"Try to see if you can find the owner of the 10 Yuni.","ru":"Попробовать найти владельца 10 юни."}
 {"id":"game_events_cul_eventoption:867153897064448","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:867158192031744","en":"Go left.","ru":"Налево."}
@@ -241,7 +241,7 @@
 {"id":"game_events_cul_eventoption:867596278695936","en":"Use Yuni to buy wool.","ru":"Купить шерсть за юни."}
 {"id":"game_events_cul_eventoption:868012890523648","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:868017185490944","en":"Help the Karabekko blend in with the Grainy herd.","ru":"Помочь карабекко затесаться в стадо грейни."}
-{"id":"game_events_cul_eventoption:868021480458240","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:868021480458240","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:868021480458496","en":"Find the Karabekko herd.","ru":"Найти стадо карабекко."}
 {"id":"game_events_cul_eventoption:868025775425536","en":"Remove the Karabekko from the team first.","ru":"Сначала убрать карабекко из команды."}
 {"id":"game_events_cul_eventoption:868442387253248","en":"Join the event","ru":"Принять участие в мероприятии"}
@@ -250,15 +250,15 @@
 {"id":"game_events_cul_eventoption:868455272155136","en":"Who cares about trials? Is there a contraption that can make me lose weight quicker?","ru":"Какое мне дело до испытаний? Нет ли механизма, чтобы побыстрее сбросить вес?"}
 {"id":"game_events_cul_eventoption:868871883982848","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:868876178950144","en":"Persuade Otamit to pay attention to hygiene.","ru":"Уговорить Отамита следить за гигиеной."}
-{"id":"game_events_cul_eventoption:868880473917440","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:868880473917440","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:868880473917696","en":"Look around for farmland suitable for placing a Guardian.","ru":"Поискать землю, подходящую для размещения Защитника."}
 {"id":"game_events_cul_eventoption:868884768884736","en":"Give it a fragrant decoration.","ru":"Надеть на него ароматное украшение."}
 {"id":"game_events_cul_eventoption:869301380712448","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:869305675679744","en":"Tell her, trapped by the scars of love, to move past the past!","ru":"Наставить её, застрявшую в шрамах любви, оставить прошлое позади!"}
-{"id":"game_events_cul_eventoption:869309970647040","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:869309970647040","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:869309970647296","en":"Let me see where her \"bond\" lies!","ru":"Дай-ка я посмотрю, где лежат её «узы»!"}
 {"id":"game_events_cul_eventoption:869730877442048","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:869735172409344","en":"Encourage her to quit her job and rest for a while.","ru":"Посоветовать ей уволиться и немного отдохнуть."}
+{"id":"game_events_cul_eventoption:869735172409344","en":"Suggest taking a break from work and resting for a while.","ru":"Посоветовать сделать перерыв в работе и немного отдохнуть."}
 {"id":"game_events_cul_eventoption:869739467376640","en":"Negotiate with the ranch manager.","ru":"Договориться с управляющим загоном."}
 {"id":"game_events_cul_eventoption:869743762343936","en":"Bondweaving Trial-<color=#ac4b5b>Extreme</color>","ru":"Испытание Плетения уз-<color=#ac4b5b>Крайне сложно</color>"}
 {"id":"game_events_cul_eventoption:869743762344192","en":"Try to bondweave her with a \"day off.\"","ru":"Попробовать сплести её узы с «выходным»."}
@@ -301,20 +301,20 @@
 {"id":"game_events_cul_eventoption:873600642975744","en":"Act out a scene from the book with the Starborn.","ru":"Разыграть с Звездорождённым сцену из книги."}
 {"id":"game_events_cul_eventoption:873604937943040","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:873604937943296","en":"Get to know each patient's needs.","ru":"Узнать потребности каждого пациента."}
-{"id":"game_events_cul_eventoption:873609232910336","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:873609232910336","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:873609232910592","en":"Contact the Colorful Parade Troupe and ask if they can perform at the Sanatorium.","ru":"Связаться с Красочной парадной труппой и спросить, могут ли они выступить в Санатории."}
 {"id":"game_events_cul_eventoption:874025844738048","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:874030139705344","en":"Ask if buying in bulk gets a discount.","ru":"Спросить, есть ли скидка при оптовой покупке."}
 {"id":"game_events_cul_eventoption:874034434672640","en":"Ask if solving the shopkeeper's problem would earn a discount.","ru":"Спросить, дадут ли скидку, если помочь хозяину лавки с его проблемой."}
 {"id":"game_events_cul_eventoption:874455341467648","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:874459636434944","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:874459636434944","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:874459636435200","en":"Use your bonds to find the location of the ancestral grave.","ru":"С помощью уз найти место родовой усыпальницы."}
 {"id":"game_events_cul_eventoption:874463931402240","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:874463931402496","en":"Use the letter from your ancestors to deduce the location of the ancestral grave.","ru":"По письму от предков вычислить место родовой усыпальницы."}
 {"id":"game_events_cul_eventoption:874884838197248","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:874889133164544","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:874889133164800","en":"Investigate the client's true purpose.","ru":"Выяснить истинную цель заказчика."}
-{"id":"game_events_cul_eventoption:874893428131840","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:874893428131840","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:874893428132096","en":"Calm the client down and get them to tell the whole story.","ru":"Успокоить заказчика и выведать, чем всё закончилось."}
 {"id":"game_events_cul_eventoption:874897723099136","en":"Take the money to the mine and find out who's supposed to receive it.","ru":"Отнести деньги в шахту и выяснить, кому они предназначены."}
 {"id":"game_events_cul_eventoption:875314334926848","en":"Join the event","ru":"Принять участие в мероприятии"}
@@ -330,18 +330,18 @@
 {"id":"game_events_cul_eventoption:876181918320640","en":"Head down to the lake and catch some fish!","ru":"Спуститься к озеру и наловить рыбы!"}
 {"id":"game_events_cul_eventoption:876186213287936","en":"Go dig for bamboo shoots in the mountains!","ru":"Отправиться в горы за бамбуковыми побегами!"}
 {"id":"game_events_cul_eventoption:876602825115648","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:876607120082944","en":"Courage Trial - Low","ru":"Испытание смелости — низкий"}
+{"id":"game_events_cul_eventoption:876607120082944","en":"Courage Check-Low","ru":"Проверка храбрости-низкая"}
 {"id":"game_events_cul_eventoption:876607120083200","en":"Kibo Fight against a single Kibo.","ru":"Бой кибо против одного кибо."}
-{"id":"game_events_cul_eventoption:876611415050240","en":"Courage Trial - Medium","ru":"Испытание смелости — средний"}
+{"id":"game_events_cul_eventoption:876611415050240","en":"Courage Check-Medium","ru":"Проверка храбрости-средняя"}
 {"id":"game_events_cul_eventoption:876611415050496","en":"Kibo Fight against several kibos.","ru":"Бой кибо против нескольких кибо."}
-{"id":"game_events_cul_eventoption:876615710017536","en":"Trial of Courage-<color=#ac4b5b>High</color>","ru":"Испытание смелости-<color=#ac4b5b>Высокое</color>"}
+{"id":"game_events_cul_eventoption:876615710017536","en":"Courage Check-<color=#ac4b5b>High</color>","ru":"Проверка храбрости-<color=#ac4b5b>Высокая</color>"}
 {"id":"game_events_cul_eventoption:876615710017792","en":"Kibo Fight against lots of kibos!","ru":"Бой кибо против целой кучи кибо!"}
 {"id":"game_events_cul_eventoption:877032321845248","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:877036616812544","en":"Try the red mushroom.","ru":"Попробовать красный гриб."}
 {"id":"game_events_cul_eventoption:877040911779840","en":"Try the green mushroom.","ru":"Попробовать зелёный гриб."}
 {"id":"game_events_cul_eventoption:877045206747136","en":"Courage Check","ru":"Проверка смелости"}
 {"id":"game_events_cul_eventoption:877045206747392","en":"Throw them all into the pot!","ru":"Бросить всё в котёл!"}
-{"id":"game_events_cul_eventoption:877049501714432","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:877049501714432","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:877049501714688","en":"Ask someone knowledgeable.","ru":"Спросить у знающего человека."}
 {"id":"game_events_cul_eventoption:877053796681728","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:877053796681984","en":"Check the mushrooms' color and smell.","ru":"Проверить цвет и запах грибов."}
@@ -357,7 +357,7 @@
 {"id":"game_events_cul_eventoption:878329401968640","en":"Listen to Xiaoyu's advice.","ru":"Послушать совет Сяоюй."}
 {"id":"game_events_cul_eventoption:878333696935936","en":"Listen to Komugi's advice.","ru":"Послушать совет Комуги."}
 {"id":"game_events_cul_eventoption:878750308763648","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:878754603730944","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:878754603730944","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:878754603731200","en":"Investigate what kind of \"bond\" they share.","ru":"Выяснить, какие узы их связывают."}
 {"id":"game_events_cul_eventoption:878758898698240","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:878758898698496","en":"Analyze the tangle of their feelings.","ru":"Разобрать клубок их чувств."}
@@ -373,7 +373,7 @@
 {"id":"game_events_cul_eventoption:880038798952448","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:880043093919744","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:880043093920000","en":"Read both works carefully and look for clues.","ru":"Внимательно прочитать оба произведения и поискать зацепки."}
-{"id":"game_events_cul_eventoption:880047388887040","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:880047388887040","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:880047388887296","en":"Use the power of bonds to unravel the feud between the two authors.","ru":"Силой уз распутать вражду двух писателей."}
 {"id":"game_events_cul_eventoption:880051683854336","en":"Get the details from a writer in Fleece.","ru":"Выяснить подробности у писателя из Флиса."}
 {"id":"game_events_cul_eventoption:880468295682048","en":"Join the event","ru":"Принять участие в мероприятии"}
@@ -381,7 +381,7 @@
 {"id":"game_events_cul_eventoption:880472590649600","en":"Investigate whether the kind soul left any clues at the scene.","ru":"Проверить, не оставил ли добросердечный человек зацепок на месте."}
 {"id":"game_events_cul_eventoption:880476885616640","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:880476885616896","en":"Analyze the recipe left by the kind soul.","ru":"Проанализировать рецепт, оставленный добросердечным человеком."}
-{"id":"game_events_cul_eventoption:880481180583936","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:880481180583936","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:880481180584192","en":"Use bonds to find where the kind soul went.","ru":"С помощью уз выяснить, куда направился добросердечный человек."}
 {"id":"game_events_cul_eventoption:880897792411648","en":"Join the event","ru":"Принять участие в мероприятии"}
 {"id":"game_events_cul_eventoption:880902087378944","en":"Insight Check","ru":"Проверка проницательности"}
@@ -425,11 +425,11 @@
 {"id":"game_events_cul_eventoption:883912859453440","en":"Learn a wild punch!","ru":"Освоить дикий удар!"}
 {"id":"game_events_cul_eventoption:883917154420736","en":"Learn how to bristle your fur wildly!","ru":"Освоить дикое ощетинивание шерсти!"}
 {"id":"game_events_cul_eventoption:884333766248448","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:884338061215744","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:884338061215744","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:884338061216000","en":"Use the power of bonds to find the one connected to Jerry.","ru":"Силой уз найти того, кто связан с Джерри."}
 {"id":"game_events_cul_eventoption:884342356183040","en":"Insight Check","ru":"Проверка проницательности"}
 {"id":"game_events_cul_eventoption:884342356183296","en":"Analyze the traces and track the other person down.","ru":"Проанализировать следы и выследить противника."}
 {"id":"game_events_cul_eventoption:884763262978048","en":"Join the event","ru":"Принять участие в мероприятии"}
-{"id":"game_events_cul_eventoption:884767557945344","en":"Bondweaving Trial","ru":"Испытание Плетения уз"}
+{"id":"game_events_cul_eventoption:884767557945344","en":"Bonding Check","ru":"Проверка установления связи"}
 {"id":"game_events_cul_eventoption:884767557945600","en":"Trace the bond dwelling within the girl.","ru":"Проследить узы, живущие в девушке."}
 {"id":"game_events_cul_eventoption:884771852912640","en":"Ask the girl for details.","ru":"Расспросить девушку о подробностях."}

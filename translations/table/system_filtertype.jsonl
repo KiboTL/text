@@ -1,7 +1,7 @@
 {"id":"system_filtertype:103079215360","en":"Ownership","ru":"Наличие"}
 {"id":"system_filtertype:107374182656","en":"Dire Beast","ru":"Лютый зверь"}
 {"id":"system_filtertype:111669149952","en":"Field Boss","ru":"Босс поля"}
-{"id":"system_filtertype:115964117248","en":"Sunya-Infested","ru":"Заражён Суньей"}
+{"id":"system_filtertype:115964117248","en":"Sunya Corruption Type","ru":"Тип порчи Суньи"}
 {"id":"system_filtertype:120259084544","en":"Hostile Faction","ru":"Враждебная фракция"}
 {"id":"system_filtertype:124554051840","en":"Type","ru":"Тип"}
 {"id":"system_filtertype:128849019136","en":"Profession","ru":"Профессия"}
@@ -23,7 +23,7 @@
 {"id":"system_filtertype:51539607808","en":"Movement","ru":"Способ передвижения"}
 {"id":"system_filtertype:55834575104","en":"Kibo Rating","ru":"Оценка кибо"}
 {"id":"system_filtertype:60129542400","en":"Kibo Display","ru":"Отображение кибо"}
-{"id":"system_filtertype:64424509696","en":"Shiny Kibo","ru":"Сияющие кибо"}
+{"id":"system_filtertype:64424509696","en":"Shiny Kibo","ru":"Сияющий кибо"}
 {"id":"system_filtertype:68719476992","en":"Lock Status","ru":"Статус блокировки"}
 {"id":"system_filtertype:73014444288","en":"Gear Rarity","ru":"Редкость снаряжения"}
 {"id":"system_filtertype:77309411584","en":"Main Attribute","ru":"Основной атрибут"}

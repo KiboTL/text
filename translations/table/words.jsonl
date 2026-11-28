@@ -25,10 +25,10 @@
 {"id":"words:-1082463300750008407","en":"Tallying begins in {0} seconds.","ru":"Подсчёт начнётся через {0} сек."}
 {"id":"words:-1092555367861948243","en":"Empty","ru":"Пусто"}
 {"id":"words:-109510698683269329","en":"Unknown error","ru":"Неизвестная ошибка"}
-{"id":"words:-109904405533655114","en":"After the adjustment, map monster levels increase, and rewards for boss challenges and the Kibo levels obtained after Starlink increase significantly.","ru":"После настройки уровень монстров на карте повысится, а награды за испытания боссов и уровни кибо, получаемые после Звёздной связи, значительно возрастут."}
+{"id":"words:-109904405533655114","en":"After the adjustment, monster levels on the map increase. Boss challenge rewards improve significantly, and the Kibo Level gained via Starlink also increases significantly.","ru":"После настройки уровень монстров на карте повысится. Награды за испытание босса значительно улучшатся, а уровень кибо, получаемый через Звёздную связь, также значительно возрастёт."}
 {"id":"words:-1102422263600590224","en":"Recommended Lv. %s","ru":"Рек. ур. %s"}
 {"id":"words:-1105090846620797127","en":"Kibo on Loan","ru":"Арендованный кибо"}
-{"id":"words:-1109310756154410755","en":"After training is complete, you will part ways with your practice partner Kibo.","ru":"После завершения тренировки вы расстанетесь с кибо-напарником по практике."}
+{"id":"words:-1109310756154410755","en":"After training is complete, you will part ways with your assisting Kibo.","ru":"После завершения тренировки вы расстанетесь с кибо-помощником."}
 {"id":"words:-1114963073901279764","en":"Cannot add more — the limit has been reached.","ru":"Нельзя добавить: достигнут предел."}
 {"id":"words:-1115092018778305691","en":"Bond Lv.","ru":"Ур. связи"}
 {"id":"words:-1115908908360787200","en":"Confirm Deletion","ru":"Подтверждение удаления"}
@@ -83,7 +83,7 @@
 {"id":"words:-1282238907503229081","en":"The shop has been updated. Please reselect your items.","ru":"Магазин обновлён. Выберите товары заново."}
 {"id":"words:-1283428724461357780","en":"Unlocked by clearing [{0}] Difficulty {1}","ru":"Открывается после прохождения [{0}] сложности {1}"}
 {"id":"words:-1285908969057362450","en":"Main Genetic Source","ru":"Основной источник генетики"}
-{"id":"words:-1286068215437869923","en":"Kibo Battle Formation","ru":"Состав для боя кибо"}
+{"id":"words:-1286068215437869923","en":"Kibo Fight Formation","ru":"Состав для боя кибо"}
 {"id":"words:-1288246788420945680","en":"This redemption code does not exist.","ru":"Такого кода активации не существует."}
 {"id":"words:-1292199875936335860","en":"No bonds yet.","ru":"Пока нет связей."}
 {"id":"words:-1302464404915138786","en":"All Kibos meeting the conditions have been selected.","ru":"Выбраны все кибо, подходящие под условия."}
@@ -132,7 +132,7 @@
 {"id":"words:-1425693348815461471","en":"Hold:","ru":"Удержание:"}
 {"id":"words:-1426035288129012949","en":"Note names cannot contain spaces.","ru":"В названии заметки нельзя использовать пробелы."}
 {"id":"words:-1432195200601205242","en":"Unlocked after {0}","ru":"Открывается после {0}"}
-{"id":"words:-1442849614003967476","en":"Select a practice partner Kibo","ru":"Выберите кибо-партнёра для тренировки"}
+{"id":"words:-1442849614003967476","en":"Select an assisting Kibo","ru":"Выберите кибо-помощника"}
 {"id":"words:-144433991846906225","en":"Enter the Orchard","ru":"Войти в сад"}
 {"id":"words:-1445700880251437913","en":"Character collision detection is not enabled.","ru":"Обнаружение столкновений персонажей не включено."}
 {"id":"words:-1451620467292067922","en":"Sell Goods","ru":"Продажа товаров"}
@@ -217,7 +217,7 @@
 {"id":"words:-1670440307365090498","en":"Kibo","ru":"кибо"}
 {"id":"words:-1672648700288760816","en":"Accepted quests:","ru":"Принятые задания:"}
 {"id":"words:-167422926052334568","en":"This Stella Card is not supported.","ru":"Эта карта звёзд не поддерживается."}
-{"id":"words:-1674768066218459228","en":"Select a Kibo to practice against.","ru":"Выберите кибо для тренировочного боя."}
+{"id":"words:-1674768066218459228","en":"Please select an assisting Kibo.","ru":"Выберите кибо-помощника."}
 {"id":"words:-1683596791297855137","en":"Player capsule overlaps an obstacle: {0} layer={1}","ru":"Капсула игрока пересекается с препятствием: {0} layer={1}"}
 {"id":"words:-1684132210351310299","en":"Not enough of the required items to submit.","ru":"Недостаточно необходимых предметов для сдачи."}
 {"id":"words:-1684865528249485314","en":"Confirm","ru":"Подтвердить"}
@@ -376,8 +376,8 @@
 {"id":"words:-2167429301144454680","en":"Purchase Failed","ru":"Покупка не удалась"}
 {"id":"words:-2175149202781941287","en":"Wake Up","ru":"Разбудить"}
 {"id":"words:-2175525634475358456","en":"Activate a Starpolar Skill 1 times and gain a Shield. {0}/{1}","ru":"Активируйте звёзднополярный навык 1 раз и получите щит. {0}/{1}"}
-{"id":"words:-2178448268231819900","en":"This Kibo has reached the maximum number of factors. You must replace one with a new factor.","ru":"У этого кибо достигнут предел факторов. Необходимо заменить один из них новым фактором."}
-{"id":"words:-2180540432205890382","en":"<color=#ff7e6d>Expires within 1 hour</color>","ru":"<color=#ff7e6d>Срок истечёт в течение часа</color>"}
+{"id":"words:-2178448268231819900","en":"This Kibo has reached the maximum number of factors. Select one existing factor and replace it with a new factor.","ru":"У этого кибо достигнут предел факторов. Выберите один существующий фактор и замените его новым фактором."}
+{"id":"words:-2180540432205890382","en":"<color=#ff7e6d>Less than 1 hour remaining</color>","ru":"<color=#ff7e6d>Осталось менее часа</color>"}
 {"id":"words:-2186521422603899999","en":"Harvest","ru":"Сбор урожая"}
 {"id":"words:-2191344260194078371","en":"Waiting for opponent confirmation.","ru":"Ожидание подтверждения соперника."}
 {"id":"words:-220163900742003890","en":"Settings","ru":"Настройки"}
@@ -439,7 +439,7 @@
 {"id":"words:-2361091473265007773","en":"Placeholder message: Failed to retrieve character data when transitioning to the gift screen.","ru":"Временное сообщение: не удалось получить данные персонажа при переходе на экран подарков."}
 {"id":"words:-2364888659927832465","en":"View Skill Details","ru":"Подробнее о навыке"}
 {"id":"words:-2365666562663672246","en":"After much effort, Xiaoyu has formed a bond with a new Kibo.<cspace=-0.06em><b><color=#ec8b56>\"{0}\"</color></b></cspace>!","ru":"После долгих стараний Сяоюй заключила узы с новым кибо.<cspace=-0.06em><b><color=#ec8b56>«{0}»</color></b></cspace>!"}
-{"id":"words:-2366628955008348335","en":"After activating a Starecho Skill or Starpolar Skill, immediately press the attack button to directly unleash a 3-stage Charged Attack. {0}/{1}","ru":"После активации навыка звёздного эха или звёзднополярного навыка сразу нажмите кнопку атаки, чтобы напрямую выполнить заряженную атаку ступени 3. {0}/{1}"}
+{"id":"words:-2366628955008348335","en":"After activating a Starecho Skill or Starpolar Skill, immediately hold down the attack button to directly unleash a 3-stage Charged Attack. {0}/{1}","ru":"После активации навыка звёздного эха или звёзднополярного навыка сразу удерживайте кнопку атаки, чтобы напрямую выполнить заряженную атаку ступени 3. {0}/{1}"}
 {"id":"words:-2376134247284869238","en":"Chiyo earned <cspace=-0.06em><b><color=#71a83f>{0}</color></b></cspace> Yuni of \"funds\".","ru":"Тиё заработала <cspace=-0.06em><b><color=#71a83f>{0}</color></b></cspace> юни в качестве «средств»."}
 {"id":"words:-2378918918884695875","en":"RESIST","ru":"RESIST"}
 {"id":"words:-2380294199857250063","en":"Block List","ru":"Список заблокированных"}
@@ -494,7 +494,7 @@
 {"id":"words:-2493217172743579694","en":"{0} seems to want to grow stronger...","ru":"Похоже, {0} хочет стать сильнее…"}
 {"id":"words:-2495957441136173008","en":"Marker","ru":"Маркер"}
 {"id":"words:-2496941859873749528","en":"Siege Weapon","ru":"Осадное орудие"}
-{"id":"words:-2498175932022216393","en":"Kibo that can assist with training","ru":"Кибо, которые могут помочь с тренировкой"}
+{"id":"words:-2498175932022216393","en":"Assisting Kibo available for selection","ru":"Доступные кибо-помощники"}
 {"id":"words:-2500217366377148313","en":"Select items to dismantle","ru":"Выберите предметы для разбора"}
 {"id":"words:-2502487742111141670","en":"Combo","ru":"Комбо"}
 {"id":"words:-2502665495619606071","en":"<color=#ba3f2e>Not enough Satiety</color>","ru":"<color=#ba3f2e>Недостаточно сытости</color>"}
@@ -570,7 +570,7 @@
 {"id":"words:-2733411567498827284","en":"Kibo Ranch","ru":"Ранчо кибо"}
 {"id":"words:-2736816902288290764","en":"-0.25","ru":"-0.25"}
 {"id":"words:-2747338506954281320","en":"Eating…","ru":"Приём пищи…"}
-{"id":"words:-2750769446696730344","en":"Expires in %s","ru":"Истекает через %s"}
+{"id":"words:-2750769446696730344","en":"Remaining: %s","ru":"Осталось: %s"}
 {"id":"words:-2752669391690409376","en":"Redemption Code","ru":"Код активации"}
 {"id":"words:-2757774292599009563","en":"Abandon the current challenge and start a new one?","ru":"Отказаться от текущего испытания и начать новое?"}
 {"id":"words:-2759360921989509560","en":"You have no dishes that can restore a Kibo's Satiety.","ru":"У вас нет блюд, восстанавливающих Сытость кибо."}
@@ -610,7 +610,7 @@
 {"id":"words:-287885905247720894","en":"Voice","ru":"Голос"}
 {"id":"words:-2879018026764531342","en":"Controls","ru":"Управление"}
 {"id":"words:-2883761506011558474","en":"Kibo Growth","ru":"Рост кибо"}
-{"id":"words:-2884472383787889969","en":"You have reached the block limit.","ru":"Достигнут лимит блокировок."}
+{"id":"words:-2884472383787889969","en":"You have reached the mute limit.","ru":"Достигнут лимит заглушённых."}
 {"id":"words:-2891679691921908498","en":"Suffix","ru":"Суффикс"}
 {"id":"words:-2891854028171270589","en":"Downloading resources","ru":"Загрузка ресурсов"}
 {"id":"words:-2895356208185978004","en":"<color=#87725A> waiting</color>","ru":"<color=#87725A> ожидание</color>"}
@@ -814,7 +814,7 @@
 {"id":"words:-3426401969920891061","en":"Cancel","ru":"Отмена"}
 {"id":"words:-3427963789154453322","en":"You cannot change mounts while mounted.","ru":"Нельзя сменить скакуна верхом."}
 {"id":"words:-3430778152038821418","en":"Empty","ru":"Пусто"}
-{"id":"words:-3431090399475199521","en":"After adjustment, the level of map monsters, the Boss challenge reward, and the Kibo Level gained after Starlink will be lower.","ru":"После настройки понизятся уровень монстров на карте, награда за испытание босса и уровень кибо, получаемый после звёздной связи."}
+{"id":"words:-3431090399475199521","en":"After the adjustment, monster levels on the map decrease. Boss challenge rewards are reduced, and the Kibo Level gained via Starlink also decreases.","ru":"После настройки уровень монстров на карте понизится. Награды за испытание босса уменьшатся, а уровень кибо, получаемый через Звёздную связь, также понизится."}
 {"id":"words:-343216918981968749","en":"The level of the field gathering management facility is too low.","ru":"Уровень полевого объекта управления сбором недостаточен."}
 {"id":"words:-3436948799707525947","en":"{0} sec","ru":"{0} с"}
 {"id":"words:-3442616802417450410","en":"Time until reset: {0}","ru":"До сброса: {0}"}
@@ -859,7 +859,7 @@
 {"id":"words:-3538355688364498054","en":"You cannot switch characters while mounted.","ru":"Нельзя сменить персонажа верхом."}
 {"id":"words:-354058665138148820","en":"You don't have {1}, so it can't be opened.","ru":"У вас нет {1}, поэтому открыть нельзя."}
 {"id":"words:-3541571493216666945","en":"4★ Rate {0}","ru":"4★ Шанс {0}"}
-{"id":"words:-3549590883460100165","en":"Mount Challenge: Torrent","ru":"Испытание езды: Поток"}
+{"id":"words:-3549590883460100165","en":"Mount Trial: Torrent","ru":"Испытание скакуна: Поток"}
 {"id":"words:-3552845396384973876","en":"You do not own this type of mount.","ru":"У вас нет скакуна этого типа."}
 {"id":"words:-35574302193703189","en":"Anima Rank Up","ru":"Повышение ранга Анимы"}
 {"id":"words:-3559321465122336626","en":"Hurry and chase after Han Youyou!","ru":"Скорее догоним Хань Юю!"}
@@ -945,7 +945,7 @@
 {"id":"words:-3787252918882719984","en":"Reward Details","ru":"Содержание награды"}
 {"id":"words:-3789807733297115098","en":"Exit story recollection","ru":"Выйти из воспоминания истории"}
 {"id":"words:-3789846205973018911","en":"Enhancement Level","ru":"Уровень усиления"}
-{"id":"words:-3791810335776083901","en":"Leveling up will exceed EXP.","ru":"Повышение уровня превысит опыт."}
+{"id":"words:-3791810335776083901","en":"Leveling up will exceed the EXP limit","ru":"Повышение уровня превысит предел опыта"}
 {"id":"words:-3794250101272485641","en":"Characters cannot be placed while mounted.","ru":"Нельзя размещать персонажей верхом."}
 {"id":"words:-3795503518430413650","en":"Select at least 1 Kibo to go on the journey.","ru":"Выберите хотя бы 1 кибо для путешествия."}
 {"id":"words:-3797623899624098279","en":"Item","ru":"Предмет"}
@@ -1001,7 +1001,7 @@
 {"id":"words:-3929103229819383576","en":"Producible item list","ru":"Список производимых предметов"}
 {"id":"words:-3930377622473460623","en":"TINY HERO","ru":"TINY HERO"}
 {"id":"words:-3930527686136332732","en":"Achievable within %s hours after %s days","ru":"Можно выполнить через %s дн. в течение %s ч"}
-{"id":"words:-393351371943612249","en":"Equipment Rank","ru":"Ранг снаряжения"}
+{"id":"words:-393351371943612249","en":"Equipment Quality","ru":"Качество снаряжения"}
 {"id":"words:-3934198452389967334","en":"No recipe containing this material has been unlocked yet. Raise your Star Knowledge Level to unlock it.","ru":"Рецепт с этим материалом ещё не открыт. Повысьте уровень звёздных знаний, чтобы открыть его."}
 {"id":"words:-3934674819281306062","en":"No equipment effects","ru":"Нет эффектов снаряжения"}
 {"id":"words:-3936493450954707935","en":"Refresh turn order list","ru":"Обновить порядок ходов"}
@@ -1218,7 +1218,7 @@
 {"id":"words:-4556657900492083885","en":"Select the goods you want to sell on the left.","ru":"Выберите на панели слева товары для продажи."}
 {"id":"words:-4560717386161743368","en":"To get the most out of this, we recommend completing the prerequisite quest first.","ru":"Чтобы получить больше удовольствия, рекомендуем сначала пройти предыдущее задание."}
 {"id":"words:-4563468003830700337","en":"Pink Button","ru":"Розовая кнопка"}
-{"id":"words:-4566852016857748038","en":"Ranking up will exceed the ★ limit.","ru":"Повышение ранга превысит предел ★."}
+{"id":"words:-4566852016857748038","en":"Ranking up will exceed the rank limit","ru":"Повышение ранга превысит предел ранга"}
 {"id":"words:-4572846463902060529","en":"Simple","ru":"Простой"}
 {"id":"words:-4576785645781357821","en":"Using medicine is prohibited in this mode.","ru":"В этом режиме использование лекарств запрещено."}
 {"id":"words:-4581817851975537565","en":"Anima Acquired","ru":"Получена анима"}
@@ -1295,7 +1295,7 @@
 {"id":"words:-4815593734521663285","en":"Build passage","ru":"Построить проход"}
 {"id":"words:-4816938071835150669","en":"Chou","ru":"Тё"}
 {"id":"words:-4817358309061052528","en":"This Kibo is no longer in the Kibo Hut, so details cannot be viewed.","ru":"Этот кибо больше не находится в Хижине кибо, поэтому подробности недоступны."}
-{"id":"words:-4817940004376989410","en":"After training is complete, you will part ways with your practice partner Kibo. This action cannot be undone. Please proceed carefully.","ru":"После завершения тренировки вы расстанетесь с кибо-напарником по тренировке. Это действие нельзя отменить. Пожалуйста, будьте осмотрительны."}
+{"id":"words:-4817940004376989410","en":"After training is complete, you will part ways with your assisting Kibo. This action cannot be undone. Please proceed carefully.","ru":"После завершения тренировки вы расстанетесь с кибо-помощником. Это действие нельзя отменить. Пожалуйста, будьте осмотрительны."}
 {"id":"words:-4818075668756840274","en":"Sow Seeds","ru":"Посев семян"}
 {"id":"words:-4822862485913324359","en":"Spend {0} stamina to claim the subjugation reward?","ru":"Потратить выносливость {0}, чтобы получить награду за победу?"}
 {"id":"words:-4823728495931668451","en":"Toggle detailed view","ru":"Переключить подробный вид"}
@@ -1305,7 +1305,7 @@
 {"id":"words:-4831106459579375109","en":"Rapidly press the attack button to perform the full normal attack combo {0}/{1}","ru":"Быстро нажимайте кнопку атаки, чтобы выполнить полную серию обычных атак {0}/{1}"}
 {"id":"words:-4831406888495603134","en":"{0} is too large to ride here.","ru":"{0} слишком велик, здесь на нём нельзя ехать верхом."}
 {"id":"words:-4831818000935644419","en":"This feature cannot be used on the Farm.","ru":"На ферме эту функцию использовать нельзя."}
-{"id":"words:-4832575724092879525","en":"Sell prices increase for the following materials and dishes made with them!","ru":"Цена продажи следующих материалов и блюд, приготовленных из них, повышается!"}
+{"id":"words:-4832575724092879525","en":"Sell prices increase for the following materials and the intermediate materials and finished products made with them!","ru":"Цена продажи следующих материалов и созданных из них промежуточных материалов и готовых изделий повышается!"}
 {"id":"words:-4835794399832905594","en":"When Link Power reaches <color=#27AE89>{0}</color>, Link Disruption is removed.","ru":"Когда Сила связи достигает <color=#27AE89>{0}</color>, Нарушение связи снимается."}
 {"id":"words:-4836872212835832721","en":"Swap","ru":"Поменять"}
 {"id":"words:-4838730213041409399","en":"Recommended Lv.","ru":"Реком. ур."}
@@ -1461,7 +1461,7 @@
 {"id":"words:-5308768004839231875","en":"Chance to recover seeds on harvest","ru":"Шанс вернуть семена при сборе урожая"}
 {"id":"words:-5309220725537057945","en":"Hold / Rescue","ru":"Удержание / Спасение"}
 {"id":"words:-5309823567106455205","en":"Rank Up Complete","ru":"Ранг повышен"}
-{"id":"words:-531057436031380148","en":"Expires in {0} days","ru":"Истекает через {0} дн."}
+{"id":"words:-531057436031380148","en":"Remaining: {0} days","ru":"Осталось дней: {0}"}
 {"id":"words:-5311063010406311968","en":"Apply Ending","ru":"Применить концовку"}
 {"id":"words:-5314920569242290600","en":"Quest Info","ru":"Информация о задании"}
 {"id":"words:-5318045616312483734","en":"Lv. MAX","ru":"Макс. ур."}
@@ -1520,7 +1520,7 @@
 {"id":"words:-548870216292351625","en":"Team Formation","ru":"Состав отряда"}
 {"id":"words:-5489687978099709118","en":"Billion","ru":"Миллиард"}
 {"id":"words:-5489694895940640352","en":"Treasure Chest","ru":"Сундук с сокровищами"}
-{"id":"words:-5494261704732764414","en":"Production Queue","ru":"Очередь производства"}
+{"id":"words:-5494261704732764414","en":"Production List","ru":"Список производства"}
 {"id":"words:-5507874144691187953","en":"Receive Primordial Tide treasure chests with auto-progress","ru":"Получайте сундуки с сокровищами Первозданного прилива при автопрохождении"}
 {"id":"words:-5511216830842136736","en":"You can enter up to 14 characters.","ru":"Можно ввести не более 14 символов."}
 {"id":"words:-5513673535068877332","en":"Move Cursor","ru":"Перемещение курсора"}
@@ -1549,7 +1549,7 @@
 {"id":"words:-5607866309332515201","en":"Proceed","ru":"Продолжить"}
 {"id":"words:-5614131180802353163","en":"Track","ru":"Отслеживать"}
 {"id":"words:-5621577777772566335","en":"Confirm Selection","ru":"Подтвердить выбор"}
-{"id":"words:-5622240798294379146","en":"Select a piece of equipment with the same name to use for rank inheritance.","ru":"Выберите снаряжение с тем же названием для наследования ранга."}
+{"id":"words:-5622240798294379146","en":"Select a piece of equipment with the same name to perform inheritance.","ru":"Выберите снаряжение с тем же названием для выполнения наследования."}
 {"id":"words:-5624316516680842196","en":"Matchmaking hours: every day %s","ru":"Время подбора: ежедневно %s"}
 {"id":"words:-5629614174368201479","en":"Enter Defensive Position","ru":"Войти в оборонительную позицию"}
 {"id":"words:-5635428445774800511","en":"Random Trait","ru":"Случайная характеристика"}
@@ -1593,7 +1593,7 @@
 {"id":"words:-5777320483818457162","en":"Tap the screen to place a cushion","ru":"Коснитесь экрана, чтобы разместить подушку"}
 {"id":"words:-5779569307993255098","en":"There are currently no main story quests.","ru":"Сейчас нет заданий основной сюжетной линии."}
 {"id":"words:-5780354619520172131","en":"Select Anima: <color=#EF903D>{0}</color>?","ru":"Выбрать Аниму: <color=#EF903D>{0}</color>?"}
-{"id":"words:-5782370683031340725","en":"There are no parts available to swap or equip.","ru":"Нет деталей для замены или экипировки."}
+{"id":"words:-5782370683031340725","en":"There are no parts available to change or equip.","ru":"Нет деталей для изменения или экипировки."}
 {"id":"words:-5783361826029762562","en":"Work Paused","ru":"Работа приостановлена"}
 {"id":"words:-5784303009079199880","en":"Stage Reward","ru":"Награда этапа"}
 {"id":"words:-5784927522236217132","en":"Obtain","ru":"Получить"}
@@ -1708,7 +1708,7 @@
 {"id":"words:-6168020568041890114","en":"{0}Cooking ({1}s)","ru":"{0}Готовка ({1} с)"}
 {"id":"words:-6168110857594313950","en":"Difficulty","ru":"Сложность"}
 {"id":"words:-6172426037190107551","en":"{0} Difficulty {1}","ru":"{0} Сложность {1}"}
-{"id":"words:-6173407541634423054","en":"Please select the equipment to inherit rank from.","ru":"Выберите снаряжение для наследования ранга."}
+{"id":"words:-6173407541634423054","en":"Please select the equipment to inherit.","ru":"Выберите снаряжение для наследования."}
 {"id":"words:-6179595989532283161","en":"You must activate the prerequisite node first.","ru":"Сначала нужно активировать предыдущий узел."}
 {"id":"words:-6187716503776013671","en":"Please equip the corresponding Mount.","ru":"Экипируйте соответствующего скакуна."}
 {"id":"words:-6193127561906752047","en":"Rename Template","ru":"Переименовать шаблон"}
@@ -1827,7 +1827,7 @@
 {"id":"words:-6638548787092575909","en":"Choose Chiyo's training approach.","ru":"Выберите подход к тренировке Тиё."}
 {"id":"words:-6639659286695709704","en":"Party Channel","ru":"Канал отряда"}
 {"id":"words:-66407966500782715","en":"Action","ru":"Действие"}
-{"id":"words:-6641390600040924379","en":"Investigate the Altar of the Sacred Flame and light all the flames","ru":"Исследуйте Алтарь священного огня и зажгите всё пламя"}
+{"id":"words:-6641390600040924379","en":"Investigate the Fire Altar and light all the flames","ru":"Исследуйте Алтарь огня и зажгите всё пламя"}
 {"id":"words:-664226135355701368","en":"Invite to Kibo Fight","ru":"Пригласить на Бой кибо"}
 {"id":"words:-664422262191913248","en":"Complete!","ru":"Готово!"}
 {"id":"words:-6646426172022594188","en":"Tap anywhere to receive today's contract reward ({0})","ru":"Нажмите в любом месте, чтобы получить сегодняшнюю награду по контракту ({0})"}
@@ -1902,7 +1902,7 @@
 {"id":"words:-6876289854848958796","en":"An Aura mimicking a stone on the ground...?","ru":"Аура, маскирующаяся под камень на земле…?"}
 {"id":"words:-6878342445655056442","en":"Replenish ammo after a Charged Attack {0}/{1}","ru":"Пополнить боезапас после заряженной атаки {0}/{1}"}
 {"id":"words:-6880385873787935548","en":"Style 8","ru":"Стиль 8"}
-{"id":"words:-6882572790263184558","en":"Select a practice partner Kibo","ru":"Выберите кибо-партнёра для тренировки"}
+{"id":"words:-6882572790263184558","en":"Select an assisting Kibo","ru":"Выберите кибо-помощника"}
 {"id":"words:-688483666463111300","en":"In 1 days, the score cap will be unlocked at {0}.","ru":"Через 1 дн. предел очков откроется на {0}."}
 {"id":"words:-6888245057209218076","en":"<color=#27AE89>Low</color>","ru":"<color=#27AE89>Низкий</color>"}
 {"id":"words:-6891955840192532553","en":"Next Expedition Level","ru":"Следующий уровень похода"}
@@ -1928,7 +1928,7 @@
 {"id":"words:-6949573700299164169","en":"Travels available today: {0}/{1}","ru":"Доступно путешествий сегодня: {0}/{1}"}
 {"id":"words:-6950586584178678201","en":"Ride Together","ru":"Совместная поездка"}
 {"id":"words:-6952115134683959589","en":"Equipped gear cannot be selected.","ru":"Нельзя выбрать уже надетое снаряжение."}
-{"id":"words:-6952724627312934779","en":"Large Water Bullets restore enemy HP, then finally unleash a tsunami. Destroy the Water Bullets to interrupt the skill.","ru":"Большие водяные пули восстанавливают здоровье врагов, а затем выпускают цунами. Уничтожьте водяные пули, чтобы прервать навык."}
+{"id":"words:-6952724627312934779","en":"The large central water orb restores the summoned monsters' HP and finally triggers a tsunami. Attack the water orb to deplete its HP and interrupt the skill.","ru":"Большой центральный водяной шар восстанавливает здоровье призванных монстров и в конце вызывает цунами. Атакуйте водяной шар, чтобы истощить его здоровье и прервать навык."}
 {"id":"words:-6952856941032384042","en":"Life","ru":"Жизнь"}
 {"id":"words:-6955348346445580944","en":"Blessing of the Dark Star","ru":"Благословение тёмной звезды"}
 {"id":"words:-6962637239508648336","en":"Field","ru":"Поле"}
@@ -2191,7 +2191,7 @@
 {"id":"words:-7700169902810217597","en":"You cannot post consecutively.","ru":"Нельзя публиковать подряд."}
 {"id":"words:-7703743565951885618","en":"{0} sec","ru":"{0} с"}
 {"id":"words:-7708386967164938382","en":"Fight Skill","ru":"Боевой навык"}
-{"id":"words:-7711609428207573348","en":"Claim today's contract delivery ({0})","ru":"Получить сегодняшнюю доставку по контракту ({0})"}
+{"id":"words:-7711609428207573348","en":"Claim today's contract perk ({0})","ru":"Получить сегодняшнюю контрактную награду ({0})"}
 {"id":"words:-7719666308167281789","en":"Stack {3} Sigils on enemies with Starecho Skills {1}/{2}","ru":"Наложите на противников {3} шт. печатей с помощью навыков звёздного эха {1}/{2}"}
 {"id":"words:-7722054702343404862","en":"Selection limit reached.","ru":"Достигнут предел выбора."}
 {"id":"words:-7726619539367883006","en":"Exit Without Saving","ru":"Выйти без сохранения"}
@@ -2229,7 +2229,7 @@
 {"id":"words:-7855460594706978982","en":"Ascension","ru":"Вознесение"}
 {"id":"words:-7859575404280552070","en":"Choose and obtain 1 from the above 5★ Anima","ru":"Выберите и получите 1 шт. из анимы 5★ выше"}
 {"id":"words:-7862826408936704973","en":"In Field","ru":"В поле"}
-{"id":"words:-7863560911999165129","en":"Kibo eligible for Potential training: {0}","ru":"Кибо, доступные для тренировки потенциала «{0}»"}
+{"id":"words:-7863560911999165129","en":"Kibo eligible to assist with Potential training: {0}","ru":"Кибо, доступные для помощи с потенциалом «{0}»"}
 {"id":"words:-7865718537505201238","en":"Enter IP Address Manually","ru":"Ввести IP-адрес вручную"}
 {"id":"words:-7869280850773168331","en":"Min Production","ru":"Мин. производство"}
 {"id":"words:-7871345319381135297","en":"High Rarity","ru":"Высокая редкость"}
@@ -2822,7 +2822,7 @@
 {"id":"words:1338410614552074399","en":"Enter the room on the left","ru":"Войти в комнату слева"}
 {"id":"words:1341884116290813284","en":"SMS sent.","ru":"SMS отправлено."}
 {"id":"words:1346159115705779222","en":"You need to claim a reward.","ru":"Необходимо получить награду."}
-{"id":"words:1352921643161222718","en":"Building a <color=#D37F25> enhancement facility </color> in the field increases the Fine Particles holding limit.","ru":"Постройка на поле <color=#D37F25>усилительного сооружения</color> повышает предел хранения Мелких частиц."}
+{"id":"words:1352921643161222718","en":"Building an <color=#D37F25>efficiency-boosting facility</color> in the field increases the Fine Particles holding limit.","ru":"Постройка на поле <color=#D37F25>сооружения для повышения эффективности</color> повышает предел хранения Мелких частиц."}
 {"id":"words:1357128594880740853","en":"Confirm","ru":"Подтвердить"}
 {"id":"words:1357185410311541576","en":"Bond Lv. {0}","ru":"Уровень связи {0}"}
 {"id":"words:1357459147604909620","en":"Not enough Insight points.","ru":"Недостаточно очков познаний."}
@@ -2841,7 +2841,7 @@
 {"id":"words:1405355559815037424","en":"Confirm","ru":"Подтвердить"}
 {"id":"words:1427739142577515550","en":"Continue","ru":"Продолжить"}
 {"id":"words:142979930350682862","en":"Clear within 120 seconds","ru":"Пройти за 120 сек."}
-{"id":"words:1430286667386461456","en":"No higher-rank equipment exists.","ru":"Экипировки более высокого ранга не существует."}
+{"id":"words:1430286667386461456","en":"No higher-quality equipment exists.","ru":"Экипировки более высокого качества не существует."}
 {"id":"words:143062729566813253","en":"The Farm Headquarters is full. Select a Kibo to swap out.","ru":"Фермерский штаб заполнен. Выберите кибо для замены."}
 {"id":"words:143436796972775284","en":"Character Not Acquired","ru":"Персонаж не получен"}
 {"id":"words:1439067732642857172","en":"Beginner's Guide","ru":"Руководство для новичков"}
@@ -2979,7 +2979,7 @@
 {"id":"words:1912293500932815565","en":"Area Observation","ru":"Наблюдение области"}
 {"id":"words:1921827019904323194","en":"WEAK","ru":"СЛАБО"}
 {"id":"words:1922354496177548436","en":"Return to the login screen?","ru":"Вернуться на экран входа?"}
-{"id":"words:1923503941688021281","en":"Waiting to check in","ru":"Ожидание отметки"}
+{"id":"words:1923503941688021281","en":"Waiting to log in","ru":"Ожидание входа"}
 {"id":"words:1935980073364134757","en":"Waves of enemies defeated: {1}","ru":"Волн врагов побеждено: {1}"}
 {"id":"words:1937286922589482474","en":"On the Journey","ru":"В пути"}
 {"id":"words:194171250332448503","en":"Complete the challenge within 600 seconds","ru":"Завершите испытание за 600 сек."}
@@ -3144,7 +3144,7 @@
 {"id":"words:2479292280888656430","en":"The password for the current account has been changed. Please log in again.","ru":"Пароль текущего аккаунта изменён. Войдите снова."}
 {"id":"words:2482551248989597556","en":"Can't deploy any more.","ru":"Больше нельзя разместить в отряде."}
 {"id":"words:2484243770603080533","en":"Character Movement","ru":"Движение персонажа"}
-{"id":"words:2486555713511552369","en":"You don't have enough reward claims left this week. Please exit or select [Settle without Receiving Rewards]","ru":"У вас недостаточно оставшихся получений награды на этой неделе. Выйдите или выберите [Завершить без получения наград]"}
+{"id":"words:2486555713511552369","en":"You don't have enough reward claims left this week. Please exit or select [Abandon Rewards]","ru":"У вас недостаточно оставшихся получений награды на этой неделе. Выйдите или выберите [Отказаться от наград]"}
 {"id":"words:2493242751183045828","en":"You have not obtained this Kibo yet.","ru":"Вы ещё не получили этого кибо."}
 {"id":"words:2496423628798572089","en":"Companion","ru":"Спутник"}
 {"id":"words:2496857099772192729","en":"Kibo Puzzles can't be performed while a skill is active.","ru":"Во время действия навыка нельзя решать головоломки кибо."}
@@ -3286,7 +3286,7 @@
 {"id":"words:3005820545295280291","en":"Limit reached.","ru":"Достигнут предел."}
 {"id":"words:3006002565903285721","en":"Lv. MAX","ru":"Макс. ур."}
 {"id":"words:3006889352597490423","en":"Exit Game","ru":"Выйти из игры"}
-{"id":"words:300827436375036554","en":"{0} is trying to change the team goal to [Difficulty {1}{2}].","ru":"{0} пытается изменить цель отряда на [Сложность {1}{2}]."}
+{"id":"words:300827436375036554","en":"{0} is trying to change the team goal to [{2} · Difficulty {1}].","ru":"{0} пытается изменить цель отряда на [{2} · Сложность {1}]."}
 {"id":"words:3013183534216927216","en":"Go to the designated location and complete the tutorial.","ru":"Перейдите к указанному месту и пройдите обучение."}
 {"id":"words:3014282306530354469","en":"Remaining","ru":"Осталось"}
 {"id":"words:3014425141457355374","en":"Emote","ru":"Эмоция"}
@@ -3531,7 +3531,7 @@
 {"id":"words:3759684571841848848","en":"{0} ms","ru":"{0} мс"}
 {"id":"words:3761841840502207850","en":"Activate Starecho Skill {0}/{1} times","ru":"Активируйте навык звёздного эха {0}/{1} раз"}
 {"id":"words:3764473958280589343","en":"Move the crop area","ru":"Переместить область обрезки"}
-{"id":"words:3769376188963913546","en":"This Anima has been Ranked Up. Are you sure you want to use it as material?","ru":"Эта анима повышена в ранге. Вы уверены, что хотите использовать её как материал?"}
+{"id":"words:3769376188963913546","en":"This Anima has reached its maximum level. Are you sure you want to use it as material?","ru":"Эта анима достигла максимального уровня. Вы уверены, что хотите использовать её как материал?"}
 {"id":"words:3769629156377009808","en":"Clear Team","ru":"Очистить команду"}
 {"id":"words:3772882267526361285","en":"Compiling shaders takes time. Please wait a moment.","ru":"Компиляция шейдеров требует времени. Пожалуйста, подождите."}
 {"id":"words:3781039468542530831","en":"Parameters copied to clipboard. Path: {0}","ru":"Параметры скопированы в буфер обмена. Путь: {0}"}
@@ -3676,7 +3676,7 @@
 {"id":"words:4245156341805253436","en":"Your visibility is off, so gaze adjustment is disabled.","ru":"Ваша видимость отключена, поэтому настройка взгляда недоступна."}
 {"id":"words:4245634423534313834","en":"Start Tracking","ru":"Начать отслеживание"}
 {"id":"words:4253836263467392101","en":"You can add dishes at the Kibo Canteen.","ru":"В Столовой для кибо можно добавить блюда."}
-{"id":"words:426276770240449582","en":"There are fields that can be reclaimed. Use the Farm's cultivation mode to reclaim them.","ru":"Есть поля, доступные для освоения. Их можно освоить в режиме возделывания на ферме."}
+{"id":"words:426276770240449582","en":"There are fields that can be reclaimed. Use the Farm's Farm Work Mode to reclaim them.","ru":"Есть поля, доступные для освоения. Их можно освоить в режиме работы на ферме."}
 {"id":"words:4267231710373935795","en":"Level Up","ru":"Повышение уровня"}
 {"id":"words:4272942311668556462","en":"Unlock Travelogue Recollection","ru":"Открыть воспоминание из дневника"}
 {"id":"words:4273172954766236427","en":"You don't have that dish. Make it at the Farm.","ru":"У вас нет этого блюда. Приготовьте его на ферме."}
@@ -3754,7 +3754,7 @@
 {"id":"words:4501652849050825337","en":"Character Satiety is at maximum","ru":"Сытость персонажа максимальна"}
 {"id":"words:4501930134643895825","en":"You cannot prepare in this scene.","ru":"В этой сцене нельзя подготовиться."}
 {"id":"words:4505726333787580045","en":"No character has been deployed","ru":"Персонаж не выставлен"}
-{"id":"words:4510725595480827959","en":"Starting Character","ru":"Начальный персонаж"}
+{"id":"words:4510725595480827959","en":"Starting Support Ally","ru":"Начальный союзник поддержки"}
 {"id":"words:4517535878708981331","en":"Let's check other places too","ru":"Давайте проверим и другие места"}
 {"id":"words:4528536841962738934","en":"Abandon Challenge","ru":"Отказаться от испытания"}
 {"id":"words:4532025639629830863","en":"MAX","ru":"МАКС"}
@@ -3764,7 +3764,7 @@
 {"id":"words:4538302493129161257","en":"Entering game...","ru":"Вход в игру…"}
 {"id":"words:4538763929816819653","en":"Report","ru":"Пожаловаться"}
 {"id":"words:4540695635486750811","en":"MAX","ru":"МАКС"}
-{"id":"words:4542088131618306912","en":"Rank {0}","ru":"Ранг {0}"}
+{"id":"words:4542088131618306912","en":"★{0}","ru":"★{0}"}
 {"id":"words:4544239771118448190","en":"Retry","ru":"Повторить"}
 {"id":"words:4547374632509553785","en":"World Channel {0}","ru":"Мировой канал {0}"}
 {"id":"words:4554006666035419263","en":"Favorite","ru":"Избранное"}
@@ -3947,7 +3947,7 @@
 {"id":"words:509191558216060487","en":"Complete","ru":"Завершено"}
 {"id":"words:5092700608096691865","en":"Reconnect","ru":"Переподключиться"}
 {"id":"words:5099276165867553510","en":"Open Hut","ru":"Открыть хижину"}
-{"id":"words:5099688768022636828","en":"Expires in <color=#ff7e6d>{0}</color>","ru":"Истекает через <color=#ff7e6d>{0}</color>"}
+{"id":"words:5099688768022636828","en":"<color=#ff7e6d>{0} hours remaining</color>","ru":"<color=#ff7e6d>Осталось {0} ч.</color>"}
 {"id":"words:5101286030261293646","en":"This feature is not yet complete.","ru":"Эта функция ещё не готова."}
 {"id":"words:5105439152729468851","en":"Ascension Degree Upgrade Reward","ru":"Награда за повышение степени вознесения"}
 {"id":"words:5105979704858622196","en":"Enhancement Material","ru":"Материал усиления"}
@@ -4204,7 +4204,7 @@
 {"id":"words:5854551049233264508","en":"View Fullscreen","ru":"Смотреть на весь экран"}
 {"id":"words:5857200217128350680","en":"Unlock Immediately","ru":"Открыть немедленно"}
 {"id":"words:5860984005836554722","en":"On cooldown. You can speak again in {0} seconds.","ru":"Перезарядка. Можно снова говорить через {0} сек."}
-{"id":"words:5867256179127811417","en":"Pick Up Flow Sphere","ru":"Подобрать шар потока"}
+{"id":"words:5867256179127811417","en":"Pick Up Flow Orb","ru":"Подобрать сферу потока"}
 {"id":"words:5869695534838305037","en":"Only 1 Potential abilities can be trained, so random selection is unavailable.","ru":"Доступно только 1 потенциал для тренировки, случайный выбор невозможен."}
 {"id":"words:5873834960975023112","en":"First remove all seeds from the Field Cabin before storing it.","ru":"Сначала выньте все семена из полевой хижины, затем уберите её."}
 {"id":"words:5876660979392270562","en":"Yield: {0}{1}","ru":"Доход: {0}{1}"}
@@ -4313,7 +4313,7 @@
 {"id":"words:620354907560288625","en":"Go to Purchase","ru":"К покупке"}
 {"id":"words:6204807013785317723","en":"Arrived at Wingfolk Village","ru":"Прибытие в Деревню крылатых"}
 {"id":"words:6205836973286564344","en":"Process at least 1.","ru":"Обработайте не менее 1 шт."}
-{"id":"words:6208772193579254129","en":"Bond increases by {0}","ru":"Связь повышается на {0}"}
+{"id":"words:6208772193579254129","en":"Affection increases by {0}","ru":"Привязанность повышается на {0}"}
 {"id":"words:6209189528850383687","en":"Engraving Count","ru":"Количество гравировок"}
 {"id":"words:6210973119919607049","en":"Choose Again","ru":"Выбрать заново"}
 {"id":"words:6215363136180780613","en":"Remove","ru":"Удалить"}
@@ -4350,7 +4350,7 @@
 {"id":"words:6296737213948658406","en":"Reach endings with different training approaches to earn rewards","ru":"Достигните концовок с разными подходами к тренировкам и получите награды"}
 {"id":"words:6297956689734848062","en":"{0} in stock <size=24><color=#111A22>{1}</color></size>","ru":"{0} в наличии <size=24><color=#111A22>{1}</color></size>"}
 {"id":"words:630583341356510251","en":"Shop closes in:","ru":"Магазин закроется через:"}
-{"id":"words:6307532045896036771","en":"End Production Queue","ru":"Завершить очередь производства"}
+{"id":"words:6307532045896036771","en":"Close Production List","ru":"Закрыть список производства"}
 {"id":"words:6308397718360945177","en":"Cannot Starlink with Kibo during combat.","ru":"Во время боя нельзя установить Звёздную связь с кибо."}
 {"id":"words:6308470774249737242","en":"Unlocks at Level {0}","ru":"Открывается на уровне {0}"}
 {"id":"words:6310508433232572397","en":"Search","ru":"Поиск"}
@@ -4506,7 +4506,7 @@
 {"id":"words:6778608194224177841","en":"The Gathering Insight system lets you obtain high-quality gathering tools and improve gathering efficiency.","ru":"Система «Навыки собирательства» позволяет получать качественные инструменты для сбора и повышать эффективность собирательства."}
 {"id":"words:6779796016392709732","en":"Wishlist: {0}×{1} Materials collected","ru":"Список желаемого: {0}×{1} Материалы собраны"}
 {"id":"words:6781449789774140385","en":"Water","ru":"Полив"}
-{"id":"words:6784547482022907888","en":"Team","ru":"Команда"}
+{"id":"words:6784547482022907888","en":"Formation","ru":"Состав"}
 {"id":"words:6792382958373443257","en":"After activating a Starecho Skill, hold the attack button to charge up to stage 3, then unleash a Charged Attack. {0}/{1}","ru":"После активации навыка звёздного эха удерживайте кнопку атаки, чтобы зарядить до ступени 3, затем проведите заряженную атаку. {0}/{1}"}
 {"id":"words:6794411157019347033","en":"Invalid password format.","ru":"Неверный формат пароля."}
 {"id":"words:6797348495317455171","en":"The player UID has not been copied. Please copy it again.","ru":"UID игрока не скопирован. Скопируйте его ещё раз."}
@@ -4578,7 +4578,7 @@
 {"id":"words:6954648895383472979","en":"This Kibo is already placed.","ru":"Этот кибо уже размещён."}
 {"id":"words:6955588029824411877","en":"Sale price:","ru":"Цена продажи:"}
 {"id":"words:6956512939147325947","en":"Back","ru":"Назад"}
-{"id":"words:6957532251446891434","en":"Enter a comment","ru":"Введите комментарий"}
+{"id":"words:6957532251446891434","en":"Enter self-introduction","ru":"Введите самопрезентацию"}
 {"id":"words:6957837822333746264","en":"Level Up","ru":"Повышение уровня"}
 {"id":"words:6958043206605900001","en":"Add character humidity effect","ru":"Добавить эффект влажности персонажа"}
 {"id":"words:6961736763058064230","en":"Equipped","ru":"Экипировано"}
@@ -4601,7 +4601,7 @@
 {"id":"words:7013685839165446267","en":"After performing the 1st hit of a Pursuit, press the attack button with the right timing to perform up to the 3rd hit. {0}/{1}","ru":"После 1-го удара преследования нажмите кнопку атаки в нужный момент, чтобы провести до 3-го удара. {0}/{1}"}
 {"id":"words:7017232250772275906","en":"Efficiency Boost Facility","ru":"Устройство повышения эффективности"}
 {"id":"words:7017647312604756578","en":"Current Damage","ru":"Текущий урон"}
-{"id":"words:7021283162866948418","en":"A Starshine Guaranteed Egg cannot select a Starlight Stella Card. Please choose again.","ru":"Яйцо с гарантированным звёздным сиянием не может выбрать карту «Звёздная Стелла». Выберите заново."}
+{"id":"words:7021283162866948418","en":"A Starshine Guaranteed Egg cannot use a Starlight Stella Card. Please select another card.","ru":"Яйцо с гарантированным звёздным сиянием не может использовать карту «Звёздная Стелла». Выберите другую карту."}
 {"id":"words:7022704585263511930","en":"This Anima is locked.","ru":"Эта анима заблокирована."}
 {"id":"words:7023555975131428191","en":"Read","ru":"Читать"}
 {"id":"words:7026194074809424490","en":"Go to Tutorial","ru":"Перейти к обучению"}
@@ -4613,7 +4613,7 @@
 {"id":"words:7035022677897068928","en":"Mouth","ru":"Рот"}
 {"id":"words:7039889515935557359","en":"While the Will effect is active, Perfect Guard automatically activates 1 times when attacked by an enemy. {0}/{1}","ru":"Пока действует эффект «Воля», при атаке врага идеальная защита автоматически срабатывает 1 раз. {0}/{1}"}
 {"id":"words:7041586260961944834","en":"Profile","ru":"Профиль"}
-{"id":"words:7050200134826762008","en":"Kibo Battle Formation","ru":"Состав для боя кибо"}
+{"id":"words:7050200134826762008","en":"Kibo Fight Formation","ru":"Состав для боя кибо"}
 {"id":"words:7051432705696748823","en":"You cannot transition during the tutorial.","ru":"Во время обучения переход невозможен."}
 {"id":"words:7051736643920594394","en":"Today","ru":"Сегодня"}
 {"id":"words:7053584503880417848","en":"High","ru":"Высокий"}
@@ -4648,7 +4648,7 @@
 {"id":"words:710805857376152812","en":"Friend request sent.","ru":"Запрос в друзья отправлен."}
 {"id":"words:7110807049391470408","en":"A new day dawns on the Promilia Continent...","ru":"На континент Промилия приходит новый день..."}
 {"id":"words:7114289040110286500","en":"In Team","ru":"В команде"}
-{"id":"words:7115649804632623191","en":"A Starshine Guaranteed Egg cannot select a Starlight Stella Card. Please choose again.","ru":"Яйцо с гарантированным звёздным сиянием не может выбрать карту «Звёздная Стелла». Выберите заново."}
+{"id":"words:7115649804632623191","en":"A Starshine Guaranteed Egg cannot use a Starlight Stella Card. Please select another card.","ru":"Яйцо с гарантированным звёздным сиянием не может использовать карту «Звёздная Стелла». Выберите другую карту."}
 {"id":"words:7116259054638191342","en":"Not enough {0}. Recharge in the shop?","ru":"Недостаточно {0}. Пополнить в магазине?"}
 {"id":"words:71175236939239966","en":"4 Total Attributes: {0}\n Chiyo has reached the Hunter Level cap!","ru":"4 Сумма атрибутов: {0}\n Тиё достигла предела уровня охотника!"}
 {"id":"words:7130090096899850691","en":"Retry","ru":"Повторить"}
@@ -4772,7 +4772,7 @@
 {"id":"words:7468847925471699671","en":"Team Join Settings","ru":"Настройки вступления в команду"}
 {"id":"words:7469649437459132634","en":"Deposit","ru":"Задаток"}
 {"id":"words:7471348279524266395","en":"List","ru":"Список"}
-{"id":"words:7473976049421974887","en":"Change the team goal to [Difficulty {0}{1}]?","ru":"Изменить цель команды на [Сложность {0}{1}]?"}
+{"id":"words:7473976049421974887","en":"Change the team goal to [{1} · Difficulty {0}]?","ru":"Изменить цель команды на [{1} · Сложность {0}]?"}
 {"id":"words:7474108589581613100","en":"Remaining Hatch Time","ru":"Оставшееся время вылупления"}
 {"id":"words:7476359022090853792","en":"Unread: %s","ru":"Непрочитано: %s"}
 {"id":"words:74806152144736959","en":"Tracking Failed","ru":"Отслеживание не удалось"}
@@ -4889,7 +4889,7 @@
 {"id":"words:775319208331196240","en":"Switch to slot","ru":"Переключить в ячейку"}
 {"id":"words:775351636873765072","en":"The number of description parameters for skill {0} at level {1} is invalid.","ru":"Недопустимое число параметров описания навыка {0} уровня {1}."}
 {"id":"words:7753752912980520808","en":"No changes made.","ru":"Изменений нет."}
-{"id":"words:7758612714034576284","en":"While the Bondweaving effect is active, trigger all combos of Normal Attack {0}/{1} times","ru":"Во время действия эффекта «Плетение уз» активируйте все комбо обычной атаки {0}/{1} раз"}
+{"id":"words:7758612714034576284","en":"While the Bondweaving effect is active, rapidly tap or hold the attack button to trigger all combos of Normal Attack {0}/{1} times","ru":"Во время действия эффекта «Плетение уз» быстро нажимайте или удерживайте кнопку атаки, чтобы активировать все комбо обычной атаки {0}/{1} раз"}
 {"id":"words:7758639845177125822","en":"Changes saved.","ru":"Изменения сохранены."}
 {"id":"words:7759051805891093823","en":"The warehouse is full.","ru":"Склад заполнен."}
 {"id":"words:7759980898293600228","en":"There is no feed.","ru":"Нет корма."}
@@ -5236,7 +5236,7 @@
 {"id":"words:889089738649483690","en":"Preset Team","ru":"Готовый отряд"}
 {"id":"words:8890921525061891918","en":"Close Screen","ru":"Закрыть экран"}
 {"id":"words:8892155985006129989","en":"Obtained Order","ru":"Порядок получения"}
-{"id":"words:8892346054687762153","en":"You cannot give any more Factor Berries.","ru":"Больше нельзя давать ягоды фактора."}
+{"id":"words:8892346054687762153","en":"The Kibo's Factor count has reached its limit, so you cannot give any more Factor Berries this time.","ru":"Количество факторов кибо достигло предела, поэтому на этот раз больше нельзя давать ягоды фактора."}
 {"id":"words:8893161456105474413","en":"Please equip Kibo to a character.","ru":"Экипируйте кибо персонажу."}
 {"id":"words:8893683164396590253","en":"Level up is available when Star Knowledge Level reaches {0}","ru":"Повышение уровня доступно при Уровне звёздных знаний {0}"}
 {"id":"words:8897071091419424169","en":"Select a Stella Card to use","ru":"Выберите Карту звёзд для использования"}
@@ -5266,7 +5266,7 @@
 {"id":"words:8955085163461421914","en":"Durability","ru":"Прочность"}
 {"id":"words:8961598245733363287","en":"%.2fkg","ru":"%.2f кг"}
 {"id":"words:8962888687635571601","en":"Exchange successful! The item has been sent to your mailbox.","ru":"Обмен выполнен! Предмет отправлен вам на почту."}
-{"id":"words:8970960026444042392","en":"Kibo gather at the Starvein Vortex in 1 later, somewhere in the field.","ru":"Кибо соберутся у Вихря звёздного потока через 1, в каком-нибудь месте на поле."}
+{"id":"words:8970960026444042392","en":"Starvein Vortex: Kibo gather somewhere in the field in 1 minute.","ru":"Вихрь звёздного потока: кибо соберутся где-нибудь на поле через 1 минуту."}
 {"id":"words:8971854514224406452","en":"No title set","ru":"Титул не установлен"}
 {"id":"words:898055302469937907","en":"Confirm","ru":"Подтвердить"}
 {"id":"words:8984986049975455960","en":"Your equipment bag is currently full. Please organize your bag before proceeding with the Commission.","ru":"Сумка для снаряжения заполнена. Приведите сумку в порядок, прежде чем переходить к поручению."}

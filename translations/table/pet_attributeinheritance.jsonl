@@ -1,6 +1,6 @@
-{"id":"pet_attributeinheritance:12884902144","en":"Defense","ru":"Защита"}
-{"id":"pet_attributeinheritance:17179869440","en":"Defense","ru":"Защита"}
+{"id":"pet_attributeinheritance:12884902144","en":"Defense Power","ru":"Сила защиты"}
+{"id":"pet_attributeinheritance:17179869440","en":"Defense Power","ru":"Сила защиты"}
 {"id":"pet_attributeinheritance:21474836736","en":"HP","ru":"ОЗ"}
 {"id":"pet_attributeinheritance:25769804032","en":"HP","ru":"ОЗ"}
-{"id":"pet_attributeinheritance:4294967552","en":"Attack","ru":"Атака"}
-{"id":"pet_attributeinheritance:8589934848","en":"Attack","ru":"Атака"}
+{"id":"pet_attributeinheritance:4294967552","en":"Attack Power","ru":"Сила атаки"}
+{"id":"pet_attributeinheritance:8589934848","en":"Attack Power","ru":"Сила атаки"}

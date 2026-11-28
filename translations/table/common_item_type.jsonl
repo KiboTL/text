@@ -16,12 +16,12 @@
 {"id":"common_item_type:1357209666304","en":"Currently Unused","ru":"Сейчас не используется"}
 {"id":"common_item_type:1361504633600","en":"Cooking Ingredient","ru":"Полуфабрикат для готовки"}
 {"id":"common_item_type:1503238554368","en":"Industrial Ingredient","ru":"Промышленный полуфабрикат"}
-{"id":"common_item_type:1507533521664","en":"Brick","ru":"Кирпич"}
+{"id":"common_item_type:1507533521664","en":"Block","ru":"Блок"}
 {"id":"common_item_type:1516123456256","en":"Ingot","ru":"Слиток"}
 {"id":"common_item_type:1520418423552","en":"Currently Unused","ru":"Сейчас не используется"}
 {"id":"common_item_type:1524713390848","en":"Dish","ru":"Блюдо"}
 {"id":"common_item_type:1537598292736","en":"Golden Crop","ru":"Золотой урожай"}
-{"id":"common_item_type:1546188227328","en":"Cooking Material","ru":"Кулинарный материал"}
+{"id":"common_item_type:1546188227328","en":"Ingredient","ru":"Ингредиент"}
 {"id":"common_item_type:1717986919168","en":"Character EXP Material","ru":"Материал опыта персонажа"}
 {"id":"common_item_type:1726576853760","en":"Kibo EXP Fruit","ru":"Плод опыта кибо"}
 {"id":"common_item_type:1730871821056","en":"Anima EXP Material","ru":"Материал опыта анимы"}
@@ -40,23 +40,23 @@
 {"id":"common_item_type:1894080578304","en":"Special Acquisition: Growth Material for 3 Starting Kibos","ru":"Особое получение: материал роста для 3 стартовых кибо"}
 {"id":"common_item_type:2143188681472","en":"Kibo Growth Item","ru":"Предмет развития кибо"}
 {"id":"common_item_type:214748365568","en":"For Equipment Display","ru":"Для отображения снаряжения"}
-{"id":"common_item_type:21474837248","en":"Random Gift Pack","ru":"Случайный подарочный набор"}
+{"id":"common_item_type:21474837248","en":"Random Pack","ru":"Случайный набор"}
 {"id":"common_item_type:2151778616064","en":"Gacha Ticket","ru":"Билет гачи"}
 {"id":"common_item_type:2156073583360","en":"Green & Yellow Ticket","ru":"Зелёный и жёлтый билеты"}
 {"id":"common_item_type:2233382994688","en":"Insight Item","ru":"Предмет познаний"}
 {"id":"common_item_type:2538325672704","en":"Set Shared Material","ru":"Общий материал набора"}
 {"id":"common_item_type:2542620640000","en":"Set-Exclusive Material","ru":"Эксклюзивный материал набора"}
 {"id":"common_item_type:2546915607296","en":"Specified Material","ru":"Указанный материал"}
-{"id":"common_item_type:2576980378368","en":"Character Ascension｜Anima Ascension｜Skill Level-Up","ru":"Возвышение персонажа｜Возвышение анимы｜Повышение уровня навыка"}
-{"id":"common_item_type:25769804544","en":"Selectable Gift Pack","ru":"Выбираемый подарочный набор"}
-{"id":"common_item_type:2581275345664","en":"Character Ascension｜Anima Ascension｜Skill Level-Up","ru":"Возвышение персонажа｜Возвышение анимы｜Повышение уровня навыка"}
+{"id":"common_item_type:2576980378368","en":"Character Ascension|Anima Ascension|Skill Level-Up","ru":"Возвышение персонажа|Возвышение анимы|Повышение уровня навыка"}
+{"id":"common_item_type:25769804544","en":"Selectable Pack","ru":"Выбираемый набор"}
+{"id":"common_item_type:2581275345664","en":"Character Ascension|Anima Ascension|Skill Level-Up","ru":"Возвышение персонажа|Возвышение анимы|Повышение уровня навыка"}
 {"id":"common_item_type:2585570312960","en":"Character Ascension Material","ru":"Материал возвышения персонажа"}
 {"id":"common_item_type:2589865280256","en":"Skill Level-Up Material","ru":"Материал повышения уровня навыка"}
 {"id":"common_item_type:2594160247552","en":"Anima Ascension Material","ru":"Материал возвышения анимы"}
 {"id":"common_item_type:2598455214848","en":"Character Ascension Material","ru":"Материал возвышения персонажа"}
 {"id":"common_item_type:2602750182144","en":"Skill Level-Up Material2","ru":"Материал повышения уровня навыка2"}
 {"id":"common_item_type:2607045149440","en":"Star Blessing Rank-Up Material","ru":"Материал повышения ранга звёздного благословения"}
-{"id":"common_item_type:30064771840","en":"Fixed Gift Pack","ru":"Фиксированный подарочный набор"}
+{"id":"common_item_type:30064771840","en":"Fixed Pack","ru":"Фиксированный набор"}
 {"id":"common_item_type:3010772075264","en":"Medicine","ru":"Лекарство"}
 {"id":"common_item_type:3036541879040","en":"Retired Cooking Recipe","ru":"Устаревший рецепт блюда"}
 {"id":"common_item_type:3865470567168","en":"Other","ru":"Прочее"}

@@ -31,12 +31,12 @@
 {"id":"common_condition:56251186677760","en":"Unlock all furniture in 1 dormitories (paid only, TBD)","ru":"Откройте всю мебель в общежитиях (1) (только за плату, не определено)"}
 {"id":"common_condition:56255481645056","en":"Interact with 1 characters in the dormitory","ru":"Пообщайтесь с персонажами в общежитии: 1"}
 {"id":"common_condition:56259776612352","en":"Complete 300 orders","ru":"Выполните заказы: 300"}
-{"id":"common_condition:56315611187200","en":"Clear {2} difficulty {1} with {0}★","ru":"Пройдите {2} сложности {1} на {0}★"}
-{"id":"common_condition:56319906154496","en":"Clear {1} difficulty {0} {2} times","ru":"Пройдите {1} сложности {0} раз: {2}"}
+{"id":"common_condition:56315611187200","en":"Clear {2} on {0}★ at difficulty {1}","ru":"Пройдите {2} сложности {1} на {0}★"}
+{"id":"common_condition:56319906154496","en":"Clear {1} at difficulty {0} {2} times","ru":"Пройдите {1} сложности {0} раз: {2}"}
 {"id":"common_condition:56324201121792","en":"Clear the specified daily Commission {0} times","ru":"Выполните указанное ежедневное поручение {0} раз"}
 {"id":"common_condition:56328496089088","en":"Clear the specified daily Commission with {0}★ {1} times","ru":"Выполните указанное ежедневное поручение на {0}★ раз: {1}"}
 {"id":"common_condition:56332791056384","en":"Clear all daily Commissions of difficulty {0}","ru":"Выполните все ежедневные поручения сложности {0}"}
-{"id":"common_condition:56337086023680","en":"Clear {2} difficulty {1} with {0}★","ru":"Пройдите {2} сложности {1} на {0}★"}
+{"id":"common_condition:56337086023680","en":"Clear {2} on {0}★ at difficulty {1}","ru":"Пройдите {2} сложности {1} на {0}★"}
 {"id":"common_condition:56358560860160","en":"Not yet unlocked","ru":"Не открыто"}
 {"id":"common_condition:8607114463232","en":"Required Star Knowledge Level {playerlevel}","ru":"Требуемый уровень звёздных знаний {playerlevel}"}
 {"id":"common_condition:8619999365120","en":"Complete the quest \"{name}\"","ru":"Завершите квест «{name}»"}

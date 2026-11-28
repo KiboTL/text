@@ -133,7 +133,7 @@
 {"id":"explore:429519072019876864","en":"Gathering Hut","ru":"Хижина сбора"}
 {"id":"explore:429519072019877120","en":"<color=#3f892e>Orchard</color>: daily fruit yield increased","ru":"<color=#3f892e>Сад</color>: увеличен ежедневный сбор фруктов"}
 {"id":"explore:429519076314844160","en":"Feeding Ground","ru":"Кормушка"}
-{"id":"explore:429519076314844416","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Tattered Beast Hide</color> and <color=#3f892e>Fine Beast Hide</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>рваной шкуры зверя</color> и <color=#3f892e>хорошей шкуры зверя</color>1"}
+{"id":"explore:429519076314844416","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Tattered Beast Hide</color> and <color=#3f892e>Fine Beast Hide</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>изодранной звериной шкуры</color> и <color=#3f892e>чистой звериной шкуры</color>1"}
 {"id":"explore:429519926718368768","en":"Scenic Spot","ru":"Живописное место"}
 {"id":"explore:429519931013336064","en":"Scenic Spot","ru":"Живописное место"}
 {"id":"explore:429519935308303360","en":"Scenic Spot","ru":"Живописное место"}
@@ -247,7 +247,7 @@
 {"id":"explore:433805457971219456","en":"Feeding Ground","ru":"Кормушка"}
 {"id":"explore:433805457971219712","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Beast Meat</color> and <color=#3f892e>Poultry</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>мяса зверя</color> и <color=#3f892e>мяса птицы</color>1"}
 {"id":"explore:433805874583047168","en":"Flamraga","ru":"Фламрага"}
-{"id":"explore:433805874583047424","en":"Fierce as raging fire, rampant as raging fire, radiant as raging fire!","ru":"Свиреп, как яростное пламя, буен, как яростное пламя, ослепителен, как яростное пламя!"}
+{"id":"explore:433805874583047424","en":"Fierce as raging fire, savage as raging fire, radiant as raging fire!","ru":"Свиреп, как яростное пламя, буен, как яростное пламя, ослепителен, как яростное пламя!"}
 {"id":"explore:433805874583047680","en":"Progress the main story.","ru":"Продвиньтесь по основной сюжетной линии."}
 {"id":"explore:433806304079776768","en":"Scenic Spot","ru":"Живописное место"}
 {"id":"explore:433806308374744064","en":"Scenic Spot","ru":"Живописное место"}
@@ -287,7 +287,7 @@
 {"id":"explore:433809744348580864","en":"Mine","ru":"Шахта"}
 {"id":"explore:433809744348581120","en":"Increases daily output of <color=#3f892e>Sky Iron</color> at the <color=#3f892e>Sky Iron Mine</color>.","ru":"Увеличивает суточную добычу <color=#3f892e>небесного железа</color> <color=#3f892e>на руднике небесного железа</color>."}
 {"id":"explore:433809748643548160","en":"Feeding Ground","ru":"Кормушка"}
-{"id":"explore:433809748643548416","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Tattered Beast Hide</color> and <color=#3f892e>Fine Beast Hide</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>рваной шкуры зверя</color> и <color=#3f892e>хорошей шкуры зверя</color>1"}
+{"id":"explore:433809748643548416","en":"<color=#3f892e>Feeding Ground</color>: <color=#3f892e>Tattered Beast Hide</color> and <color=#3f892e>Fine Beast Hide</color> daily yield increased1","ru":"<color=#3f892e>Кормушка</color>: суточный прирост <color=#3f892e>изодранной звериной шкуры</color> и <color=#3f892e>чистой звериной шкуры</color>1"}
 {"id":"explore:433810599047072768","en":"Scenic Spot","ru":"Живописное место"}
 {"id":"explore:433810603342040064","en":"Scenic Spot","ru":"Живописное место"}
 {"id":"explore:433811028543802368","en":"Starlink","ru":"Звёздная связь"}

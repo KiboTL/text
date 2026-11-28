@@ -20,7 +20,7 @@
 {"id":"hero_grade:124554052608","en":"-","ru":"-"}
 {"id":"hero_grade:128849019904","en":"Sprouting Young Leaves","ru":"Прорастающие молодые листья"}
 {"id":"hero_grade:128849020160","en":"Symphoria's EX Damage increases by 12%.\nWhen her Starecho Skill hits an enemy, gain 1 Wind Sigil.","ru":"Урон EX Симфории повышается на 12%.\nКогда навык звёздного эха попадает по врагу, даётся 1 знак ветра."}
-{"id":"hero_grade:128849021184","en":"A Heart That Protects","ru":"Сердце, что защищает"}
+{"id":"hero_grade:128849021184","en":"The Urge to Protect","ru":"Желание защищать"}
 {"id":"hero_grade:128849021440","en":"Accompanying you is part of my mission too. So... please don't stray too far from me, all right?","ru":"Сопровождать вас — тоже часть моей задачи. Так что... пожалуйста, не отходите от меня слишком далеко, хорошо?"}
 {"id":"hero_grade:128849021696","en":"Don't worry. I'm right here with you.","ru":"Не волнуйтесь, я рядом."}
 {"id":"hero_grade:12884902912","en":"Shoulder Cut","ru":"Удар в плечо"}
@@ -45,14 +45,14 @@
 {"id":"hero_grade:150323857664","en":"A Gentle Breeze Passing Through","ru":"Проносящийся лёгкий ветерок"}
 {"id":"hero_grade:150323857920","en":"Sometimes I wonder where the wind comes from. And right now, what I wonder is where this wind will take me. Mm... Starborn, you're here? Then let's get ready to set out.","ru":"Иногда я думаю: откуда же дует ветер? А сейчас мне интересно, куда этот ветер унесёт меня. М-м... Звездорождённый, вы пришли? Тогда давайте готовиться к отправлению."}
 {"id":"hero_grade:154618823680","en":"-","ru":"-"}
-{"id":"hero_grade:158913790976","en":"Abby and Gururu","ru":"Эбби и Гуруру"}
+{"id":"hero_grade:158913790976","en":"Abby's Grr","ru":"Эбби и урчание"}
 {"id":"hero_grade:158913791232","en":"After Abby uses a Starflash Skill, her Stagger Resistance increases by 1 stage(s) and DMG taken is reduced by 80% (duration: 8 sec).\nHer Break Efficiency increases by 20%.","ru":"После использования Эбби навыка звёздной вспышки её сопротивление оглушению повышается на 1 ст. и получаемый урон снижается на 80% (длительность: 8 сек.).\nЕё эффективность прорыва повышается на 20%."}
 {"id":"hero_grade:158913792256","en":"Young Dragon","ru":"Юный дракон"}
 {"id":"hero_grade:158913792512","en":"Abby is a dragon. Of course Papa and Mom are dragons too. But everyone always told me Abby was different...","ru":"Эбби — дракон. Конечно, папа и мама тоже драконы. Но мне всегда говорили, что Эбби не такая, как все..."}
 {"id":"hero_grade:158913792768","en":"Wanna play together?","ru":"Хочешь поиграть со мной?"}
-{"id":"hero_grade:163208758272","en":"Abby's Pounce","ru":"Прыжок Эбби"}
+{"id":"hero_grade:163208758272","en":"Abby's Bite","ru":"Хватка Эбби"}
 {"id":"hero_grade:163208758528","en":"After Abby deals EX Damage, the cooldown of her Starecho Skill is reduced by 3s (Cooldown: 15s). Her damage dealt is also increased by 12% (Duration: 10s).","ru":"После того как Эбби наносит урон EX, время перезарядки навыка звёздного эха сокращается на 3 сек. (перезарядка: 15 сек.). Также наносимый ею урон повышается на 12% (длительность: 10 сек.)."}
-{"id":"hero_grade:167503725568","en":"Abby's Clatter","ru":"Грохот Эбби"}
+{"id":"hero_grade:167503725568","en":"Abby's Nibble","ru":"Чаф-чаф Эбби"}
 {"id":"hero_grade:167503725824","en":"ATK increases by 50.\nBreak Value increases by 50.\nBreak Efficiency increases by 8%.","ru":"Сила атаки повышается на 50.\nЗначение прорыва повышается на 50.\nЭффективность прорыва повышается на 8%."}
 {"id":"hero_grade:167503726848","en":"Curiosity","ru":"Любопытство"}
 {"id":"hero_grade:167503727104","en":"It's not exactly mischief, but Abby is always distracted by something new. And by trying things herself, she learns all sorts of knowledge.","ru":"Это вовсе не шалость, но Эбби всегда отвлекается на что-нибудь новенькое. И, пробуя всё сама, она узнаёт самые разные вещи."}
@@ -64,7 +64,7 @@
 {"id":"hero_grade:17179871488","en":"Perfectionist","ru":"Перфекционистка"}
 {"id":"hero_grade:17179871744","en":"She handles any situation with ease, but sometimes fails to understand what others are thinking.","ru":"Она легко справляется с любой ситуацией, но порой не понимает, о чём думают другие."}
 {"id":"hero_grade:17179872000","en":"Oblivious Young Miss","ru":"Незамечающая госпожа"}
-{"id":"hero_grade:176093660160","en":"Abby's Full Belly","ru":"Эбби сыта по горло"}
+{"id":"hero_grade:176093660160","en":"Full-Belly Abby","ru":"Сытая Эбби"}
 {"id":"hero_grade:176093660416","en":"ATK increases by 50.\nEnergy Recharge Amplification increases by 5%.\nWater Element DMG Amplification increases by 8%.","ru":"Сила атаки повышается на 50.\nУсиление восстановления энергии повышается на 5%.\nУсиление урона водного элемента повышается на 8%."}
 {"id":"hero_grade:176093661440","en":"I-I really wanna eat that!","ru":"О-очень хочу это съесть!"}
 {"id":"hero_grade:176093661696","en":"I'll give you something yummy. So will you play with me?","ru":"Я дам тебе что-нибудь вкусное. Так поиграешь со мной?"}
@@ -75,14 +75,14 @@
 {"id":"hero_grade:180388628736","en":"Mmm...","ru":"М-м-м..."}
 {"id":"hero_grade:180388628992","en":"Abby, how long was I asleep? Were you by my side this whole time...?","ru":"Эбби, сколько я проспала? Ты всё это время была рядом со мной...?"}
 {"id":"hero_grade:184683594752","en":"-","ru":"-"}
-{"id":"hero_grade:188978562048","en":"The Wind Rises, the Wings Spread","ru":"Ветер встаёт, крылья раскрываются"}
+{"id":"hero_grade:188978562048","en":"Wings That Ride the Wind","ru":"Крылья, летящие с ветром"}
 {"id":"hero_grade:188978562304","en":"After Faridah uses a Starpolar Skill or Starecho Skill, she can always trigger a Pursuit (Duration: 20s, Max Triggers: 6).\nFaridah's Pursuit damage multiplier increases by 20%.","ru":"После того как Фарида применяет звёзднополярный навык или навык звёздного эха, она всегда может применить преследование (длительность: 20 сек., максимум срабатываний: 6).\nМножитель урона преследования Фариды повышается на 20%."}
 {"id":"hero_grade:188978563328","en":"A Flustered Moment","ru":"Мгновение смущения"}
 {"id":"hero_grade:188978563584","en":"My face is red!? I just ate too much Red Chili, that's all.","ru":"Лицо красное!? Просто я съела слишком много красного перца чили, вот и всё."}
 {"id":"hero_grade:188978563840","en":"Bad at Showing Feelings","ru":"Не умеет показывать чувства"}
 {"id":"hero_grade:193273529344","en":"The Lone Hawk Crosses the Canyon","ru":"Одинокий ястреб пересекает каньон"}
 {"id":"hero_grade:193273529600","en":"When Faridah's Pursuit hits an enemy, she gains a Shield equal to 10% of her Max HP (Cooldown: 10s). When gained again, the Shield value is refreshed. While the Shield is active, Faridah's Break Efficiency increases by 20%.","ru":"Когда преследование Фариды попадает по противнику, она получает щит в размере 10% от своего максимального здоровья (перезарядка: 10 сек.). При повторном получении значение щита обновляется. Пока щит активен, эффективность прорыва Фариды повышается на 20%."}
-{"id":"hero_grade:197568496640","en":"Pondering Beneath the Veil of Night","ru":"Раздумья под покровом ночи"}
+{"id":"hero_grade:197568496640","en":"Pondering in the Darkness of Night","ru":"Раздумья во мраке ночи"}
 {"id":"hero_grade:197568496896","en":"ATK increases by 50.\nBreak Value increases by 50.\nBreak Efficiency increases by 8%.","ru":"Сила атаки повышается на 50.\nЗначение прорыва повышается на 50.\nЭффективность прорыва повышается на 8%."}
 {"id":"hero_grade:197568497920","en":"Distinctive Appearance","ru":"Необычная внешность"}
 {"id":"hero_grade:197568498176","en":"Her wheat-colored skin and 4 black-and-white wings are relatively rare among the Wingfolk.","ru":"Её пшеничная кожа и 4 чёрно-белых крыла сравнительно редки среди крылатых."}
@@ -94,7 +94,7 @@
 {"id":"hero_grade:206158432512","en":"Secret Worry","ru":"Тайная тревога"}
 {"id":"hero_grade:206158432768","en":"Behind her impartial demeanor, she actually cares about every member of her clan.","ru":"За её беспристрастным видом скрывается забота о каждом члене клана."}
 {"id":"hero_grade:206158433024","en":"She always hides away alone to work through her negative feelings.","ru":"Она всегда уединяется, чтобы справиться с негативными чувствами."}
-{"id":"hero_grade:206158433280","en":"The Iron-Faced Lord?","ru":"Железноликая владычица?"}
+{"id":"hero_grade:206158433280","en":"The Brazen-Faced Clan Chief?","ru":"Бесстыжая вождь?"}
 {"id":"hero_grade:210453398528","en":"The Hawk Lord's Resolve","ru":"Решимость Ястребиного владыки"}
 {"id":"hero_grade:210453398784","en":"When Faridah deals EX Damage, the DMG of the corresponding attribute that enemies take increases by 4% (Max 5 stacks, Duration: 20s). Each stack's duration is calculated separately.","ru":"Когда Фарида наносит урон EX, получаемый противниками урон соответствующего атрибута повышается на 4% (максимум 5 стак., длительность: 20 сек.). Длительность каждого стака рассчитывается отдельно."}
 {"id":"hero_grade:210453399808","en":"Between Training Sessions","ru":"Между тренировками"}
@@ -104,7 +104,7 @@
 {"id":"hero_grade:21474837760","en":"When Morwyn consumes a Wind Sigil or Thunder Sigil, the DMG Amplification of the corresponding attribute is increased by 20% (duration: 10 sec).","ru":"Когда Морвин расходует Знак ветра или Громовую печать, усиление урона соответствующего атрибута повышается на 20% (длительность: 10 сек)."}
 {"id":"hero_grade:219043333120","en":"Guidepost to Hidden Treasure","ru":"Путеводный знак к сокровищу"}
 {"id":"hero_grade:219043333376","en":"When Han Youyou uses a Charged Attack, her Stagger Resistance increases by 1 level(s).\nFire Attribute DMG taken by enemies hit by the explosion of \"Flamefire\" increases by 12% (Duration: 24s).","ru":"Когда Хань Юю применяет заряженную атаку, её сопротивление оглушению повышается на 1 ур.\nПолучаемый противниками урон огненного атрибута повышается на 12%, если их задел взрыв «пламенного огня» (длительность: 24 сек.)."}
-{"id":"hero_grade:219043334400","en":"Contraption Prodigy","ru":"Гений механизмов"}
+{"id":"hero_grade:219043334400","en":"Mechanurgy Prodigy","ru":"Гений механоргии"}
 {"id":"hero_grade:219043334656","en":"This one... moves. That one can transform. And this one is—wait, run, it's about to explode!","ru":"Эта штука... двигается. Вот эта умеет превращаться. А эта... а, беги скорее, сейчас взорвётся!"}
 {"id":"hero_grade:219043334912","en":"When in Doubt, Modify","ru":"Сомневаешься — переделывай"}
 {"id":"hero_grade:223338300416","en":"Precise Calculations","ru":"Точные расчёты"}
@@ -125,7 +125,7 @@
 {"id":"hero_grade:240518169600","en":"Treasure Found!","ru":"Сокровище найдено!"}
 {"id":"hero_grade:240518169856","en":"After Han Youyou's Starpolar Skill hits an enemy afflicted with \"Flamefire,\" the whole team's Fire Attribute DMG increases by 16% (Duration: 24s).","ru":"После того как звёзднополярный навык Хань Юю попадает по противнику с «пламенным огнём», урон огненного атрибута всей команды повышается на 16% (длительность: 24 сек.)."}
 {"id":"hero_grade:240518170880","en":"Treasure","ru":"Сокровище"}
-{"id":"hero_grade:240518171136","en":"The real treasure might be right here. Hm? You mean you don't know what it is? That's fine. Treasure doesn't run away, so let's take our time searching for it!","ru":"Настоящее сокровище, наверное, где-то здесь. М? Что, не знаешь, что это? Ничего страшного. Сокровище не убежит, так что давай не спеша его поищем!"}
+{"id":"hero_grade:240518171136","en":"The real treasure is surely right here. Hm? You mean you don't know what it is? That's fine. Treasure doesn't run away, so let's take our time searching for it!","ru":"Настоящее сокровище наверняка здесь. М? Что, не знаешь, что это? Ничего страшного. Сокровище не убежит, так что давай не спеша его поищем!"}
 {"id":"hero_grade:244813136896","en":"-","ru":"-"}
 {"id":"hero_grade:249108104192","en":"The Pilgrim's First Vow","ru":"Первый обет пилигрима"}
 {"id":"hero_grade:249108104448","en":"The duration of \"Will\" becomes unlimited. When a Perfect Guard or Perfect Parry is triggered by \"Will,\" Wind Attribute DMG taken by enemies increases by 15% (Duration: 15s).","ru":"Длительность «Воли» становится неограниченной. Когда «Воля» вызывает идеальную защиту или идеальное парирование, получаемый противниками урон ветряного атрибута повышается на 15% (длительность: 15 сек.)."}
@@ -158,14 +158,14 @@
 {"id":"hero_grade:270582941952","en":"A Knight's Form","ru":"Облик рыцаря"}
 {"id":"hero_grade:270582942208","en":"Whenever I call, you always answer. So I'll show you everything—my armor, and my weaknesses too.","ru":"Когда бы я ни позвала, ты всегда откликаешься. Поэтому я покажу тебе всё — и свои доспехи, и свои слабости."}
 {"id":"hero_grade:274877907968","en":"-","ru":"-"}
-{"id":"hero_grade:279172875264","en":"Wings that Keep the Wind","ru":"Крылья, хранящие ветер"}
+{"id":"hero_grade:279172875264","en":"Feeling the Wind on My Wings","ru":"Чувствуя ветер в крыльях"}
 {"id":"hero_grade:279172875520","en":"Using a Level 3 Charged Attack while Charge is active restores 2 additional Starpolar Charge for each arrow that hits an enemy.\nMitty's Starecho Skill damage multiplier increases by 8%.","ru":"При использовании заряженной атаки 3-го уровня под действием «Заряда» каждая попавшая во врага стрела дополнительно восстанавливает 2 ед. звёзднополярного заряда.\nМножитель урона навыка звёздного эха Митти повышается на 8%."}
 {"id":"hero_grade:279172876544","en":"Wings of Rebirth","ru":"Крылья возрождения"}
 {"id":"hero_grade:279172876800","en":"Dad... I'll soon reach the clouds you once raced across!","ru":"Папа... скоро я дотянусь до облаков, по которым ты когда-то мчался!"}
 {"id":"hero_grade:279172877056","en":"A Secret Vow","ru":"Тайная клятва"}
 {"id":"hero_grade:283467842560","en":"Heart Pounding","ru":"Сердце колотится"}
 {"id":"hero_grade:283467842816","en":"After Mitty's Starflash Skill hits an enemy, the Thunder DMG that enemy takes increases by 15% (duration: 24 sec).","ru":"После попадания навыка звёздной вспышки Митти по врагу громовый урон, получаемый этим врагом, повышается на 15% (длительность: 24 сек.)."}
-{"id":"hero_grade:287762809856","en":"One Leap to the Sky","ru":"Один прыжок — и в небо"}
+{"id":"hero_grade:287762809856","en":"Lightly into the Sky","ru":"Легко в небо"}
 {"id":"hero_grade:287762810112","en":"ATK increases by 40.\nEnergy Regen Bonus increases by 4%.","ru":"Атака повышается на 40.\nБонус восстановления энергии повышается на 4%."}
 {"id":"hero_grade:287762811136","en":"Small but Stubborn","ru":"Маленькая, но упрямая"}
 {"id":"hero_grade:287762811392","en":"I'm the daughter of the previous <ruby=Hawk Lord></ruby>... Stop looking at me with pity!","ru":"Я дочь прежнего <ruby=Ястребиный владыка></ruby>... Не смотри на меня с жалостью!"}
@@ -187,7 +187,7 @@
 {"id":"hero_grade:30064773376","en":"When Caught Off Guard","ru":"Когда теряешь бдительность"}
 {"id":"hero_grade:30064773632","en":"Whenever I'm with you, I always find myself relaxing without meaning to. I wonder... why is that?","ru":"Когда я с тобой, я всегда невольно расслабляюсь. Интересно... почему же?"}
 {"id":"hero_grade:304942679040","en":"-","ru":"-"}
-{"id":"hero_grade:309237646336","en":"Resonant Spectrum","ru":"Спектр резонанса"}
+{"id":"hero_grade:309237646336","en":"Resonant Light Waves","ru":"Волны резонирующего света"}
 {"id":"hero_grade:309237646592","en":"While a Starecho Skill or Derived Charged Attack is active, each time an attack hits an enemy, restore 1 Starpolar Charge.\nStarpolar Skill DMG Multiplier increases by 10%.","ru":"Во время действия навыка звёздного эха или производной заряженной атаки при каждом попадании атаки по врагу восстанавливается 1 звёзднополярного заряда.\nМножитель урона звёзднополярного навыка повышается на 10%."}
 {"id":"hero_grade:309237647616","en":"A Boy of Mysterious Origin","ru":"Юноша с загадочным прошлым"}
 {"id":"hero_grade:309237647872","en":"He can be a little dense, but he holds very strong convictions and never bends them. He set out on a journey to discover his origins and the meaning of his existence.","ru":"Он бывает слегка недогадлив, но обладает очень твёрдыми убеждениями и никогда им не изменяет. Он отправился в путь, чтобы узнать своё происхождение и смысл своего существования."}
@@ -212,7 +212,7 @@
 {"id":"hero_grade:330712484096","en":"Star's Journey","ru":"Звёздный путь"}
 {"id":"hero_grade:330712484352","en":"As the Prophecy foretold, a shooting star descended upon this land. What ending awaits him along the road ahead?","ru":"Как и гласило Пророчество, звезда нисшла на эту землю. Какой финал ждёт его на этом пути?"}
 {"id":"hero_grade:335007450112","en":"-","ru":"-"}
-{"id":"hero_grade:339302417408","en":"Resonant Spectrum","ru":"Спектр резонанса"}
+{"id":"hero_grade:339302417408","en":"Resonant Light Waves","ru":"Волны резонирующего света"}
 {"id":"hero_grade:339302417664","en":"While a Starecho Skill or Derived Charged Attack is active, each time an attack hits an enemy, restore 1 Starpolar Charge.\nStarpolar Skill DMG Multiplier increases by 10%.","ru":"Во время действия навыка звёздного эха или производной заряженной атаки при каждом попадании атаки по врагу восстанавливается 1 звёзднополярного заряда.\nМножитель урона звёзднополярного навыка повышается на 10%."}
 {"id":"hero_grade:339302418688","en":"A Girl of Mysterious Origin","ru":"Девушка с загадочным прошлым"}
 {"id":"hero_grade:339302418944","en":"He can be a little dense, but he holds very strong convictions and never bends them. He set out on a journey to discover his origins and the meaning of his existence.","ru":"Он бывает слегка недогадлив, но обладает очень твёрдыми убеждениями и никогда им не изменяет. Он отправился в путь, чтобы узнать своё происхождение и смысл своего существования."}
@@ -240,8 +240,8 @@
 {"id":"hero_grade:365072221184","en":"-","ru":"-"}
 {"id":"hero_grade:369367188480","en":"Back and Forth","ru":"Туда и обратно"}
 {"id":"hero_grade:369367188736","en":"When Pengpeng triggers the 4th stage of her Normal Attack, her Stagger Resistance increases by 1 stage(s).\nWhen Pengpeng gains the enhancement effect of the 4th stage of her Normal Attack, its stack count is multiplied by 2.\nPengpeng's Starecho Skill DMG Multiplier increases by 8%.","ru":"Когда Пэнпэн применяет 4-ю стадию обычной атаки, её сопротивление оглушению повышается на 1 ст.\nКогда Пэнпэн получает усиливающий эффект 4-й стадии обычной атаки, число его наложений умножается на 2.\nМножитель урона навыка звёздного эха Пэнпэн повышается на 8%."}
-{"id":"hero_grade:369367189760","en":"All hail Pengpeng!","ru":"Слава Пэнпэн!"}
-{"id":"hero_grade:369367190016","en":"Heh-heh! Pengpeng is super strong, you know! Now watch this amazing—whoa! I'm falling! Catch me, quick!","ru":"Хе-хе! Пэнпэн ведь очень сильная! Сейчас покажу такое... Ой! Падаю! Ловите меня скорее!"}
+{"id":"hero_grade:369367189760","en":"Pengpeng Master!","ru":"Мастер Пэнпэн!"}
+{"id":"hero_grade:369367190016","en":"Heh-heh! Pengpeng is super strong, you know! Now I'll show you an amazing move—whoa! I'm falling! Catch me!","ru":"Хе-хе! Пэнпэн ведь очень сильная! Сейчас покажу такое... Ой! Падаю! Ловите меня!"}
 {"id":"hero_grade:369367190272","en":"Catch me!","ru":"Ловите меня!"}
 {"id":"hero_grade:373662155776","en":"Softness Within Strength","ru":"Мягкость в силе"}
 {"id":"hero_grade:373662156032","en":"After Pengpeng activates her enhanced Starecho Skill, the whole team's Fire Attribute DMG and Earth Attribute DMG increase by 8% (duration: 24 sec).","ru":"После активации Пэнпэн усиленного навыка звёздного эха огненный и земной атрибутный урон всей команды повышаются на 8% (длительность: 24 сек.)."}
@@ -273,19 +273,19 @@
 {"id":"hero_grade:399431960832","en":"Voice of the Elder Spirit","ru":"Голос Древнего духа"}
 {"id":"hero_grade:399431961088","en":"Elder Spirit, please watch over and bless our future—","ru":"Древний дух, прошу, храни и благослови наш путь —"}
 {"id":"hero_grade:399431961344","en":"The One and Only Shaman","ru":"Единственная шаманка"}
-{"id":"hero_grade:403726926848","en":"Grant Me Strength for a Moment","ru":"Даруй мне силу на мгновение"}
+{"id":"hero_grade:403726926848","en":"Please Grant Me Your Blessing","ru":"Даруйте мне ваше благословение"}
 {"id":"hero_grade:403726927104","en":"While Luruka is using a Charged Attack, DMG taken is reduced by 70%.\nWhen Luruka's Starflash Skill heals the active character, that character restores 5 Starpolar Charge.","ru":"Пока Лурука применяет заряженную атаку, получаемый урон снижается на 70%.\nКогда навык звёздной вспышки Луруки лечит управляемого персонажа, тот восстанавливает 5 звёзднополярного заряда."}
-{"id":"hero_grade:408021894144","en":"Feelings Become Guidance","ru":"Чувства становятся путеводной нитью"}
+{"id":"hero_grade:408021894144","en":"Feelings Become a Guiding Light","ru":"Чувства становятся путеводным светом"}
 {"id":"hero_grade:408021894400","en":"HP increases by 800.\nHealing Bonus increases by 12%.\nEnergy Regen Bonus increases by 5%.","ru":"HP повышается на 800.\nБонус лечения повышается на 12%.\nБонус восстановления энергии повышается на 5%."}
 {"id":"hero_grade:408021895424","en":"A Small Flutter","ru":"Маленькое трепетание"}
 {"id":"hero_grade:408021895680","en":"I felt the beat of a soul... I never thought I could be so moved...","ru":"Я ощутила биение души... Не думала, что это так взволнует меня..."}
 {"id":"hero_grade:408021895936","en":"Resonating","ru":"В резонансе"}
 {"id":"hero_grade:412316861440","en":"Souls Are Bound Together","ru":"Души связаны"}
 {"id":"hero_grade:412316861696","en":"After Luruka uses a Starpolar Skill, for a short time she can directly trigger the third stage of her Charged Attack.\nEach time Aura of Vitality heals, Luruka restores one additional Starpolar Charge.","ru":"После использования звёзднополярного навыка Лурука некоторое время может сразу применять третью стадию заряженной атаки.\nКаждый раз, когда «Аура жизненной силы» лечит, Лурука дополнительно восстанавливает 1 звёзднополярный заряд."}
-{"id":"hero_grade:416611828736","en":"I Offer Blessings to All Things","ru":"Я дарую благословение всему сущему"}
+{"id":"hero_grade:416611828736","en":"Blessings to All Things","ru":"Благословение всему сущему"}
 {"id":"hero_grade:416611828992","en":"DEF increases by 60.\nHP increases by 800.\nHealing Bonus increases by 12%.","ru":"Защита повышается на 60.\nHP повышается на 800.\nБонус лечения повышается на 12%."}
 {"id":"hero_grade:416611830016","en":"Fearsome Pharmaceutical Skill","ru":"Устрашающее искусство зельеварения"}
-{"id":"hero_grade:416611830272","en":"Here you go, freshly made calming herbal decoction. Huh? Where are you going?","ru":"Вот, пожалуйста, свежесваренный успокоительный травяной отвар. А? Куда вы?"}
+{"id":"hero_grade:416611830272","en":"Here you go, a calming herbal decoction. Huh? Where are you going?","ru":"Вот, пожалуйста, успокаивающий травяной отвар. А? Куда вы?"}
 {"id":"hero_grade:416611830528","en":"If Luruka and Anais ever meet, the world might be doomed.","ru":"Если Лурука и Анаис когда-нибудь встретятся, мир может погибнуть."}
 {"id":"hero_grade:416611830784","en":"Want to try it?","ru":"Попробуете?"}
 {"id":"hero_grade:420906796032","en":"Until All Is at Peace","ru":"Пока всё не успокоится"}
@@ -295,7 +295,7 @@
 {"id":"hero_grade:425201763328","en":"-","ru":"-"}
 {"id":"hero_grade:429496730624","en":"Bamboo Breathing","ru":"Дыхание бамбука"}
 {"id":"hero_grade:429496730880","en":"After Peipei's Starecho Skill hits an enemy, the target's DEF decreases by 20%, and her ATK increases by 20% (duration: 10 sec).","ru":"После попадания навыка звёздного эха Пэйпэй по врагу защита цели снижается на 20%, а её атака повышается на 20% (длительность: 10 сек.)."}
-{"id":"hero_grade:429496731904","en":"Am I strong?","ru":"Я сильная?"}
+{"id":"hero_grade:429496731904","en":"Peipei, am I strong?","ru":"Пэйпэй, я сильная?"}
 {"id":"hero_grade:429496732160","en":"Peipei dreams of becoming a great Xia—but could it be that she already is one without even realizing it?","ru":"Пэйпэй мечтает стать великой Ся, но, может быть, она уже стала ею, сама того не заметив?"}
 {"id":"hero_grade:429496732416","en":"Peipei will train hard.","ru":"Пэйпэй будет усердно тренироваться."}
 {"id":"hero_grade:42949673984","en":"Crowned in Loyalty","ru":"Увенчанная верностью"}
@@ -321,26 +321,26 @@
 {"id":"hero_grade:450971568384","en":"A Small Reflection","ru":"Маленькое размышление"}
 {"id":"hero_grade:450971568640","en":"Starborn never looks down on Peipei or laughs at her dreams. Whatever happens, you always listen to her troubles... Peipei is so happy that you're here!","ru":"Звездорождённый никогда не смеётся над Пэйпэй и не смотрит на неё свысока. Что бы ни случилось, ты всегда выслушаешь её заботы... Пэйпэй так рада, что ты рядом!"}
 {"id":"hero_grade:455266534400","en":"-","ru":"-"}
-{"id":"hero_grade:459561501696","en":"Allow Me to Greet You","ru":"Позвольте поприветствовать вас"}
+{"id":"hero_grade:459561501696","en":"Allow Me to Greet Your Lordship","ru":"Позвольте поприветствовать вашу светлость"}
 {"id":"hero_grade:459561501952","en":"After Cathbelle uses a Starflash Skill, her Break Efficiency increases by 20% (lasts 15s).\nAfter a Starecho Skill, holding the attack button to perform a Charged Attack within a certain time triggers the third form of the Charged Attack.","ru":"После применения Навыка звёздной вспышки Кэтбелль повышает свою Эффективность прорыва на 20% (длится 15 с).\nПосле Навыка звёздного эха удержание кнопки атаки для заряженной атаки в течение определённого времени активирует третью форму заряженной атаки."}
 {"id":"hero_grade:459561502976","en":"Troubled by occasionally not knowing her own strength.","ru":"Переживает, что иногда не может рассчитать свою силу."}
-{"id":"hero_grade:459561503232","en":"Please do be careful. If you don't treat it like work, controlling your strength may prove difficult.","ru":"Пожалуйста, будьте осторожны. Если не отнестись к этому как к работе, совладать с силой будет непросто."}
+{"id":"hero_grade:459561503232","en":"Please do be careful. If you don't approach it with the mindset of work, controlling your strength may prove a little difficult.","ru":"Пожалуйста, будьте осторожны. Если не отнестись к этому как к работе, совладать с силой будет немного непросто."}
 {"id":"hero_grade:459561503488","en":"Brute-Force Maid","ru":"Мейд небывалой силы"}
-{"id":"hero_grade:463856468992","en":"Is There Something I Can Help With?","ru":"Чем я могу помочь?"}
+{"id":"hero_grade:463856468992","en":"Shall I Assist You?","ru":"Могу я вам помочь?"}
 {"id":"hero_grade:463856469248","en":"After Cathbelle's Starflash Skill, Perfect Parry, Starecho Skill, or Derived Charged Attack hits an enemy, her Thunder DMG dealt increases by 9% and DMG taken decreases by 25% (max 3 stacks, lasts 15s).","ru":"После того как Навык звёздной вспышки, идеальное парирование, Навык звёздного эха или производная заряженная атака Кэтбелль попадают по врагу, наносимый ею громовый урон повышается на 9%, а получаемый урон снижается на 25% (макс. 3 стак., длится 15 с)."}
 {"id":"hero_grade:468151436288","en":"Is There Something You Need?","ru":"Что-то нужно?"}
 {"id":"hero_grade:468151436544","en":"ATK increases by 50.\nBreak Value increases by 50.\nBreak Efficiency increases by 8%.","ru":"Сила атаки повышается на 50.\nЗначение прорыва повышается на 50.\nЭффективность прорыва повышается на 8%."}
 {"id":"hero_grade:468151437568","en":"Dark Cuisine","ru":"Тёмная кухня"}
-{"id":"hero_grade:468151437824","en":"Nanacha helped me prepare this dish. Please do give it a taste and see if it suits you.","ru":"Это блюдо я приготовила с помощью Наначи. Отведайте, пожалуйста, и скажите, по вкусу ли оно вам."}
+{"id":"hero_grade:468151437824","en":"Nanacha helped me prepare this dish. Please do give it a taste and see if it suits you.","ru":"Это блюдо я приготовила с помощью госпожи Наначи. Отведайте, пожалуйста, и скажите, по вкусу ли оно вам."}
 {"id":"hero_grade:468151438080","en":"A Face Full of Anticipation","ru":"Лицо, полное ожидания"}
-{"id":"hero_grade:472446403584","en":"I'll Clean Up Afterward","ru":"Убрать за вами — моя забота"}
+{"id":"hero_grade:472446403584","en":"Leave the Cleanup to Me","ru":"Уборку оставьте мне"}
 {"id":"hero_grade:472446403840","en":"Whenever Cathbelle deals EX Damage, the Break Efficiency taken by the enemy hit increases by 6% (max 3 stacks, lasts 24s).","ru":"Всякий раз, когда Кэтбелль наносит урон EX, Эффективность прорыва поражённого врага повышается на 6% (макс. 3 стак., длится 24 с)."}
-{"id":"hero_grade:47244641280","en":"Facing the Blade of Fear","ru":"Пред лицом клинка страха"}
+{"id":"hero_grade:47244641280","en":"Confronting the Sharp Blade","ru":"Пред лицом острого клинка"}
 {"id":"hero_grade:47244641536","en":"ATK increases by 50.\nCrit Rate increases by 4%.\nLight Element DMG Bonus increases by 8%.","ru":"Атака повышается на 50.\nКрит. шанс повышается на 4%.\nБонус Светлого элемента повышается на 8%."}
 {"id":"hero_grade:47244642560","en":"A Serious Side","ru":"Серьёзная сторона"}
 {"id":"hero_grade:47244642816","en":"Cultural Knowledge Matters Too!","ru":"Знания о культуре тоже важны!"}
 {"id":"hero_grade:47244643072","en":"Sometimes Wears Glasses","ru":"Иногда носит очки"}
-{"id":"hero_grade:476741370880","en":"As You Wish","ru":"Как пожелаете"}
+{"id":"hero_grade:476741370880","en":"As Your Lordship Wishes","ru":"Как пожелает ваша светлость"}
 {"id":"hero_grade:476741371136","en":"ATK increases by 50.\nDMG taken decreases by 5%.\nThunder DMG Bonus increases by 8%.","ru":"Атака повышается на 50.\nПолучаемый урон снижается на 5%.\nБонус Громового урона повышается на 8%."}
 {"id":"hero_grade:476741372160","en":"Unexpectedly Sharp-Tongued?","ru":"Неожиданно острый язык?"}
 {"id":"hero_grade:476741372416","en":"A Look for Rude Guests","ru":"Взгляд на невоспитанных гостей"}
@@ -353,16 +353,16 @@
 {"id":"hero_grade:485331305472","en":"-","ru":"-"}
 {"id":"hero_grade:489626272768","en":"Evil Spirits, Begone","ru":"Прочь, злые духи"}
 {"id":"hero_grade:489626273024","en":"Whenever the Wooden Coffin releases a shockwave, it restores 2 Starpolar Charge for the whole team.\nLan Xiangzi's Starecho Skill DMG multiplier increases by 10%.","ru":"Всякий раз, когда Деревянный гроб испускает ударную волну, он восстанавливает 2 Звёзднополярного заряда всей команде.\nМножитель урона Навыка звёздного эха Лань Сянцзы повышается на 10%."}
-{"id":"hero_grade:489626274048","en":"O-overloaded...","ru":"П-перегрузка..."}
+{"id":"hero_grade:489626274048","en":"I-it's too much...","ru":"Б-больше не могу..."}
 {"id":"hero_grade:489626274304","en":"So many people... so many kibo... so many voices... What should I do...","ru":"Столько людей... столько кибо... столько голосов... Что же мне делать..."}
 {"id":"hero_grade:489626274560","en":"It's still the most comforting to be here after all...","ru":"И всё же здесь мне спокойнее всего..."}
-{"id":"hero_grade:493921240064","en":"Immunity","ru":"Иммунитет"}
+{"id":"hero_grade:493921240064","en":"Poison Immunity","ru":"Иммунитет к яду"}
 {"id":"hero_grade:493921240320","en":"When summoned, the Wooden Coffin releases a shockwave 1 times, dealing damage equal to 150% of her ATK. It also increases the whole team's EX CRIT Rate by 15% (lasts 24s).","ru":"При появлении Деревянный гроб испускает ударную волну 1 раз, нанося урон в размере 150% от её силы атаки. Также он повышает шанс крита EX всей команды на 15% (длится 24 с)."}
 {"id":"hero_grade:498216207360","en":"Heaven and Earth's Upright Qi","ru":"Праведная ци неба и земли"}
 {"id":"hero_grade:498216207616","en":"ATK increases by 50.\nEnergy Regen Bonus increases by 5%.\nIce Attribute DMG Bonus increases by 8%.","ru":"Атака повышается на 50.\nБонус восстановления энергии повышается на 5%.\nБонус Ледяного атрибута повышается на 8%."}
-{"id":"hero_grade:498216208640","en":"H-how do I draw it...","ru":"К-как это нарисовать..."}
+{"id":"hero_grade:498216208640","en":"D-do I draw it like this...","ru":"И-и так это рисуется..."}
 {"id":"hero_grade:498216208896","en":"Lan Xiangzi is versed in all manner of talismans, and when she feels uneasy, she sticks them all around herself... which only draws more attention to her.","ru":"Лань Сянцзы сведуща во всевозможных талисманах, и когда ей тревожно, она обклеивает ими всё вокруг себя... чем лишь привлекает к себе ещё больше внимания."}
-{"id":"hero_grade:498216209152","en":"Ward off evil, seal demons, calm the qi, purify the heart.","ru":"Отгоняй зло, запечатывай демонов, успокаивай ци, очищай сердце."}
+{"id":"hero_grade:498216209152","en":"Ward off malefic spirits and purify the divine qi.","ru":"Отгоняй злых духов и очищай божественную ци."}
 {"id":"hero_grade:502511174656","en":"Spirit-Light Ward","ru":"Щит духовного света"}
 {"id":"hero_grade:502511174912","en":"When Lan Xiangzi uses a Starecho Skill, she directly summons the Wooden Coffin's second form and gains 1 additional Ice Sigils.","ru":"Когда Лань Сянцзы применяет Навык звёздного эха, она сразу призывает вторую форму Деревянного гроба и дополнительно получает 1 Ледяных печатей."}
 {"id":"hero_grade:506806141952","en":"Purity Returns to Its Place","ru":"Чистота возвращается на своё место"}
@@ -370,11 +370,11 @@
 {"id":"hero_grade:506806143232","en":"I-I want to rest now...","ru":"Я-я хочу отдохнуть..."}
 {"id":"hero_grade:506806143488","en":"G-good morning. Did you rest well? If you'd like, you could lie down a little longer at my place... that is...","ru":"Д-доброе утро. Хорошо ли вы отдохнули? Если хотите, можете ещё немного полежать у меня... то есть..."}
 {"id":"hero_grade:506806143744","en":"Whenever I'm by your side, I no longer feel like I'm just a walking corpse. It's as if something inside my chest has begun to beat once more... Could this be the grace you've brought me?","ru":"Когда я рядом с вами, мне уже не кажется, что я всего лишь живой труп. Словно что-то в моей груди снова начало биться... Неужели это благодать, которую вы мне даровали?"}
-{"id":"hero_grade:506806144000","en":"One Who Lingers","ru":"Застывшая во времени"}
+{"id":"hero_grade:506806144000","en":"One Who Was Stopped in Time","ru":"Остановленная во времени"}
 {"id":"hero_grade:511101109248","en":"Souls at Peace","ru":"Покой душ"}
 {"id":"hero_grade:511101109504","en":"The all-element DMG bonus granted to the whole team by Lan Xiangzi's Talent Skill increases by an additional 10%.\nWhen a Soul Shadow hits an enemy, it reduces their DEF by 4% (max 3 stacks, lasts 24s).","ru":"Бонус урона всех стихий, который Талант-навык Лань Сянцзы даёт всей команде, повышается дополнительно на 10%.\nКогда Тень души попадает по врагу, она снижает его защиту на 4% (макс. 3 стак., длится 24 с)."}
 {"id":"hero_grade:511101110528","en":"A Heartbeat Deep Within","ru":"Глубокое биение сердца"}
-{"id":"hero_grade:511101110784","en":"I-I've never forgotten my feelings... and I won't hide them from you either.","ru":"Я-я никогда не забывала о своих чувствах... и от вас я их тоже не скрою."}
+{"id":"hero_grade:511101110784","en":"I-I remember my own feelings... and I won't hide anything from you either.","ru":"Я-я помню о своих чувствах... и от вас я тоже ничего не скрою."}
 {"id":"hero_grade:515396076544","en":"-","ru":"-"}
 {"id":"hero_grade:51539608576","en":"Restraining Her Desires","ru":"Сдерживая желания"}
 {"id":"hero_grade:51539608832","en":"When Shalle activates Charged Attack's second form, she restores 3 Starpolar Charge and reduces the cooldown of her Starecho Skill by 1s (cooldown: 10s).\nShalle's Charged Attack DMG increases by 10%.","ru":"Когда Шалль активирует вторую форму Заряженной атаки, она восстанавливает 3 Звёзднополярного заряда и сокращает время перезарядки Навыка звёздного эха на 1 с (перезарядка: 10 с).\nУрон Заряженной атаки Шалль повышается на 10%."}
@@ -415,13 +415,13 @@
 {"id":"hero_grade:558345750784","en":"It really makes me cry...","ru":"Правда, до слёз трогательно..."}
 {"id":"hero_grade:558345751040","en":"I must have read this book over and over, but it still moves me so much every time.","ru":"Наверное, я читала эту книгу снова и снова, но каждый раз она меня так трогает."}
 {"id":"hero_grade:558345751296","en":"Maybe I'll read it one more time?","ru":"Может, прочитать ещё разок?"}
-{"id":"hero_grade:55834575872","en":"The Duty to Guard the Weak","ru":"Долг защищать слабых"}
+{"id":"hero_grade:55834575872","en":"Bearing the Duty to Protect the Weak","ru":"Нести долг защиты слабых"}
 {"id":"hero_grade:55834576128","en":"ATK increases by 50.\nCrit DMG increases by 8%.\nDMG taken decreases by 5%.","ru":"Атака повышается на 50.\nКрит. урон повышается на 8%.\nПолучаемый урон снижается на 5%."}
 {"id":"hero_grade:55834577152","en":"Still Hungry","ru":"Хочется ещё"}
 {"id":"hero_grade:55834577408","en":"Could I have another bowl, please? Thank you for the meal.","ru":"Можно мне ещё одну порцию? Спасибо за угощение."}
 {"id":"hero_grade:55834577664","en":"Perhaps because of how much she exercises, despite her delicate appearance, you can't help but worry whether she'll ever feel full.","ru":"Возможно, из-за огромных физических нагрузок, несмотря на хрупкую внешность, невольно начинаешь переживать, наестся ли она когда-нибудь."}
 {"id":"hero_grade:55834577920","en":"Just how much can she eat?","ru":"Интересно, сколько же она может съесть?"}
-{"id":"hero_grade:562640716800","en":"One Within a Fleeting Dream","ru":"Один из мимолётного сна"}
+{"id":"hero_grade:562640716800","en":"One Who Lives in a Fleeting Dream","ru":"Живущий в мимолётном сне"}
 {"id":"hero_grade:562640717056","en":"While Bondweaving is active, Tushan Xiaoyu recovers 3 Starpolar Charge every 1 seconds.\n When she activates her Starpolar Skill, she gains 1 Light Marks.","ru":"Пока активно «Плетение уз», Тушань Сяоюй восстанавливает 3 звёзднополярного заряда каждые 1 сек.\n При активации звёзднополярного навыка она получает 1 метки света."}
 {"id":"hero_grade:566935684096","en":"The Red Thread of Fate","ru":"Красная нить судьбы"}
 {"id":"hero_grade:566935684352","en":"EX Intensity increases by 50.\n EX CRIT Rate increases by 5%.\n Light Element DMG amplification increases by 8%.","ru":"Интенсивность EX повышается на 50.\n Шанс крита EX повышается на 5%.\n Усиление светлого урона повышается на 8%."}
@@ -432,7 +432,7 @@
 {"id":"hero_grade:571230651392","en":"Yearning Across a Thousand Miles","ru":"Тоска за тысячу ли"}
 {"id":"hero_grade:571230651648","en":"When Tushan Xiaoyu uses a Special Charged Attack or an Enhanced Special Charged Attack, she can consume up to 2 Wind Sigils. If she consumes 2, she gains 1 Wind Sigils.\n When she deals EX Damage, her EX CRIT Rate increases by 15% (duration: 15 sec).\n While Bondweaving is active, her EX Damage increases by 30%.","ru":"Когда Тушань Сяоюй применяет особую заряженную атаку или усиленную особую заряженную атаку, она может потратить до 2 знаков ветра. Потратив 2, она получает 1 знака ветра.\n Нанося урон EX, она повышает свой шанс крита EX на 15% (длительность: 15 сек.).\n Пока активно «Плетение уз», её урон EX повышается на 30%."}
 {"id":"hero_grade:571230652672","en":"A Good Bond and a Beautiful Dream","ru":"Добрая связь и прекрасный сон"}
-{"id":"hero_grade:571230652928","en":"Led by fate, you've come to my side again. So what can this little immortal fox do for you?","ru":"Ведомый узами, ты снова пришёл к моему боку. Так что же эта маленькая бессмертная лиса может для тебя сделать?"}
+{"id":"hero_grade:571230652928","en":"Led by fate, you've come to my side again. So what can a little immortal fox like me give back to you?","ru":"Ведомый узами, ты снова пришёл к моему боку. Так что же такая маленькая бессмертная лиса, как я, может тебе подарить?"}
 {"id":"hero_grade:575525618688","en":"-","ru":"-"}
 {"id":"hero_grade:579820585984","en":"The Flame Whispers Before Dawn","ru":"Пламя шепчет перед рассветом"}
 {"id":"hero_grade:579820586240","en":"For a short time after Ruby consumes Sigils, her Enhanced Normal Attack combo is treated as starting from the 7th hit. Additionally, her Crit DMG increases by 20% (duration: 15 sec).","ru":"В течение короткого времени после того, как Руби тратит печати, её серия усиленных обычных атак считается начатой с 7-го удара. Кроме того, её крит. урон повышается на 20% (длительность: 15 сек.)."}
@@ -451,8 +451,8 @@
 {"id":"hero_grade:597000455168","en":"A Meteor Streaking Through the Glass Forest","ru":"Метеор, летящий сквозь стеклянный лес"}
 {"id":"hero_grade:597000455424","en":"ATK increases by 50.\n DEF Penetration increases by 4%.\n Damage dealt increases by 3%.","ru":"Атака повышается на 50.\n Пробивание защиты повышается на 4%.\n Урон повышается на 3%."}
 {"id":"hero_grade:597000456448","en":"Super Artist","ru":"Суперхудожница"}
-{"id":"hero_grade:597000456704","en":"Between magitech and magic, she chants a rallying cry to the future—the 'Federation Legendary Weapon Artist.' Her sparkling light illuminates the world—Ruby!","ru":"На грани магии и волшебства она возглашает призыв к будущему — «Легендарный оружейный художник Федерации». Её сверкающий свет озаряет мир — Руби!"}
-{"id":"hero_grade:597000456960","en":"Huh? Oh! You're here! Hey, hey, could you grab those books over there for me? Yes! All 10 of them—hee hee, I'm going to swim in the spring of inspiration!","ru":"А? Ой! Ты здесь! Эй, эй, принеси-ка мне вон те книги! Да! Все 10 штук — хи-хи, я буду плавать в источнике вдохновения!"}
+{"id":"hero_grade:597000456704","en":"Between magitech and magic, she who chants the command of the future—the Federation Legendary Weapon Artist, the supreme sparkle that illuminates this world—Ruby!","ru":"На грани магии и волшебства та, что возглашает повеление будущего, — Легендарный оружейный художник Федерации, высшее мерцание, озаряющее этот мир, — Руби!"}
+{"id":"hero_grade:597000456960","en":"Huh? Oh! You're here! Hey, hey, could you grab those books over there for me? Yes! All 10 of them—well then, it's time to swim in the spring of inspiration!","ru":"А? Ой! Ты здесь! Эй, эй, принеси-ка мне вон те книги! Да! Все 10 штук — ну что ж, пора плавать в источнике вдохновения!"}
 {"id":"hero_grade:597000457216","en":"What a lovely happy ending!","ru":"Какой чудесный счастливый финал!"}
 {"id":"hero_grade:601295422464","en":"The Unfinished Orange Psalm","ru":"Незаконченный оранжевый псалом"}
 {"id":"hero_grade:601295422720","en":"Ruby's Enhanced Normal Attack DMG multiplier increases by 15%.\n For the rest of this battle, each time she uses an Enhanced Normal Attack, her DEF Penetration increases by 0.6% (max 50 stacks). Lasts until the battle ends.","ru":"Множитель урона усиленной обычной атаки Руби повышается на 15%.\n До конца этого боя каждый раз после усиленной обычной атаки её пробивание защиты повышается на 0.6% (макс. 50 стаков). Действует до окончания боя."}
@@ -460,39 +460,39 @@
 {"id":"hero_grade:601295424000","en":"Today you're going to study the design of my next work together with me! Hee hee, unlike the others, I won't be satisfied so easily.","ru":"Сегодня ты вместе со мной займёшься проектом моей следующей работы! Хи-хи, я не из тех, кого так просто удовлетворить."}
 {"id":"hero_grade:60129543168","en":"Bearing the Name of Glory","ru":"Носящая имя славы"}
 {"id":"hero_grade:60129543424","en":"Shalle's DMG dealt increases by 20%.\nWhen attacking a Break enemy, her DMG dealt increases further by 20%.","ru":"Урон, наносимый Шалль, повышается на 20%.\nПри атаке врага в состоянии Прорыва её наносимый урон дополнительно повышается на 20%."}
-{"id":"hero_grade:60129544448","en":"Knight of Sweet Dreams","ru":"Рыцарь сладких снов"}
+{"id":"hero_grade:60129544448","en":"Knight of Beautiful Dreams","ru":"Рыцарь прекрасных снов"}
 {"id":"hero_grade:60129544704","en":"Are you awake? Did you sleep well? Hee hee, there's no way you'd have nightmares. Not while I'm here. So please, rest easy.","ru":"Вы уже проснулись? Хорошо ли спалось? Хи-хи, какие уж тут кошмары. Ведь я рядом. Так что спите спокойно."}
 {"id":"hero_grade:605590389760","en":"-","ru":"-"}
 {"id":"hero_grade:609885357056","en":"Sprouting Horns","ru":"Прорастающие рога"}
 {"id":"hero_grade:609885357312","en":"The Shield gained from Katalua's skill lasts permanently.\n While that Shield is active, Break Efficiency increases by 10%.","ru":"Щит, полученный от навыка Каталуа, действует бессрочно.\n Пока этот щит активен, эффективность прорыва повышается на 10%."}
-{"id":"hero_grade:609885358336","en":"Brave Little Cow","ru":"Храбрая коровка"}
+{"id":"hero_grade:609885358336","en":"Brave Horned Cow Girl","ru":"Храбрая рогатая коровница"}
 {"id":"hero_grade:609885358592","en":"I-I can do it! Don't worry, leave it to me!","ru":"Я-я справлюсь! Не волнуйся, доверься мне!"}
 {"id":"hero_grade:609885358848","en":"Pumping herself up","ru":"Подбадривает себя"}
 {"id":"hero_grade:614180324352","en":"Traces of Light Hooves","ru":"Следы лёгких копыт"}
 {"id":"hero_grade:614180324608","en":"While the Shield gained from Katalua's skill is active, the active character's damage dealt increases by 10%.","ru":"Пока активен щит, полученный от навыка Каталуа, урон активного персонажа повышается на 10%."}
-{"id":"hero_grade:618475291648","en":"Melody of the Tail","ru":"Мелодия хвоста"}
+{"id":"hero_grade:618475291648","en":"Swaying Tail","ru":"Колышущийся хвост"}
 {"id":"hero_grade:618475291904","en":"DEF increases by 50.\n Energy Regeneration amplification increases by 4%.","ru":"Защита повышается на 50.\n Усиление восстановления энергии повышается на 4%."}
 {"id":"hero_grade:618475292928","en":"Terrible at Hiding","ru":"Плохо скрывается"}
 {"id":"hero_grade:618475293184","en":"Her heart is plain to see","ru":"Её сердце как на ладони"}
-{"id":"hero_grade:618475293440","en":"This is sooo embarrassing... uu...","ru":"Так-то неловко... уу..."}
+{"id":"hero_grade:618475293440","en":"It's so embarrassing... uu...","ru":"Так стыдно... уу..."}
 {"id":"hero_grade:622770258944","en":"Ears A-Twitch","ru":"Ушки подрагивают"}
 {"id":"hero_grade:622770259200","en":"While the Shield gained from Katalua's skill is active, the active character's damage taken is reduced by 20%.","ru":"Пока активен щит, полученный от навыка Каталуа, получаемый урон активного персонажа снижается на 20%."}
 {"id":"hero_grade:627065226240","en":"A Straightened Spine","ru":"Выпрямленная спина"}
 {"id":"hero_grade:627065226496","en":"DEF increases by 50.\nHP increases by 600.","ru":"Защита повышается на 50.\nЗдоровье повышается на 600."}
-{"id":"hero_grade:627065227520","en":"Steady Even When Shaken","ru":"Не падает, даже качаясь"}
+{"id":"hero_grade:627065227520","en":"Stand Firm While Swaying","ru":"Не сдаётся, даже качаясь"}
 {"id":"hero_grade:627065227776","en":"I absolutely... uu... won't back down!","ru":"Я ни за что... уу... не отступлю!"}
 {"id":"hero_grade:627065228032","en":"Stay behind me. I'll... protect you!","ru":"Держись позади. Я... тебя защищу!"}
 {"id":"hero_grade:627065228288","en":"The sturdiest shield of the Clan of the Crooked Horn","ru":"Самый крепкий щит Клана Кривого Рога"}
 {"id":"hero_grade:631360193536","en":"Sparkling Eyes","ru":"Сверкающие глаза"}
 {"id":"hero_grade:631360193792","en":"The enemy's damage-taken increase from the Starecho Skill becomes 20%.\n The ATK amplification from the Starflash Skill becomes 40% of Katalua's base DEF.","ru":"Увеличение получаемого врагом урона от навыка звёздного эха становится 20%.\n Усиление атаки от навыка звёздной вспышки становится 40% от базовой защиты Каталуа."}
 {"id":"hero_grade:631360194816","en":"Behind the Sturdy Shield","ru":"За крепким щитом"}
-{"id":"hero_grade:631360195072","en":"Uu... d-do I really look as fluffy and unreliable as cotton candy? But you know... I'm actually super tenacious!","ru":"Уу... н-неужели я правда выгляжу такой пушистой и ненадёжной, как сахарная вата? Но знаешь... на самом деле я ужасно упорная!"}
+{"id":"hero_grade:631360195072","en":"Muu... d-do I look as fluffy and unreliable as Spiderfluff? B-but...! I'm actually super tenacious!","ru":"Муу... н-неужели я выгляжу такой пушистой и ненадёжной, как Паутинный пух? Н-но...! На самом деле я ужасно упорная!"}
 {"id":"hero_grade:635655160832","en":"-","ru":"-"}
 {"id":"hero_grade:639950128128","en":"Cheers! The Journey Begins","ru":"Ликование! Начало пути"}
 {"id":"hero_grade:639950128384","en":"Meow Meow Rush's duration is extended to 24 sec and persists when switching the active character.\n Meow Meow Rush's fixed damage increases by 50%.","ru":"Длительность «Мяу-мяу натиска» продлевается до 24 сек. и сохраняется при смене активного персонажа.\n Фиксированный урон «Мяу-мяу натиска» повышается на 50%."}
 {"id":"hero_grade:639950129408","en":"Cheerful Guide Girl","ru":"Бодрая девочка-гид"}
-{"id":"hero_grade:639950129664","en":"She holds both the post of 'Adventurers' Association receptionist' and that of 'Kibo Fight Union guide.'","ru":"Она совмещает должности «регистратора Ассоциации искателей приключений» и «гида Союза кибо-боёв»."}
-{"id":"hero_grade:639950129920","en":"I'm so glad I could help~","ru":"Как хорошо, что я смогла помочь~"}
+{"id":"hero_grade:639950129664","en":"She holds both the post of 'Adventurers' Guild receptionist' and that of 'Kibo Fight Association guide.'","ru":"Она совмещает должности «регистратора Гильдии искателей приключений» и «гида Ассоциации кибо-боёв»."}
+{"id":"hero_grade:639950129920","en":"I'm glad I could be useful!","ru":"Как хорошо, что я пригодилась!"}
 {"id":"hero_grade:644245095424","en":"Leap! The Phantom Stage","ru":"Прыжок! Призрачная сцена"}
 {"id":"hero_grade:644245095680","en":"The ATK amplification for characters who gain Meow Meow Rush becomes 8% of Maple's ATK.\n When an enemy takes fixed damage from Meow Meow Rush, it takes an additional 250% of Maple's ATK as fixed damage 1 times (cooldown: 10 sec).","ru":"Усиление атаки для персонажей, получивших «Мяу-мяу натиск», становится 8% от атаки Мейпл.\n Когда враг получает фиксированный урон от «Мяу-мяу натиска», он дополнительно получает фиксированный урон в размере 250% от атаки Мейпл 1 раз (перезарядка: 10 сек.)."}
 {"id":"hero_grade:64424510464","en":"-","ru":"-"}
@@ -507,12 +507,12 @@
 {"id":"hero_grade:657129997568","en":"DEF increases by 50.\nHP increases by 600.","ru":"Защита повышается на 50.\nЗдоровье повышается на 600."}
 {"id":"hero_grade:657129998592","en":"But her attitude at work is extremely professional.","ru":"Но на работе она держится крайне профессионально."}
 {"id":"hero_grade:657129998848","en":"With a personality as bright and lively as the sun, Maple is loved by everyone. For minor problems, she sometimes 'charms her way out of it.'","ru":"Благодаря яркому и живому характеру, как солнце, Мейпл любят все. С мелкими проблемами она порой «выкручивается обаянием»."}
-{"id":"hero_grade:657129999104","en":"Because I'm cute, nya~","ru":"Ведь я милашка, ня~"}
+{"id":"hero_grade:657129999104","en":"Because Maple is cute, nya!","ru":"Ведь Мейпл милашка, ня!"}
 {"id":"hero_grade:657129999360","en":"Work and play stay separate, nya!","ru":"Работа и личное — отдельно, ня!"}
 {"id":"hero_grade:661424964608","en":"Connect! The Bond of Stars","ru":"Соединяйтесь! Узы звёзд"}
 {"id":"hero_grade:661424964864","en":"Each time Maple activates her Starecho Skill, the whole team's EX Intensity increases by 6% (max 2 stacks, duration: 20 sec).","ru":"Каждый раз, когда Мейпл активирует навык звёздного эха, интенсивность EX всей команды повышается на 6% (макс. 2 стаков, длительность: 20 сек.)."}
 {"id":"hero_grade:661424965888","en":"Sweet Love","ru":"Сладкая любовь"}
-{"id":"hero_grade:661424966144","en":"Oh wow, that's amazing! I've never met anyone who makes my heart pound like this. Adventurer, I loooove you!","ru":"Ну надо же, как здорово! Я впервые встречаю человека, от которого так сильно бьётся сердце. Искатель приключений, я тебя о-бо-жа-ю!"}
+{"id":"hero_grade:661424966144","en":"Sooo amazing! I've never met anyone who makes my heart pound like this. Adventurer, I loooove you!","ru":"Как же здорово! Я впервые встречаю человека, от которого так сильно бьётся сердце. Искатель приключений, я тебя о-бо-жа-ю!"}
 {"id":"hero_grade:665719931904","en":"-","ru":"-"}
 {"id":"hero_grade:670014899200","en":"Root Power Hoarded in the Dark","ru":"Сила корней, сокрытая во тьме"}
 {"id":"hero_grade:670014899456","en":"When Metsa lands the 4th hit of her Normal Attack or performs a Charged Attack, she applies Thorns to the enemy (max 2 stacks).\nWhen Metsa performs a Charged Attack, her Stagger Resistance increases by 1 levels.\nMetsa's Starpolar Skill damage multiplier increases by 12%.","ru":"Когда Метса попадает 4-м ударом обычной атаки или выполняет заряженную атаку, она накладывает на противника «Шипы» (макс. 2 ур.).\nКогда Метса выполняет заряженную атаку, её сопротивление оглушению повышается на 1 уровня.\nМножитель урона звёзднополярного навыка Метсы повышается на 12%."}
@@ -545,14 +545,14 @@
 {"id":"hero_grade:691489737216","en":"Hello there. The weather is lovely, and the breeze feels so nice... On a day like this, it's just perfect to spend time together.","ru":"Здравствуй. Погода чудесная, и ветерок такой приятный... В такой день так и хочется провести время вместе."}
 {"id":"hero_grade:73014445056","en":"Heavy and Solid","ru":"Тяжёлый и прочный"}
 {"id":"hero_grade:73014445312","en":"After Nono activates her Starflash Skill, she gains 2 Earth Sigil, and her Break Efficiency increases by 20% (lasting 15s).","ru":"После активации навыка звёздной вспышки Ноно получает 2 ед. Земной печати, а её эффективность прорыва повышается на 20% (длится 15 сек.)."}
-{"id":"hero_grade:77309412352","en":"Shiny and Bright","ru":"Сверкает и блестит"}
+{"id":"hero_grade:77309412352","en":"Dazzling","ru":"Ослепительно сверкает"}
 {"id":"hero_grade:77309412608","en":"Break Value increases by 40.\nBreak Efficiency increases by 6%.","ru":"Значение прорыва повышается на 40.\nЭффективность прорыва повышается на 6%."}
 {"id":"hero_grade:77309413632","en":"An Adventurer Crazy About Treasure Hunting","ru":"Искательница приключений, одержимая поиском сокровищ"}
 {"id":"hero_grade:77309413888","en":"Exploring ruins, digging up ore veins—if it has to do with treasure, Nono's great at all of it!","ru":"Исследование руин, разработка жил руды... Если дело касается сокровищ, Ноно во всём мастак!"}
 {"id":"hero_grade:77309414144","en":"Ugh... someone already beat us here...","ru":"У-у... здесь уже кто-то побывал до нас..."}
-{"id":"hero_grade:81604379648","en":"Sparkle","ru":"Блеск"}
+{"id":"hero_grade:81604379648","en":"Sparkling","ru":"Сверкание"}
 {"id":"hero_grade:81604379904","en":"When Nono activates the 3rd stage of her Charged Attack, the cooldown of her Starecho Skill is reduced by 1s, and her Charged Attack DMG increases by 15% (lasting 15s).","ru":"Когда Ноно активирует 3-ю ступень заряженной атаки, время восстановления навыка звёздного эха сокращается на 1 сек., а урон заряженной атаки повышается на 15% (длится 15 сек.)."}
-{"id":"hero_grade:85899346944","en":"Golden Yellow","ru":"Золотисто-жёлтый"}
+{"id":"hero_grade:85899346944","en":"Glossy","ru":"Глянцевый"}
 {"id":"hero_grade:85899347200","en":"ATK increases by 40.\nEnergy Regen Bonus increases by 4%.","ru":"Атака повышается на 40.\nБонус восстановления энергии повышается на 4%."}
 {"id":"hero_grade:85899348224","en":"Fate's Guidance","ru":"Ведение судьбы"}
 {"id":"hero_grade:85899348480","en":"She's absurdly lucky and often stumbles upon treasure by sheer chance. No matter how cornered she gets, she always manages to escape trouble.","ru":"Ей невероятно везёт, и сокровища нередко находятся сами собой, по чистой случайности. А ещё, как бы сильно её ни зажимали, она всегда выходит из передряг."}

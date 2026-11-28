@@ -11,8 +11,8 @@
 {"id":"playercard_dress:43400644526592","en":"Pengpeng","ru":"Пэнпэн"}
 {"id":"playercard_dress:43400644527872","en":"Icon: \"Pengpeng\"","ru":"Иконка: «Пэнпэн»"}
 {"id":"playercard_dress:43400644528128","en":"Unlocked after obtaining Pengpeng","ru":"Открывается после получения Пэнпэн"}
-{"id":"playercard_dress:43400644528384","en":"Unlocked after obtaining Pengpeng","ru":"Открывается после получения Пэнпэн"}
-{"id":"playercard_dress:43400644530432","en":"Unlocked after obtaining Pengpeng","ru":"Открывается после получения Пэнпэн"}
+{"id":"playercard_dress:43400644528384","en":"Unlocked by obtaining Pengpeng","ru":"Открывается при получении Пэнпэн"}
+{"id":"playercard_dress:43400644530432","en":"Unlocked by obtaining Pengpeng","ru":"Открывается при получении Пэнпэн"}
 {"id":"playercard_dress:43404939493888","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
 {"id":"playercard_dress:43404939495168","en":"Icon: \"Tushan Xiaoyu\"","ru":"Иконка: «Тушань Сяоюй»"}
 {"id":"playercard_dress:43404939495424","en":"Unlocked after obtaining Tushan Xiaoyu","ru":"Открывается после получения Тушань Сяоюй"}
@@ -116,7 +116,7 @@
 {"id":"playercard_dress:43499428774400","en":"\"Blazing Standoff\"","ru":"«Пламенное противостояние»"}
 {"id":"playercard_dress:43499428775680","en":"Icon \"Blazing Standoff\"","ru":"Иконка «Пламенное противостояние»"}
 {"id":"playercard_dress:43499428775936","en":"Unlocked by obtaining the decoration \"Taurik: Blazing Standoff.\"","ru":"Открывается после получения украшения «Таурик: пламенное противостояние»."}
-{"id":"playercard_dress:43499428776192","en":"Fists ablaze with roaring flame, an attire that embodies passion itself.","ru":"Кулаки, объятые пламенем, а наряд — само воплощение страсти."}
+{"id":"playercard_dress:43499428776192","en":"Fists and flames alike burn fiercely.","ru":"И кулаки, и пламя пылают ярко."}
 {"id":"playercard_dress:43499428778240","en":"Fists ablaze with roaring flame, an attire that embodies passion itself.\nUnlocked by obtaining the decoration \"Taurik: Blazing Standoff.\"","ru":"Кулаки, объятые пламенем, а наряд — само воплощение страсти.\nОткрывается после получения украшения «Таурик: пламенное противостояние»."}
 {"id":"playercard_dress:43503723741696","en":"\"Etiquette of the Gloaming\"","ru":"«Этикет сумрачной ночи»"}
 {"id":"playercard_dress:43503723742976","en":"Icon \"Etiquette of the Gloaming\"","ru":"Иконка «Этикет сумрачной ночи»"}
@@ -152,7 +152,7 @@
 {"id":"playercard_dress:43529493546752","en":"Icon \"Treasure Found!\"","ru":"Иконка «Сокровище найдено!»"}
 {"id":"playercard_dress:43529493547008","en":"Obtained by unlocking Han Youyou's Tuning \"Treasure Found!\"","ru":"Получается при открытии настройки Хань Юю «Сокровище найдено!»"}
 {"id":"playercard_dress:43529493547264","en":"\"The real treasure is probably right here. Hm? You're saying you don't know what it is? That's fine. Treasure won't run away, so let's take our time looking for it!\"","ru":"«Настоящее сокровище, наверное, где-то здесь. М? Ты говоришь, что не знаешь, что это? Ничего. Сокровища не убегут, так что давай не спеша их поищем!»"}
-{"id":"playercard_dress:43529493549312","en":"The real treasure is probably right here. Hm? You're saying you don't know what it is? That's fine. Treasure won't run away, so let's take our time looking for it!\nObtained by unlocking Han Youyou's Tuning \"Treasure, Appearing!\"","ru":"Настоящее сокровище, наверное, где-то здесь. М? Ты говоришь, что не знаешь, что это? Ничего. Сокровища не убегут, так что давай не спеша их поищем!\nПолучается при открытии настройки Хань Юю «Сокровище, появись!»"}
+{"id":"playercard_dress:43529493549312","en":"The real treasure is probably right here. Hm? You're saying you don't know what it is? That's fine. Treasure won't run away, so let's take our time looking for it!\nObtained by unlocking Han Youyou's Tuning \"Treasure Found!\"","ru":"Настоящее сокровище, наверное, где-то здесь. М? Ты говоришь, что не знаешь, что это? Ничего. Сокровища не убегут, так что давай не спеша их поищем!\nПолучается при открытии настройки Хань Юю «Сокровище найдено!»"}
 {"id":"playercard_dress:43533788512768","en":"Yin-Yang Harmony","ru":"Гармония инь и ян"}
 {"id":"playercard_dress:43533788514048","en":"Icon \"Yin-Yang Harmony\"","ru":"Иконка «Гармония инь и ян»"}
 {"id":"playercard_dress:43533788514304","en":"Obtained by unlocking Pengpeng's Tuning \"Yin-Yang Harmony\"","ru":"Получается при открытии настройки Пэнпэн «Гармония инь и ян»"}
@@ -162,7 +162,7 @@
 {"id":"playercard_dress:43538083481344","en":"Icon \"Light and Shade as One\"","ru":"Иконка «Свет и тень едины»"}
 {"id":"playercard_dress:43538083481600","en":"Obtained by unlocking Peipei's Tuning \"Light and Shade as One\"","ru":"Получается при открытии настройки Пэйпэй «Свет и тень едины»"}
 {"id":"playercard_dress:43538083481856","en":"\"Lord Starborn never mocks Peipei, nor Peipei's dreams. You can talk to Lord Starborn about anything... Peipei is so glad you're here!\"","ru":"«Господин Звездорождённый никогда не смеётся над Пэйпэй и её мечтами. С господином Звездорождённым можно посоветоваться о чём угодно... Пэйпэй так рада, что ты рядом!»"}
-{"id":"playercard_dress:43538083483904","en":"\"Lord Starborn never mocks Peipei or laughs at Peipei's dreams. Whenever something comes up, you'll always hear Peipei out about anything... Peipei is so very glad you're here!\"\nObtained by unlocking Peipei's Tuning \"Black-White Harmony\"","ru":"«Господин Звездорождённый никогда не насмехается над Пэйпэй и не смеётся над её мечтами. Что бы ни случилось, с тобой всегда можно обо всём посоветоваться... Пэйпэй так рада, что ты рядом!»\nПолучается при открытии настройки Пэйпэй «Гармония чёрного и белого»"}
+{"id":"playercard_dress:43538083483904","en":"\"Lord Starborn never mocks Peipei or laughs at Peipei's dreams. Whenever something comes up, you'll always hear Peipei out about anything... Peipei is so very glad you're here!\"\nObtained by unlocking Peipei's Tuning \"Light and Shadow as One\"","ru":"«Господин Звездорождённый никогда не насмехается над Пэйпэй и не смеётся над её мечтами. Что бы ни случилось, с тобой всегда можно обо всём посоветоваться... Пэйпэй так рада, что ты рядом!»\nПолучается при открытии настройки Пэйпэй «Свет и тень как одно целое»"}
 {"id":"playercard_dress:43542378447360","en":"Longing Across a Thousand Leagues","ru":"Стремление за тысячи ли"}
 {"id":"playercard_dress:43542378448640","en":"Icon \"Longing Across a Thousand Leagues\"","ru":"Иконка «Стремление за тысячи ли»"}
 {"id":"playercard_dress:43542378448896","en":"Obtained by unlocking Tushan Xiaoyu's Tuning \"Longing Across a Thousand Leagues\"","ru":"Получается при открытии настройки Тушань Сяоюй «Стремление за тысячи ли»"}
@@ -172,7 +172,7 @@
 {"id":"playercard_dress:43546673415936","en":"Icon \"Soul in Serenity\"","ru":"Иконка «Умиротворение души»"}
 {"id":"playercard_dress:43546673416192","en":"Obtained by unlocking Lan Xiangzi's Tuning \"Soul in Serenity\"","ru":"Получается при открытии настройки Лань Сянцзы «Умиротворение души»"}
 {"id":"playercard_dress:43546673416448","en":"\"I-I do remember my own feelings... I keep no secrets from you.\"","ru":"«Я... я помню о своих чувствах... и от тебя у меня нет тайн»."}
-{"id":"playercard_dress:43546673418496","en":"\"I-I do remember my own feelings... I keep no secrets from you.\"\nObtained by unlocking Lan Xiangzi's Tuning \"Peaceful Soul and Body\"","ru":"«Я... я помню о своих чувствах... и от тебя у меня нет тайн».\nПолучается при открытии настройки Лань Сянцзы «Покой души и тела»"}
+{"id":"playercard_dress:43546673418496","en":"\"I-I do remember my own feelings... I keep no secrets from you.\"\nObtained by unlocking Lan Xiangzi's Tuning \"Peaceful Soul\"","ru":"«Я... я помню о своих чувствах... и от тебя у меня нет тайн».\nПолучается при открытии настройки Лань Сянцзы «Покой души»"}
 {"id":"playercard_dress:43550968381952","en":"Eternal Covenant","ru":"Вечный обет"}
 {"id":"playercard_dress:43550968383232","en":"Icon \"Eternal Covenant\"","ru":"Иконка «Вечный обет»"}
 {"id":"playercard_dress:43550968383488","en":"Obtained by unlocking Lily's Tuning \"Eternal Covenant\"","ru":"Получается при открытии настройки Лили «Вечный обет»"}
@@ -192,12 +192,12 @@
 {"id":"playercard_dress:43563853285120","en":"Icon \"Fruit Borne by Years\"","ru":"Иконка «Плод, взращённый годами»"}
 {"id":"playercard_dress:43563853285376","en":"Obtained by unlocking Metsa's Tuning \"Fruit Borne by Years\"","ru":"Получается при открытии настройки Метсы «Плод, взращённый годами»"}
 {"id":"playercard_dress:43563853285632","en":"\"Greetings. The weather is lovely today, and the breeze is so pleasant... On a day like this, it's just right to spend time together.\"","ru":"«Приветствую. Сегодня чудесная погода, и ветерок так приятен... В такой день так и хочется провести время вместе»."}
-{"id":"playercard_dress:43563853287680","en":"\"Greetings. The weather is lovely, and the breeze is so pleasant... On a day like this, it's just right to spend time together.\"\nObtained by unlocking Metsa's Tuning \"Fruit Ripening Through the Years\"","ru":"«Приветствую. Погода чудесная, и ветерок так приятен... В такой день так и хочется провести время вместе».\nПолучается при открытии настройки Метсы «Плод, созревающий с годами»"}
+{"id":"playercard_dress:43563853287680","en":"\"Greetings. The weather is lovely, and the breeze is so pleasant... On a day like this, it's just right to spend time together.\"\nObtained by unlocking Metsa's Tuning \"Fruit Brought by the Years\"","ru":"«Приветствую. Погода чудесная, и ветерок так приятен... В такой день так и хочется провести время вместе».\nПолучается при открытии настройки Метсы «Плод, что несут годы»"}
 {"id":"playercard_dress:43568148251136","en":"Big-Eater Abby","ru":"Обжора Эбби"}
 {"id":"playercard_dress:43568148252416","en":"Icon \"Big-Eater Abby\"","ru":"Иконка «Обжора Эбби»"}
 {"id":"playercard_dress:43568148252672","en":"Obtained by unlocking Abby's Tuning \"Big-Eater Abby\"","ru":"Получается при открытии настройки Эбби «Обжора Эбби»"}
 {"id":"playercard_dress:43568148252928","en":"\"How long was Abby sleeping? Were you with Abby the whole time...?\"","ru":"«Эбби долго проспала? Ты всё время был рядом с Эбби...?»"}
-{"id":"playercard_dress:43568148254976","en":"\"How long was Abby sleeping? Were you with Abby the whole time...?\"\nObtained by unlocking Abby's Tuning \"Abby the Big Eater\"","ru":"«Эбби долго проспала? Ты всё время был рядом с Эбби...?»\nПолучается при открытии настройки Эбби «Эбби — обжора»"}
+{"id":"playercard_dress:43568148254976","en":"\"How long was Abby sleeping? Were you with Abby the whole time...?\"\nObtained by unlocking Abby's Tuning \"Big Eater Abby\"","ru":"«Эбби долго проспала? Ты всё время был рядом с Эбби...?»\nПолучается при открытии настройки Эбби «Обжора Эбби»"}
 {"id": "playercard_dress:43572443218432", "en": "Charlulu's Fang", "ru": "Клык Шаллула"}
 {"id": "playercard_dress:43572443219712", "en": "Icon \"Charlulu's Fang\"", "ru": "Иконка «Клык Шаллула»"}
 {"id": "playercard_dress:43572443219968", "en": "Obtained by unlocking Terara's Tuning \"Charlulu's Fang\"", "ru": "Получается при открытии настройки Терары «Клык Шаллула»"}
@@ -247,7 +247,7 @@
 {"id":"playercard_dress:43611097925376","en":"Icon: \"Starlight at Dusk\"","ru":"Иконка «Звёздный свет в сумерках»"}
 {"id":"playercard_dress:43611097925632","en":"Obtained by unlocking the Starborn's Tuning \"Starlight at Dusk\"","ru":"Получается при открытии настройки Звездорождённого «Звёздный свет в сумерках»"}
 {"id":"playercard_dress:43611097925888","en":"As the Prophecy foretold, the shooting star descended upon this land. What ending awaits her on the path she walks?","ru":"Как и гласило Пророчество, падающая звезда низошла на эту землю. Какой финал ждёт её на этом пути?"}
-{"id":"playercard_dress:43611097927936","en":"As the Prophecy foretold, the shooting star descended upon this land. What ending awaits her on the path she walks?\nObtained by unlocking the Starborn's Tuning \"Starlight at Dusk\"","ru":"Как и гласило Пророчество, падающая звезда низошла на эту землю. Какой финал ждёт её на этом пути?\nПолучается при открытии настройки Звездорождённого «Звёздный свет в сумерках»"}
+{"id":"playercard_dress:43611097927936","en":"As the Prophecy foretold, the shooting star descended upon this land. What ending awaits her on the path she walks?\nObtained by unlocking the Starborn's Tuning \"Starlight of Twilight\"","ru":"Как и гласило Пророчество, падающая звезда низошла на эту землю. Какой финал ждёт её на этом пути?\nПолучается при открытии настройки Звездорождённого «Звёздный свет сумерек»"}
 {"id":"playercard_dress:43615392891392","en":"Starlight at Dusk","ru":"Звёздный свет в сумерках"}
 {"id":"playercard_dress:43615392892672","en":"Icon: \"Starlight at Dusk\"","ru":"Иконка «Звёздный свет в сумерках»"}
 {"id":"playercard_dress:43615392892928","en":"Obtained by unlocking the Starborn's Tuning \"Starlight at Dusk\"","ru":"Получается при открытии настройки Звездорождённого «Звёздный свет в сумерках»"}
@@ -311,7 +311,7 @@
 {"id":"playercard_dress:43843026158080","en":"\"Heated Confrontation\"","ru":"«Жаркая схватка»"}
 {"id":"playercard_dress:43843026159360","en":"Icon Frame: \"Heated Confrontation\"","ru":"Рамка иконки «Жаркая схватка»"}
 {"id":"playercard_dress:43843026159616","en":"Unlocked by obtaining the decoration \"Taurik: Blazing Standoff.\"","ru":"Открывается после получения украшения «Таурик: пламенное противостояние»."}
-{"id":"playercard_dress:43843026159872","en":"Fists ablaze with roaring flame, an attire that embodies passion itself.","ru":"Кулаки, объятые пламенем, а наряд — само воплощение страсти."}
+{"id":"playercard_dress:43843026159872","en":"Fists and flames alike burn fiercely.","ru":"И кулаки, и пламя пылают ярко."}
 {"id":"playercard_dress:43843026161920","en":"Fists ablaze with roaring flame, an attire that embodies passion itself.\nUnlocked by obtaining the decoration \"Taurik: Blazing Standoff.\"","ru":"Кулаки, объятые пламенем, а наряд — само воплощение страсти.\nОткрывается после получения украшения «Таурик: пламенное противостояние»."}
 {"id":"playercard_dress:43868795961856","en":"\"Pixel Whimsy\"","ru":"«Пиксельная причуда»"}
 {"id":"playercard_dress:43868795963136","en":"Icon Frame: \"Pixel Whimsy\"","ru":"Рамка иконки «Пиксельная причуда»"}
@@ -345,7 +345,7 @@
 {"id":"playercard_dress:43894565769472","en":"City-State of Fleece exploration level reward\nUnlocked by exploring the City-State of Fleece and raising its exploration level.","ru":"Награда за уровень исследования города-государства Флис\nОткрывается за исследование города-государства Флис и повышение уровня исследования."}
 {"id":"playercard_dress:43903155700224","en":"\"Embers of Dusk\"","ru":"«Угли заката»"}
 {"id":"playercard_dress:43903155701504","en":"Icon Frame \"Embers of Dusk\"","ru":"Рамка профиля «Угли заката»"}
-{"id":"playercard_dress:43903155701760","en":"Obtained by clearing all Tidal Ring stages of Traces of the Heavenly Dao.","ru":"Получается за полное прохождение Кольца приливов в «Следах небесного пути»."}
+{"id":"playercard_dress:43903155701760","en":"Obtained by clearing all Tidal Ring stages of Traces of the Heavenly Dao with 3 stars.","ru":"Получается за прохождение всех этапов Кольца приливов в «Следах небесного пути» на 3 звезды."}
 {"id":"playercard_dress:43903155702016","en":"Traces of the Heavenly Dao play reward","ru":"Награда за игру в «Следах небесного пути»"}
 {"id":"playercard_dress:43903155704064","en":"Traces of the Heavenly Dao play reward\nObtained by clearing Ring of Creation VII of Traces of the Heavenly Dao with 3★.","ru":"Награда за игру в «Следах небесного пути»\nПолучается за прохождение Кольца созидания VII в «Следах небесного пути» на 3★."}
 {"id":"playercard_dress:43907450667520","en":"\"Peach Shadows of a Spring Day\"","ru":"«Тени персиков весеннего дня»"}
@@ -355,12 +355,12 @@
 {"id":"playercard_dress:43907450671360","en":"A fox's tail brushes a thousand-year dream; the maiden smiles and asks of bonds from days gone by.\nIf you seek a place where flowers bloom, the peach blossoms here shall bloom for you.\nPromilia Travelogue reward","ru":"Лисий хвост ласкает тысячелетний сон, и девушка с улыбкой спрашивает о былых узах.\nЕсли ты ищешь место, где цветут цветы, здешние персиковые цветы расцветут для тебя.\nНаграда из «Дневника Промилии»"}
 {"id":"playercard_dress:43911745634816","en":"\"Conquest! Sprout Valley\"","ru":"«Покорение! Долина Ростков»"}
 {"id":"playercard_dress:43911745636096","en":"Icon Frame \"Conquest! Sprout Valley\"","ru":"Рамка профиля «Покорение! Долина Ростков»"}
-{"id":"playercard_dress:43911745636352","en":"Unlocked at max Kibo Fight level in the Sprout Valley area.","ru":"Открывается при максимальном уровне боя кибо в области Долины Ростков."}
+{"id":"playercard_dress:43911745636352","en":"Unlocked when the Kibo Fight level in the Sprout Valley area reaches max.","ru":"Открывается при достижении максимального уровня боя кибо в области Долины Ростков."}
 {"id":"playercard_dress:43911745636608","en":"Proof of conquering Sprout Valley","ru":"Доказательство покорения Долины Ростков"}
 {"id":"playercard_dress:43911745638656","en":"Proof of conquering Sprout Valley\nUnlocked when the Kibo Fight level of the Sprout Valley area reaches max.","ru":"Доказательство покорения Долины Ростков\nОткрывается, когда уровень боя кибо в области Долины Ростков достигает максимума."}
 {"id":"playercard_dress:43916040602112","en":"\"Fleece's Fight Idol\"","ru":"«Кумир боёв Флиса»"}
 {"id":"playercard_dress:43916040603392","en":"Icon Frame \"Fleece's Fight Idol\"","ru":"Рамка профиля «Кумир боёв Флиса»"}
-{"id":"playercard_dress:43916040603648","en":"Unlocked when the Kibo Fight level of the City-State of Fleece area reaches max.","ru":"Открывается, когда уровень боя кибо в области города-государства Флис достигает максимума."}
+{"id":"playercard_dress:43916040603648","en":"Unlocked when the Kibo Fight level in the City-State of Fleece area reaches max.","ru":"Открывается при достижении максимального уровня боя кибо в области города-государства Флис."}
 {"id":"playercard_dress:43916040603904","en":"Proof of shining in Fleece","ru":"Доказательство сияния во Флисе"}
 {"id":"playercard_dress:43916040605952","en":"Proof of shining in Fleece\nUnlocked when the Kibo Fight level of the City-State of Fleece area reaches max.","ru":"Доказательство сияния во Флисе\nОткрывается, когда уровень боя кибо в области города-государства Флис достигает максимума."}
 {"id":"playercard_dress:43920335569408","en":"\"Kibo Fight: Apprentice\"","ru":"«Бой кибо: ученик»"}
@@ -403,7 +403,7 @@
 {"id":"playercard_dress:43984760080384","en":"Unlocked after obtaining the Abby \"Ode of the Winged Dream\" ornament","ru":"Открывается после получения украшения Эбби «Ода крылатой мечты»"}
 {"id":"playercard_dress:43984760080640","en":"If you folded a wish into the shape of a feather and adorned it with morning dew, surely it would look just like this.","ru":"Если сложить желание в форме пера и украсить его утренней росой, наверняка оно будет выглядеть именно так."}
 {"id":"playercard_dress:43984760082688","en":"If you folded a wish into the shape of a feather and adorned it with morning dew, surely it would look just like this.\nUnlocked after obtaining the Abby \"Ode of the Winged Dream\" ornament","ru":"Если сложить желание в форме пера и украсить его утренней росой, наверняка оно будет выглядеть именно так.\nОткрывается после получения украшения Эбби «Ода крылатой мечты»"}
-{"id":"playercard_dress:86333137617408","en":"Where the Story Begins","ru":"Начало истории"}
+{"id":"playercard_dress:86333137617408","en":"The story begins here","ru":"История начинается здесь"}
 {"id":"playercard_dress:86333137618688","en":"Base \"The Story Begins Here\"","ru":"Основа «История начинается здесь»"}
 {"id":"playercard_dress:86333137618944","en":"It is a story that begins in Promilia...","ru":"Это история, что начинается в Промилии..."}
 {"id":"playercard_dress:86333137619200","en":"It is a story that begins in Promilia...","ru":"Это история, что начинается в Промилии..."}
@@ -540,7 +540,7 @@
 {"id":"playercard_dress:87273735456768","en":"Unlocked after obtaining Abby","ru":"Открывается после получения Эбби"}
 {"id":"playercard_dress:87273735457024","en":"Good children do as they're told... Yeah, I got it.","ru":"Хорошие дети слушаются... Да, понял."}
 {"id":"playercard_dress:87273735459072","en":"Good children do as they're told... yeah, I understand.\nUnlocked after obtaining Abby","ru":"Хорошие дети слушаются... да, я поняла.\nОткрывается после получения Эбби"}
-{"id":"playercard_dress:87278030422528","en":"Something Tasty Is Calling","ru":"Вкусненькое зовёт"}
+{"id":"playercard_dress:87278030422528","en":"Something tasty is calling","ru":"Вкусненькое зовёт"}
 {"id":"playercard_dress:87278030423808","en":"Stand \"Something Tasty Is Calling\"","ru":"Стенд «Вкусненькое зовёт»"}
 {"id":"playercard_dress:87278030424064","en":"Unlocked after obtaining Terara","ru":"Открывается после получения Терары"}
 {"id":"playercard_dress:87278030424320","en":"The world is full of all kinds of things, but tasty food is still the best!","ru":"Мир полон всяких вещей, но вкусная еда всё равно лучше всего!"}
@@ -603,7 +603,7 @@
 {"id":"playercard_dress:87630217740800","en":"A Heated Standoff","ru":"Жаркое противостояние"}
 {"id":"playercard_dress:87630217742080","en":"Stand - A Heated Standoff","ru":"Стенд «Жаркое противостояние»"}
 {"id":"playercard_dress:87630217742336","en":"Unlocked by obtaining the decoration \"Taurik: Blazing Standoff.\"","ru":"Открывается после получения украшения «Таурик: пламенное противостояние»."}
-{"id":"playercard_dress:87630217742592","en":"Fists ablaze with roaring flame, an attire that embodies passion itself.","ru":"Кулаки, объятые пламенем, а наряд — само воплощение страсти."}
+{"id":"playercard_dress:87630217742592","en":"Fists and flames alike burn fiercely.","ru":"И кулаки, и пламя пылают ярко."}
 {"id":"playercard_dress:87630217744640","en":"Fists ablaze with roaring flame, an attire that embodies passion itself.\nUnlocked by obtaining the decoration \"Taurik: Blazing Standoff.\"","ru":"Кулаки, объятые пламенем, а наряд — само воплощение страсти.\nОткрывается после получения украшения «Таурик: пламенное противостояние»."}
 {"id":"playercard_dress:87634512708096","en":"Etiquette of the Gloaming Night","ru":"Этикет сумрачной ночи"}
 {"id":"playercard_dress:87634512709376","en":"Stand \"Etiquette of the Gloaming Night\"","ru":"Стенд «Этикет сумрачной ночи»"}

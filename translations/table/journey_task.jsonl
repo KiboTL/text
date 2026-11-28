@@ -5,9 +5,9 @@
 {"id":"journey_task:128857608815616","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
 {"id":"journey_task:128857608815872","en":"Mining Efficiency Upgrade: 1","ru":"Повышение эффективности добычи: 1"}
 {"id":"journey_task:128857608817664","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:128857608817920","en":"Farm Expansion: Smelter","ru":"Расширение фермы: плавильня"}
+{"id":"journey_task:128857608817920","en":"Farm Construction: Smelter","ru":"Строительство фермы: плавильня"}
 {"id":"journey_task:128861903782912","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
-{"id":"journey_task:128861903783168","en":"Farm Expansion: Smelter","ru":"Расширение фермы: плавильня"}
+{"id":"journey_task:128861903783168","en":"Farm Construction: Smelter","ru":"Строительство фермы: плавильня"}
 {"id":"journey_task:128861903784960","en":"Farm of Dreams","ru":"Ферма мечты"}
 {"id":"journey_task:128861903785216","en":"Refining Bronze Ingots","ru":"Выплавка бронзовых слитков"}
 {"id":"journey_task:128866198750208","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
@@ -17,9 +17,9 @@
 {"id":"journey_task:128870493717504","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
 {"id":"journey_task:128870493717760","en":"Growing and Harvesting: Moonlight Hemp","ru":"Выращивание и сбор: лунная конопля"}
 {"id":"journey_task:128870493719552","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:128870493719808","en":"Farm Expansion: Spinning Wheel","ru":"Расширение фермы: прялка"}
+{"id":"journey_task:128870493719808","en":"Farm Construction: Spinning Wheel","ru":"Строительство фермы: прялка"}
 {"id":"journey_task:128874788684800","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
-{"id":"journey_task:128874788685056","en":"Farm Expansion: Spinning Wheel","ru":"Расширение фермы: прялка"}
+{"id":"journey_task:128874788685056","en":"Farm Construction: Spinning Wheel","ru":"Строительство фермы: прялка"}
 {"id":"journey_task:128874788686848","en":"Farm of Dreams","ru":"Ферма мечты"}
 {"id":"journey_task:128874788687104","en":"Crafting Moonlight Hemp Cloth","ru":"Изготовление ткани из лунной конопли"}
 {"id":"journey_task:128879083652096","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
@@ -29,17 +29,17 @@
 {"id":"journey_task:128887673586688","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
 {"id":"journey_task:128887673586944","en":"30","ru":"30"}
 {"id":"journey_task:128887673588736","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:128887673588992","en":"Farm Expansion: Workshop","ru":"Расширение фермы: мастерская"}
+{"id":"journey_task:128887673588992","en":"Farm Construction: Workshop","ru":"Строительство фермы: мастерская"}
 {"id":"journey_task:128891968553984","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
-{"id":"journey_task:128891968554240","en":"Farm Expansion: Workshop","ru":"Расширение фермы: мастерская"}
+{"id":"journey_task:128891968554240","en":"Farm Construction: Workshop","ru":"Строительство фермы: мастерская"}
 {"id":"journey_task:128891968556032","en":"Farm of Dreams","ru":"Ферма мечты"}
 {"id":"journey_task:128891968556288","en":"Mining Efficiency Upgrade: 2","ru":"Повышение эффективности добычи: 2"}
 {"id":"journey_task:128896263521280","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
 {"id":"journey_task:128896263521536","en":"Mining Efficiency Upgrade: 2","ru":"Повышение эффективности добычи: 2"}
 {"id":"journey_task:128896263523328","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:128896263523584","en":"Farm Expansion: Refinery","ru":"Расширение фермы: рафинировочная"}
+{"id":"journey_task:128896263523584","en":"Farm Construction: Refinery","ru":"Строительство фермы: рафинировочная"}
 {"id":"journey_task:128900558488576","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
-{"id":"journey_task:128900558488832","en":"Farm Expansion: Refinery","ru":"Расширение фермы: рафинировочная"}
+{"id":"journey_task:128900558488832","en":"Farm Construction: Refinery","ru":"Строительство фермы: рафинировочная"}
 {"id":"journey_task:128900558490624","en":"Farm of Dreams","ru":"Ферма мечты"}
 {"id":"journey_task:128900558490880","en":"Refine a Mirror Iron Ingot","ru":"Выплавка слитка зеркального железа"}
 {"id":"journey_task:128904853455872","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
@@ -47,15 +47,15 @@
 {"id":"journey_task:128904853457920","en":"Farm of Dreams","ru":"Ферма мечты"}
 {"id":"journey_task:128904853458176","en":"Craft a fine Stella Card","ru":"Создание качественной карты звёзд"}
 {"id":"journey_task:128922033325056","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
-{"id":"journey_task:128922033325312","en":"Farm Expansion: Workshop","ru":"Расширение фермы: мастерская"}
+{"id":"journey_task:128922033325312","en":"Farm Construction: Workshop","ru":"Строительство фермы: мастерская"}
 {"id":"journey_task:128922033327104","en":"Farm of Dreams","ru":"Ферма мечты"}
 {"id":"journey_task:128922033327360","en":"Cultivation and Harvesting: Spiderfluff","ru":"Выращивание и сбор: паутинный пух"}
 {"id":"journey_task:128926328292352","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
 {"id":"journey_task:128926328292608","en":"Cultivation and Harvesting: Spiderfluff","ru":"Выращивание и сбор: паутинный пух"}
 {"id":"journey_task:128926328294400","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:128926328294656","en":"Farm Expansion: Weaving Workshop","ru":"Расширение фермы: ткацкая мастерская"}
+{"id":"journey_task:128926328294656","en":"Farm Construction: Weaving Workshop","ru":"Строительство фермы: ткацкая мастерская"}
 {"id":"journey_task:128930623259648","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
-{"id":"journey_task:128930623259904","en":"Farm Expansion: Weaving Workshop","ru":"Расширение фермы: ткацкая мастерская"}
+{"id":"journey_task:128930623259904","en":"Farm Construction: Weaving Workshop","ru":"Строительство фермы: ткацкая мастерская"}
 {"id":"journey_task:128930623261696","en":"Farm of Dreams","ru":"Ферма мечты"}
 {"id":"journey_task:128930623261952","en":"Craft Spiderfluff Cloth","ru":"Создание ткани из паутинного пуха"}
 {"id":"journey_task:128934918226944","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
@@ -65,7 +65,7 @@
 {"id":"journey_task:128939213194240","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
 {"id":"journey_task:128939213194496","en":"10","ru":"10"}
 {"id":"journey_task:128939213196288","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:128939213196544","en":"Farm Expansion: Dormitory","ru":"Расширение фермы: общежитие"}
+{"id":"journey_task:128939213196544","en":"Farm Construction: Dormitory","ru":"Строительство фермы: общежитие"}
 {"id":"journey_task:128943508161536","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
 {"id":"journey_task:128943508161792","en":"10","ru":"10"}
 {"id":"journey_task:128943508163584","en":"Farm of Dreams","ru":"Ферма мечты"}
@@ -73,9 +73,9 @@
 {"id":"journey_task:128947803128832","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
 {"id":"journey_task:128947803129088","en":"15","ru":"15"}
 {"id":"journey_task:128947803130880","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:128947803131136","en":"Farm Expansion: Elemental Furnace","ru":"Расширение фермы: элементальная печь"}
+{"id":"journey_task:128947803131136","en":"Farm Construction: Elemental Stone Furnace","ru":"Строительство фермы: печь элементального камня"}
 {"id":"journey_task:128952098096128","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
-{"id":"journey_task:128952098096384","en":"Farm Expansion: Elemental Furnace","ru":"Расширение фермы: элементальная печь"}
+{"id":"journey_task:128952098096384","en":"Farm Construction: Elemental Stone Furnace","ru":"Строительство фермы: печь элементального камня"}
 {"id":"journey_task:128952098098176","en":"Farm of Dreams","ru":"Ферма мечты"}
 {"id":"journey_task:128952098098432","en":"Elemental Particle Conversion","ru":"Преобразование элементарных частиц"}
 {"id":"journey_task:128960688030720","en":"Unlocks when Farm Level reaches {0}","ru":"Открывается при достижении уровня фермы {0}"}
@@ -192,7 +192,7 @@
 {"id":"journey_task:130141804037120","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
 {"id":"journey_task:130141804037376","en":"15","ru":"15"}
 {"id":"journey_task:130141804039168","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:130141804039424","en":"Farm Expansion: Feeding Ground","ru":"Расширение фермы: кормушка"}
+{"id":"journey_task:130141804039424","en":"Farm Construction: Feeding Ground","ru":"Строительство фермы: кормушка"}
 {"id":"journey_task:130146099004416","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
 {"id":"journey_task:130146099004672","en":"Star-Journeying Path: 2","ru":"Звёздный путь: 2"}
 {"id":"journey_task:130146099006464","en":"Farm of Dreams","ru":"Ферма мечты"}
@@ -222,15 +222,15 @@
 {"id":"journey_task:130579890701312","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
 {"id":"journey_task:130579890701568","en":"30","ru":"30"}
 {"id":"journey_task:130579890703360","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:130579890703616","en":"Farm Expansion: Tanning Rack","ru":"Расширение фермы: кожевенный станок"}
+{"id":"journey_task:130579890703616","en":"Farm Construction: Tanning Rack","ru":"Строительство фермы: кожевенный станок"}
 {"id":"journey_task:130584185668608","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
 {"id":"journey_task:130584185668864","en":"30","ru":"30"}
 {"id":"journey_task:130584185670656","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:130584185670912","en":"Farm Expansion: Tannery","ru":"Расширение фермы: кожевенная мастерская"}
+{"id":"journey_task:130584185670912","en":"Farm Construction: Tannery","ru":"Строительство фермы: кожевенная мастерская"}
 {"id":"journey_task:130588480635904","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
 {"id":"journey_task:130588480636160","en":"20","ru":"20"}
 {"id":"journey_task:130588480637952","en":"Farm of Dreams","ru":"Ферма мечты"}
-{"id":"journey_task:130588480638208","en":"Farm Expansion: Weapon Workshop","ru":"Расширение фермы: оружейная мастерская"}
+{"id":"journey_task:130588480638208","en":"Farm Construction: Weapon Workshop","ru":"Строительство фермы: оружейная мастерская"}
 {"id":"journey_task:130592775603200","en":"Unlocks at Star Knowledge Level {0}.","ru":"Открывается на уровне звёздных знаний {0}."}
 {"id":"journey_task:130592775603456","en":"60","ru":"60"}
 {"id":"journey_task:130592775605248","en":"Farm of Dreams","ru":"Ферма мечты"}
@@ -391,7 +391,7 @@
 {"id":"journey_task:172666275236864","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:172666275237120","en":"Crisis Subjugation·3","ru":"Подавление кризиса·3"}
 {"id":"journey_task:172670570204160","en":"Path of Trials","ru":"Путь испытаний"}
-{"id":"journey_task:172670570204416","en":"Emergency Subjugation - Multiplayer","ru":"Экстренное подавление · Мультиплеер"}
+{"id":"journey_task:172670570204416","en":"Crisis Subjugation - Multiplayer","ru":"Подавление кризиса · Мультиплеер"}
 {"id":"journey_task:172674865169408","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
 {"id":"journey_task:172674865169664","en":"Star-Journeying Path: 3","ru":"Звёздный путь: 3"}
 {"id":"journey_task:172674865171456","en":"Path of Trials","ru":"Путь испытаний"}
@@ -473,9 +473,9 @@
 {"id":"journey_task:173555333465088","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
 {"id":"journey_task:173555333465344","en":"Fight at Fleece·3","ru":"Бой во Флисе·3"}
 {"id":"journey_task:173555333467136","en":"Path of Trials","ru":"Путь испытаний"}
-{"id":"journey_task:173555333467392","en":"Kibo Fight - Enter the Fray","ru":"Бой кибо · Вступление в бой"}
+{"id":"journey_task:173555333467392","en":"Kibo Fight - Friends","ru":"Бой кибо · Друзья"}
 {"id":"journey_task:173559628432384","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
-{"id":"journey_task:173559628432640","en":"Kibo Fight - Enter the Fray","ru":"Бой кибо · Вступление в бой"}
+{"id":"journey_task:173559628432640","en":"Kibo Fight - Friends","ru":"Бой кибо · Друзья"}
 {"id":"journey_task:173559628434432","en":"Path of Trials","ru":"Путь испытаний"}
 {"id":"journey_task:173559628434688","en":"Kibo Fight - Star Crown","ru":"Бой кибо · Звёздная корона"}
 {"id":"journey_task:214752659768320","en":"Unlocks upon completing the journey quest \"{0}\"","ru":"Открывается после завершения задания путешествия «{0}»"}
@@ -914,7 +914,7 @@
 {"id":"journey_task:301528179018752","en":"Great Adventurer","ru":"Великий искатель приключений"}
 {"id":"journey_task:301528179019008","en":"Perfect — Riff's Performance","ru":"Безупречно — Выступление Риффа"}
 {"id":"journey_task:301532473986048","en":"Great Adventurer","ru":"Великий искатель приключений"}
-{"id":"journey_task:301532473986304","en":"Perfect — Altar of the Shining Seal","ru":"Безупречно — Алтарь сияющей печати"}
+{"id":"journey_task:301532473986304","en":"Altar of the Shining Seal","ru":"Алтарь сияющей печати"}
 {"id":"journey_task:301536768953344","en":"Great Adventurer","ru":"Великий искатель приключений"}
 {"id":"journey_task:301536768953600","en":"Perfect — Sozanka's Ladder","ru":"Безупречно — Лестница Содзанки"}
 {"id":"journey_task:301541063920640","en":"Great Adventurer","ru":"Великий искатель приключений"}

@@ -5,7 +5,7 @@
 {"id":"game_events_cul_status:42962557862400","en":"Terara's Inspiration","ru":"Воодушевление Терары"}
 {"id":"game_events_cul_status:42962557862656","en":"Increases Stamina recovery by 15%.","ru":"Повышает восстановление выносливости на 15%."}
 {"id":"game_events_cul_status:42966852829696","en":"Symphoria's Admonition","ru":"Наставление Симфории"}
-{"id":"game_events_cul_status:42966852829952","en":"Reduces the chance of \"Little Effect\" during training by 8%.","ru":"Снижает вероятность «Слабого эффекта» во время тренировки на 8%."}
+{"id":"game_events_cul_status:42966852829952","en":"Reduces the chance of \"Groping in the Dark\" during training by 8%.","ru":"Снижает вероятность «Поиска в потёмках» во время тренировки на 8%."}
 {"id":"game_events_cul_status:42971147796992","en":"Maple's Company","ru":"Поддержка Мейпл"}
 {"id":"game_events_cul_status:42971147797248","en":"Reduces Stamina consumed when training with Maple by 10%.","ru":"Снижает расход выносливости при тренировке с Мейпл на 10%."}
 {"id":"game_events_cul_status:42975442764288","en":"Komugi's Support I","ru":"Поддержка Комуги I"}
@@ -23,7 +23,7 @@
 {"id":"game_events_cul_status:43001212568064","en":"Henrietta's Assistance","ru":"Содействие Генриетты"}
 {"id":"game_events_cul_status:43001212568320","en":"Increases Stamina recovery by 10%.","ru":"Повышает восстановление выносливости на 10%."}
 {"id":"game_events_cul_status:43005507535360","en":"Cuicui's Assistance","ru":"Помощь Сяоцуй"}
-{"id":"game_events_cul_status:43005507535616","en":"Chance of \"Little Effect\" during training is 6%reduced.","ru":"Вероятность «Слабого эффекта» во время тренировки 6%снижена."}
+{"id":"game_events_cul_status:43005507535616","en":"Reduces the chance of \"Groping in the Dark\" during training by 6%.","ru":"Снижает вероятность «Поиска в потёмках» во время тренировки на 6%."}
 {"id":"game_events_cul_status:43009802502656","en":"Julian's Assistance","ru":"Помощь Джулиана"}
 {"id":"game_events_cul_status:43009802502912","en":"Stamina consumed while training with Julian is 8%reduced.","ru":"Выносливость, расходуемая при тренировке с Джулианом, 8%снижена."}
 {"id":"game_events_cul_status:43014097469952","en":"Starmy's Assistance","ru":"Помощь Старми"}
@@ -33,7 +33,7 @@
 {"id":"game_events_cul_status:43022687404544","en":"Otamit's Cooperation","ru":"Содействие Отамита"}
 {"id":"game_events_cul_status:43022687404800","en":"Stats gained while exploring increased by 10%.","ru":"Характеристики, получаемые во время странствий, увеличены на 10%."}
 {"id":"game_events_cul_status:43026982371840","en":"Frogremi's Cooperation","ru":"Содействие Фрогреми"}
-{"id":"game_events_cul_status:43026982372096","en":"Chance of \"Little Effect\" during training decreased by 4%.","ru":"Вероятность «Слабого эффекта» во время тренировки снижена на 4%."}
+{"id":"game_events_cul_status:43026982372096","en":"Reduces the chance of \"Groping in the Dark\" during training by 4%.","ru":"Снижает вероятность «Поиска в потёмках» во время тренировки на 4%."}
 {"id":"game_events_cul_status:43031277339136","en":"Heavyro's Cooperation","ru":"Содействие Хэвиро"}
 {"id":"game_events_cul_status:43031277339392","en":"Stamina consumed when training with Heavyro decreased by 5%.","ru":"Выносливость, расходуемая при тренировке с Хэвиро, снижена на 5%."}
 {"id":"game_events_cul_status:43035572306432","en":"Contemplation: Courage","ru":"Размышление: отвага"}
@@ -82,7 +82,7 @@
 {"id":"game_events_cul_status:43125766619904","en":"After this valuable combat experience, Xiaoyu advanced a step in her training. Insight gained during training increases by 10%.","ru":"После этого ценного боевого опыта Сяоюй продвинулась в тренировках. Проницательность, получаемая на тренировках, повышается на 10%."}
 {"id":"game_events_cul_status:43130061586944","en":"Combat Training: Courage","ru":"Боевая тренировка: смелость"}
 {"id":"game_events_cul_status:43130061587200","en":"After this valuable combat experience, Xiaoyu advanced a step in her training. Courage gained during training increases by 10%.","ru":"После этого ценного боевого опыта Сяоюй продвинулась в тренировках. Смелость, получаемая на тренировках, повышается на 10%."}
-{"id":"game_events_cul_status:43134356554240","en":"Field Test: Bonds","ru":"Полевое испытание: Узы"}
+{"id":"game_events_cul_status:43134356554240","en":"Practical Training: Bonds","ru":"Практическая тренировка: Узы"}
 {"id":"game_events_cul_status:43134356554496","en":"After this valuable combat experience, Xiaoyu advanced a step in her training. Bond stat gained during training increases by 10%.","ru":"После этого ценного боевого опыта Сяоюй продвинулась в тренировках. Характеристика уз, получаемая на тренировках, повышается на 10%."}
 {"id":"game_events_cul_status:43138651521536","en":"Dozing Off","ru":"Дрёма"}
 {"id":"game_events_cul_status:43138651521792","en":"Huh? It's dawn already? Xiaoyu is dead sleepy. Stamina consumed during training increases by 20%.","ru":"А? Уже рассвело? Сяоюй умирает от сонливости. Расход выносливости на тренировках повышается на 20%."}
@@ -149,11 +149,11 @@
 {"id":"game_events_cul_status:85950885528064","en":"Fox's Fortune","ru":"Лисье богатство"}
 {"id":"game_events_cul_status:85950885528320","en":"The result of the \"Immortal Fox\" spell... Yuni gained: +5%.","ru":"Результат заклинания «Бессмертной лисы»... Получаемые юни: +5%."}
 {"id":"game_events_cul_status:85955180495360","en":"Fox's Blessing","ru":"Благословение лисы"}
-{"id":"game_events_cul_status:85955180495616","en":"Because the \"Immortal Fox\" cast a spell... Travel check result: +1.","ru":"Поскольку «Бессмертная лиса» наложила заклинание... Результат проверки в странствиях: +1."}
+{"id":"game_events_cul_status:85955180495616","en":"Because the \"Immortal Fox\" cast a spell... Travel check value: +1.","ru":"Поскольку «Бессмертная лиса» наложила заклинание... Значение проверки в странствиях: +1."}
 {"id":"game_events_cul_status:85959475462656","en":"Beast's Seal of Approval","ru":"Одобрение зверя"}
 {"id":"game_events_cul_status:85959475462912","en":"The \"Great Beast\" acknowledged Chiyo as a true master! Yuni consumed during training: -15%.","ru":"«Великий зверь» признал Тиё настоящим мастером! Расход юни во время тренировок: -15%."}
 {"id":"game_events_cul_status:85963770429952","en":"Screine's Love","ru":"Любовь Скрэйна"}
-{"id":"game_events_cul_status:85963770430208","en":"Screine likes this Hunter who hunted it! Travel check result: +1.","ru":"Скрэйну нравится этот Охотник, который на него охотился! Результат проверки в странствиях: +1."}
+{"id":"game_events_cul_status:85963770430208","en":"Screine likes this Hunter who hunted it! Travel check value: +1.","ru":"Скрэйну нравится этот Охотник, который на него охотился! Значение проверки в странствиях: +1."}
 {"id":"game_events_cul_status:85968065397248","en":"Watching the Clouds","ru":"Глядя на облака"}
 {"id":"game_events_cul_status:85968065397504","en":"Relaxing together with her master, Chiyo grew even more motivated! Mind's Eye gained during training: +15%.","ru":"Отдыхая вместе с наставником, Тиё стала ещё целеустремлённее! Получаемое Внутреннее око во время тренировок: +15%."}
 {"id":"game_events_cul_status:85972360364544","en":"Flying Pearls, Splashing Jade","ru":"Летящие жемчужины, брызжущий нефрит"}
@@ -163,7 +163,7 @@
 {"id":"game_events_cul_status:85980950299136","en":"Lush Greenery","ru":"Буйная зелень"}
 {"id":"game_events_cul_status:85980950299392","en":"Relaxing together with her master, Chiyo grew even more motivated! Subdue gained during training: +15%.","ru":"Отдыхая вместе с наставником, Тиё стала ещё целеустремлённее! Получаемое Подавление во время тренировок: +15%."}
 {"id":"game_events_cul_status:85985245266432","en":"The Instant Flowers Scatter","ru":"Мгновение, когда опадают цветы"}
-{"id":"game_events_cul_status:85985245266688","en":"Relaxing together with her master, Chiyo grew even more motivated! Chance of reduced training results: -30%.","ru":"Отдыхая вместе с наставником, Тиё стала ещё целеустремлённее! Шанс слабого результата тренировки: -30%."}
+{"id":"game_events_cul_status:85985245266688","en":"Relaxing together with her master, Chiyo grew even more motivated! Chance of \"Indomitable\" during training: -30%.","ru":"Отдыхая вместе с наставником, Тиё стала ещё целеустремлённее! Шанс «Несгибаемости» во время тренировки: -30%."}
 {"id":"game_events_cul_status:85989540233728","en":"All Things, All Creation, Are a Sword","ru":"Всё сущее — меч"}
 {"id":"game_events_cul_status:85989540233984","en":"From Ezio's nonsense, Chiyo sensed something... Mind's Eye gained during training: +5%.","ru":"В чепухе Эцио Тиё что-то почувствовала... Получаемое Внутреннее око во время тренировок: +5%."}
 {"id":"game_events_cul_status:85993835201024","en":"Inferno Wild Dance! Stellar Cascade!","ru":"Неистовый танец пламени! Звёздный каскад!"}
@@ -203,9 +203,9 @@
 {"id":"game_events_cul_status:86066849645056","en":"Technological Blade Ring","ru":"Технологичный звон клинка"}
 {"id":"game_events_cul_status:86066849645312","en":"Though it makes a fierce \"blade ring,\" it doesn't seem to help much with improving Sword Arts. Stats gained during training: +1%.","ru":"Хотя он издаёт яростный «звон клинка», похоже, это мало помогает в совершенствовании Искусства меча. Получаемые характеристики во время тренировок: +1%."}
 {"id":"game_events_cul_status:86071144612352","en":"Voice of Nature","ru":"Голос природы"}
-{"id":"game_events_cul_status:86071144612608","en":"Emptying her mind amid nature, Chiyo came to a small realization. Travel check result: +1.","ru":"Очистив разум на лоне природы, Тиё кое-что постигла. Результат проверки в странствиях: +1."}
+{"id":"game_events_cul_status:86071144612608","en":"Emptying her mind amid nature, Chiyo came to a small realization. Travel check value: +1.","ru":"Очистив разум на лоне природы, Тиё кое-что постигла. Значение проверки в странствиях: +1."}
 {"id":"game_events_cul_status:86075439579648","en":"Breath of Nature","ru":"Дыхание природы"}
-{"id":"game_events_cul_status:86075439579904","en":"Emptying her mind amid nature, Chiyo realized many things. Travel check result: +1.","ru":"Очистив разум на лоне природы, Тиё многое постигла. Результат проверки в странствиях: +1."}
+{"id":"game_events_cul_status:86075439579904","en":"Emptying her mind amid nature, Chiyo realized many things. Travel check value: +1.","ru":"Очистив разум на лоне природы, Тиё многое постигла. Значение проверки в странствиях: +1."}
 {"id":"game_events_cul_status:86079734546944","en":"Mind's Eye Is Not the Eye","ru":"Внутреннее око — не глаза"}
 {"id":"game_events_cul_status:86079734547200","en":"Thanks to the knowledge recorded in books, Chiyo's powers of observation grew sharper. Mind's Eye gained during training: +10%.","ru":"Благодаря знаниям из книг наблюдательность Тиё стала острее. Получаемое Внутреннее око во время тренировок: +10%."}
 {"id":"game_events_cul_status:86084029514240","en":"A Thousand Flashes in an Instant","ru":"Тысяча вспышек в одно мгновение"}
@@ -243,7 +243,7 @@
 {"id":"game_events_cul_status:86204288598528","en":"Masterful Technique","ru":"Искусное мастерство"}
 {"id":"game_events_cul_status:86204288598784","en":"Hearing the legendary tale of this adventurer, Chiyo learned a great deal. Focus consumption during training -50%.","ru":"Услышав легендарное сказание об этом искателе приключений, Тиё многому научилась. Расход «Сосредоточения» во время тренировки -50%."}
 {"id":"game_events_cul_status:86208583565824","en":"Lucky Dice Charm","ru":"Талисман удачного броска"}
-{"id":"game_events_cul_status:86208583566080","en":"The charm brought Chiyo luck. Check results while traveling +1.","ru":"Талисман принёс Тиё удачу. Результаты проверок во время странствий +1."}
+{"id":"game_events_cul_status:86208583566080","en":"The charm brought Chiyo luck. Travel check value: +1.","ru":"Талисман принёс Тиё удачу. Значение проверки в странствиях: +1."}
 {"id":"game_events_cul_status:86212878533120","en":"A Tale of Repute","ru":"Сказание о доброй славе"}
 {"id":"game_events_cul_status:86212878533376","en":"From the tale of the little Pammies, Chiyo learned that bonds with someone bring good rewards. Yuni earned while traveling +25%.","ru":"Из сказания о маленьких памми Тиё узнала, что узы с кем-то приносят добрую награду. Получение юни во время странствий +25%."}
 {"id":"game_events_cul_status:86217173500416","en":"Bond Charm","ru":"Талисман уз"}
@@ -251,17 +251,17 @@
 {"id":"game_events_cul_status:86221468467712","en":"Focus Charm","ru":"Талисман сосредоточения"}
 {"id":"game_events_cul_status:86221468467968","en":"The charm further steadies Chiyo's mind. Focus recovery effect +20%.","ru":"Талисман ещё больше успокаивает разум Тиё. Эффект восстановления «Сосредоточения» +20%."}
 {"id":"game_events_cul_status:86225763435008","en":"Waiting for the Moment","ru":"В ожидании мига"}
-{"id":"game_events_cul_status:86225763435264","en":"The tale of the Furrians' hunt stirred Chiyo's heart. Stat gain during the next 1 training sessions increased by an additional +50%.","ru":"Сказание об охоте фуррианцев взволновало Тиё. Прирост характеристик в течение следующих 1 тренировок дополнительно увеличен на +50%."}
+{"id":"game_events_cul_status:86225763435264","en":"The tale of the Furrians' hunt stirred Chiyo's heart. Stat gain during the next training session increases by an additional 50%.","ru":"Сказание об охоте фуррианцев взволновало Тиё. Прирост характеристик во время следующей тренировки дополнительно увеличивается на 50%."}
 {"id":"game_events_cul_status:86230058402304","en":"A Tale of Frugality","ru":"Сказание о бережливости"}
 {"id":"game_events_cul_status:86230058402560","en":"Watching the play based on this legendary merchant, Chiyo learned a great deal. Eliminates Yuni consumption during training.","ru":"Посмотрев пьесу о легендарном торговце, Тиё многому научилась. Устраняет расход юни во время тренировки."}
 {"id":"game_events_cul_status:86234353369600","en":"Exceptional Technique","ru":"Выдающееся мастерство"}
 {"id":"game_events_cul_status:86234353369856","en":"From this performance based on a legendary adventurer, Chiyo learned a great deal. Eliminates Focus consumption during training.","ru":"Из этого представления о легендарном искателе приключений Тиё многому научилась. Устраняет расход «Сосредоточения» во время тренировки."}
 {"id":"game_events_cul_status:86238648336896","en":"Good Fortune Charm","ru":"Талисман удачи"}
-{"id":"game_events_cul_status:86238648337152","en":"The charm grants Chiyo's wish. Check results while traveling +2.","ru":"Талисман исполняет желание Тиё. Результаты проверок во время странствий +2."}
+{"id":"game_events_cul_status:86238648337152","en":"The charm grants Chiyo's wish. Travel check value: +2.","ru":"Талисман исполняет желание Тиё. Значение проверки в странствиях: +2."}
 {"id":"game_events_cul_status:86242943304192","en":"A Tale of Renown","ru":"Сказание о громкой славе"}
 {"id":"game_events_cul_status:86242943304448","en":"Watching the little Pammies' performance, Chiyo learned that bonds with others are rewarded. Yuni earned while traveling +50%.","ru":"Посмотрев представление маленьких памми, Тиё узнала, что узы с людьми вознаграждаются. Получение юни во время странствий +50%."}
 {"id":"game_events_cul_status:86247238271488","en":"Seeking a Breakthrough","ru":"В поисках прорыва"}
-{"id":"game_events_cul_status:86247238271744","en":"After watching the performance depicting the Furrians' hunt, Chiyo learned a great deal. Stat gain during the next 1 training sessions increased by an additional +100%.","ru":"Посмотрев представление об охоте фуррианцев, Тиё многому научилась. Прирост характеристик в течение следующих 1 тренировок дополнительно увеличен на +100%."}
+{"id":"game_events_cul_status:86247238271744","en":"After watching the performance depicting the Furrians' hunt, Chiyo learned a great deal. Stat gain during the next training session increases by an additional 100%.","ru":"Посмотрев представление об охоте фуррианцев, Тиё многому научилась. Прирост характеристик во время следующей тренировки дополнительно увеличивается на 100%."}
 {"id":"game_events_cul_status:86285892977152","en":"Master's Teachings","ru":"Наставления мастера"}
 {"id":"game_events_cul_status:86285892977408","en":"Her master's teachings always give Chiyo fresh insight into the path to riches. Yuni earned during Expeditions +20%.","ru":"Наставления мастера всегда дают Тиё новое озарение о пути к богатству. Получение юни во время похода +20%."}
 {"id":"game_events_cul_status:86290187944448","en":"Master's Care","ru":"Забота мастера"}
@@ -277,7 +277,7 @@
 {"id":"game_events_cul_status:86311662780928","en":"Receptionist's Kindness","ru":"Доброта регистраторши"}
 {"id":"game_events_cul_status:86311662781184","en":"Maple's assistance. Yuni earned while traveling +10%.","ru":"Помощь Мейпл. Получение юни во время странствий +10%."}
 {"id":"game_events_cul_status:86315957748224","en":"A Lady's Scolding","ru":"Нагоняй знатной особы"}
-{"id":"game_events_cul_status:86315957748480","en":"Morwyn's assistance. Stat gain during training increased by an additional +10%.","ru":"Помощь Морвин. Прирост характеристик во время тренировки дополнительно увеличен на +10%."}
+{"id":"game_events_cul_status:86315957748480","en":"Morwyn's assistance. Stat gain during training increases by an additional 10%.","ru":"Помощь Морвин. Прирост характеристик во время тренировки дополнительно увеличивается на 10%."}
 {"id":"game_events_cul_status:86320252715520","en":"Immortal Fox's Insight","ru":"Познания Бессмертной лисы"}
 {"id":"game_events_cul_status:86320252715776","en":"Tushan Xiaoyu's assistance. Bond Points gain +40%.","ru":"Помощь Тушань Сяоюй. Прирост очков связи +40%."}
 {"id":"game_events_cul_status:86324547682816","en":"Han Youyou's Bright Idea","ru":"Удачная задумка Хань Юю"}
@@ -293,19 +293,19 @@
 {"id":"game_events_cul_status:86346022519296","en":"Rika's Assistance","ru":"Помощь Рики"}
 {"id":"game_events_cul_status:86346022519552","en":"Federica's assistance. Prices at Meimei House -15%.","ru":"Помощь Федерики. Цены в «Доме Мэймэй» -15%."}
 {"id":"game_events_cul_status:86350317486592","en":"Tina's Assistance","ru":"Помощь Тины"}
-{"id":"game_events_cul_status:86350317486848","en":"Tina's assistance. Stat gain during training increased by an additional +6%.","ru":"Помощь Тины. Прирост характеристик во время тренировки дополнительно увеличен на +6%."}
+{"id":"game_events_cul_status:86350317486848","en":"Tina's assistance. Stat gain during training increases by an additional 6%.","ru":"Помощь Тины. Прирост характеристик во время тренировки дополнительно увеличивается на 6%."}
 {"id":"game_events_cul_status:86354612453888","en":"Jennifer's Assistance","ru":"Помощь Дженнифер"}
 {"id":"game_events_cul_status:86354612454144","en":"Jennifer's assistance. Yuni earned while traveling +5%.","ru":"Помощь Дженнифер. Получение юни во время странствий +5%."}
 {"id":"game_events_cul_status:86358907421184","en":"Lyuda's Assistance","ru":"Помощь Люды"}
 {"id":"game_events_cul_status:86358907421440","en":"Lyudmila's assistance. Stat gain during Expeditions +20%.","ru":"Помощь Людмилы. Прирост характеристик во время похода +20%."}
 {"id":"game_events_cul_status:86363202388480","en":"Mira's Assistance","ru":"Помощь Миры"}
-{"id":"game_events_cul_status:86363202388736","en":"Mira's assistance. Check results while traveling +1.","ru":"Помощь Миры. Результаты проверок во время странствий +1."}
+{"id":"game_events_cul_status:86363202388736","en":"Mira's assistance. Travel check value: +1.","ru":"Помощь Миры. Значение проверки в странствиях: +1."}
 {"id":"game_events_cul_status:86367497355776","en":"Grace's Assistance","ru":"Помощь Грейс"}
 {"id":"game_events_cul_status:86367497356032","en":"Grace's assistance. Sweets purchase limit +1.","ru":"Помощь Грейс. Лимит покупки сладостей +1."}
 {"id":"game_events_cul_status:86371792323072","en":"Maeljark's Assistance","ru":"Помощь мэйлджарка"}
-{"id":"game_events_cul_status:86371792323328","en":"Maeljark's assistance. Stat gain during training increased by an additional +3%.","ru":"Помощь мэйлджарка. Прирост характеристик во время тренировки дополнительно увеличен на +3%."}
+{"id":"game_events_cul_status:86371792323328","en":"Maeljark's assistance. Stat gain during training increases by an additional 3%.","ru":"Помощь Мэйлджарка. Прирост характеристик во время тренировки дополнительно увеличивается на 3%."}
 {"id":"game_events_cul_status:86376087290368","en":"Karabad's Assistance","ru":"Помощь Карабада"}
-{"id":"game_events_cul_status:86376087290624","en":"Karabad's assistance. Stat gain during training increased by an additional +3%.","ru":"Помощь карабада. Прирост характеристик во время тренировки дополнительно увеличен на +3%."}
+{"id":"game_events_cul_status:86376087290624","en":"Karabad's assistance. Stat gain during training increases by an additional 3%.","ru":"Помощь Карабада. Прирост характеристик во время тренировки дополнительно увеличивается на 3%."}
 {"id":"game_events_cul_status:86380382257664","en":"Leoburnd's Assistance","ru":"Помощь леобёрнда"}
 {"id":"game_events_cul_status:86380382257920","en":"Leoburnd's assistance. Stat gain during Expeditions +10%.","ru":"Помощь леобёрнда. Прирост характеристик во время похода +10%."}
 {"id":"game_events_cul_status:86384677224960","en":"Meowl's Assistance","ru":"Помощь меоульфа"}
@@ -359,7 +359,7 @@
 {"id":"game_events_cul_status:86487756440064","en":"Weighted Brick","ru":"Утяжеляющий кирпич"}
 {"id":"game_events_cul_status:86487756440320","en":"Harder challenges yield greater rewards. Stats gained during training +{0}%.","ru":"Более трудные испытания приносят больше наград. Получение характеристик во время практики +{0}%."}
 {"id":"game_events_cul_status:86492051407360","en":"Hunting Guide","ru":"Руководство по охоте"}
-{"id":"game_events_cul_status:86492051407616","en":"Chiyo learned much from the techniques in the book. Exploration checks +{0}.","ru":"Тиё многому научилась из описанных в книге приёмов. Проверки во время странствий +{0}."}
+{"id":"game_events_cul_status:86492051407616","en":"Chiyo learned much from the techniques in the book. Travel check value +{0}.","ru":"Тиё многому научилась из описанных в книге приёмов. Значение проверки в странствиях +{0}."}
 {"id":"game_events_cul_status:86496346374656","en":"Hunting Toolbox","ru":"Набор охотничьих инструментов"}
 {"id":"game_events_cul_status:86496346374912","en":"With every high-level hunt, Chiyo senses something new. Stats gained during training +{0}%.","ru":"С каждой сложной охотой Тиё что-то постигает. Получение характеристик во время практики +{0}%."}
 {"id":"game_events_cul_status:86500641341952","en":"Dried Rich Peach","ru":"Сушёный Сочный персик"}

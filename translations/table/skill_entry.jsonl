@@ -1,16 +1,16 @@
 {"id":"skill_entry:1000727382528","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:1000727383040","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:1000727383296","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:1000727383296","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:1000727383552","en":"4.5%","ru":"4.5%"}
 {"id":"skill_entry:1000727383553","en":"18%","ru":"18%"}
 {"id":"skill_entry:1005022349824","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:1005022350336","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:1005022350592","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:1005022350592","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:1005022350848","en":"5%","ru":"5%"}
 {"id":"skill_entry:1005022350849","en":"20%","ru":"20%"}
 {"id":"skill_entry:1009317317120","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:1009317317632","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:1009317317888","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:1009317317888","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:1009317318144","en":"5.5%","ru":"5.5%"}
 {"id":"skill_entry:1009317318145","en":"22%","ru":"22%"}
 {"id":"skill_entry:1013612284416","en":"Death Defiance","ru":"Вызов смерти"}
@@ -95,17 +95,17 @@
 {"id":"skill_entry:1078036794368","en":"After a successful Perfect Dodge, ATK increases.","ru":"После успешного идеального уклона атака повышается."}
 {"id":"skill_entry:1078036794624","en":"When the wearer successfully performs a Perfect Dodge, their ATK increases by {0} (max 3 stacks, duration: 15 seconds).","ru":"При успешном идеальном уклоне носителя его атака повышается на {0} (макс. 3 стак, длительность: 15 секунд)."}
 {"id":"skill_entry:1078036794880","en":"0.075","ru":"0.075"}
-{"id":"skill_entry:1108101564928","en":"Star Shift: Vigorous Pierce","ru":"Звёздный сдвиг: мощное пробитие"}
+{"id":"skill_entry:1108101564928","en":"Star Shift: Rigid Pierce","ru":"Звёздный сдвиг: жёсткое пробитие"}
 {"id":"skill_entry:1108101565440","en":"When the character switches in and takes the field, CRIT Rate increases and Crit DMG increases.","ru":"При выходе персонажа на поле шанс крита повышается, а крит. урон возрастает."}
 {"id":"skill_entry:1108101565696","en":"When the wearer takes the field, their CRIT Rate increases by {0} and Crit DMG increases by {1} (duration: 15 seconds).","ru":"Когда носитель выходит на поле, его шанс крита повышается на {0}, а крит. урон — на {1} (длительность: 15 секунд)."}
 {"id":"skill_entry:1108101565952","en":"3.5%","ru":"3.5%"}
 {"id":"skill_entry:1108101565953","en":"7%","ru":"7%"}
-{"id":"skill_entry:1112396532224","en":"Star Shift: Vigorous Pierce","ru":"Звёздный сдвиг: мощное пробитие"}
+{"id":"skill_entry:1112396532224","en":"Star Shift: Rigid Pierce","ru":"Звёздный сдвиг: жёсткое пробитие"}
 {"id":"skill_entry:1112396532736","en":"When the character switches in and takes the field, CRIT Rate increases and Crit DMG increases.","ru":"При выходе персонажа на поле шанс крита повышается, а крит. урон возрастает."}
 {"id":"skill_entry:1112396532992","en":"When the wearer takes the field, their CRIT Rate increases by {0} and Crit DMG increases by {1} (duration: 15 seconds).","ru":"Когда носитель выходит на поле, его шанс крита повышается на {0}, а крит. урон — на {1} (длительность: 15 секунд)."}
 {"id":"skill_entry:1112396533248","en":"5%","ru":"5%"}
 {"id":"skill_entry:1112396533249","en":"10%","ru":"10%"}
-{"id":"skill_entry:1116691499520","en":"Star Shift: Vigorous Pierce","ru":"Звёздный сдвиг: мощное пробитие"}
+{"id":"skill_entry:1116691499520","en":"Star Shift: Rigid Pierce","ru":"Звёздный сдвиг: жёсткое пробитие"}
 {"id":"skill_entry:1116691500032","en":"When the character switches in and takes the field, CRIT Rate increases and Crit DMG increases.","ru":"При выходе персонажа на поле шанс крита повышается, а крит. урон возрастает."}
 {"id":"skill_entry:1116691500288","en":"When the wearer takes the field, their CRIT Rate increases by {0} and Crit DMG increases by {1} (duration: 15 seconds).","ru":"Когда носитель выходит на поле, его шанс крита повышается на {0}, а крит. урон — на {1} (длительность: 15 секунд)."}
 {"id":"skill_entry:1116691500544","en":"7%","ru":"7%"}
@@ -114,17 +114,17 @@
 {"id":"skill_entry:111669152768","en":"ATK increases by a fixed percentage.","ru":"Сила атаки повышается на определённый процент."}
 {"id":"skill_entry:111669153024","en":"ATK increased by {0}.","ru":"Сила атаки повышается на {0}."}
 {"id":"skill_entry:111669153280","en":"0.35","ru":"0.35"}
-{"id":"skill_entry:1120986466816","en":"Star Shift: Vigorous Pierce","ru":"Звёздный сдвиг: мощное пробитие"}
+{"id":"skill_entry:1120986466816","en":"Star Shift: Rigid Pierce","ru":"Звёздный сдвиг: жёсткое пробитие"}
 {"id":"skill_entry:1120986467328","en":"When the character switches in and takes the field, CRIT Rate increases and Crit DMG increases.","ru":"При выходе персонажа на поле шанс крита повышается, а крит. урон возрастает."}
 {"id":"skill_entry:1120986467584","en":"When the wearer takes the field, their CRIT Rate increases by {0} and Crit DMG increases by {1} (duration: 15 seconds).","ru":"Когда носитель выходит на поле, его шанс крита повышается на {0}, а крит. урон — на {1} (длительность: 15 секунд)."}
 {"id":"skill_entry:1120986467840","en":"9%","ru":"9%"}
 {"id":"skill_entry:1120986467841","en":"18%","ru":"18%"}
-{"id":"skill_entry:1125281434112","en":"Star Shift: Vigorous Pierce","ru":"Звёздный сдвиг: мощное пробитие"}
+{"id":"skill_entry:1125281434112","en":"Star Shift: Rigid Pierce","ru":"Звёздный сдвиг: жёсткое пробитие"}
 {"id":"skill_entry:1125281434624","en":"When the character switches in and takes the field, CRIT Rate increases and Crit DMG increases.","ru":"При выходе персонажа на поле шанс крита повышается, а крит. урон возрастает."}
 {"id":"skill_entry:1125281434880","en":"When the wearer takes the field, their CRIT Rate increases by {0} and Crit DMG increases by {1} (duration: 15 seconds).","ru":"Когда носитель выходит на поле, его шанс крита повышается на {0}, а крит. урон — на {1} (длительность: 15 секунд)."}
 {"id":"skill_entry:1125281435136","en":"10%","ru":"10%"}
 {"id":"skill_entry:1125281435137","en":"20%","ru":"20%"}
-{"id":"skill_entry:1129576401408","en":"Star Shift: Vigorous Pierce","ru":"Звёздный сдвиг: мощное пробитие"}
+{"id":"skill_entry:1129576401408","en":"Star Shift: Rigid Pierce","ru":"Звёздный сдвиг: жёсткое пробитие"}
 {"id":"skill_entry:1129576401920","en":"When the character switches in and takes the field, CRIT Rate increases and Crit DMG increases.","ru":"При выходе персонажа на поле шанс крита повышается, а крит. урон возрастает."}
 {"id":"skill_entry:1129576402176","en":"When the wearer takes the field, their CRIT Rate increases by {0} and Crit DMG increases by {1} (duration: 15 seconds).","ru":"Когда носитель выходит на поле, его шанс крита повышается на {0}, а крит. урон — на {1} (длительность: 15 секунд)."}
 {"id":"skill_entry:1129576402432","en":"11%","ru":"11%"}
@@ -179,17 +179,17 @@
 {"id":"skill_entry:1168231108096","en":"55","ru":"55"}
 {"id":"skill_entry:1168231108097","en":"10%","ru":"10%"}
 {"id":"skill_entry:1172526074368","en":"Rigid Pierce: Accumulated Force","ru":"Жёсткий прорыв: Накопленная сила"}
-{"id":"skill_entry:1172526074880","en":"Each time a Normal Attack deals Crit DMG, ATK increases and Crit DMG is boosted.","ru":"Каждый раз, когда обычная атака наносит крит. урон, повышается сила атаки и увеличивается крит. урон."}
+{"id":"skill_entry:1172526074880","en":"Each time a Normal Attack lands a CRIT, ATK increases and Crit DMG is boosted.","ru":"Каждый раз, когда обычная атака наносит крит. удар, повышается сила атаки и увеличивается крит. урон."}
 {"id":"skill_entry:1172526075136","en":"When the equipping character's Normal Attack deals Crit DMG, their ATK increases by {0} and Crit DMG is boosted by {1} (max 5 stacks, duration: 15 sec).","ru":"Когда обычная атака экипированного персонажа наносит крит. урон, его сила атаки повышается на {0}, а крит. урон увеличивается на {1} (макс. 5 стак., длительность: 15 сек.)."}
 {"id":"skill_entry:1172526075392","en":"1%","ru":"1%"}
 {"id":"skill_entry:1172526075393","en":"1.5%","ru":"1.5%"}
 {"id":"skill_entry:1176821041664","en":"Rigid Pierce: Accumulated Force","ru":"Жёсткий прорыв: Накопленная сила"}
-{"id":"skill_entry:1176821042176","en":"Each time a Normal Attack deals Crit DMG, ATK increases and Crit DMG is boosted.","ru":"Каждый раз, когда обычная атака наносит крит. урон, повышается сила атаки и увеличивается крит. урон."}
+{"id":"skill_entry:1176821042176","en":"Each time a Normal Attack lands a CRIT, ATK increases and Crit DMG is boosted.","ru":"Каждый раз, когда обычная атака наносит крит. удар, повышается сила атаки и увеличивается крит. урон."}
 {"id":"skill_entry:1176821042432","en":"When the equipping character's Normal Attack deals Crit DMG, their ATK increases by {0} and Crit DMG is boosted by {1} (max 5 stacks, duration: 15 sec).","ru":"Когда обычная атака экипированного персонажа наносит крит. урон, его сила атаки повышается на {0}, а крит. урон увеличивается на {1} (макс. 5 стак., длительность: 15 сек.)."}
 {"id":"skill_entry:1176821042688","en":"2%","ru":"2%"}
 {"id":"skill_entry:1176821042689","en":"3%","ru":"3%"}
 {"id":"skill_entry:1181116008960","en":"Rigid Pierce: Accumulated Force","ru":"Жёсткий прорыв: Накопленная сила"}
-{"id":"skill_entry:1181116009472","en":"Each time a Normal Attack deals Crit DMG, ATK increases and Crit DMG is boosted.","ru":"Каждый раз, когда обычная атака наносит крит. урон, повышается сила атаки и увеличивается крит. урон."}
+{"id":"skill_entry:1181116009472","en":"Each time a Normal Attack lands a CRIT, ATK increases and Crit DMG is boosted.","ru":"Каждый раз, когда обычная атака наносит крит. удар, повышается сила атаки и увеличивается крит. урон."}
 {"id":"skill_entry:1181116009728","en":"When the equipping character's Normal Attack deals Crit DMG, their ATK increases by {0} and Crit DMG is boosted by {1} (max 5 stacks, duration: 15 sec).","ru":"Когда обычная атака экипированного персонажа наносит крит. урон, его сила атаки повышается на {0}, а крит. урон увеличивается на {1} (макс. 5 стак., длительность: 15 сек.)."}
 {"id":"skill_entry:1181116009984","en":"3%","ru":"3%"}
 {"id":"skill_entry:1181116009985","en":"5%","ru":"5%"}
@@ -2338,23 +2338,23 @@
 {"id":"skill_entry:579820588032","en":"CRIT Rate increases.","ru":"Шанс крита повышается."}
 {"id":"skill_entry:579820588288","en":"CRIT Rate increases by {0}.","ru":"Шанс крита повышается на {0}."}
 {"id":"skill_entry:579820588544","en":"0.26","ru":"0.26"}
-{"id":"skill_entry:584115554816","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:584115554816","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:584115555328","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:584115555584","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:584115555840","en":"0.04","ru":"0.04"}
-{"id":"skill_entry:588410522112","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:588410522112","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:588410522624","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:588410522880","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:588410523136","en":"0.05","ru":"0.05"}
-{"id":"skill_entry:592705489408","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:592705489408","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:592705489920","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:592705490176","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:592705490432","en":"0.07","ru":"0.07"}
-{"id":"skill_entry:597000456704","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:597000456704","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:597000457216","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:597000457472","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:597000457728","en":"0.1","ru":"0.1"}
-{"id":"skill_entry:601295424000","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:601295424000","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:601295424512","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:601295424768","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:601295425024","en":"0.15","ru":"0.15"}
@@ -2362,43 +2362,43 @@
 {"id":"skill_entry:60129545216","en":"ATK increases; dealing damage increases DMG amplification.","ru":"Сила атаки повышается, а при нанесении урона усиливается прибавка к урону."}
 {"id":"skill_entry:60129545472","en":"ATK increased by {0}. When the wearer deals damage, their DMG dealt increases by 1.2% (max 10 stacks, duration: 15 sec).","ru":"Сила атаки повышается на {0}. Когда носитель наносит урон, его наносимый урон повышается на 1.2% (максимум 10 уровней, длительность: 15 сек.)."}
 {"id":"skill_entry:60129545728","en":"450","ru":"450"}
-{"id":"skill_entry:605590391296","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:605590391296","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:605590391808","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:605590392064","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:605590392320","en":"0.2","ru":"0.2"}
-{"id":"skill_entry:609885358592","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:609885358592","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:609885359104","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:609885359360","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:609885359616","en":"0.25","ru":"0.25"}
-{"id":"skill_entry:614180325888","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:614180325888","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:614180326400","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:614180326656","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:614180326912","en":"0.32","ru":"0.32"}
-{"id":"skill_entry:618475293184","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:618475293184","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:618475293696","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:618475293952","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:618475294208","en":"0.37","ru":"0.37"}
-{"id":"skill_entry:622770260480","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:622770260480","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:622770260992","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:622770261248","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:622770261504","en":"0.41","ru":"0.41"}
-{"id":"skill_entry:627065227776","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:627065227776","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:627065228288","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:627065228544","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:627065228800","en":"0.44","ru":"0.44"}
-{"id":"skill_entry:631360195072","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:631360195072","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:631360195584","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:631360195840","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:631360196096","en":"0.46","ru":"0.46"}
-{"id":"skill_entry:635655162368","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:635655162368","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:635655162880","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:635655163136","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:635655163392","en":"0.48","ru":"0.48"}
-{"id":"skill_entry:639950129664","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:639950129664","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:639950130176","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:639950130432","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:639950130688","en":"0.5","ru":"0.5"}
-{"id":"skill_entry:644245096960","en":"Pierce Damage","ru":"Урон пробития"}
+{"id":"skill_entry:644245096960","en":"Rigid Pierce Damage","ru":"Урон жёсткого пробития"}
 {"id":"skill_entry:644245097472","en":"Crit DMG increases.","ru":"Крит. урон повышается."}
 {"id":"skill_entry:644245097728","en":"Crit DMG increases by {0}.","ru":"Крит. урон повышается на {0}."}
 {"id":"skill_entry:644245097984","en":"0.52","ru":"0.52"}
@@ -2591,27 +2591,27 @@
 {"id":"skill_entry:880468299008","en":"Starecho Skill and Starpolar Skill damage increases by {0}.","ru":"Урон навыков звёздного эха и звёзднополярных навыков повышается на {0}."}
 {"id":"skill_entry:880468299264","en":"0.22","ru":"0.22"}
 {"id":"skill_entry:884763265536","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:884763266048","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:884763266048","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:884763266304","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:884763266560","en":"2%","ru":"2%"}
 {"id":"skill_entry:884763266561","en":"4.5%","ru":"4.5%"}
 {"id":"skill_entry:889058232832","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:889058233344","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:889058233344","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:889058233600","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:889058233856","en":"3%","ru":"3%"}
 {"id":"skill_entry:889058233857","en":"6%","ru":"6%"}
 {"id":"skill_entry:893353200128","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:893353200640","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:893353200640","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:893353200896","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:893353201152","en":"4%","ru":"4%"}
 {"id":"skill_entry:893353201153","en":"7.5%","ru":"7.5%"}
 {"id":"skill_entry:897648167424","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:897648167936","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:897648167936","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:897648168192","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:897648168448","en":"5.5%","ru":"5.5%"}
 {"id":"skill_entry:897648168449","en":"10.5%","ru":"10.5%"}
 {"id":"skill_entry:901943134720","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:901943135232","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:901943135232","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:901943135488","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:901943135744","en":"7%","ru":"7%"}
 {"id":"skill_entry:901943135745","en":"13.5%","ru":"13.5%"}
@@ -2620,27 +2620,27 @@
 {"id":"skill_entry:90194316544","en":"ATK increased by {0}.","ru":"Сила атаки повышается на {0}."}
 {"id":"skill_entry:90194316800","en":"0.15","ru":"0.15"}
 {"id":"skill_entry:906238102016","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:906238102528","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:906238102528","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:906238102784","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:906238103040","en":"9%","ru":"9%"}
 {"id":"skill_entry:906238103041","en":"17.5%","ru":"17.5%"}
 {"id":"skill_entry:910533069312","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:910533069824","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:910533069824","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:910533070080","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:910533070336","en":"10.5%","ru":"10.5%"}
 {"id":"skill_entry:910533070337","en":"21.5%","ru":"21.5%"}
 {"id":"skill_entry:914828036608","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:914828037120","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:914828037120","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:914828037376","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:914828037632","en":"12.5%","ru":"12.5%"}
 {"id":"skill_entry:914828037633","en":"25%","ru":"25%"}
 {"id":"skill_entry:919123003904","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:919123004416","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:919123004416","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:919123004672","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:919123004928","en":"13.5%","ru":"13.5%"}
 {"id":"skill_entry:919123004929","en":"27.5%","ru":"27.5%"}
 {"id":"skill_entry:923417971200","en":"Heroic Mane","ru":"Героическая грива"}
-{"id":"skill_entry:923417971712","en":"Max HP and ATK increase.","ru":"Макс. HP и атака повышаются."}
+{"id":"skill_entry:923417971712","en":"Max HP increases, and ATK increases by a fixed percentage.","ru":"Макс. HP повышается, а атака увеличивается на фиксированный процент."}
 {"id":"skill_entry:923417971968","en":"Max HP increases by {0} and ATK increases by {1}.","ru":"Макс. HP повышается на {0}, а атака — на {1}."}
 {"id":"skill_entry:923417972224","en":"15%","ru":"15%"}
 {"id":"skill_entry:923417972225","en":"30%","ru":"30%"}
@@ -2700,27 +2700,27 @@
 {"id":"skill_entry:966367645185","en":"35%","ru":"35%"}
 {"id":"skill_entry:970662611456","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:970662611968","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:970662612224","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:970662612224","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:970662612480","en":"1%","ru":"1%"}
 {"id":"skill_entry:970662612481","en":"3.5%","ru":"3.5%"}
 {"id":"skill_entry:974957578752","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:974957579264","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:974957579520","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:974957579520","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:974957579776","en":"1.5%","ru":"1.5%"}
 {"id":"skill_entry:974957579777","en":"4.5%","ru":"4.5%"}
 {"id":"skill_entry:979252546048","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:979252546560","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:979252546816","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:979252546816","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:979252547072","en":"2%","ru":"2%"}
 {"id":"skill_entry:979252547073","en":"6%","ru":"6%"}
 {"id":"skill_entry:983547513344","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:983547513856","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:983547514112","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:983547514112","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:983547514368","en":"2.5%","ru":"2.5%"}
 {"id":"skill_entry:983547514369","en":"8%","ru":"8%"}
 {"id":"skill_entry:987842480640","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:987842481152","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:987842481408","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:987842481408","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:987842481664","en":"3%","ru":"3%"}
 {"id":"skill_entry:987842481665","en":"10.5%","ru":"10.5%"}
 {"id":"skill_entry:98784250368","en":"Fierce Strike","ru":"Яростный удар"}
@@ -2729,11 +2729,11 @@
 {"id":"skill_entry:98784251392","en":"0.25","ru":"0.25"}
 {"id":"skill_entry:992137447936","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:992137448448","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:992137448704","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:992137448704","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:992137448960","en":"3.5%","ru":"3.5%"}
 {"id":"skill_entry:992137448961","en":"13.5%","ru":"13.5%"}
 {"id":"skill_entry:996432415232","en":"Ominous Eclipse","ru":"Зловещее затмение"}
 {"id":"skill_entry:996432415744","en":"Max HP decreases and DEF Pierce increases.","ru":"Макс. HP снижается, а пробитие защиты повышается."}
-{"id":"skill_entry:996432416000","en":"Max HP changes by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP изменяется на {0}, а пробитие защиты повышается на {1}."}
+{"id":"skill_entry:996432416000","en":"Max HP decreases by {0} and DEF Pierce increases by {1}.","ru":"Макс. HP снижается на {0}, а пробитие защиты повышается на {1}."}
 {"id":"skill_entry:996432416256","en":"4%","ru":"4%"}
 {"id":"skill_entry:996432416257","en":"16%","ru":"16%"}

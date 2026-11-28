@@ -1,5 +1,5 @@
 {"id":"goods:2156077877559808","en":"Clear Star-Vessel Crystal","ru":"Кристалл ясного звёздного сосуда"}
-{"id":"goods:2156077877560064","en":"Use to grant EXP to a character or Anima.2000","ru":"При использовании даёт опыт персонажу или аниме.2000"}
+{"id":"goods:2156077877560064","en":"Increases a character's or Anima's EXP by 2000.","ru":"Увеличивает опыт персонажа или Анимы на 2000."}
 {"id":"goods:2156077877565440","en":"Monthly purchase limit: {0}/{1}","ru":"Лимит покупки на месяц: {0}/{1}"}
 {"id":"goods:2156082172527104","en":"Shining Kibo Egg · Fire","ru":"Яйцо сияющего кибо · Огонь"}
 {"id":"goods:2156082172527360","en":"An Egg that hatches a Fire Attribute Kibo. It seems to bear the presence of an Azure-Blue Fox Kit.","ru":"Яйцо, из которого вылупляется кибо огненного атрибута. Кажется, оно хранит присутствие лазурного лисёнка."}
@@ -59,7 +59,7 @@
 {"id":"goods:2156146597038080","en":"Unlocks at Star Knowledge Level 30","ru":"Открывается на уровне звёздных знаний 30"}
 {"id":"goods:2156146597042176","en":"Monthly purchase limit: {0}/{1}","ru":"Лимит покупки на месяц: {0}/{1}"}
 {"id":"goods:2164667812151808","en":"Clear Star-Vessel Crystal","ru":"Кристалл ясного звёздного сосуда"}
-{"id":"goods:2164667812152064","en":"Use to grant EXP to a character or Anima.2000","ru":"При использовании даёт опыт персонажу или аниме.2000"}
+{"id":"goods:2164667812152064","en":"Increases a character's or Anima's EXP by 2000.","ru":"Увеличивает опыт персонажа или Анимы на 2000."}
 {"id":"goods:2164667812157440","en":"Monthly purchase limit: {0}/{1}","ru":"Лимит покупки на месяц: {0}/{1}"}
 {"id":"goods:2164672107119104","en":"Everglow Star · Radiance","ru":"Звезда вечного сияния · Блеск"}
 {"id":"goods:2164672107119360","en":"When granted through Star Blessing, the following stats increase:\nATK +12\nDEF +3\nHP +60","ru":"При даровании через звёздное благословение повышаются следующие характеристики:\nСила атаки +12\nЗащита +3\nHP +60"}
@@ -129,18 +129,18 @@
 {"id":"goods:4301456991585024","en":"The Azure-Blue Fox Kit has a small body and soft fur, and its most distinctive feature is the flame-like tuft of pink fur at the tip of its tail.\nThe Young Form is when the Azure-Blue Fox Kit is at its most active. It is a time when they love to get into mischief, and they love to play and eat. Whether it is slowly drifting peach petals or a steamer basket full of piping-hot buns, both will draw the intense gaze of an Azure-Blue Fox Kit. If a Qihua Spirit Fox or a Nine-Tailed Dreamflower isn't watching over them, trouble will break out in no time.","ru":"Лазурный лисёнок невелик, с мягкой шёрсткой, а его главная примета — похожий на пламя пучок розовой шерсти на кончике хвоста.\nЮная форма — время, когда Лазурный лисёнок наиболее деятелен. Он любит озорничать, обожает играть и поесть. Будь то медленно кружащие лепестки персика или паровая корзинка с горячими булочками, всё это притягивает его жадный взгляд. Если за ним не присмотрят Духовная лиса Цихуа или Девятихвостая грёза цветка, переполох случится в мгновение ока."}
 {"id":"goods:4301456991586304","en":"Achieve 1 endings","ru":"Достичь концовок: 1"}
 {"id":"goods:4301456991590400","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
-{"id":"goods:4301461286552064","en":"Azure-Blue Fox Kit's Echo","ru":"Эхо Лазурного лисёнка"}
-{"id":"goods:4301461286552320","en":"Source Vein that can be used to raise the Azure-Blue Fox Kit, Qihua Spirit Fox, and Nine-Tailed Dreamflower.","ru":"Исходная жила, которую можно использовать для развития Лазурного лисёнка, Духовной лисы Цихуа и Девятихвостой грёзы цветка."}
+{"id":"goods:4301461286552064","en":"Azure-Blue Fox Kit's Resonance","ru":"Резонанс лазурного лисёнка"}
+{"id":"goods:4301461286552320","en":"Can be used to raise the Source Vein of the Azure-Blue Fox Kit, Qihua Spirit Fox, and Nine-Tailed Dreamflower.","ru":"Можно использовать для развития Исходной жилы Лазурного лисёнка, Духовной лисы Цихуа и Девятихвостой грёзы цветка."}
 {"id":"goods:4301461286553600","en":"Achieve 2 endings","ru":"Достичь концовок: 2"}
 {"id":"goods:4301461286557696","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
-{"id":"goods:4301465581519360","en":"Azure-Blue Fox Kit's Echo","ru":"Эхо Лазурного лисёнка"}
-{"id":"goods:4301465581519616","en":"Source Vein that can be used to raise the Azure-Blue Fox Kit, Qihua Spirit Fox, and Nine-Tailed Dreamflower.","ru":"Исходная жила, которую можно использовать для развития Лазурного лисёнка, Духовной лисы Цихуа и Девятихвостой грёзы цветка."}
+{"id":"goods:4301465581519360","en":"Azure-Blue Fox Kit's Resonance","ru":"Резонанс лазурного лисёнка"}
+{"id":"goods:4301465581519616","en":"Can be used to raise the Source Vein of the Azure-Blue Fox Kit, Qihua Spirit Fox, and Nine-Tailed Dreamflower.","ru":"Можно использовать для развития Исходной жилы Лазурного лисёнка, Духовной лисы Цихуа и Девятихвостой грёзы цветка."}
 {"id":"goods:4301465581520896","en":"Achieve 4 endings","ru":"Достичь концовок: 4"}
 {"id":"goods:4301465581524992","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301469876486656","en":"Everglow Star · Radiance","ru":"Звезда вечного сияния · Блеск"}
 {"id":"goods:4301469876486912","en":"When granted through Star Blessing, the following stats increase:\nATK +12\nDEF +3\nHP +60","ru":"При даровании через звёздное благословение повышаются следующие характеристики:\nСила атаки +12\nЗащита +3\nHP +60"}
 {"id":"goods:4301469876492288","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
-{"id":"goods:4301474171453952","en":"Star Blessing Box: Legendary","ru":"Ящик звёздного благословения: легендарный"}
+{"id":"goods:4301474171453952","en":"Legendary Star Blessing Box","ru":"Легендарный ящик Звёздного благословения"}
 {"id":"goods:4301474171454208","en":"When opened, you can select and obtain an specified Star Blessing item.","ru":"При вскрытии позволяет выбрать и получить указанный предмет звёздного благословения."}
 {"id":"goods:4301474171459584","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301478466421248","en":"Star Blessing Box: Special","ru":"Ящик звёздного благословения: особый"}
@@ -149,7 +149,7 @@
 {"id":"goods:4301482761388544","en":"Star Blessing Box: Advanced","ru":"Ящик звёздного благословения: улучшенный"}
 {"id":"goods:4301482761388800","en":"When opened, you can select and obtain an specified Star Blessing item.","ru":"При вскрытии позволяет выбрать и получить указанный предмет звёздного благословения."}
 {"id":"goods:4301482761394176","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
-{"id":"goods:4301487056355840","en":"Boss Star Blessing Secret Box: Advanced","ru":"Тайный ящик звёздного благословения босса: улучшенный"}
+{"id":"goods:4301487056355840","en":"Boss Star Blessing Secret Gift - Advanced","ru":"Тайный дар босса Звёздного благословения — продвинутый"}
 {"id":"goods:4301487056356096","en":"A finely crafted gift box sealed with a rare Star Blessing. When opened, you can select and obtain a specified Boss Star Blessing item.","ru":"Изысканный подарочный ящик, в котором запечатано редкое звёздное благословение. При вскрытии позволяет выбрать и получить указанный предмет звёздного благословения босса."}
 {"id":"goods:4301487056361472","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301491351323136","en":"Boss Star Blessing Secret Gift: Intermediate","ru":"Тайный дар звёздного благословения босса: средний"}
@@ -194,10 +194,10 @@
 {"id":"goods:4301890783281920","en":"When fed, raises a Kibo's Source Vein rank.","ru":"При скармливании повышает ранг Исходной жилы кибо."}
 {"id":"goods:4301890783287296","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301895078248960","en":"Pure Star Vessel Crystal","ru":"Кристалл чистого Звёздного сосуда"}
-{"id":"goods:4301895078249216","en":"When used, increases the EXP of a character or Anima by 5000.","ru":"При использовании повышает опыт персонажа или Анимы на 5000."}
+{"id":"goods:4301895078249216","en":"Increases a character's or Anima's EXP by 5000.","ru":"Увеличивает опыт персонажа или Анимы на 5000."}
 {"id":"goods:4301895078254592","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301899373216256","en":"Clear Star-Vessel Crystal","ru":"Кристалл ясного звёздного сосуда"}
-{"id":"goods:4301899373216512","en":"Use to grant EXP to a character or Anima.2000","ru":"При использовании даёт опыт персонажу или аниме.2000"}
+{"id":"goods:4301899373216512","en":"Increases a character's or Anima's EXP by 2000.","ru":"Увеличивает опыт персонажа или Анимы на 2000."}
 {"id":"goods:4301899373221888","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301903668183552","en":"Surging Spirit","ru":"Бурлящий дух"}
 {"id":"goods:4301903668183808","en":"A surging spirit.\n Can be used for Equipment Enhancement.","ru":"Бурлящий дух.\n Можно использовать для усиления снаряжения."}
@@ -215,10 +215,10 @@
 {"id":"goods:4301920848052992","en":"When fed, raises a Kibo's Source Vein rank.","ru":"При скармливании повышает ранг Исходной жилы кибо."}
 {"id":"goods:4301920848058368","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301925143020032","en":"Fully Ripe Starful Fruit","ru":"Полностью спелый Звёздный плод"}
-{"id":"goods:4301925143020288","en":"When used, grants 5000 EXP to a Kibo.","ru":"При использовании даёт кибо 5000 опыта."}
+{"id":"goods:4301925143020288","en":"Increases a Kibo's EXP by 5000.","ru":"Увеличивает опыт кибо на 5000."}
 {"id":"goods:4301925143025664","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4301929437987328","en":"Refreshing Starful Fruit","ru":"Освежающий Звёздный плод"}
-{"id":"goods:4301929437987584","en":"When used, increases a Kibo's EXP by 2000.","ru":"При использовании повышает опыт кибо на 2000."}
+{"id":"goods:4301929437987584","en":"Increases a Kibo's EXP by 2000.","ru":"Увеличивает опыт кибо на 2000."}
 {"id":"goods:4301929437992960","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4302273035371008","en":"Scattered Moon Blossom","ru":"Развеянный лунный цвет"}
 {"id":"goods:4302273035371264","en":"A uniquely shaped bracelet strung with thin slivers that represent the different phases of the moon. Whenever it is placed under the moonlight, they overlap like scattered moons and reflect a cold, clear light.","ru":"Браслет необычной формы, нанизанный из тонких пластинок, олицетворяющих разные фазы луны. Где бы его ни положили под лунным светом, они наслаиваются, словно рассыпанные луны, и отражают холодное ясное сияние."}
@@ -244,7 +244,7 @@
 {"id":"goods:4302294510207744","en":"When opened, you can select and obtain a specified Resonance item.","ru":"При вскрытии позволяет выбрать и получить указанный предмет резонанса."}
 {"id":"goods:4302294510209024","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:4302294510213120","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
-{"id":"goods:4302298805174784","en":"Star Blessing Box: Legendary","ru":"Ящик звёздного благословения: легендарный"}
+{"id":"goods:4302298805174784","en":"Legendary Star Blessing Box","ru":"Легендарный ящик Звёздного благословения"}
 {"id":"goods:4302298805175040","en":"When opened, you can select and obtain an specified Star Blessing item.","ru":"При вскрытии позволяет выбрать и получить указанный предмет звёздного благословения."}
 {"id":"goods:4302298805176320","en":"Unlocked by reaching a certain time","ru":"Открывается со временем"}
 {"id":"goods:4302298805180416","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
@@ -257,11 +257,11 @@
 {"id":"goods:4302307395110912","en":"Unlocked by reaching a certain time","ru":"Открывается со временем"}
 {"id":"goods:4302307395115008","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4302311690076672","en":"Pure Star Vessel Crystal","ru":"Кристалл чистого Звёздного сосуда"}
-{"id":"goods:4302311690076928","en":"When used, increases the EXP of a character or Anima by 5000.","ru":"При использовании повышает опыт персонажа или Анимы на 5000."}
+{"id":"goods:4302311690076928","en":"Increases a character's or Anima's EXP by 5000.","ru":"Увеличивает опыт персонажа или Анимы на 5000."}
 {"id":"goods:4302311690078208","en":"Unlocked by reaching a certain time","ru":"Открывается со временем"}
 {"id":"goods:4302311690082304","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4302315985043968","en":"Clear Star-Vessel Crystal","ru":"Кристалл ясного звёздного сосуда"}
-{"id":"goods:4302315985044224","en":"Use to grant EXP to a character or Anima.2000","ru":"При использовании даёт опыт персонажу или аниме.2000"}
+{"id":"goods:4302315985044224","en":"Increases a character's or Anima's EXP by 2000.","ru":"Увеличивает опыт персонажа или Анимы на 2000."}
 {"id":"goods:4302315985045504","en":"Unlocked by reaching a certain time","ru":"Открывается со временем"}
 {"id":"goods:4302315985049600","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4302320280011264","en":"2500 Yuni","ru":"2500 Юни"}
@@ -269,10 +269,10 @@
 {"id":"goods:4302320280012800","en":"Unlocked by reaching a certain time","ru":"Открывается со временем"}
 {"id":"goods:4302320280016896","en":"Purchase limit: {0}/{1}","ru":"Лимит покупки: {0}/{1}"}
 {"id":"goods:4302324574978560","en":"Common Star Vessel Crystal","ru":"Обычный кристалл Звёздного сосуда"}
-{"id":"goods:4302324574978816","en":"When used, grants 100 EXP to a character or Anima.","ru":"При использовании даёт персонажу или Аниме 100 опыта."}
+{"id":"goods:4302324574978816","en":"Increases a character's or Anima's EXP by 100.","ru":"Увеличивает опыт персонажа или Анимы на 100."}
 {"id":"goods:4302324574980096","en":"Unlocked by reaching a certain time","ru":"Открывается со временем"}
 {"id":"goods:4302328869945856","en":"Unripe Starful Fruit","ru":"Неспелый Звёздный плод"}
-{"id":"goods:4302328869946112","en":"When used, increases a Kibo's EXP by 100.","ru":"При использовании повышает опыт кибо на 100."}
+{"id":"goods:4302328869946112","en":"Increases a Kibo's EXP by 100.","ru":"Увеличивает опыт кибо на 100."}
 {"id":"goods:4302328869947392","en":"Unlocked by reaching a certain time","ru":"Открывается со временем"}
 {"id":"goods:4302333164913152","en":"100 Yuni","ru":"100 Юни"}
 {"id":"goods:4302333164913408","en":"Currency in circulation throughout Promilia.","ru":"Валюта, имеющая хождение по всей Промилии."}
@@ -341,7 +341,7 @@
 {"id":"goods:4810402026226432","en":"A common seasoning. Can be used in cooking.","ru":"Обычная приправа. Используется в готовке."}
 {"id":"goods:4810402026231808","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:4810406321193472","en":"Hardwood","ru":"Твёрдая древесина"}
-{"id":"goods:4810406321193728","en":"Common logs. Can be processed at the Farm.","ru":"Обычные брёвна. Можно перерабатывать на Ферме."}
+{"id":"goods:4810406321193728","en":"Common logs. Can be processed into lumber.","ru":"Обычные брёвна. Можно переработать в древесину."}
 {"id":"goods:4810406321199104","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:4810410616160768","en":"Rockslate Stone","ru":"Скальный сланец"}
 {"id":"goods:4810410616161024","en":"Common stone. Can be processed at the Farm.","ru":"Обычный камень. Можно перерабатывать на Ферме."}
@@ -377,10 +377,10 @@
 {"id":"goods:5205521837589248","en":"When fed, raises a Kibo's Source Vein rank.","ru":"При скармливании повышает ранг Исходной жилы кибо."}
 {"id":"goods:5205521837594624","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:5205526132556288","en":"Fine Star Vessel Crystal","ru":"Чистый кристалл Звёздного сосуда"}
-{"id":"goods:5205526132556544","en":"Use to grant the character or Anima 500 EXP.","ru":"При использовании даёт персонажу или Аниме 500 опыта."}
+{"id":"goods:5205526132556544","en":"Increases a character's or Anima's EXP by 500.","ru":"Увеличивает опыт персонажа или Анимы на 500."}
 {"id":"goods:5205526132561920","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:5205530427523584","en":"Slightly Sweet Starful Fruit","ru":"Слегка сладкий Звёздный плод"}
-{"id":"goods:5205530427523840","en":"Use to increase Kibo EXP by 500.","ru":"При использовании повышает опыт кибо на 500."}
+{"id":"goods:5205530427523840","en":"Increases a Kibo's EXP by 500.","ru":"Увеличивает опыт кибо на 500."}
 {"id":"goods:5205530427529216","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:5244159363383808","en":"Tanned Leather","ru":"Выделанная кожа"}
 {"id":"goods:5244159363384064","en":"Sturdy leather that has been carefully tanned.","ru":"Прочная кожа, тщательно выделанная."}
@@ -410,10 +410,10 @@
 {"id":"goods:5248471510549248","en":"When fed, raises a Kibo's Source Vein rank.","ru":"При скармливании повышает ранг Исходной жилы кибо."}
 {"id":"goods:5248471510554624","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:5248475805516288","en":"Clear Star-Vessel Crystal","ru":"Кристалл ясного звёздного сосуда"}
-{"id":"goods:5248475805516544","en":"Use to grant EXP to a character or Anima.2000","ru":"При использовании даёт опыт персонажу или аниме.2000"}
+{"id":"goods:5248475805516544","en":"Increases a character's or Anima's EXP by 2000.","ru":"Увеличивает опыт персонажа или Анимы на 2000."}
 {"id":"goods:5248475805521920","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:5248480100483584","en":"Refreshing Starful Fruit","ru":"Освежающий Звёздный плод"}
-{"id":"goods:5248480100483840","en":"When used, increases a Kibo's EXP by 2000.","ru":"При использовании повышает опыт кибо на 2000."}
+{"id":"goods:5248480100483840","en":"Increases a Kibo's EXP by 2000.","ru":"Увеличивает опыт кибо на 2000."}
 {"id":"goods:5248480100489216","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:5587756747063808","en":"Shaman's Notes: \"With the Aura\"","ru":"Записки шамана: «С Аурой»"}
 {"id":"goods:5587756747064064","en":"The Shaman's own record of the Shaman's calling and of the Aura.","ru":"Записи шамана о своём призвании и об Ауре."}
@@ -428,28 +428,28 @@
 {"id":"goods:5587769631965952","en":"An explanation of the Arena Tournament rules in Charlulu Village. Let furrians whose hot blood boils show their strength and will here.","ru":"Разъяснение правил турнира на арене деревни Шарлулу. Пусть фурриане, в ком кипит горячая кровь, покажут здесь свою силу и волю."}
 {"id":"goods:5587769631971328","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:5587773926932992","en":"Mofunga Egg","ru":"Яйцо мофунги"}
-{"id":"goods:5587773926933248","en":"A normal Kibo Egg. It can hatch a Kibo of the same species as its parent.\n A pure life born from the Star Vessel inherits the power of its parent Kibo and awaits the moment it will Starlink with a worthy partner.","ru":"Обычное Яйцо кибо. Из него может вылупиться кибо того же вида, что и родитель.\n Чистая жизнь, рождённая из Звёздного сосуда, наследует силу родителя-кибо и ждёт мгновения, когда вступит в Звёздную связь с достойным партнёром."}
+{"id":"goods:5587773926933248","en":"A normal Kibo Egg. It can hatch a Kibo of the same species as its parent.\n A pure life born from the Star Vessel inherits the power of its parent Kibo and awaits the moment it will Starlink with a worthy partner.","ru":"Обычное Яйцо кибо. Из него может вылупиться кибо того же вида, что и родитель.\n Чистая жизнь, рождённая из Звёздного сосуда, наследует силу родителя-кибо и ждёт мгновения, когда вступит в Звёздную связь с достойным напарником."}
 {"id":"goods:5587773926938624","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:5587778221900288","en":"Bilibird Egg","ru":"Яйцо билибёрда"}
-{"id":"goods:5587778221900544","en":"A normal Kibo Egg. It can hatch a Kibo of the same species as its parent.\n A pure life born from the Star Vessel inherits the power of its parent Kibo and awaits the moment it will Starlink with a worthy partner.","ru":"Обычное Яйцо кибо. Из него может вылупиться кибо того же вида, что и родитель.\n Чистая жизнь, рождённая из Звёздного сосуда, наследует силу родителя-кибо и ждёт мгновения, когда вступит в Звёздную связь с достойным партнёром."}
+{"id":"goods:5587778221900544","en":"A normal Kibo Egg. It can hatch a Kibo of the same species as its parent.\n A pure life born from the Star Vessel inherits the power of its parent Kibo and awaits the moment it will Starlink with a worthy partner.","ru":"Обычное Яйцо кибо. Из него может вылупиться кибо того же вида, что и родитель.\n Чистая жизнь, рождённая из Звёздного сосуда, наследует силу родителя-кибо и ждёт мгновения, когда вступит в Звёздную связь с достойным напарником."}
 {"id":"goods:5587778221905920","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:5587782516867584","en":"Momo Egg","ru":"Яйцо момо"}
-{"id":"goods:5587782516867840","en":"A normal Kibo Egg. It can hatch a Kibo of the same species as its parent.\n A pure life born from the Star Vessel inherits the power of its parent Kibo and awaits the moment it will Starlink with a worthy partner.","ru":"Обычное Яйцо кибо. Из него может вылупиться кибо того же вида, что и родитель.\n Чистая жизнь, рождённая из Звёздного сосуда, наследует силу родителя-кибо и ждёт мгновения, когда вступит в Звёздную связь с достойным партнёром."}
+{"id":"goods:5587782516867840","en":"A normal Kibo Egg. It can hatch a Kibo of the same species as its parent.\n A pure life born from the Star Vessel inherits the power of its parent Kibo and awaits the moment it will Starlink with a worthy partner.","ru":"Обычное Яйцо кибо. Из него может вылупиться кибо того же вида, что и родитель.\n Чистая жизнь, рождённая из Звёздного сосуда, наследует силу родителя-кибо и ждёт мгновения, когда вступит в Звёздную связь с достойным напарником."}
 {"id":"goods:5587782516873216","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:5587786811834880","en":"Lifo Egg","ru":"Яйцо лифо"}
-{"id":"goods:5587786811835136","en":"A normal Kibo Egg. It can hatch a Kibo of the same species as its parent.\n A pure life born from the Star Vessel inherits the power of its parent Kibo and awaits the moment it will Starlink with a worthy partner.","ru":"Обычное Яйцо кибо. Из него может вылупиться кибо того же вида, что и родитель.\n Чистая жизнь, рождённая из Звёздного сосуда, наследует силу родителя-кибо и ждёт мгновения, когда вступит в Звёздную связь с достойным партнёром."}
+{"id":"goods:5587786811835136","en":"A normal Kibo Egg. It can hatch a Kibo of the same species as its parent.\n A pure life born from the Star Vessel inherits the power of its parent Kibo and awaits the moment it will Starlink with a worthy partner.","ru":"Обычное Яйцо кибо. Из него может вылупиться кибо того же вида, что и родитель.\n Чистая жизнь, рождённая из Звёздного сосуда, наследует силу родителя-кибо и ждёт мгновения, когда вступит в Звёздную связь с достойным напарником."}
 {"id":"goods:5587786811840512","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:5587791106802176","en":"Mofunga's Resonance","ru":"Резонанс Мофунги"}
-{"id":"goods:5587791106802432","en":"Source Vein that can be used to raise Mofunga, Easgal, and Fennwolf.","ru":"Исходная жила, которую можно использовать для развития Мофунги, Исгаля и Феннвольфа."}
+{"id":"goods:5587791106802432","en":"Can be used to raise the Source Vein of Mofunga, Easgal, and Fennwolf.","ru":"Можно использовать для развития Исходной жилы Мофунги, Исгаля и Феннвольфа."}
 {"id":"goods:5587791106807808","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:5587795401769472","en":"Bilibird's Resonance","ru":"Резонанс Билибёрда"}
-{"id":"goods:5587795401769728","en":"Source Vein that can be used to raise Bilibird, Weaver, and Mastiva.","ru":"Исходная жила, которую можно использовать для развития Билибёрда, Уивера и Мастивы."}
+{"id":"goods:5587795401769728","en":"Can be used to raise the Source Vein of Bilibird, Weaver, and Mastiva.","ru":"Можно использовать для развития Исходной жилы Билибёрда, Уивера и Мастивы."}
 {"id":"goods:5587795401775104","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:5587799696736768","en":"Momo's Resonance","ru":"Резонанс Момо"}
-{"id":"goods:5587799696737024","en":"Source Vein that can be used to raise Momo, Flaimo, and Taurik.","ru":"Исходная жила, которую можно использовать для развития Момо, Флаймо и Таурика."}
+{"id":"goods:5587799696737024","en":"Can be used to raise the Source Vein of Momo, Flaimo, and Taurik.","ru":"Можно использовать для развития Исходной жилы Момо, Флаймо и Таурика."}
 {"id":"goods:5587799696742400","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:5587803991704064","en":"Lifo's Resonance","ru":"Резонанс Лифо"}
-{"id":"goods:5587803991704320","en":"Source Vein that can be used to raise Lifo, Fratel, and Kronneck.","ru":"Исходная жила, которую можно использовать для развития Лифо, Фрателя и Кроннека."}
+{"id":"goods:5587803991704320","en":"Can be used to raise the Source Vein of Lifo, Fratel, and Kronneck.","ru":"Можно использовать для развития Исходной жилы Лифо, Фрателя и Кроннека."}
 {"id":"goods:5587803991709696","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:5587808286671360","en":"Unfinished Campaign","ru":"Незавершённый поход"}
 {"id":"goods:5587808286671616","en":"An outfit that hardly looks like it belongs to a seasoned fighter.\n For one already on a journey, what matters is not the past you came from, but walking the road before you.","ru":"Наряд, который вряд ли сочтут одеждой закалённого в боях воина.\n Для того, кто уже отправился в путь, важно не прошлое, а дорога впереди."}
@@ -485,7 +485,7 @@
 {"id":"goods:5587851236344576","en":"When opened, you can select and obtain an specified Star Blessing item.","ru":"При вскрытии позволяет выбрать и получить указанный предмет звёздного благословения."}
 {"id":"goods:5587851236349952","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:5587855531311616","en":"Slightly Sweet Starful Fruit10","ru":"Слегка сладкий Звёздный плод10"}
-{"id":"goods:5587855531311872","en":"Use to increase Kibo EXP by 500.","ru":"При использовании повышает опыт кибо на 500."}
+{"id":"goods:5587855531311872","en":"Increases a Kibo's EXP by 500.","ru":"Увеличивает опыт кибо на 500."}
 {"id":"goods:5587855531317248","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:5587859826278912","en":"Normal Spirit2","ru":"Обычный дух2"}
 {"id":"goods:5587859826279168","en":"An ordinary spirit. Can be used for Equipment Enhancement.","ru":"Обычный дух. Можно использовать для усиления снаряжения."}
@@ -575,7 +575,7 @@
 {"id":"goods:8633365301299200","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8633365301303296","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:8633747553387008","en":"Starful Fruit Tree Seeds","ru":"Семена Звёздного плодового дерева"}
-{"id":"goods:8633747553387264","en":"Starful Fruit Tree seeds.\nProduces ripe fruit that can be harvested repeatedly. Can only be grown in 1×1 Fertile Soil.\nFirst maturation takes 24 hours. After that, fruit can be reharvested every 12 hours.","ru":"Семена Звёздного плодового дерева.\nПозволяют многократно собирать спелые плоды. Можно выращивать только на участке плодородной почвы размером 1×1.\nДо первого созревания: 24 ч. Затем плоды можно собирать каждые 12 ч."}
+{"id":"goods:8633747553387264","en":"Starful Fruit Tree seeds.\nProduces fruit that increases Kibo EXP and can be harvested repeatedly. Can only be grown in 1×1 Fertile Soil.\nFirst maturation takes 24 hours. After that, fruit can be reharvested every 12 hours.","ru":"Семена звездополного фруктового дерева.\nПозволяют многократно собирать плоды, увеличивающие опыт кибо. Можно выращивать только на участке плодородной почвы размером 1×1.\nДо первого созревания: 24 ч. Затем плоды можно собирать каждые 12 ч."}
 {"id":"goods:8633747553388544","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8633747553392640","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8633751848354304","en":"Source Vein Tree Seeds","ru":"Семена Исходной жилы"}
@@ -591,7 +591,7 @@
 {"id":"goods:8634181345085440","en":"Unlocks at Star Knowledge Level 30","ru":"Открывается на уровне звёздных знаний 30"}
 {"id":"goods:8634181345089536","en":"Daily purchase limit: {0}","ru":"Лимит покупки на сегодня: {0}"}
 {"id":"goods:8634185640051200","en":"Starful Fruit Tree Seeds","ru":"Семена Звёздного плодового дерева"}
-{"id":"goods:8634185640051456","en":"Starful Fruit Tree seeds.\nProduces ripe fruit that can be harvested repeatedly. Can only be grown in 1×1 Fertile Soil.\nFirst maturation takes 24 hours. After that, fruit can be reharvested every 12 hours.","ru":"Семена Звёздного плодового дерева.\nПозволяют многократно собирать спелые плоды. Можно выращивать только на участке плодородной почвы размером 1×1.\nДо первого созревания: 24 ч. Затем плоды можно собирать каждые 12 ч."}
+{"id":"goods:8634185640051456","en":"Starful Fruit Tree seeds.\nProduces fruit that increases Kibo EXP and can be harvested repeatedly. Can only be grown in 1×1 Fertile Soil.\nFirst maturation takes 24 hours. After that, fruit can be reharvested every 12 hours.","ru":"Семена звездополного фруктового дерева.\nПозволяют многократно собирать плоды, увеличивающие опыт кибо. Можно выращивать только на участке плодородной почвы размером 1×1.\nДо первого созревания: 24 ч. Затем плоды можно собирать каждые 12 ч."}
 {"id":"goods:8634185640052736","en":"Unlocks at Star Knowledge Level 30","ru":"Открывается на уровне звёздных знаний 30"}
 {"id":"goods:8634185640056832","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8634189935018496","en":"Source Vein Tree Seeds","ru":"Семена Исходной жилы"}
@@ -619,11 +619,11 @@
 {"id":"goods:8719230287480832","en":"Unlocked at Star Knowledge Level 15","ru":"Открывается на Уровне звёздных знаний 15"}
 {"id":"goods:8719230287484928","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8719234582446592","en":"Ordinary Star Vessel Crystal ×10","ru":"Обычный кристалл Звёздного сосуда ×10"}
-{"id":"goods:8719234582446848","en":"When used, grants 100 EXP to a character or Anima.","ru":"При использовании даёт персонажу или Аниме 100 опыта."}
+{"id":"goods:8719234582446848","en":"Increases a character's or Anima's EXP by 100.","ru":"Увеличивает опыт персонажа или Анимы на 100."}
 {"id":"goods:8719234582448128","en":"Unlocked at Star Knowledge Level 1","ru":"Открывается на Уровне звёздных знаний 1"}
 {"id":"goods:8719234582452224","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8719238877413888","en":"Fine Star Vessel Crystal ×10","ru":"Красивый кристалл Звёздного сосуда ×10"}
-{"id":"goods:8719238877414144","en":"Use to grant the character or Anima 500 EXP.","ru":"При использовании даёт персонажу или Аниме 500 опыта."}
+{"id":"goods:8719238877414144","en":"Increases a character's or Anima's EXP by 500.","ru":"Увеличивает опыт персонажа или Анимы на 500."}
 {"id":"goods:8719238877415424","en":"Unlocked at Star Knowledge Level 1","ru":"Открывается на Уровне звёздных знаний 1"}
 {"id":"goods:8719238877419520","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8719243172381184","en":"Battle-Hardened Warrior's Sword","ru":"Меч закалённого в боях воина"}
@@ -655,7 +655,7 @@
 {"id":"goods:8719646899308544","en":"Unlocked at Star Knowledge Level 15","ru":"Открывается на Уровне звёздных знаний 15"}
 {"id":"goods:8719646899312640","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8719651194274304","en":"Fine Star Vessel Crystal ×10","ru":"Красивый кристалл Звёздного сосуда ×10"}
-{"id":"goods:8719651194274560","en":"Use to grant the character or Anima 500 EXP.","ru":"При использовании даёт персонажу или Аниме 500 опыта."}
+{"id":"goods:8719651194274560","en":"Increases a character's or Anima's EXP by 500.","ru":"Увеличивает опыт персонажа или Анимы на 500."}
 {"id":"goods:8719651194275840","en":"Unlocked at Star Knowledge Level 15","ru":"Открывается на Уровне звёздных знаний 15"}
 {"id":"goods:8719651194279936","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8719655489241600","en":"Thread of Remembrance","ru":"Нить воспоминаний"}
@@ -687,11 +687,11 @@
 {"id":"goods:8720097870874624","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8720097870878720","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8720102165840384","en":"Fine Star Vessel Crystal ×10","ru":"Красивый кристалл Звёздного сосуда ×10"}
-{"id":"goods:8720102165840640","en":"Use to grant the character or Anima 500 EXP.","ru":"При использовании даёт персонажу или Аниме 500 опыта."}
+{"id":"goods:8720102165840640","en":"Increases a character's or Anima's EXP by 500.","ru":"Увеличивает опыт персонажа или Анимы на 500."}
 {"id":"goods:8720102165841920","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8720102165846016","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:8720106460807680","en":"Pure Star Vessel Crystal ×10","ru":"Чистый кристалл Звёздного сосуда ×10"}
-{"id":"goods:8720106460807936","en":"Use to grant EXP to a character or Anima.2000","ru":"При использовании даёт опыт персонажу или аниме.2000"}
+{"id":"goods:8720106460807936","en":"Increases a character's or Anima's EXP by 2000.","ru":"Увеличивает опыт персонажа или Анимы на 2000."}
 {"id":"goods:8720106460809216","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8720106460813312","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8720110755774976","en":"Surging Spirit","ru":"Бурлящий дух"}
@@ -735,19 +735,19 @@
 {"id":"goods:8720531662571520","en":"Unlocks at Star Knowledge Level 40","ru":"Открывается на уровне звёздных знаний 40"}
 {"id":"goods:8720531662575616","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:8720535957537280","en":"Fine Star Vessel Crystal ×10","ru":"Красивый кристалл Звёздного сосуда ×10"}
-{"id":"goods:8720535957537536","en":"Use to grant the character or Anima 500 EXP.","ru":"При использовании даёт персонажу или Аниме 500 опыта."}
+{"id":"goods:8720535957537536","en":"Increases a character's or Anima's EXP by 500.","ru":"Увеличивает опыт персонажа или Анимы на 500."}
 {"id":"goods:8720535957538816","en":"Unlocks at Star Knowledge Level 40","ru":"Открывается на уровне звёздных знаний 40"}
 {"id":"goods:8720535957542912","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:8720540252504576","en":"Pure Star Vessel Crystal ×10","ru":"Чистый кристалл Звёздного сосуда ×10"}
-{"id":"goods:8720540252504832","en":"Use to grant EXP to a character or Anima.2000","ru":"При использовании даёт опыт персонажу или аниме.2000"}
+{"id":"goods:8720540252504832","en":"Increases a character's or Anima's EXP by 2000.","ru":"Увеличивает опыт персонажа или Анимы на 2000."}
 {"id":"goods:8720540252506112","en":"Unlocks at Star Knowledge Level 40","ru":"Открывается на уровне звёздных знаний 40"}
 {"id":"goods:8720540252510208","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:8762167075537408","en":"Unripe Starful Fruit ×10","ru":"Недозрелый Звёздный плод ×10"}
-{"id":"goods:8762167075537664","en":"When used, increases a Kibo's EXP by 100.","ru":"При использовании повышает опыт кибо на 100."}
+{"id":"goods:8762167075537664","en":"Increases a Kibo's EXP by 100.","ru":"Увеличивает опыт кибо на 100."}
 {"id":"goods:8762167075538944","en":"Unlocked at Star Knowledge Level 1","ru":"Открывается на Уровне звёздных знаний 1"}
 {"id":"goods:8762167075543040","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8762171370504704","en":"Slightly Sweet Starful Fruit10","ru":"Слегка сладкий Звёздный плод10"}
-{"id":"goods:8762171370504960","en":"Use to increase Kibo EXP by 500.","ru":"При использовании повышает опыт кибо на 500."}
+{"id":"goods:8762171370504960","en":"Increases a Kibo's EXP by 500.","ru":"Увеличивает опыт кибо на 500."}
 {"id":"goods:8762171370506240","en":"Unlocked at Star Knowledge Level 1","ru":"Открывается на Уровне звёздных знаний 1"}
 {"id":"goods:8762171370510336","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8762175665472000","en":"Kibo Egg of Starshine Grace","ru":"Яйцо кибо благодати звёздного сияния"}
@@ -755,7 +755,7 @@
 {"id":"goods:8762175665473536","en":"Unlocked at Star Knowledge Level 15","ru":"Открывается на Уровне звёздных знаний 15"}
 {"id":"goods:8762175665477632","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8762596572267008","en":"Slightly Sweet Starful Fruit10","ru":"Слегка сладкий Звёздный плод10"}
-{"id":"goods:8762596572267264","en":"Use to increase Kibo EXP by 500.","ru":"При использовании повышает опыт кибо на 500."}
+{"id":"goods:8762596572267264","en":"Increases a Kibo's EXP by 500.","ru":"Увеличивает опыт кибо на 500."}
 {"id":"goods:8762596572268544","en":"Unlocked at Star Knowledge Level 15","ru":"Открывается на Уровне звёздных знаний 15"}
 {"id":"goods:8762596572272640","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8762600867234304","en":"Kibo Egg of Starshine Grace","ru":"Яйцо кибо благодати звёздного сияния"}
@@ -767,11 +767,11 @@
 {"id":"goods:8762605162203136","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8762605162207232","en":"Remaining this month: {0}","ru":"Осталось в этом месяце: {0}"}
 {"id":"goods:8763026068996608","en":"Slightly Sweet Starful Fruit10","ru":"Слегка сладкий Звёздный плод10"}
-{"id":"goods:8763026068996864","en":"Use to increase Kibo EXP by 500.","ru":"При использовании повышает опыт кибо на 500."}
+{"id":"goods:8763026068996864","en":"Increases a Kibo's EXP by 500.","ru":"Увеличивает опыт кибо на 500."}
 {"id":"goods:8763026068998144","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8763026069002240","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:8763030363963904","en":"Refreshing Starful Fruit ×10","ru":"Свежий Звёздный плод ×10"}
-{"id":"goods:8763030363964160","en":"When used, increases a Kibo's EXP by 2000.","ru":"При использовании повышает опыт кибо на 2000."}
+{"id":"goods:8763030363964160","en":"Increases a Kibo's EXP by 2000.","ru":"Увеличивает опыт кибо на 2000."}
 {"id":"goods:8763030363965440","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8763030363969536","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8763034658931200","en":"Kibo Egg of Rare Grace","ru":"Яйцо кибо редкой благодати"}
@@ -790,7 +790,7 @@
 {"id":"goods:8763047543833344","en":"An egg Lilika found. An Unknown Kibo will hatch from it.","ru":"Яйцо, найденное Лиликой. Из него вылупится неизвестное кибо."}
 {"id":"goods:8763047543834624","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8763047543838720","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
-{"id":"goods:8763051838800384","en":"Fighter Fruit","ru":"Плод бойца"}
+{"id":"goods:8763051838800384","en":"Strongman Fruit","ru":"Плод силача"}
 {"id":"goods:8763051838800640","en":"The Kibo gains the Factor [Fighter · Excellence].","ru":"Кибо получает фактор 【Боец · Превосходство】."}
 {"id":"goods:8763051838801920","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8763051838806016","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
@@ -859,11 +859,11 @@
 {"id":"goods:8763472745596928","en":"Unlocks at Star Knowledge Level 40","ru":"Открывается на уровне звёздных знаний 40"}
 {"id":"goods:8763472745601024","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:8763477040562688","en":"Slightly Sweet Starful Fruit10","ru":"Слегка сладкий Звёздный плод10"}
-{"id":"goods:8763477040562944","en":"Use to increase Kibo EXP by 500.","ru":"При использовании повышает опыт кибо на 500."}
+{"id":"goods:8763477040562944","en":"Increases a Kibo's EXP by 500.","ru":"Увеличивает опыт кибо на 500."}
 {"id":"goods:8763477040564224","en":"Unlocks at Star Knowledge Level 40","ru":"Открывается на уровне звёздных знаний 40"}
 {"id":"goods:8763477040568320","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:8763481335529984","en":"Refreshing Starful Fruit ×10","ru":"Свежий Звёздный плод ×10"}
-{"id":"goods:8763481335530240","en":"When used, increases a Kibo's EXP by 2000.","ru":"При использовании повышает опыт кибо на 2000."}
+{"id":"goods:8763481335530240","en":"Increases a Kibo's EXP by 2000.","ru":"Увеличивает опыт кибо на 2000."}
 {"id":"goods:8763481335531520","en":"Unlocks at Star Knowledge Level 40","ru":"Открывается на уровне звёздных знаний 40"}
 {"id":"goods:8763481335535616","en":"Remaining this week: {0}","ru":"Осталось на этой неделе: {0}"}
 {"id":"goods:8763485630497280","en":"Potential Training Supplies ×100","ru":"Припасы для тренировки потенциала ×100"}
@@ -1027,39 +1027,39 @@
 {"id":"goods:8934824760838144","en":"Unlocks at Star Knowledge Level 25","ru":"Открывается на уровне звёздных знаний 25"}
 {"id":"goods:8934824760842240","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934829055803904","en":"Totem of Blaze","ru":"Тотем пламени"}
-{"id":"goods:8934829055804160","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Fire DMG Boost.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Увеличение огненного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
+{"id":"goods:8934829055804160","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Fire DMG Amplification.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Усиление огненного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
 {"id":"goods:8934829055805440","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8934829055809536","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934833350771200","en":"Totem of Whispers","ru":"Тотем шёпота ветра"}
-{"id":"goods:8934833350771456","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Wind DMG Boost.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Увеличение ветряного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
+{"id":"goods:8934833350771456","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Wind DMG Amplification.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Усиление ветряного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
 {"id":"goods:8934833350772736","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8934833350776832","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934837645738496","en":"Totem of the Evergreen","ru":"Тотем вечнозелёного камня"}
-{"id":"goods:8934837645738752","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Earth DMG Boost.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Увеличение земного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
+{"id":"goods:8934837645738752","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Earth DMG Amplification.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Усиление земного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
 {"id":"goods:8934837645740032","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8934837645744128","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934841940705792","en":"Totem of Verdure","ru":"Тотем зелёной жизни"}
-{"id":"goods:8934841940706048","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Nature DMG Boost.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Увеличение урона природы».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
+{"id":"goods:8934841940706048","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Nature DMG Amplification.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Усиление урона природы».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
 {"id":"goods:8934841940707328","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8934841940711424","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934846235673088","en":"Totem of Frost","ru":"Тотем мороза"}
-{"id":"goods:8934846235673344","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Ice DMG Boost.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Увеличение ледяного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
+{"id":"goods:8934846235673344","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Ice DMG Amplification.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Усиление ледяного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
 {"id":"goods:8934846235674624","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8934846235678720","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934850530640384","en":"Totem of Ripples","ru":"Тотем ряби"}
-{"id":"goods:8934850530640640","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Water DMG Boost.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Увеличение водного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
+{"id":"goods:8934850530640640","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Water DMG Amplification.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Усиление водного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
 {"id":"goods:8934850530641920","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8934850530646016","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934854825607680","en":"Totem of Swift Thunder","ru":"Тотем стремительной молнии"}
-{"id":"goods:8934854825607936","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Thunder DMG Boost.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Увеличение громового урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
+{"id":"goods:8934854825607936","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Thunder DMG Amplification.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Усиление громового урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
 {"id":"goods:8934854825609216","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8934854825613312","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934859120574976","en":"Totem of Flowing Light","ru":"Тотем струящегося света"}
-{"id":"goods:8934859120575232","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Light DMG Boost.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Увеличение светлого урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
+{"id":"goods:8934859120575232","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Light DMG Amplification.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Усиление светлого урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
 {"id":"goods:8934859120576512","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8934859120580608","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934863415542272","en":"Totem of the Abyss","ru":"Тотем бездны"}
-{"id":"goods:8934863415542528","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Dark DMG Boost.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Увеличение тёмного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
+{"id":"goods:8934863415542528","en":"A totem. Can be placed in a suitable area on the farm. Grants the whole team Dark DMG Amplification.\nA totem imbued with mysterious energy. Legend says that if you offer a heartfelt prayer, it can awaken an unknown power...","ru":"Тотем. Можно установить в подходящем месте на ферме. Даёт всей команде «Усиление тёмного урона».\nТотем, наделённый таинственной энергией. По легенде, если вознести искреннюю молитву, он сможет пробудить неведомую силу…"}
 {"id":"goods:8934863415543808","en":"Unlocks at Star Knowledge Level 20","ru":"Открывается на уровне звёздных знаний 20"}
 {"id":"goods:8934863415547904","en":"Total purchase limit: {0}","ru":"Общий лимит покупок: {0}"}
 {"id":"goods:8934867710509568","en":"Totem of Life","ru":"Тотем жизни"}

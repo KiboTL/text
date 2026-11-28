@@ -1201,7 +1201,7 @@
 {"id":"story_convenient:129537957404083968","en":"Other events?","ru":"Другие мероприятия?"}
 {"id":"story_convenient:129537957404084480","en":"Just for joining, I get a prize...?","ru":"То есть за участие полагается приз...?"}
 {"id":"story_convenient:129537961699050752","en":"Xiao Xi","ru":"Сяо Си"}
-{"id":"story_convenient:129537961699051008","en":"Yes, exactly!\nYou have your Kibo with you right now, so please do try the Kibo Fight!","ru":"Да, именно так!\nВы ведь сейчас с кибо, так что непременно попробуйте Бой кибо!"}
+{"id":"story_convenient:129537961699051008","en":"Yes! You have your Kibo with you right now,\nso please do try the Kibo Fight!","ru":"Да! Вы ведь сейчас с кибо, так что непременно попробуйте Бой кибо!"}
 {"id":"story_convenient:129537965994018048","en":"Xiao Xi","ru":"Сяо Си"}
 {"id":"story_convenient:129537965994018304","en":"Once you're ready, let's start with a Kibo Fight against me!","ru":"Когда подготовитесь, сначала сразимся в Бою кибо со мной!"}
 {"id":"story_convenient:129538365425976576","en":"Xiao Xi","ru":"Сяо Си"}
@@ -3287,7 +3287,7 @@
 {"id":"story_convenient:130699733172749568","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:130699733172749824","en":"(Huh, there's some fur on the ground... Is it still nearby? Could it be... behind me...?)","ru":"(Ой, на земле шерстинка... Может, оно ещё рядом? Неужели... за спиной...?)"}
 {"id":"story_convenient:130784335438546176","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_convenient:130784335438546432","en":"Then let's start by searching along the riverbank.","ru":"Тогда давайте для начала поищем у берега реки."}
+{"id":"story_convenient:130784335438546432","en":"Then let's start by searching for shells along the plains' riverbank.","ru":"Тогда давайте для начала поищем ракушки у реки на равнине."}
 {"id":"story_convenient:130784339733513472","en":"Lumi","ru":"Луми"}
 {"id":"story_convenient:130784339733513728","en":"Heh heh heh! Leave the treasure hunt to the great Lumi!","ru":"Хе-хе-хе! Поиски сокровищ предоставьте великой Луми!"}
 {"id":"story_convenient:130788630405842176","en":"Lumi","ru":"Луми"}
@@ -3301,7 +3301,7 @@
 {"id":"story_convenient:130789489399301376","en":"Lumi","ru":"Луми"}
 {"id":"story_convenient:130789489399301632","en":"Hmm... I can't believe the furnace actually caught fire...","ru":"Хм... Вот уж не думала, что печь и правда загорится..."}
 {"id":"story_convenient:130789493694268672","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_convenient:130789493694268928","en":"Um... how about we ask Chiruru? Maybe the answer we're looking for is in those wood carvings!","ru":"Эм... может, спросим Тируру? Возможно, ответ, который мы ищем, кроется именно в этих деревянных скульптурах!"}
+{"id":"story_convenient:130789493694268928","en":"Um... how about we ask Chiruru?\nMaybe the answer we're looking for is in those wood carvings!","ru":"Эм... может, спросим Тируру?\nВозможно, ответ, который мы ищем, кроется именно в этих деревянных скульптурах!"}
 {"id":"story_convenient:130911036973778176","en":"Lisa","ru":"Лиза"}
 {"id":"story_convenient:130911036973778432","en":"I can't seem to settle down...","ru":"Что-то мне не по себе..."}
 {"id":"story_convenient:130911041268745472","en":"{playerName}","ru":"{playerName}"}
@@ -3333,7 +3333,7 @@
 {"id":"story_convenient:130912351233770752","en":"Isabel","ru":"Изабель"}
 {"id":"story_convenient:130912351233771008","en":"I want you to help me take it back.","ru":"Я хочу, чтобы ты помог мне её вернуть."}
 {"id":"story_convenient:130912355528738048","en":"Isabel","ru":"Изабель"}
-{"id":"story_convenient:130912355528738304","en":"Of course, I don't intend to ask for free. I've got a proper reward ready—\nhere! Pepe Candy I saved up one piece at a time over six months!","ru":"Конечно, я не собираюсь просить бесплатно. У меня и награда приличная готова —\nвот! Конфеты «Пепе», которые я копила по одной штучке полгода!"}
+{"id":"story_convenient:130912355528738304","en":"Of course, I don't intend to ask for free. I've got a proper reward ready—\nhere! Pepe Candy I saved up one piece at a time over half a month!","ru":"Конечно, я не собираюсь просить бесплатно. У меня и награда приличная готова —\nвот! Конфеты «Пепе», которые я копила по одной штучке полмесяца!"}
 {"id":"story_convenient:130912359823705344","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:130912359823705600","en":"Half a year...? Can you even still eat those...?","ru":"Полгода...? Их вообще ещё можно есть...?"}
 {"id":"story_convenient:130912364118672640","en":"Isabel","ru":"Изабель"}
@@ -4154,7 +4154,7 @@
 {"id":"story_convenient:172099790522287360","en":"Abby","ru":"Эбби"}
 {"id":"story_convenient:172099790522287616","en":"Abby did a whole lot of munch-munching!\nBut when I looked, the storehouse... was all empty...","ru":"Эбби много-много ням-ням съела!\nНо когда я посмотрела, кладовая... была совсем пустая..."}
 {"id":"story_convenient:172099794817254656","en":"Abby","ru":"Эбби"}
-{"id":"story_convenient:172099794817254912","en":"Big brother said \"Don't worry\"...\nbut then he ran off somewhere... I'm sorry...","ru":"Старший брат сказал \"Не волнуйся\"...\nно потом убежал куда-то... прости меня..."}
+{"id":"story_convenient:172099794817254912","en":"Uncle Uchi said \"Don't worry\"...\nbut then he ran off somewhere... I'm sorry...","ru":"Дядя Ути сказал \"Не волнуйся\"...\nно потом убежал куда-то... прости меня..."}
 {"id":"story_convenient:172099799112221952","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:172099799112222208","en":"Uchi didn't know Abby eats so much...\nWell, it can't be helped.","ru":"Ути не знал, что Эбби так много ест...\nНу, ничего не поделаешь."}
 {"id":"story_convenient:172099803407189248","en":"Abby","ru":"Эбби"}
@@ -4832,7 +4832,7 @@
 {"id":"story_convenient:214749253858231552","en":"Village Chief","ru":"Староста"}
 {"id":"story_convenient:214749253858231808","en":"I hope you never end up with a companion snatched up by a giant bird and left unconscious in a tree.","ru":"Надеюсь, тебе не доведётся оказаться в положении, когда твоего товарища утащила огромная птица, и он без сознания остался на дереве."}
 {"id":"story_convenient:214749258153198848","en":"Village Chief","ru":"Староста"}
-{"id":"story_convenient:214749258153199104","en":"But if it does happen, don't tie up your companion and drag them along by the rope.\nI had to spend three days and nights explaining myself to the Watch captain back then...","ru":"Но если такое случится, не связывай товарища и не тащи его за собой.\nМне тогда пришлось три дня и три ночи объясняться с капитаном Стражи..."}
+{"id":"story_convenient:214749258153199104","en":"But if it does happen, don't tie up your companions all together and drag them back.\nBack then, it took me quite a while to explain things to the Sheriff...","ru":"Но если такое случится, не связывай товарищей всех вместе и не тащи их обратно.\nТогда мне пришлось долго объясняться с шерифом..."}
 {"id":"story_convenient:214750087081886976","en":"Enkaku","ru":"Энкаку"}
 {"id":"story_convenient:214750087081887232","en":"Oh! Here for some forging work?","ru":"О! Пришёл с заказом на ковку?"}
 {"id":"story_convenient:214750087081887488","en":"Just looking around.","ru":"Просто смотрю."}
@@ -4956,7 +4956,7 @@
 {"id":"story_convenient:214751830838609152","en":"Village Chief","ru":"Староста"}
 {"id":"story_convenient:214751830838609408","en":"I hope you never end up in a situation where a giant bird snatches up your companion and leaves them unconscious in a tree.","ru":"Надеюсь, тебе не доведётся столкнуться с тем, как огромная птица утащит твоего спутника и бросит его без сознания на дереве."}
 {"id":"story_convenient:214751835133576448","en":"Village Chief","ru":"Староста"}
-{"id":"story_convenient:214751835133576704","en":"But even if that happens, you mustn't tie up your companions and drag them along.\nI had to explain myself to the Watch captain for three days and nights...","ru":"Но даже если так случится, нельзя связывать товарищей и волочить их за собой.\nМне пришлось три дня и три ночи объясняться с тогдашним капитаном Стражи..."}
+{"id":"story_convenient:214751835133576704","en":"But even if that happens, you mustn't tie up your companions all together and drag them back.\nBack then, it took me quite a while to explain things to the Sheriff...","ru":"Но даже если так случится, нельзя связывать товарищей всех вместе и волочить их обратно.\nТогда мне пришлось долго объясняться с шерифом..."}
 {"id":"story_convenient:214752234565534976","en":"Chiruru","ru":"Тируру"}
 {"id":"story_convenient:214752234565535232","en":"H-hello... How do you like the wood carvings...?","ru":"З-здравствуйте... Как вам резьба по дереву...?"}
 {"id":"story_convenient:214752234565535488","en":"What do these carvings mean?","ru":"Что означают эти резные фигурки?"}
@@ -5220,7 +5220,7 @@
 {"id":"story_convenient:214764689970693376","en":"Julili","ru":"Джурили"}
 {"id":"story_convenient:214764689970693632","en":"Did you come to buy some leather?","ru":"Вы пришли купить кожи?"}
 {"id":"story_convenient:214764694265660672","en":"Julili","ru":"Джурили"}
-{"id":"story_convenient:214764694265660928","en":"I enjoy browsing the stalls too.\n They're as vibrant and alive as Jinshuo Forest.","ru":"Я и сам люблю гулять по прилавкам.\n Здесь всё так же живо и полно жизни, как в Лесу Цзиньшо."}
+{"id":"story_convenient:214764694265660928","en":"I enjoy browsing the stalls too.\nThis place is as vibrant and alive as Jinshuo Forest.","ru":"Я тоже люблю гулять по прилавкам.\nЗдесь всё так же живо и полно жизни, как в Лесу Цзиньшо."}
 {"id":"story_convenient:214764698560627968","en":"Julili","ru":"Джурили"}
 {"id":"story_convenient:214764698560628224","en":"If you'd like clothes made from leather or cloth, I'd be glad to help.","ru":"Если вы хотите сшить одежду из кожи или ткани, я с радостью помогу."}
 {"id":"story_convenient:214765119467422976","en":"Julili","ru":"Джурили"}
@@ -5930,11 +5930,11 @@
 {"id":"story_convenient:215180880891610368","en":"Vielna","ru":"Виэльна"}
 {"id":"story_convenient:215180880891610624","en":"Incidentally, as for what I define as 'rare and curious'...\nIt's the sort of thing you'll know the moment you hold it.\nOthers, I doubt, would ever see its true worth.","ru":"Кстати, что я определяю как «редкое и диковинное»...\nЭто то, что понимаешь сразу, едва возьмёшь в руки.\nДругие, боюсь, никогда не узрят его истинной ценности."}
 {"id":"story_convenient:215180885186577664","en":"Vielna","ru":"Виэльна"}
-{"id":"story_convenient:215180885186577920","en":"Hold on...\nWhat did you say? Did you just say High Elf? Hey, who are you calling a High Elf!?","ru":"Погоди...\nЧто ты сказал? Ты только что сказал «высший эльф»? Эй, кого ты называешь высшим эльфом?!"}
+{"id":"story_convenient:215180885186577920","en":"Is that so? I'd rather be called the 'top student of the Magic Academy' than a High Elf.","ru":"Вот как? Мне больше нравится, когда меня называют «отличницей магической академии», чем высшим эльфом."}
 {"id":"story_convenient:215180889481544960","en":"Vielna","ru":"Виэльна"}
-{"id":"story_convenient:215180889481545216","en":"To boast that you're above other races,\nto put your 'superiority' right in the name of your people—lumping me in with such arrogant, shallow fools...","ru":"Хвастаться превосходством над другими расами,\nвписывать собственное «высшее» положение в имя народа — и ставить меня в один ряд с такими высокомерными и пустыми глупцами..."}
+{"id":"story_convenient:215180889481545216","en":"But I'm still one step away... I still haven't quite reached the true top rank...","ru":"Но я всё ещё на шаг позади... До настоящего первого места мне ещё чуть-чуть не хватает..."}
 {"id":"story_convenient:215180893776512256","en":"Vielna","ru":"Виэльна"}
-{"id":"story_convenient:215180893776512512","en":"You...!","ru":"Ты...!"}
+{"id":"story_convenient:215180893776512512","en":"Just what am I lacking, I wonder...","ru":"Чего же мне всё-таки не хватает..."}
 {"id":"story_convenient:215180906661414144","en":"Vielna","ru":"Виэльна"}
 {"id":"story_convenient:215180906661414400","en":"I see. Then we're done.","ru":"Ясно. Тогда всё."}
 {"id":"story_convenient:215181301798405376","en":"Fergut","ru":"Фергут"}
@@ -6129,7 +6129,7 @@
 {"id":"story_convenient:215187748544316672","en":"Francisco","ru":"Франциско"}
 {"id":"story_convenient:215187748544316928","en":"You have a keen eye.","ru":"У вас зоркий глаз."}
 {"id":"story_convenient:215187752839283968","en":"Francisco","ru":"Франциско"}
-{"id":"story_convenient:215187752839284224","en":"The finest Clodime wool blankets in the city are\nright here.","ru":"Лучшие в городе одеяла из шерсти Клодиме —\nпрямо здесь."}
+{"id":"story_convenient:215187752839284224","en":"The finest Clodime wool carpets in the city are\nright here.","ru":"Лучшие в городе ковры из шерсти Клодиме —\nпрямо здесь."}
 {"id":"story_convenient:215187757134251264","en":"Francisco","ru":"Франциско"}
 {"id":"story_convenient:215187757134251520","en":"To think you'd heard about that too...","ru":"Надо же, вы и об этом прослышали..."}
 {"id":"story_convenient:215187761429218560","en":"Francisco","ru":"Франциско"}
@@ -6598,7 +6598,7 @@
 {"id":"story_convenient:215208823948838144","en":"Chiara","ru":"Киара"}
 {"id":"story_convenient:215208823948838400","en":"I truly can't wait...","ru":"Я действительно с нетерпением жду этого..."}
 {"id":"story_convenient:215209648582558976","en":"Faridah","ru":"Фарида"}
-{"id":"story_convenient:215209648582559232","en":"It has been a long time, Yekuu.\nMay the Hawk God grant you the power to chase the wind.","ru":"Давно не виделись, Йекуу.\nПусть Ястребиный бог дарует тебе силу гнаться за ветром."}
+{"id":"story_convenient:215209648582559232","en":"If you need strength, don't hesitate to ask.\nBeing able to help Yekuu is an honor for us.","ru":"Если нужна сила, не стесняйся, скажи.\nБыть полезными Йекуу — для нас честь."}
 {"id":"story_convenient:215209648582559488","en":"What does it take to become the \"Hawk Lord\"...","ru":"Что нужно, чтобы стать «Ястребиным владыкой»..."}
 {"id":"story_convenient:215209648582560000","en":"Can we talk about Pamola?","ru":"Можно поговорить о Памоле?"}
 {"id":"story_convenient:215209648582560512","en":"What is the Wingfolk Rite of Flight...","ru":"А каков у крылатых Обряд полёта..."}
@@ -6709,7 +6709,7 @@
 {"id":"story_convenient:215217379523691776","en":"Chal","ru":"Чал"}
 {"id":"story_convenient:215217379523692032","en":"I wonder if Tinana's stall has new berries in stock...","ru":"Интересно, появились ли у лотка Тинаны новые ягоды..."}
 {"id":"story_convenient:215217809020421376","en":"Ramu","ru":"Раму"}
-{"id":"story_convenient:215217809020421632","en":"Maybe I will try a test of strength with Gayak...","ru":"Может, попробовать силой потягаться с Гаяком..."}
+{"id":"story_convenient:215217809020421632","en":"You can't just rely on brute force. You have to think carefully before you act.","ru":"Нельзя действовать одной лишь силой. Нужно хорошенько подумать, прежде чем что-то делать."}
 {"id":"story_convenient:215218238517150976","en":"Mirei","ru":"Мирэй"}
 {"id":"story_convenient:215218238517151232","en":"Is this your first time in Fleece? Have you been to the Garden of Plenty? Have you checked out the Airship Terminal?","ru":"Впервые во Флисе? Бывал в Саду изобилия? Заглядывал на Терминал воздушных кораблей?"}
 {"id":"story_convenient:215218668013880576","en":"Adel","ru":"Адель"}
@@ -7161,7 +7161,7 @@
 {"id":"story_convenient:215245726307845376","en":"Chuqi","ru":"Чуци"}
 {"id":"story_convenient:215245726307845632","en":"So the Empire would upset the balance with the Chen Dynasty in Fleece at a time like this...","ru":"Значит, Империя в такое время рушит равновесие с Династией Чэнь во Флисе..."}
 {"id":"story_convenient:215245730602812672","en":"Chuqi","ru":"Чуци"}
-{"id":"story_convenient:215245730602812928","en":"Arman is a sharp-witted man.\n He will seize this chance to shut us out of the city.","ru":"Арман — человек с острым чутьём.\n Он воспользуется этим шансом, чтобы вытеснить нас из города."}
+{"id":"story_convenient:215245730602812928","en":"Armand is a sharp-witted man.\nHe will seize this chance to shut us out of the city.","ru":"Арманд — человек с острым чутьём.\nОн воспользуется этим шансом, чтобы вытеснить нас из города."}
 {"id":"story_convenient:215245730602813184","en":"What are you going to do?","ru":"Что ты собираешься делать?"}
 {"id":"story_convenient:215245734897779968","en":"Chuqi","ru":"Чуци"}
 {"id":"story_convenient:215245734897780224","en":"Just do what must be done.\n The Goyard Merchant Guild is formidable, but so is our Tianjiang Trading Company.","ru":"Делать то, что должно.\n Торговая гильдия Гойяр сильна, но наша Торговая компания «Тяньцзян» ей не уступает."}
@@ -7227,11 +7227,11 @@
 {"id":"story_convenient:215248741374887168","en":"Fergut","ru":"Фергут"}
 {"id":"story_convenient:215248741374887424","en":"...Perhaps it is time for me to set out on a new journey.","ru":"...Возможно, мне пора отправиться в новое странствие."}
 {"id":"story_convenient:215249162281682176","en":"Lumi","ru":"Луми"}
-{"id":"story_convenient:215249162281682432","en":"So you've made up your mind, Oliver.","ru":"Значит, ты уже решил, Оливер."}
+{"id":"story_convenient:215249162281682432","en":"If you go further ahead from here, you can reach Avalian.","ru":"Если пройти дальше отсюда, можно попасть в Авалиан."}
 {"id":"story_convenient:215249166576649472","en":"Lumi","ru":"Луми"}
-{"id":"story_convenient:215249166576649728","en":"Yes, Quentin!","ru":"Да, Квентин!"}
+{"id":"story_convenient:215249166576649728","en":"It's High Elf territory, much more prosperous than Fleece.","ru":"Это земли высших эльфов. Там куда больше достатка, чем во Флисе."}
 {"id":"story_convenient:215249170871616768","en":"Lumi","ru":"Луми"}
-{"id":"story_convenient:215249170871617024","en":"Seeing everyone fight the Dire Beasts lit a fire in my heart!","ru":"Когда я увидел, как все сражаются с лютыми зверями, в моей груди загорелось пламя!"}
+{"id":"story_convenient:215249170871617024","en":"But... there's no need to go now! Let's finish what's in front of us first!","ru":"Но... сейчас туда идти не нужно! Сначала закончим с текущими делами!"}
 {"id":"story_convenient:215249591778411776","en":"Yang Huai","ru":"Ян Хуай"}
 {"id":"story_convenient:215249591778412032","en":"I had long heard that Fleece is a lively place.","ru":"Я давно слышал, что Флис — оживлённое место."}
 {"id":"story_convenient:215249596073379072","en":"Yang Huai","ru":"Ян Хуай"}
@@ -8658,7 +8658,7 @@
 {"id":"story_convenient:2190916942867465472","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:2190916942867465728","en":"That's how a starting village should be!","ru":"Такой и должна быть деревня, где всё начинается!"}
 {"id":"story_convenient:2190917368069227776","en":"Lilika","ru":"Лилика"}
-{"id":"story_convenient:2190917368069228032","en":"Well, now that you're running the Farm,\nlet me show you how farm work is done, boss!","ru":"Ну что, раз теперь ферма под твоим началом,\nпокажу тебе, как здесь работать, босс!"}
+{"id":"story_convenient:2190917368069228032","en":"Well, now that you're running the Farm,\nlet me show you how <color=#fed196>farm work</color> is done, boss!","ru":"Ну что, раз теперь ферма под твоим началом,\nпокажу тебе, как здесь <color=#fed196>работать на ферме</color>, босс!"}
 {"id":"story_convenient:2190917372364195072","en":"Lilika","ru":"Лилика"}
 {"id":"story_convenient:2190917372364195328","en":"Once you learn Farm Work,\nyou'll be able to grow all kinds of crops and ingredients yourself!","ru":"Как только освоишь работу на ферме,\nсможешь сама выращивать разные культуры и продукты!"}
 {"id":"story_convenient:2190917797565957376","en":"Lilika","ru":"Лилика"}
@@ -8832,7 +8832,7 @@
 {"id":"story_convenient:2190929836359288064","en":"Winged Elder Zach","ru":"Крылатый старейшина Зак"}
 {"id":"story_convenient:2190929836359288320","en":"You have my thanks for what you did...","ru":"Благодарю тебя за помощь..."}
 {"id":"story_convenient:2190929840654255360","en":"Winged Elder Zach","ru":"Крылатый старейшина Зак"}
-{"id":"story_convenient:2190929840654255616","en":"So what now?","ru":"И что теперь делать?"}
+{"id":"story_convenient:2190929840654255616","en":"The children whose lives were taken by the Calamity God can finally rest peacefully in the sky.","ru":"Дети, чьи жизни забрал Бог бедствий, наконец смогут спокойно спать в небесах."}
 {"id":"story_convenient:2190930252971115776","en":"Chiruru","ru":"Тируру"}
 {"id":"story_convenient:2190930252971116032","en":"Hmm-hmm-hmm♪","ru":"М-м-м-м♪"}
 {"id":"story_convenient:2190930257266083072","en":"{playerName}","ru":"{playerName}"}
@@ -9062,7 +9062,7 @@
 {"id":"story_convenient:2190942278879544576","en":"Spitehorn","ru":"Спайтхорн"}
 {"id":"story_convenient:2190942278879544832","en":"Kshaa!","ru":"Кшаа!"}
 {"id":"story_convenient:2190942708376274176","en":"Faridah","ru":"Фарида"}
-{"id":"story_convenient:2190942708376274432","en":"The Hawk God's blessing... I'm speeding up!","ru":"Благословение Ястребиного бога... я ускоряюсь!"}
+{"id":"story_convenient:2190942708376274432","en":"It's the Hawk God's blessing… Let's pick up speed!","ru":"Благословение Ястребиного бога… Ускоряемся!"}
 {"id":"story_convenient:2190942712671241472","en":"Pamola","ru":"Памола"}
 {"id":"story_convenient:2190942712671241728","en":"Pshaaa!!","ru":"Пшшаа!!"}
 {"id":"story_convenient:2190943137873003776","en":"Faridah","ru":"Фарида"}
@@ -9070,7 +9070,7 @@
 {"id":"story_convenient:2190943567369733376","en":"Faridah","ru":"Фарида"}
 {"id":"story_convenient:2190943567369733632","en":"I can feel it... the power of the wind!","ru":"Я чувствую... силу ветра!"}
 {"id":"story_convenient:2190943571664700672","en":"Faridah","ru":"Фарида"}
-{"id":"story_convenient:2190943571664700928","en":"Pamola, up there!","ru":"Памола, наверху!"}
+{"id":"story_convenient:2190943571664700928","en":"Pamola, up!","ru":"Памола, вверх!"}
 {"id":"story_convenient:2190943996866462976","en":"Faridah","ru":"Фарида"}
 {"id":"story_convenient:2190943996866463232","en":"Icicles again...!","ru":"Опять сосульки...!"}
 {"id":"story_convenient:2190944001161430272","en":"Pamola","ru":"Памола"}
@@ -10023,7 +10023,7 @@
 {"id":"story_convenient:2191355905704985856","en":"Han Youyou","ru":"Хань Юю"}
 {"id":"story_convenient:2191355905704986112","en":"Mysterious? You see it pretty often around the Chen Dynasty.\n Really, it's just an old craft technique passed down from ancient times.","ru":"Таинственное? В династии Чэнь оно встречается довольно часто.\n На самом деле это просто ремесло, передающееся с древнейших времён."}
 {"id":"story_convenient:2191355909999953152","en":"Han Youyou","ru":"Хань Юю"}
-{"id":"story_convenient:2191355909999953408","en":"But mechanurgy can change endlessly and do anything.\n Combining all sorts of mechanisms to cleverly perform functions...\n It's a really profound field of study!","ru":"Но механоргия бесконечно изменчива и способна на всё.\n Сочетая разные механизмы, она хитроумно выполняет свои задачи...\n Это очень глубокая наука!"}
+{"id":"story_convenient:2191355909999953408","en":"But mechanurgy can change endlessly and do anything.\nCombining all sorts of mechanisms to cleverly perform functions...\nIt's a really profound field of study!","ru":"Но механоргия бесконечно изменчива и способна на всё.\nСочетая разные механизмы, она хитроумно выполняет свои задачи...\nЭто очень глубокая наука!"}
 {"id":"story_convenient:2191355914294920448","en":"Tushan Xiaoyu","ru":"Тушань Сяоюй"}
 {"id":"story_convenient:2191355914294920704","en":"Youyou, you really light up whenever the topic turns to mechanurgy.","ru":"Юю, ты прямо расцветаешь, когда речь заходит о механоргии."}
 {"id":"story_convenient:2191355918589887744","en":"Han Youyou","ru":"Хань Юю"}
@@ -10510,7 +10510,7 @@
 {"id":"story_convenient:2233814225816388864","en":"Momo","ru":"Момо"}
 {"id":"story_convenient:2233814225816389120","en":"But... our furnace is already full...\nThe materials are good, but I don't think we can handle any more...","ru":"Но... наша печь уже загружена...\nМатериалы хороши, но, похоже, у нас не хватит рук..."}
 {"id":"story_convenient:2233814230111356160","en":"Enkaku","ru":"Энкаку"}
-{"id":"story_convenient:2233814230111356416","en":"That's right, Starborn! I recall your home has a furnace too, doesn't it?","ru":"Точно, Звездорождённый! Помнится, у тебя дома тоже есть печь?"}
+{"id":"story_convenient:2233814230111356416","en":"That's right, Starborn! I recall your home has a furnace too, doesn't it? I'll leave these materials with you!","ru":"Точно, Звездорождённый! Помнится, у тебя дома тоже есть печь? Оставлю эти материалы тебе!"}
 {"id":"story_convenient:2233814234406323456","en":"Enkaku","ru":"Энкаку"}
 {"id":"story_convenient:2233814234406323712","en":"Here! These are the blueprints for the ritual weapons.\nThis is your chance to show what you've got!","ru":"Держи! Вот чертежи оружия для ритуала.\nПокажи-ка, на что способен!"}
 {"id":"story_convenient:2233814238701290752","en":"Momo","ru":"Момо"}
@@ -10871,7 +10871,7 @@
 {"id":"story_convenient:2233850745923307008","en":"A Dragonborn Dire Beast?\nGood grief! What in the world...!","ru":"Драконорождённый Лютый зверь?\nВот так дела! Что вообще происходит...!"}
 {"id":"story_convenient:2233850750218274048","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:2233850750218274304","en":"Either way, let's hit it with everything we've got!","ru":"Так или иначе, встретим его во всеоружии!"}
-{"id":"story_convenient:2233851149650232832","en":"It is no calamity, but a selection. No ruin, but ascension.\nNat Dehoken，faor selefaal\nnat aiivon，faor.","ru":"Это не бедствие, а отбор. Не гибель, а возвышение.\nNat Dehoken，faor selefaal\nnat aiivon，faor."}
+{"id":"story_convenient:2233851149650232832","en":"This is no calamity. It is selection. This is no ruin. It is ascension.\nNat Dehoken, faor selefaal.\nnat aiivon, faor.","ru":"Это не бедствие, а отбор. Не гибель, а возвышение.\nNat Dehoken, faor selefaal.\nnat aiivon, faor."}
 {"id":"story_convenient:2233851579146962176","en":"Terara","ru":"Терара"}
 {"id":"story_convenient:2233851579146962432","en":"Whoa, this height...\nIf Mitty stood here, her wing feathers would stand on end.","ru":"Ух ты, какая высота...\nСтолкнись здесь Митти, у неё бы перья дыбом встали."}
 {"id":"story_convenient:2233851583441929472","en":"Lumi","ru":"Луми"}
@@ -11142,7 +11142,7 @@
 {"id":"story_convenient:2233881648213001728","en":"\"<ruby=Star Vessel furnace starting up...>\"Kopaakh Awaka\"</ruby>\"","ru":"«<ruby=Запуск звёздного сосуда...>«Kopaakh Awaka»</ruby>»"}
 {"id":"story_convenient:2233882073414763776","en":"Mitty","ru":"Митти"}
 {"id":"story_convenient:2233882073414764032","en":"That big machine has started turning!","ru":"Та огромная машина завертелась!"}
-{"id":"story_convenient:2233882502911493632","en":"\"<ruby=Warning! Star Vessel furnace malfunction!>\"Kor! Kopaakh inae fols.\"</ruby>\"","ru":"«<ruby=Внимание! Неисправность звёздного сосуда!>«Kor! Kopaakh inae fols.»</ruby>»"}
+{"id":"story_convenient:2233882502911493632","en":"\"<ruby=Warning! Star Vessel furnace malfunction!>Kor! Kopaakh inae fols.</ruby>\"","ru":"«<ruby=Внимание! Неисправность звёздного сосуда!>Kor! Kopaakh inae fols.</ruby>»"}
 {"id":"story_convenient:2233882507206460928","en":"\"<ruby=Fail-safe activated, cooling program initiated>\"Naho Veky, Kraleyk Awaka...\"</ruby>\"","ru":"«<ruby=Аварийная защита activated, запуск программы охлаждения>«Naho Veky, Kraleyk Awaka...»</ruby>»"}
 {"id":"story_convenient:2233882932408222976","en":"Terara","ru":"Терара"}
 {"id":"story_convenient:2233882932408223232","en":"Waaah, I don't want a bath!\nMitty, hurry up and run topside!","ru":"Аааа, не хочу купаться!\nМитти, беги скорее наверх!"}
@@ -11660,7 +11660,7 @@
 {"id":"story_convenient:2233926311577912576","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
 {"id":"story_convenient:2233926311577912832","en":"It seems... there's no one left in the hall\nwho might be willing to talk to us...","ru":"Похоже... в зале больше нет никого,\nкто согласился бы с нами поговорить..."}
 {"id":"story_convenient:2233926315872879872","en":"Lumi","ru":"Луми"}
-{"id":"story_convenient:2233926315872880128","en":"There should be people in the courtyard spreading rumors too!\nLet's go take a look!","ru":"Во дворе тоже наверняка есть те, кто сплетничает!\nПойдём посмотрим!"}
+{"id":"story_convenient:2233926315872880128","en":"There should be people in the courtyard spreading rumors too.\nLet's go take a look!","ru":"Во дворе тоже наверняка есть те, кто сплетничает.\nПойдём посмотрим!"}
 {"id":"story_convenient:2233926320167847168","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
 {"id":"story_convenient:2233926320167847424","en":"Eek! D-do we absolutely have to\ngo out in the sun...?","ru":"Ой! А о-обязательно\nвыходить на солнце?.."}
 {"id":"story_convenient:2233926741074642176","en":"Lumi","ru":"Луми"}
@@ -11957,7 +11957,7 @@
 {"id":"story_convenient:2234001473505592576","en":"Ruby","ru":"Руби"}
 {"id":"story_convenient:2234001473505592832","en":"The Keen Magic Swordswoman?\nYou've finally shown yourself!","ru":"Отточенная мастер клинка?\nНаконец-то ты показалась!"}
 {"id":"story_convenient:2234001477800559872","en":"Fergut","ru":"Фергут"}
-{"id":"story_convenient:2234001477800560128","en":"You turned back without even reporting your points?","ru":"Ты вернулась, даже не заявив о своих очках?"}
+{"id":"story_convenient:2234001477800560128","en":"You turned back without even settling your points?","ru":"Ты вернулась, даже не рассчитавшись по очкам?"}
 {"id":"story_convenient:2234001482095527168","en":"Minamoto Chiyo","ru":"Минамото Тиё"}
 {"id":"story_convenient:2234001482095527424","en":"I've found the mastermind!\nThat man from the Red Scorpion Gang was incited by the Evolution Cult and unleashed a Frenzied Kibo!","ru":"Я выяснила, кто за всем стоит!\nТот человек из Красного Скорпиона был подстрекаем Культом эволюции и выпустил взбешённого кибо!"}
 {"id":"story_convenient:2234001486390494464","en":"Ezio","ru":"Эцио"}
@@ -12037,9 +12037,9 @@
 {"id":"story_convenient:2234244577244481280","en":"Yes.","ru":"Да."}
 {"id":"story_convenient:2234244577244481792","en":"No.","ru":"Нет."}
 {"id":"story_convenient:2234244581539448064","en":"Hot-Blooded Fighter","ru":"Вспыльчивый боец"}
-{"id":"story_convenient:2234244581539448320","en":"You already know the rules, right?\nWork with the Rainel to sow seeds over the entire ground.","ru":"Правила ты уже знаешь, верно?\nВместе с Райнелом засей всю землю."}
+{"id":"story_convenient:2234244581539448320","en":"You already know the rules, right?\nWork with Rainel to water the seeds sown in the field.","ru":"Правила ты уже знаешь, верно?\nВместе с Райнелом полей семена, посеянные в поле."}
 {"id":"story_convenient:2234244585834415360","en":"Hot-Blooded Fighter","ru":"Вспыльчивый боец"}
-{"id":"story_convenient:2234244585834415616","en":"Don't step on the sown ground. All right, let the challenge begin!","ru":"Не наступай на засеянную землю. Итак, испытание начинается!"}
+{"id":"story_convenient:2234244585834415616","en":"Don't step on the watered spots. All right, let the challenge begin!","ru":"Не наступай на политые места. Итак, испытание начинается!"}
 {"id":"story_convenient:2234244590129382656","en":"Hot-Blooded Fighter","ru":"Вспыльчивый боец"}
 {"id":"story_convenient:2234244590129382912","en":"Got it. Call me when you're ready.","ru":"Понятно. Позови, когда будешь готов."}
 {"id":"story_convenient:2234244998151275776","en":"Hot-Blooded Fighter","ru":"Вспыльчивый боец"}
@@ -12858,7 +12858,7 @@
 {"id":"story_convenient:2581275563939333376","en":"Terara","ru":"Терара"}
 {"id":"story_convenient:2581275563939333632","en":"Hey there! No holding back, got it!","ru":"Приветик! Сдерживаться не буду, понял!"}
 {"id":"story_convenient:2581275606889006336","en":"Karaka","ru":"Карака"}
-{"id":"story_convenient:2581275606889006592","en":"W-would you... have a Kibo Fight with me...? More than the Tana Fire Festival...?","ru":"Н-не... проведёшь со мной Бой кибо? Ну, вместо... Огненного фестиваля Таны?"}
+{"id":"story_convenient:2581275606889006592","en":"Y-yeah. Well then... let's give it a try.","ru":"А-ага. Тогда... давай попробуем."}
 {"id":"story_convenient:2581275649838679296","en":"Poya","ru":"Пойя"}
 {"id":"story_convenient:2581275649838679552","en":"If it helps you, I'd be glad to!","ru":"Если это тебе поможет, я с радостью!"}
 {"id":"story_convenient:2581275692788352256","en":"Martina","ru":"Мартина"}
@@ -12918,7 +12918,7 @@
 {"id":"story_convenient:258133126537020672","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:258133126537020928","en":"Huh, the Cabbird King is still around?","ru":"Э, Король капустокрылов всё ещё здесь?"}
 {"id":"story_convenient:258133130831987968","en":"Korokoro","ru":"Корокоро"}
-{"id":"story_convenient:258133130831988224","en":"Yes... It seems the Cabbird King saw how you helped, and\n now wants you to help the Cabbirds again.","ru":"Да... Похоже, Король капустокрылов увидел, как вы помогли, и\n теперь хочет, чтобы вы снова помогли капустокрылам."}
+{"id":"story_convenient:258133130831988224","en":"Yes... It seems the Cabbird King saw your accomplishments and\n now wants you to help the Cabbirds again.","ru":"Да... Похоже, Король капустокрылов увидел ваши успехи и\n теперь хочет, чтобы вы снова помогли капустокрылам."}
 {"id":"story_convenient:258133135126955264","en":"Cabbird","ru":"Капустокрыл"}
 {"id":"story_convenient:258133135126955520","en":"Coo, coo-coo!","ru":"Ко-ко, ко-ко-ко!"}
 {"id":"story_convenient:258133135126955776","en":"Well, we have to be kind to the Cabbirds!","ru":"Ну, к капустокрылам нужно относиться по-доброму!"}
@@ -12928,7 +12928,7 @@
 {"id":"story_convenient:258133143716889856","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:258133143716890112","en":"I'll come back when I have time.","ru":"Я вернусь, когда у меня будет время."}
 {"id":"story_convenient:258133981235512576","en":"Luruka","ru":"Лурука"}
-{"id":"story_convenient:258133981235512832","en":"Lord Starborn, this Almaro was also recommended by the Cabbird King.\nIt seems to have run into a problem and wants your help...","ru":"Господин Звездорождённый, этого Альмаро тоже рекомендовал Король капустокрылов.\nПохоже, он столкнулся с трудностью и хочет, чтобы вы помогли..."}
+{"id":"story_convenient:258133981235512832","en":"Lord Starborn, this Almaro was also recommended by the Cabbird King.\nIt seems it has run into a problem and wants your help...","ru":"Господин Звездорождённый, этого Альмаро тоже рекомендовал Король капустокрылов.\nПохоже, он столкнулся с трудностью и хочет, чтобы вы помогли..."}
 {"id":"story_convenient:258133985530479872","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:258133985530480128","en":"Another recommendation from the Cabbird King?","ru":"Снова рекомендация от Короля капустокрылов?"}
 {"id":"story_convenient:258133989825447168","en":"Luruka","ru":"Лурука"}
@@ -12996,9 +12996,9 @@
 {"id":"story_convenient:258136141604062464","en":"Lilika","ru":"Лилика"}
 {"id":"story_convenient:258136141604062720","en":"Well, according to the plans, expanding will give us more room to build,\nand the farm will get that cozy, cute Fleece style, too.","ru":"Ну, судя по чертежам, после расширения площадь под застройку станет больше,\nа ферма ещё и приобретёт уютный, милый флисский вид."}
 {"id":"story_convenient:258136145899029760","en":"Lilika","ru":"Лилика"}
-{"id":"story_convenient:258136145899030016","en":"But we can't expand the farm just like that.\nWe can't start unless you bring the Farm Expansion License, Boss.","ru":"Но просто так расширить ферму нельзя.\nМы не начнём, пока ты не достанешь лицензию на расширение фермы, босс."}
+{"id":"story_convenient:258136145899030016","en":"But we can't expand the farm just like that.\nWe can't start unless you bring the Farm Expansion Permit, Boss.","ru":"Но просто так расширить ферму нельзя.\nМы не начнём, пока ты не достанешь разрешение на расширение фермы, босс."}
 {"id":"story_convenient:258136150193997056","en":"Lilika","ru":"Лилика"}
-{"id":"story_convenient:258136150193997312","en":"Once you've got the Farm Expansion License, let me know!","ru":"Как только достанешь лицензию на расширение фермы, дай мне знать!"}
+{"id":"story_convenient:258136150193997312","en":"Once you've got the Farm Expansion Permit, let me know!","ru":"Как только достанешь разрешение на расширение фермы, дай мне знать!"}
 {"id":"story_convenient:258136171668833536","en":"Lilika","ru":"Лилика"}
 {"id":"story_convenient:258136171668833792","en":"Leave it to me. I'm looking forward to it.","ru":"Предоставь это мне. Я с нетерпением жду."}
 {"id":"story_convenient:258136558215890176","en":"Lilika","ru":"Лилика"}
@@ -13016,7 +13016,7 @@
 {"id":"story_convenient:258137430094251264","en":"Lilika","ru":"Лилика"}
 {"id":"story_convenient:258137430094251520","en":"Expanding will give us more land to build on,\nand the farm will get that elegant, glamorous Loginian style. I can't wait.","ru":"После расширения появится больше земли под застройку,\nа ферма приобретёт элегантный, роскошный ложинийский стиль. Не могу дождаться."}
 {"id":"story_convenient:258137434389218560","en":"Lilika","ru":"Лилика"}
-{"id":"story_convenient:258137434389218816","en":"So, just like before, once you've got the\nFarm Expansion License, let me know!","ru":"Итак, как и раньше, когда достанешь\nлицензию на расширение фермы, дай мне знать!"}
+{"id":"story_convenient:258137434389218816","en":"So, just like before, once you've got the\nFarm Expansion Permit, let me know!","ru":"Итак, как и раньше, когда достанешь\nразрешение на расширение фермы, дай мне знать!"}
 {"id":"story_convenient:258137846706078976","en":"Lilika","ru":"Лилика"}
 {"id":"story_convenient:258137846706079232","en":"Done!","ru":"Готово!"}
 {"id":"story_convenient:258137851001046272","en":"Lilika","ru":"Лилика"}
@@ -13277,11 +13277,11 @@
 {"id":"story_convenient:258168779060544768","en":"Tiffy","ru":"Тиффи"}
 {"id":"story_convenient:258168779060545024","en":"While you were busy, Lord Starborn,\n I was thinking up a new business!","ru":"Пока вы были заняты, господин Звездорождённый,\n я придумывала новый бизнес!"}
 {"id":"story_convenient:258168783355512064","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_convenient:258168783355512320","en":"Hehe, this is something I learned in the trading cities:\na whole new way of doing business, called the Trading Post!","ru":"Хе-хе, это я узнала в торговых городах:\nсовершенно новый способ вести дела — Торговый пост!"}
+{"id":"story_convenient:258168783355512320","en":"Hehe, this is something I learned in the trading cities:\na whole new way of doing business, called the Exchange!","ru":"Хе-хе, это я узнала в торговых городах:\nсовершенно новый способ вести дела — Торговая лавка!"}
 {"id":"story_convenient:258168787650479360","en":"Tiffy","ru":"Тиффи"}
 {"id":"story_convenient:258168787650479616","en":"Instead of making goods first and then finding customers,\nyou take an Order from the customer first, then make it!","ru":"Вместо того чтобы сначала делать товар, а потом искать покупателей,\nвы сначала берёте Заказ у покупателя, а потом делаете товар!"}
 {"id":"story_convenient:258168791945446656","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_convenient:258168791945446912","en":"With this, sold-out stock and overproduction are things of the past,\nand Charlulu Village's trade takes a brand-new step forward!","ru":"Теперь нехватка товара и перепроизводство остались в прошлом,\nи торговля деревни Шарлулу делает новый шаг вперёд!"}
+{"id":"story_convenient:258168791945446912","en":"With this, overproduction and excess stock are things of the past,\nand Charlulu Village's trade takes a brand-new step forward!","ru":"Теперь перепроизводство и избыток товара остались в прошлом,\nи торговля деревни Шарлулу делает новый шаг вперёд!"}
 {"id":"story_convenient:258168791945447168","en":"Sounds interesting, but...","ru":"Звучит интересно, но..."}
 {"id":"story_convenient:258168791945447680","en":"Who'll be the one making them?","ru":"А кто будет их делать?"}
 {"id":"story_convenient:258168796240413952","en":"Tiffy","ru":"Тиффи"}
@@ -13297,7 +13297,7 @@
 {"id":"story_convenient:258168817715250432","en":"Tiffy","ru":"Тиффи"}
 {"id":"story_convenient:258168817715250688","en":"With this, you can tell at a glance which orders will turn a profit\nand which will run at a loss!","ru":"С ней сразу видно, какие заказы принесут прибыль,\nа какие убыток!"}
 {"id":"story_convenient:258168822010217728","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_convenient:258168822010217984","en":"Now that we've built such a wonderful Trading Post,\nlet's take on an order right away!","ru":"Раз у нас появился такой замечательный Торговый пост,\nдавайте сразу возьмём первый заказ!"}
+{"id":"story_convenient:258168822010217984","en":"Now that we've built such a wonderful Exchange,\nlet's take on an order right away!","ru":"Раз у нас появилась такая замечательная Торговая лавка,\nдавайте сразу возьмём первый заказ!"}
 {"id":"story_convenient:258168826305185024","en":"Tiffy","ru":"Тиффи"}
 {"id":"story_convenient:258168826305185280","en":"I can already see a thrilling future\nbeckoning to us. Ehehe...","ru":"Я уже вижу, как захватывающее будущее\nманит нас. Хе-хе..."}
 {"id":"story_convenient:258169199967339776","en":"Lilika","ru":"Лилика"}
@@ -13431,7 +13431,7 @@
 {"id":"story_convenient:258182943862686976","en":"Maple","ru":"Мейпл"}
 {"id":"story_convenient:258182943862687232","en":"(Even asleep, a smile graces her face. Wake her up?)","ru":"(Даже во сне на её лице улыбка. Разбудить?)"}
 {"id":"story_convenient:258183373359416576","en":"Lan Xiangzi","ru":"Лань Сянцзы"}
-{"id":"story_convenient:258183373359416832","en":"I am not asleep... merely resting my eyes...","ru":"Я не сплю... я всего лишь... вздремнула..."}
+{"id":"story_convenient:258183373359416832","en":"I am not asleep... merely resting my eyes...","ru":"Я не сплю... я всего лишь... закрыла глаза..."}
 {"id":"story_convenient:258183802856146176","en":"Peipei","ru":"Пэйпэй"}
 {"id":"story_convenient:258183802856146432","en":"Zzz... zzz... mmm...","ru":"Хр-р... хр-р... м-м..."}
 {"id":"story_convenient:258184232352875776","en":"Han Youyou","ru":"Хань Юю"}
@@ -14933,7 +14933,7 @@
 {"id":"story_convenient:344027335676134656","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:344027335676134912","en":"Um... aren't you overthinking it?|Um... aren't you overthinking it?","ru":"Эм... тебе не кажется, что ты преувеличиваешь?|Эм... тебе не кажется, что ты преувеличиваешь?"}
 {"id":"story_convenient:344027339971101952","en":"Martina","ru":"Мартина"}
-{"id":"story_convenient:344027339971102208","en":"...No matter how much you think, it's never enough.\nThe spirits' power is beyond our imagination.","ru":"...Сколько ни думай, этого всё равно мало.\nСила духов превосходит наше воображение."}
+{"id":"story_convenient:344027339971102208","en":"...No matter how much you think, it's never enough.\nTheir power is beyond our imagination.","ru":"...Сколько ни думай, этого всё равно мало.\nИх сила превосходит наше воображение."}
 {"id":"story_convenient:344027743698027776","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:344027743698028032","en":"I think we're safe now.","ru":"Думаю, теперь всё в порядке."}
 {"id":"story_convenient:344028173194757376","en":"Martina","ru":"Мартина"}
@@ -15239,7 +15239,7 @@
 {"id":"story_convenient:344671988792427776","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:344671988792428032","en":"This should be enough. Let's go deliver it to Momo.","ru":"Этого должно хватить. Пойдём отнесём это Момо."}
 {"id":"story_convenient:344672418289157376","en":"{playerName}","ru":"{playerName}"}
-{"id":"story_convenient:344672418289157632","en":"How's this? Is this very hard Wind Copper Ore enough?|Look, is this very hard Wind Copper Ore enough?","ru":"Ну как, хватит этой очень твёрдой руды ветряной меди?|Смотри, этой очень твёрдой руды ветряной меди достаточно?"}
+{"id":"story_convenient:344672418289157632","en":"Is this really hard Wind Copper Ore enough?","ru":"Этой очень твёрдой руды ветряной меди хватит?"}
 {"id":"story_convenient:344672422584124672","en":"Momo","ru":"Момо"}
 {"id":"story_convenient:344672422584124928","en":"Amazing! Now I can give the Militia Squad their new helmets!","ru":"Здорово! Теперь я могу передать Отряду ополчения новые шлемы!"}
 {"id":"story_convenient:344672426879091968","en":"Momo","ru":"Момо"}
@@ -15371,7 +15371,7 @@
 {"id":"story_convenient:344972636503147776","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:344972636503148032","en":"Kirk's cargo... Why is it here? I'll deliver it either way.|Kirk's cargo... How did it get here? I'll deliver it anyway.","ru":"Груз Кирка... Почему он здесь? Так или иначе, отнесу.|Груз Кирка... Как он здесь оказался? Всё равно отнесу."}
 {"id":"story_convenient:344973065999877376","en":"Kirk","ru":"Кирк"}
-{"id":"story_convenient:344973065999877632","en":"Th-this is... To think I'd see you again while you're still alive... my luggage...","ru":"Э-это же... Неужели я снова увидел тебя, пока ты ещё цел... мой багаж..."}
+{"id":"story_convenient:344973065999877632","en":"Th-this is... To think I'd get to see you again while I'm still alive... my luggage...","ru":"Э-это же... Неужели я снова увижу тебя, пока ещё жив... мой багаж..."}
 {"id":"story_convenient:344973070294844672","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:344973070294844928","en":"(He's saying weird things to his luggage again...)","ru":"(Опять он говорит странные вещи своему багажу...)"}
 {"id":"story_convenient:344973074589811968","en":"Kirk","ru":"Кирк"}
@@ -15735,7 +15735,7 @@
 {"id":"story_convenient:345406861991740672","en":"Sarara","ru":"Сарара"}
 {"id":"story_convenient:345406861991740928","en":"Thank you so much, Starborn.","ru":"Огромное вам спасибо, Звездорождённый."}
 {"id":"story_convenient:345406866286707968","en":"{playerName}","ru":"{playerName}"}
-{"id":"story_convenient:345406866286708224","en":"I have some business with Luruka too.|I have some business with Luruka too.","ru":"У меня тоже есть дело к Луруке.|У меня тоже есть дело к Луруке."}
+{"id":"story_convenient:345406866286708224","en":"It's nothing important.","ru":"Ничего важного."}
 {"id":"story_convenient:345406870581675264","en":"Sarara","ru":"Сарара"}
 {"id":"story_convenient:345406870581675520","en":"Once the tapestry is finished, please do come by and visit!","ru":"Когда гобелен будет готов, обязательно заходите ко мне в гости!"}
 {"id":"story_convenient:345410723167339776","en":"{playerName}","ru":"{playerName}"}
@@ -15833,7 +15833,7 @@
 {"id":"story_convenient:345444661998912768","en":"Chiara","ru":"Киара"}
 {"id":"story_convenient:345444661998913024","en":"A pack of Ignest has gathered near the Hawk Range.\nWhat's more, one careless move could spark a fire.","ru":"Стая игнестов собралась возле Ястребиного хребта.\nК тому же от малейшей неосторожности может вспыхнуть пожар."}
 {"id":"story_convenient:345444666293880064","en":"Chiara","ru":"Киара"}
-{"id":"story_convenient:345444666293880320","en":"To keep everyone nearby safe, I must ask you to hunt them down.","ru":"Чтобы обеспечить безопасность округи, прошу вас истребить их."}
+{"id":"story_convenient:345444666293880320","en":"To keep everyone nearby safe, please drive them away.","ru":"Чтобы обеспечить безопасность округи, прошу вас прогнать их."}
 {"id":"story_convenient:345444670588847360","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:345444670588847616","en":"Leave it to me.","ru":"Предоставь это мне."}
 {"id":"story_convenient:345445082905707776","en":"{playerName}","ru":"{playerName}"}
@@ -16191,7 +16191,7 @@
 {"id":"story_convenient:345534856312128768","en":"Chiara","ru":"Киара"}
 {"id":"story_convenient:345534856312129024","en":"Right now, a pack of Gragos has gathered near the Hawk Range.\nWhat's more, they've grown ferocious, and many Wingfolk of Windrock Retreat are being attacked.","ru":"Прямо сейчас у Ястребиного хребта собралась стая Граго.\nБолее того, они озлобились, и многие Крылатые из Ветроскального приюта подвергаются нападениям."}
 {"id":"story_convenient:345534860607096064","en":"Chiara","ru":"Киара"}
-{"id":"story_convenient:345534860607096320","en":"The militia has already been dispatched, but we'd like to ask you to help subdue them as well...","ru":"Ополчение уже отправлено, но мы хотели бы попросить и вас помочь с их уничтожением..."}
+{"id":"story_convenient:345534860607096320","en":"The Wingguard Warriors have already been dispatched, but we'd like your help as well, Lord Starborn...","ru":"Воители крылатой стражи уже отправлены, но мы хотели бы и вашей помощи, господин Звездорождённый..."}
 {"id":"story_convenient:345534864902063360","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:345534864902063616","en":"Leave it to me.","ru":"Предоставь это мне."}
 {"id":"story_convenient:345535277218923776","en":"{playerName}","ru":"{playerName}"}
@@ -16283,7 +16283,7 @@
 {"id":"story_convenient:345557185847100672","en":"Text on Black Screen","ru":"Текст на чёрном экране"}
 {"id":"story_convenient:345557185847100928","en":"Efa throws herself wholeheartedly into cooking...","ru":"Эфа самозабвенно принимается за готовку..."}
 {"id":"story_convenient:345557190142067968","en":"Efa","ru":"Эфа"}
-{"id":"story_convenient:345557190142068224","en":"Done! It's Braised Game Bird with Dried Mushrooms!","ru":"Готово! «Тушёная дичь с сушёными грибами»!"}
+{"id":"story_convenient:345557190142068224","en":"Done! It's Braised Young Chicken with Mushrooms!","ru":"Готово! «Тушёный молодой петух с грибами»!"}
 {"id":"story_convenient:345557194437035264","en":"Lin","ru":"Лин"}
 {"id":"story_convenient:345557194437035520","en":"Wow, what a wonderful aroma! Silky on the tongue and delicately textured...\nEven though it's braised with dried ingredients, the mountain flavors bring out the savoriness of the poultry!","ru":"Ух ты, какой чудесный аромат! Гладко на языке и нежно на вкус...\nХотя блюдо тушёное из сушёных продуктов, лесные нотки оттеняют вкус мяса птицы!"}
 {"id":"story_convenient:345557198732002560","en":"Lin","ru":"Лин"}
@@ -17152,7 +17152,7 @@
 {"id":"story_convenient:345710941381330176","en":"Clyde","ru":"Клайд"}
 {"id":"story_convenient:345710941381330432","en":"【実装対象外／弗利斯随机任务OBS051-OBS060.xlsx】\n","ru":"【実装対象外／弗利斯随机任务OBS051-OBS060.xlsx】\n"}
 {"id":"story_convenient:345710945676297472","en":"Clyde","ru":"Клайд"}
-{"id":"story_convenient:345710945676297728","en":"As a result, commissions kept pouring in, and my side work has grown busier and busier...","ru":"В итоге заказы посыпались один за другим, и подработка стала отнимать всё больше времени..."}
+{"id":"story_convenient:345710945676297728","en":"He introduced me to other mercenary groups too. As a result, commissions kept pouring in, and my side work has grown busier and busier...","ru":"Он также представил меня другим отрядам наёмников. В итоге заказы посыпались один за другим, и подработка стала отнимать всё больше времени..."}
 {"id":"story_convenient:345710949971264768","en":"Clyde","ru":"Клайд"}
 {"id":"story_convenient:345710949971265024","en":"Of course, earning more is a good thing, but\nI really can't handle it all on my own anymore.","ru":"Конечно, больше зарабатывать — это хорошо, но\nя уже честно говоря не справляюсь один."}
 {"id":"story_convenient:345710954266232064","en":"Clyde","ru":"Клайд"}
@@ -17242,7 +17242,7 @@
 {"id":"story_convenient:345724264369882368","en":"Pan","ru":"Пан"}
 {"id":"story_convenient:345724264369882624","en":"At least it seems Dad wasn't lying about this.","ru":"По крайней мере, насчёт этого папа не соврал."}
 {"id":"story_convenient:345724268664849664","en":"Pan","ru":"Пан"}
-{"id":"story_convenient:345724268664849920","en":"Don't rush... take it slow.","ru":"Не спеши… не торопись."}
+{"id":"story_convenient:345724268664849920","en":"Thank you.","ru":"Спасибо."}
 {"id":"story_convenient:345728121250514176","en":"Reina","ru":"Рейна"}
 {"id":"story_convenient:345728121250514432","en":"Starborn... could I ask a small favor of you?","ru":"Звездорождённый… можно попросить тебя об одном одолжении?"}
 {"id":"story_convenient:345728125545481472","en":"Reina","ru":"Рейна"}
@@ -18878,13 +18878,13 @@
 {"id":"story_convenient:3522303121831232768","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:3522303121831233024","en":"It's my first escort mission, so I'll show you the way.|It's my first escort mission, so I'll show you the way.","ru":"Это моё первое сопровождение, так что я покажу дорогу.|Это моё первое сопровождение, так что я покажу дорогу."}
 {"id":"story_convenient:3522303126126200064","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_convenient:3522303126126200320","en":"Really, you will!? Yay!","ru":"Правда, вы проведёте!? Ура!"}
+{"id":"story_convenient:3522303126126200320","en":"Eh, is that really okay!? Thank you so much!","ru":"Э, правда можно!? Большое спасибо!"}
 {"id":"story_convenient:3522303130421167360","en":"Nono","ru":"Ноно"}
 {"id":"story_convenient:3522303130421167616","en":"Then let's meet at the entrance. Starborn, come find me when you're free.","ru":"Тогда встретимся у входа. Звездорождённый, приходи, когда освободишься."}
 {"id":"story_convenient:3522303542738027776","en":"Katalua","ru":"Каталуа"}
 {"id":"story_convenient:3522303542738028032","en":"Sigh... I'm so nervous... But I'm ready. If you're ready too, Starborn... let's go!","ru":"Уф... Я так волнуюсь... Но я готова. Если вы тоже готовы, господин Звездорождённый... в путь!"}
 {"id":"story_convenient:3522303972234757376","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_convenient:3522303972234757632","en":"Yay, we finally left the village!","ru":"Ура, мы наконец выбрались из деревни!"}
+{"id":"story_convenient:3522303972234757632","en":"We finally left the village!","ru":"Мы наконец выбрались из деревни!"}
 {"id":"story_convenient:3522303976529724672","en":"Nono","ru":"Ноно"}
 {"id":"story_convenient:3522303976529724928","en":"Duru is playing dead.","ru":"Дуру притворяется мёртвым."}
 {"id":"story_convenient:3522303980824691968","en":"Lumi","ru":"Луми"}
@@ -18940,7 +18940,7 @@
 {"id":"story_convenient:3522307425388463360","en":"Nono","ru":"Ноно"}
 {"id":"story_convenient:3522307425388463616","en":"Heave-ho, heave-ho...","ru":"Раз-два, раз-два..."}
 {"id":"story_convenient:3522307837705323776","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_convenient:3522307837705324032","en":"The vines!","ru":"Лианы!"}
+{"id":"story_convenient:3522307837705324032","en":"The tree roots!","ru":"Корни дерева!"}
 {"id":"story_convenient:3522308267202053376","en":"Nono","ru":"Ноно"}
 {"id":"story_convenient:3522308267202053632","en":"There, that should do it.","ru":"Вот, так-то лучше."}
 {"id":"story_convenient:3522308696698782976","en":"Kinglaraga","ru":"Кинглага"}
@@ -19199,7 +19199,7 @@
 {"id":"story_convenient:420953614446495488","en":"98012701","ru":"98012701"}
 {"id":"story_convenient:420953614446496000","en":"2","ru":"2"}
 {"id":"story_convenient:420953614446497536","en":"Ugh, I can't see a thing.\nIf we go in, we'll definitely get lost.","ru":"У-у, ничего не видно.\nЕсли зайдём, точно заблудимся."}
-{"id":"story_convenient:420954043943224832","en":"The Starborn senses three presences in the statue. It seems one of them can be chosen as a companion.","ru":"Звездорождённый ощущает в статуе присутствие троих существ. Похоже, одно из них можно выбрать себе в спутники."}
+{"id":"story_convenient:420954043943224832","en":"The Starborn senses three presences in the statue. It seems one of them can be chosen and made a companion through Starlink.","ru":"Звездорождённый ощущает в статуе присутствие троих существ. Похоже, одно из них можно выбрать и сделать спутником через Звёздную связь."}
 {"id":"story_convenient:420954043943225088","en":"98012701","ru":"98012701"}
 {"id":"story_convenient:420954043943225600","en":"2","ru":"2"}
 {"id":"story_convenient:420954043943227136","en":"Cough... Ugh, the fog's getting really thick...\nWe should go back.","ru":"Кхе-кхе... Ух, туман совсем сгустился...\nЛучше вернуться."}
@@ -20073,13 +20073,13 @@
 {"id":"story_convenient:43491727897527552","en":"Pamola","ru":"Памола"}
 {"id":"story_convenient:43491727897527808","en":"Pishaaa…","ru":"Пшаа…"}
 {"id":"story_convenient:43491732192494848","en":"Faridah","ru":"Фарида"}
-{"id":"story_convenient:43491732192495104","en":"By the Hawk God's blessing… speed up!","ru":"С благословением Ястребиного бога… ускоряемся!"}
+{"id":"story_convenient:43491732192495104","en":"It's the Hawk God's blessing… Let's pick up speed!","ru":"Благословение Ястребиного бога… Ускоряемся!"}
 {"id":"story_convenient:43491736487462144","en":"Pamola","ru":"Памола"}
 {"id":"story_convenient:43491736487462400","en":"Pishaa!!","ru":"Пшаа!!"}
 {"id":"story_convenient:43491740782429440","en":"Faridah","ru":"Фарида"}
 {"id":"story_convenient:43491740782429696","en":"I can feel it… the power of the wind!","ru":"Я чувствую… силу ветра!"}
 {"id":"story_convenient:43491745077396736","en":"Faridah","ru":"Фарида"}
-{"id":"story_convenient:43491745077396992","en":"Pamola, above!","ru":"Памола, наверх!"}
+{"id":"story_convenient:43491745077396992","en":"Pamola, up!","ru":"Памола, вверх!"}
 {"id":"story_convenient:43491749372364032","en":"Faridah","ru":"Фарида"}
 {"id":"story_convenient:43491749372364288","en":"Well done!","ru":"Молодец!"}
 {"id":"story_convenient:43491753667331328","en":"Faridah","ru":"Фарида"}
@@ -22795,7 +22795,7 @@
 {"id":"story_convenient:87965255254148352","en":"{playerName}","ru":"{playerName}"}
 {"id":"story_convenient:87965255254148608","en":"How about we think of a way to have both?","ru":"Может, придумаем способ совместить и то и другое?"}
 {"id":"story_convenient:87965658981074176","en":"{playerName}","ru":"{playerName}"}
-{"id":"story_convenient:87965658981074432","en":"That reminds me...\nI showed Chiruru some woodcarvings before...","ru":"Кстати...\nЯ ведь уже показывал Тируру кое-какие деревянные поделки..."}
+{"id":"story_convenient:87965658981074432","en":"That reminds me...\nThose woodcarvings I saw at Chiruru's place before...","ru":"Кстати...\nТе деревянные поделки, что я раньше видел у Тируру..."}
 {"id":"story_convenient:87965663276041472","en":"Bilibird","ru":"Билибёрд"}
 {"id":"story_convenient:87965663276041728","en":"Fwoosh.","ru":"Фшу."}
 {"id":"story_convenient:87965667571008768","en":"{playerName}","ru":"{playerName}"}
@@ -22956,7 +22956,7 @@
 {"id":"story_convenient:88049475267855616","en":"Light","ru":"Лайт"}
 {"id":"story_convenient:88049475267855872","en":"You'd really help me...?","ru":"Ты правда мне поможешь...?"}
 {"id":"story_convenient:88049475267856128","en":"Of course! With a good omen like that, I'm sure it'll work out.","ru":"Конечно! С таким добрым знаком всё точно получится."}
-{"id":"story_convenient:88049475267856640","en":"Actually, I met a white Skyhawk. | Actually, I met a white Skyhawk.","ru":"На самом деле я встретил белого Небесного ястреба. | На самом деле я встретила белого Небесного ястреба."}
+{"id":"story_convenient:88049475267856640","en":"Actually, I met a white Skyhawk.","ru":"На самом деле я встретил белого Небесного ястреба."}
 {"id":"story_convenient:88049479562822912","en":"Light","ru":"Лайт"}
 {"id":"story_convenient:88049479562823168","en":"If you put it that way, I have to keep trying too... Alright, I'll give it one more go.","ru":"Раз ты так говоришь, я тоже должен стараться... Ладно, попробую ещё разок."}
 {"id":"story_convenient:88049483857790208","en":"Light","ru":"Лайт"}
@@ -24685,7 +24685,7 @@
 {"id":"story_convenient:89344360662959360","en":"Nono","ru":"Ноно"}
 {"id":"story_convenient:89344360662959616","en":"Heave... ho...","ru":"Хо-оп... хо-оп..."}
 {"id":"story_convenient:89344772979819776","en":"Tiffy","ru":"Тиффи"}
-{"id":"story_convenient:89344772979820032","en":"The vines!","ru":"Лианы!"}
+{"id":"story_convenient:89344772979820032","en":"The tree roots!","ru":"Корни дерева!"}
 {"id":"story_convenient:89345202476549376","en":"Nono","ru":"Ноно"}
 {"id":"story_convenient:89345202476549632","en":"There, that should do it.","ru":"Вот, так всё в порядке."}
 {"id":"story_convenient:89345631973278976","en":"Lumi","ru":"Луми"}
@@ -24715,7 +24715,7 @@
 {"id":"story_convenient:89380421208376576","en":"Terara","ru":"Терара"}
 {"id":"story_convenient:89380421208376832","en":"Starborn, look over there. Someone's sitting down!","ru":"Звездорождённый, глянь туда. Кто-то сидит!"}
 {"id":"story_convenient:89380425503343872","en":"Lumi","ru":"Луми"}
-{"id":"story_convenient:89380425503344128","en":"Wait, is that... Katal!?","ru":"Погоди, это... Каталуа!?"}
+{"id":"story_convenient:89380425503344128","en":"Wait, is that... Katalua!?","ru":"Погоди, это... Каталуа!?"}
 {"id":"story_convenient:89381280201835776","en":"Ur","ru":"Ур"}
 {"id":"story_convenient:89381280201836032","en":"Woof!","ru":"Гав!"}
 {"id":"story_convenient:89381284496803072","en":"Terara","ru":"Терара"}
@@ -24791,7 +24791,7 @@
 {"id":"story_convenient:89427670143599872","en":"Faridah","ru":"Фарида"}
 {"id":"story_convenient:89427670143600128","en":"Wingfolk who participate in the Rite of Flight, build your own Sozanka's Ladder.","ru":"Крылатые, участвующие в Обряде полёта, возведите собственную Лестницу Содзанки."}
 {"id":"story_convenient:89427674438567168","en":"Saturu","ru":"Сатуру"}
-{"id":"story_convenient:89427674438567424","en":"Relax, Mitty. This trial has the blessing of Lady Sozanka, whom we all worship.","ru":"Не волнуйся, Митти. Это испытание под покровительством госпожи Содзанки, которой мы все поклоняемся."}
+{"id":"story_convenient:89427674438567424","en":"Relax, Mitty. This trial has the blessing of Lady Sozanka, whom we worship.","ru":"Не волнуйся, Митти. Это испытание под покровительством госпожи Содзанки, которой мы поклоняемся."}
 {"id":"story_convenient:89427678733534464","en":"Mitty","ru":"Митти"}
 {"id":"story_convenient:89427678733534720","en":"All right, it's finally the last trial!","ru":"Так, наконец-то последнее испытание!"}
 {"id":"story_convenient:89427683028501760","en":"Mitty","ru":"Митти"}

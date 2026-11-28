@@ -472,12 +472,12 @@
 {"id":"skill:214798195010569472","en":"Frost Spirit's Cold Field","ru":"Морозное поле духа инея"}
 {"id":"skill:214798203600504064","en":"Flozest's Ice Strike","ru":"Ледяной удар Флозеста"}
 {"id":"skill:214798207895471360","en":"Frost Spirit's Cold Field","ru":"Морозное поле духа инея"}
-{"id":"skill:214798620212331776","en":"Starlight Torrent","ru":"Звёздный поток"}
+{"id":"skill:214798620212331776","en":"Torrent of Starlight","ru":"Поток звёздного света"}
 {"id":"skill:214798628802266368","en":"Kiramy's Claw Strike","ru":"Удар когтей Кирами"}
-{"id":"skill:214798633097233664","en":"Starlight Torrent","ru":"Звёздный поток"}
-{"id":"skill:214799049709061376","en":"Starlight Sparkle","ru":"Звёздное мерцание"}
+{"id":"skill:214798633097233664","en":"Torrent of Starlight","ru":"Поток звёздного света"}
+{"id":"skill:214799049709061376","en":"Sparkle of Starlight","ru":"Мерцание звёздного света"}
 {"id":"skill:214799058298995968","en":"Starmy's Claw Strike","ru":"Удар когтей Старми"}
-{"id":"skill:214799062593963264","en":"Starlight Sparkle","ru":"Звёздное мерцание"}
+{"id":"skill:214799062593963264","en":"Sparkle of Starlight","ru":"Мерцание звёздного света"}
 {"id":"skill:214799912997487872","en":"Haacha Charge","ru":"Натиск Хаачи"}
 {"id":"skill:214799921587422464","en":"Haacha Tail Attack","ru":"Хвостовая атака Хаачи"}
 {"id":"skill:214799925882389760","en":"Vigor Dash","ru":"Рывок бодрости"}
@@ -2019,9 +2019,9 @@
 {"id":"skill:2285304853562624","en":"Rational · Common","ru":"Разумная · обычная"}
 {"id":"skill:2285309148529920","en":"Rational · Fine","ru":"Разумная · хорошая"}
 {"id":"skill:2285313443497216","en":"Rational · Excellent","ru":"Разумная · отличная"}
-{"id":"skill:2285317738464512","en":"Persistent · Common","ru":"Упорная · обычная"}
-{"id":"skill:2285322033431808","en":"Persistent · Fine","ru":"Упорная · хорошая"}
-{"id":"skill:2285326328399104","en":"Persistent · Excellent","ru":"Упорная · отличная"}
+{"id":"skill:2285317738464512","en":"Tenacious · Common","ru":"Упорная · обычная"}
+{"id":"skill:2285322033431808","en":"Tenacious · Fine","ru":"Упорная · хорошая"}
+{"id":"skill:2285326328399104","en":"Tenacious · Excellent","ru":"Упорная · отличная"}
 {"id":"skill:2285330623366400","en":"Unyielding · Common","ru":"Несгибаемая · обычная"}
 {"id":"skill:2285334918333696","en":"Unyielding · Fine","ru":"Несгибаемая · хорошая"}
 {"id":"skill:2285339213300992","en":"Unyielding · Excellent","ru":"Несгибаемая · отличная"}
@@ -2034,21 +2034,21 @@
 {"id":"skill:2289221863736576","en":"Agility · Common","ru":"Ловкость · обычная"}
 {"id":"skill:2289226158703872","en":"Agility · Fine","ru":"Ловкость · хорошая"}
 {"id":"skill:2289230453671168","en":"Agility · Excellent","ru":"Ловкость · отличная"}
-{"id":"skill:2289234748638464","en":"Fearless · Common","ru":"Бесстрашная · обычная"}
-{"id":"skill:2289239043605760","en":"Fearless · Fine","ru":"Бесстрашная · хорошая"}
-{"id":"skill:2289243338573056","en":"Fearless · Excellent","ru":"Бесстрашная · отличная"}
+{"id":"skill:2289234748638464","en":"Bold · Common","ru":"Отважная · обычная"}
+{"id":"skill:2289239043605760","en":"Bold · Fine","ru":"Отважная · хорошая"}
+{"id":"skill:2289243338573056","en":"Bold · Excellent","ru":"Отважная · отличная"}
 {"id":"skill:2289247633540352","en":"Calm · Common","ru":"Спокойствие · обычное"}
 {"id":"skill:2289251928507648","en":"Calm · Fine","ru":"Спокойствие · хорошее"}
 {"id":"skill:2289256223474944","en":"Calm · Excellent","ru":"Спокойствие · отличное"}
-{"id":"skill:2289260518442240","en":"Competitive · Common","ru":"Азартная · обычная"}
-{"id":"skill:2289264813409536","en":"Competitive · Fine","ru":"Азартная · хорошая"}
-{"id":"skill:2289269108376832","en":"Competitive · Excellent","ru":"Азартная · отличная"}
+{"id":"skill:2289260518442240","en":"Spirited · Common","ru":"Азартная · обычная"}
+{"id":"skill:2289264813409536","en":"Spirited · Fine","ru":"Азартная · хорошая"}
+{"id":"skill:2289269108376832","en":"Spirited · Excellent","ru":"Азартная · отличная"}
 {"id":"skill:2289273403344128","en":"Poise - Normal","ru":"Осанка — обычная"}
 {"id":"skill:2289277698311424","en":"Poise - Good","ru":"Осанка — хорошая"}
 {"id":"skill:2289281993278720","en":"Poise - Excellent","ru":"Осанка — отличная"}
-{"id":"skill:2289286288246016","en":"Go-Getter - Normal","ru":"Хваткость — обычная"}
-{"id":"skill:2289290583213312","en":"Go-Getter - Good","ru":"Хваткость — хорошая"}
-{"id":"skill:2289294878180608","en":"Go-Getter - Excellent","ru":"Хваткость — отличная"}
+{"id":"skill:2289286288246016","en":"Diligent · Common","ru":"Усердная · обычная"}
+{"id":"skill:2289290583213312","en":"Diligent · Fine","ru":"Усердная · хорошая"}
+{"id":"skill:2289294878180608","en":"Diligent · Excellent","ru":"Усердная · отличная"}
 {"id":"skill:2289299173147904","en":"Sincerity - Normal","ru":"Искренность — обычная"}
 {"id":"skill:2289303468115200","en":"Sincerity - Good","ru":"Искренность — хорошая"}
 {"id":"skill:2289307763082496","en":"Sincerity - Excellent","ru":"Искренность — отличная"}
@@ -2061,9 +2061,9 @@
 {"id":"skill:2289337827853568","en":"Excitement - Normal","ru":"Возбуждение — обычное"}
 {"id":"skill:2289342122820864","en":"Excitement - Good","ru":"Возбуждение — хорошее"}
 {"id":"skill:2289346417788160","en":"Excitement - Excellent","ru":"Возбуждение — отличное"}
-{"id":"skill:2289350712755456","en":"Nonchalance - Normal","ru":"Беспечность — обычная"}
-{"id":"skill:2289355007722752","en":"Nonchalance - Good","ru":"Беспечность — хорошая"}
-{"id":"skill:2289359302690048","en":"Nonchalance - Excellent","ru":"Беспечность — отличная"}
+{"id":"skill:2289350712755456","en":"Lighthearted · Common","ru":"Беспечная · обычная"}
+{"id":"skill:2289355007722752","en":"Lighthearted · Fine","ru":"Беспечная · хорошая"}
+{"id":"skill:2289359302690048","en":"Lighthearted · Excellent","ru":"Беспечная · отличная"}
 {"id":"skill:2289363597657344","en":"Warrior - Normal","ru":"Воитель — обычный"}
 {"id":"skill:2289367892624640","en":"Warrior - Good","ru":"Воитель — хороший"}
 {"id":"skill:2289372187591936","en":"Warrior - Excellent","ru":"Воитель — отличный"}
@@ -2082,15 +2082,15 @@
 {"id":"skill:2289428022166784","en":"Composure - Normal","ru":"Невозмутимость — обычная"}
 {"id":"skill:2289432317134080","en":"Composure - Good","ru":"Невозмутимость — хорошая"}
 {"id":"skill:2289436612101376","en":"Composure - Excellent","ru":"Невозмутимость — отличная"}
-{"id":"skill:2289440907068672","en":"Keenness - Normal","ru":"Молодечество — обычное"}
-{"id":"skill:2289445202035968","en":"Keenness - Good","ru":"Молодечество — хорошее"}
-{"id":"skill:2289449497003264","en":"Keenness - Excellent","ru":"Молодечество — отличное"}
-{"id":"skill:2289453791970560","en":"Fortitude - Normal","ru":"Твёрдость — обычная"}
-{"id":"skill:2289458086937856","en":"Fortitude - Good","ru":"Твёрдость — хорошая"}
-{"id":"skill:2289462381905152","en":"Fortitude - Excellent","ru":"Твёрдость — отличная"}
-{"id":"skill:2289466676872448","en":"Vitality - Normal","ru":"бодрость — обычная"}
-{"id":"skill:2289470971839744","en":"Vitality - Good","ru":"бодрость — хорошая"}
-{"id":"skill:2289475266807040","en":"Vitality - Excellent","ru":"бодрость — отличная"}
+{"id":"skill:2289440907068672","en":"Valiant · Common","ru":"Доблестная · обычная"}
+{"id":"skill:2289445202035968","en":"Valiant · Fine","ru":"Доблестная · хорошая"}
+{"id":"skill:2289449497003264","en":"Valiant · Excellent","ru":"Доблестная · отличная"}
+{"id":"skill:2289453791970560","en":"Unyielding · Common","ru":"Несгибаемая · обычная"}
+{"id":"skill:2289458086937856","en":"Unyielding · Fine","ru":"Несгибаемая · хорошая"}
+{"id":"skill:2289462381905152","en":"Unyielding · Excellent","ru":"Несгибаемая · отличная"}
+{"id":"skill:2289466676872448","en":"Robust · Common","ru":"Крепкая · обычная"}
+{"id":"skill:2289470971839744","en":"Robust · Fine","ru":"Крепкая · хорошая"}
+{"id":"skill:2289475266807040","en":"Robust · Excellent","ru":"Крепкая · отличная"}
 {"id":"skill:2289479561774336","en":"Simplicity - Normal","ru":"Простота — обычная"}
 {"id":"skill:2289483856741632","en":"Simplicity - Good","ru":"Простота — хорошая"}
 {"id":"skill:2289488151708928","en":"Simplicity - Excellent","ru":"Простота — отличная"}
@@ -2131,8 +2131,8 @@
 {"id":"skill:2289638475564288","en":"Insight - Good","ru":"Проницательность — хорошая"}
 {"id":"skill:2289642770531584","en":"Insight - Excellent","ru":"Проницательность — отличная"}
 {"id":"skill:2289647065498880","en":"Earnestness - Normal","ru":"Серьёзность — обычная"}
-{"id":"skill:2289651360466176","en":"Earnestness - Good","ru":"Серьёзность — хорошая"}
-{"id":"skill:2289655655433472","en":"Earnestness - Excellent","ru":"Серьёзность — отличная"}
+{"id":"skill:2289651360466176","en":"Sincerity - Good","ru":"Искренность — хорошая"}
+{"id":"skill:2289655655433472","en":"Sincerity - Excellent","ru":"Искренность — отличная"}
 {"id":"skill:2292657837573376","en":"Adventurer","ru":"Искатель приключений"}
 {"id":"skill:2292662132540672","en":"Mischief Maker","ru":"Озорник"}
 {"id":"skill:2292666427507968","en":"Full of Beans","ru":"Полна сил"}
@@ -2157,7 +2157,7 @@
 {"id":"skill:2292752326853888","en":"Restlessness","ru":"беспокойство"}
 {"id":"skill:2292756621821184","en":"Luck","ru":"Удача"}
 {"id":"skill:2292760916788480","en":"Extraordinary","ru":"Незаурядность"}
-{"id":"skill:2302106765624576","en":"Starlight Gravity","ru":"Гравитация звёздного света"}
+{"id":"skill:2302106765624576","en":"Gravity of Starlight","ru":"Гравитация звёздного света"}
 {"id":"skill:2302111060591872","en":"Hedonism","ru":"Гедонизм"}
 {"id":"skill:2302115355559168","en":"Rogue","ru":"Хитрец"}
 {"id":"skill:2302119650526464","en":"Daring Advance","ru":"Смелое продвижение"}
@@ -3166,7 +3166,7 @@
 {"id":"skill:8163358440162560","en":"Minamoto Chiyo: Phantom Shadow Slash","ru":"Минамото Тиё: Разрез теневого духа"}
 {"id":"skill:8163401389835520","en":"Minamoto Chiyo: Garden of Falling Rain","ru":"Минамото Тиё: Сад под моросящим дождём"}
 {"id":"skill:8163444339508480","en":"Minamoto Chiyo: Mysterious Phantom Market","ru":"Минамото Тиё: Таинственный рынок духов"}
-{"id":"skill:8163616138200320","en":"Katal - Cute Tree Climbing","ru":"Катал — милое лазание по деревьям"}
+{"id":"skill:8163616138200320","en":"Katalua - Cute Tree Climbing","ru":"Каталуа — милое лазание по деревьям"}
 {"id":"skill:8163702037546240","en":"Star Seed","ru":"Звёздное семя"}
 {"id":"skill:8163744987219200","en":"Goodnight, My Beloved Child","ru":"Спокойной ночи, моё любимое дитя"}
 {"id":"skill:8163787936892160","en":"Time for Farm Work","ru":"Время работы на ферме"}
@@ -3421,7 +3421,7 @@
 {"id":"skill:85890768870311168","en":"4 Set: Each time your attack hits an enemy, your Crit Rate increases by 1% (for 6s; max 6 stacks).","ru":"Комплект 4: каждое попадание вашей атаки по врагу повышает вашу вероятность крита на 1% (на 6 с; максимум 6 стака)."}
 {"id":"skill:85890773165278464","en":"4 Set: After taking damage 4 times, Max HP increases by 10%.","ru":"Комплект 4: после получения урона 4 раз максимальное HP повышается на 10%."}
 {"id":"skill:85890777460245760","en":"4 Set: When a Normal Attack hits, your ATK increases by 1% (for 12s; max 10 stacks).","ru":"Комплект 4: при попадании обычной атаки ваша сила атаки повышается на 1% (на 12 с; максимум 10 стака)."}
-{"id":"skill:85890781755213056","en":"4 Set: After the wearer uses a Skill, restores 8 Ultimate Energy to the whole team.","ru":"Комплект 4: после применения навыка носителем восстанавливает 8 энергии высшего искусства всему отряду."}
+{"id":"skill:85890781755213056","en":"4 Set: After the wearer uses a Starecho Skill, restores 8 Ultimate Energy to the whole team.","ru":"Комплект 4: после применения носителем Навыка звёздного эха восстанавливает 8 энергии высшего искусства всему отряду."}
 {"id":"skill:85890786050180352","en":"4 Set: When the wearer heals, the healed character's ATK increases by 14% (for 6s).","ru":"Комплект 4: когда носитель лечит, сила атаки исцелённого персонажа повышается на 14% (на 6 с)."}
 {"id":"skill:85890790345147648","en":"4 Set: When the wearer's Normal Attack or Charged Attack hits a target, applies a debuff to the target, increasing the target's Break Gauge Absorption by 30% (for 8s).","ru":"Комплект 4: при попадании обычной или заряженной атаки носителя по цели накладывает на неё ослабление, повышая поглощение шкалы прорыва цели на 30% (на 8 с)."}
 {"id":"skill:85890794640114944","en":"4 Set Reserve 3","ru":"Комплект 4, резерв 3"}
@@ -3472,9 +3472,9 @@
 {"id":"skill:85891670813443328","en":"Each time the wearer's attack hits, Break Value increases by 5 for 15s, up to 10 stacks.","ru":"При каждом попадании атаки носителя значение прорыва повышается на 5 на 15 сек. Макс. зарядов: 10."}
 {"id":"skill:85891675108410624","en":"Break Efficiency +15.0%","ru":"Эффективность прорыва +15.0%"}
 {"id":"skill:85891679403377920","en":"When the wearer's skill or Charged Attack hits, inflict a debuff on the target that increases Break Gauge Absorption by 30% for 24s. Does not stack.","ru":"При попадании навыка носителя или Заряженной атаки на цель накладывается Ослабление, повышающее Поглощение шкалы прорыва на 30% на 24 сек. Не складывается."}
-{"id":"skill:85891683698345216","en":"<color=#dc8d48> Wind DMG </color>+11%\n Additional Value","ru":"<color=#dc8d48> ветряной урон </color>+11%\n доп. значение"}
+{"id":"skill:85891683698345216","en":"Wind DMG+11%\nAdditional Value","ru":"ветряной урон+11%\nдоп. значение"}
 {"id":"skill:85891687993312512","en":"After using Wind EX, EX CRIT Rate increases by +10 and Charged Attack DMG increases by 10% for 15s. Each time a Charged Attack hits, restore 1 Energy.","ru":"После применения ветряного EX шанс крита EX повышается на +10, а урон Заряженной атаки — на 10% на 15 сек. При каждом попадании Заряженной атаки восстанавливается 1 ед. энергии."}
-{"id":"skill:85891692288279808","en":"<color=#6b4373> Dark DMG </color>+11%\n Additional Value","ru":"<color=#6b4373> тёмный урон </color>+11%\n доп. значение"}
+{"id":"skill:85891692288279808","en":"Dark DMG+11%\nAdditional Value","ru":"тёмный урон+11%\nдоп. значение"}
 {"id":"skill:85891696583247104","en":"Can stack each time the wearer's Normal Attack or Charged Attack hits. Crit DMG increases by 1% and Dark DMG by 1% for 30s, up to 7 stacks. While the party holds 3 Dark Sigils, CRIT Rate increases by +10%.","ru":"Может складываться при каждом попадании Обычной или Заряженной атаки носителя. Крит. урон повышается на 1%, тёмный урон — на 1% на 30 сек. Макс. зарядов: 7. Пока отряд имеет Тёмные печати (3), шанс крита повышается на +10%."}
 {"id":"skill:85891700878214400","en":"Healing Effect Up +24.0%\n Additional Value","ru":"Повышение эффекта лечения +24.0%\n доп. значение"}
 {"id":"skill:85891705173181696","en":"When the wearer heals, the healed target's ATK increases by 12% for 24s. Does not stack.","ru":"Когда носитель лечит, сила атаки исцелённой цели повышается на 12% на 24 сек. Не складывается."}

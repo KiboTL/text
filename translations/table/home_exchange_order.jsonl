@@ -1,7 +1,7 @@
-{"id":"home_exchange_order:4294971590967552","en":"Commission: Small Great Wolf Statue","ru":"Поручение: статуэтка Великого волка"}
-{"id":"home_exchange_order:4728763287863552","en":"Winds Copper Collection","ru":"Сбор ветряной меди"}
+{"id":"home_exchange_order:4294971590967552","en":"Commission: Small Statue of the Great Wolf","ru":"Поручение: небольшая статуя Великого волка"}
+{"id":"home_exchange_order:4728763287863552","en":"Winds Copper Procurement","ru":"Заготовка ветряной меди"}
 {"id":"home_exchange_order:4728767582830848","en":"Duststone Procurement","ru":"Заготовка пылекамня"}
-{"id":"home_exchange_order:4728771877798144","en":"Softwood Collection","ru":"Сбор мягкой древесины"}
+{"id":"home_exchange_order:4728771877798144","en":"Softwood Procurement","ru":"Заготовка мягкой древесины"}
 {"id":"home_exchange_order:4728776172765440","en":"Fiber Procurement","ru":"Заготовка волокна"}
 {"id":"home_exchange_order:4728780467732736","en":"Mottled Mushroom Procurement","ru":"Заготовка пёстрых грибов"}
 {"id":"home_exchange_order:4728784762700032","en":"Apple Procurement","ru":"Заготовка яблок"}
@@ -17,7 +17,7 @@
 {"id":"home_exchange_order:4728922201653504","en":"Winds Copper Ingot Supply","ru":"Поставка слитков ветряной меди"}
 {"id":"home_exchange_order:4728926496620800","en":"Charcoal Supply","ru":"Поставка древесного угля"}
 {"id":"home_exchange_order:4728930791588096","en":"Commission: Cabbeco Wood Carving","ru":"Поручение: деревянная резная каббеко"}
-{"id":"home_exchange_order:4728935086555392","en":"Commission: Small Great Wolf Statue","ru":"Поручение: статуэтка Великого волка"}
+{"id":"home_exchange_order:4728935086555392","en":"Commission: Small Statue of the Great Wolf","ru":"Поручение: небольшая статуя Великого волка"}
 {"id":"home_exchange_order:4728939381522688","en":"Commission: Floating Melody Wind Chime","ru":"Поручение: ветряной колокольчик «Плывущая мелодия»"}
 {"id":"home_exchange_order:4733058255159552","en":"Winds Copper Buyback","ru":"Скупка ветряной меди"}
 {"id":"home_exchange_order:4733062550126848","en":"Flash Tin Buyback","ru":"Скупка сверкающего олова"}
@@ -33,7 +33,7 @@
 {"id":"home_exchange_order:4733105499799808","en":"Buying Chishiki","ru":"Скупка тисики"}
 {"id":"home_exchange_order:4733109794767104","en":"Buying Beast Meat","ru":"Скупка мяса зверя"}
 {"id":"home_exchange_order:4733114089734400","en":"Buying Poultry","ru":"Скупка мяса птицы"}
-{"id":"home_exchange_order:4733118384701696","en":"Buying Torn Hide","ru":"Скупка рваных шкур"}
+{"id":"home_exchange_order:4733118384701696","en":"Buying Tattered Beast Hide","ru":"Скупка изодранной звериной шкуры"}
 {"id":"home_exchange_order:4733122679668992","en":"Buying Fresh Eggs","ru":"Скупка свежих яиц"}
 {"id":"home_exchange_order:4733126974636288","en":"Buying Rich Milk","ru":"Скупка жирного молока"}
 {"id":"home_exchange_order:4733131269603584","en":"Buying Honey","ru":"Скупка мёда"}
@@ -70,7 +70,7 @@
 {"id":"home_exchange_order:4737421941932288","en":"Bulk Buying Beast Meat","ru":"Массовая скупка мяса зверя"}
 {"id":"home_exchange_order:4737426236899584","en":"Bulk Buying Poultry","ru":"Массовая скупка мяса птицы"}
 {"id":"home_exchange_order:4737430531866880","en":"Bulk Buying Tattered Hide","ru":"Массовая скупка истрёпанных шкур"}
-{"id":"home_exchange_order:4737434826834176","en":"Bulk Buying Fine Hide","ru":"Массовая скупка отменных шкур"}
+{"id":"home_exchange_order:4737434826834176","en":"Bulk Buying Fine Beast Hide","ru":"Массовая скупка чистой звериной шкуры"}
 {"id":"home_exchange_order:4737439121801472","en":"Bulk Buying Fresh Eggs","ru":"Массовая скупка свежих яиц"}
 {"id":"home_exchange_order:4737443416768768","en":"Bulk Buying Rich Milk","ru":"Массовая скупка жирного молока"}
 {"id":"home_exchange_order:4737447711736064","en":"Bulk Buying Honey","ru":"Массовая скупка мёда"}
@@ -120,7 +120,7 @@
 {"id":"home_exchange_order:4741648189751552","en":"Massive Buying Windcopper","ru":"Сверхмассовая скупка ветряной меди"}
 {"id":"home_exchange_order:4741652484718848","en":"Massive Buying Flash Tin","ru":"Сверхмассовая скупка сверкающего олова"}
 {"id":"home_exchange_order:4741656779686144","en":"Massive Buying Mirror Iron","ru":"Сверхмассовая скупка зеркального железа"}
-{"id":"home_exchange_order:4741661074653440","en":"Bulk Buying Sky Iron","ru":"Массовая скупка небесного железа"}
+{"id":"home_exchange_order:4741661074653440","en":"Mass Purchase of Sky Iron","ru":"Скупка небесного железа в огромных объёмах"}
 {"id":"home_exchange_order:4741665369620736","en":"Massive Buying Duststone","ru":"Сверхмассовая скупка пылекамня"}
 {"id":"home_exchange_order:4741669664588032","en":"Massive Buying Hardrock","ru":"Сверхмассовая скупка твёрдого камня"}
 {"id":"home_exchange_order:4741673959555328","en":"Massive Buying Topaz","ru":"Сверхмассовая скупка топаза"}
@@ -136,8 +136,8 @@
 {"id":"home_exchange_order:4741716909228288","en":"Mass Purchase of Chishiki","ru":"Скупка тисики в огромных объёмах"}
 {"id":"home_exchange_order:4741721204195584","en":"Mass Purchase of Beast Meat","ru":"Скупка мяса зверя в огромных объёмах"}
 {"id":"home_exchange_order:4741725499162880","en":"Mass Purchase of Poultry","ru":"Скупка мяса птицы в огромных объёмах"}
-{"id":"home_exchange_order:4741729794130176","en":"Mass Purchase of Tattered Beast Hides","ru":"Скупка рваных звериных шкур в огромных объёмах"}
-{"id":"home_exchange_order:4741734089097472","en":"Mass Purchase of Fine Beast Hides","ru":"Скупка отличных звериных шкур в огромных объёмах"}
+{"id":"home_exchange_order:4741729794130176","en":"Mass Purchase of Tattered Beast Hides","ru":"Скупка изодранных звериных шкур в огромных объёмах"}
+{"id":"home_exchange_order:4741734089097472","en":"Mass Purchase of Fine Beast Hides","ru":"Скупка чистых звериных шкур в огромных объёмах"}
 {"id":"home_exchange_order:4741738384064768","en":"Mass Purchase of Fresh Eggs","ru":"Скупка свежих яиц в огромных объёмах"}
 {"id":"home_exchange_order:4741742679032064","en":"Mass Purchase of Rich Milk","ru":"Скупка жирного молока в огромных объёмах"}
 {"id":"home_exchange_order:4741746973999360","en":"Mass Purchase of Honey","ru":"Скупка мёда в огромных объёмах"}
@@ -172,7 +172,7 @@
 {"id":"home_exchange_order:4741871528050944","en":"Mass Supply of Windcopper Ingots","ru":"Поставка слитков ветряной меди в огромных объёмах"}
 {"id":"home_exchange_order:4741875823018240","en":"Mass Supply of Bronze Ingots","ru":"Поставка бронзовых слитков в огромных объёмах"}
 {"id":"home_exchange_order:4741880117985536","en":"Mass Supply of Mirror Iron Ingots","ru":"Поставка слитков зеркального железа в огромных объёмах"}
-{"id":"home_exchange_order:4741884412952832","en":"Bulk Supply of Sky Iron Ingots","ru":"Поставка слитков небесного железа в больших объёмах"}
+{"id":"home_exchange_order:4741884412952832","en":"Mass Supply of Sky Iron Ingots","ru":"Поставка слитков небесного железа в огромных объёмах"}
 {"id":"home_exchange_order:4741888707920128","en":"Mass Supply of Moonlight Hemp Cloth","ru":"Поставка ткани из лунной конопли в огромных объёмах"}
 {"id":"home_exchange_order:4741893002887424","en":"Mass Supply of Spiderfluff Cloth","ru":"Поставка ткани из паутинного пуха в огромных объёмах"}
 {"id":"home_exchange_order:4741897297854720","en":"Mass Supply of Rough Leather","ru":"Поставка грубой кожи в огромных объёмах"}
@@ -183,9 +183,9 @@
 {"id":"home_exchange_order:4741918772691200","en":"Special-Grade Order for Wood and Ore","ru":"Заказ высшего класса на древесину и руду"}
 {"id":"home_exchange_order:4741944542494976","en":"Bulk Purchase: Fireworks Workshop","ru":"Массовые закупки: мастерская фейерверков"}
 {"id":"home_exchange_order:4741948837462272","en":"Bulk Purchase: Fireworks Workshop","ru":"Массовые закупки: мастерская фейерверков"}
-{"id":"home_exchange_order:4771712960823552","en":"Winds Copper Collection","ru":"Сбор ветряной меди"}
+{"id":"home_exchange_order:4771712960823552","en":"Winds Copper Procurement","ru":"Заготовка ветряной меди"}
 {"id":"home_exchange_order:4771717255790848","en":"Duststone Procurement","ru":"Заготовка пылекамня"}
-{"id":"home_exchange_order:4771721550758144","en":"Softwood Collection","ru":"Сбор мягкой древесины"}
+{"id":"home_exchange_order:4771721550758144","en":"Softwood Procurement","ru":"Заготовка мягкой древесины"}
 {"id":"home_exchange_order:4771725845725440","en":"Fiber Procurement","ru":"Заготовка волокна"}
 {"id":"home_exchange_order:4771730140692736","en":"Mottled Mushroom Procurement","ru":"Заготовка пёстрых грибов"}
 {"id":"home_exchange_order:4771734435660032","en":"Apple Procurement","ru":"Заготовка яблок"}
@@ -201,7 +201,7 @@
 {"id":"home_exchange_order:4771871874613504","en":"Winds Copper Ingot Supply","ru":"Поставка слитков ветряной меди"}
 {"id":"home_exchange_order:4771876169580800","en":"Charcoal Supply","ru":"Поставка древесного угля"}
 {"id":"home_exchange_order:4771880464548096","en":"Commission: Cabbeco Wood Carving","ru":"Поручение: деревянная резная каббеко"}
-{"id":"home_exchange_order:4771884759515392","en":"Commission: Small Great Wolf Statue","ru":"Поручение: статуэтка Великого волка"}
+{"id":"home_exchange_order:4771884759515392","en":"Commission: Small Statue of the Great Wolf","ru":"Поручение: небольшая статуя Великого волка"}
 {"id":"home_exchange_order:4771889054482688","en":"Commission: Floating Melody Wind Chime","ru":"Поручение: ветряной колокольчик «Плывущая мелодия»"}
 {"id":"home_exchange_order:4776007928119552","en":"Winds Copper Buyback","ru":"Скупка ветряной меди"}
 {"id":"home_exchange_order:4776012223086848","en":"Flash Tin Buyback","ru":"Скупка сверкающего олова"}
@@ -217,7 +217,7 @@
 {"id":"home_exchange_order:4776055172759808","en":"Buying Chishiki","ru":"Скупка тисики"}
 {"id":"home_exchange_order:4776059467727104","en":"Buying Beast Meat","ru":"Скупка мяса зверя"}
 {"id":"home_exchange_order:4776063762694400","en":"Buying Poultry","ru":"Скупка мяса птицы"}
-{"id":"home_exchange_order:4776068057661696","en":"Buying Torn Hide","ru":"Скупка рваных шкур"}
+{"id":"home_exchange_order:4776068057661696","en":"Buying Tattered Beast Hide","ru":"Скупка изодранной звериной шкуры"}
 {"id":"home_exchange_order:4776072352628992","en":"Buying Fresh Eggs","ru":"Скупка свежих яиц"}
 {"id":"home_exchange_order:4776076647596288","en":"Buying Rich Milk","ru":"Скупка жирного молока"}
 {"id":"home_exchange_order:4776080942563584","en":"Buying Honey","ru":"Скупка мёда"}
@@ -254,7 +254,7 @@
 {"id":"home_exchange_order:4780371614892288","en":"Bulk Buying Beast Meat","ru":"Массовая скупка мяса зверя"}
 {"id":"home_exchange_order:4780375909859584","en":"Bulk Buying Poultry","ru":"Массовая скупка мяса птицы"}
 {"id":"home_exchange_order:4780380204826880","en":"Bulk Buying Tattered Hide","ru":"Массовая скупка истрёпанных шкур"}
-{"id":"home_exchange_order:4780384499794176","en":"Bulk Buying Fine Hide","ru":"Массовая скупка отменных шкур"}
+{"id":"home_exchange_order:4780384499794176","en":"Bulk Buying Fine Beast Hide","ru":"Массовая скупка чистой звериной шкуры"}
 {"id":"home_exchange_order:4780388794761472","en":"Bulk Buying Fresh Eggs","ru":"Массовая скупка свежих яиц"}
 {"id":"home_exchange_order:4780393089728768","en":"Bulk Buying Rich Milk","ru":"Массовая скупка жирного молока"}
 {"id":"home_exchange_order:4780397384696064","en":"Bulk Buying Honey","ru":"Массовая скупка мёда"}
@@ -304,7 +304,7 @@
 {"id":"home_exchange_order:4784597862711552","en":"Massive Buying Windcopper","ru":"Сверхмассовая скупка ветряной меди"}
 {"id":"home_exchange_order:4784602157678848","en":"Massive Buying Flash Tin","ru":"Сверхмассовая скупка сверкающего олова"}
 {"id":"home_exchange_order:4784606452646144","en":"Massive Buying Mirror Iron","ru":"Сверхмассовая скупка зеркального железа"}
-{"id":"home_exchange_order:4784610747613440","en":"Bulk Buying Sky Iron","ru":"Массовая скупка небесного железа"}
+{"id":"home_exchange_order:4784610747613440","en":"Mass Purchase of Sky Iron","ru":"Скупка небесного железа в огромных объёмах"}
 {"id":"home_exchange_order:4784615042580736","en":"Massive Buying Duststone","ru":"Сверхмассовая скупка пылекамня"}
 {"id":"home_exchange_order:4784619337548032","en":"Massive Buying Hardrock","ru":"Сверхмассовая скупка твёрдого камня"}
 {"id":"home_exchange_order:4784623632515328","en":"Massive Buying Topaz","ru":"Сверхмассовая скупка топаза"}
@@ -320,8 +320,8 @@
 {"id":"home_exchange_order:4784666582188288","en":"Mass Purchase of Chishiki","ru":"Скупка тисики в огромных объёмах"}
 {"id":"home_exchange_order:4784670877155584","en":"Mass Purchase of Beast Meat","ru":"Скупка мяса зверя в огромных объёмах"}
 {"id":"home_exchange_order:4784675172122880","en":"Mass Purchase of Poultry","ru":"Скупка мяса птицы в огромных объёмах"}
-{"id":"home_exchange_order:4784679467090176","en":"Mass Purchase of Tattered Beast Hides","ru":"Скупка рваных звериных шкур в огромных объёмах"}
-{"id":"home_exchange_order:4784683762057472","en":"Mass Purchase of Fine Beast Hides","ru":"Скупка отличных звериных шкур в огромных объёмах"}
+{"id":"home_exchange_order:4784679467090176","en":"Mass Purchase of Tattered Beast Hides","ru":"Скупка изодранных звериных шкур в огромных объёмах"}
+{"id":"home_exchange_order:4784683762057472","en":"Mass Purchase of Fine Beast Hides","ru":"Скупка чистых звериных шкур в огромных объёмах"}
 {"id":"home_exchange_order:4784688057024768","en":"Mass Purchase of Fresh Eggs","ru":"Скупка свежих яиц в огромных объёмах"}
 {"id":"home_exchange_order:4784692351992064","en":"Mass Purchase of Rich Milk","ru":"Скупка жирного молока в огромных объёмах"}
 {"id":"home_exchange_order:4784696646959360","en":"Mass Purchase of Honey","ru":"Скупка мёда в огромных объёмах"}
@@ -356,7 +356,7 @@
 {"id":"home_exchange_order:4784821201010944","en":"Mass Supply of Windcopper Ingots","ru":"Поставка слитков ветряной меди в огромных объёмах"}
 {"id":"home_exchange_order:4784825495978240","en":"Mass Supply of Bronze Ingots","ru":"Поставка бронзовых слитков в огромных объёмах"}
 {"id":"home_exchange_order:4784829790945536","en":"Mass Supply of Mirror Iron Ingots","ru":"Поставка слитков зеркального железа в огромных объёмах"}
-{"id":"home_exchange_order:4784834085912832","en":"Bulk Supply of Sky Iron Ingots","ru":"Поставка слитков небесного железа в больших объёмах"}
+{"id":"home_exchange_order:4784834085912832","en":"Mass Supply of Sky Iron Ingots","ru":"Поставка слитков небесного железа в огромных объёмах"}
 {"id":"home_exchange_order:4784838380880128","en":"Mass Supply of Moonlight Hemp Cloth","ru":"Поставка ткани из лунной конопли в огромных объёмах"}
 {"id":"home_exchange_order:4784842675847424","en":"Mass Supply of Spiderfluff Cloth","ru":"Поставка ткани из паутинного пуха в огромных объёмах"}
 {"id":"home_exchange_order:4784846970814720","en":"Mass Supply of Rough Leather","ru":"Поставка грубой кожи в огромных объёмах"}
@@ -367,9 +367,9 @@
 {"id":"home_exchange_order:4784868445651200","en":"Special-Grade Order for Wood and Ore","ru":"Заказ высшего класса на древесину и руду"}
 {"id":"home_exchange_order:4784894215454976","en":"Bulk Purchase: Fireworks Workshop","ru":"Массовые закупки: мастерская фейерверков"}
 {"id":"home_exchange_order:4784898510422272","en":"Bulk Purchase: Fireworks Workshop","ru":"Массовые закупки: мастерская фейерверков"}
-{"id":"home_exchange_order:4814662633783552","en":"Winds Copper Collection","ru":"Сбор ветряной меди"}
+{"id":"home_exchange_order:4814662633783552","en":"Winds Copper Procurement","ru":"Заготовка ветряной меди"}
 {"id":"home_exchange_order:4814666928750848","en":"Duststone Procurement","ru":"Заготовка пылекамня"}
-{"id":"home_exchange_order:4814671223718144","en":"Softwood Collection","ru":"Сбор мягкой древесины"}
+{"id":"home_exchange_order:4814671223718144","en":"Softwood Procurement","ru":"Заготовка мягкой древесины"}
 {"id":"home_exchange_order:4814675518685440","en":"Fiber Procurement","ru":"Заготовка волокна"}
 {"id":"home_exchange_order:4814679813652736","en":"Mottled Mushroom Procurement","ru":"Заготовка пёстрых грибов"}
 {"id":"home_exchange_order:4814684108620032","en":"Apple Procurement","ru":"Заготовка яблок"}
@@ -385,7 +385,7 @@
 {"id":"home_exchange_order:4814821547573504","en":"Winds Copper Ingot Supply","ru":"Поставка слитков ветряной меди"}
 {"id":"home_exchange_order:4814825842540800","en":"Charcoal Supply","ru":"Поставка древесного угля"}
 {"id":"home_exchange_order:4814830137508096","en":"Commission: Cabbeco Wood Carving","ru":"Поручение: деревянная резная каббеко"}
-{"id":"home_exchange_order:4814834432475392","en":"Commission: Small Great Wolf Statue","ru":"Поручение: статуэтка Великого волка"}
+{"id":"home_exchange_order:4814834432475392","en":"Commission: Small Statue of the Great Wolf","ru":"Поручение: небольшая статуя Великого волка"}
 {"id":"home_exchange_order:4814838727442688","en":"Commission: Floating Melody Wind Chime","ru":"Поручение: ветряной колокольчик «Плывущая мелодия»"}
 {"id":"home_exchange_order:4818957601079552","en":"Winds Copper Buyback","ru":"Скупка ветряной меди"}
 {"id":"home_exchange_order:4818961896046848","en":"Flash Tin Buyback","ru":"Скупка сверкающего олова"}
@@ -401,7 +401,7 @@
 {"id":"home_exchange_order:4819004845719808","en":"Buying Chishiki","ru":"Скупка тисики"}
 {"id":"home_exchange_order:4819009140687104","en":"Buying Beast Meat","ru":"Скупка мяса зверя"}
 {"id":"home_exchange_order:4819013435654400","en":"Buying Poultry","ru":"Скупка мяса птицы"}
-{"id":"home_exchange_order:4819017730621696","en":"Buying Torn Hide","ru":"Скупка рваных шкур"}
+{"id":"home_exchange_order:4819017730621696","en":"Buying Tattered Beast Hide","ru":"Скупка изодранной звериной шкуры"}
 {"id":"home_exchange_order:4819022025588992","en":"Buying Fresh Eggs","ru":"Скупка свежих яиц"}
 {"id":"home_exchange_order:4819026320556288","en":"Buying Rich Milk","ru":"Скупка жирного молока"}
 {"id":"home_exchange_order:4819030615523584","en":"Buying Honey","ru":"Скупка мёда"}
@@ -438,7 +438,7 @@
 {"id":"home_exchange_order:4823321287852288","en":"Bulk Buying Beast Meat","ru":"Массовая скупка мяса зверя"}
 {"id":"home_exchange_order:4823325582819584","en":"Bulk Buying Poultry","ru":"Массовая скупка мяса птицы"}
 {"id":"home_exchange_order:4823329877786880","en":"Bulk Buying Tattered Hide","ru":"Массовая скупка истрёпанных шкур"}
-{"id":"home_exchange_order:4823334172754176","en":"Bulk Buying Fine Hide","ru":"Массовая скупка отменных шкур"}
+{"id":"home_exchange_order:4823334172754176","en":"Bulk Buying Fine Beast Hide","ru":"Массовая скупка чистой звериной шкуры"}
 {"id":"home_exchange_order:4823338467721472","en":"Bulk Buying Fresh Eggs","ru":"Массовая скупка свежих яиц"}
 {"id":"home_exchange_order:4823342762688768","en":"Bulk Buying Rich Milk","ru":"Массовая скупка жирного молока"}
 {"id":"home_exchange_order:4823347057656064","en":"Bulk Buying Honey","ru":"Массовая скупка мёда"}
@@ -488,7 +488,7 @@
 {"id":"home_exchange_order:4827547535671552","en":"Massive Buying Windcopper","ru":"Сверхмассовая скупка ветряной меди"}
 {"id":"home_exchange_order:4827551830638848","en":"Massive Buying Flash Tin","ru":"Сверхмассовая скупка сверкающего олова"}
 {"id":"home_exchange_order:4827556125606144","en":"Massive Buying Mirror Iron","ru":"Сверхмассовая скупка зеркального железа"}
-{"id":"home_exchange_order:4827560420573440","en":"Bulk Buying Sky Iron","ru":"Массовая скупка небесного железа"}
+{"id":"home_exchange_order:4827560420573440","en":"Mass Purchase of Sky Iron","ru":"Скупка небесного железа в огромных объёмах"}
 {"id":"home_exchange_order:4827564715540736","en":"Massive Buying Duststone","ru":"Сверхмассовая скупка пылекамня"}
 {"id":"home_exchange_order:4827569010508032","en":"Massive Buying Hardrock","ru":"Сверхмассовая скупка твёрдого камня"}
 {"id":"home_exchange_order:4827573305475328","en":"Massive Buying Topaz","ru":"Сверхмассовая скупка топаза"}
@@ -504,8 +504,8 @@
 {"id":"home_exchange_order:4827616255148288","en":"Mass Purchase of Chishiki","ru":"Скупка тисики в огромных объёмах"}
 {"id":"home_exchange_order:4827620550115584","en":"Mass Purchase of Beast Meat","ru":"Скупка мяса зверя в огромных объёмах"}
 {"id":"home_exchange_order:4827624845082880","en":"Mass Purchase of Poultry","ru":"Скупка мяса птицы в огромных объёмах"}
-{"id":"home_exchange_order:4827629140050176","en":"Mass Purchase of Tattered Beast Hides","ru":"Скупка рваных звериных шкур в огромных объёмах"}
-{"id":"home_exchange_order:4827633435017472","en":"Mass Purchase of Fine Beast Hides","ru":"Скупка отличных звериных шкур в огромных объёмах"}
+{"id":"home_exchange_order:4827629140050176","en":"Mass Purchase of Tattered Beast Hides","ru":"Скупка изодранных звериных шкур в огромных объёмах"}
+{"id":"home_exchange_order:4827633435017472","en":"Mass Purchase of Fine Beast Hides","ru":"Скупка чистых звериных шкур в огромных объёмах"}
 {"id":"home_exchange_order:4827637729984768","en":"Mass Purchase of Fresh Eggs","ru":"Скупка свежих яиц в огромных объёмах"}
 {"id":"home_exchange_order:4827642024952064","en":"Mass Purchase of Rich Milk","ru":"Скупка жирного молока в огромных объёмах"}
 {"id":"home_exchange_order:4827646319919360","en":"Mass Purchase of Honey","ru":"Скупка мёда в огромных объёмах"}
@@ -540,7 +540,7 @@
 {"id":"home_exchange_order:4827770873970944","en":"Mass Supply of Windcopper Ingots","ru":"Поставка слитков ветряной меди в огромных объёмах"}
 {"id":"home_exchange_order:4827775168938240","en":"Mass Supply of Bronze Ingots","ru":"Поставка бронзовых слитков в огромных объёмах"}
 {"id":"home_exchange_order:4827779463905536","en":"Mass Supply of Mirror Iron Ingots","ru":"Поставка слитков зеркального железа в огромных объёмах"}
-{"id":"home_exchange_order:4827783758872832","en":"Bulk Supply of Sky Iron Ingots","ru":"Поставка слитков небесного железа в больших объёмах"}
+{"id":"home_exchange_order:4827783758872832","en":"Mass Supply of Sky Iron Ingots","ru":"Поставка слитков небесного железа в огромных объёмах"}
 {"id":"home_exchange_order:4827788053840128","en":"Mass Supply of Moonlight Hemp Cloth","ru":"Поставка ткани из лунной конопли в огромных объёмах"}
 {"id":"home_exchange_order:4827792348807424","en":"Mass Supply of Spiderfluff Cloth","ru":"Поставка ткани из паутинного пуха в огромных объёмах"}
 {"id":"home_exchange_order:4827796643774720","en":"Mass Supply of Rough Leather","ru":"Поставка грубой кожи в огромных объёмах"}
